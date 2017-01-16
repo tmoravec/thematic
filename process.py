@@ -40,8 +40,8 @@ from sklearn.metrics import silhouette_score
 # Try DBSCAN algorithm for clustering.
 # Try Affinity Propagation for clustering too.
 
-PAGE = 'laphroaig'
-N_CLUSTERS = 10
+PAGE = 'psychologytoday'
+N_CLUSTERS = 20
 
 
 def plot_2_arrays(a1, a2):
@@ -206,13 +206,21 @@ def print_clusters(clusters):
         used = []
         return [x for x in s[:100] if x[0] not in used and (used.append(x[0]) or True)]
 
+    def count_vectorize(corpus):
+        stop_words = set(stopwords.words('english'))
+        vectorizer = CountVectorizer(stop_words=stop_words, max_features=10, ngram_range=(1, 1))
+        features = vectorizer.fit_transform(corpus)
+        return vectorizer.get_feature_names()
+
+
     for cluster, items in clusters.items():
         print('\nCluster ', cluster)
         print('Messages: {}'.format(len(items['messages'])))
         print('Likes:    {} +- {} ({}%)'.format(*list_stats(items['likes'])))
         print('Comments: {} +- {} ({}%)'.format(*list_stats(items['comments'])))
         print('Shares:   {} +- {} ({}%)'.format(*list_stats(items['shares'])))
-        print('Important words: ', highest_number_items(items['features']))
+        #print('Important words: ', highest_number_items(items['features']))
+        print('Important words: ', count_vectorize([' '.join(items['messages'])]))
         # TODO: vectorize items['messages']...
 
         try:

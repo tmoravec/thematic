@@ -31,8 +31,11 @@ from sklearn.cluster import DBSCAN
 from sklearn.cluster import AffinityPropagation
 from sklearn.cluster import MeanShift
 from sklearn.cluster import SpectralClustering
+from sklearn.cluster import AgglomerativeClustering
 from sklearn.mixture import GaussianMixture  # Very slow. One huge cluster.
 from sklearn.metrics import silhouette_score
+from sklearn.neighbors import kneighbors_graph
+
 
 
 # TODO:
@@ -41,7 +44,7 @@ from sklearn.metrics import silhouette_score
 # Try Affinity Propagation for clustering too.
 
 PAGE = 'psychologytoday'
-N_CLUSTERS = 20
+N_CLUSTERS = 25
 
 
 def plot_2_arrays(a1, a2):
@@ -264,18 +267,21 @@ def most_important_features(tf, vectorizer):
 
 def text_clustering(raw_data):
     likes, comments, shares, tf, msgs, vectorizer = text_features(raw_data)
+    tf_array = tf.toarray()
 
     #visualize_tfidf(msgs, tf, vectorizer)
     #sys.exit()
 
+    print(time.ctime(), 'Generating the neighbors graph.')
+    neighbors = kneighbors_graph(tf_array, 5, n_jobs=4)
 
-    #predictor = MiniBatchKMeans(n_clusters=20, init='k-means++', n_init=10, init_size=1000, batch_size=100)
+    predictor = MiniBatchKMeans(n_clusters=N_CLUSTERS, init='k-means++', n_init=10, init_size=1000, batch_size=100)
+    predictor = AgglomerativeClustering(n_clusters=N_CLUSTERS, connectivity=neighbors, linkage='ward', affinity='euclidean')
     #predictor = DBSCAN(eps=1, min_samples=5, n_jobs=4)
-    predictor = SpectralClustering(n_clusters=N_CLUSTERS, assign_labels='kmeans', n_jobs=4)
+    #predictor = SpectralClustering(n_clusters=N_CLUSTERS, assign_labels='kmeans', n_jobs=4)
     #predictor = MeanShift(cluster_all=False, n_jobs=4, min_bin_freq=3)
     #predictor = AffinityPropagation(damping=0.5)
     #predictor = GaussianMixture(n_components=20, n_init=1, verbose=2)
-    tf_array = tf.toarray()
 
     print(time.ctime(), 'Starting to fit.')
     labels = predictor.fit_predict(tf_array)

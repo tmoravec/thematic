@@ -6,8 +6,8 @@ from pprint import pprint
 import pickle
 
 
-TOKEN = 'EAACEdEose0cBAHBJaeNw3NG9no9SVjFHECJe3C4vuv4hRhDCbNfspVORh5W4fBToEPaYWUdCpLpIPK7p8o0pKih17ZCL4pVehmYE1wT0ZCecdKSTRsZCLoLTahEVHa985tyIwL5ydAQHc3HTqS6AxGHJkVnwKYv1F6MWaWZBKgZDZD'
-PAGE = 'DonaldTrump'
+TOKEN = 'EAACEdEose0cBAM7GSUVhwS5IjRkLJY3TKt6FiMmJSRfes0ZBw42Qb4XtT6WuzzuxjXSGL4BZCJKuDbGjJRIjgzZAPleFelOSmLk4APXZC4jv2TaFi9xuOqur6ITkh2GSpDDqo8InFw9qz44sU4SnBSpZAZAZCEfeZCZAfFaSxw5mXvQZDZD'
+PAGE = 'psychologytoday'
 URL = 'https://graph.facebook.com/v2.8/' + PAGE + '?fields={}&access_token=' + TOKEN
 DIRECTORY = 'pages-' + PAGE
 FILE_NAME = DIRECTORY + '/page-{}.json'
@@ -51,7 +51,7 @@ def main():
     fan_count = get_single_value(URL.format('fan_count'), 'fan_count')
 
     queries = {
-               'feed': 'feed{message,link,likes.limit(0).summary(true),comments.limit(0).summary(true),shares,description,name}',
+               'feed': 'posts{message,link,likes.limit(0).summary(true),comments.limit(0).summary(true),shares,description,name}',
                'videos': 'videos',
                'photos': 'photos',
                }

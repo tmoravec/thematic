@@ -40,6 +40,9 @@ from sklearn.metrics import silhouette_score
 # Try DBSCAN algorithm for clustering.
 # Try Affinity Propagation for clustering too.
 
+PAGE = 'laphroaig'
+N_CLUSTERS = 10
+
 
 def plot_2_arrays(a1, a2):
     pyplot.scatter(a1, a2)
@@ -48,7 +51,7 @@ def plot_2_arrays(a1, a2):
 
 
 def load_data():
-    with open('psychologytoday.pkl', 'rb') as f:
+    with open(PAGE + '.pkl', 'rb') as f:
         return pickle.load(f)
 
 
@@ -107,13 +110,17 @@ def text_features(raw_data):
     likes = []
     comments = []
     for item in raw_data['feed']:
-        if ('message' in item and 'shares' in item and 'description' in item and
-                'name' in item and 'likes' in item and 'comments' in item):
+        if ('message' in item and 'shares' in item and 'likes' in item and
+                'comments' in item):
             if item['message'] in unique_msgs:
                 continue
 
             unique_msgs.add(item['message'])
-            text = ' '.join([item['message'], item['name'], item['description']])
+            text = item['message']
+            if 'name' in item:
+                text += ' ' + item['name']
+            if 'description' in item:
+                text += ' ' + item['description']
             texts.append(text)
             messages.append(process_message(text))
 
@@ -256,7 +263,7 @@ def text_clustering(raw_data):
 
     #predictor = MiniBatchKMeans(n_clusters=20, init='k-means++', n_init=10, init_size=1000, batch_size=100)
     #predictor = DBSCAN(eps=1, min_samples=5, n_jobs=4)
-    predictor = SpectralClustering(n_clusters=25, assign_labels='kmeans', n_jobs=4)
+    predictor = SpectralClustering(n_clusters=N_CLUSTERS, assign_labels='kmeans', n_jobs=4)
     #predictor = MeanShift(cluster_all=False, n_jobs=4, min_bin_freq=3)
     #predictor = AffinityPropagation(damping=0.5)
     #predictor = GaussianMixture(n_components=20, n_init=1, verbose=2)

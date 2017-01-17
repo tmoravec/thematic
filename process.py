@@ -4,8 +4,6 @@ import sys
 import pickle
 from matplotlib import pyplot
 import numpy as np
-import scipy
-from pprint import pprint
 import string
 import time
 from collections import Counter
@@ -38,13 +36,8 @@ from sklearn.neighbors import kneighbors_graph
 
 
 
-# TODO:
-# Evaluate the clusters using Silhouette Coefficient.
-# Try DBSCAN algorithm for clustering.
-# Try Affinity Propagation for clustering too.
-
 PAGE = 'psychologytoday'
-N_CLUSTERS = 25
+N_CLUSTERS = 30
 
 
 def plot_2_arrays(a1, a2):
@@ -99,7 +92,7 @@ def process_message(msg):
 def vectorize(messages):
     stop_words = set(stopwords.words('english'))
     print(time.ctime(), 'Starting to vectorize.')
-    vectorizer = TfidfVectorizer(stop_words=stop_words, max_features=500000, ngram_range=(1, 1))
+    vectorizer = TfidfVectorizer(stop_words=stop_words, max_features=5000, ngram_range=(1, 1), norm='l2')
     features = vectorizer.fit_transform(messages)
 
     return features, vectorizer
@@ -136,43 +129,6 @@ def text_features(raw_data):
     return np.array(likes), np.array(comments), np.array(shares), features, texts, vectorizer
 
 
-
-class FeaturesSelectTransformer(TransformerMixin):
-    def __init__(self, features=500):
-        self.features = features
-
-    def transform(self, X, y=None):
-        transformed = self._selector.transform(X)
-        return transformed
-
-    def fit(self, X, y=None):
-        self._selector = SelectKBest(chi2, self.features)
-        self._selector.fit(X, y)
-
-        return self
-
-    def set_params(self, features=1000):
-        self.features = features
-
-    def get_params(self, deep=False):
-        return {'features': self.features}
-
-
-class FeaturesPCATransformer(TransformerMixin):
-    def __init__(self):
-        pass
-
-    def transform(self, X, y=None):
-        transformed = self._selector.transform(X)
-        return transformed
-
-    def fit(self, X, y=None):
-        self._selector = KernelPCA(n_components=100)
-        self._selector.fit(X, y)
-
-        return self
-
-
 def most_common_words(corpus):
     # Get most "important" words according to Tfidf?
     words = corpus.split()
@@ -181,14 +137,6 @@ def most_common_words(corpus):
     word_counts = Counter(cleaned)
     ordered = sorted(word_counts.items(), key=lambda x: x[1], reverse=True)
     return ordered[:10]
-
-
-def fans_regression(raw_data):
-    features = numeric_features(raw_data)
-    # n = np.array([distilleries, fan_count, photos, videos, messages])
-
-    print(features)
-    plot_2_arrays(features[4], features[1])
 
 
 def list_stats(L):
@@ -207,7 +155,8 @@ def print_clusters(clusters):
             all += i
         s = sorted(all, key=lambda x: x[1], reverse=True)
         used = []
-        return [x for x in s[:100] if x[0] not in used and (used.append(x[0]) or True)]
+        hnitems = [x[0] for x in s[:100] if x[0] not in used and (used.append(x[0]) or True)]
+        return hnitems[:10]
 
     def count_vectorize(corpus):
         stop_words = set(stopwords.words('english'))
@@ -222,9 +171,8 @@ def print_clusters(clusters):
         print('Likes:    {} +- {} ({}%)'.format(*list_stats(items['likes'])))
         print('Comments: {} +- {} ({}%)'.format(*list_stats(items['comments'])))
         print('Shares:   {} +- {} ({}%)'.format(*list_stats(items['shares'])))
-        #print('Important words: ', highest_number_items(items['features']))
+        print('Important features: ', highest_number_items(items['features']))
         print('Important words: ', count_vectorize([' '.join(items['messages'])]))
-        # TODO: vectorize items['messages']...
 
         try:
             for i in range(3):
@@ -232,18 +180,6 @@ def print_clusters(clusters):
         except IndexError:
             # There were less than 5 messages in this group.
             pass
-
-
-def visualize_tfidf(messages, tf, vectorizer):
-    #np.set_printoptions(threshold=np.nan)
-    tf_a = tf.toarray()
-    values = []
-    print(messages[2])
-    for i, v in enumerate(tf_a[2]):
-        if v > 0:
-            values.append((v, vectorizer.get_feature_names()[i]))
-
-    print(sorted(values, reverse=True))
 
 
 def most_important_features(tf, vectorizer):
@@ -269,23 +205,13 @@ def text_clustering(raw_data):
     likes, comments, shares, tf, msgs, vectorizer = text_features(raw_data)
     tf_array = tf.toarray()
 
-    #visualize_tfidf(msgs, tf, vectorizer)
-    #sys.exit()
-
     print(time.ctime(), 'Generating the neighbors graph.')
-    neighbors = kneighbors_graph(tf_array, 5, n_jobs=4)
+    neighbors = kneighbors_graph(tf_array, 2, include_self=False, n_jobs=4)
 
-    predictor = MiniBatchKMeans(n_clusters=N_CLUSTERS, init='k-means++', n_init=10, init_size=1000, batch_size=100)
     predictor = AgglomerativeClustering(n_clusters=N_CLUSTERS, connectivity=neighbors, linkage='ward', affinity='euclidean')
-    #predictor = DBSCAN(eps=1, min_samples=5, n_jobs=4)
-    #predictor = SpectralClustering(n_clusters=N_CLUSTERS, assign_labels='kmeans', n_jobs=4)
-    #predictor = MeanShift(cluster_all=False, n_jobs=4, min_bin_freq=3)
-    #predictor = AffinityPropagation(damping=0.5)
-    #predictor = GaussianMixture(n_components=20, n_init=1, verbose=2)
 
     print(time.ctime(), 'Starting to fit.')
     labels = predictor.fit_predict(tf_array)
-    #sys.exit(0)
 
     print(time.ctime(), 'Generating the clusters with values.')
     # {<cluster number>: {'likes': [...], 'comments': [...], 'messages': [...]}}
@@ -322,7 +248,6 @@ def main():
     raw_data = load_data()
 
     text_clustering(raw_data)
-    #fans_regression(raw_data)
 
 
 

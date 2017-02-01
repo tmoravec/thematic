@@ -30,6 +30,7 @@ from sklearn.cluster import AffinityPropagation
 from sklearn.cluster import MeanShift
 from sklearn.cluster import SpectralClustering
 from sklearn.cluster import AgglomerativeClustering
+from sklearn.cluster import Birch
 from sklearn.mixture import GaussianMixture  # Very slow. One huge cluster.
 from sklearn.metrics import silhouette_score
 from sklearn.neighbors import kneighbors_graph
@@ -37,7 +38,7 @@ from sklearn.neighbors import kneighbors_graph
 
 
 PAGE = 'psychologytoday'
-N_CLUSTERS = 30
+N_CLUSTERS = 25
 
 
 def plot_2_arrays(a1, a2):
@@ -206,9 +207,10 @@ def text_clustering(raw_data):
     tf_array = tf.toarray()
 
     print(time.ctime(), 'Generating the neighbors graph.')
-    neighbors = kneighbors_graph(tf_array, 2, include_self=False, n_jobs=4)
+    #neighbors = kneighbors_graph(tf_array, 2, include_self=False, n_jobs=4)
 
-    predictor = AgglomerativeClustering(n_clusters=N_CLUSTERS, connectivity=neighbors, linkage='ward', affinity='euclidean')
+    #predictor = AgglomerativeClustering(n_clusters=N_CLUSTERS, connectivity=neighbors, linkage='ward', affinity='euclidean')
+    predictor = Birch(threshold=0.9, branching_factor=1000, n_clusters=N_CLUSTERS)  # TODO: Test n_clusters=None
 
     print(time.ctime(), 'Starting to fit.')
     labels = predictor.fit_predict(tf_array)
@@ -238,9 +240,13 @@ def text_clustering(raw_data):
     print(time.ctime(), 'Printing...')
     print_clusters(clustered)
 
-    print(len(set(labels)), labels)
+    msgs_counts = [len(x['messages']) for x in clustered.values()]
+    print('Messages: ', msgs_counts)
+    print('Messages: {} +- {} ({}%)'.format(*list_stats(msgs_counts)))
+    print('Subclusters: ', len(predictor.subcluster_labels_))
+    print('Labels:      ', len(set(labels)), labels)
     print(time.ctime(), 'Starting to score.')
-    print(silhouette_score(tf_array, labels, metric='euclidean'))
+    print('Silhouette score: ', silhouette_score(tf_array, labels, metric='euclidean'))
 
 
 def main():

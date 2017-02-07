@@ -67,15 +67,18 @@ def main():
               }
 
     i = 0
-    for k, v in queries.items():
-        next_url = URL.format(v)
-        while '' != next_url:
-            content, next_url = get_page(next_url, k)
-            results[k] += content
+    try:
+        for k, v in queries.items():
+            next_url = URL.format(v)
+            while '' != next_url:
+                content, next_url = get_page(next_url, k)
+                results[k] += content
 
-            print('Got page {}'.format(i))
-            i += 1
-            time.sleep(1)
+                print('Got page {}'.format(i))
+                i += 1
+                time.sleep(1)
+    except KeyboardInterrupt:
+        pass
 
     results['fan_count'] = fan_count
 

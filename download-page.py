@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import json
 import requests
 import time
 from pprint import pprint
@@ -16,7 +17,10 @@ FILE_NAME = DIRECTORY + '/page-{}.json'
 def get_page(url, field_name):
     print('Getting page {}'.format(url))
     r = requests.get(url)
-    content = r.json()
+    try:
+        content = r.json()
+    except json.decoder.JSONDecodeError:
+        return [], ''
 
     next_url = ''
     try:

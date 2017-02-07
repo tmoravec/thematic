@@ -38,7 +38,7 @@ from sklearn.neighbors import kneighbors_graph
 
 
 PAGE = 'psychologytoday'
-N_CLUSTERS = 25
+N_CLUSTERS = 20
 
 
 def plot_2_arrays(a1, a2):
@@ -173,7 +173,7 @@ def print_clusters(clusters):
         print('Comments: {} +- {} ({}%)'.format(*list_stats(items['comments'])))
         print('Shares:   {} +- {} ({}%)'.format(*list_stats(items['shares'])))
         print('Important features: ', highest_number_items(items['features']))
-        print('Important words: ', count_vectorize([' '.join(items['messages'])]))
+        print('Common words:       ', count_vectorize([' '.join(items['messages'])]))
 
         try:
             for i in range(3):
@@ -207,10 +207,12 @@ def text_clustering(raw_data):
     tf_array = tf.toarray()
 
     print(time.ctime(), 'Generating the neighbors graph.')
-    #neighbors = kneighbors_graph(tf_array, 2, include_self=False, n_jobs=4)
+    neighbors = kneighbors_graph(tf_array, 2, include_self=False, n_jobs=4)
 
-    #predictor = AgglomerativeClustering(n_clusters=N_CLUSTERS, connectivity=neighbors, linkage='ward', affinity='euclidean')
-    predictor = Birch(threshold=0.9, branching_factor=1000, n_clusters=N_CLUSTERS)  # TODO: Test n_clusters=None
+    predictor = AgglomerativeClustering(n_clusters=N_CLUSTERS, connectivity=neighbors, linkage='ward', affinity='euclidean')
+    #predictor = Birch(threshold=0.9, branching_factor=1000, n_clusters=N_CLUSTERS)  # TODO: Test n_clusters=None
+    #predictor = DBSCAN(eps=0.9, min_samples=10, n_jobs=7)
+    #predictor = MiniBatchKMeans(n_clusters=N_CLUSTERS, n_init=3)
 
     print(time.ctime(), 'Starting to fit.')
     labels = predictor.fit_predict(tf_array)
@@ -243,7 +245,7 @@ def text_clustering(raw_data):
     msgs_counts = [len(x['messages']) for x in clustered.values()]
     print('Messages: ', msgs_counts)
     print('Messages: {} +- {} ({}%)'.format(*list_stats(msgs_counts)))
-    print('Subclusters: ', len(predictor.subcluster_labels_))
+    #print('Subclusters: ', len(predictor.subcluster_labels_))
     print('Labels:      ', len(set(labels)), labels)
     print(time.ctime(), 'Starting to score.')
     print('Silhouette score: ', silhouette_score(tf_array, labels, metric='euclidean'))

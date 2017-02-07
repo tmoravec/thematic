@@ -55,7 +55,7 @@ def main():
     fan_count = get_single_value(URL.format('fan_count'), 'fan_count')
 
     queries = {
-               'feed': 'feed{message,link,likes.limit(0).summary(true),comments.limit(0).summary(true),shares,description,name}',
+               'feed': 'feed{message,link,likes.limit(0).summary(true),comments.limit(0).summary(true),shares,description,name,created_time}',
                'videos': 'videos',
                'photos': 'photos',
                }

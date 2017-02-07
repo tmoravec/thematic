@@ -38,6 +38,7 @@ from sklearn.neighbors import kneighbors_graph
 
 
 PAGE = 'psychologytoday'
+SINCE = '2015-01-01T00:00:00+0000'
 N_CLUSTERS = 20
 
 
@@ -107,6 +108,13 @@ def text_features(raw_data):
     likes = []
     comments = []
     for item in raw_data['feed']:
+
+        # Skip posts older than SINCE
+        if 'created_time' in item:
+            t = time.strptime(item['created_time'], '%Y-%m-%dT%H:%M:%S%z')
+            if t < time.strptime(SINCE, '%Y-%m-%dT%H:%M:%S%z'):
+                continue
+
         if ('message' in item and 'shares' in item and 'likes' in item and
                 'comments' in item):
             if item['message'] in unique_msgs:

@@ -12,34 +12,15 @@ from nltk.stem.snowball import SnowballStemmer
 from nltk.corpus import stopwords
 
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
-from sklearn.feature_selection import SelectKBest
-from sklearn.feature_selection import chi2
-from sklearn.base import TransformerMixin
-from sklearn.decomposition import KernelPCA
-from sklearn.naive_bayes import GaussianNB, MultinomialNB
-from sklearn.pipeline import Pipeline
-from sklearn.linear_model import LinearRegression, SGDRegressor
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import explained_variance_score, r2_score
-from sklearn.model_selection import GridSearchCV, KFold
-from sklearn.preprocessing import MinMaxScaler, MaxAbsScaler
-from sklearn.svm import SVR
-from sklearn.cluster import KMeans, MiniBatchKMeans  # MiniBatchKMeans very fast. Quite evenly distributed.
-from sklearn.cluster import DBSCAN
-from sklearn.cluster import AffinityPropagation
-from sklearn.cluster import MeanShift
-from sklearn.cluster import SpectralClustering
 from sklearn.cluster import AgglomerativeClustering
-from sklearn.cluster import Birch
-from sklearn.mixture import GaussianMixture  # Very slow. One huge cluster.
 from sklearn.metrics import silhouette_score
-from sklearn.neighbors import kneighbors_graph
-
-
+from sklearn.decomposition import TruncatedSVD
+from sklearn.preprocessing import Normalizer
+from sklearn.pipeline import make_pipeline
 
 PAGE = 'psychologytoday'
-SINCE = '2015-01-01T00:00:00+0000'
-N_CLUSTERS = 20
+SINCE = '2000-01-01T00:00:00+0000'
+N_CLUSTERS = 25
 
 
 def plot_2_arrays(a1, a2):
@@ -48,28 +29,21 @@ def plot_2_arrays(a1, a2):
     sys.exit()
 
 
+def plot_clusters(features, labels):
+    svd = TruncatedSVD(2)
+    d2 = svd.fit_transform(features)
+
+    xs = [x[0] for x in d2]
+    ys = [x[1] for x in d2]
+
+    pyplot.scatter(xs, ys, c=labels)
+    pyplot.show()
+    sys.exit()
+
+
 def load_data():
     with open(PAGE + '.pkl', 'rb') as f:
         return pickle.load(f)
-
-
-def numeric_features(raw_data):
-    i = 0
-    distilleries = []
-    fan_count = []
-    photos = []
-    videos = []
-    messages = []
-    for k, v in raw_data.items():
-        distilleries.append(i)
-        fan_count.append(v['fan_count'])
-        photos.append(len(v['photos']))
-        videos.append(len(v['videos']))
-        messages.append(len(v['feed']))
-        i += 1
-
-    n = np.array([distilleries, fan_count, photos, videos, messages])
-    return n
 
 
 def process_message(msg):
@@ -88,13 +62,21 @@ def process_message(msg):
         if not (s.startswith('http') or s.startswith('www')):
             no_www.append(s)
 
-    return ' '.join(no_www)
+    no_numbers = []
+    for w in no_www:
+        if w.isalpha():
+            no_numbers.append(w)
+
+    return ' '.join(no_numbers)
 
 
 def vectorize(messages):
     stop_words = set(stopwords.words('english'))
     print(time.ctime(), 'Starting to vectorize.')
-    vectorizer = TfidfVectorizer(stop_words=stop_words, max_features=5000, ngram_range=(1, 1), norm='l2')
+
+    # sublinear_tf recommended by TruncatedSVD documentation for use with
+    # TruncatedSVD
+    vectorizer = TfidfVectorizer(stop_words=stop_words, max_features=30000, ngram_range=(1, 2), norm='l2', sublinear_tf=True)
     features = vectorizer.fit_transform(messages)
 
     return features, vectorizer
@@ -138,14 +120,16 @@ def text_features(raw_data):
     return np.array(likes), np.array(comments), np.array(shares), features, texts, vectorizer
 
 
-def most_common_words(corpus):
-    # Get most "important" words according to Tfidf?
+def most_common_words(corpus, n=10):
+    """
+    Select n most common words from a given corpus.
+    """
     words = corpus.split()
     stop_words = set(stopwords.words('english'))
     cleaned = [w for w in words if w not in stop_words]
     word_counts = Counter(cleaned)
     ordered = sorted(word_counts.items(), key=lambda x: x[1], reverse=True)
-    return ordered[:10]
+    return ordered[:n]
 
 
 def list_stats(L):
@@ -156,30 +140,34 @@ def list_stats(L):
     return mean, std, pct_rstd
 
 
+def highest_number_items(items, max_count=100):
+    """
+    From a nested list, with leaves formed of tuples (whatever, number),
+    selects up to max_count tuples with highest number, globally.
+    """
+    all = []
+    for i in items:
+        all += i
+    s = sorted(all, key=lambda x: x[1], reverse=True)
+    used = []
+    hnitems = [x[0] for x in s[:max_count] if x[0] not in used and (used.append(x[0]) or True)]
+    return hnitems[:10]
+
+
+def count_vectorize(corpus):
+    stop_words = set(stopwords.words('english'))
+    vectorizer = CountVectorizer(stop_words=stop_words, max_features=10, ngram_range=(1, 2))
+    features = vectorizer.fit_transform(corpus)
+    return vectorizer.get_feature_names()
+
+
 def print_clusters(clusters):
-
-    def highest_number_items(items):
-        all = []
-        for i in items:
-            all += i
-        s = sorted(all, key=lambda x: x[1], reverse=True)
-        used = []
-        hnitems = [x[0] for x in s[:100] if x[0] not in used and (used.append(x[0]) or True)]
-        return hnitems[:10]
-
-    def count_vectorize(corpus):
-        stop_words = set(stopwords.words('english'))
-        vectorizer = CountVectorizer(stop_words=stop_words, max_features=10, ngram_range=(1, 1))
-        features = vectorizer.fit_transform(corpus)
-        return vectorizer.get_feature_names()
-
-
     for cluster, items in clusters.items():
         print('\nCluster ', cluster)
         print('Messages: {}'.format(len(items['messages'])))
-        print('Likes:    {} +- {} ({}%)'.format(*list_stats(items['likes'])))
-        print('Comments: {} +- {} ({}%)'.format(*list_stats(items['comments'])))
-        print('Shares:   {} +- {} ({}%)'.format(*list_stats(items['shares'])))
+        print('Likes:    {:.0f} +- {:.0f} ({:.0f}%)'.format(*list_stats(items['likes'])))
+        print('Comments: {:.0f} +- {:.0f} ({:.0f}%)'.format(*list_stats(items['comments'])))
+        print('Shares:   {:.0f} +- {:.0f} ({:.0f}%)'.format(*list_stats(items['shares'])))
         print('Important features: ', highest_number_items(items['features']))
         print('Common words:       ', count_vectorize([' '.join(items['messages'])]))
 
@@ -191,43 +179,44 @@ def print_clusters(clusters):
             pass
 
 
-def most_important_features(tf, vectorizer):
+def most_important_features(tf, vectorizer, max_count=10, threshold=0.3):
+    """
+    Selects highest value features from the corpus obtained with Tfidf.
+    """
     highest = sorted(tf, reverse=True)
 
     words = []
     for i, n in enumerate(highest):
-        if i > 9:
+        if i > max_count - 1:
             break
-        if n < 0.5:
+        if n < threshold:
             break
 
-        index = np.where(tf==n)[0][0]
+        index = np.where(tf == n)[0][0]
         word = vectorizer.get_feature_names()[index]
         words.append([word, n])
 
     return words
 
 
-
-
 def text_clustering(raw_data):
     likes, comments, shares, tf, msgs, vectorizer = text_features(raw_data)
-    tf_array = tf.toarray()
 
-    print(time.ctime(), 'Generating the neighbors graph.')
-    neighbors = kneighbors_graph(tf_array, 2, include_self=False, n_jobs=4)
+    svd_components = 200
+    print(time.ctime(), 'Generating {} LSA components and normalizing'.format(svd_components))
+    svd = TruncatedSVD(svd_components)
+    normalizer = Normalizer(copy=False)
+    lsa = make_pipeline(svd, normalizer)
+    X = lsa.fit_transform(tf)
 
-    predictor = AgglomerativeClustering(n_clusters=N_CLUSTERS, connectivity=neighbors, linkage='ward', affinity='euclidean')
-    #predictor = Birch(threshold=0.9, branching_factor=1000, n_clusters=N_CLUSTERS)  # TODO: Test n_clusters=None
-    #predictor = DBSCAN(eps=0.9, min_samples=10, n_jobs=7)
-    #predictor = MiniBatchKMeans(n_clusters=N_CLUSTERS, n_init=3)
-
+    predictor = AgglomerativeClustering(n_clusters=N_CLUSTERS, connectivity=None, linkage='ward', affinity='euclidean')
     print(time.ctime(), 'Starting to fit.')
-    labels = predictor.fit_predict(tf_array)
+    labels = predictor.fit_predict(X)
 
     print(time.ctime(), 'Generating the clusters with values.')
     # {<cluster number>: {'likes': [...], 'comments': [...], 'messages': [...]}}
     clustered = {}
+    tf_array = tf.toarray()
     for i, r in enumerate(labels):
         if r not in clustered:
             clustered[r] = {
@@ -251,18 +240,17 @@ def text_clustering(raw_data):
     print_clusters(clustered)
 
     msgs_counts = [len(x['messages']) for x in clustered.values()]
+    print('\n\n')
     print('Messages: ', msgs_counts)
-    print('Messages: {} +- {} ({}%)'.format(*list_stats(msgs_counts)))
-    #print('Subclusters: ', len(predictor.subcluster_labels_))
+    print('Messages: {:.0f} +- {:.0f} ({:.0f}%)'.format(*list_stats(msgs_counts)))
     print('Labels:      ', len(set(labels)), labels)
     print(time.ctime(), 'Starting to score.')
-    print('Silhouette score: ', silhouette_score(tf_array, labels, metric='euclidean'))
+    print('Silhouette score: ', silhouette_score(X, labels, metric='euclidean'))
 
 
 def main():
     print(time.ctime(), 'Loading data.')
     raw_data = load_data()
-
     text_clustering(raw_data)
 
 

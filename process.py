@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+from collections import OrderedDict
 import json
 import sys
 import pickle
@@ -199,7 +200,7 @@ def print_clusters(clusters, use_json=True):
             messages = '[{}]'.format(','.join(messages))
 
             c = template.format(
-                number=cluster,
+                number=cluster + 1,  # Users expect lists starting with 1.
                 important=important,
                 common=common,
                 messages=messages,
@@ -297,6 +298,7 @@ def text_clustering(raw_data):
         # Less most important features suggest better defined cluster? Or just a smaller cluster?
         clustered[r]['features'].append(most_important_features(tf_array[i], vectorizer))
 
+    clustered = OrderedDict(sorted(clustered.items()))
     print(time.ctime(), 'Printing...')
     print_clusters(clustered)
 

@@ -26,11 +26,11 @@ var header = Vue.component('vue-header', {
     props: ['pagename'],
 
     data: function() {
-        return { pagename: ''}
+        return { pagename: '...'}
     },
 
     created: function() {
-        this.pagename = '';
+        this.pagename = '...';
     }
 });
 

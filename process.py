@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import json
 import sys
 import pickle
 from matplotlib import pyplot
@@ -161,22 +162,82 @@ def count_vectorize(corpus):
     return vectorizer.get_feature_names()
 
 
-def print_clusters(clusters):
-    for cluster, items in clusters.items():
-        print('\nCluster ', cluster)
-        print('Messages: {}'.format(len(items['messages'])))
-        print('Likes:    {:.0f} +- {:.0f} ({:.0f}%)'.format(*list_stats(items['likes'])))
-        print('Comments: {:.0f} +- {:.0f} ({:.0f}%)'.format(*list_stats(items['comments'])))
-        print('Shares:   {:.0f} +- {:.0f} ({:.0f}%)'.format(*list_stats(items['shares'])))
-        print('Important features: ', highest_number_items(items['features']))
-        print('Common words:       ', count_vectorize([' '.join(items['messages'])]))
+def print_clusters(clusters, use_json=True):
+    if use_json:
+        template = \
+'''
+        {{
+            "number": {number},
+            "important": {important},
+            "common": {common},
+            "messages": {messages},
+            "likes_avg": {likes_avg:.0f},
+            "likes_stdev": {likes_stdev:.0f},
+            "comments_avg": {comments_avg:.0f},
+            "comments_stdev": {comments_stdev:.0f},
+            "shares_avg": {shares_avg:.0f},
+            "shares_stdev": {shares_stdev:.0f}
+        }} '''
 
-        try:
-            for i in range(3):
-                print('Message {}: {}'.format(i, items['messages'][i]))
-        except IndexError:
-            # There were less than 5 messages in this group.
-            pass
+        ret = \
+'''
+{{
+    "pagename": {pagename},
+    "clusters":
+    [
+'''.format(pagename='"{}"'.format(PAGE))
+
+        formatted_clusters = []
+        for cluster, items in clusters.items():
+            important = ['"{}"'.format(i) for i in highest_number_items(items['features'])]
+            important = '[{}]'.format(','.join(important))
+
+            common = ['"{}"'.format(i) for i in count_vectorize([' '.join(items['messages'])])]
+            common = '[{}]'.format(','.join(common))
+
+            messages = [json.dumps(i) for i in items['messages']]
+            messages = '[{}]'.format(','.join(messages))
+
+            c = template.format(
+                number=cluster,
+                important=important,
+                common=common,
+                messages=messages,
+                likes_avg=list_stats(items['likes'])[0],
+                likes_stdev=list_stats(items['likes'])[1],
+                comments_avg=list_stats(items['comments'])[0],
+                comments_stdev=list_stats(items['comments'])[1],
+                shares_avg=list_stats(items['shares'])[0],
+                shares_stdev=list_stats(items['shares'])[1]
+            )
+            formatted_clusters.append(c)
+
+        ret += ',\n'.join(formatted_clusters)
+        ret += \
+'''
+    ]
+}
+'''
+        with open('www/clusters.json', 'w') as f:
+            f.write(ret)
+
+
+    else:
+        for cluster, items in clusters.items():
+            print('\nCluster ', cluster)
+            print('Messages: {}'.format(len(items['messages'])))
+            print('Likes:    {:.0f} +- {:.0f} ({:.0f}%)'.format(*list_stats(items['likes'])))
+            print('Comments: {:.0f} +- {:.0f} ({:.0f}%)'.format(*list_stats(items['comments'])))
+            print('Shares:   {:.0f} +- {:.0f} ({:.0f}%)'.format(*list_stats(items['shares'])))
+            print('Important features: ', highest_number_items(items['features']))
+            print('Common words:       ', count_vectorize([' '.join(items['messages'])]))
+
+            try:
+                for i in range(3):
+                    print('Message {}: {}'.format(i, items['messages'][i]))
+            except IndexError:
+                # There were less than 5 messages in this group.
+                pass
 
 
 def most_important_features(tf, vectorizer, max_count=10, threshold=0.3):

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>fb-analytics</title>
+
+    <!--<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">-->
+	<link rel="stylesheet" type="text/css" href="css/styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+
+	<div id="main">
+
+        <app>
+
+        </app>
+
+    </div>
+
+
+    <!--
+        Templates.
+    -->
+
+    <template id="app">
+        <div class="container">
+
+            <div class="header">
+                <vue-header :pagename="pagename"></vue-header>
+            </div>
+
+            <div class="content">
+                <clusters :clusters="clusters"></clusters>
+            </div>
+
+        </div>
+
+    </template>
+
+
+
+    <template id="vue-header">
+        <div class="header-title">Analyzing {{ pagename }}</div>
+    </template>
+
+
+
+    <template id="clusters">
+
+        <div class="clusters">
+
+            <div v-for="i in clusters" class="cluster">
+                <cluster :item="i"></cluster>
+            </div>
+
+        </div>
+
+    </template>
+
+
+
+    <template id="cluster">
+
+        <div >
+
+            <div class="cluster-header">
+
+                <div class="cluster-title">Cluster {{ item.number }}</div>
+
+                <div class="cluster-stats">
+                    <div class="cluster-stats-header">Most important words</div>
+                    <div class="cluster-stats-values">
+                        <div v-for="i in item.important" class="word">{{ i }}</div>
+                    </div>
+                    <div class="cluster-stats-header">Most common words</div>
+                    <div class="cluster-stats-values">
+                        <div v-for="i in item.common" class="word">{{ i }}</div>
+                    </div>
+                    <div class="cluster-stats-header">Messages statistics</div>
+                        <div class="cluster-stats-values">
+                            {{ item.messages.length }} messages.  
+                            Likes: {{ item.likes_avg }} +- {{ item.likes_stdev }}, 
+                            Comments: {{ item.comments_avg }} +- {{ item.comments_stdev }},
+                            Shares: {{ item.shares_avg }} +- {{ item.shares_stdev }}
+                        </div>
+                </div>
+
+            </div>  <!-- cluster-header -->
+
+            <span v-on:click="toggleMessages" class="show-messages">{{ showMessages ? "[-] Hide" : "[+] Show" }} messages.</span>
+
+            <div v-if="showMessages" class="cluster-messages">
+
+                <ol class="messages">
+                    <li v-for="i in item.messages">
+                        <span>{{ i }}</span>
+                    </li>
+                </ol>
+
+            </div>
+
+        </div>
+    </template>
+
+
+
+    <template id="word">
+
+
+
+    </template>
+
+
+
+	<script src="js/vue.js"></script>
+	<script src="js/vue-resource.min.js"></script>
+	<script src="js/script.js"></script>
+
+</body>
+</html>

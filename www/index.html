@@ -11,9 +11,9 @@
 
 	<div id="main">
 
-        <app>
+        <intropage>
 
-        </app>
+        </intropage>
 
     </div>
 
@@ -22,91 +22,42 @@
         Templates.
     -->
 
-    <template id="app">
+    <template id="intropage">
         <div class="container">
 
             <div class="header">
-                <vue-header :pagename="pagename"></vue-header>
+                <div class="header-title">Topic analyst</div>
             </div>
 
             <div class="content">
-                <clusters :clusters="clusters"></clusters>
-            </div>
-
-        </div>
-
-    </template>
-
-
-
-    <template id="vue-header">
-        <div class="header-title">Analyzing {{ pagename }}</div>
-    </template>
-
-
-
-    <template id="clusters">
-
-        <div class="clusters">
-
-            <div v-for="i in clusters" class="cluster">
-                <cluster :item="i"></cluster>
-            </div>
-
-        </div>
-
-    </template>
-
-
-
-    <template id="cluster">
-
-        <div >
-
-            <div class="cluster-header">
-
-                <div class="cluster-title">Cluster {{ item.number }}</div>
-
-                <div class="cluster-stats">
-                    <div class="cluster-stats-header">Most important words</div>
-                    <div class="cluster-stats-values">
-                        <div v-for="i in item.important" class="word">{{ i }}</div>
+                <div class="intro-page-content">
+                    <div class="intro-explanation">
+                        Topic analyst looks at a Facebook page and applies
+                        Machine Learning to group posts by topic.
+                        At a glance, we can see what a huge page is about
+                        and we can run some statistics to see what topics
+                        are interesting for it's fans.
                     </div>
-                    <div class="cluster-stats-header">Most common words</div>
-                    <div class="cluster-stats-values">
-                        <div v-for="i in item.common" class="word">{{ i }}</div>
-                    </div>
-                    <div class="cluster-stats-header">Messages statistics</div>
-                        <div class="cluster-stats-values">
-                            {{ item.messages.length }} messages.  
-                            Likes: {{ item.likes_avg }} +- {{ item.likes_stdev }}, 
-                            Comments: {{ item.comments_avg }} +- {{ item.comments_stdev }},
-                            Shares: {{ item.shares_avg }} +- {{ item.shares_stdev }}
+                    <div class="select-wrapper">
+                        <div class="select-header">Select page:</div>
+                        <div class="select-pages-wrapper">
+                            <div v-for="i in pages">
+                                <pagelink :pagename="i"></pagelink>
+                            </div>
                         </div>
+                    </div>
                 </div>
-
-            </div>  <!-- cluster-header -->
-
-            <span v-on:click="toggleMessages" class="show-messages">{{ showMessages ? "[-] Hide" : "[+] Show" }} messages.</span>
-
-            <div v-if="showMessages" class="cluster-messages">
-
-                <ol class="messages">
-                    <li v-for="i in item.messages">
-                        <span>{{ i }}</span>
-                    </li>
-                </ol>
-
             </div>
 
         </div>
+
     </template>
 
 
 
-    <template id="word">
+    <template id="pagelink">
 
-
+        <div class="select-page" v-on:click="loadPage">{{ pagename }}</div>
 
     </template>
 

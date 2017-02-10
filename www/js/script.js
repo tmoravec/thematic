@@ -1,6 +1,50 @@
-var app = Vue.component('app', {
+function getParameterByName(name, url) {
+    if (!url) {
+      url = window.location.href;
+    }
+    name = name.replace(/[\[\]]/g, "\\$&");
+    var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+        results = regex.exec(url);
+    if (!results) return null;
+    if (!results[2]) return '';
+    return decodeURIComponent(results[2].replace(/\+/g, " "));
+}
 
-    template: '#app',
+
+var intropage = Vue.component('intropage', {
+
+    template: '#intropage',
+    
+    data: function() {
+        return {
+            pages: []
+        }
+    },
+
+    created: function() {
+        this.$http.get('clusters/index.json')
+        .then(function(resp) {
+            data = JSON.parse(resp.data);
+            this.pages = data;
+        })
+    },
+});
+
+var pagelink = Vue.component('pagelink', {
+
+    template: '#pagelink',
+    props: ['pagename'],
+
+    methods: {
+        loadPage: function() {
+            document.location.href = "page.html?page=" + this.pagename;
+        }
+    }
+});
+
+var fbpage = Vue.component('fbpage', {
+
+    template: '#fbpage',
 
     data: function() {
         return {
@@ -10,7 +54,12 @@ var app = Vue.component('app', {
     },
 
     created: function() {
-        this.$http.get('http://localhost:8000/clusters.json')
+        var page = getParameterByName('page');
+        if (!page) {
+            page = 'clusters';
+        }
+
+        this.$http.get('clusters/' + page + '.json')
         .then(function(resp) {
             data = JSON.parse(resp.data);
             this.pagename = data.pagename;

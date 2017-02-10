@@ -80,6 +80,12 @@ var header = Vue.component('vue-header', {
 
     created: function() {
         this.pagename = '...';
+    },
+
+    methods: {
+        back: function() {
+            window.history.back();
+        }
     }
 });
 
@@ -119,6 +125,12 @@ var cluster = Vue.component('cluster', {
 
 Vue.filter('uppercase', function(value) {
     return value.toUpperCase();
+});
+
+Vue.filter('formatDate', function(value) {
+    var d = new Date(value * 1000);
+    var s = d.getFullYear() + "/" + d.getMonth();
+    return s;
 });
 
 

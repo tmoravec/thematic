@@ -4,7 +4,8 @@
 	<title>fb-analytics</title>
 
     <!--<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">-->
-	<link rel="stylesheet" type="text/css" href="css/styles.css">
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
@@ -40,7 +41,10 @@
 
 
     <template id="vue-header">
-        <div class="header-title">Analyzing {{ pagename }}</div>
+	<div class="header-wrapper">
+	    <div class="header-arrow material-icons" v-on:click="back">arrow_back</div>
+	    <div class="header-title">Analyzing {{ pagename }}</div>
+	</div>
     </template>
 
 
@@ -84,7 +88,8 @@
                             {{ item.messages.length }} messages.  
                             Likes: {{ item.likes_avg }} +- {{ item.likes_stdev }}, 
                             Comments: {{ item.comments_avg }} +- {{ item.comments_stdev }},
-                            Shares: {{ item.shares_avg }} +- {{ item.shares_stdev }}
+                            Shares: {{ item.shares_avg }} +- {{ item.shares_stdev }}.
+			    Roughly from {{ item.dates_start | formatDate }} to {{ item.dates_end | formatDate }}.
                         </div>
 			<!-- TODO: when was most of the messages written -->
                 </div>
@@ -97,7 +102,7 @@
 
                 <ol class="messages">
                     <li v-for="i in item.messages">
-                        <span>{{ i }}</span>
+                        <span>{{ i[0] }}</span>
                     </li>
                 </ol>
 

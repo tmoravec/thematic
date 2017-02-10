@@ -20,7 +20,7 @@ from sklearn.decomposition import TruncatedSVD
 from sklearn.preprocessing import Normalizer
 from sklearn.pipeline import make_pipeline
 
-PAGE = 'psychologytoday'
+PAGE = 'zkazycasu'
 SINCE = '2000-01-01T00:00:00+0000'
 N_CLUSTERS = 25
 
@@ -91,6 +91,7 @@ def text_features(raw_data):
     shares = []
     likes = []
     comments = []
+    dates = []
     for item in raw_data['feed']:
 
         # Skip posts older than SINCE
@@ -116,10 +117,12 @@ def text_features(raw_data):
             shares.append(item['shares']['count'])
             likes.append(item['likes']['summary']['total_count'])
             comments.append(item['comments']['summary']['total_count'])
+            dates.append(item['created_time'])
+
 
     features, vectorizer = vectorize(messages)
 
-    return np.array(likes), np.array(comments), np.array(shares), features, texts, vectorizer
+    return np.array(likes), np.array(comments), np.array(shares), features, texts, dates, vectorizer
 
 
 def most_common_words(corpus, n=10):
@@ -137,7 +140,10 @@ def most_common_words(corpus, n=10):
 def list_stats(L):
     mean = np.mean(L)
     std = np.std(L)
-    pct_rstd = std / float(mean) * 100
+    if std != 0:
+        pct_rstd = std / float(mean) * 100
+    else:
+        pct_rstd = 0
 
     return mean, std, pct_rstd
 
@@ -172,6 +178,8 @@ def print_clusters(clusters, use_json=True):
             "important": {important},
             "common": {common},
             "messages": {messages},
+            "dates_start": {dates_start},
+            "dates_end": {dates_end},
             "likes_avg": {likes_avg:.0f},
             "likes_stdev": {likes_stdev:.0f},
             "comments_avg": {comments_avg:.0f},
@@ -197,13 +205,20 @@ def print_clusters(clusters, use_json=True):
             common = '[{}]'.format(','.join(common))
 
             messages = [json.dumps(i) for i in items['messages']]
+            dates = [time.mktime(time.strptime(i, '%Y-%m-%dT%H:%M:%S%z')) for i in items['dates']]
+            messages = ['[{}, {}]'.format(x, y) for x, y in zip(messages, dates)]
             messages = '[{}]'.format(','.join(messages))
+
+            dates_start = np.mean(dates) - np.std(dates)
+            dates_end = np.mean(dates) + np.std(dates)
 
             c = template.format(
                 number=cluster + 1,  # Users expect lists starting with 1.
                 important=important,
                 common=common,
                 messages=messages,
+                dates_start=dates_start,
+                dates_end=dates_end,
                 likes_avg=list_stats(items['likes'])[0],
                 likes_stdev=list_stats(items['likes'])[1],
                 comments_avg=list_stats(items['comments'])[0],
@@ -219,7 +234,7 @@ def print_clusters(clusters, use_json=True):
     ]
 }
 '''
-        with open('www/clusters.json', 'w') as f:
+        with open('www/clusters/{}.json'.format(PAGE), 'w') as f:
             f.write(ret)
 
 
@@ -262,7 +277,7 @@ def most_important_features(tf, vectorizer, max_count=10, threshold=0.3):
 
 
 def text_clustering(raw_data):
-    likes, comments, shares, tf, msgs, vectorizer = text_features(raw_data)
+    likes, comments, shares, tf, msgs, dates, vectorizer = text_features(raw_data)
 
     svd_components = 200
     print(time.ctime(), 'Generating {} LSA components and normalizing'.format(svd_components))
@@ -285,6 +300,7 @@ def text_clustering(raw_data):
                             'likes': [],
                             'comments': [],
                             'messages': [],
+                            'dates': [],
                             'shares': [],
                             'features': [],
                            }
@@ -293,6 +309,7 @@ def text_clustering(raw_data):
         clustered[r]['comments'].append(comments[i])
         clustered[r]['messages'].append(msgs[i])
         clustered[r]['shares'].append(shares[i])
+        clustered[r]['dates'].append(dates[i])
 
         # Certain value means different things in different messages.
         # Less most important features suggest better defined cluster? Or just a smaller cluster?

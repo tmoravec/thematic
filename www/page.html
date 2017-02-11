@@ -102,7 +102,7 @@
 
                 <ol class="messages">
                     <li v-for="i in item.messages">
-                        <span>{{ i[0] }}</span>
+			{{ i[0] }} <br /><span class="message-published">Published: {{ i[1] | formatDate }}.</span>
                     </li>
                 </ol>
 

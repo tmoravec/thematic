@@ -24,7 +24,11 @@ var intropage = Vue.component('intropage', {
     created: function() {
         this.$http.get('clusters/index.json')
         .then(function(resp) {
-            data = JSON.parse(resp.data);
+            try {
+                data = JSON.parse(resp.data);  // sometimes this is already parsed...
+            } catch(err) {
+                data = resp.data;
+            }
             this.pages = data;
         })
     },
@@ -61,7 +65,12 @@ var fbpage = Vue.component('fbpage', {
 
         this.$http.get('clusters/' + page + '.json')
         .then(function(resp) {
-            data = JSON.parse(resp.data);
+            try {
+                data = JSON.parse(resp.data);  // sometimes this is already parsed...
+            } catch (err) {
+                data = resp.data;
+            }
+
             this.pagename = data.pagename;
             this.clusters = data.clusters;
             console.log('Successfully loaded data for page ' + this.pagename);

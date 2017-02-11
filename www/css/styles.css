@@ -146,6 +146,10 @@ html{
     margin-bottom: 5px;
 }
 
+.message-published {
+    color: #3F51B5;
+}
+
 .intro-page-content {
     display: flex;
     flex-direction: column;

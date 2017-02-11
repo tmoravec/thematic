@@ -16,13 +16,14 @@ from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from sklearn.cluster import AgglomerativeClustering
 from sklearn.metrics import silhouette_score
+from sklearn.metrics import calinski_harabaz_score
 from sklearn.decomposition import TruncatedSVD
 from sklearn.preprocessing import Normalizer
 from sklearn.pipeline import make_pipeline
 
-PAGE = 'zkazycasu'
+PAGE = 'geekarna'
 SINCE = '2000-01-01T00:00:00+0000'
-N_CLUSTERS = 25
+N_CLUSTERS = 10
 
 
 def plot_2_arrays(a1, a2):
@@ -276,6 +277,28 @@ def most_important_features(tf, vectorizer, max_count=10, threshold=0.3):
     return words
 
 
+def guess_number_clusters(X):
+    # Try to reduce difference between average and biggest component size
+    diffs = []
+    cluster_sizes = (5, 7, 10, 12, 15, 17, 20, 22, 25)
+    for n in cluster_sizes:
+        predictor = AgglomerativeClustering(n_clusters=n, connectivity=None, linkage='ward', affinity='euclidean')
+        labels = predictor.fit_predict(X)
+        sizes = np.bincount(labels)
+        avg_size = np.mean(sizes)
+        diffs.append(max(sizes) - avg_size)
+
+    index = diffs.index(min(diffs))
+    size = cluster_sizes[index]
+
+
+    #guess = int(len(X) / 20)
+    #size = min([size, guess])
+    #size = max([size, 5])
+
+    return size
+
+
 def text_clustering(raw_data):
     likes, comments, shares, tf, msgs, dates, vectorizer = text_features(raw_data)
 
@@ -286,7 +309,11 @@ def text_clustering(raw_data):
     lsa = make_pipeline(svd, normalizer)
     X = lsa.fit_transform(tf)
 
-    predictor = AgglomerativeClustering(n_clusters=N_CLUSTERS, connectivity=None, linkage='ward', affinity='euclidean')
+    print(time.ctime(), 'Trying to guess best number of clusters.')
+    n_clusters = guess_number_clusters(X)
+    print(time.ctime(), 'Best number of clusters: {}'.format(n_clusters))
+
+    predictor = AgglomerativeClustering(n_clusters=n_clusters, connectivity=None, linkage='ward', affinity='euclidean')
     print(time.ctime(), 'Starting to fit.')
     labels = predictor.fit_predict(X)
 
@@ -325,11 +352,19 @@ def text_clustering(raw_data):
     print('Messages: {:.0f} +- {:.0f} ({:.0f}%)'.format(*list_stats(msgs_counts)))
     print('Labels:      ', len(set(labels)), labels)
     print(time.ctime(), 'Starting to score.')
-    print('Silhouette score: ', silhouette_score(X, labels, metric='euclidean'))
+    print('Calinski harabaz score: ', calinski_harabaz_score(X, labels))
+    print('Silhouette score:       ', silhouette_score(X, labels))
 
 
 def main():
+    global PAGE
     print(time.ctime(), 'Loading data.')
+
+    try:
+        PAGE = sys.argv[1].split('.pkl')[0]
+    except IndexError:
+        pass
+
     raw_data = load_data()
     text_clustering(raw_data)
 

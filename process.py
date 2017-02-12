@@ -21,7 +21,7 @@ from sklearn.decomposition import TruncatedSVD
 from sklearn.preprocessing import Normalizer
 from sklearn.pipeline import make_pipeline
 
-PAGE = 'geekarna'
+PAGE = 'psychologytoday'
 SINCE = '2000-01-01T00:00:00+0000'
 N_CLUSTERS = 10
 
@@ -79,8 +79,9 @@ def vectorize(messages):
 
     # sublinear_tf recommended by TruncatedSVD documentation for use with
     # TruncatedSVD
-    vectorizer = TfidfVectorizer(stop_words=stop_words, max_features=30000, ngram_range=(1, 2), norm='l2', sublinear_tf=True)
+    vectorizer = TfidfVectorizer(stop_words=stop_words, max_features=None, ngram_range=(1, 5), norm='l2', sublinear_tf=True, min_df=10)
     features = vectorizer.fit_transform(messages)
+    print(time.ctime(), 'Tfidf ignores {} terms.'.format(len(vectorizer.stop_words_)))
 
     return features, vectorizer
 
@@ -123,6 +124,7 @@ def text_features(raw_data):
 
     features, vectorizer = vectorize(messages)
 
+    # TODO: Wrap the return values to something like Features object...
     return np.array(likes), np.array(comments), np.array(shares), features, texts, dates, vectorizer
 
 
@@ -165,7 +167,7 @@ def highest_number_items(items, max_count=100):
 
 def count_vectorize(corpus):
     stop_words = set(stopwords.words('english'))
-    vectorizer = CountVectorizer(stop_words=stop_words, max_features=10, ngram_range=(1, 2))
+    vectorizer = CountVectorizer(stop_words=stop_words, max_features=10, ngram_range=(1, 5))
     features = vectorizer.fit_transform(corpus)
     return vectorizer.get_feature_names()
 
@@ -197,6 +199,7 @@ def print_clusters(clusters, use_json=True):
     [
 '''.format(pagename='"{}"'.format(PAGE))
 
+        # TODO: Global stats.
         formatted_clusters = []
         for cluster, items in clusters.items():
             important = ['"{}"'.format(i) for i in highest_number_items(items['features'])]
@@ -299,6 +302,38 @@ def guess_number_clusters(X):
     return size
 
 
+def likes_clustering(raw_data):
+    likes, comments, shares, tf, msgs, dates, vectorizer = text_features(raw_data)
+    likes_sorted = sorted(enumerate(likes), key=lambda x: x[1], reverse=True)
+    indices_sorted = [x[0] for x in likes_sorted]
+    cluster_indices = np.array_split(indices_sorted, 25)
+
+    tf_array = tf.toarray()
+    clustered = {}
+    for i, cluster in enumerate(cluster_indices):
+        clustered[i] = {
+             'likes': [],
+             'comments': [],
+             'messages': [],
+             'dates': [],
+             'shares': [],
+             'features': [],
+            }
+        for j in cluster:
+            clustered[i]['likes'].append(likes[j])
+            clustered[i]['comments'].append(comments[j])
+            clustered[i]['messages'].append(msgs[j])
+            clustered[i]['dates'].append(dates[j])
+            clustered[i]['shares'].append(shares[j])
+            clustered[i]['features'].append(most_important_features(tf_array[j], vectorizer))
+
+    print_clusters(clustered)
+
+
+
+
+
+
 def text_clustering(raw_data):
     likes, comments, shares, tf, msgs, dates, vectorizer = text_features(raw_data)
 
@@ -317,6 +352,7 @@ def text_clustering(raw_data):
     print(time.ctime(), 'Starting to fit.')
     labels = predictor.fit_predict(X)
 
+    # TODO: This is very slow and probably unnecessary.
     print(time.ctime(), 'Generating the clusters with values.')
     # {<cluster number>: {'likes': [...], 'comments': [...], 'messages': [...]}}
     clustered = {}
@@ -367,6 +403,7 @@ def main():
 
     raw_data = load_data()
     text_clustering(raw_data)
+    #likes_clustering(raw_data)
 
 
 

@@ -53,16 +53,16 @@ html{
 .header-arrow {
     color: rgba(255, 255, 255, 1);
     font-size: 20px;
-    margin-left: 25px;
-    margin-right: 25px;
+    margin-left: 24px;
+    margin-right: 24px;
 }
 
 .header-margin {
-    width: 72px;
+    width: 24px;
 }
 
 .header-title {
-    font-family: myRobotoLight, 'RobotoDraft', sans-serif;
+    font-family: myRobotoMedium, 'RobotoDraft', sans-serif;
     color: white;
     font-size: 20px;
     white-space: nowrap;

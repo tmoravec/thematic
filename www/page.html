@@ -30,7 +30,9 @@
                 <vue-header :pagename="pagename"></vue-header>
             </div>
 
+
             <div class="content">
+		<globalstats :globalstats="globalstats"></globalstats>
                 <clusters :clusters="clusters"></clusters>
             </div>
 
@@ -48,9 +50,17 @@
     </template>
 
 
-    <!--
-     TODO: global stats
-    -->
+    <template id="globalstats">
+	<div class="globalstats-wrapper cluster">
+	    <div class="globalstats-header cluster-title">Page statistics</div>
+	    <div class="globalstats-values cluster-stats">
+		<div>{{ globalstats.messages }} messages</div>
+		<div>Likes: {{ globalstats.likes_avg }} +- {{ globalstats.likes_stdev }},</div>
+		<div>Comments: {{ globalstats.comments_avg }} +- {{ globalstats.comments_stdev }},</div>
+		<div>Shares: {{ globalstats.shares_avg }} +- {{ globalstats.shares_stdev }}.</div>
+	    </div>
+	</div>
+    </template>
 
     <template id="clusters">
 
@@ -84,13 +94,13 @@
                         <div v-for="i in item.common" class="word">{{ i }}</div>
                     </div>
                     <div class="cluster-stats-header">Messages statistics</div>
-                        <div class="cluster-stats-values">
-                            {{ item.messages.length }} messages.  
-                            Likes: {{ item.likes_avg }} +- {{ item.likes_stdev }}, 
-                            Comments: {{ item.comments_avg }} +- {{ item.comments_stdev }},
-                            Shares: {{ item.shares_avg }} +- {{ item.shares_stdev }}.
-			    Roughly from {{ item.dates_start | formatDate }} to {{ item.dates_end | formatDate }}.
-                        </div>
+		    <div class="cluster-stats-values">
+			{{ item.messages.length }} messages.
+			Likes: {{ item.likes_avg }} +- {{ item.likes_stdev }},
+			Comments: {{ item.comments_avg }} +- {{ item.comments_stdev }},
+			Shares: {{ item.shares_avg }} +- {{ item.shares_stdev }}.
+			Roughly from {{ item.dates_start | formatDate }} to {{ item.dates_end | formatDate }}.
+		    </div>
 			<!-- TODO: when was most of the messages written -->
                 </div>
 

@@ -53,7 +53,8 @@ var fbpage = Vue.component('fbpage', {
     data: function() {
         return {
             pagename: '',
-            clusters: []
+            clusters: [],
+            globalstats: []
         }
     },
 
@@ -71,9 +72,11 @@ var fbpage = Vue.component('fbpage', {
                 data = resp.data;
             }
 
-            this.pagename = data.pagename;
-            this.clusters = data.clusters;
+            this.pagename =     data.pagename;
+            this.clusters =     data.clusters;
+            this.globalstats =  data.globalstats;
             console.log('Successfully loaded data for page ' + this.pagename);
+            console.log('globalstats ' + JSON.stringify(this.globalstats, null, 2));
         });
     }
 });
@@ -97,6 +100,26 @@ var header = Vue.component('vue-header', {
         }
     }
 });
+
+var globalstats = Vue.component('globalstats', {
+    template: '#globalstats',
+    props: ['globalstats'],
+
+    data: function() {
+        return {
+            globalstats: {
+                "messages": 0,
+                "likes_avg": 0,
+                "likes_stdev": 0,
+                "comments_avg": 0,
+                "comments_stdev": 0,
+                "shares_avg": 0,
+                "shares_stdev": 0
+            }
+        }
+    }
+});
+
 
 var clusters = Vue.component('clusters', {
     template: '#clusters',

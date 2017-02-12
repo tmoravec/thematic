@@ -97,10 +97,10 @@ def text_features(raw_data):
     for item in raw_data['feed']:
 
         # Skip posts older than SINCE
-        if 'created_time' in item:
-            t = time.strptime(item['created_time'], '%Y-%m-%dT%H:%M:%S%z')
-            if t < time.strptime(SINCE, '%Y-%m-%dT%H:%M:%S%z'):
-                continue
+        date = time.strptime(item['created_time'], '%Y-%m-%dT%H:%M:%S%z')
+        if date < time.strptime(SINCE, '%Y-%m-%dT%H:%M:%S%z'):
+            continue
+        date = int(time.mktime(date))  # to Unix timestamp
 
         if ('message' in item and 'shares' in item and 'likes' in item and
                 'comments' in item):
@@ -119,7 +119,7 @@ def text_features(raw_data):
             shares.append(item['shares']['count'])
             likes.append(item['likes']['summary']['total_count'])
             comments.append(item['comments']['summary']['total_count'])
-            dates.append(item['created_time'])
+            dates.append(date)
 
 
     features, vectorizer = vectorize(messages)
@@ -172,7 +172,22 @@ def count_vectorize(corpus):
     return vectorizer.get_feature_names()
 
 
-def print_clusters(clusters, use_json=True):
+def global_stats(likes, comments, shares, messages):
+    likes_stats =    list_stats(likes)
+    comments_stats = list_stats(comments)
+    shares_stats =   list_stats(shares)
+
+    return {
+            'likes_avg':      likes_stats[0],
+            'likes_stdev':    likes_stats[1],
+            'comments_avg':   comments_stats[0],
+            'comments_stdev': comments_stats[1],
+            'shares_avg':     shares_stats[0],
+            'shares_stdev':   shares_stats[1],
+            'messages':       len(messages),
+           }
+
+def print_clusters(clusters, g_stats, use_json=True):
     if use_json:
         template = \
 '''
@@ -194,10 +209,22 @@ def print_clusters(clusters, use_json=True):
         ret = \
 '''
 {{
-    "pagename": {pagename},
+    "pagename": "{pagename}",
+    "globalstats":
+    {{
+        "messages": {messages},
+        "likes_avg": {likes_avg:.0f},
+        "likes_stdev": {likes_stdev:.0f},
+        "comments_avg": {comments_avg:.0f},
+        "comments_stdev": {comments_stdev:.0f},
+        "shares_avg": {shares_avg:.0f},
+        "shares_stdev": {shares_stdev:.0f}
+    }},
     "clusters":
     [
-'''.format(pagename='"{}"'.format(PAGE))
+'''
+        g_stats['pagename'] = PAGE
+        ret = ret.format(**g_stats)
 
         # TODO: Global stats.
         formatted_clusters = []
@@ -209,12 +236,11 @@ def print_clusters(clusters, use_json=True):
             common = '[{}]'.format(','.join(common))
 
             messages = [json.dumps(i) for i in items['messages']]
-            dates = [time.mktime(time.strptime(i, '%Y-%m-%dT%H:%M:%S%z')) for i in items['dates']]
-            messages = ['[{}, {}]'.format(x, y) for x, y in zip(messages, dates)]
+            messages = ['[{}, {}]'.format(x, y) for x, y in zip(messages, items['dates'])]
             messages = '[{}]'.format(','.join(messages))
 
-            dates_start = np.mean(dates) - np.std(dates)
-            dates_end = np.mean(dates) + np.std(dates)
+            dates_start = np.mean(items['dates']) - np.std(items['dates'])
+            dates_end = np.mean(items['dates']) + np.std(items['dates'])
 
             c = template.format(
                 number=cluster + 1,  # Users expect lists starting with 1.
@@ -280,7 +306,7 @@ def most_important_features(tf, vectorizer, max_count=10, threshold=0.3):
     return words
 
 
-def guess_number_clusters(X):
+def best_number_clusters(X):
     # Try to reduce difference between average and biggest component size
     diffs = []
     cluster_sizes = (5, 7, 10, 12, 15, 17, 20, 22, 25)
@@ -327,11 +353,8 @@ def likes_clustering(raw_data):
             clustered[i]['shares'].append(shares[j])
             clustered[i]['features'].append(most_important_features(tf_array[j], vectorizer))
 
-    print_clusters(clustered)
-
-
-
-
+    g_stats = global_stats(likes, comments, shares, msgs)
+    print_clusters(clustered, g_stats)
 
 
 def text_clustering(raw_data):
@@ -344,8 +367,8 @@ def text_clustering(raw_data):
     lsa = make_pipeline(svd, normalizer)
     X = lsa.fit_transform(tf)
 
-    print(time.ctime(), 'Trying to guess best number of clusters.')
-    n_clusters = guess_number_clusters(X)
+    print(time.ctime(), 'Trying to determine best number of clusters.')
+    n_clusters = best_number_clusters(X)
     print(time.ctime(), 'Best number of clusters: {}'.format(n_clusters))
 
     predictor = AgglomerativeClustering(n_clusters=n_clusters, connectivity=None, linkage='ward', affinity='euclidean')
@@ -380,13 +403,14 @@ def text_clustering(raw_data):
 
     clustered = OrderedDict(sorted(clustered.items()))
     print(time.ctime(), 'Printing...')
-    print_clusters(clustered)
+    g_stats = global_stats(likes, comments, shares, msgs)
+    print_clusters(clustered, g_stats)
 
     msgs_counts = [len(x['messages']) for x in clustered.values()]
     print('\n\n')
-    print('Messages: ', msgs_counts)
-    print('Messages: {:.0f} +- {:.0f} ({:.0f}%)'.format(*list_stats(msgs_counts)))
-    print('Labels:      ', len(set(labels)), labels)
+    print('Messages:               ', msgs_counts)
+    print('Messages:                {:.0f} +- {:.0f} ({:.0f}%)'.format(*list_stats(msgs_counts)))
+    print('Labels:                 ', len(set(labels)), labels)
     print(time.ctime(), 'Starting to score.')
     print('Calinski harabaz score: ', calinski_harabaz_score(X, labels))
     print('Silhouette score:       ', silhouette_score(X, labels))

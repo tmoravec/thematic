@@ -138,7 +138,7 @@ Vue.filter('uppercase', function(value) {
 
 Vue.filter('formatDate', function(value) {
     var d = new Date(value * 1000);
-    var s = d.getFullYear() + "/" + d.getMonth();
+    var s = d.getFullYear() + "/" + (d.getMonth() + 1);
     return s;
 });
 

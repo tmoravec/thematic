@@ -76,7 +76,6 @@ var fbpage = Vue.component('fbpage', {
             this.clusters =     data.clusters;
             this.globalstats =  data.globalstats;
             console.log('Successfully loaded data for page ' + this.pagename);
-            console.log('globalstats ' + JSON.stringify(this.globalstats, null, 2));
         });
     }
 });

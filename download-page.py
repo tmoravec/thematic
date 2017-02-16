@@ -7,8 +7,8 @@ from pprint import pprint
 import pickle
 
 
-TOKEN = 'EAACEdEose0cBAM7GSUVhwS5IjRkLJY3TKt6FiMmJSRfes0ZBw42Qb4XtT6WuzzuxjXSGL4BZCJKuDbGjJRIjgzZAPleFelOSmLk4APXZC4jv2TaFi9xuOqur6ITkh2GSpDDqo8InFw9qz44sU4SnBSpZAZAZCEfeZCZAfFaSxw5mXvQZDZD'
-PAGE = 'psychologytoday'
+TOKEN = 'EAACEdEose0cBAO7xyyBZBuEu2qnTLt7QVjKLoWzlR7p94CLnC2AV9YvTKzMkmeeSTX4buzxsjRXjpjZBZA6oGvJbfJHRHLv8PznxPjqZAMI52on6MZC7l6b56dr5OsJZBpqQZB0HIIXTvRGoUy8hT1FuW5btmjRrMfDGytDJUZBGWlsWAEAbdRCCEZC8GcbfbGD4ZD'
+PAGE = 'fordmustang'
 URL = 'https://graph.facebook.com/v2.8/' + PAGE + '?fields={}&access_token=' + TOKEN
 DIRECTORY = 'pages-' + PAGE
 FILE_NAME = DIRECTORY + '/page-{}.json'

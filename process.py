@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-from collections import OrderedDict
 import json
 import sys
 import pickle
@@ -20,9 +19,12 @@ from sklearn.metrics import calinski_harabaz_score
 from sklearn.decomposition import TruncatedSVD
 from sklearn.preprocessing import Normalizer
 from sklearn.pipeline import make_pipeline
+from sklearn.metrics.pairwise import cosine_similarity
 
-PAGE = 'psychologytoday'
-SINCE = '2000-01-01T00:00:00+0000'
+import gensim
+
+PAGE = 'AkamaiTechnologies'
+SINCE = '2012-01-01T00:00:00+0000'
 N_CLUSTERS = 10
 
 
@@ -172,144 +174,10 @@ def count_vectorize(corpus):
     return vectorizer.get_feature_names()
 
 
-def global_stats(likes, comments, shares, messages):
-    likes_stats =    list_stats(likes)
-    comments_stats = list_stats(comments)
-    shares_stats =   list_stats(shares)
-
-    return {
-            'likes_avg':      likes_stats[0],
-            'likes_stdev':    likes_stats[1],
-            'comments_avg':   comments_stats[0],
-            'comments_stdev': comments_stats[1],
-            'shares_avg':     shares_stats[0],
-            'shares_stdev':   shares_stats[1],
-            'messages':       len(messages),
-           }
-
-def print_clusters(clusters, g_stats, use_json=True):
-    if use_json:
-        template = \
-'''
-        {{
-            "number": {number},
-            "important": {important},
-            "common": {common},
-            "messages": {messages},
-            "dates_start": {dates_start},
-            "dates_end": {dates_end},
-            "likes_avg": {likes_avg:.0f},
-            "likes_stdev": {likes_stdev:.0f},
-            "comments_avg": {comments_avg:.0f},
-            "comments_stdev": {comments_stdev:.0f},
-            "shares_avg": {shares_avg:.0f},
-            "shares_stdev": {shares_stdev:.0f}
-        }} '''
-
-        ret = \
-'''
-{{
-    "pagename": "{pagename}",
-    "globalstats":
-    {{
-        "messages": {messages},
-        "likes_avg": {likes_avg:.0f},
-        "likes_stdev": {likes_stdev:.0f},
-        "comments_avg": {comments_avg:.0f},
-        "comments_stdev": {comments_stdev:.0f},
-        "shares_avg": {shares_avg:.0f},
-        "shares_stdev": {shares_stdev:.0f}
-    }},
-    "clusters":
-    [
-'''
-        g_stats['pagename'] = PAGE
-        ret = ret.format(**g_stats)
-
-        # TODO: Global stats.
-        formatted_clusters = []
-        for cluster, items in clusters.items():
-            important = ['"{}"'.format(i) for i in highest_number_items(items['features'])]
-            important = '[{}]'.format(','.join(important))
-
-            common = ['"{}"'.format(i) for i in count_vectorize([' '.join(items['messages'])])]
-            common = '[{}]'.format(','.join(common))
-
-            messages = [json.dumps(i) for i in items['messages']]
-            messages = ['[{}, {}]'.format(x, y) for x, y in zip(messages, items['dates'])]
-            messages = '[{}]'.format(','.join(messages))
-
-            dates_start = np.mean(items['dates']) - np.std(items['dates'])
-            dates_end = np.mean(items['dates']) + np.std(items['dates'])
-
-            c = template.format(
-                number=cluster + 1,  # Users expect lists starting with 1.
-                important=important,
-                common=common,
-                messages=messages,
-                dates_start=dates_start,
-                dates_end=dates_end,
-                likes_avg=list_stats(items['likes'])[0],
-                likes_stdev=list_stats(items['likes'])[1],
-                comments_avg=list_stats(items['comments'])[0],
-                comments_stdev=list_stats(items['comments'])[1],
-                shares_avg=list_stats(items['shares'])[0],
-                shares_stdev=list_stats(items['shares'])[1]
-            )
-            formatted_clusters.append(c)
-
-        ret += ',\n'.join(formatted_clusters)
-        ret += \
-'''
-    ]
-}
-'''
-        with open('www/clusters/{}.json'.format(PAGE), 'w') as f:
-            f.write(ret)
-
-
-    else:
-        for cluster, items in clusters.items():
-            print('\nCluster ', cluster)
-            print('Messages: {}'.format(len(items['messages'])))
-            print('Likes:    {:.0f} +- {:.0f} ({:.0f}%)'.format(*list_stats(items['likes'])))
-            print('Comments: {:.0f} +- {:.0f} ({:.0f}%)'.format(*list_stats(items['comments'])))
-            print('Shares:   {:.0f} +- {:.0f} ({:.0f}%)'.format(*list_stats(items['shares'])))
-            print('Important features: ', highest_number_items(items['features']))
-            print('Common words:       ', count_vectorize([' '.join(items['messages'])]))
-
-            try:
-                for i in range(3):
-                    print('Message {}: {}'.format(i, items['messages'][i]))
-            except IndexError:
-                # There were less than 5 messages in this group.
-                pass
-
-
-def most_important_features(tf, vectorizer, max_count=10, threshold=0.3):
-    """
-    Selects highest value features from the corpus obtained with Tfidf.
-    """
-    highest = sorted(tf, reverse=True)
-
-    words = []
-    for i, n in enumerate(highest):
-        if i > max_count - 1:
-            break
-        if n < threshold:
-            break
-
-        index = np.where(tf == n)[0][0]
-        word = vectorizer.get_feature_names()[index]
-        words.append([word, n])
-
-    return words
-
-
 def best_number_clusters(X):
     # Try to reduce difference between average and biggest component size
     diffs = []
-    cluster_sizes = (5, 7, 10, 12, 15, 17, 20, 22, 25)
+    cluster_sizes = (5, 10, 15, 20, 25, 30)
     for n in cluster_sizes:
         predictor = AgglomerativeClustering(n_clusters=n, connectivity=None, linkage='ward', affinity='euclidean')
         labels = predictor.fit_predict(X)
@@ -328,36 +196,85 @@ def best_number_clusters(X):
     return size
 
 
-def likes_clustering(raw_data):
-    likes, comments, shares, tf, msgs, dates, vectorizer = text_features(raw_data)
-    likes_sorted = sorted(enumerate(likes), key=lambda x: x[1], reverse=True)
-    indices_sorted = [x[0] for x in likes_sorted]
-    cluster_indices = np.array_split(indices_sorted, 25)
+def most_important_features(tf, vectorizer, count=10):
+    highest = sorted(list(np.array(tf).flatten()), reverse=True)
+    words = set()
+    feature_names = vectorizer.get_feature_names()
+    for i in tf:
+        for h in highest:
+            if h in i:
+                word = feature_names[list(i).index(h)]
+                words.add(word)
+                if len(words) == count:
+                    return list(words)
 
-    tf_array = tf.toarray()
-    clustered = {}
-    for i, cluster in enumerate(cluster_indices):
-        clustered[i] = {
-             'likes': [],
-             'comments': [],
-             'messages': [],
-             'dates': [],
-             'shares': [],
-             'features': [],
-            }
-        for j in cluster:
-            clustered[i]['likes'].append(likes[j])
-            clustered[i]['comments'].append(comments[j])
-            clustered[i]['messages'].append(msgs[j])
-            clustered[i]['dates'].append(dates[j])
-            clustered[i]['shares'].append(shares[j])
-            clustered[i]['features'].append(most_important_features(tf_array[j], vectorizer))
-
-    g_stats = global_stats(likes, comments, shares, msgs)
-    print_clusters(clustered, g_stats)
+    return list(words)
 
 
-def text_clustering(raw_data):
+def print_clusters(labels, likes, comments, shares, messages, tf_array,
+                    dates, vectorizer):
+
+    globalstats = {
+                   'messages': len(messages),
+                   'likes_avg': int(np.mean(likes)),
+                   'likes_stdev': int(np.std(likes)),
+                   'comments_avg': int(np.mean(comments)),
+                   'comments_stdev': int(np.std(comments)),
+                   'shares_avg': int(np.mean(shares)),
+                   'shares_stdev': int(np.std(shares)),
+                  }
+
+
+    clusters = []
+    for label in set(labels):
+        indices = [i for i, x in enumerate(labels) if x == label]
+        c_likes = [likes[i] for i in indices]
+        c_comments = [comments[i] for i in indices]
+        c_shares = [shares[i] for i in indices]
+        c_messages = [messages[i] for i in indices]
+        c_tf = [tf_array[i] for i in indices]
+        c_dates = [dates[i] for i in indices]
+
+        likes_avg = int(np.mean(c_likes))
+        likes_stdev = int(np.std(c_likes))
+        comments_avg = int(np.mean(c_comments))
+        comments_stdev = int(np.std(c_comments))
+        shares_avg = int(np.mean(c_shares))
+        shares_stdev = int(np.std(c_shares))
+
+        important = most_important_features(c_tf, vectorizer)
+        common = count_vectorize(c_messages)
+
+        dates_start = int(np.mean(c_dates) - np.std(c_dates))
+        dates_end = int(np.mean(c_dates) + np.std(c_dates))
+
+        cluster = {
+                   'number': int(label) + 1,  # People expect 1-indexed arrays.
+                   'important': important,
+                   'common': common,
+                   'messages': list(zip(c_messages, c_dates)),
+                   'dates_start': dates_start,
+                   'dates_end': dates_end,
+                   'likes_avg': likes_avg,
+                   'likes_stdev': likes_stdev,
+                   'comments_avg': comments_avg,
+                   'comments_stdev': comments_stdev,
+                   'shares_avg': shares_avg,
+                   'shares_stdev': shares_stdev,
+                  }
+        clusters.append(cluster)
+
+    result = {
+              'pagename': PAGE,
+              'globalstats': globalstats,
+              'clusters': clusters,
+             }
+
+    with open('www/clusters/{}.json'.format(PAGE), 'w') as f:
+        json.dump(result, f, indent=2)
+
+
+def get_features_lsa(raw_data):
     likes, comments, shares, tf, msgs, dates, vectorizer = text_features(raw_data)
 
     svd_components = 200
@@ -366,6 +283,16 @@ def text_clustering(raw_data):
     normalizer = Normalizer(copy=False)
     lsa = make_pipeline(svd, normalizer)
     X = lsa.fit_transform(tf)
+    print(svd.components_[0])
+
+    return X
+
+
+def text_clustering(raw_data):
+    likes, comments, shares, tf, msgs, dates, vectorizer = text_features(raw_data)
+
+    X = get_features_lsa(raw_data)
+
 
     print(time.ctime(), 'Trying to determine best number of clusters.')
     n_clusters = best_number_clusters(X)
@@ -375,45 +302,56 @@ def text_clustering(raw_data):
     print(time.ctime(), 'Starting to fit.')
     labels = predictor.fit_predict(X)
 
-    # TODO: This is very slow and probably unnecessary.
-    print(time.ctime(), 'Generating the clusters with values.')
-    # {<cluster number>: {'likes': [...], 'comments': [...], 'messages': [...]}}
-    clustered = {}
+    print(time.ctime(), 'Printing.')
     tf_array = tf.toarray()
-    for i, r in enumerate(labels):
-        if r not in clustered:
-            clustered[r] = {
-                            'likes': [],
-                            'comments': [],
-                            'messages': [],
-                            'dates': [],
-                            'shares': [],
-                            'features': [],
-                           }
+    print_clusters(labels, likes, comments, shares, msgs, tf_array, dates, vectorizer)
 
-        clustered[r]['likes'].append(likes[i])
-        clustered[r]['comments'].append(comments[i])
-        clustered[r]['messages'].append(msgs[i])
-        clustered[r]['shares'].append(shares[i])
-        clustered[r]['dates'].append(dates[i])
-
-        # Certain value means different things in different messages.
-        # Less most important features suggest better defined cluster? Or just a smaller cluster?
-        clustered[r]['features'].append(most_important_features(tf_array[i], vectorizer))
-
-    clustered = OrderedDict(sorted(clustered.items()))
-    print(time.ctime(), 'Printing...')
-    g_stats = global_stats(likes, comments, shares, msgs)
-    print_clusters(clustered, g_stats)
-
-    msgs_counts = [len(x['messages']) for x in clustered.values()]
-    print('\n\n')
-    print('Messages:               ', msgs_counts)
-    print('Messages:                {:.0f} +- {:.0f} ({:.0f}%)'.format(*list_stats(msgs_counts)))
     print('Labels:                 ', len(set(labels)), labels)
-    print(time.ctime(), 'Starting to score.')
+    print(time.ctime()              , 'Starting to score.')
     print('Calinski harabaz score: ', calinski_harabaz_score(X, labels))
     print('Silhouette score:       ', silhouette_score(X, labels))
+
+
+def create_bag_of_centroids(wordlist, word_centroid_map):
+    #
+    # The number of clusters is equal to the highest cluster index
+    # in the word / centroid map
+    num_centroids = max(word_centroid_map.values()) + 1
+    #
+    # Pre-allocate the bag of centroids vector (for speed)
+    bag_of_centroids = np.zeros(num_centroids, dtype='float32')
+    #
+    # Loop over the words in the review. If the word is in the vocabulary,
+    # find which cluster it belongs to, and increment that cluster count
+    # by one
+    for word in wordlist:
+        if word in word_centroid_map:
+            index = word_centroid_map[word]
+            bag_of_centroids[index] += 1
+    #
+    # Return the "bag of centroids"
+    return bag_of_centroids
+
+
+def get_features_w2v(raw_data):
+    likes, comments, shares, tf, msgs, dates, vectorizer = text_features(raw_data)
+
+    msgs = [process_message(m).split() for m in msgs]
+    model = gensim.models.Word2Vec(msgs, size=200, window=5, min_count=1, workers=4)
+    model.init_sims(True)
+
+    n_clusters = int(model.syn0.shape[0] / 5)
+    clustering = AgglomerativeClustering(n_clusters=n_clusters, linkage='ward', affinity='euclidean')
+    idx = clustering.fit_predict(model.syn0)
+    word_centroid_map = dict(zip(model.index2word, idx))
+
+    X = []
+    for msg in msgs:
+        bag = create_bag_of_centroids(msg, word_centroid_map)
+        X.append(bag)
+
+    return X
+
 
 
 def main():
@@ -427,7 +365,6 @@ def main():
 
     raw_data = load_data()
     text_clustering(raw_data)
-    #likes_clustering(raw_data)
 
 
 

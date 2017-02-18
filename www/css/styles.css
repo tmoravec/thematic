@@ -83,6 +83,11 @@ html{
     overflow: auto;
 }
 
+.graph {
+	/*max-width: 600px;*/
+	width: 96%;
+}
+
 .clusters {
     margin: 0;
     padding: 0;
@@ -134,7 +139,7 @@ html{
     margin-right: 20px;
 }
 
-.show-messages {
+.toggle-text {
     color: #FF5722;
 }
 

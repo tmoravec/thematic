@@ -7,8 +7,8 @@ from pprint import pprint
 import pickle
 
 
-TOKEN = 'EAACEdEose0cBAO7xyyBZBuEu2qnTLt7QVjKLoWzlR7p94CLnC2AV9YvTKzMkmeeSTX4buzxsjRXjpjZBZA6oGvJbfJHRHLv8PznxPjqZAMI52on6MZC7l6b56dr5OsJZBpqQZB0HIIXTvRGoUy8hT1FuW5btmjRrMfDGytDJUZBGWlsWAEAbdRCCEZC8GcbfbGD4ZD'
-PAGE = 'fordmustang'
+TOKEN = 'EAACEdEose0cBAG59HTxUyMHJUK4UojXnvIW6JMZAoyErXTG5qE64ZAv6wTKr8jFpcKDE5bvNHFvZB9YTn1IiGbVSdanZCeqxcxtTk98FxPVMJHy40bNRz93RnawKTo3lZB0ricaSfzmd7cghWrplSIyKiUBYs8WJzIZCKHTIoD7zpN2vyeIv7Q8CCYsmEZB5NAZD'
+PAGE = 'rocketfuelinc'
 URL = 'https://graph.facebook.com/v2.8/' + PAGE + '?fields={}&access_token=' + TOKEN
 DIRECTORY = 'pages-' + PAGE
 FILE_NAME = DIRECTORY + '/page-{}.json'

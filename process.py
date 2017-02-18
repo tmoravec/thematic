@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import copy
 import json
 import sys
 import pickle
@@ -45,6 +46,7 @@ def plot_clusters(features, labels):
     ys = [x[1] for x in d2]
 
     pyplot.scatter(xs, ys, c=labels, s=2, cmap='nipy_spectral')
+    pyplot.axis('off')
     pyplot.savefig('{}/{}.png'.format(OUTPUT_DIRECTORY, PAGE), format='png', dpi=300, bbox_inches='tight')
 
 
@@ -178,8 +180,9 @@ def count_vectorize(corpus):
 
 def best_number_clusters(X):
     # Try to reduce difference between average and biggest component size
+    # TODO: Remove the largest cluster and try to search by silhouette_score?
     diffs = []
-    cluster_sizes = (5, 10, 15, 20, 25, 30, 35)
+    cluster_sizes = (10, 15, 20, 25, 30, 35)
     for n in cluster_sizes:
         predictor = AgglomerativeClustering(n_clusters=n, connectivity=None, linkage='ward', affinity='euclidean')
         labels = predictor.fit_predict(X)
@@ -209,9 +212,28 @@ def most_important_features(tf, vectorizer, count=10):
     return list(words)
 
 
-def print_clusters(labels, likes, comments, shares, messages, tf,
-                    dates, vectorizer):
+def clusterize(labels, likes, comments, shares, messages, tf, dates):
+    clusters = []
+    for public_label, label in sorted(enumerate(set(labels)), reverse=True):
+        c = {}
+        indices = [i for i, x in enumerate(labels) if x == label]
+        c['size'] = len(indices)
+        c['likes'] = [likes[i] for i in indices]
+        c['comments'] = [comments[i] for i in indices]
+        c['shares'] = [shares[i] for i in indices]
+        c['messages'] = [messages[i] for i in indices]
+        c['tf'] = [tf[i] for i in indices]
+        c['dates'] = [dates[i] for i in indices]
 
+        clusters.append(c)
+
+    return clusters
+
+
+def print_clusters(labels, likes, comments, shares, messages, tf, dates,
+                   vectorizer):
+
+    # TODO: Turn to clusters sets first and order them by size?
     globalstats = {
                    'messages': len(messages),
                    'likes_avg': int(np.mean(likes)),
@@ -220,37 +242,33 @@ def print_clusters(labels, likes, comments, shares, messages, tf,
                    'comments_stdev': int(np.std(comments)),
                    'shares_avg': int(np.mean(shares)),
                    'shares_stdev': int(np.std(shares)),
+                   'graph_uri': 'clusters/' + PAGE + '.png'
                   }
 
 
-    clusters = []
-    for public_label, label in enumerate(set(labels)):
-        indices = [i for i, x in enumerate(labels) if x == label]
-        c_likes = [likes[i] for i in indices]
-        c_comments = [comments[i] for i in indices]
-        c_shares = [shares[i] for i in indices]
-        c_messages = [messages[i] for i in indices]
-        c_tf = [tf[i] for i in indices]
-        c_dates = [dates[i] for i in indices]
+    clusters = clusterize(labels, likes, comments, shares, messages, tf, dates)
+    clusters = sorted(clusters, key=lambda c: c['size'])
 
-        likes_avg = int(np.mean(c_likes))
-        likes_stdev = int(np.std(c_likes))
-        comments_avg = int(np.mean(c_comments))
-        comments_stdev = int(np.std(c_comments))
-        shares_avg = int(np.mean(c_shares))
-        shares_stdev = int(np.std(c_shares))
+    clusters_print = []
+    for i, c in enumerate(clusters):
+        likes_avg = int(np.mean(c['likes']))
+        likes_stdev = int(np.std(c['likes']))
+        comments_avg = int(np.mean(c['comments']))
+        comments_stdev = int(np.std(c['comments']))
+        shares_avg = int(np.mean(c['shares']))
+        shares_stdev = int(np.std(c['shares']))
 
-        important = most_important_features(c_tf, vectorizer)
-        common = count_vectorize(c_messages)
+        important = most_important_features(c['tf'], vectorizer)
+        common = count_vectorize(c['messages'])
 
-        dates_start = int(np.mean(c_dates) - np.std(c_dates))
-        dates_end = int(np.mean(c_dates) + np.std(c_dates))
+        dates_start = int(np.mean(c['dates']) - np.std(c['dates']))
+        dates_end = int(np.mean(c['dates']) + np.std(c['dates']))
 
         cluster = {
-                   'number': int(public_label) + 1,  # People expect 1-indexed arrays.
+                   'number': int(i) + 1,  # People expect 1-indexed arrays.
                    'important': important,
                    'common': common,
-                   'messages': list(zip(c_messages, c_dates)),
+                   'messages': list(zip(c['messages'], c['dates'])),
                    'dates_start': dates_start,
                    'dates_end': dates_end,
                    'likes_avg': likes_avg,
@@ -260,32 +278,25 @@ def print_clusters(labels, likes, comments, shares, messages, tf,
                    'shares_avg': shares_avg,
                    'shares_stdev': shares_stdev,
                   }
-        clusters.append(cluster)
+        clusters_print.append(cluster)
 
     result = {
               'pagename': PAGE,
               'globalstats': globalstats,
-              'clusters': clusters,
+              'clusters': clusters_print,
              }
 
     with open('{}/{}.json'.format(OUTPUT_DIRECTORY, PAGE), 'w') as f:
         json.dump(result, f, indent=2)
 
 
-def get_features_lsa(raw_data):
-    likes, comments, shares, tf, msgs, dates, vectorizer = text_features(raw_data)
-
+def get_features_lsa(tf):
     svd_components = 200
     print(time.ctime(), 'Generating {} LSA components and normalizing'.format(svd_components))
     svd = TruncatedSVD(svd_components)
     normalizer = Normalizer(copy=False)
     lsa = make_pipeline(svd, normalizer)
     X = lsa.fit_transform(tf)
-
-    #words = [k for k in sorted(vectorizer.vocabulary_, key=vectorizer.vocabulary_.get)]
-    #words_weights = zip(words, svd.components_[199])
-    #print(highest_number_items([words_weights]))
-    #sys.exit()
 
     return X
 
@@ -302,10 +313,44 @@ def find_largest_cluster(labels):
     return largest_cluster_index
 
 
+def remove_noise_clusters(X, labels):
+    # Print scores while removing clusters for start.
+    # Return indices to keep.
+    labelsI = copy.deepcopy(labels)
+    last_indices = range(len(labels))
+    last_score = silhouette_score(X, labels)
+    print('Silhouette score:       ', last_score)
+
+    i = 0
+    while len(labelsI):
+        largest_cluster_index = find_largest_cluster(labelsI)
+        indices_to_keep = np.where(labelsI != largest_cluster_index)[0]
+        XI = np.array([X[x] for x in indices_to_keep])
+        labelsI = np.array([labels[x] for x in indices_to_keep])
+
+        #score_ch = calinski_harabaz_score(XI, labelsI)
+        score_sil = silhouette_score(XI, labelsI)
+
+        if score_sil < last_score:
+            break
+
+        last_score = score_sil
+        last_indices = indices_to_keep
+
+        print(time.ctime(), 'Removed cluster', i)
+        #print('Calinski harabaz score: ', score_ch)
+        print('Silhouette score:       ', score_sil)
+        print()
+
+        i += 1
+
+    return last_indices
+
+
 def text_clustering(raw_data):
     likes, comments, shares, tf, msgs, dates, vectorizer = text_features(raw_data)
 
-    X = get_features_lsa(raw_data)
+    X = get_features_lsa(tf)
 
     print(time.ctime(), 'Trying to determine best number of clusters.')
     n_clusters = best_number_clusters(X)
@@ -316,9 +361,7 @@ def text_clustering(raw_data):
     print(time.ctime(), 'Starting to fit.')
     labels = predictor.fit_predict(X)
 
-    # Remove the largest cluster - it's usually just noise.
-    largest_cluster_index = find_largest_cluster(labels)
-    indices_to_keep = list(np.where(labels != largest_cluster_index)[0])
+    indices_to_keep = remove_noise_clusters(X, labels)
 
     labels = [labels[i] for i in indices_to_keep]
     X = [X[i] for i in indices_to_keep]

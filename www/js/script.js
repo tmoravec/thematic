@@ -114,8 +114,15 @@ var globalstats = Vue.component('globalstats', {
                 "comments_stdev": 0,
                 "shares_avg": 0,
                 "shares_stdev": 0
-            }
+            },
+	    showGraph: false
         }
+    },
+
+    methods: {
+	toggleGraph: function() {
+	    this.showGraph = !this.showGraph;
+	}
     }
 });
 

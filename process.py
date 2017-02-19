@@ -55,13 +55,13 @@ def load_data():
         return pickle.load(f)
 
 
-def process_message(msg):
+def process_message(message):
     translator = str.maketrans({key: None for key in string.punctuation})
-    msg = msg.translate(translator)
+    message = message.translate(translator)
 
-    msg = msg.replace('\n', ' ')
-    msg = msg.replace('  ', ' ')
-    words = msg.split()
+    message = message.replace('\n', ' ')
+    message = message.replace('  ', ' ')
+    words = message.split()
 
     stemmer = SnowballStemmer('english')
     stems = [stemmer.stem(x) for x in words]
@@ -85,8 +85,14 @@ def vectorize(messages):
 
     # sublinear_tf recommended by TruncatedSVD documentation for use with
     # TruncatedSVD
-    vectorizer = TfidfVectorizer(stop_words=stop_words, max_features=None, ngram_range=(1, 5), norm='l2', sublinear_tf=True, min_df=10)
-    features = vectorizer.fit_transform(messages)
+
+    for i in range(10, 1, -1):
+        vectorizer = TfidfVectorizer(stop_words=stop_words, max_features=None, ngram_range=(1, 5), norm='l2', sublinear_tf=True, min_df=i)
+        features = vectorizer.fit_transform(messages)
+        if features.shape[1] > 200:
+            print(time.ctime(), 'min_df:', i)
+            break
+
     print(time.ctime(), 'Tfidf ignores {} terms.'.format(len(vectorizer.stop_words_)))
 
     return features, vectorizer
@@ -94,7 +100,7 @@ def vectorize(messages):
 
 def text_features(raw_data):
     texts = []
-    unique_msgs = set()
+    unique_messages = set()
     messages = []
     shares = []
     likes = []
@@ -110,10 +116,10 @@ def text_features(raw_data):
 
         if ('message' in item and 'shares' in item and 'likes' in item and
                 'comments' in item):
-            if item['message'] in unique_msgs:
+            if item['message'] in unique_messages:
                 continue
 
-            unique_msgs.add(item['message'])
+            unique_messages.add(item['message'])
             text = item['message']
             if 'name' in item:
                 text += ' ' + item['name']
@@ -231,11 +237,11 @@ def clusterize(labels, likes, comments, shares, messages, tf, dates):
 
 
 def print_clusters(labels, likes, comments, shares, messages, tf, dates,
-                   vectorizer):
+                   vectorizer, orig_size):
 
     # TODO: Turn to clusters sets first and order them by size?
     globalstats = {
-                   'messages': len(messages),
+                   'messages': orig_size,
                    'likes_avg': int(np.mean(likes)),
                    'likes_stdev': int(np.std(likes)),
                    'comments_avg': int(np.mean(comments)),
@@ -348,7 +354,8 @@ def remove_noise_clusters(X, labels):
 
 
 def text_clustering(raw_data):
-    likes, comments, shares, tf, msgs, dates, vectorizer = text_features(raw_data)
+    likes, comments, shares, tf, messages, dates, vectorizer = text_features(raw_data)
+    orig_size = len(messages)
 
     X = get_features_lsa(tf)
 
@@ -369,7 +376,7 @@ def text_clustering(raw_data):
     comments = [comments[i] for i in indices_to_keep]
     shares = [shares[i] for i in indices_to_keep]
     tf = [tf[i].toarray()[0].tolist() for i in indices_to_keep]
-    msgs = [msgs[i] for i in indices_to_keep]
+    messages = [messages[i] for i in indices_to_keep]
     dates = [dates[i] for i in indices_to_keep]
 
     print('Cluster sizes:          ', len(np.bincount(labels)), np.bincount(labels))
@@ -381,7 +388,7 @@ def text_clustering(raw_data):
     print(time.ctime(), 'Drawing.')
     plot_clusters(X, labels)
     print(time.ctime(), 'Printing.')
-    print_clusters(labels, likes, comments, shares, msgs, tf, dates, vectorizer)
+    print_clusters(labels, likes, comments, shares, messages, tf, dates, vectorizer, orig_size)
 
 
 def create_bag_of_centroids(wordlist, word_centroid_map):
@@ -406,10 +413,10 @@ def create_bag_of_centroids(wordlist, word_centroid_map):
 
 
 def get_features_w2v(raw_data):
-    likes, comments, shares, tf, msgs, dates, vectorizer = text_features(raw_data)
+    likes, comments, shares, tf, messages, dates, vectorizer = text_features(raw_data)
 
-    msgs = [process_message(m).split() for m in msgs]
-    model = gensim.models.Word2Vec(msgs, size=200, window=5, min_count=1, workers=4)
+    messages = [process_message(m).split() for m in messages]
+    model = gensim.models.Word2Vec(messages, size=200, window=5, min_count=1, workers=4)
     model.init_sims(True)
 
     n_clusters = int(model.syn0.shape[0] / 5)
@@ -418,8 +425,8 @@ def get_features_w2v(raw_data):
     word_centroid_map = dict(zip(model.index2word, idx))
 
     X = []
-    for msg in msgs:
-        bag = create_bag_of_centroids(msg, word_centroid_map)
+    for message in messages:
+        bag = create_bag_of_centroids(message, word_centroid_map)
         X.append(bag)
 
     return X

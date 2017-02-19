@@ -59,7 +59,7 @@
 		<div>Comments: {{ globalstats.comments_avg }} +- {{ globalstats.comments_stdev }},</div>
 		<div>Shares: {{ globalstats.shares_avg }} +- {{ globalstats.shares_stdev }}.</div>
 	    </div>
-	    <div><span v-on:click="toggleGraph" class="toggle-text toggle-graph">{{ showGraph ? "[-] Hide" : "[+] Show" }} rough cluster distribution.</span></div>
+	    <div><span v-on:click="toggleGraph" class="toggle-text toggle-graph">{{ showGraph ? "[-] Hide" : "[+] Show" }} rough topics distribution.</span></div>
 	    <div v-if="showGraph"><img v-bind:src="globalstats.graph_uri" class="graph" /></div>
 	</div>
     </template>

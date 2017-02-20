@@ -26,9 +26,7 @@ from sklearn.manifold import TSNE
 
 import gensim
 
-PAGE = 'AkamaiTechnologies'
 SINCE = '2012-01-01T00:00:00+0000'
-N_CLUSTERS = 10
 OUTPUT_DIRECTORY = 'www/clusters'
 
 
@@ -38,7 +36,7 @@ def plot_2_arrays(a1, a2):
     sys.exit()
 
 
-def plot_clusters(features, labels):
+def plot_clusters(features, labels, pagename):
     tsne = TSNE(2)
     d2 = tsne.fit_transform(features)
 
@@ -47,11 +45,11 @@ def plot_clusters(features, labels):
 
     pyplot.scatter(xs, ys, c=labels, s=2, cmap='nipy_spectral')
     pyplot.axis('off')
-    pyplot.savefig('{}/{}.png'.format(OUTPUT_DIRECTORY, PAGE), format='png', dpi=300, bbox_inches='tight')
+    pyplot.savefig('{}/{}.png'.format(OUTPUT_DIRECTORY, pagename), format='png', dpi=300, bbox_inches='tight')
 
 
-def load_data():
-    with open(PAGE + '.pkl', 'rb') as f:
+def load_data(pagename):
+    with open(pagename + '.pkl', 'rb') as f:
         return pickle.load(f)
 
 
@@ -186,16 +184,23 @@ def count_vectorize(corpus):
 
 def best_number_clusters(X):
     # Try to reduce difference between average and biggest component size
-    # TODO: Remove the largest cluster and try to search by silhouette_score?
+    # In some cases this works great, in some cases maximizing silhouette_score
+    # would work better.
     diffs = []
-    cluster_sizes = (10, 15, 20, 25, 30, 35)
+
+    cluster_sizes = range(10, 41, 1)
     for n in cluster_sizes:
         predictor = AgglomerativeClustering(n_clusters=n, connectivity=None, linkage='ward', affinity='euclidean')
         labels = predictor.fit_predict(X)
-        sizes = np.bincount(labels)
+
+        indices_to_keep = remove_noise_clusters(X, labels)
+        labelsI = [labels[i] for i in indices_to_keep]
+
+        sizes = np.bincount(labelsI)
         avg_size = np.mean(sizes)
         diffs.append(max(sizes) - avg_size)
 
+    print(time.ctime(), 'best_number_clusters diffs:', diffs)
     index = diffs.index(min(diffs))
     size = cluster_sizes[index]
 
@@ -237,7 +242,7 @@ def clusterize(labels, likes, comments, shares, messages, tf, dates):
 
 
 def print_clusters(labels, likes, comments, shares, messages, tf, dates,
-                   vectorizer, orig_size):
+                   vectorizer, orig_size, pagename):
 
     # TODO: Turn to clusters sets first and order them by size?
     globalstats = {
@@ -248,7 +253,7 @@ def print_clusters(labels, likes, comments, shares, messages, tf, dates,
                    'comments_stdev': int(np.std(comments)),
                    'shares_avg': int(np.mean(shares)),
                    'shares_stdev': int(np.std(shares)),
-                   'graph_uri': 'clusters/' + PAGE + '.png'
+                   'graph_uri': 'clusters/' + pagename + '.png'
                   }
 
 
@@ -287,12 +292,12 @@ def print_clusters(labels, likes, comments, shares, messages, tf, dates,
         clusters_print.append(cluster)
 
     result = {
-              'pagename': PAGE,
+              'pagename': pagename,
               'globalstats': globalstats,
               'clusters': clusters_print,
              }
 
-    with open('{}/{}.json'.format(OUTPUT_DIRECTORY, PAGE), 'w') as f:
+    with open('{}/{}.json'.format(OUTPUT_DIRECTORY, pagename), 'w') as f:
         json.dump(result, f, indent=2)
 
 
@@ -325,7 +330,6 @@ def remove_noise_clusters(X, labels):
     labelsI = copy.deepcopy(labels)
     last_indices = range(len(labels))
     last_score = silhouette_score(X, labels)
-    print('Silhouette score:       ', last_score)
 
     i = 0
     while len(labelsI):
@@ -340,20 +344,17 @@ def remove_noise_clusters(X, labels):
         if score_sil < last_score:
             break
 
+        print(time.ctime(), 'Last score:', last_score, ', removed cluster', i, ', current score:', score_sil)
         last_score = score_sil
         last_indices = indices_to_keep
 
-        print(time.ctime(), 'Removed cluster', i)
-        #print('Calinski harabaz score: ', score_ch)
-        print('Silhouette score:       ', score_sil)
-        print()
 
         i += 1
 
     return last_indices
 
 
-def text_clustering(raw_data):
+def text_clustering(raw_data, pagename):
     likes, comments, shares, tf, messages, dates, vectorizer = text_features(raw_data)
     orig_size = len(messages)
 
@@ -386,9 +387,9 @@ def text_clustering(raw_data):
     print('Silhouette score:       ', silhouette_score(X, labels))
 
     print(time.ctime(), 'Drawing.')
-    plot_clusters(X, labels)
+    plot_clusters(X, labels, pagename)
     print(time.ctime(), 'Printing.')
-    print_clusters(labels, likes, comments, shares, messages, tf, dates, vectorizer, orig_size)
+    print_clusters(labels, likes, comments, shares, messages, tf, dates, vectorizer, orig_size, pagename)
 
 
 def create_bag_of_centroids(wordlist, word_centroid_map):
@@ -434,16 +435,15 @@ def get_features_w2v(raw_data):
 
 
 def main():
-    global PAGE
     print(time.ctime(), 'Loading data.')
 
     try:
-        PAGE = sys.argv[1].split('.pkl')[0]
+        pagename = sys.argv[1].split('.pkl')[0]
     except IndexError:
-        pass
+        pagename = 'psychologytoday'
 
-    raw_data = load_data()
-    text_clustering(raw_data)
+    raw_data = load_data(pagename)
+    text_clustering(raw_data, pagename)
 
 
 

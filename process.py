@@ -197,8 +197,9 @@ def best_number_clusters(X):
         labelsI = [labels[i] for i in indices_to_keep]
 
         sizes = np.bincount(labelsI)
-        avg_size = np.mean(sizes)
-        diffs.append(max(sizes) - avg_size)
+        #avg_size = np.mean(sizes)
+        #diffs.append(max(sizes) - avg_size)
+        diffs.append(max(sizes))
 
     print(time.ctime(), 'best_number_clusters diffs:', diffs)
     index = diffs.index(min(diffs))
@@ -304,7 +305,7 @@ def print_clusters(labels, likes, comments, shares, messages, tf, dates,
 def get_features_lsa(tf):
     svd_components = 200
     print(time.ctime(), 'Generating {} LSA components and normalizing'.format(svd_components))
-    svd = TruncatedSVD(svd_components)
+    svd = TruncatedSVD(svd_components, algorithm='arpack', tol=0)
     normalizer = Normalizer(copy=False)
     lsa = make_pipeline(svd, normalizer)
     X = lsa.fit_transform(tf)

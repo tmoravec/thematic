@@ -27,7 +27,7 @@ from sklearn.manifold import TSNE
 import gensim
 
 SINCE = '2012-01-01T00:00:00+0000'
-OUTPUT_DIRECTORY = 'www/clusters'
+OUTPUT_DIRECTORY = 'clusters'
 
 
 def plot_2_arrays(a1, a2):

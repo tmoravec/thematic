@@ -14,16 +14,16 @@
     {
       "number": 1,
       "important": [
-        "rate",
-        "access",
-        "law",
-        "cut",
         "uninsur",
+        "uninsur rate",
+        "afford",
+        "coverag afford",
         "obamacar",
         "cant afford",
-        "coverag afford",
-        "afford",
-        "uninsur rate"
+        "cut",
+        "access",
+        "rate",
+        "law"
       ],
       "common": [
         "health",
@@ -107,16 +107,16 @@
     {
       "number": 2,
       "important": [
-        "clean power",
         "combat",
-        "clean",
-        "forward",
-        "keep",
         "power",
-        "signific",
-        "clean power plan",
+        "keep",
+        "clean",
+        "plan",
+        "forward",
         "step",
-        "plan"
+        "clean power plan",
+        "clean power",
+        "signific"
       ],
       "common": [
         "change",
@@ -200,16 +200,16 @@
     {
       "number": 3,
       "important": [
-        "fight climat chang",
-        "slow",
-        "climat chang",
-        "effort",
-        "fight climat",
-        "cant afford",
         "chang timelin",
-        "afford",
+        "climat chang",
+        "cant",
         "climat chang timelin",
-        "cant"
+        "fight climat",
+        "slow",
+        "afford",
+        "fight climat chang",
+        "cant afford",
+        "effort"
       ],
       "common": [
         "change",
@@ -298,15 +298,15 @@
       "number": 4,
       "important": [
         "garland",
-        "rate",
-        "fair hear",
-        "senat leader",
         "leader",
-        "give",
-        "possibl",
         "judg garland",
         "giphycom",
-        "hear"
+        "give",
+        "possibl",
+        "hear",
+        "fair hear",
+        "senat leader",
+        "rate"
       ],
       "common": [
         "fair",
@@ -394,16 +394,16 @@
     {
       "number": 5,
       "important": [
+        "day",
         "month",
-        "enjoy",
-        "timelin",
-        "high",
-        "five",
-        "happi",
-        "photo",
-        "abl",
         "juli",
-        "day"
+        "enjoy",
+        "five",
+        "photo",
+        "happi",
+        "abl",
+        "high",
+        "timelin"
       ],
       "common": [
         "day",
@@ -495,125 +495,16 @@
     {
       "number": 6,
       "important": [
-        "meet",
-        "white",
-        "white hous",
-        "hous",
-        "fellow",
-        "choic",
-        "right",
-        "name",
-        "chang",
-        "organ"
-      ],
-      "common": [
-        "bo",
-        "house",
-        "http",
-        "http ofa",
-        "http ofa bo",
-        "ofa",
-        "ofa bo",
-        "president",
-        "white",
-        "white house"
-      ],
-      "messages": [
-        [
-          "Meet Diali: A professional fellow that was recently named a White House Champion of Change. ofa.bo/r9VN Organizer, Fellow, Champion An OFA Professional Fellowship was the right choice for Diali, recently named a White House Champion of Change",
-          1445522504
-        ],
-        [
-          "\"We\u2019ve got to make sure that our criminal justice system works.\u201d \u2014President Obama\n\nGo behind the scenes of the President's recent trip to a federal prison. http://ofa.bo/e5CC Behind the Lens: Photographing the President at a Federal Prison by Pete Souza, Chief Official White House Photographer",
-          1443464875
-        ],
-        [
-          "This is great news for middle-class families. http://ofa.bo/c54u White House: Why All Families Need Paid Leave White House Senior Adviser Valerie Jarrett opens up to Yahoo Parenting about the benefits of this new initiative, why it\u2019s an illusion that paid family leave comes at a \u201csteep cost\u201d for the economy, what work-life balance in the White House looks like, and some of the challenges the President and Fi\u2026",
-          1441647131
-        ],
-        [
-          "Check out these highlights from President Obama's trip to Alaska\u2014including Denali, a trip to the Arctic Circle, and a spawning salmon: http://ofa.bo/q9CM Behind The Lens: Photographing Alaska (For Real This Time) by Pete Souza, Chief Official White House Photographer",
-          1441391817
-        ],
-        [
-          "See how President Obama is keeping the buzz alive. http://ofa.bo/i5jh How the White House plans to help the humble bee maintain its buzz The president is a little obsessed with the insects, in part because they are so crucial to the food supply.",
-          1432055671
-        ],
-        [
-          "Goal complete: President Obama will visit South Dakota today, marking the 50th state he's visited during his presidency. \n\nTake a minute to check out White House photographer Pete Souza's hand-picked gallery from visits to the first 49: http://ofa.bo/h5DV Behind the Lens: Photographing the President in 50 States by Pete Souza, Chief Official White House Photographer",
-          1431110973
-        ],
-        [
-          "Everyone should be part of this conversation. http://ofa.bo/p4pr 10 Reasons You Can't Afford to Stay Out of the Working Families Policy Discussion Valerie Jarrett is Senior Adviser to the President and Chair of the White House Council on Women and Girls. As it turns out, you don't have to be a political wonk to have a policy discussion. And that's the way it should be.",
-          1429112214
-        ],
-        [
-          "Missed the White House Easter Egg Roll? Check out these photos from the fun-filled day. http://ofa.bo/d4IP In Pictures: The White House Easter Egg Roll The President and First Lady welcomed more than 35,000 guests to the 137th annual Easter Egg Roll. Take a look:",
-          1428586248
-        ],
-        [
-          "\"Together, we can help more kids participate\u2014so they too can dream bigger dreams about their futures.\" \u2014President Obama on expanding Take Our Daughters and Sons to Work Day. http://ofa.bo/g4aa Kids Set to Take Over the White House for a Day (Sort of) Calling all kid presidents! Having a parent who works at the White House is no longer a prerequisite for participating in \u201cTake Our Daughters and Sons to Work Day\u201d at 1600 Pennsylvania Avenue. The chance to spend a day \u201cat work\u201d at the White House used to be limited to the sons and daughters of...",
-          1428499343
-        ],
-        [
-          "From musical performances to storytime on the South Lawn, check out the 137th White House Easter Egg Roll. http://ofa.bo/c4H4 2015 White House Easter Egg Roll This year\u2019s theme is \u201c#GimmeFive,\u201d and more than 35,000 people will gather on the South Lawn to join in the celebrations.",
-          1428329060
-        ],
-        [
-          "6-year-old girl scout: \"Have you ever had a brainstorming session yourself?\"\nPresident Obama: \"I have had a couple of brainstorming sessions.\"\n6-year-old girl scout: \"What did you come up with?\"\nPresident Obama: \"I came up with things like ... health care.\"\n\nSee more from the White House Science Fair: http://ofa.bo/p4LN Supergirls Conquer Obama at White House Science Fair President Barack Obama made some waves and warned the robots at the White House Science Fair on Monday, but it was the elementary-school Supergirls who captu...",
-          1427226112
-        ],
-        [
-          "More good economic news\u2014let's keep heading in the right direction: http://ofa.bo/b0l3\n Chart of the Week: Auto Production at Its Highest Rate Since 2002 | The White House The American auto industry is once again a thriving source of our economic strength. The number of cars coming off our assembly lines just reached its highest level in 12 years.",
-          1408651592
-        ],
-        [
-          "This is news worth sharing. http://ofa.bo/c0hR Chart of the Week: Job Openings Hit a 13-Year High This Summer | The White House American business owners advertised 4.67 million jobs in June, the highest number of openings since February 2001\u2014a clear signal that the economy is strengthening.",
-          1408460618
-        ],
-        [
-          "President Obama is hitting the road to meet with Americans who wrote him a letter: http://ofa.bo/a08s\n From Denver to Austin: \"The Bear is Loose\" Again | The White House President Barack Obama has lunch with Rebekah Erler at Matt's Bar in Minneapolis, Minn., June 26, 2014. Erler is a 36-year-old working wife and mother of two pre-school aged boys who had written the President a letter about economic difficulties. (Official White House Photo by Pete Souza)",
-          1404845199
-        ],
-        [
-          "The #AmericanStory has long been written by immigrants. \r\n\r\nOn July 4, 1776... \r\n\r\n\"Fifty-six founders put their names on a piece of paper. Up until that moment, none of them were American. Even those who had spent their entire lives in one of the thirteen colonies had grown up in another country.\u201d \u2014Cecilia Mu\u00f1oz, White House Domestic Policy Council Timeline Photos",
-          1372944596
-        ],
-        [
-          "\"Reading is important. If you know how to read then the whole world opens up to you.\" \u2014President Obama at The White House Easter Egg Roll: http://OFA.BO/bxBShE Timeline Photos",
-          1364852561
-        ],
-        [
-          "Happy Pi Day! (h/t The White House) Timeline Photos",
-          1363269284
-        ],
-        [
-          "President Obama signs one of Luz\u2019s drawings during her family\u2019s visit to the White House. Timeline Photos",
-          1338383366
-        ]
-      ],
-      "dates_start": 1382014906,
-      "dates_end": 1444468778,
-      "likes_avg": 69379,
-      "likes_stdev": 48549,
-      "comments_avg": 3908,
-      "comments_stdev": 4239,
-      "shares_avg": 5061,
-      "shares_stdev": 5273
-    },
-    {
-      "number": 7,
-      "important": [
-        "reform",
-        "whi",
         "whi health",
-        "care reform",
-        "timelin",
+        "whi",
+        "reform",
+        "care",
+        "health care",
         "health",
         "photo",
-        "import",
-        "care",
-        "health care"
+        "care reform",
+        "timelin",
+        "import"
       ],
       "common": [
         "affordable",
@@ -711,18 +602,127 @@
       "shares_stdev": 1910
     },
     {
+      "number": 7,
+      "important": [
+        "white hous",
+        "choic",
+        "hous",
+        "name",
+        "meet",
+        "organ",
+        "right",
+        "white",
+        "fellow",
+        "chang"
+      ],
+      "common": [
+        "bo",
+        "house",
+        "http",
+        "http ofa",
+        "http ofa bo",
+        "ofa",
+        "ofa bo",
+        "president",
+        "white",
+        "white house"
+      ],
+      "messages": [
+        [
+          "Meet Diali: A professional fellow that was recently named a White House Champion of Change. ofa.bo/r9VN Organizer, Fellow, Champion An OFA Professional Fellowship was the right choice for Diali, recently named a White House Champion of Change",
+          1445522504
+        ],
+        [
+          "\"We\u2019ve got to make sure that our criminal justice system works.\u201d \u2014President Obama\n\nGo behind the scenes of the President's recent trip to a federal prison. http://ofa.bo/e5CC Behind the Lens: Photographing the President at a Federal Prison by Pete Souza, Chief Official White House Photographer",
+          1443464875
+        ],
+        [
+          "This is great news for middle-class families. http://ofa.bo/c54u White House: Why All Families Need Paid Leave White House Senior Adviser Valerie Jarrett opens up to Yahoo Parenting about the benefits of this new initiative, why it\u2019s an illusion that paid family leave comes at a \u201csteep cost\u201d for the economy, what work-life balance in the White House looks like, and some of the challenges the President and Fi\u2026",
+          1441647131
+        ],
+        [
+          "Check out these highlights from President Obama's trip to Alaska\u2014including Denali, a trip to the Arctic Circle, and a spawning salmon: http://ofa.bo/q9CM Behind The Lens: Photographing Alaska (For Real This Time) by Pete Souza, Chief Official White House Photographer",
+          1441391817
+        ],
+        [
+          "See how President Obama is keeping the buzz alive. http://ofa.bo/i5jh How the White House plans to help the humble bee maintain its buzz The president is a little obsessed with the insects, in part because they are so crucial to the food supply.",
+          1432055671
+        ],
+        [
+          "Goal complete: President Obama will visit South Dakota today, marking the 50th state he's visited during his presidency. \n\nTake a minute to check out White House photographer Pete Souza's hand-picked gallery from visits to the first 49: http://ofa.bo/h5DV Behind the Lens: Photographing the President in 50 States by Pete Souza, Chief Official White House Photographer",
+          1431110973
+        ],
+        [
+          "Everyone should be part of this conversation. http://ofa.bo/p4pr 10 Reasons You Can't Afford to Stay Out of the Working Families Policy Discussion Valerie Jarrett is Senior Adviser to the President and Chair of the White House Council on Women and Girls. As it turns out, you don't have to be a political wonk to have a policy discussion. And that's the way it should be.",
+          1429112214
+        ],
+        [
+          "Missed the White House Easter Egg Roll? Check out these photos from the fun-filled day. http://ofa.bo/d4IP In Pictures: The White House Easter Egg Roll The President and First Lady welcomed more than 35,000 guests to the 137th annual Easter Egg Roll. Take a look:",
+          1428586248
+        ],
+        [
+          "\"Together, we can help more kids participate\u2014so they too can dream bigger dreams about their futures.\" \u2014President Obama on expanding Take Our Daughters and Sons to Work Day. http://ofa.bo/g4aa Kids Set to Take Over the White House for a Day (Sort of) Calling all kid presidents! Having a parent who works at the White House is no longer a prerequisite for participating in \u201cTake Our Daughters and Sons to Work Day\u201d at 1600 Pennsylvania Avenue. The chance to spend a day \u201cat work\u201d at the White House used to be limited to the sons and daughters of...",
+          1428499343
+        ],
+        [
+          "From musical performances to storytime on the South Lawn, check out the 137th White House Easter Egg Roll. http://ofa.bo/c4H4 2015 White House Easter Egg Roll This year\u2019s theme is \u201c#GimmeFive,\u201d and more than 35,000 people will gather on the South Lawn to join in the celebrations.",
+          1428329060
+        ],
+        [
+          "6-year-old girl scout: \"Have you ever had a brainstorming session yourself?\"\nPresident Obama: \"I have had a couple of brainstorming sessions.\"\n6-year-old girl scout: \"What did you come up with?\"\nPresident Obama: \"I came up with things like ... health care.\"\n\nSee more from the White House Science Fair: http://ofa.bo/p4LN Supergirls Conquer Obama at White House Science Fair President Barack Obama made some waves and warned the robots at the White House Science Fair on Monday, but it was the elementary-school Supergirls who captu...",
+          1427226112
+        ],
+        [
+          "More good economic news\u2014let's keep heading in the right direction: http://ofa.bo/b0l3\n Chart of the Week: Auto Production at Its Highest Rate Since 2002 | The White House The American auto industry is once again a thriving source of our economic strength. The number of cars coming off our assembly lines just reached its highest level in 12 years.",
+          1408651592
+        ],
+        [
+          "This is news worth sharing. http://ofa.bo/c0hR Chart of the Week: Job Openings Hit a 13-Year High This Summer | The White House American business owners advertised 4.67 million jobs in June, the highest number of openings since February 2001\u2014a clear signal that the economy is strengthening.",
+          1408460618
+        ],
+        [
+          "President Obama is hitting the road to meet with Americans who wrote him a letter: http://ofa.bo/a08s\n From Denver to Austin: \"The Bear is Loose\" Again | The White House President Barack Obama has lunch with Rebekah Erler at Matt's Bar in Minneapolis, Minn., June 26, 2014. Erler is a 36-year-old working wife and mother of two pre-school aged boys who had written the President a letter about economic difficulties. (Official White House Photo by Pete Souza)",
+          1404845199
+        ],
+        [
+          "The #AmericanStory has long been written by immigrants. \r\n\r\nOn July 4, 1776... \r\n\r\n\"Fifty-six founders put their names on a piece of paper. Up until that moment, none of them were American. Even those who had spent their entire lives in one of the thirteen colonies had grown up in another country.\u201d \u2014Cecilia Mu\u00f1oz, White House Domestic Policy Council Timeline Photos",
+          1372944596
+        ],
+        [
+          "\"Reading is important. If you know how to read then the whole world opens up to you.\" \u2014President Obama at The White House Easter Egg Roll: http://OFA.BO/bxBShE Timeline Photos",
+          1364852561
+        ],
+        [
+          "Happy Pi Day! (h/t The White House) Timeline Photos",
+          1363269284
+        ],
+        [
+          "President Obama signs one of Luz\u2019s drawings during her family\u2019s visit to the White House. Timeline Photos",
+          1338383366
+        ]
+      ],
+      "dates_start": 1382014906,
+      "dates_end": 1444468778,
+      "likes_avg": 69379,
+      "likes_stdev": 48549,
+      "comments_avg": 3908,
+      "comments_stdev": 4239,
+      "shares_avg": 5061,
+      "shares_stdev": 5273
+    },
+    {
       "number": 8,
       "important": [
-        "pm et",
+        "presid obama",
+        "pm",
         "state",
+        "januari",
+        "et",
         "final",
         "tune",
-        "union",
         "state union",
-        "januari",
-        "presid obama",
-        "et",
-        "pm"
+        "pm et",
+        "union"
       ],
       "common": [
         "http",
@@ -822,16 +822,16 @@
     {
       "number": 9,
       "important": [
+        "sign ofa",
+        "birthday card",
         "issu",
-        "card presid",
         "birthday",
         "weve",
         "happi birthday",
-        "birthday card",
-        "sign ofa",
+        "card presid",
+        "turn",
         "celebr",
-        "card",
-        "turn"
+        "card"
       ],
       "common": [
         "birthday",
@@ -939,16 +939,16 @@
     {
       "number": 10,
       "important": [
+        "made",
+        "full",
+        "equal",
+        "photo",
+        "american",
         "progress",
         "timelin",
         "fight",
-        "weve",
-        "full",
-        "american",
-        "equal",
-        "photo",
         "celebr",
-        "made"
+        "weve"
       ],
       "common": [
         "bo",
@@ -1064,16 +1064,16 @@
     {
       "number": 11,
       "important": [
+        "day",
+        "presid",
+        "mother",
         "thank",
-        "day timelin",
-        "timelin",
         "earth",
+        "abl",
         "happi",
         "photo",
-        "abl",
-        "mother",
-        "day",
-        "presid"
+        "day timelin",
+        "timelin"
       ],
       "common": [
         "day",
@@ -1189,16 +1189,16 @@
     {
       "number": 12,
       "important": [
-        "garland",
-        "fair hear judg",
-        "hear judg",
+        "qualifi",
+        "senat",
+        "candid",
         "done job",
+        "nomin",
+        "fair hear judg",
+        "garland",
         "candid suprem",
         "job",
-        "candid",
-        "senat",
-        "nomin",
-        "qualifi"
+        "hear judg"
       ],
       "common": [
         "court",
@@ -1314,16 +1314,16 @@
     {
       "number": 13,
       "important": [
-        "open",
         "limit time",
-        "limit",
+        "open",
         "time",
-        "health insur marketplac open",
-        "onli",
-        "limit time check",
-        "health insur marketplac",
+        "check option",
         "health insur marketplac open onli",
-        "check option"
+        "limit",
+        "limit time check",
+        "health insur marketplac open",
+        "health insur marketplac",
+        "onli"
       ],
       "common": [
         "check",
@@ -1447,16 +1447,16 @@
     {
       "number": 14,
       "important": [
-        "final",
-        "see",
-        "chanc meet",
-        "trip",
-        "summer",
-        "friend could",
+        "chicago",
         "chanc",
         "pass",
-        "win",
-        "chicago"
+        "chanc meet",
+        "friend could",
+        "final",
+        "trip",
+        "summer",
+        "see",
+        "win"
       ],
       "common": [
         "bo",
@@ -1585,15 +1585,15 @@
       "number": 15,
       "important": [
         "ensur",
-        "us",
-        "let",
-        "timelin",
-        "fellow",
         "love",
+        "let",
         "obama",
         "photo",
         "american",
-        "obama timelin"
+        "obama timelin",
+        "us",
+        "fellow",
+        "timelin"
       ],
       "common": [
         "obama",
@@ -1725,16 +1725,16 @@
     {
       "number": 16,
       "important": [
+        "act",
+        "secur",
         "come",
+        "gain",
         "afford",
+        "cover",
         "million american",
         "afford care act",
-        "million",
-        "cover",
-        "gain",
-        "secur",
         "afford care",
-        "act"
+        "million"
       ],
       "common": [
         "act",
@@ -1867,15 +1867,15 @@
       "number": 17,
       "important": [
         "strengthen",
-        "reform",
-        "comprehens",
-        "system",
-        "immigr system",
-        "broken",
-        "congress",
         "immigr reform",
+        "broken",
         "speak",
-        "immigr"
+        "reform",
+        "congress",
+        "immigr",
+        "comprehens",
+        "immigr system",
+        "system"
       ],
       "common": [
         "bo",
@@ -2015,16 +2015,16 @@
     {
       "number": 18,
       "important": [
-        "rise",
-        "monday",
-        "minimum",
-        "worker",
         "movement",
-        "econom",
         "better",
-        "polit",
         "major",
-        "win"
+        "minimum",
+        "rise",
+        "polit",
+        "worker",
+        "monday",
+        "win",
+        "econom"
       ],
       "common": [
         "bo",
@@ -2176,15 +2176,15 @@
     {
       "number": 19,
       "important": [
-        "michell",
-        "issu",
-        "never",
-        "access",
-        "across",
-        "educ",
         "person",
-        "first ladi",
+        "never",
+        "issu",
         "polici",
+        "michell",
+        "educ",
+        "first ladi",
+        "across",
+        "access",
         "michell obama"
       ],
       "common": [
@@ -2337,16 +2337,16 @@
     {
       "number": 20,
       "important": [
-        "life",
-        "share agre",
-        "agre",
-        "timelin",
-        "great",
-        "abl",
-        "photo",
-        "stori share",
         "share",
-        "tell"
+        "great",
+        "share agre",
+        "life",
+        "stori share",
+        "photo",
+        "abl",
+        "tell",
+        "timelin",
+        "agre"
       ],
       "common": [
         "bo",
@@ -2502,16 +2502,16 @@
     {
       "number": 21,
       "important": [
-        "fundrais",
         "movement",
-        "depend",
-        "call",
         "last call",
-        "move",
         "befor",
+        "keep momentum",
         "pitch",
+        "move",
+        "fundrais",
         "momentum",
-        "keep momentum"
+        "depend",
+        "call"
       ],
       "common": [
         "bo",
@@ -2679,193 +2679,16 @@
     {
       "number": 22,
       "important": [
-        "call get",
-        "timelin",
-        "donat",
-        "call",
-        "last call",
-        "last",
-        "befor",
-        "midnight",
-        "get",
-        "deadlin"
-      ],
-      "common": [
-        "bo",
-        "covered",
-        "get",
-        "health",
-        "http",
-        "http ofa",
-        "http ofa bo",
-        "last",
-        "ofa",
-        "ofa bo"
-      ],
-      "messages": [
-        [
-          "LAST CALL: Get your donation in before midnight's deadline. http://ofa.bo/d5qW Timeline Photos",
-          1459446098
-        ],
-        [
-          "Be smart. Get covered before the February 15th deadline. http://ofa.bo/f2lM Timeline Photos",
-          1423169337
-        ],
-        [
-          "It's time to listen to your friends and family. Get covered right now. http://ofa.bo/d2Pt",
-          1422025235
-        ],
-        [
-          "Take note: Pre-existing conditions can no longer stop you from getting covered. http://ofa.bo/d0uc Timeline Photos",
-          1411125654
-        ],
-        [
-          "Your annual checkup: covered. Timeline Photos",
-          1400263617
-        ],
-        [
-          "This Mother's Day, don't forget: Maternity care is covered. Timeline Photos",
-          1399728042
-        ],
-        [
-          "You can help fight back against the other side's scare tactics: http://ofa.bo/eRK LAST CALL TO GET COVERED If you don't have health insurance, March 31st is your last chance to enroll in coverage that starts in 2014.",
-          1396277975
-        ],
-        [
-          "Tell your friends: They're running out of time. The deadline to enroll in quality, affordable health insurance on the new marketplace is March 31st. http://ofa.bo/iRm\n LAST CALL TO GET COVERED If you don't have health insurance, March 31st is your last chance to enroll in coverage that starts in 2014.",
-          1396179669
-        ],
-        [
-          "FACT: Breaking your leg could cost more than $3,000 without insurance. Don't get caught without coverage: http://ofa.bo/eQ9 LAST CALL TO GET COVERED If you don't have health insurance, March 31st is your last chance to enroll in coverage that starts in 2014.",
-          1396101841
-        ],
-        [
-          "Breaking your arm hurts bad enough, without a $7,000 price tag. Get covered now and keep money in your wallet: http://ofa.bo/hPl Timeline Photos",
-          1396008302
-        ],
-        [
-          "Don\u2019t get left out in the cold. Get covered by March 31st. http://ofa.bo/sMv Timeline Photos",
-          1395585235
-        ],
-        [
-          "Don\u2019t let your chance to get covered get away. Enroll before the March 31st deadline: http://ofa.bo/rLT\n LAST CALL TO GET COVERED If you don't have health insurance, March 31st is your last chance to enroll in coverage that starts in 2014.",
-          1395408686
-        ],
-        [
-          "The enrollment deadline for 2014 is coming up fast\u2014make sure you get covered by March 31st: http://ofa.bo/pK7 Last call for health care It's the last call for health care in 2014. Apply, shop, and buy a plan before March 31st to make sure you're covered this year.",
-          1395235692
-        ],
-        [
-          "DYK: 50% of uninsured single young adults are eligible for coverage that costs only $50.\n\nCheck out your options today: http://ofa.bo/bKF  Last call for health care It's the last call for health care in 2014. Apply, shop, and buy a plan before March 31st to make sure you're covered this year.",
-          1395169769
-        ],
-        [
-          "Options for affordable care on the new marketplace are mind-blowing. See for yourself: http://ofa.bo/aHs LAST CALL TO GET COVERED If you don't have health insurance, March 31st is your last chance to enroll in coverage that starts in 2014.",
-          1394886391
-        ],
-        [
-          "Take a look at your options. http://ofa.bo/bHx LAST CALL TO GET COVERED If you don't have health insurance, March 31st is your last chance to enroll in coverage that starts in 2014.",
-          1394805820
-        ],
-        [
-          "There are only a few weeks left to get health coverage that starts in 2014. Don't wait: http://ofa.bo/jDq LAST CALL TO GET COVERED If you don't have health insurance, March 31st is your last chance to enroll in coverage that starts in 2014.",
-          1394377115
-        ],
-        [
-          "Don't miss your chance to get covered in 2014. Get enrolled now. http://ofa.bo/jD8 LAST CALL TO GET COVERED If you don't have health insurance, March 31st is your last chance to enroll in coverage that starts in 2014.",
-          1394211842
-        ],
-        [
-          "The final month of health care enrollment for 2014 is here. Are you covered? http://ofa.bo/gAi  LAST CALL TO GET COVERED If you don't have health insurance, March 31st is your last chance to enroll in coverage that starts in 2014.",
-          1393871587
-        ],
-        [
-          "Last call: http://ofa.bo/gAC  Be covered on the 1st Apply, shop, and buy before March 31st to make sure you are covered in 2014.\n",
-          1393782818
-        ],
-        [
-          "Share Rosetta\u2019s story: Getting covered doesn't mean breaking the bank anymore\u2014she pays less than $40 a month. http://ofa.bo/r9Y Timeline Photos",
-          1393008623
-        ],
-        [
-          "Health coverage will be yours on March 1st if you enroll now. http://ofa.bo/i7a Be covered on the 1st Apply, shop, and buy before January 15th to make sure you are covered on February 1st.",
-          1392474787
-        ],
-        [
-          "Time is running out. Get shopping: http://ofa.bo/q7K Be covered on the 1st Apply, shop, and buy before January 15th to make sure you are covered on February 1st.",
-          1392402458
-        ],
-        [
-          "Share this: Amanda and Solomon are newlyweds who had been uninsured for years. Now they're covered.",
-          1391778347
-        ],
-        [
-          "Health insurance advice from Kal Penn: Get covered. Help your friends get covered. Don't make out with someone with mono. http://ofa.bo/e01 Kal Penn: OH MAN NO ONE SIGNED UP FOR OBAMACARE WE\u2019RE ALL DOOMED! Oh wait, they did. They totally did.",
-          1390404938
-        ],
-        [
-          "Enjoy Valentine's Day next month with health insurance: http://ofa.bo/ik Be covered on the 1st Apply, shop, and buy health insurance before January 15th to make sure you are covered on February 1st.",
-          1389710130
-        ],
-        [
-          "Need health insurance? Enroll by January 15th, and be covered on February 1st: http://ofa.bo/fg Be covered on the 1st Apply, shop, and buy health insurance before January 15th to make sure you are covered on February 1st.",
-          1389545399
-        ],
-        [
-          "Affordable health care is here\u2014that's a win: http://ofa.bo/aU Be covered on the 1st Apply, shop, and buy before January 15th to make sure you are covered on February 1st.",
-          1389280010
-        ],
-        [
-          "It's time to get covered: http://ofa.bo/cK Barack Obama's cover photo",
-          1389052782
-        ],
-        [
-          "Today is a great day to get covered. http://ofa.bo/iL Be covered on the 1st Apply, shop, and buy health insurance before January 15th to make sure you are covered on February 1st.",
-          1389038292
-        ],
-        [
-          "Be covered on February 1st: http://ofa.bo/fN Be covered on the 1st Apply, shop, and buy before January 15th to make sure you are covered on February 1st.",
-          1388950801
-        ],
-        [
-          "Don't be upset\u2014you can still be covered on February 1st. http://ofa.bo/gS Timeline Photos",
-          1388785561
-        ],
-        [
-          "Here's how to be covered on January 1st: http://OFA.BO/F5yp8t Timeline Photos",
-          1387381453
-        ],
-        [
-          "Getting covered is at your fingertips: http://OFA.BO/UpHXQB Timeline Photos",
-          1387123018
-        ],
-        [
-          "Last call to get your favorite Obama bumper sticker for free\u2014choose yours right now: http://OFA.BO/TXtTsZ Timeline Photos",
-          1347839624
-        ]
-      ],
-      "dates_start": 1380164387,
-      "dates_end": 1411517724,
-      "likes_avg": 36585,
-      "likes_stdev": 36144,
-      "comments_avg": 3207,
-      "comments_stdev": 2040,
-      "shares_avg": 2045,
-      "shares_stdev": 1909
-    },
-    {
-      "number": 23,
-      "important": [
         "parent",
-        "hope",
-        "word",
-        "give",
-        "women",
         "mother",
         "idea",
+        "alway",
         "equal",
+        "give",
+        "women",
+        "hope",
         "deserv",
-        "alway"
+        "word"
       ],
       "common": [
         "barack",
@@ -3031,18 +2854,195 @@
       "shares_stdev": 27845
     },
     {
+      "number": 23,
+      "important": [
+        "timelin",
+        "donat",
+        "last call",
+        "befor",
+        "call get",
+        "get",
+        "midnight",
+        "deadlin",
+        "last",
+        "call"
+      ],
+      "common": [
+        "bo",
+        "covered",
+        "get",
+        "health",
+        "http",
+        "http ofa",
+        "http ofa bo",
+        "last",
+        "ofa",
+        "ofa bo"
+      ],
+      "messages": [
+        [
+          "LAST CALL: Get your donation in before midnight's deadline. http://ofa.bo/d5qW Timeline Photos",
+          1459446098
+        ],
+        [
+          "Be smart. Get covered before the February 15th deadline. http://ofa.bo/f2lM Timeline Photos",
+          1423169337
+        ],
+        [
+          "It's time to listen to your friends and family. Get covered right now. http://ofa.bo/d2Pt",
+          1422025235
+        ],
+        [
+          "Take note: Pre-existing conditions can no longer stop you from getting covered. http://ofa.bo/d0uc Timeline Photos",
+          1411125654
+        ],
+        [
+          "Your annual checkup: covered. Timeline Photos",
+          1400263617
+        ],
+        [
+          "This Mother's Day, don't forget: Maternity care is covered. Timeline Photos",
+          1399728042
+        ],
+        [
+          "You can help fight back against the other side's scare tactics: http://ofa.bo/eRK LAST CALL TO GET COVERED If you don't have health insurance, March 31st is your last chance to enroll in coverage that starts in 2014.",
+          1396277975
+        ],
+        [
+          "Tell your friends: They're running out of time. The deadline to enroll in quality, affordable health insurance on the new marketplace is March 31st. http://ofa.bo/iRm\n LAST CALL TO GET COVERED If you don't have health insurance, March 31st is your last chance to enroll in coverage that starts in 2014.",
+          1396179669
+        ],
+        [
+          "FACT: Breaking your leg could cost more than $3,000 without insurance. Don't get caught without coverage: http://ofa.bo/eQ9 LAST CALL TO GET COVERED If you don't have health insurance, March 31st is your last chance to enroll in coverage that starts in 2014.",
+          1396101841
+        ],
+        [
+          "Breaking your arm hurts bad enough, without a $7,000 price tag. Get covered now and keep money in your wallet: http://ofa.bo/hPl Timeline Photos",
+          1396008302
+        ],
+        [
+          "Don\u2019t get left out in the cold. Get covered by March 31st. http://ofa.bo/sMv Timeline Photos",
+          1395585235
+        ],
+        [
+          "Don\u2019t let your chance to get covered get away. Enroll before the March 31st deadline: http://ofa.bo/rLT\n LAST CALL TO GET COVERED If you don't have health insurance, March 31st is your last chance to enroll in coverage that starts in 2014.",
+          1395408686
+        ],
+        [
+          "The enrollment deadline for 2014 is coming up fast\u2014make sure you get covered by March 31st: http://ofa.bo/pK7 Last call for health care It's the last call for health care in 2014. Apply, shop, and buy a plan before March 31st to make sure you're covered this year.",
+          1395235692
+        ],
+        [
+          "DYK: 50% of uninsured single young adults are eligible for coverage that costs only $50.\n\nCheck out your options today: http://ofa.bo/bKF  Last call for health care It's the last call for health care in 2014. Apply, shop, and buy a plan before March 31st to make sure you're covered this year.",
+          1395169769
+        ],
+        [
+          "Options for affordable care on the new marketplace are mind-blowing. See for yourself: http://ofa.bo/aHs LAST CALL TO GET COVERED If you don't have health insurance, March 31st is your last chance to enroll in coverage that starts in 2014.",
+          1394886391
+        ],
+        [
+          "Take a look at your options. http://ofa.bo/bHx LAST CALL TO GET COVERED If you don't have health insurance, March 31st is your last chance to enroll in coverage that starts in 2014.",
+          1394805820
+        ],
+        [
+          "There are only a few weeks left to get health coverage that starts in 2014. Don't wait: http://ofa.bo/jDq LAST CALL TO GET COVERED If you don't have health insurance, March 31st is your last chance to enroll in coverage that starts in 2014.",
+          1394377115
+        ],
+        [
+          "Don't miss your chance to get covered in 2014. Get enrolled now. http://ofa.bo/jD8 LAST CALL TO GET COVERED If you don't have health insurance, March 31st is your last chance to enroll in coverage that starts in 2014.",
+          1394211842
+        ],
+        [
+          "The final month of health care enrollment for 2014 is here. Are you covered? http://ofa.bo/gAi  LAST CALL TO GET COVERED If you don't have health insurance, March 31st is your last chance to enroll in coverage that starts in 2014.",
+          1393871587
+        ],
+        [
+          "Last call: http://ofa.bo/gAC  Be covered on the 1st Apply, shop, and buy before March 31st to make sure you are covered in 2014.\n",
+          1393782818
+        ],
+        [
+          "Share Rosetta\u2019s story: Getting covered doesn't mean breaking the bank anymore\u2014she pays less than $40 a month. http://ofa.bo/r9Y Timeline Photos",
+          1393008623
+        ],
+        [
+          "Health coverage will be yours on March 1st if you enroll now. http://ofa.bo/i7a Be covered on the 1st Apply, shop, and buy before January 15th to make sure you are covered on February 1st.",
+          1392474787
+        ],
+        [
+          "Time is running out. Get shopping: http://ofa.bo/q7K Be covered on the 1st Apply, shop, and buy before January 15th to make sure you are covered on February 1st.",
+          1392402458
+        ],
+        [
+          "Share this: Amanda and Solomon are newlyweds who had been uninsured for years. Now they're covered.",
+          1391778347
+        ],
+        [
+          "Health insurance advice from Kal Penn: Get covered. Help your friends get covered. Don't make out with someone with mono. http://ofa.bo/e01 Kal Penn: OH MAN NO ONE SIGNED UP FOR OBAMACARE WE\u2019RE ALL DOOMED! Oh wait, they did. They totally did.",
+          1390404938
+        ],
+        [
+          "Enjoy Valentine's Day next month with health insurance: http://ofa.bo/ik Be covered on the 1st Apply, shop, and buy health insurance before January 15th to make sure you are covered on February 1st.",
+          1389710130
+        ],
+        [
+          "Need health insurance? Enroll by January 15th, and be covered on February 1st: http://ofa.bo/fg Be covered on the 1st Apply, shop, and buy health insurance before January 15th to make sure you are covered on February 1st.",
+          1389545399
+        ],
+        [
+          "Affordable health care is here\u2014that's a win: http://ofa.bo/aU Be covered on the 1st Apply, shop, and buy before January 15th to make sure you are covered on February 1st.",
+          1389280010
+        ],
+        [
+          "It's time to get covered: http://ofa.bo/cK Barack Obama's cover photo",
+          1389052782
+        ],
+        [
+          "Today is a great day to get covered. http://ofa.bo/iL Be covered on the 1st Apply, shop, and buy health insurance before January 15th to make sure you are covered on February 1st.",
+          1389038292
+        ],
+        [
+          "Be covered on February 1st: http://ofa.bo/fN Be covered on the 1st Apply, shop, and buy before January 15th to make sure you are covered on February 1st.",
+          1388950801
+        ],
+        [
+          "Don't be upset\u2014you can still be covered on February 1st. http://ofa.bo/gS Timeline Photos",
+          1388785561
+        ],
+        [
+          "Here's how to be covered on January 1st: http://OFA.BO/F5yp8t Timeline Photos",
+          1387381453
+        ],
+        [
+          "Getting covered is at your fingertips: http://OFA.BO/UpHXQB Timeline Photos",
+          1387123018
+        ],
+        [
+          "Last call to get your favorite Obama bumper sticker for free\u2014choose yours right now: http://OFA.BO/TXtTsZ Timeline Photos",
+          1347839624
+        ]
+      ],
+      "dates_start": 1380164387,
+      "dates_end": 1411517724,
+      "likes_avg": 36585,
+      "likes_stdev": 36144,
+      "comments_avg": 3207,
+      "comments_stdev": 2040,
+      "shares_avg": 2045,
+      "shares_stdev": 1909
+    },
+    {
       "number": 24,
       "important": [
-        "meet",
-        "wait",
-        "meet presid obama",
-        "deadlin",
-        "meet presid",
-        "summer",
         "chanc",
-        "enter",
+        "meet presid",
+        "meet",
+        "alway",
         "last chanc",
-        "alway"
+        "enter",
+        "summer",
+        "deadlin",
+        "meet presid obama",
+        "wait"
       ],
       "common": [
         "bo",
@@ -3218,16 +3218,16 @@
     {
       "number": 25,
       "important": [
-        "energi",
+        "renew",
         "accord",
+        "intern",
+        "five",
+        "record",
         "last year",
-        "power",
         "new",
         "act climat",
-        "five",
-        "renew",
-        "record",
-        "intern"
+        "energi",
+        "power"
       ],
       "common": [
         "bo",
@@ -3407,16 +3407,16 @@
     {
       "number": 26,
       "important": [
-        "let",
+        "sure",
         "peopl",
         "better",
-        "birthday",
-        "sure",
-        "abl",
-        "obama",
-        "make",
         "make sure",
-        "coverag"
+        "birthday",
+        "obama",
+        "coverag",
+        "abl",
+        "make",
+        "let"
       ],
       "common": [
         "bo",
@@ -3600,16 +3600,16 @@
     {
       "number": 27,
       "important": [
-        "us",
         "hour",
-        "percent",
+        "unemploy rate",
         "year",
-        "earn",
         "littl",
-        "economi work",
+        "earn",
         "unemploy",
+        "economi work",
+        "us",
         "wage",
-        "unemploy rate"
+        "percent"
       ],
       "common": [
         "bo",
@@ -3801,16 +3801,16 @@
     {
       "number": 28,
       "important": [
-        "good news",
-        "economi work",
-        "million american",
-        "million",
+        "benefit",
+        "giphycom",
+        "must",
         "obamacar",
         "abl",
-        "must",
-        "giphycom",
+        "economi work",
+        "million american",
         "american",
-        "benefit"
+        "good news",
+        "million"
       ],
       "common": [
         "com",
@@ -4006,16 +4006,249 @@
     {
       "number": 29,
       "important": [
-        "enjoy",
-        "week",
-        "overtim",
-        "minimum",
-        "whi",
-        "effort",
-        "depend",
+        "write",
+        "polici",
+        "challeng",
+        "tackl",
+        "four",
+        "ahead",
+        "busi",
+        "way",
+        "america",
+        "econom"
+      ],
+      "common": [
+        "bo",
+        "http",
+        "http ofa",
+        "http ofa bo",
+        "obama",
+        "ofa",
+        "ofa bo",
+        "paid",
+        "president",
+        "trade"
+      ],
+      "messages": [
+        [
+          "America's economic progress, challenges, and opportunities\u2014straight from the President's desk. The way ahead America\u2019s president writes for us about four crucial areas of unfinished business in economic policy that his successor will have to tackle",
+          1476213578
+        ],
+        [
+          "No American family should be trapped by high-cost loans that they can't escape.\n\nThat's why the Consumer Financial Protection Bureau (CFPB) is working on tough rules to rein in payday lenders' predatory practices\u2014and they're taking public comments through the end of the day today. Support tough rules to stop debt trap loans The Consumer Financial Protection Bureau is working on rules for payday lenders\u2014speak up in support of them now by adding a comment.",
+          1475869120
+        ],
+        [
+          "\"Paid sick leave isn\u2019t a side issue, or a women\u2019s issue, or something that\u2019s just nice to have. It\u2019s a must-have. By the way, so are economic priorities like child care, paid family leave, equal pay, and a higher minimum wage. We need a Congress that will act on all these issues.\" \u2014President Obama",
+          1475326008
+        ],
+        [
+          "The United States is the only developed country that doesn\u2019t have a national paid sick leave requirement. President Obama is trying to change that. What Can the President Do to Help Workers Who Need a Sick Day? We Asked Him. The United States is the only industrialized country in the world where employees aren\u2019t guaranteed the right to take a paid sick day off of work. As a ...",
+          1475177895
+        ],
+        [
+          "We are the only industrialized nation that doesn't guarantee workers paid family leave. It's time to catch up. The Labor Department is pushing states to create their own paid family leave programs Six state and municipalities will receive $1.1 million from the federal government to research how much it would cost to open the public aid to residents.",
+          1471006779
+        ],
+        [
+          "\"Only seven percent of full-time salaried workers are eligible for overtime based on their income. That\u2019s why this week, my administration took a step to help more workers get the overtime pay they\u2019ve earned. The Department of Labor finalized a rule to extend overtime protections to 4.2 million more Americans.\" \u2014President Barack Obama \n\nWatch the weekly address.",
+          1463837135
+        ],
+        [
+          "The new overtime rule will benefit 4.2 million American workers. http://ofa.bo/xSo Speak up for stronger overtime protections American workers and their families deserve the security and peace of mind that comes with a fair paycheck for a hard day's work.",
+          1463600823
+        ],
+        [
+          "\"But building walls to isolate ourselves from the global economy would only isolate us from the incredible opportunities it provides. Instead, America should write the rules. America should call the shots. Other countries should play by the rules that America and our partners set, and not the other way around.\" \u2014President Obama\n\nRead more from President Obama's op-ed on the Trans-Pacific Partnership agreement: http://ofa.bo/yTF President Obama: The TPP would let America, not China, lead the way on global trade This is the U.S.\u2019s chance to write the rules of the road on trade in the 21st century.",
+          1462301938
+        ],
+        [
+          "American workers deserve the flexibility and security that comes with paid sick leave. Timeline Photos",
+          1460403981
+        ],
+        [
+          "Expanding paid sick leave is good for our families and our economy. http://ofa.bo/gA4S Speak up for paid sick leave\u2014add your voice President Obama is taking a big step to expand paid sick leave. Show your support\u2014add a comment.",
+          1460386376
+        ],
+        [
+          "The United States is the only advanced nation that doesn't guarantee some form of paid leave for its workers. It's time to change that. http://ofa.bo/fA5O Speak up for paid sick leave\u2014add your voice President Obama is taking a big step to expand paid sick leave. Show your support\u2014add a comment.",
+          1460060056
+        ],
+        [
+          "Working Americans should have the basic security of paid sick leave. Timeline Photos",
+          1460037103
+        ],
+        [
+          "American diplomacy has helped verifiably block Iran's pathways to a nuclear bomb. http://ofa.bo/g9f8 A Safer World, Thanks to the Iran Deal Although there are difficult challenges ahead, President Obama\u2019s pursuit of diplomacy with Tehran over the nuclear threat has so far paid off.",
+          1453224553
+        ],
+        [
+          "\"These tough new rules level the playing field, and when American workers have a fair chance to compete, I believe they\u2019ll win every time.\" \u2014President Obama on the Trans-Pacific Partnership\n\nRead more: http://ofa.bo/f9Vf A Trade Deal for Working Families Barack Obama writes that the Trans-Pacific Partnership will create good American jobs.",
+          1447186659
+        ],
+        [
+          "Read how the Trans-Pacific Partnership ensures American leadership on trade. http://ofa.bo/b5ME Here\u2019s the Deal: The Text of the Trans-Pacific Partnership \u2014 The Trans-Pacific Partnership When we have a level playing field, Americans out-compete anyone in the world.",
+          1446737428
+        ],
+        [
+          "Add your name to support the Trans-Pacific Partnership (TPP)\u2014a trade deal that boosts American-made exports, supports higher-paying jobs, and protects American workers. http://ofa.bo/p9YE It's time to lead on trade Add your name to support a trade agreement that helps middle-class families and sets high standards for labor and the environment.",
+          1444158824
+        ],
+        [
+          "The largest regional trade accord in history has the chance to set enforceable labor and environmental standards around the Pacific. http://ofa.bo/t9OX Trans-Pacific Partnership Trade Deal Is Reached Negotiators reached an agreement on the Trans-Pacific Partnership, a potentially precedent-setting model for global commerce and worker standards.",
+          1444073076
+        ],
+        [
+          "People shouldn't have to choose between taking care of a sick loved one and getting a paycheck. http://ofa.bo/d5Aq Why Paid Leave Matters for the Future of Business Leading business school faculty from across the U.S. make their case.",
+          1442588028
+        ],
+        [
+          "Add your name and join the conversation on the Iran deal. http://ofa.bo/f9JM Be part of the conversation on Iran Facts matter\u2014make sure you stay informed on the agreement with Iran.",
+          1441809563
+        ],
+        [
+          "Read how the Obama administration is fighting for working families at the local level. http://ofa.bo/r9Ix Pushing For Paid Leave And A Higher Minimum Wage, One State At A Time DETROIT -- After flying here from Baltimore on a late August afternoon, Labor Secretary Tom Perez hopped in a waiting SUV at the airport. He was headed to a Methodist church downtown, where he was set",
+          1441739104
+        ],
+        [
+          "Get the facts from Secretary of State John Kerry on the international agreement with Iran to curb its nuclear program. http://ofa.bo/e53H Debunking Myths Around the Nuclear Agreement With Iran \u2014 The Iran Deal Yesterday in Philadelphia, I laid out the facts about the agreement that the United States and its partners reached with\u2026",
+          1441723556
+        ],
+        [
+          "Tomorrow is your last chance to let the Department of Labor know that you support stronger overtime protections. http://ofa.bo/d55r Speak up for stronger overtime rules The Department of Labor is collecting comments on the path forward to fix overtime. Add your voice.",
+          1441302104
+        ],
+        [
+          "Before Friday's deadline, tell the Department of Labor you support modern overtime rules for a modern economy. http://ofa.bo/c53s Speak up for stronger overtime rules The Department of Labor is collecting comments on the path forward to fix overtime. Add your voice.",
+          1441201992
+        ],
+        [
+          "\"The advocates for a vote of disapproval in Congress have also not put forward a viable alternative.\" \u2014Former U.S. Secretary of State Madeleine K. Albright on the Iran deal\n\nRead more: http://ofa.bo/d55Y Madeleine Albright: Iran deal is a win-win - CNN.com The former Secretary of State says the U.S. would be in a far stronger position in the Middle East if the Iran deal is allowed to go into effect.",
+          1441113722
+        ],
+        [
+          "\"I believe that rejecting this deal would significantly weaken our ability to achieve our broader foreign policy goals.\" \u2014Ambassador Samantha Power\n\nRead more: http://ofa.bo/a57N Congress, Don\u2019t Isolate America Again Over Iran We\u2019ll lose a huge amount of influence around the world if the deal is voted down.",
+          1440779767
+        ],
+        [
+          "Add your name to get all the facts on the historic Iran deal. http://ofa.bo/j9AZ Be part of the conversation on Iran Facts matter\u2014make sure you stay informed on the agreement with Iran.",
+          1440509973
+        ],
+        [
+          "It's important to have all the facts about the Iran deal. Add your name to stay informed: http://ofa.bo/q996 Be part of the conversation on Iran Facts matter\u2014get the full story on the agreement with Iran.",
+          1440095635
+        ],
+        [
+          "Read why expanding overtime protections would make a difference for millions of American workers\u2014especially women. http://ofa.bo/r9CT Support fair overtime protections President Obama's proposal to update overtime protections would benefit millions of Americans in the workforce\u2014especially women.",
+          1439385149
+        ],
+        [
+          "President Obama discussed the implications of the historic Iran deal in an exclusive interview with Mic. Check it out. http://ofa.bo/i9BI We Challenged Obama With Your Questions About Iran \u2014 Here's How He Responded In an exclusive sit-down interview with President Obama, Mic asked the president about the implications of a nuclear Iran, and why his deal is the best solution.",
+          1439229550
+        ],
+        [
+          "Your voice matters\u2014show your support for expanding overtime protections. http://ofa.bo/f8te Speak up for stronger overtime rules The Department of Labor is collecting comments on the path forward to fix overtime. Add your voice.",
+          1436382453
+        ],
+        [
+          "Paying people fairly for the work they do seems like a no-brainer\u2014but it\u2019s not always a reality. Learn more about why it\u2019s time to fix overtime protections. http://ofa.bo/g8oA Speak up for better overtime protections Paying people fairly for the work they do is a pretty basic principle. But over the last few decades, fewer and fewer workers have been protected.",
+          1436284143
+        ],
+        [
+          "Go on the record in support of more workers getting fair overtime pay\u2014add your name today. http://ofa.bo/r8qG Speak up for stronger overtime rules The Department of Labor is collecting comments on the path forward to fix overtime. Add your voice.",
+          1436214450
+        ],
+        [
+          "\u201cWe've got to keep making sure hard work is rewarded.\u201d \u2014President Obama\n\nRead more on the President's plan to expand overtime pay: http://ofa.bo/f8hk A Hard Day's Work Deserves a Fair Day's Pay Right now, too many Americans are working long days for less pay than they deserve. That's partly because we've failed to update overtime regulations for years -- and an exemption meant for highly paid, white collar employees now leaves out workers making as little as $23,660 a year -- no matter how\u2026",
+          1435848152
+        ],
+        [
+          "\"The choice between being a progressive and being for free and fair trade is a false one: We can stand for progressive, democratic values while also working to promote those values overseas.\" \u2014Ron Kirk, former U.S. trade representative\n\nRead more on why the Trans-Pacific Partnership is good for our economy and our workers. http://ofa.bo/h7Gu U.S. economy needs trade promotion authority Last month, the U.S. Senate delivered a major victory to the administration's push to expand free and fair trade when it voted to approve trade promotion authority for President Barack Obama. [...] as the House takes up the issue, it will be critical for congressional leaders from both parties to co\u2026",
+          1433797076
+        ],
+        [
+          "We can't count on other nations to pursue tough, enforceable labor and environmental protections. That's why America needs to lead on trade. http://ofa.bo/h6Pa It's time to lead on trade Add your name to support the most progressive trade agreement in American history, with protections for labor and the environment.",
+          1432929478
+        ],
+        [
+          "Now's the chance to reach a truly progressive, transparent trade agreement that opens up opportunities for the middle class. Add your name: http://ofa.bo/s68f It's time to lead on trade Add your name to support the most progressive trade agreement in American history, with protections for labor and the environment.",
+          1432648754
+        ],
+        [
+          "American leadership means fighting for middle-class families in the global economy. Add your name if you agree. http://ofa.bo/f5s5 It's time to lead on trade Add your name to support the most progressive trade agreement in American history, with protections for labor and the environment.",
+          1432304712
+        ],
+        [
+          "This decides who writes the rules in our global economy. President Obama is fighting to make sure they reflect America's values. Join the fight. http://ofa.bo/i5mI It's time to lead on trade Add your name to support the most progressive trade agreement in American history, with protections for labor and the environment.",
+          1432135108
+        ],
+        [
+          "We need 21st century workplace policies. Hard-working Americans deserve the security of paid leave. http://ofa.bo/r5gq Let's make paid leave a worker's right 43 million Americans in the private sector don't have access to paid leave\u2013\u2013we can do better.",
+          1431971575
+        ],
+        [
+          "America can't afford to sit on the sidelines while other countries write the rules for the global economy\u2014add your name: http://ofa.bo/q5V0 It's time to lead on trade Add your name to support the most progressive trade agreement in American history, with protections for labor and the environment.",
+          1431696587
+        ],
+        [
+          "Nearly 1 in 8 Americans are in default because of student loan debt. This is a first step toward fixing that. http://ofa.bo/s5V5 Consumer Agency Begins Probe Of Student Loan Servicers, Signaling Stronger Rules The Consumer Financial Protection Bureau on Thursday launched a broad review of the often murky business of student loan servicing, questioning whether the roughly 40 million Americans with student de",
+          1431631337
+        ],
+        [
+          "Working families deserve this\u2014add your name now: http://ofa.bo/h5Ol Let's make paid leave a worker's right 43 million Americans in the private sector don't have access to paid leave\u2013\u2013we can do better.",
+          1431541218
+        ],
+        [
+          "Here's a way to keep celebrating mothers across the country: fight for paid leave for all working families. http://ofa.bo/i5LA Let's make paid leave a worker's right 43 million Americans in the private sector don't have access to paid leave\u2013\u2013we can do better.",
+          1431357654
+        ],
+        [
+          "\"If we don't write the rules ... We will be shut out\u2014American businesses and American agriculture. That will mean a loss of U.S. jobs.\" \u2014President Obama on the need for America to lead on trade.\n\nRead more from the President's interview with The Wall Street Journal. http://ofa.bo/j4tK Obama Presses Case for Asia Trade Deal, Warns Failure Would Benefit China President Barack Obama warned China would step into the economic vacuum the U.S. would create if it fails to complete and enact a proposed free-trade deal with Asia.",
+          1430321860
+        ],
+        [
+          "\"I'm asking both parties to give me trade promotion authority to protect American workers with strong new trade deals from Asia to Europe that aren't just free but are also fair.\" \u2014President Obama http://ofa.bo/e4Ph Timeline Photos",
+          1429552326
+        ],
+        [
+          "Paid sick leave is essential, not only for working families, but for our economy. Read how this issue is gaining traction in Congress: http://ofa.bo/d4Hc Working Parents Should Be Very Happy About This Obscure Senate Vote Something pretty remarkable happened late last month while the Senate was voting on the annual budget resolution. And it had very little to do with the budget. On March 26, while individual senators were introducing amendments as part of a proces...",
+          1428342292
+        ],
+        [
+          "\"This is bipartisan legislation that would protect American workers, and promote American businesses, with strong new trade deals.\"\n\nWatch the weekly address.",
+          1424564303
+        ],
+        [
+          "\"We have the chance to open up more markets to goods and services backed by three proud words: Made in America. For the sake of our businesses, and American workers, it's an opportunity we need to take.\" \u2014President Obama http://ofa.bo/r33u President Obama: \"Writing the Rules for 21st Century Trade\" This afternoon, President Obama sent the following message to the White House email list, explaining why we have to ensure that America is the country that writes this century's rules for the world's economy. Didn't get it? Sign up for email updates here.",
+          1424365106
+        ],
+        [
+          "\"We would give working parents a chance to get ahead with guaranteed paid sick leave, and we'd give Americans of all ages a chance to earn new skills by making community college free for responsible students.\" \u2014President Obama http://ofa.bo/e2X5 EXCLUSIVE: Obama Gives His 'Blueprint for Middle-Class Economics' America's resurgence is real. With a growing economy, shrinking deficits, bustling industry, and booming energy production, we have risen from recession freer to write our own future than any other nation on Earth. Now we have to choose what we want ...",
+          1422562681
+        ]
+      ],
+      "dates_start": 1429300883,
+      "dates_end": 1458761596,
+      "likes_avg": 32366,
+      "likes_stdev": 15298,
+      "comments_avg": 2472,
+      "comments_stdev": 1158,
+      "shares_avg": 2223,
+      "shares_stdev": 1478
+    },
+    {
+      "number": 30,
+      "important": [
         "secur",
         "pay",
-        "thing"
+        "whi",
+        "minimum",
+        "enjoy",
+        "overtim",
+        "week",
+        "thing",
+        "depend",
+        "effort"
       ],
       "common": [
         "address",
@@ -4249,18 +4482,18 @@
       "shares_stdev": 4405
     },
     {
-      "number": 30,
+      "number": 31,
       "important": [
+        "hardwork",
         "secur",
         "get ahead",
-        "everyon",
-        "obama watch",
-        "opportun",
-        "ahead",
-        "love",
         "watch week",
+        "opportun",
         "make sure",
-        "hardwork"
+        "obama watch",
+        "love",
+        "ahead",
+        "everyon"
       ],
       "common": [
         "address",
@@ -4494,18 +4727,18 @@
       "shares_stdev": 3056
     },
     {
-      "number": 31,
+      "number": 32,
       "important": [
-        "mark",
-        "wait",
         "timelin",
-        "yet",
+        "presid",
         "countri",
+        "yet",
         "fall",
         "earth",
-        "abl",
         "photo",
-        "presid"
+        "abl",
+        "mark",
+        "wait"
       ],
       "common": [
         "bo",
@@ -4743,18 +4976,18 @@
       "shares_stdev": 13062
     },
     {
-      "number": 32,
+      "number": 33,
       "important": [
-        "continu",
-        "way",
-        "senat leader",
         "american peopl",
-        "court",
-        "process",
         "respons",
         "stand way",
-        "nomin",
-        "nomin process"
+        "process",
+        "way",
+        "continu",
+        "court",
+        "nomin process",
+        "senat leader",
+        "nomin"
       ],
       "common": [
         "bo",
@@ -4996,18 +5229,18 @@
       "shares_stdev": 7603
     },
     {
-      "number": 33,
+      "number": 34,
       "important": [
-        "organ action",
-        "fact",
-        "straight",
-        "deliv",
-        "matter",
-        "truth",
-        "action",
-        "giphycom",
         "team",
-        "organ"
+        "giphycom",
+        "fact",
+        "matter",
+        "deliv",
+        "organ",
+        "organ action",
+        "action",
+        "straight",
+        "truth"
       ],
       "common": [
         "action",
@@ -5257,18 +5490,18 @@
       "shares_stdev": 2491
     },
     {
-      "number": 34,
+      "number": 35,
       "important": [
-        "commonsens gun",
-        "violenc",
+        "gun violenc prevent",
         "add voic",
+        "violenc",
+        "add",
+        "congress need",
+        "commonsens gun",
+        "voic",
         "gun violenc",
         "commonsens",
-        "gun",
-        "gun violenc prevent",
-        "congress need",
-        "add",
-        "voic"
+        "gun"
       ],
       "common": [
         "bo",
@@ -5530,18 +5763,323 @@
       "shares_stdev": 14779
     },
     {
-      "number": 35,
+      "number": 36,
       "important": [
-        "financi",
-        "back",
-        "open",
-        "find",
-        "less",
-        "marketplac open",
+        "ofa",
+        "add name join",
+        "team",
+        "name join",
+        "join",
+        "fact",
+        "fight back",
+        "lot",
+        "truth",
+        "shouldnt"
+      ],
+      "common": [
+        "bo",
+        "http",
+        "http ofa",
+        "http ofa bo",
+        "name",
+        "ofa",
+        "ofa bo",
+        "photos",
+        "timeline",
+        "timeline photos"
+      ],
+      "messages": [
+        [
+          "There's a lot of misinformation out there\u2014and it shouldn't go unchallenged.\n\nOrganizing for Action's Truth Team delivers the facts straight to your inbox. Join the OFA Truth Team Add your name to join the group of OFA supporters dedicated to fighting back against misinformation with facts.",
+          1474989758
+        ],
+        [
+          "The Constitution is the law of the land. Senate leaders should not ignore it. Timeline Photos",
+          1472759564
+        ],
+        [
+          "Senate leaders' refusal to do their jobs is affecting our entire judicial system. This obstruction is unacceptable. Timeline Photos",
+          1466791136
+        ],
+        [
+          "Senate leaders: Do your jobs. Timeline Photos",
+          1463948459
+        ],
+        [
+          "Women still earn only 79 cents to every dollar that men make\u2014and it's even worse for women of color. We can do better. http://ofa.bo/hADb Stand up for working families It's time for workplace policies that reflect today's realities. Add your name if you agree.",
+          1460490298
+        ],
+        [
+          "Join the OFA Truth Team and give your family and friends the facts on issues that matter: http://ofa.bo/yKc Join the OFA Truth Team Add your name to join the group of OFA supporters dedicated to fighting back against misinformation with facts.",
+          1458065912
+        ],
+        [
+          "These headlines say it all\u2014it's time for Senate leaders to do their job. i.giphy.com",
+          1457021998
+        ],
+        [
+          "For the sake of American families, it's time for equal pay. http://ofa.bo/x6r Stand up for working families It's time for workplace policies that reflect today's realities. Add your name if you agree.",
+          1454102647
+        ],
+        [
+          "Add your name in support of a sensible, bipartisan budget agreement: http://ofa.bo/c5G1 Show your support for the bipartisan budget deal Tell Congress you they need to finish the job, and avoid another manufactured crisis.",
+          1446664001
+        ],
+        [
+          "Join the team spreading the truth about the issues of the day: ofa.bo/s9Tv Join the OFA Truth Team Add your name to join the group of OFA supporters dedicated to fighting back against misinformation with facts.",
+          1445890921
+        ],
+        [
+          "Time is running out for Congress to pass a budget and avoid another government shutdown. http://ofa.bo/b5HH Another manufactured crisis It's time for legislators to do the responsible thing and govern without threatening to shut down the government\u2014again.",
+          1442931796
+        ],
+        [
+          "The facts matter\u2014be part of the team that's getting them out. http://ofa.bo/g9EC Join the OFA Truth Team Add your name to join the group of OFA supporters dedicated to fighting back against misinformation with facts.",
+          1440695809
+        ],
+        [
+          "Women and working families need updated overtime rules. Timeline Photos",
+          1439418633
+        ],
+        [
+          "This is the right move for middle-class families. Timeline Photos",
+          1436199075
+        ],
+        [
+          "Too many students are being priced out of an education. That's why the President's plan for free community college is so important. Show your support: http://ofa.bo/h7Ud Make community college free for deserving students Add your name to support President Obama's proposal to make the first two years of community college free for those who work for it.",
+          1433881503
+        ],
+        [
+          "This is about the future of America's economy. Make your voice heard today. http://ofa.bo/i78W Make community college free for deserving students Add your name to support President Obama's proposal to make the first two years of community college free for those who work for it.",
+          1433770739
+        ],
+        [
+          "Let's give working families the security they deserve. Timeline Photos",
+          1431450863
+        ],
+        [
+          "The House's budget plan would make big cuts to programs that are helping middle-class families. Find out how it affects your state. http://ofa.bo/d4Ho MAP: The Consequences of Republican Trickle-Down Economics This week, Congress will vote on the House and Senate Republican Budget Resolutions for Fiscal Year 2016. The Republican budgets rely on the same failed trickle-down economics as in previous years, standing in stark contrast to the President\u2019s FY 2016 budget, which strengthens our economy and the mi\u2026",
+          1428414511
+        ],
+        [
+          "It's time for House leaders to rethink their budget and put aside old policies that have failed middle-class families. Timeline Photos",
+          1426773086
+        ],
+        [
+          "Only one day left to avoid a shutdown. Add your name to let Congress know where you stand. http://ofa.bo/t3Dm Tell Congress: Not another shutdown Two months in, the new Congress is already threatening a partial government shutdown over immigration\u2014tell them, \"Enough Already\"",
+          1424989018
+        ],
+        [
+          "Less than two months in, and congressional leaders are already threatening a partial government shutdown over President Obama's common-sense immigration actions. Timeline Photos",
+          1424715538
+        ],
+        [
+          "Add your name to stand up for an agenda that supports middle-class families: http://ofa.bo/h2Tr Two years left: Let's fight for change The President is working to move our country forward. It's never been more important to take a stand.",
+          1421780536
+        ],
+        [
+          "The House's vote on immigration would harm millions of families. Add your name if you think the political games need to stop: http://ofa.bo/g1oM Tell the House: No more payback politics We're fed up with extreme voices in Congress threatening lawsuits, shutdowns, and more. It's time to fight back\u2014add your name.",
+          1417729303
+        ],
+        [
+          "Sign this petition: The internet should remain open and free. http://ofa.bo/q1fH Add your name: Stand up for net neutrality Tell the FCC you support the President's plan to keep the internet open and free.",
+          1416414926
+        ],
+        [
+          "Real change can't happen without people like you: http://ofa.bo/e1UA This work has never mattered more Add your name to say you'll help in the grassroots fight for change.",
+          1415711296
+        ],
+        [
+          "\"I'm urging the Federal Communications Commission to do everything they can to protect net neutrality for everyone.\" \u2014President Obama\n\nAdd your name if you support keeping the internet open and free: http://ofa.bo/d1S1 Add your name: Stand up for net neutrality Tell the FCC you support the President's plan to keep the internet open and free.",
+          1415656244
+        ],
+        [
+          "Take one minute: http://ofa.bo/f1MA Tell us what you're hearing about Obamacare OFA supporters are working to help connect millions of Americans with information about Obamacare. Take the survey.",
+          1414435953
+        ],
+        [
+          "Add your name if you refuse to be cynical in the fight for change: http://ofa.bo/g0ph  Refuse to be cynical Some voices in Congress want nothing more than for you to tune out and give up. Don't give them a pass\u2014add your name and refuse to be cynical about what Congress can do.",
+          1409860405
+        ],
+        [
+          "Watch: Austan Goolsbee, former chairman of the Council of Economic Advisers, knows the word on the economy, and what Congress can do to help. Add your name if you're ready to see Congress do more: http://ofa.bo/j0kP",
+          1409061193
+        ],
+        [
+          "It's time to give working families a hand: http://ofa.bo/sgV\n Women's voices need to be heard Add your name if you believe in quality, affordable child care.",
+          1399918562
+        ],
+        [
+          "We need to create opportunity for all Americans, but the budget the House of Representatives just passed sweetens the deal for the wealthy and places more burdens on middle-class families: http://ofa.bo/bXG Representative Paul Ryan's budget is an attack on the middle class The average middle-income family with children would face a $2,000 tax hike.",
+          1397246756
+        ],
+        [
+          "Thanks in part to pressure from OFA supporters throughout the country, the Senate passed a bipartisan bill to restore unemployment insurance.\n\nNow it's time to take the fight to the House. See how you can help: http://ofa.bo/qVj One step closer to relief for job-seekers The Senate just passed a bipartisan bill to restore a critical lifeline to millions of Americans.",
+          1396984236
+        ],
+        [
+          "A group of Republican senators is keeping 1.6 million job-seeking Americans cut off from an economic lifeline. They need to renew unemployment insurance now: http://ofa.bo/h0s Timeline Photos",
+          1390609558
+        ],
+        [
+          "Tell Congress to do right by job seekers: http://ofa.bo/pS Timeline Photos",
+          1389214264
+        ],
+        [
+          "Unemployment insurance kept more than 620,000 children out of poverty in 2012. Tell Congress to renew job seekers' economic lifeline: http://ofa.bo/bX Tell Congress to restore unemployment insurance Because Congress failed to act, 1.3 million Americans will lose their unemployment insurance, and millions more will be at risk in the coming months. Tell Congress the first thing on their plate when they return to Washington needs to be restoring these benefits to the people who need them most.",
+          1389107884
+        ],
+        [
+          "This country needs more leaders on immigration. Tell these representatives to step up: http://OFA.BO/t5vzTN #ActOnReform Timeline Photos",
+          1387310511
+        ],
+        [
+          "Tell these five representatives: We need a leader on immigration in the House: http://OFA.BO/Jngdf7 #ActOnReform Timeline Photos",
+          1385564491
+        ],
+        [
+          "\"One party in one house of Congress should not stand in the way of millions of Americans who want to go to work each day and simply be judged by the job they do ... I urge the House Republican leadership to bring this bill to the floor for a vote and send it to my desk so I can sign it into law.\" \u2014President Obama on the Senate passing the Employment Non-Discrimination Act (ENDA). \r\n\r\nTell them you agree: http://OFA.BO/aRa13U Timeline Photos",
+          1383874989
+        ],
+        [
+          "Tell Congress: Do your job. End the government shutdown, end the threat of an economic shutdown. #EndThisNow: http://OFA.BO/h6Z1uQ Timeline Photos",
+          1381872835
+        ],
+        [
+          "If Congress doesn't raise the debt ceiling, America could face an economic shutdown.\r\n\r\nTell the Tea Party Republicans to #EndThisNow: http://OFA.BO/uQJNPy Timeline Photos",
+          1381856829
+        ],
+        [
+          "The Tea Party Republicans' government shutdown is jeopardizing veterans' benefits. Say #EnoughAlready: http://OFA.BO/Fyv15E Timeline Photos",
+          1381674355
+        ],
+        [
+          "\"It's ridiculous.\" Here's what ordinary people think about Tea Party Republicans' government shutdown.\r\n\r\nWatch: http://OFA.BO/dZHdrQ #EnoughAlready Timeline Photos",
+          1381599308
+        ],
+        [
+          "The Tea Party Republicans' government shutdown is damaging the small businesses at the heart of the American economy. Say you've had #EnoughAlready: http://OFA.BO/tPiBC6 Timeline Photos",
+          1381499277
+        ],
+        [
+          "Share this: The Tea Party Republicans' government shutdown means most of our food isn't being inspected anymore. Timeline Photos",
+          1381408257
+        ],
+        [
+          "Share this: For more than 800,000 workers, the Tea Party Republicans' government shutdown means going without pay. #EnoughAlready Timeline Photos",
+          1381334949
+        ],
+        [
+          "A group of Tea Party extremists in the House of Representatives shut down the government in a failed attempt to derail Obamacare. Tell the Speaker of the House to stand up to them and end the #BoehnerShutdown now: http://OFA.BO/6PeapG Timeline Photos",
+          1380813219
+        ],
+        [
+          "\"Congress needs to pass a budget on time. Congress needs to put an end to governing from crisis to crisis.\" \u2014President Obama #EnoughAlready Timeline Photos",
+          1380226953
+        ],
+        [
+          "Here is what a group of Republicans want: Shut down the government or defund #Obamacare. Neither is an acceptable option.\r\n\r\nTell them #EnoughAlready: http://OFA.BO/nJgUxD Timeline Photos",
+          1379602327
+        ],
+        [
+          "A government shutdown could undermine our recovering economy\u2014all in the name of politics. Watch OFA's new ad and say #EnoughAlready. http://OFA.BO/xrcxyn Timeline Photos",
+          1379443995
+        ],
+        [
+          "Add your name to help President Obama deliver on the agenda Americans voted for last fall: http://OFA.BO/ASiPm2 Timeline Photos",
+          1363615201
+        ],
+        [
+          "Like & share this if you support President Obama's balanced plan to protect vital services and reduce the deficit (via The White House). Timeline Photos",
+          1363097885
+        ],
+        [
+          "Like & share this if you agree: We should never cut student aid before closing tax loopholes for millionaires and large corporations.\r\n\r\nTell Congress to stop these cuts now: http://OFA.BO/e5KYMJ Timeline Photos",
+          1362441600
+        ],
+        [
+          "Devastating budget cuts are going into effect because Congressional Republicans refused to act.\r\n\r\nLike and share this if you agree it's unacceptable\u2014then add your name to support the President's plan to stop these cuts: http://OFA.BO/1Zxrh9 Timeline Photos",
+          1362240748
+        ],
+        [
+          "It's time to do the right thing for our children and our communities: Like this and add your name to support President Obama's plan to reduce gun violence and protect our kids. http://OFA.BO/j8YbmZ Timeline Photos",
+          1362149789
+        ],
+        [
+          "\u201cWe can't ask seniors and working families like yours to shoulder the entire burden of deficit reduction while asking nothing more from the wealthiest and the most powerful.\u201d \u2014President Obama\r\n\r\nShare this if you agree\u2014then add your name to support the President\u2019s plan to stop severe cuts to vital services: http://OFA.BO/4zbspk Timeline Photos",
+          1362064188
+        ],
+        [
+          "Share this if you agree with Sean\u2014then add your name to support President Obama's plan to reduce gun violence and protect our kids: http://OFA.BO/BWoRz8 Timeline Photos",
+          1361977201
+        ],
+        [
+          "Like and share this if you agree: We can't afford to cut vital services that middle-class families depend on. It's time for Congress to stop these severe budget cuts and focus on creating jobs: http://OFA.BO/cVUzQH Timeline Photos",
+          1361921401
+        ],
+        [
+          "If Congress doesn't act by Friday, severe spending cuts would slash vital services for children, seniors, the mentally ill, and our men and women in uniform.\r\n\r\nShare how these cuts could affect your family\u2014and why Congressional Republicans should protect middle-class families over tax loopholes for millionaires: http://OFA.BO/utoPad Timeline Photos",
+          1361890728
+        ],
+        [
+          "Like and share this if you agree: It's time for Congress to avoid self-imposed, brutal spending cuts and focus on making America a magnet for good, middle-class jobs. Timeline Photos",
+          1361316600
+        ],
+        [
+          "Share this if you support President Obama's plan to reduce gun violence and protect our kids. Timeline Photos",
+          1360627449
+        ],
+        [
+          "Add your name if you support President Obama's plan to reform our immigration system: http://OFA.BO/iakCvc Timeline Photos",
+          1360280337
+        ],
+        [
+          "\"Republicans in Congress have two choices here: They can act responsibly, and pay America\u2019s bills; or they can act irresponsibly, and put America through another economic crisis. But they will not collect a ransom in exchange for not crashing the American economy.\" \u2014President Obama yesterday at the final press conference of his first term http://OFA.BO/MoNZ9p Timeline Photos",
+          1358260791
+        ],
+        [
+          "\"I voted for him in 2008, and I plan to stick with him in 2012.\"\u2014GOP former Secretary of State and retired four-star general Colin Powell on why he supports President Obama in this election: http://OFA.BO/sCEHDg Timeline Photos",
+          1351794947
+        ],
+        [
+          "Add your name, then pass it on: http://OFA.BO/8UHQcn Timeline Photos",
+          1346288680
+        ],
+        [
+          "Four years after they became running mates, this is the team that still has our back. Add your name if you\u2019ve got theirs: http://OFA.BO/RyUZGs Timeline Photos",
+          1345764210
+        ],
+        [
+          "\u201cThe dreams of all our daughters are at stake \u2026 and they\u2019re counting on us to fight for them.\u201d A letter from Nevada Erin wants a leader who stands up for women\u2019s health\u2014that\u2019s why she\u2019s supporting President Obama.",
+          1337180654
+        ],
+        [
+          "\u201cAt the end of the day, he wants us to be united\u2014and that\u2019s very inspiring to me as an artist, as an American, as a woman.\u201d\u2014Singer Janelle Mon\u00e1e on her support for the President Janelle Mon\u00e1e's in for 2012 Singer Janelle Mon\u00e1e shares her reasons for supporting President Obama.",
+          1330873595
+        ]
+      ],
+      "dates_start": 1363043383,
+      "dates_end": 1437242129,
+      "likes_avg": 67120,
+      "likes_stdev": 73105,
+      "comments_avg": 6282,
+      "comments_stdev": 6851,
+      "shares_avg": 8244,
+      "shares_stdev": 12371
+    },
+    {
+      "number": 37,
+      "important": [
         "dont",
-        "health care",
+        "financi",
+        "find",
+        "open",
+        "marketplac",
         "coverag",
-        "marketplac"
+        "health care",
+        "marketplac open",
+        "back",
+        "less"
       ],
       "common": [
         "bo",
@@ -5895,18 +6433,18 @@
       "shares_stdev": 5499
     },
     {
-      "number": 36,
+      "number": 38,
       "important": [
         "combat",
-        "offici",
         "climat chang",
         "focus",
-        "climat agreement",
         "global",
-        "forc",
-        "enter",
         "climat",
-        "pari"
+        "climat agreement",
+        "pari",
+        "forc",
+        "offici",
+        "enter"
       ],
       "common": [
         "bo",
@@ -6320,519 +6858,18 @@
       "shares_stdev": 3360
     },
     {
-      "number": 37,
+      "number": 39,
       "important": [
-        "econom",
-        "write",
-        "challeng",
-        "four",
-        "busi",
-        "way",
-        "ahead",
-        "america",
-        "polici",
-        "tackl"
-      ],
-      "common": [
-        "add",
-        "bo",
-        "http",
-        "http ofa",
-        "http ofa bo",
-        "name",
-        "obama",
-        "ofa",
-        "ofa bo",
-        "president"
-      ],
-      "messages": [
-        [
-          "America's economic progress, challenges, and opportunities\u2014straight from the President's desk. The way ahead America\u2019s president writes for us about four crucial areas of unfinished business in economic policy that his successor will have to tackle",
-          1476213578
-        ],
-        [
-          "No American family should be trapped by high-cost loans that they can't escape.\n\nThat's why the Consumer Financial Protection Bureau (CFPB) is working on tough rules to rein in payday lenders' predatory practices\u2014and they're taking public comments through the end of the day today. Support tough rules to stop debt trap loans The Consumer Financial Protection Bureau is working on rules for payday lenders\u2014speak up in support of them now by adding a comment.",
-          1475869120
-        ],
-        [
-          "\"Paid sick leave isn\u2019t a side issue, or a women\u2019s issue, or something that\u2019s just nice to have. It\u2019s a must-have. By the way, so are economic priorities like child care, paid family leave, equal pay, and a higher minimum wage. We need a Congress that will act on all these issues.\" \u2014President Obama",
-          1475326008
-        ],
-        [
-          "The United States is the only developed country that doesn\u2019t have a national paid sick leave requirement. President Obama is trying to change that. What Can the President Do to Help Workers Who Need a Sick Day? We Asked Him. The United States is the only industrialized country in the world where employees aren\u2019t guaranteed the right to take a paid sick day off of work. As a ...",
-          1475177895
-        ],
-        [
-          "There's a lot of misinformation out there\u2014and it shouldn't go unchallenged.\n\nOrganizing for Action's Truth Team delivers the facts straight to your inbox. Join the OFA Truth Team Add your name to join the group of OFA supporters dedicated to fighting back against misinformation with facts.",
-          1474989758
-        ],
-        [
-          "The Constitution is the law of the land. Senate leaders should not ignore it. Timeline Photos",
-          1472759564
-        ],
-        [
-          "We are the only industrialized nation that doesn't guarantee workers paid family leave. It's time to catch up. The Labor Department is pushing states to create their own paid family leave programs Six state and municipalities will receive $1.1 million from the federal government to research how much it would cost to open the public aid to residents.",
-          1471006779
-        ],
-        [
-          "Senate leaders' refusal to do their jobs is affecting our entire judicial system. This obstruction is unacceptable. Timeline Photos",
-          1466791136
-        ],
-        [
-          "Senate leaders: Do your jobs. Timeline Photos",
-          1463948459
-        ],
-        [
-          "\"Only seven percent of full-time salaried workers are eligible for overtime based on their income. That\u2019s why this week, my administration took a step to help more workers get the overtime pay they\u2019ve earned. The Department of Labor finalized a rule to extend overtime protections to 4.2 million more Americans.\" \u2014President Barack Obama \n\nWatch the weekly address.",
-          1463837135
-        ],
-        [
-          "The new overtime rule will benefit 4.2 million American workers. http://ofa.bo/xSo Speak up for stronger overtime protections American workers and their families deserve the security and peace of mind that comes with a fair paycheck for a hard day's work.",
-          1463600823
-        ],
-        [
-          "\"But building walls to isolate ourselves from the global economy would only isolate us from the incredible opportunities it provides. Instead, America should write the rules. America should call the shots. Other countries should play by the rules that America and our partners set, and not the other way around.\" \u2014President Obama\n\nRead more from President Obama's op-ed on the Trans-Pacific Partnership agreement: http://ofa.bo/yTF President Obama: The TPP would let America, not China, lead the way on global trade This is the U.S.\u2019s chance to write the rules of the road on trade in the 21st century.",
-          1462301938
-        ],
-        [
-          "Women still earn only 79 cents to every dollar that men make\u2014and it's even worse for women of color. We can do better. http://ofa.bo/hADb Stand up for working families It's time for workplace policies that reflect today's realities. Add your name if you agree.",
-          1460490298
-        ],
-        [
-          "American workers deserve the flexibility and security that comes with paid sick leave. Timeline Photos",
-          1460403981
-        ],
-        [
-          "Expanding paid sick leave is good for our families and our economy. http://ofa.bo/gA4S Speak up for paid sick leave\u2014add your voice President Obama is taking a big step to expand paid sick leave. Show your support\u2014add a comment.",
-          1460386376
-        ],
-        [
-          "The United States is the only advanced nation that doesn't guarantee some form of paid leave for its workers. It's time to change that. http://ofa.bo/fA5O Speak up for paid sick leave\u2014add your voice President Obama is taking a big step to expand paid sick leave. Show your support\u2014add a comment.",
-          1460060056
-        ],
-        [
-          "Working Americans should have the basic security of paid sick leave. Timeline Photos",
-          1460037103
-        ],
-        [
-          "Join the OFA Truth Team and give your family and friends the facts on issues that matter: http://ofa.bo/yKc Join the OFA Truth Team Add your name to join the group of OFA supporters dedicated to fighting back against misinformation with facts.",
-          1458065912
-        ],
-        [
-          "These headlines say it all\u2014it's time for Senate leaders to do their job. i.giphy.com",
-          1457021998
-        ],
-        [
-          "For the sake of American families, it's time for equal pay. http://ofa.bo/x6r Stand up for working families It's time for workplace policies that reflect today's realities. Add your name if you agree.",
-          1454102647
-        ],
-        [
-          "American diplomacy has helped verifiably block Iran's pathways to a nuclear bomb. http://ofa.bo/g9f8 A Safer World, Thanks to the Iran Deal Although there are difficult challenges ahead, President Obama\u2019s pursuit of diplomacy with Tehran over the nuclear threat has so far paid off.",
-          1453224553
-        ],
-        [
-          "\"These tough new rules level the playing field, and when American workers have a fair chance to compete, I believe they\u2019ll win every time.\" \u2014President Obama on the Trans-Pacific Partnership\n\nRead more: http://ofa.bo/f9Vf A Trade Deal for Working Families Barack Obama writes that the Trans-Pacific Partnership will create good American jobs.",
-          1447186659
-        ],
-        [
-          "Read how the Trans-Pacific Partnership ensures American leadership on trade. http://ofa.bo/b5ME Here\u2019s the Deal: The Text of the Trans-Pacific Partnership \u2014 The Trans-Pacific Partnership When we have a level playing field, Americans out-compete anyone in the world.",
-          1446737428
-        ],
-        [
-          "Add your name in support of a sensible, bipartisan budget agreement: http://ofa.bo/c5G1 Show your support for the bipartisan budget deal Tell Congress you they need to finish the job, and avoid another manufactured crisis.",
-          1446664001
-        ],
-        [
-          "Join the team spreading the truth about the issues of the day: ofa.bo/s9Tv Join the OFA Truth Team Add your name to join the group of OFA supporters dedicated to fighting back against misinformation with facts.",
-          1445890921
-        ],
-        [
-          "Add your name to support the Trans-Pacific Partnership (TPP)\u2014a trade deal that boosts American-made exports, supports higher-paying jobs, and protects American workers. http://ofa.bo/p9YE It's time to lead on trade Add your name to support a trade agreement that helps middle-class families and sets high standards for labor and the environment.",
-          1444158824
-        ],
-        [
-          "The largest regional trade accord in history has the chance to set enforceable labor and environmental standards around the Pacific. http://ofa.bo/t9OX Trans-Pacific Partnership Trade Deal Is Reached Negotiators reached an agreement on the Trans-Pacific Partnership, a potentially precedent-setting model for global commerce and worker standards.",
-          1444073076
-        ],
-        [
-          "Time is running out for Congress to pass a budget and avoid another government shutdown. http://ofa.bo/b5HH Another manufactured crisis It's time for legislators to do the responsible thing and govern without threatening to shut down the government\u2014again.",
-          1442931796
-        ],
-        [
-          "People shouldn't have to choose between taking care of a sick loved one and getting a paycheck. http://ofa.bo/d5Aq Why Paid Leave Matters for the Future of Business Leading business school faculty from across the U.S. make their case.",
-          1442588028
-        ],
-        [
-          "Add your name and join the conversation on the Iran deal. http://ofa.bo/f9JM Be part of the conversation on Iran Facts matter\u2014make sure you stay informed on the agreement with Iran.",
-          1441809563
-        ],
-        [
-          "Read how the Obama administration is fighting for working families at the local level. http://ofa.bo/r9Ix Pushing For Paid Leave And A Higher Minimum Wage, One State At A Time DETROIT -- After flying here from Baltimore on a late August afternoon, Labor Secretary Tom Perez hopped in a waiting SUV at the airport. He was headed to a Methodist church downtown, where he was set",
-          1441739104
-        ],
-        [
-          "Get the facts from Secretary of State John Kerry on the international agreement with Iran to curb its nuclear program. http://ofa.bo/e53H Debunking Myths Around the Nuclear Agreement With Iran \u2014 The Iran Deal Yesterday in Philadelphia, I laid out the facts about the agreement that the United States and its partners reached with\u2026",
-          1441723556
-        ],
-        [
-          "Tomorrow is your last chance to let the Department of Labor know that you support stronger overtime protections. http://ofa.bo/d55r Speak up for stronger overtime rules The Department of Labor is collecting comments on the path forward to fix overtime. Add your voice.",
-          1441302104
-        ],
-        [
-          "Before Friday's deadline, tell the Department of Labor you support modern overtime rules for a modern economy. http://ofa.bo/c53s Speak up for stronger overtime rules The Department of Labor is collecting comments on the path forward to fix overtime. Add your voice.",
-          1441201992
-        ],
-        [
-          "\"The advocates for a vote of disapproval in Congress have also not put forward a viable alternative.\" \u2014Former U.S. Secretary of State Madeleine K. Albright on the Iran deal\n\nRead more: http://ofa.bo/d55Y Madeleine Albright: Iran deal is a win-win - CNN.com The former Secretary of State says the U.S. would be in a far stronger position in the Middle East if the Iran deal is allowed to go into effect.",
-          1441113722
-        ],
-        [
-          "\"I believe that rejecting this deal would significantly weaken our ability to achieve our broader foreign policy goals.\" \u2014Ambassador Samantha Power\n\nRead more: http://ofa.bo/a57N Congress, Don\u2019t Isolate America Again Over Iran We\u2019ll lose a huge amount of influence around the world if the deal is voted down.",
-          1440779767
-        ],
-        [
-          "The facts matter\u2014be part of the team that's getting them out. http://ofa.bo/g9EC Join the OFA Truth Team Add your name to join the group of OFA supporters dedicated to fighting back against misinformation with facts.",
-          1440695809
-        ],
-        [
-          "Add your name to get all the facts on the historic Iran deal. http://ofa.bo/j9AZ Be part of the conversation on Iran Facts matter\u2014make sure you stay informed on the agreement with Iran.",
-          1440509973
-        ],
-        [
-          "It's important to have all the facts about the Iran deal. Add your name to stay informed: http://ofa.bo/q996 Be part of the conversation on Iran Facts matter\u2014get the full story on the agreement with Iran.",
-          1440095635
-        ],
-        [
-          "Women and working families need updated overtime rules. Timeline Photos",
-          1439418633
-        ],
-        [
-          "Read why expanding overtime protections would make a difference for millions of American workers\u2014especially women. http://ofa.bo/r9CT Support fair overtime protections President Obama's proposal to update overtime protections would benefit millions of Americans in the workforce\u2014especially women.",
-          1439385149
-        ],
-        [
-          "President Obama discussed the implications of the historic Iran deal in an exclusive interview with Mic. Check it out. http://ofa.bo/i9BI We Challenged Obama With Your Questions About Iran \u2014 Here's How He Responded In an exclusive sit-down interview with President Obama, Mic asked the president about the implications of a nuclear Iran, and why his deal is the best solution.",
-          1439229550
-        ],
-        [
-          "Your voice matters\u2014show your support for expanding overtime protections. http://ofa.bo/f8te Speak up for stronger overtime rules The Department of Labor is collecting comments on the path forward to fix overtime. Add your voice.",
-          1436382453
-        ],
-        [
-          "Paying people fairly for the work they do seems like a no-brainer\u2014but it\u2019s not always a reality. Learn more about why it\u2019s time to fix overtime protections. http://ofa.bo/g8oA Speak up for better overtime protections Paying people fairly for the work they do is a pretty basic principle. But over the last few decades, fewer and fewer workers have been protected.",
-          1436284143
-        ],
-        [
-          "Go on the record in support of more workers getting fair overtime pay\u2014add your name today. http://ofa.bo/r8qG Speak up for stronger overtime rules The Department of Labor is collecting comments on the path forward to fix overtime. Add your voice.",
-          1436214450
-        ],
-        [
-          "This is the right move for middle-class families. Timeline Photos",
-          1436199075
-        ],
-        [
-          "\u201cWe've got to keep making sure hard work is rewarded.\u201d \u2014President Obama\n\nRead more on the President's plan to expand overtime pay: http://ofa.bo/f8hk A Hard Day's Work Deserves a Fair Day's Pay Right now, too many Americans are working long days for less pay than they deserve. That's partly because we've failed to update overtime regulations for years -- and an exemption meant for highly paid, white collar employees now leaves out workers making as little as $23,660 a year -- no matter how\u2026",
-          1435848152
-        ],
-        [
-          "Too many students are being priced out of an education. That's why the President's plan for free community college is so important. Show your support: http://ofa.bo/h7Ud Make community college free for deserving students Add your name to support President Obama's proposal to make the first two years of community college free for those who work for it.",
-          1433881503
-        ],
-        [
-          "\"The choice between being a progressive and being for free and fair trade is a false one: We can stand for progressive, democratic values while also working to promote those values overseas.\" \u2014Ron Kirk, former U.S. trade representative\n\nRead more on why the Trans-Pacific Partnership is good for our economy and our workers. http://ofa.bo/h7Gu U.S. economy needs trade promotion authority Last month, the U.S. Senate delivered a major victory to the administration's push to expand free and fair trade when it voted to approve trade promotion authority for President Barack Obama. [...] as the House takes up the issue, it will be critical for congressional leaders from both parties to co\u2026",
-          1433797076
-        ],
-        [
-          "This is about the future of America's economy. Make your voice heard today. http://ofa.bo/i78W Make community college free for deserving students Add your name to support President Obama's proposal to make the first two years of community college free for those who work for it.",
-          1433770739
-        ],
-        [
-          "We can't count on other nations to pursue tough, enforceable labor and environmental protections. That's why America needs to lead on trade. http://ofa.bo/h6Pa It's time to lead on trade Add your name to support the most progressive trade agreement in American history, with protections for labor and the environment.",
-          1432929478
-        ],
-        [
-          "Now's the chance to reach a truly progressive, transparent trade agreement that opens up opportunities for the middle class. Add your name: http://ofa.bo/s68f It's time to lead on trade Add your name to support the most progressive trade agreement in American history, with protections for labor and the environment.",
-          1432648754
-        ],
-        [
-          "American leadership means fighting for middle-class families in the global economy. Add your name if you agree. http://ofa.bo/f5s5 It's time to lead on trade Add your name to support the most progressive trade agreement in American history, with protections for labor and the environment.",
-          1432304712
-        ],
-        [
-          "This decides who writes the rules in our global economy. President Obama is fighting to make sure they reflect America's values. Join the fight. http://ofa.bo/i5mI It's time to lead on trade Add your name to support the most progressive trade agreement in American history, with protections for labor and the environment.",
-          1432135108
-        ],
-        [
-          "We need 21st century workplace policies. Hard-working Americans deserve the security of paid leave. http://ofa.bo/r5gq Let's make paid leave a worker's right 43 million Americans in the private sector don't have access to paid leave\u2013\u2013we can do better.",
-          1431971575
-        ],
-        [
-          "America can't afford to sit on the sidelines while other countries write the rules for the global economy\u2014add your name: http://ofa.bo/q5V0 It's time to lead on trade Add your name to support the most progressive trade agreement in American history, with protections for labor and the environment.",
-          1431696587
-        ],
-        [
-          "Nearly 1 in 8 Americans are in default because of student loan debt. This is a first step toward fixing that. http://ofa.bo/s5V5 Consumer Agency Begins Probe Of Student Loan Servicers, Signaling Stronger Rules The Consumer Financial Protection Bureau on Thursday launched a broad review of the often murky business of student loan servicing, questioning whether the roughly 40 million Americans with student de",
-          1431631337
-        ],
-        [
-          "Working families deserve this\u2014add your name now: http://ofa.bo/h5Ol Let's make paid leave a worker's right 43 million Americans in the private sector don't have access to paid leave\u2013\u2013we can do better.",
-          1431541218
-        ],
-        [
-          "Let's give working families the security they deserve. Timeline Photos",
-          1431450863
-        ],
-        [
-          "Here's a way to keep celebrating mothers across the country: fight for paid leave for all working families. http://ofa.bo/i5LA Let's make paid leave a worker's right 43 million Americans in the private sector don't have access to paid leave\u2013\u2013we can do better.",
-          1431357654
-        ],
-        [
-          "\"If we don't write the rules ... We will be shut out\u2014American businesses and American agriculture. That will mean a loss of U.S. jobs.\" \u2014President Obama on the need for America to lead on trade.\n\nRead more from the President's interview with The Wall Street Journal. http://ofa.bo/j4tK Obama Presses Case for Asia Trade Deal, Warns Failure Would Benefit China President Barack Obama warned China would step into the economic vacuum the U.S. would create if it fails to complete and enact a proposed free-trade deal with Asia.",
-          1430321860
-        ],
-        [
-          "\"I'm asking both parties to give me trade promotion authority to protect American workers with strong new trade deals from Asia to Europe that aren't just free but are also fair.\" \u2014President Obama http://ofa.bo/e4Ph Timeline Photos",
-          1429552326
-        ],
-        [
-          "The House's budget plan would make big cuts to programs that are helping middle-class families. Find out how it affects your state. http://ofa.bo/d4Ho MAP: The Consequences of Republican Trickle-Down Economics This week, Congress will vote on the House and Senate Republican Budget Resolutions for Fiscal Year 2016. The Republican budgets rely on the same failed trickle-down economics as in previous years, standing in stark contrast to the President\u2019s FY 2016 budget, which strengthens our economy and the mi\u2026",
-          1428414511
-        ],
-        [
-          "Paid sick leave is essential, not only for working families, but for our economy. Read how this issue is gaining traction in Congress: http://ofa.bo/d4Hc Working Parents Should Be Very Happy About This Obscure Senate Vote Something pretty remarkable happened late last month while the Senate was voting on the annual budget resolution. And it had very little to do with the budget. On March 26, while individual senators were introducing amendments as part of a proces...",
-          1428342292
-        ],
-        [
-          "It's time for House leaders to rethink their budget and put aside old policies that have failed middle-class families. Timeline Photos",
-          1426773086
-        ],
-        [
-          "Only one day left to avoid a shutdown. Add your name to let Congress know where you stand. http://ofa.bo/t3Dm Tell Congress: Not another shutdown Two months in, the new Congress is already threatening a partial government shutdown over immigration\u2014tell them, \"Enough Already\"",
-          1424989018
-        ],
-        [
-          "Less than two months in, and congressional leaders are already threatening a partial government shutdown over President Obama's common-sense immigration actions. Timeline Photos",
-          1424715538
-        ],
-        [
-          "\"This is bipartisan legislation that would protect American workers, and promote American businesses, with strong new trade deals.\"\n\nWatch the weekly address.",
-          1424564303
-        ],
-        [
-          "\"We have the chance to open up more markets to goods and services backed by three proud words: Made in America. For the sake of our businesses, and American workers, it's an opportunity we need to take.\" \u2014President Obama http://ofa.bo/r33u President Obama: \"Writing the Rules for 21st Century Trade\" This afternoon, President Obama sent the following message to the White House email list, explaining why we have to ensure that America is the country that writes this century's rules for the world's economy. Didn't get it? Sign up for email updates here.",
-          1424365106
-        ],
-        [
-          "\"We would give working parents a chance to get ahead with guaranteed paid sick leave, and we'd give Americans of all ages a chance to earn new skills by making community college free for responsible students.\" \u2014President Obama http://ofa.bo/e2X5 EXCLUSIVE: Obama Gives His 'Blueprint for Middle-Class Economics' America's resurgence is real. With a growing economy, shrinking deficits, bustling industry, and booming energy production, we have risen from recession freer to write our own future than any other nation on Earth. Now we have to choose what we want ...",
-          1422562681
-        ],
-        [
-          "Add your name to stand up for an agenda that supports middle-class families: http://ofa.bo/h2Tr Two years left: Let's fight for change The President is working to move our country forward. It's never been more important to take a stand.",
-          1421780536
-        ],
-        [
-          "The House's vote on immigration would harm millions of families. Add your name if you think the political games need to stop: http://ofa.bo/g1oM Tell the House: No more payback politics We're fed up with extreme voices in Congress threatening lawsuits, shutdowns, and more. It's time to fight back\u2014add your name.",
-          1417729303
-        ],
-        [
-          "Sign this petition: The internet should remain open and free. http://ofa.bo/q1fH Add your name: Stand up for net neutrality Tell the FCC you support the President's plan to keep the internet open and free.",
-          1416414926
-        ],
-        [
-          "Real change can't happen without people like you: http://ofa.bo/e1UA This work has never mattered more Add your name to say you'll help in the grassroots fight for change.",
-          1415711296
-        ],
-        [
-          "\"I'm urging the Federal Communications Commission to do everything they can to protect net neutrality for everyone.\" \u2014President Obama\n\nAdd your name if you support keeping the internet open and free: http://ofa.bo/d1S1 Add your name: Stand up for net neutrality Tell the FCC you support the President's plan to keep the internet open and free.",
-          1415656244
-        ],
-        [
-          "Take one minute: http://ofa.bo/f1MA Tell us what you're hearing about Obamacare OFA supporters are working to help connect millions of Americans with information about Obamacare. Take the survey.",
-          1414435953
-        ],
-        [
-          "Add your name if you refuse to be cynical in the fight for change: http://ofa.bo/g0ph  Refuse to be cynical Some voices in Congress want nothing more than for you to tune out and give up. Don't give them a pass\u2014add your name and refuse to be cynical about what Congress can do.",
-          1409860405
-        ],
-        [
-          "Watch: Austan Goolsbee, former chairman of the Council of Economic Advisers, knows the word on the economy, and what Congress can do to help. Add your name if you're ready to see Congress do more: http://ofa.bo/j0kP",
-          1409061193
-        ],
-        [
-          "It's time to give working families a hand: http://ofa.bo/sgV\n Women's voices need to be heard Add your name if you believe in quality, affordable child care.",
-          1399918562
-        ],
-        [
-          "We need to create opportunity for all Americans, but the budget the House of Representatives just passed sweetens the deal for the wealthy and places more burdens on middle-class families: http://ofa.bo/bXG Representative Paul Ryan's budget is an attack on the middle class The average middle-income family with children would face a $2,000 tax hike.",
-          1397246756
-        ],
-        [
-          "Thanks in part to pressure from OFA supporters throughout the country, the Senate passed a bipartisan bill to restore unemployment insurance.\n\nNow it's time to take the fight to the House. See how you can help: http://ofa.bo/qVj One step closer to relief for job-seekers The Senate just passed a bipartisan bill to restore a critical lifeline to millions of Americans.",
-          1396984236
-        ],
-        [
-          "A group of Republican senators is keeping 1.6 million job-seeking Americans cut off from an economic lifeline. They need to renew unemployment insurance now: http://ofa.bo/h0s Timeline Photos",
-          1390609558
-        ],
-        [
-          "Tell Congress to do right by job seekers: http://ofa.bo/pS Timeline Photos",
-          1389214264
-        ],
-        [
-          "Unemployment insurance kept more than 620,000 children out of poverty in 2012. Tell Congress to renew job seekers' economic lifeline: http://ofa.bo/bX Tell Congress to restore unemployment insurance Because Congress failed to act, 1.3 million Americans will lose their unemployment insurance, and millions more will be at risk in the coming months. Tell Congress the first thing on their plate when they return to Washington needs to be restoring these benefits to the people who need them most.",
-          1389107884
-        ],
-        [
-          "This country needs more leaders on immigration. Tell these representatives to step up: http://OFA.BO/t5vzTN #ActOnReform Timeline Photos",
-          1387310511
-        ],
-        [
-          "Tell these five representatives: We need a leader on immigration in the House: http://OFA.BO/Jngdf7 #ActOnReform Timeline Photos",
-          1385564491
-        ],
-        [
-          "\"One party in one house of Congress should not stand in the way of millions of Americans who want to go to work each day and simply be judged by the job they do ... I urge the House Republican leadership to bring this bill to the floor for a vote and send it to my desk so I can sign it into law.\" \u2014President Obama on the Senate passing the Employment Non-Discrimination Act (ENDA). \r\n\r\nTell them you agree: http://OFA.BO/aRa13U Timeline Photos",
-          1383874989
-        ],
-        [
-          "Tell Congress: Do your job. End the government shutdown, end the threat of an economic shutdown. #EndThisNow: http://OFA.BO/h6Z1uQ Timeline Photos",
-          1381872835
-        ],
-        [
-          "If Congress doesn't raise the debt ceiling, America could face an economic shutdown.\r\n\r\nTell the Tea Party Republicans to #EndThisNow: http://OFA.BO/uQJNPy Timeline Photos",
-          1381856829
-        ],
-        [
-          "The Tea Party Republicans' government shutdown is jeopardizing veterans' benefits. Say #EnoughAlready: http://OFA.BO/Fyv15E Timeline Photos",
-          1381674355
-        ],
-        [
-          "\"It's ridiculous.\" Here's what ordinary people think about Tea Party Republicans' government shutdown.\r\n\r\nWatch: http://OFA.BO/dZHdrQ #EnoughAlready Timeline Photos",
-          1381599308
-        ],
-        [
-          "The Tea Party Republicans' government shutdown is damaging the small businesses at the heart of the American economy. Say you've had #EnoughAlready: http://OFA.BO/tPiBC6 Timeline Photos",
-          1381499277
-        ],
-        [
-          "Share this: The Tea Party Republicans' government shutdown means most of our food isn't being inspected anymore. Timeline Photos",
-          1381408257
-        ],
-        [
-          "Share this: For more than 800,000 workers, the Tea Party Republicans' government shutdown means going without pay. #EnoughAlready Timeline Photos",
-          1381334949
-        ],
-        [
-          "A group of Tea Party extremists in the House of Representatives shut down the government in a failed attempt to derail Obamacare. Tell the Speaker of the House to stand up to them and end the #BoehnerShutdown now: http://OFA.BO/6PeapG Timeline Photos",
-          1380813219
-        ],
-        [
-          "\"Congress needs to pass a budget on time. Congress needs to put an end to governing from crisis to crisis.\" \u2014President Obama #EnoughAlready Timeline Photos",
-          1380226953
-        ],
-        [
-          "Here is what a group of Republicans want: Shut down the government or defund #Obamacare. Neither is an acceptable option.\r\n\r\nTell them #EnoughAlready: http://OFA.BO/nJgUxD Timeline Photos",
-          1379602327
-        ],
-        [
-          "A government shutdown could undermine our recovering economy\u2014all in the name of politics. Watch OFA's new ad and say #EnoughAlready. http://OFA.BO/xrcxyn Timeline Photos",
-          1379443995
-        ],
-        [
-          "Add your name to help President Obama deliver on the agenda Americans voted for last fall: http://OFA.BO/ASiPm2 Timeline Photos",
-          1363615201
-        ],
-        [
-          "Like & share this if you support President Obama's balanced plan to protect vital services and reduce the deficit (via The White House). Timeline Photos",
-          1363097885
-        ],
-        [
-          "Like & share this if you agree: We should never cut student aid before closing tax loopholes for millionaires and large corporations.\r\n\r\nTell Congress to stop these cuts now: http://OFA.BO/e5KYMJ Timeline Photos",
-          1362441600
-        ],
-        [
-          "Devastating budget cuts are going into effect because Congressional Republicans refused to act.\r\n\r\nLike and share this if you agree it's unacceptable\u2014then add your name to support the President's plan to stop these cuts: http://OFA.BO/1Zxrh9 Timeline Photos",
-          1362240748
-        ],
-        [
-          "It's time to do the right thing for our children and our communities: Like this and add your name to support President Obama's plan to reduce gun violence and protect our kids. http://OFA.BO/j8YbmZ Timeline Photos",
-          1362149789
-        ],
-        [
-          "\u201cWe can't ask seniors and working families like yours to shoulder the entire burden of deficit reduction while asking nothing more from the wealthiest and the most powerful.\u201d \u2014President Obama\r\n\r\nShare this if you agree\u2014then add your name to support the President\u2019s plan to stop severe cuts to vital services: http://OFA.BO/4zbspk Timeline Photos",
-          1362064188
-        ],
-        [
-          "Share this if you agree with Sean\u2014then add your name to support President Obama's plan to reduce gun violence and protect our kids: http://OFA.BO/BWoRz8 Timeline Photos",
-          1361977201
-        ],
-        [
-          "Like and share this if you agree: We can't afford to cut vital services that middle-class families depend on. It's time for Congress to stop these severe budget cuts and focus on creating jobs: http://OFA.BO/cVUzQH Timeline Photos",
-          1361921401
-        ],
-        [
-          "If Congress doesn't act by Friday, severe spending cuts would slash vital services for children, seniors, the mentally ill, and our men and women in uniform.\r\n\r\nShare how these cuts could affect your family\u2014and why Congressional Republicans should protect middle-class families over tax loopholes for millionaires: http://OFA.BO/utoPad Timeline Photos",
-          1361890728
-        ],
-        [
-          "Like and share this if you agree: It's time for Congress to avoid self-imposed, brutal spending cuts and focus on making America a magnet for good, middle-class jobs. Timeline Photos",
-          1361316600
-        ],
-        [
-          "Share this if you support President Obama's plan to reduce gun violence and protect our kids. Timeline Photos",
-          1360627449
-        ],
-        [
-          "Add your name if you support President Obama's plan to reform our immigration system: http://OFA.BO/iakCvc Timeline Photos",
-          1360280337
-        ],
-        [
-          "\"Republicans in Congress have two choices here: They can act responsibly, and pay America\u2019s bills; or they can act irresponsibly, and put America through another economic crisis. But they will not collect a ransom in exchange for not crashing the American economy.\" \u2014President Obama yesterday at the final press conference of his first term http://OFA.BO/MoNZ9p Timeline Photos",
-          1358260791
-        ],
-        [
-          "\"I voted for him in 2008, and I plan to stick with him in 2012.\"\u2014GOP former Secretary of State and retired four-star general Colin Powell on why he supports President Obama in this election: http://OFA.BO/sCEHDg Timeline Photos",
-          1351794947
-        ],
-        [
-          "Add your name, then pass it on: http://OFA.BO/8UHQcn Timeline Photos",
-          1346288680
-        ],
-        [
-          "Four years after they became running mates, this is the team that still has our back. Add your name if you\u2019ve got theirs: http://OFA.BO/RyUZGs Timeline Photos",
-          1345764210
-        ],
-        [
-          "\u201cThe dreams of all our daughters are at stake \u2026 and they\u2019re counting on us to fight for them.\u201d A letter from Nevada Erin wants a leader who stands up for women\u2019s health\u2014that\u2019s why she\u2019s supporting President Obama.",
-          1337180654
-        ],
-        [
-          "\u201cAt the end of the day, he wants us to be united\u2014and that\u2019s very inspiring to me as an artist, as an American, as a woman.\u201d\u2014Singer Janelle Mon\u00e1e on her support for the President Janelle Mon\u00e1e's in for 2012 Singer Janelle Mon\u00e1e shares her reasons for supporting President Obama.",
-          1330873595
-        ]
-      ],
-      "dates_start": 1381850076,
-      "dates_end": 1455513637,
-      "likes_avg": 52440,
-      "likes_stdev": 58994,
-      "comments_avg": 4673,
-      "comments_stdev": 5587,
-      "shares_avg": 5700,
-      "shares_stdev": 9908
-    },
-    {
-      "number": 38,
-      "important": [
-        "fire",
-        "year",
         "climat chang",
         "found",
-        "major",
+        "fire",
+        "year",
+        "climat",
         "number",
+        "major",
         "human",
         "break",
-        "chang",
-        "climat"
+        "chang"
       ],
       "common": [
         "bo",

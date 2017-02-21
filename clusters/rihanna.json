@@ -2,28 +2,190 @@
   "pagename": "rihanna",
   "globalstats": {
     "messages": 1293,
-    "likes_avg": 65664,
-    "likes_stdev": 122100,
-    "comments_avg": 1608,
-    "comments_stdev": 2540,
-    "shares_avg": 3075,
-    "shares_stdev": 25660,
+    "likes_avg": 70767,
+    "likes_stdev": 145007,
+    "comments_avg": 1695,
+    "comments_stdev": 2963,
+    "shares_avg": 3104,
+    "shares_stdev": 25477,
     "graph_uri": "clusters/rihanna.png"
   },
   "clusters": [
     {
       "number": 1,
       "important": [
+        "watch",
+        "ft",
+        "forget",
+        "ft rihanna",
+        "cant rememb",
+        "big",
+        "rememb",
+        "cant",
+        "star",
+        "shakira"
+      ],
+      "common": [
+        "forget",
+        "ft",
+        "ft rihanna",
+        "http",
+        "http smarturl",
+        "remember",
+        "remember forget",
+        "rihanna",
+        "shakira",
+        "smarturl"
+      ],
+      "messages": [
+        [
+          "\"Watching Rihanna and Shakira doing their thing on that chaise lounge was one of the funnest moments I've had with Rihanna in awhile.  And we loved watching Shakira's hips move in person! Shes such a big star, but shes really cool. I dig her.\" -Mel Ottenberg on Shakira's #CantRememberToForgetYou video ft. Rihanna  Shakira - Can't Remember to Forget You ft. Rihanna Download \"Can't Remember to Forget You\" ft Rihanna on iTunes from Shakira's forthcoming album \"Shakira.\", available March 25 http://smarturl.it/ShakiraCRTFY?...",
+          1391725446
+        ],
+        [
+          "WATCH behind-the-scenes video at the shoot for Shakira's \"Can't Remember to Forget You\" featuring Rihanna on VEVO NOW: http://smarturl.it/CRTFYbts?IQid=rfb Shakira - Can't Remember To Forget You (Behind The Scenes) Download \"Can't Remember to Forget You\" ft Rihanna on iTunes from Shakira's forthcoming album \"Shakira\", available March 25 http://smarturl.it/ShakiraCRTFY?I...",
+          1391547305
+        ],
+        [
+          "Shakira's #CantRememberToForgetYou w/ Rihanna premieres NOW on VEVO! Watch it here: http://smarturl.it/CRTFYvid?IQid=rfb Shakira - Can't Remember to Forget You ft. Rihanna Download \"Can't Remember to Forget You\" ft Rihanna on iTunes from Shakira's forthcoming album \"Shakira.\", available March 25 http://smarturl.it/ShakiraCRTFY?...",
+          1391128613
+        ],
+        [
+          "TONIGHT Shakira's #CantRememberToForgetYou video featuring Rihanna debuts during E! Online's Shakira special at 8PM ET/PT, then on VEVO at 8:35PM EST Shakira - Tune in to see \"Can't Remember To Forget You\" on VEVO! Tune in today to see Shakira's new video for \"Can't Remember To Forget You\" featuring Rihanna at 8:35PM EST only on VEVO! http://vevo.ly/IY2iYV",
+          1391114636
+        ],
+        [
+          "#SNEAKPEEK of Shakira's #CantRememberToForgetYou premiering during E! Online Shakira special at 8PM PT/ET TOMORROW! Then watch on VEVO at 8:35PM EST! http://youtu.be/5GDGxUywr0Q Shakira / Rihanna: Making of Can't Remember To Forget You (short version) Can't Remember to Forget You ft. Rihanna debuts tomorrow during a 30-min Shakira special at 8PM EST on E! / Then watch #CantRemembertoForgetYou ft. Rihanna o...",
+          1391040382
+        ],
+        [
+          "Video for #CantRemembertoForgetYou with Shakira coming soon! Shakira ~ The video for Can't Remember To Forget You feat Shakira and Rihanna is almost here! Are you ready? \r\n~ !El v\u00eddeo de Can't Remember to Forget You con Shakira y Rihanna ya se acerca! \u00bfEst\u00e1n listos? ShakiraHQ",
+          1390859069
+        ],
+        [
+          "Shakira's new single \"Can't Remember to Forget You\" featuring Rihanna is available on iTunes now! http://smarturl.it/ShakiraCRTFY?IQid=rfb Timeline Photos",
+          1389630348
+        ],
+        [
+          "It's here, Navy...Listen to Shakira's new single \"Can't Remember to Forget You\" featuring Rihanna on VEVO NOW! http://smarturl.it/CRTFYpv?IQid=rfb Shakira - Can't Remember To Forget You (Audio) ft. Rihanna Download \"Can't Remember to Forget You\" ft Rihanna on iTunes: http://smarturl.it/ShakiraCRTFY?IQid=pyt Music video by Shakira feat. Rihanna performing Can't ...",
+          1389619888
+        ],
+        [
+          "Navy it's here! Tune in to On Air with Ryan Seacrest TODAY at 9 am est on iHeartRadio for the premiere of Shakira's new single \"Can't Remember to Forget You\" w/ Rihanna! http://bit.ly/CRTFYpremiere Timeline Photos",
+          1389615725
+        ],
+        [
+          "Official single art for \"Can't Remember to Forget You\" with Shakira!! 4 DAYS! Shakira ~Only FOUR days until 'Can't Remember To Forget You' with Rihanna!! Here's the single artwork\u2026. #soexcited\r\n\r\n~Faltan CUATRO d\u00edas para 'Can't Remember To Forget You' con Rihanna!! Aqu\u00ed est\u00e1 la tapa del sencillo\u2026. #soexcited \r\n\r\nShak",
+          1389272916
+        ],
+        [
+          "NAVY, Are you ready? \"Can't Remember To Forget You\" w/ Shakira coming 1.13.14 #rememberforget  Shakira You guys ready? Jan 13 is almost here! \n\u00bfEst\u00e1n listos? \u00a1El 13 de Enero se acerca! \nShak #rememberforget",
+          1389032582
+        ]
+      ],
+      "dates_start": 1389478495,
+      "dates_end": 1391355488,
+      "likes_avg": 150351,
+      "likes_stdev": 105504,
+      "comments_avg": 4098,
+      "comments_stdev": 1934,
+      "shares_avg": 4997,
+      "shares_stdev": 4865
+    },
+    {
+      "number": 2,
+      "important": [
+        "mobil upload",
+        "mobil",
+        "fall",
+        "upload",
+        "member",
+        "navi",
+        "action",
+        "collect",
+        "rihanna",
+        "stanc"
+      ],
+      "common": [
+        "day",
+        "mobile",
+        "mobile uploads",
+        "navy",
+        "navy day",
+        "puma foreverfaster",
+        "repping",
+        "rihanna",
+        "uploads",
+        "video"
+      ],
+      "messages": [
+        [
+          "Navy member Shakiya (@Rih2Dope) was gifted Rihanna's entire fall Stance Muse collection yesterday when the #StanceGirlz stopped by her house in Brooklyn. Mobile Uploads",
+          1442170688
+        ],
+        [
+          "Rihanna x PUMA. #ForeverFaster Mobile Uploads",
+          1440610393
+        ],
+        [
+          "Navy, are you ready for the #BBHMMvideo? Coming Thursday. Mobile Uploads",
+          1435408511
+        ],
+        [
+          "Navy of the day: @kallistorogue repping from Italy! #BBHMMItaly #AOItaly Mobile Uploads",
+          1432158055
+        ],
+        [
+          "Navy of the day: @monse_ariaza showing navy pride from Mexico #BBHMMMexico #AOMexico Mobile Uploads",
+          1431880135
+        ],
+        [
+          "Navy of the day: @cocojambo repping from Chicago, IL! #BBHMMChicago #AOChicago Mobile Uploads",
+          1430589364
+        ],
+        [
+          "American Oxygen video premiere exclusively on TIDAL! Watch the video now: http://smarturl.it/AOvideo #TIDALforALL Mobile Uploads",
+          1428346482
+        ],
+        [
+          "$un$et. #Barbados Mobile Uploads",
+          1416669118
+        ],
+        [
+          "RiRi x FIFA Mobile Uploads",
+          1405283171
+        ],
+        [
+          "Da German bae #Klose Mobile Uploads",
+          1403376968
+        ],
+        [
+          "Me$$y Hurr day Mobile Uploads",
+          1399835858
+        ]
+      ],
+      "dates_start": 1409626596,
+      "dates_end": 1438796811,
+      "likes_avg": 394091,
+      "likes_stdev": 550035,
+      "comments_avg": 7176,
+      "comments_stdev": 11212,
+      "shares_avg": 4931,
+      "shares_stdev": 7107
+    },
+    {
+      "number": 3,
+      "important": [
+        "benefit",
+        "clara lionel foundat",
+        "clara",
         "life",
+        "global",
         "foundat",
+        "action",
         "today",
         "diamondbal",
-        "global",
-        "avail",
-        "action",
-        "clara",
-        "clara lionel foundat",
-        "benefit"
+        "avail"
       ],
       "common": [
         "ball",
@@ -121,18 +283,18 @@
       "shares_stdev": 3451
     },
     {
-      "number": 2,
+      "number": 4,
       "important": [
-        "shop",
-        "diamond",
-        "world",
-        "tour",
-        "store",
-        "diamond world",
-        "pick",
-        "new",
         "timelin",
-        "world tour"
+        "diamond world",
+        "diamond",
+        "tour",
+        "world tour",
+        "pick",
+        "shop",
+        "store",
+        "world",
+        "new"
       ],
       "common": [
         "diamonds",
@@ -242,18 +404,18 @@
       "shares_stdev": 1677
     },
     {
-      "number": 3,
+      "number": 5,
       "important": [
-        "apr",
-        "get ticket see",
-        "air",
-        "almost time antiworldtour",
-        "guest",
-        "almost",
-        "scott",
         "get ticket",
+        "almost time antiworldtour",
+        "apr",
+        "almost",
+        "guest",
+        "get ticket see",
+        "almost time",
         "ticket see rihanna",
-        "almost time"
+        "air",
+        "scott"
       ],
       "common": [
         "2016",
@@ -367,18 +529,18 @@
       "shares_stdev": 90
     },
     {
-      "number": 4,
+      "number": 6,
       "important": [
-        "rihanna avail",
-        "behind scene",
+        "august",
         "latest",
-        "behind",
-        "perfum",
-        "go behind",
-        "set",
         "fragranc",
+        "behind scene",
+        "perfum",
+        "rihanna avail",
+        "go behind",
         "riri",
-        "august"
+        "behind",
+        "set"
       ],
       "common": [
         "behind",
@@ -496,18 +658,18 @@
       "shares_stdev": 2031
     },
     {
-      "number": 5,
+      "number": 7,
       "important": [
-        "mel ottenberg offici",
-        "music award",
-        "music",
-        "award",
-        "photo rihanna post",
-        "photo rihanna",
-        "mel",
-        "mtv",
+        "style",
         "offici",
-        "style"
+        "mtv",
+        "music",
+        "photo rihanna post",
+        "music award",
+        "award",
+        "mel",
+        "mel ottenberg offici",
+        "photo rihanna"
       ],
       "common": [
         "bravo",
@@ -661,18 +823,18 @@
       "shares_stdev": 2027
     },
     {
-      "number": 6,
+      "number": 8,
       "important": [
-        "photo",
-        "navi",
-        "la",
-        "london",
-        "antiworldtour",
-        "action",
-        "timelin",
-        "cover",
         "weekend",
-        "cover photo"
+        "london",
+        "timelin",
+        "navi",
+        "action",
+        "cover",
+        "la",
+        "cover photo",
+        "photo",
+        "antiworldtour"
       ],
       "common": [
         "antiworldtour",
@@ -850,18 +1012,18 @@
       "shares_stdev": 3787
     },
     {
-      "number": 7,
+      "number": 9,
       "important": [
-        "river",
-        "collect",
         "rihanna",
-        "photo",
-        "island",
-        "avail",
-        "navi",
-        "rihanna river",
         "timelin",
-        "check"
+        "navi",
+        "photo",
+        "rihanna river",
+        "river",
+        "check",
+        "island",
+        "collect",
+        "avail"
       ],
       "common": [
         "bit ly",
@@ -1063,17 +1225,17 @@
       "shares_stdev": 946
     },
     {
-      "number": 8,
+      "number": 10,
       "important": [
-        "world",
-        "man",
-        "march",
         "special",
-        "full",
         "take",
-        "shoot",
+        "full",
+        "man",
         "issu",
+        "shoot",
         "cover",
+        "march",
+        "world",
         "cover shoot"
       ],
       "common": [
@@ -1292,18 +1454,279 @@
       "shares_stdev": 2691
     },
     {
-      "number": 9,
+      "number": 11,
       "important": [
-        "facebook",
-        "post",
-        "vote",
+        "watch",
+        "timelin",
+        "perform",
+        "tidal",
+        "action",
+        "video",
+        "vevo",
+        "photo",
+        "star",
+        "rihanna"
+      ],
+      "common": [
+        "http",
+        "http smarturl",
+        "music",
+        "music video",
+        "navy",
+        "rihanna",
+        "smarturl",
+        "vevo",
+        "video",
+        "watch"
+      ],
+      "messages": [
+        [
+          "Rihanna's VMA performances are now on TIDAL and Vevo!\nWatch on TIDAL: http://smarturl.it/VMAtidal\nWatch on VEVO: http://smarturl.it/VMAvevo Timeline Photos",
+          1472912471
+        ],
+        [
+          "Watch the Sledgehammer video from Star Trek Beyond NOW! \n\nVevo: http://smarturl.it/vSledgehammerVid\nTIDAL: http://smarturl.it/tSledgehammerVid",
+          1467367570
+        ],
+        [
+          "Watch the new Sledgehammer video from Star Trek Beyond!! Sledgehammer (From The Motion Picture I'm watching Sledgehammer (From The Motion Picture",
+          1467288410
+        ],
+        [
+          "Be ready Navy!! The video for Sledgehammer from Star Trek Beyond premieres tomorrow! First time ever IMAX will debut the music video at 9AM EST and then watch on TIDAL and Vevo at 10AM EST!",
+          1467202959
+        ],
+        [
+          "What's your favorite part of the #THISISWHATYOUCAMEFOR video?\n\nWatch on TIDAL: http://smarturl.it/TIWYCFvidt\nWatch on Vevo: http://clvnhr.is/TIWYCFvid Timeline Photos",
+          1466690419
+        ],
+        [
+          "Watch Love On The Brain from the #BBMAs\nTIDAL: http://smarturl.it/tRihBBMAs\nVevo: http://smarturl.it/RihannaBBMAs",
+          1464101609
+        ],
+        [
+          "Watch part 2 of #NEEDEDMEVIDEO behind the scenes!\nVEVO: http://smarturl.it/NeededMeBTS2v\nTIDAL: http://smarturl.it/NeededMeBTS2t Timeline Photos",
+          1461593923
+        ],
+        [
+          "Watch the \"Kiss It Better\" video now!\n\nVevo: http://smarturl.it/KIBvideo\nTIDAL: http://smarturl.it/KIBvideoT",
+          1459433405
+        ],
+        [
+          "Bitch Better Have My Money video out now!! smarturl.it/BBHMMvideo",
+          1435856400
+        ],
+        [
+          "Watch some lucky navy members get kidnapped for a first-ever screening of the \"Bitch Better Have My Money\" video thanks to TIDAL: http://smarturl.it/tidalxr TIDAL It got a little more interesting last night when Rihanna decided to kidnap her fans for an exclusive premiere of \u201cBitch Better Have My Money.\u201d Witness the TIDAL X: Rihanna BBHMM highlights now and check out the epic \u201cB*tch Better Have My Money\u201d music video, also on TIDAL.com.",
+          1435845908
+        ],
+        [
+          "Watch the \u201cBitch Better Have My Money\u201d music video now! http://smarturl.it/BBHMMvideo Bitch Better Have My Money (Explicit) - Rihanna I'm watching \"Bitch Better Have My Money (Explicit)\" by Rihanna",
+          1435802984
+        ],
+        [
+          "\"Bitch Better Have My Money\u201d video dropping Thursday. #BBHMMvideo Timeline Photos",
+          1435521706
+        ],
+        [
+          "#ThrowbackThursday: \u201cPon De Replay\u201d came out 10 years ago this week. Rihanna - Pon de Replay (Internet Version) Music video by Rihanna performing Pon de Replay. YouTube view counts pre-VEVO: 4,166,822. (C) 2005 The Island Def Jam Music Group",
+          1432823400
+        ],
+        [
+          "Bitch Better Have My Money gets the remix treatment by R3hab! Download only on Beatport: http://smarturl.it/BBHMMdance",
+          1430748894
+        ],
+        [
+          "Bitch Better Have My Money dance remixes by Michael Woods and WE ARE GTA are available now on TIDAL! \n\nListen now: http://smarturl.it/BBHMMremixes Timeline Photos",
+          1430485838
+        ],
+        [
+          "What\u2019s your favorite part of the \u201cAmerican Oxygen\u201d music video?",
+          1429206780
+        ],
+        [
+          "NAVY, who saw Rihanna perform BBHMM on the iHeartRadio Music Awards? If you missed it, watch the first-ever live performance of the new song on VEVO now: smarturl.it/BBHMMlive Rihanna - \"Bitch Better Have My Money\" Live at the iHeartRadio Music Awards Rihanna's first-ever performance of \"Bitch Better Have My Money\" live at the iHeartRadio Music Awards from Los Angeles on March 29, 2015. Download the track ...",
+          1427892027
+        ],
+        [
+          "Watch Rihanna's first-ever performance of \"Bitch Better Have My Money\" live on the iHeartRadio Music Awards tonight at 8/7c on NBC.",
+          1427637765
+        ],
+        [
+          "New song \u201cBitch Better Have My Money\u201d from Rihanna\u2019s upcoming album is out now! \n\nWatch Rihanna perform #BBHMM live for the first time ever on the iHeartRadio awards this Sunday on NBC at 8/7c. Bitch Better Have My Money Download Rihanna's \"Bitch Better Have My Money\" now.",
+          1427391509
+        ],
+        [
+          "Have you seen the \u201cFourFiveSeconds\u201d video yet? Watch the entire video on VEVO: http://vevo.ly/Xmcxvv",
+          1422989858
+        ],
+        [
+          "Rihanna released her video for \u201cHard\u201d featuring Young Jeezy 5 years ago today. Watch it now: http://youtu.be/Xcwd_Nz6Zog Rihanna - Hard ft. Jeezy Music video by Rihanna performing Hard. (C) 2009 The Island Def Jam Music Group",
+          1419267600
+        ],
+        [
+          "Rihanna salutes America's veterans and their families with this special tribute video. http://smarturl.it/VeteransTribute Rihanna - Stay (Veterans Tribute) Featuring footage from the Concert for Valor on Veterans Day 2014.",
+          1416071875
+        ],
+        [
+          "\u201cRehab\u201d featuring Justin Timberlake is Rihanna\u2019s 20th certified video with 100 million views, more than any other artist! http://youtu.be/rJYcmq__nDM Rihanna - Rehab ft. Justin Timberlake Music video by Rihanna performing Rehab. YouTube view counts pre-VEVO: 19,591,123. (C) 2007 The Island Def Jam Music Group",
+          1415466001
+        ],
+        [
+          "Thank you, Navy! You helped make Rihanna's Cheers (Drink to That) Vevo certified with over 100 Million views! http://vevo.ly/q7MFHW Cheers (Drink To That) - Rihanna Watch music videos and original shows on Vevo. Download Vevo free on mobile and TV devices.",
+          1405361210
+        ],
+        [
+          "NAVY! You made Rihanna's \"What Now\" her 18th Vevo Certified video! Watch it again now: http://vevo.ly/OHc0d2 Rihanna - What Now (Official) Download Rihanna's \"What Now\" from Unapologetic, available now: http://smarturl.it/iwhatnow Music video by Rihanna performing What Now (Official). \u00a9: The Isl...",
+          1402326951
+        ],
+        [
+          "#ThrowbackThursday 4 years ago this week!! http://youtu.be/eMOIUUS8GWo Rihanna - ROCKSTAR 101 ft. Slash Music video by Rihanna performing ROCKSTAR 101. (C) 2010 The Island Def Jam Music Group",
+          1400777044
+        ],
+        [
+          "#ThrowbackThursday >> Rude Boy topped the Billboard Hot 100 for the fifth week starting this day in 2010!! #HistoRIH http://youtu.be/e82VE8UtW8A Rihanna - Rude Boy Music video by Rihanna performing Rude Boy. (C) 2010 The Island Def Jam Music Group #VEVOCertified on September 27, 2010. http://www.vevo.com/certified http:...",
+          1398380731
+        ],
+        [
+          "THANK YOU! #PourItUp is now VEVO certified with 100 million views! http://vevo.ly/6Gq79t Rihanna - Pour It Up (Explicit) Download \"Pour It Up\" from Unapologetic on iTunes: http://smarturl.it/UnapologeticDlx Music video by Rihanna performing Pour It Up (Explicit). \u00a9 2013 The Isl...",
+          1391799487
+        ],
+        [
+          "#CantRememberToForgetYou Video Coming TOMORROW Shakira ~ The video for #CantRememberToForgetYou ft Rihanna is coming TOMORROW!! Excited to share it with you guys! Shak\n\n~ \u00a1El v\u00eddeo de #CantRememberToForgetYou con Rihanna llega MA\u00d1ANA!! Shak",
+          1391021026
+        ],
+        [
+          "Rihanna is nominated for two Grammy Awards!\n\nUnapologetic - Best Urban Contemporary Album\n\"Stay\" featuring Mikky Ekko - Best Pop/Duo Performance\n\nWatch the video  for \"Stay\" featuring Mikky Ekko to celebrate: http://bit.ly/StayRih Rihanna - Stay ft. Mikky Ekko Download \"Stay\" from Unapologetic now: http://smarturl.it/UnapologeticDlx Music video by Rihanna performing Stay ft. Mikky Ekko. \u00a9 2013 The Island Def Jam Mu...",
+          1386607732
+        ],
+        [
+          "#WHATNOW music video is here!! Watch it now on VEVO: http://youtu.be/b-3BI9AspYc Rihanna - What Now (Official) Download Rihanna's \"What Now\" from Unapologetic, available now: http://smarturl.it/iwhatnow Music video by Rihanna performing What Now (Official). \u00a9: The Isl...",
+          1384533063
+        ],
+        [
+          "#WHATNOW #VIDEO drops TOMORROW on VEVO.... if ya can't wait for #videoseason Watch this sneak peek: http://youtu.be/aAai6et1Zf8 Rihanna \"What Now\": Official Music Video Preview Rihanna \"What Now\" premieres tomorrow, Friday, November, 15 on VEVO. Download \"What Now\" from Unapologetic now: http://smarturl.it/RiWhatNow",
+          1384463792
+        ],
+        [
+          "Watch #PourItUp > now available on VEVO! http://smarturl.it/PIU Timeline Photos",
+          1380768240
+        ],
+        [
+          "It's here #NAVY! Rihanna stars in ASAP Rocky's new video! #FashionKilla #GQMag A$AP Rocky + Rihanna: Fashion Killa Video Exclusive music video from A$AP Rocky + Rihanna",
+          1380149210
+        ],
+        [
+          "Tune in to VEVO TV today at 4PM EST for an hour of Rihanna! Watch your favorite Rihanna videos, interviews, and performances here: www.vevo.com/tv New Music Videos, Premieres, Concerts and Original Shows | VEVO.com Watch your favorite artist's music videos, see premiere performances and search for new music on VEVO.com",
+          1377884401
+        ],
+        [
+          "Rihanna is the only female artist to win 2 Video of the Year VMAs. Find out Sunday 8/25 on MTV if she takes home Best Female Video for \"Stay\" and tell us your favorite Rih VMA moment. http://bit.ly/VdxAkE Rihanna - Stay ft. Mikky Ekko Download \"Stay\" from Unapologetic now: http://smarturl.it/UnapologeticDlx Music video by Rihanna performing Stay ft. Mikky Ekko. \u00a9 2013 The Island Def Jam Mu...",
+          1376945940
+        ],
+        [
+          "VEVO Certified once again! \"Take a Bow\" is Rihanna's 15th video to hit over 100 million views. Congrats to RiRi, and congrats to the NAVY! Timeline Photos",
+          1375740000
+        ],
+        [
+          "Hats off to the Rih Navy! \u201cRussian Roulette\u201d just reached 100M views on VEVO, which gives Rih 12 CERTIFIED videos breaking the record for most VEVO certified videos by one artist. That Rihanna reign just won\u2019t let up! \n\nCheck out all of Rih\u2019s VEVO certified videos here http://bit.ly/ZSgv1u Rihanna - Russian Roulette",
+          1367267000
+        ],
+        [
+          "You can now watch Rihanna's video for \"Stay\" ft Mikky Ekko on VEVO! Rihanna - Stay ft. Mikky Ekko",
+          1360680098
+        ],
+        [
+          "Watch the official video for \"Stay\" by Rihanna on E! Online now: http://eonli.ne/StayVideo Timeline Photos",
+          1360629407
+        ],
+        [
+          "Rih\u2019s \u201cDiamonds\u201d video has reached over 100 millions views, making it her 10th VEVO CERTIFIED video. \n \nThat Rihanna reign just won\u2019t let up! Diamonds - Rihanna",
+          1357339879
+        ],
+        [
+          "Check out these BTS photos from Rihanna's \"Diamonds\" video shoot: http://on.fb.me/W5Ubkm\n\nIf you haven't seen it already watch the video on VEVO here: http://vevo.ly/VIiXHk Rihanna",
+          1352907563
+        ],
+        [
+          "IT'S HERE... WATCH THE DIAMONDS VIDEO PREMIERE ON MTV! http://rihanna.mtv.tv Timeline Photos",
+          1352423723
+        ],
+        [
+          "Rih's \"Diamonds\" video premieres TOMORROW! Tune in to MTV at 6:55 pm EST to watch it.\n\nFor now, check out this BTS footage from the video shoot: http://on.mtv.com/TLh8XU Timeline Photos",
+          1352319002
+        ],
+        [
+          "\u201cFind light in the beautiful sea, I choose to be happy\u2026\u201d  Rihanna #Diamonds",
+          1350934091
+        ],
+        [
+          "What's your favorite \"Diamonds\" lyric? Watch the new lyric video now on VEVO: http://bit.ly/RihDiamondsLyric Rihanna - Diamonds (Lyric Video) Music video by Rihanna performing Diamonds (Lyric Video). \u00a9 2012 The Island Def Jam Music Group",
+          1350288686
+        ],
+        [
+          "Congratulations to the RihNavy for getting Rihanna\u2019s \u201cWhere Have You Been\u201d video to VEVO Certified Status....MEANING\u2013 over 100M views!!! \n\nWatch the video again below. Rihanna - Where Have You Been",
+          1345555059
+        ],
+        [
+          "Thank you NAVY for 60 million views of \"Where Have You Been\"! Download the track here: http://www.Smarturl.it/TTT Rihanna - Where Have You Been Buy on iTunes: http://www.Smarturl.it/TTT Amazon: http://idj.to/svJVGM Music video by Rihanna performing Where Have You Been. \u00a9: The Island Def Jam Music Group",
+          1340067214
+        ],
+        [
+          "The Coldplay and Rihanna \"Princess of China\" video premiere! Princess Of China - Coldplay ft. Rihanna Watch the music video for \"Princess Of China\" by Coldplay ft. Rihanna on VEVO.",
+          1338675376
+        ],
+        [
+          "Thank you NAVY for 25 million views of \"Where Have You Been\"! Download the video on iTunes now: http://smarturl.it/WHYBev Rihanna - Where Have You Been Buy on iTunes: http://www.Smarturl.it/TTT Music video by Rihanna performing Where Have You Been. \u00a9: The Island Def Jam Music Group",
+          1336875415
+        ],
+        [
+          "Rihanna Navy you did it! You helped Rih break the record for VEVO's most video views in 24 hrs with \"Where Have You Been!\" http://bit.ly/WHYBVideo Rihanna - Where Have You Been",
+          1336062660
+        ],
+        [
+          "So how is the Rihanna Navy feeling about the new \"Where Have You Been\" video? Are you loving it? http://bit.ly/WHYBVideo Rihanna - Where Have You Been Buy on iTunes: http://www.Smarturl.it/TTT Music video by Rihanna performing Where Have You Been. \u00a9: The Island Def Jam Music Group",
+          1335816905
+        ],
+        [
+          "Call out to ALL of the Rihanna Navy!!! \"Where Have You Been\" video world premiere is now live on VEVO...!! How many video views can we get in 24 hours? Watch and SHARE to show your Navy pride!! http://bit.ly/WHYBVideo Rihanna - Where Have You Been",
+          1335783661
+        ],
+        [
+          "Time is winding down! Can you feel the excitement? Tune into VEVO tomorrow at 9am EST to catch the premiere of Rihanna's \"Where Have You Been\" video.",
+          1335722405
+        ],
+        [
+          "NAVY CHALLENGE!! Can we get the most video views ever in 24 hrs on VEVO?? \"Where Have You Been\" video premieres Monday April 30 at 9am EST. RSVP here & invite a friend! \"Where Have You Been\" Video Premiere on VEVO!! RIHANNA NAVY, we need each and everyone of you to watch \"Where Have You Been\" on Monday Apr. 30 at 9AM EST on VEVO!!!! Can we break the record for most video views in a day? RSVP here & invite a friend!\n\nWATCH NOW: http://bit.ly/WHYBVideo",
+          1335614749
+        ],
+        [
+          "Rihanna Navy! The official \"Where Have You Been\" premiere will be Monday April 30th at 9am EST on VEVO. To get you even more excited check out pt 3 of the making of WHYB http://youtu.be/5m-BoB2_bp8 BTS: Where Have You Been pt 3 In this \"Where Have You Been\" behind-the-scenes video, we head to the actual video shoot. Get your copy of Talk That Talk Today: http://www.smarturl.it/TTT",
+          1335524709
+        ]
+      ],
+      "dates_start": 1352262796,
+      "dates_end": 1439410265,
+      "likes_avg": 67732,
+      "likes_stdev": 49235,
+      "comments_avg": 2484,
+      "comments_stdev": 1795,
+      "shares_avg": 6028,
+      "shares_stdev": 7573
+    },
+    {
+      "number": 12,
+      "important": [
         "twitter facebook",
-        "award vote",
+        "vote",
+        "facebook",
         "award",
         "favorit",
-        "femal",
+        "twitter",
         "nomin",
-        "twitter"
+        "femal",
+        "post",
+        "award vote"
       ],
       "common": [
         "artist",
@@ -1557,18 +1980,18 @@
       "shares_stdev": 1935
     },
     {
-      "number": 10,
+      "number": 13,
       "important": [
-        "week",
         "pari",
-        "fenti",
-        "fashion week",
-        "fashion",
         "dure",
+        "fashion week",
         "march",
+        "fenti",
+        "fashion",
         "pari fashion",
         "puma",
-        "show"
+        "show",
+        "week"
       ],
       "common": [
         "collection",
@@ -1858,323 +2281,18 @@
       "shares_stdev": 1351
     },
     {
-      "number": 11,
+      "number": 14,
       "important": [
-        "photo",
-        "rihanna",
-        "video",
-        "star",
-        "perform",
-        "tidal",
-        "timelin",
-        "action",
-        "vevo",
-        "watch"
-      ],
-      "common": [
-        "http",
-        "http smarturl",
-        "music",
-        "music video",
-        "rihanna",
-        "shakira",
-        "smarturl",
-        "vevo",
-        "video",
-        "watch"
-      ],
-      "messages": [
-        [
-          "Rihanna's VMA performances are now on TIDAL and Vevo!\nWatch on TIDAL: http://smarturl.it/VMAtidal\nWatch on VEVO: http://smarturl.it/VMAvevo Timeline Photos",
-          1472912471
-        ],
-        [
-          "Watch the Sledgehammer video from Star Trek Beyond NOW! \n\nVevo: http://smarturl.it/vSledgehammerVid\nTIDAL: http://smarturl.it/tSledgehammerVid",
-          1467367570
-        ],
-        [
-          "Watch the new Sledgehammer video from Star Trek Beyond!! Sledgehammer (From The Motion Picture I'm watching Sledgehammer (From The Motion Picture",
-          1467288410
-        ],
-        [
-          "Be ready Navy!! The video for Sledgehammer from Star Trek Beyond premieres tomorrow! First time ever IMAX will debut the music video at 9AM EST and then watch on TIDAL and Vevo at 10AM EST!",
-          1467202959
-        ],
-        [
-          "What's your favorite part of the #THISISWHATYOUCAMEFOR video?\n\nWatch on TIDAL: http://smarturl.it/TIWYCFvidt\nWatch on Vevo: http://clvnhr.is/TIWYCFvid Timeline Photos",
-          1466690419
-        ],
-        [
-          "Watch Love On The Brain from the #BBMAs\nTIDAL: http://smarturl.it/tRihBBMAs\nVevo: http://smarturl.it/RihannaBBMAs",
-          1464101609
-        ],
-        [
-          "Watch part 2 of #NEEDEDMEVIDEO behind the scenes!\nVEVO: http://smarturl.it/NeededMeBTS2v\nTIDAL: http://smarturl.it/NeededMeBTS2t Timeline Photos",
-          1461593923
-        ],
-        [
-          "Watch the \"Kiss It Better\" video now!\n\nVevo: http://smarturl.it/KIBvideo\nTIDAL: http://smarturl.it/KIBvideoT",
-          1459433405
-        ],
-        [
-          "Bitch Better Have My Money video out now!! smarturl.it/BBHMMvideo",
-          1435856400
-        ],
-        [
-          "Watch some lucky navy members get kidnapped for a first-ever screening of the \"Bitch Better Have My Money\" video thanks to TIDAL: http://smarturl.it/tidalxr TIDAL It got a little more interesting last night when Rihanna decided to kidnap her fans for an exclusive premiere of \u201cBitch Better Have My Money.\u201d Witness the TIDAL X: Rihanna BBHMM highlights now and check out the epic \u201cB*tch Better Have My Money\u201d music video, also on TIDAL.com.",
-          1435845908
-        ],
-        [
-          "Watch the \u201cBitch Better Have My Money\u201d music video now! http://smarturl.it/BBHMMvideo Bitch Better Have My Money (Explicit) - Rihanna I'm watching \"Bitch Better Have My Money (Explicit)\" by Rihanna",
-          1435802984
-        ],
-        [
-          "\"Bitch Better Have My Money\u201d video dropping Thursday. #BBHMMvideo Timeline Photos",
-          1435521706
-        ],
-        [
-          "#ThrowbackThursday: \u201cPon De Replay\u201d came out 10 years ago this week. Rihanna - Pon de Replay (Internet Version) Music video by Rihanna performing Pon de Replay. YouTube view counts pre-VEVO: 4,166,822. (C) 2005 The Island Def Jam Music Group",
-          1432823400
-        ],
-        [
-          "Bitch Better Have My Money gets the remix treatment by R3hab! Download only on Beatport: http://smarturl.it/BBHMMdance",
-          1430748894
-        ],
-        [
-          "Bitch Better Have My Money dance remixes by Michael Woods and WE ARE GTA are available now on TIDAL! \n\nListen now: http://smarturl.it/BBHMMremixes Timeline Photos",
-          1430485838
-        ],
-        [
-          "What\u2019s your favorite part of the \u201cAmerican Oxygen\u201d music video?",
-          1429206780
-        ],
-        [
-          "NAVY, who saw Rihanna perform BBHMM on the iHeartRadio Music Awards? If you missed it, watch the first-ever live performance of the new song on VEVO now: smarturl.it/BBHMMlive Rihanna - \"Bitch Better Have My Money\" Live at the iHeartRadio Music Awards Rihanna's first-ever performance of \"Bitch Better Have My Money\" live at the iHeartRadio Music Awards from Los Angeles on March 29, 2015. Download the track ...",
-          1427892027
-        ],
-        [
-          "Watch Rihanna's first-ever performance of \"Bitch Better Have My Money\" live on the iHeartRadio Music Awards tonight at 8/7c on NBC.",
-          1427637765
-        ],
-        [
-          "New song \u201cBitch Better Have My Money\u201d from Rihanna\u2019s upcoming album is out now! \n\nWatch Rihanna perform #BBHMM live for the first time ever on the iHeartRadio awards this Sunday on NBC at 8/7c. Bitch Better Have My Money Download Rihanna's \"Bitch Better Have My Money\" now.",
-          1427391509
-        ],
-        [
-          "Have you seen the \u201cFourFiveSeconds\u201d video yet? Watch the entire video on VEVO: http://vevo.ly/Xmcxvv",
-          1422989858
-        ],
-        [
-          "Rihanna released her video for \u201cHard\u201d featuring Young Jeezy 5 years ago today. Watch it now: http://youtu.be/Xcwd_Nz6Zog Rihanna - Hard ft. Jeezy Music video by Rihanna performing Hard. (C) 2009 The Island Def Jam Music Group",
-          1419267600
-        ],
-        [
-          "Rihanna salutes America's veterans and their families with this special tribute video. http://smarturl.it/VeteransTribute Rihanna - Stay (Veterans Tribute) Featuring footage from the Concert for Valor on Veterans Day 2014.",
-          1416071875
-        ],
-        [
-          "\u201cRehab\u201d featuring Justin Timberlake is Rihanna\u2019s 20th certified video with 100 million views, more than any other artist! http://youtu.be/rJYcmq__nDM Rihanna - Rehab ft. Justin Timberlake Music video by Rihanna performing Rehab. YouTube view counts pre-VEVO: 19,591,123. (C) 2007 The Island Def Jam Music Group",
-          1415466001
-        ],
-        [
-          "Thank you, Navy! You helped make Rihanna's Cheers (Drink to That) Vevo certified with over 100 Million views! http://vevo.ly/q7MFHW Cheers (Drink To That) - Rihanna Watch music videos and original shows on Vevo. Download Vevo free on mobile and TV devices.",
-          1405361210
-        ],
-        [
-          "NAVY! You made Rihanna's \"What Now\" her 18th Vevo Certified video! Watch it again now: http://vevo.ly/OHc0d2 Rihanna - What Now (Official) Download Rihanna's \"What Now\" from Unapologetic, available now: http://smarturl.it/iwhatnow Music video by Rihanna performing What Now (Official). \u00a9: The Isl...",
-          1402326951
-        ],
-        [
-          "#ThrowbackThursday 4 years ago this week!! http://youtu.be/eMOIUUS8GWo Rihanna - ROCKSTAR 101 ft. Slash Music video by Rihanna performing ROCKSTAR 101. (C) 2010 The Island Def Jam Music Group",
-          1400777044
-        ],
-        [
-          "#ThrowbackThursday >> Rude Boy topped the Billboard Hot 100 for the fifth week starting this day in 2010!! #HistoRIH http://youtu.be/e82VE8UtW8A Rihanna - Rude Boy Music video by Rihanna performing Rude Boy. (C) 2010 The Island Def Jam Music Group #VEVOCertified on September 27, 2010. http://www.vevo.com/certified http:...",
-          1398380731
-        ],
-        [
-          "THANK YOU! #PourItUp is now VEVO certified with 100 million views! http://vevo.ly/6Gq79t Rihanna - Pour It Up (Explicit) Download \"Pour It Up\" from Unapologetic on iTunes: http://smarturl.it/UnapologeticDlx Music video by Rihanna performing Pour It Up (Explicit). \u00a9 2013 The Isl...",
-          1391799487
-        ],
-        [
-          "\"Watching Rihanna and Shakira doing their thing on that chaise lounge was one of the funnest moments I've had with Rihanna in awhile.  And we loved watching Shakira's hips move in person! Shes such a big star, but shes really cool. I dig her.\" -Mel Ottenberg on Shakira's #CantRememberToForgetYou video ft. Rihanna  Shakira - Can't Remember to Forget You ft. Rihanna Download \"Can't Remember to Forget You\" ft Rihanna on iTunes from Shakira's forthcoming album \"Shakira.\", available March 25 http://smarturl.it/ShakiraCRTFY?...",
-          1391725446
-        ],
-        [
-          "WATCH behind-the-scenes video at the shoot for Shakira's \"Can't Remember to Forget You\" featuring Rihanna on VEVO NOW: http://smarturl.it/CRTFYbts?IQid=rfb Shakira - Can't Remember To Forget You (Behind The Scenes) Download \"Can't Remember to Forget You\" ft Rihanna on iTunes from Shakira's forthcoming album \"Shakira\", available March 25 http://smarturl.it/ShakiraCRTFY?I...",
-          1391547305
-        ],
-        [
-          "Shakira's #CantRememberToForgetYou w/ Rihanna premieres NOW on VEVO! Watch it here: http://smarturl.it/CRTFYvid?IQid=rfb Shakira - Can't Remember to Forget You ft. Rihanna Download \"Can't Remember to Forget You\" ft Rihanna on iTunes from Shakira's forthcoming album \"Shakira.\", available March 25 http://smarturl.it/ShakiraCRTFY?...",
-          1391128613
-        ],
-        [
-          "TONIGHT Shakira's #CantRememberToForgetYou video featuring Rihanna debuts during E! Online's Shakira special at 8PM ET/PT, then on VEVO at 8:35PM EST Shakira - Tune in to see \"Can't Remember To Forget You\" on VEVO! Tune in today to see Shakira's new video for \"Can't Remember To Forget You\" featuring Rihanna at 8:35PM EST only on VEVO! http://vevo.ly/IY2iYV",
-          1391114636
-        ],
-        [
-          "#SNEAKPEEK of Shakira's #CantRememberToForgetYou premiering during E! Online Shakira special at 8PM PT/ET TOMORROW! Then watch on VEVO at 8:35PM EST! http://youtu.be/5GDGxUywr0Q Shakira / Rihanna: Making of Can't Remember To Forget You (short version) Can't Remember to Forget You ft. Rihanna debuts tomorrow during a 30-min Shakira special at 8PM EST on E! / Then watch #CantRemembertoForgetYou ft. Rihanna o...",
-          1391040382
-        ],
-        [
-          "#CantRememberToForgetYou Video Coming TOMORROW Shakira ~ The video for #CantRememberToForgetYou ft Rihanna is coming TOMORROW!! Excited to share it with you guys! Shak\n\n~ \u00a1El v\u00eddeo de #CantRememberToForgetYou con Rihanna llega MA\u00d1ANA!! Shak",
-          1391021026
-        ],
-        [
-          "Video for #CantRemembertoForgetYou with Shakira coming soon! Shakira ~ The video for Can't Remember To Forget You feat Shakira and Rihanna is almost here! Are you ready? \r\n~ !El v\u00eddeo de Can't Remember to Forget You con Shakira y Rihanna ya se acerca! \u00bfEst\u00e1n listos? ShakiraHQ",
-          1390859069
-        ],
-        [
-          "Shakira's new single \"Can't Remember to Forget You\" featuring Rihanna is available on iTunes now! http://smarturl.it/ShakiraCRTFY?IQid=rfb Timeline Photos",
-          1389630348
-        ],
-        [
-          "It's here, Navy...Listen to Shakira's new single \"Can't Remember to Forget You\" featuring Rihanna on VEVO NOW! http://smarturl.it/CRTFYpv?IQid=rfb Shakira - Can't Remember To Forget You (Audio) ft. Rihanna Download \"Can't Remember to Forget You\" ft Rihanna on iTunes: http://smarturl.it/ShakiraCRTFY?IQid=pyt Music video by Shakira feat. Rihanna performing Can't ...",
-          1389619888
-        ],
-        [
-          "Navy it's here! Tune in to On Air with Ryan Seacrest TODAY at 9 am est on iHeartRadio for the premiere of Shakira's new single \"Can't Remember to Forget You\" w/ Rihanna! http://bit.ly/CRTFYpremiere Timeline Photos",
-          1389615725
-        ],
-        [
-          "Official single art for \"Can't Remember to Forget You\" with Shakira!! 4 DAYS! Shakira ~Only FOUR days until 'Can't Remember To Forget You' with Rihanna!! Here's the single artwork\u2026. #soexcited\r\n\r\n~Faltan CUATRO d\u00edas para 'Can't Remember To Forget You' con Rihanna!! Aqu\u00ed est\u00e1 la tapa del sencillo\u2026. #soexcited \r\n\r\nShak",
-          1389272916
-        ],
-        [
-          "NAVY, Are you ready? \"Can't Remember To Forget You\" w/ Shakira coming 1.13.14 #rememberforget  Shakira You guys ready? Jan 13 is almost here! \n\u00bfEst\u00e1n listos? \u00a1El 13 de Enero se acerca! \nShak #rememberforget",
-          1389032582
-        ],
-        [
-          "Rihanna is nominated for two Grammy Awards!\n\nUnapologetic - Best Urban Contemporary Album\n\"Stay\" featuring Mikky Ekko - Best Pop/Duo Performance\n\nWatch the video  for \"Stay\" featuring Mikky Ekko to celebrate: http://bit.ly/StayRih Rihanna - Stay ft. Mikky Ekko Download \"Stay\" from Unapologetic now: http://smarturl.it/UnapologeticDlx Music video by Rihanna performing Stay ft. Mikky Ekko. \u00a9 2013 The Island Def Jam Mu...",
-          1386607732
-        ],
-        [
-          "#WHATNOW music video is here!! Watch it now on VEVO: http://youtu.be/b-3BI9AspYc Rihanna - What Now (Official) Download Rihanna's \"What Now\" from Unapologetic, available now: http://smarturl.it/iwhatnow Music video by Rihanna performing What Now (Official). \u00a9: The Isl...",
-          1384533063
-        ],
-        [
-          "#WHATNOW #VIDEO drops TOMORROW on VEVO.... if ya can't wait for #videoseason Watch this sneak peek: http://youtu.be/aAai6et1Zf8 Rihanna \"What Now\": Official Music Video Preview Rihanna \"What Now\" premieres tomorrow, Friday, November, 15 on VEVO. Download \"What Now\" from Unapologetic now: http://smarturl.it/RiWhatNow",
-          1384463792
-        ],
-        [
-          "Watch #PourItUp > now available on VEVO! http://smarturl.it/PIU Timeline Photos",
-          1380768240
-        ],
-        [
-          "It's here #NAVY! Rihanna stars in ASAP Rocky's new video! #FashionKilla #GQMag A$AP Rocky + Rihanna: Fashion Killa Video Exclusive music video from A$AP Rocky + Rihanna",
-          1380149210
-        ],
-        [
-          "Tune in to VEVO TV today at 4PM EST for an hour of Rihanna! Watch your favorite Rihanna videos, interviews, and performances here: www.vevo.com/tv New Music Videos, Premieres, Concerts and Original Shows | VEVO.com Watch your favorite artist's music videos, see premiere performances and search for new music on VEVO.com",
-          1377884401
-        ],
-        [
-          "Rihanna is the only female artist to win 2 Video of the Year VMAs. Find out Sunday 8/25 on MTV if she takes home Best Female Video for \"Stay\" and tell us your favorite Rih VMA moment. http://bit.ly/VdxAkE Rihanna - Stay ft. Mikky Ekko Download \"Stay\" from Unapologetic now: http://smarturl.it/UnapologeticDlx Music video by Rihanna performing Stay ft. Mikky Ekko. \u00a9 2013 The Island Def Jam Mu...",
-          1376945940
-        ],
-        [
-          "VEVO Certified once again! \"Take a Bow\" is Rihanna's 15th video to hit over 100 million views. Congrats to RiRi, and congrats to the NAVY! Timeline Photos",
-          1375740000
-        ],
-        [
-          "Hats off to the Rih Navy! \u201cRussian Roulette\u201d just reached 100M views on VEVO, which gives Rih 12 CERTIFIED videos breaking the record for most VEVO certified videos by one artist. That Rihanna reign just won\u2019t let up! \n\nCheck out all of Rih\u2019s VEVO certified videos here http://bit.ly/ZSgv1u Rihanna - Russian Roulette",
-          1367267000
-        ],
-        [
-          "You can now watch Rihanna's video for \"Stay\" ft Mikky Ekko on VEVO! Rihanna - Stay ft. Mikky Ekko",
-          1360680098
-        ],
-        [
-          "Watch the official video for \"Stay\" by Rihanna on E! Online now: http://eonli.ne/StayVideo Timeline Photos",
-          1360629407
-        ],
-        [
-          "Rih\u2019s \u201cDiamonds\u201d video has reached over 100 millions views, making it her 10th VEVO CERTIFIED video. \n \nThat Rihanna reign just won\u2019t let up! Diamonds - Rihanna",
-          1357339879
-        ],
-        [
-          "Check out these BTS photos from Rihanna's \"Diamonds\" video shoot: http://on.fb.me/W5Ubkm\n\nIf you haven't seen it already watch the video on VEVO here: http://vevo.ly/VIiXHk Rihanna",
-          1352907563
-        ],
-        [
-          "IT'S HERE... WATCH THE DIAMONDS VIDEO PREMIERE ON MTV! http://rihanna.mtv.tv Timeline Photos",
-          1352423723
-        ],
-        [
-          "Rih's \"Diamonds\" video premieres TOMORROW! Tune in to MTV at 6:55 pm EST to watch it.\n\nFor now, check out this BTS footage from the video shoot: http://on.mtv.com/TLh8XU Timeline Photos",
-          1352319002
-        ],
-        [
-          "\u201cFind light in the beautiful sea, I choose to be happy\u2026\u201d  Rihanna #Diamonds",
-          1350934091
-        ],
-        [
-          "What's your favorite \"Diamonds\" lyric? Watch the new lyric video now on VEVO: http://bit.ly/RihDiamondsLyric Rihanna - Diamonds (Lyric Video) Music video by Rihanna performing Diamonds (Lyric Video). \u00a9 2012 The Island Def Jam Music Group",
-          1350288686
-        ],
-        [
-          "Congratulations to the RihNavy for getting Rihanna\u2019s \u201cWhere Have You Been\u201d video to VEVO Certified Status....MEANING\u2013 over 100M views!!! \n\nWatch the video again below. Rihanna - Where Have You Been",
-          1345555059
-        ],
-        [
-          "Thank you NAVY for 60 million views of \"Where Have You Been\"! Download the track here: http://www.Smarturl.it/TTT Rihanna - Where Have You Been Buy on iTunes: http://www.Smarturl.it/TTT Amazon: http://idj.to/svJVGM Music video by Rihanna performing Where Have You Been. \u00a9: The Island Def Jam Music Group",
-          1340067214
-        ],
-        [
-          "The Coldplay and Rihanna \"Princess of China\" video premiere! Princess Of China - Coldplay ft. Rihanna Watch the music video for \"Princess Of China\" by Coldplay ft. Rihanna on VEVO.",
-          1338675376
-        ],
-        [
-          "Thank you NAVY for 25 million views of \"Where Have You Been\"! Download the video on iTunes now: http://smarturl.it/WHYBev Rihanna - Where Have You Been Buy on iTunes: http://www.Smarturl.it/TTT Music video by Rihanna performing Where Have You Been. \u00a9: The Island Def Jam Music Group",
-          1336875415
-        ],
-        [
-          "Rihanna Navy you did it! You helped Rih break the record for VEVO's most video views in 24 hrs with \"Where Have You Been!\" http://bit.ly/WHYBVideo Rihanna - Where Have You Been",
-          1336062660
-        ],
-        [
-          "So how is the Rihanna Navy feeling about the new \"Where Have You Been\" video? Are you loving it? http://bit.ly/WHYBVideo Rihanna - Where Have You Been Buy on iTunes: http://www.Smarturl.it/TTT Music video by Rihanna performing Where Have You Been. \u00a9: The Island Def Jam Music Group",
-          1335816905
-        ],
-        [
-          "Call out to ALL of the Rihanna Navy!!! \"Where Have You Been\" video world premiere is now live on VEVO...!! How many video views can we get in 24 hours? Watch and SHARE to show your Navy pride!! http://bit.ly/WHYBVideo Rihanna - Where Have You Been",
-          1335783661
-        ],
-        [
-          "Time is winding down! Can you feel the excitement? Tune into VEVO tomorrow at 9am EST to catch the premiere of Rihanna's \"Where Have You Been\" video.",
-          1335722405
-        ],
-        [
-          "NAVY CHALLENGE!! Can we get the most video views ever in 24 hrs on VEVO?? \"Where Have You Been\" video premieres Monday April 30 at 9am EST. RSVP here & invite a friend! \"Where Have You Been\" Video Premiere on VEVO!! RIHANNA NAVY, we need each and everyone of you to watch \"Where Have You Been\" on Monday Apr. 30 at 9AM EST on VEVO!!!! Can we break the record for most video views in a day? RSVP here & invite a friend!\n\nWATCH NOW: http://bit.ly/WHYBVideo",
-          1335614749
-        ],
-        [
-          "Rihanna Navy! The official \"Where Have You Been\" premiere will be Monday April 30th at 9am EST on VEVO. To get you even more excited check out pt 3 of the making of WHYB http://youtu.be/5m-BoB2_bp8 BTS: Where Have You Been pt 3 In this \"Where Have You Been\" behind-the-scenes video, we head to the actual video shoot. Get your copy of Talk That Talk Today: http://www.smarturl.it/TTT",
-          1335524709
-        ]
-      ],
-      "dates_start": 1355057867,
-      "dates_end": 1434835644,
-      "likes_avg": 81296,
-      "likes_stdev": 69212,
-      "comments_avg": 2749,
-      "comments_stdev": 1915,
-      "shares_avg": 5859,
-      "shares_stdev": 7209
-    },
-    {
-      "number": 12,
-      "important": [
-        "thank",
-        "win",
+        "team",
+        "watch",
+        "take",
+        "fan",
         "better",
         "know",
-        "team",
-        "take",
         "action",
-        "fan",
-        "girl",
-        "watch"
+        "thank",
+        "win",
+        "girl"
       ],
       "common": [
         "bright like diamond",
@@ -2472,18 +2590,18 @@
       "shares_stdev": 2597
     },
     {
-      "number": 13,
+      "number": 15,
       "important": [
-        "post",
-        "rihanna",
+        "celebr",
+        "photo rihanna post",
+        "action",
+        "drop",
+        "smarturlitrihannapuma",
         "photo",
         "march",
-        "smarturlitrihannapuma",
-        "photo rihanna post",
+        "rihanna",
         "photo rihanna",
-        "drop",
-        "celebr",
-        "action"
+        "post"
       ],
       "common": [
         "http",
@@ -2821,16 +2939,16 @@
       "shares_stdev": 2694
     },
     {
-      "number": 14,
+      "number": 16,
       "important": [
-        "shakira",
         "see",
-        "photo",
-        "rihanna",
-        "navi",
         "instagram",
+        "navi",
         "action",
-        "instagram photo"
+        "instagram photo",
+        "photo",
+        "shakira",
+        "rihanna"
       ],
       "common": [
         "baby",

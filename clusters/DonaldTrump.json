@@ -2,12 +2,12 @@
   "pagename": "DonaldTrump",
   "globalstats": {
     "messages": 2107,
-    "likes_avg": 62015,
-    "likes_stdev": 83598,
-    "comments_avg": 12050,
-    "comments_stdev": 39516,
-    "shares_avg": 9889,
-    "shares_stdev": 31287,
+    "likes_avg": 61341,
+    "likes_stdev": 82718,
+    "comments_avg": 11891,
+    "comments_stdev": 39037,
+    "shares_avg": 9714,
+    "shares_stdev": 30919,
     "graph_uri": "clusters/DonaldTrump.png"
   },
   "clusters": [
@@ -16,13 +16,13 @@
       "important": [
         "join",
         "absolut",
+        "live",
+        "contribut",
         "contribut add",
         "learn contribut",
         "voter learn",
-        "live",
         "voter",
         "join live",
-        "contribut",
         "learn"
       ],
       "common": [
@@ -91,16 +91,16 @@
     {
       "number": 2,
       "important": [
-        "latest",
         "absolut",
         "watch",
+        "donald",
+        "latest",
+        "ask",
         "see",
+        "may",
         "answer",
         "question",
-        "donald",
-        "may",
-        "askthedonald",
-        "ask"
+        "askthedonald"
       ],
       "common": [
         "answer",
@@ -176,16 +176,16 @@
     {
       "number": 3,
       "important": [
+        "judg",
+        "trump",
         "absolut",
+        "serv",
         "anoth",
+        "oscar",
+        "like",
         "onli",
         "host",
-        "oscar",
-        "trump",
-        "serv",
-        "month",
-        "judg",
-        "like"
+        "month"
       ],
       "common": [
         "believe",
@@ -265,16 +265,16 @@
     {
       "number": 4,
       "important": [
+        "miss",
+        "winner",
         "trump organ",
         "justin mcconney trump organ timelin",
-        "winner",
+        "justin",
+        "show",
         "organ",
         "best",
-        "show",
         "club",
-        "offic",
-        "justin",
-        "miss"
+        "offic"
       ],
       "common": [
         "justin",
@@ -358,16 +358,16 @@
     {
       "number": 5,
       "important": [
-        "law enforc",
-        "nyc",
-        "hero",
         "enforc",
-        "real",
+        "nyc",
         "complet",
         "communiti",
-        "beauti",
+        "law",
+        "law enforc",
+        "real",
         "total",
-        "law"
+        "beauti",
+        "hero"
       ],
       "common": [
         "enforcement",
@@ -451,16 +451,16 @@
     {
       "number": 6,
       "important": [
-        "absolut",
-        "golf club",
-        "nation",
-        "trump nation",
-        "golf",
-        "held",
-        "nation golf",
         "trump",
+        "absolut",
+        "nation",
         "great",
-        "club"
+        "held",
+        "golf",
+        "trump nation",
+        "club",
+        "golf club",
+        "nation golf"
       ],
       "common": [
         "club",
@@ -544,16 +544,16 @@
     {
       "number": 7,
       "important": [
-        "secretari",
-        "vote",
-        "penc",
-        "presid donald",
         "nomine",
         "congratul",
+        "penc",
         "senat",
         "cast",
+        "vote",
+        "vice",
         "team",
-        "vice"
+        "secretari",
+        "presid donald"
       ],
       "common": [
         "elect",
@@ -641,16 +641,214 @@
     {
       "number": 8,
       "important": [
-        "clinton",
         "absolut",
-        "iran",
-        "tom",
-        "hillari",
-        "stop",
+        "much",
+        "watch",
+        "excit",
+        "check",
+        "speech",
+        "demdeb",
+        "wow",
+        "debat",
+        "give"
+      ],
+      "common": [
+        "bad",
+        "debate",
+        "demdebate",
+        "good",
+        "little",
+        "oan",
+        "stage",
+        "star",
+        "tonight",
+        "two"
+      ],
+      "messages": [
+        [
+          "Check out OAN and compare to what you are watching now! #DemDebate",
+          1444784215
+        ],
+        [
+          "Wow, I am giving a speech on OAN. Much more exciting than debate! #DemDebate",
+          1444783410
+        ],
+        [
+          "This is not a great debate - a little sad! #DemDebate",
+          1444781511
+        ],
+        [
+          "Sorry, there is no STAR on the stage tonight! #DemDebate",
+          1444780944
+        ],
+        [
+          "Good move by Bernie S. #DemDebate",
+          1444780596
+        ],
+        [
+          "The hardest thing Clinton has to do is defend her bad decision making including Iraq vote, e-mails etc. #DemDebate",
+          1444780471
+        ],
+        [
+          "All are very scripted and rehearsed, two (at least) should not be on the stage. #DemDebate",
+          1444780174
+        ],
+        [
+          "Who is winning the debate so far (just last name)? #DemDebate",
+          1444779252
+        ],
+        [
+          "O'Malley, as former Mayor of Baltimore, has very little chance. #DemDebate",
+          1444777906
+        ],
+        [
+          "Can anyone imagine Chafee as president? No way. #DemDebate",
+          1444777775
+        ],
+        [
+          "The trade deal is a disaster, she was always for it! #DemDebate",
+          1444777449
+        ],
+        [
+          "Get rid of all of these commercials. #DemDebate",
+          1444776447
+        ],
+        [
+          "We will all have fun and hopefully learn something tonight. I will shoot straight and call it as I see it, both the good and the bad. Enjoy! #DemDebate",
+          1444774917
+        ],
+        [
+          "Should be interesting but too bad the three guys at\u300a1% will be taking up so much time -  but who knows, maybe a star will be born (unlikely) #DemDebate",
+          1444774141
+        ],
+        [
+          "At the request of many, and even though I expect it to be a very boring two hours, I will be covering the #DemDebate live on Facebook!",
+          1444737789
+        ]
+      ],
+      "dates_start": 1444765768,
+      "dates_end": 1444787164,
+      "likes_avg": 22763,
+      "likes_stdev": 11723,
+      "comments_avg": 3835,
+      "comments_stdev": 3123,
+      "shares_avg": 695,
+      "shares_stdev": 618
+    },
+    {
+      "number": 9,
+      "important": [
+        "would",
+        "absolut",
+        "jeb",
+        "bush",
+        "respons",
+        "talk",
+        "win",
+        "want",
+        "today",
+        "said"
+      ],
+      "common": [
+        "bush",
+        "bushes",
+        "enough",
+        "george",
+        "george bush",
+        "jeb",
+        "jeb bush",
+        "need",
+        "thing",
+        "trump"
+      ],
+      "messages": [
+        [
+          "Jeb Bush today said he didn't want to be the front-runner, he would rather be where he is now, 2%. That is the talk of a loser, can't win!",
+          1450669721
+        ],
+        [
+          "Weak & ineffective Jeb Bush is doing ads where he shows his statement in the debate but not my response. False advertising!",
+          1450469090
+        ],
+        [
+          "Thank you Jeb Bush- you finally get it!",
+          1449682948
+        ],
+        [
+          "Jeb is fighting to defend a catastrophic event. I am fighting to make sure it doesn't happen again. Jeb is too soft- we need tougher & sharper.",
+          1445279454
+        ],
+        [
+          "Jeb has been confused for forty years...",
+          1442841929
+        ],
+        [
+          "Wake up Jeb supporters!",
+          1441731224
+        ],
+        [
+          "No more Clintons or Bushes!",
+          1441128007
+        ],
+        [
+          "This is no \"act of love\" as Jeb Bush said...",
+          1441030643
+        ],
+        [
+          "Wow, Jeb Bush just lost three of his top fundraisers - they quit!",
+          1440861768
+        ],
+        [
+          "The last thing we need is another Bush in the White House. Would be the same old thing (remember \"read my lips, no new taxes\"). GREATNESS! Donald J. Trump Enough is Enough- no more Bushes! #MakeAmericaGreatAgain",
+          1440356214
+        ],
+        [
+          "Enough is Enough- no more Bushes! #MakeAmericaGreatAgain",
+          1439217450
+        ],
+        [
+          "http://thehill.com/blogs/ballot-box/presidential-races/249400-poll-trump-holds-double-digit-lead-in-nh Poll: Trump holds double-digit lead in NH Jeb Bush attracted only half of the support pollsters found for Trump.",
+          1438092707
+        ],
+        [
+          "Jeb's brother George insisted on a $100,000 fee and $20,000 for a private jet to speak at a charity for severely wounded vets. Not nice!\nYou mean George W. Bush sends our soldiers into combat, they are severely wounded, and then he wants $120,000 to make a boring speech to them?",
+          1436473578
+        ],
+        [
+          "Do we really need another Bush in the White House--- we have had enough of them. Timeline Photos",
+          1434388389
+        ],
+        [
+          "A Clinton already defeated a Bush. The definition of insanity is doing the same thing twice & expecting a different result.",
+          1419025488
+        ],
+        [
+          "Virtually all Presidents and candidates including John McCain, Bill Clinton, George H.W. Bush, and George W. Bush have released the requested records. Why not President Obama?",
+          1351100975
+        ]
+      ],
+      "dates_start": 1412269938,
+      "dates_end": 1458023759,
+      "likes_avg": 46378,
+      "likes_stdev": 19301,
+      "comments_avg": 7434,
+      "comments_stdev": 2667,
+      "shares_avg": 4941,
+      "shares_stdev": 3571
+    },
+    {
+      "number": 10,
+      "important": [
+        "trumpvlog",
         "care",
+        "absolut",
+        "hillari",
+        "clinton",
+        "tom",
         "new",
+        "stop",
         "hillari clinton",
-        "trumpvlog"
+        "iran"
       ],
       "common": [
         "obama",
@@ -740,345 +938,18 @@
       "shares_stdev": 9094
     },
     {
-      "number": 9,
-      "important": [
-        "absolut",
-        "photo",
-        "trump",
-        "tbt",
-        "donald",
-        "donald trump",
-        "christma",
-        "tom",
-        "timelin",
-        "home"
-      ],
-      "common": [
-        "alone",
-        "christmas movie home",
-        "darrell",
-        "home",
-        "home alone",
-        "photos",
-        "tbt",
-        "timeline",
-        "timeline photos",
-        "trump"
-      ],
-      "messages": [
-        [
-          "Donald Trump\u2019s Greatest Christmas Movie:\nHome Alone 2! #TBT \nhttp://www.breitbart.com/big-government/2015/12/24/donald-trumps-greatest-christmas-movie-home-alone-2/ Timeline Photos",
-          1450982413
-        ],
-        [
-          "Thank you - Tom Brady! #TBT Timeline Photos",
-          1450368070
-        ],
-        [
-          "#TBT With my friend Muhammad Ali Timeline Photos",
-          1431019407
-        ],
-        [
-          "#TBT Trump and Gekko Timeline Photos",
-          1429197273
-        ],
-        [
-          "#TBT With the cast of GoodFellas Timeline Photos",
-          1424982622
-        ],
-        [
-          "#TBT With Britney Spears Timeline Photos",
-          1423777056
-        ],
-        [
-          "#TBT With the wonderful actor Jack Nicholson Timeline Photos",
-          1421962538
-        ],
-        [
-          "#TBT With Tommy Lee Jones at Mar-a-Lago. Timeline Photos",
-          1420735606
-        ],
-        [
-          "#TBT It is great being part of Home Alone 2, a holiday staple. Timeline Photos",
-          1418934661
-        ],
-        [
-          "#TBT My confirmation picture at First Presbyterian Church in Jamaica, NY. Timeline Photos",
-          1418328415
-        ],
-        [
-          "#TBT With James Lipton on the set of The Apprentice. Timeline Photos",
-          1417730213
-        ],
-        [
-          "#TBT With my family growing up- I'm on the left. Timeline Photos",
-          1414702633
-        ],
-        [
-          "#TBT Filming a Oreo commercial with Eli Manning, Peyton Manning and Darrell Hammond. Timeline Photos",
-          1403811938
-        ],
-        [
-          "#TBT WrestleMania 23 Timeline Photos",
-          1397758192
-        ],
-        [
-          "#TBT With Darrell Hammond when I hosted SNL. Timeline Photos",
-          1389298877
-        ],
-        [
-          "#TBT With Barbara Walters on my helicopter going somewhere. Timeline Photos",
-          1388083833
-        ],
-        [
-          "#TBT Taking piano lessons from my friend Elton John. Timeline Photos",
-          1387467006
-        ],
-        [
-          "Who knew this innocent kid would grow into a monster? #TBT Timeline Photos",
-          1375366626
-        ]
-      ],
-      "dates_start": 1394377020,
-      "dates_end": 1435012688,
-      "likes_avg": 21458,
-      "likes_stdev": 25516,
-      "comments_avg": 1057,
-      "comments_stdev": 1080,
-      "shares_avg": 985,
-      "shares_stdev": 1715
-    },
-    {
-      "number": 10,
-      "important": [
-        "absolut",
-        "celebapprentic",
-        "play",
-        "decis",
-        "done",
-        "like",
-        "alway",
-        "would",
-        "defend",
-        "think"
-      ],
-      "common": [
-        "always",
-        "celebapprentice",
-        "good",
-        "like",
-        "looks",
-        "mistake",
-        "omarosa",
-        "piersmorgan",
-        "show",
-        "star"
-      ],
-      "messages": [
-        [
-          "So, what did you think of my decision? What would you have done? #CelebApprentice",
-          1362365923
-        ],
-        [
-          "I'll always like @OMAROSA because she constantly defends me. #CelebApprentice",
-          1362363827
-        ],
-        [
-          ".@PiersMorgan is right- he won the show because \u201cI know how to play the game.\u201d #CelebApprentice",
-          1362363781
-        ],
-        [
-          ".@IvankaTrump looks like a movie star from the days of glamour and beauty. #CelebApprentice",
-          1362362850
-        ],
-        [
-          "Paul Teutul is always good on the show. #CelebApprentice",
-          1362362341
-        ],
-        [
-          "Even @PiersMorgan is impressed by @THEGaryBusey. #CelebApprentice",
-          1362362035
-        ],
-        [
-          ".@OMAROSA as a cashier- a big mistake by @BrandenRoderick. #CelebApprentice",
-          1362361854
-        ],
-        [
-          ".@KellyandMichael are both wonderful people. Their show is terrific. #CelebApprentice",
-          1362361123
-        ],
-        [
-          ".@DennisRodman must be thinking of North Korea. #CelebApprentice",
-          1362360692
-        ],
-        [
-          ".@THEGaryBusey is definitely different. #CelebApprentice",
-          1362360088
-        ],
-        [
-          ".@PiersMorgan and @OMAROSA really hate each other. #CelebApprentice",
-          1362360035
-        ],
-        [
-          ".@IvankaTrump and @PiersMorgan will be wonderful advisors. #CelebApprentice",
-          1362360014
-        ],
-        [
-          "I can\u2019t believe he would choose @OMAROSA as his first choice! She is hard to handle. #CelebApprentice",
-          1362359347
-        ],
-        [
-          "I always believed @BretMichaels was making a mistake in coming back as a competitor. I disagree with him but respect his decision. #CelebApprentice",
-          1362359167
-        ],
-        [
-          ".@LisaRinna looks better with her reduced lips. Good move, Lisa. #CelebApprentice",
-          1362359052
-        ],
-        [
-          "Looks like @OMAROSA is up to the challenge. #CelebApprentice",
-          1362358919
-        ],
-        [
-          "How does this cast look to you? Pretty amazing. #CelebApprentice",
-          1362358874
-        ],
-        [
-          "Take a look at this amazing photo of the cast from the first ever All Star @CelebApprentice Timeline Photos",
-          1357335971
-        ]
-      ],
-      "dates_start": 1360930912,
-      "dates_end": 1363233075,
-      "likes_avg": 1014,
-      "likes_stdev": 1096,
-      "comments_avg": 399,
-      "comments_stdev": 645,
-      "shares_avg": 45,
-      "shares_stdev": 135
-    },
-    {
       "number": 11,
       "important": [
-        "intern golf",
-        "scotland",
-        "arriv",
-        "link",
-        "head",
-        "golf link scotland",
-        "intern",
-        "eric",
-        "ivanka",
-        "jr"
-      ],
-      "common": [
-        "golf",
-        "golf links",
-        "international",
-        "international golf",
-        "international golf links",
-        "links",
-        "trump",
-        "trump international",
-        "trump international golf",
-        "trump international golf links"
-      ],
-      "messages": [
-        [
-          "Arrived at Trump International Golf Links Scotland with Donald Jr., and Eric- we are meeting Ivanka for lunch & heading back to New York.",
-          1466859019
-        ],
-        [
-          "Our amazing golf course Trump International Golf Links.",
-          1430750620
-        ],
-        [
-          "Many call Trump International Golf Links \"The World's Greatest Golf Course\", now you can see why. Timeline Photos",
-          1398283806
-        ],
-        [
-          "Wow, a really great review of my golf club in Scotland, Trump International Golf Links, in todaysgolferco.uk. Thank you! Timeline Photos",
-          1387226329
-        ],
-        [
-          "Receiving the @RobbReport trophy for best new golf course in the world- Trump International Golf Links Scotland. Timeline Photos",
-          1371832639
-        ],
-        [
-          "At press conference receiving accolades for \"world's best golf course\"- Trump International Golf Links Scotland. Timeline Photos",
-          1370980911
-        ],
-        [
-          "Golf bookings for next season on Scottish course are already double our projections for April opening\u2014great news for Scotland. Trump International Golf Links Scotland A look at the opening of the most recent addition to the Trump golf portfolio, Trump International Golf Links Scotland.",
-          1352997217
-        ],
-        [
-          "Here I am with Donald Trump Jr. and the architects of Trump International Golf Links Scotland. Timeline Photos",
-          1346782805
-        ],
-        [
-          "Here I am with Donald Trump Jr. and the crew at Trump International Golf Links Scotland. Timeline Photos",
-          1346412837
-        ],
-        [
-          "Walking Trump International Golf Links Scotland with my greens crew. Timeline Photos",
-          1346350575
-        ],
-        [
-          "Watch the video to see the opening of Trump International Golf Links Scotland- an exciting day on perhaps the world's best golf course. Trump International Golf Links Scotland A look at the opening of the most recent addition to the Trump golf portfolio, Trump International Golf Links Scotland.",
-          1346069171
-        ],
-        [
-          "Great article on Trump International Golf Links Scotland. Press and Journal - Article - Thousands give \u2018phenomenal start\u2019  to Trump links People from as far away as Australia, Argentina and Japan have travelled to the Menie Estate in Aberdeenshire since the businessman launched his championship links last month.",
-          1344539223
-        ],
-        [
-          "A review of Mike Tyson's show, great press on Trump International Golf Links Scotland, and more in today's #trumpvlog. From The Desk Of Donald Trump: Mike Tyson",
-          1344535387
-        ],
-        [
-          "I am really appreciative of your great comments about Trump International Golf Links Scotland and other things. Such great support! You are my friends!",
-          1343826398
-        ],
-        [
-          "Taking a photo with my family on the opening day of Trump International Golf Links Scotland. Timeline Photos",
-          1342627397
-        ],
-        [
-          "The 18th hole at Trump International Golf Links Scotland. Timeline Photos",
-          1342184819
-        ],
-        [
-          "My family and I just arrived in Scotland for the grand opening of Trump International Golf Links, Scotland. Timeline Photos",
-          1341841643
-        ],
-        [
-          "The wait is almost over- Trump International Golf Links in Scotland opens July 10th. Timeline Photos",
-          1339604277
-        ]
-      ],
-      "dates_start": 1330173110,
-      "dates_end": 1399127453,
-      "likes_avg": 5154,
-      "likes_stdev": 8963,
-      "comments_avg": 518,
-      "comments_stdev": 723,
-      "shares_avg": 265,
-      "shares_stdev": 458
-    },
-    {
-      "number": 12,
-      "important": [
-        "race",
-        "romney",
-        "fail",
-        "text",
-        "establish",
         "mitt romney",
-        "mitt",
-        "kill",
+        "romney",
+        "race",
         "trump join",
-        "text trump"
+        "mitt",
+        "text trump",
+        "fail",
+        "kill",
+        "text",
+        "establish"
       ],
       "common": [
         "cnbc",
@@ -1176,18 +1047,345 @@
       "shares_stdev": 9423
     },
     {
+      "number": 12,
+      "important": [
+        "trump",
+        "absolut",
+        "tom",
+        "photo",
+        "donald",
+        "timelin",
+        "home",
+        "christma",
+        "donald trump",
+        "tbt"
+      ],
+      "common": [
+        "alone",
+        "christmas movie home",
+        "darrell",
+        "home",
+        "home alone",
+        "photos",
+        "tbt",
+        "timeline",
+        "timeline photos",
+        "trump"
+      ],
+      "messages": [
+        [
+          "Donald Trump\u2019s Greatest Christmas Movie:\nHome Alone 2! #TBT \nhttp://www.breitbart.com/big-government/2015/12/24/donald-trumps-greatest-christmas-movie-home-alone-2/ Timeline Photos",
+          1450982413
+        ],
+        [
+          "Thank you - Tom Brady! #TBT Timeline Photos",
+          1450368070
+        ],
+        [
+          "#TBT With my friend Muhammad Ali Timeline Photos",
+          1431019407
+        ],
+        [
+          "#TBT Trump and Gekko Timeline Photos",
+          1429197273
+        ],
+        [
+          "#TBT With the cast of GoodFellas Timeline Photos",
+          1424982622
+        ],
+        [
+          "#TBT With Britney Spears Timeline Photos",
+          1423777056
+        ],
+        [
+          "#TBT With the wonderful actor Jack Nicholson Timeline Photos",
+          1421962538
+        ],
+        [
+          "#TBT With Tommy Lee Jones at Mar-a-Lago. Timeline Photos",
+          1420735606
+        ],
+        [
+          "#TBT It is great being part of Home Alone 2, a holiday staple. Timeline Photos",
+          1418934661
+        ],
+        [
+          "#TBT My confirmation picture at First Presbyterian Church in Jamaica, NY. Timeline Photos",
+          1418328415
+        ],
+        [
+          "#TBT With James Lipton on the set of The Apprentice. Timeline Photos",
+          1417730213
+        ],
+        [
+          "#TBT With my family growing up- I'm on the left. Timeline Photos",
+          1414702633
+        ],
+        [
+          "#TBT Filming a Oreo commercial with Eli Manning, Peyton Manning and Darrell Hammond. Timeline Photos",
+          1403811938
+        ],
+        [
+          "#TBT WrestleMania 23 Timeline Photos",
+          1397758192
+        ],
+        [
+          "#TBT With Darrell Hammond when I hosted SNL. Timeline Photos",
+          1389298877
+        ],
+        [
+          "#TBT With Barbara Walters on my helicopter going somewhere. Timeline Photos",
+          1388083833
+        ],
+        [
+          "#TBT Taking piano lessons from my friend Elton John. Timeline Photos",
+          1387467006
+        ],
+        [
+          "Who knew this innocent kid would grow into a monster? #TBT Timeline Photos",
+          1375366626
+        ]
+      ],
+      "dates_start": 1394377020,
+      "dates_end": 1435012688,
+      "likes_avg": 21458,
+      "likes_stdev": 25516,
+      "comments_avg": 1057,
+      "comments_stdev": 1080,
+      "shares_avg": 985,
+      "shares_stdev": 1715
+    },
+    {
       "number": 13,
       "important": [
-        "miami",
+        "decis",
+        "would",
+        "absolut",
+        "defend",
+        "celebapprentic",
+        "alway",
+        "done",
+        "like",
+        "think",
+        "play"
+      ],
+      "common": [
+        "always",
+        "celebapprentice",
+        "good",
+        "like",
+        "looks",
+        "mistake",
+        "omarosa",
+        "piersmorgan",
+        "show",
+        "star"
+      ],
+      "messages": [
+        [
+          "So, what did you think of my decision? What would you have done? #CelebApprentice",
+          1362365923
+        ],
+        [
+          "I'll always like @OMAROSA because she constantly defends me. #CelebApprentice",
+          1362363827
+        ],
+        [
+          ".@PiersMorgan is right- he won the show because \u201cI know how to play the game.\u201d #CelebApprentice",
+          1362363781
+        ],
+        [
+          ".@IvankaTrump looks like a movie star from the days of glamour and beauty. #CelebApprentice",
+          1362362850
+        ],
+        [
+          "Paul Teutul is always good on the show. #CelebApprentice",
+          1362362341
+        ],
+        [
+          "Even @PiersMorgan is impressed by @THEGaryBusey. #CelebApprentice",
+          1362362035
+        ],
+        [
+          ".@OMAROSA as a cashier- a big mistake by @BrandenRoderick. #CelebApprentice",
+          1362361854
+        ],
+        [
+          ".@KellyandMichael are both wonderful people. Their show is terrific. #CelebApprentice",
+          1362361123
+        ],
+        [
+          ".@DennisRodman must be thinking of North Korea. #CelebApprentice",
+          1362360692
+        ],
+        [
+          ".@THEGaryBusey is definitely different. #CelebApprentice",
+          1362360088
+        ],
+        [
+          ".@PiersMorgan and @OMAROSA really hate each other. #CelebApprentice",
+          1362360035
+        ],
+        [
+          ".@IvankaTrump and @PiersMorgan will be wonderful advisors. #CelebApprentice",
+          1362360014
+        ],
+        [
+          "I can\u2019t believe he would choose @OMAROSA as his first choice! She is hard to handle. #CelebApprentice",
+          1362359347
+        ],
+        [
+          "I always believed @BretMichaels was making a mistake in coming back as a competitor. I disagree with him but respect his decision. #CelebApprentice",
+          1362359167
+        ],
+        [
+          ".@LisaRinna looks better with her reduced lips. Good move, Lisa. #CelebApprentice",
+          1362359052
+        ],
+        [
+          "Looks like @OMAROSA is up to the challenge. #CelebApprentice",
+          1362358919
+        ],
+        [
+          "How does this cast look to you? Pretty amazing. #CelebApprentice",
+          1362358874
+        ],
+        [
+          "Take a look at this amazing photo of the cast from the first ever All Star @CelebApprentice Timeline Photos",
+          1357335971
+        ]
+      ],
+      "dates_start": 1360930912,
+      "dates_end": 1363233075,
+      "likes_avg": 1014,
+      "likes_stdev": 1096,
+      "comments_avg": 399,
+      "comments_stdev": 645,
+      "shares_avg": 45,
+      "shares_stdev": 135
+    },
+    {
+      "number": 14,
+      "important": [
+        "head",
+        "link",
+        "intern golf",
+        "arriv",
+        "jr",
+        "golf link scotland",
+        "intern",
+        "scotland",
+        "ivanka",
+        "eric"
+      ],
+      "common": [
+        "golf",
+        "golf links",
+        "international",
+        "international golf",
+        "international golf links",
+        "links",
+        "trump",
+        "trump international",
+        "trump international golf",
+        "trump international golf links"
+      ],
+      "messages": [
+        [
+          "Arrived at Trump International Golf Links Scotland with Donald Jr., and Eric- we are meeting Ivanka for lunch & heading back to New York.",
+          1466859019
+        ],
+        [
+          "Our amazing golf course Trump International Golf Links.",
+          1430750620
+        ],
+        [
+          "Many call Trump International Golf Links \"The World's Greatest Golf Course\", now you can see why. Timeline Photos",
+          1398283806
+        ],
+        [
+          "Wow, a really great review of my golf club in Scotland, Trump International Golf Links, in todaysgolferco.uk. Thank you! Timeline Photos",
+          1387226329
+        ],
+        [
+          "Receiving the @RobbReport trophy for best new golf course in the world- Trump International Golf Links Scotland. Timeline Photos",
+          1371832639
+        ],
+        [
+          "At press conference receiving accolades for \"world's best golf course\"- Trump International Golf Links Scotland. Timeline Photos",
+          1370980911
+        ],
+        [
+          "Golf bookings for next season on Scottish course are already double our projections for April opening\u2014great news for Scotland. Trump International Golf Links Scotland A look at the opening of the most recent addition to the Trump golf portfolio, Trump International Golf Links Scotland.",
+          1352997217
+        ],
+        [
+          "Here I am with Donald Trump Jr. and the architects of Trump International Golf Links Scotland. Timeline Photos",
+          1346782805
+        ],
+        [
+          "Here I am with Donald Trump Jr. and the crew at Trump International Golf Links Scotland. Timeline Photos",
+          1346412837
+        ],
+        [
+          "Walking Trump International Golf Links Scotland with my greens crew. Timeline Photos",
+          1346350575
+        ],
+        [
+          "Watch the video to see the opening of Trump International Golf Links Scotland- an exciting day on perhaps the world's best golf course. Trump International Golf Links Scotland A look at the opening of the most recent addition to the Trump golf portfolio, Trump International Golf Links Scotland.",
+          1346069171
+        ],
+        [
+          "Great article on Trump International Golf Links Scotland. Press and Journal - Article - Thousands give \u2018phenomenal start\u2019  to Trump links People from as far away as Australia, Argentina and Japan have travelled to the Menie Estate in Aberdeenshire since the businessman launched his championship links last month.",
+          1344539223
+        ],
+        [
+          "A review of Mike Tyson's show, great press on Trump International Golf Links Scotland, and more in today's #trumpvlog. From The Desk Of Donald Trump: Mike Tyson",
+          1344535387
+        ],
+        [
+          "I am really appreciative of your great comments about Trump International Golf Links Scotland and other things. Such great support! You are my friends!",
+          1343826398
+        ],
+        [
+          "Taking a photo with my family on the opening day of Trump International Golf Links Scotland. Timeline Photos",
+          1342627397
+        ],
+        [
+          "The 18th hole at Trump International Golf Links Scotland. Timeline Photos",
+          1342184819
+        ],
+        [
+          "My family and I just arrived in Scotland for the grand opening of Trump International Golf Links, Scotland. Timeline Photos",
+          1341841643
+        ],
+        [
+          "The wait is almost over- Trump International Golf Links in Scotland opens July 10th. Timeline Photos",
+          1339604277
+        ]
+      ],
+      "dates_start": 1330173110,
+      "dates_end": 1399127453,
+      "likes_avg": 5154,
+      "likes_stdev": 8963,
+      "comments_avg": 518,
+      "comments_stdev": 723,
+      "shares_avg": 265,
+      "shares_stdev": 458
+    },
+    {
+      "number": 15,
+      "important": [
+        "doral",
+        "djt timelin",
+        "forward",
+        "nation doral miami",
         "doral miami",
         "nation doral",
-        "forward",
-        "djt timelin",
-        "doral",
         "florida",
-        "look forward",
-        "nation doral miami",
-        "beauti"
+        "beauti",
+        "miami",
+        "look forward"
       ],
       "common": [
         "doral",
@@ -1285,18 +1483,18 @@
       "shares_stdev": 5631
     },
     {
-      "number": 14,
+      "number": 16,
       "important": [
-        "help us",
-        "win contribut",
-        "help",
-        "learn help",
-        "help us win",
-        "voter learn",
-        "voter",
-        "join live",
         "contribut",
-        "learn"
+        "voter learn",
+        "win contribut",
+        "voter",
+        "help us win",
+        "learn help",
+        "join live",
+        "help us",
+        "learn",
+        "help"
       ],
       "common": [
         "gop",
@@ -1398,18 +1596,18 @@
       "shares_stdev": 13158
     },
     {
-      "number": 15,
+      "number": 17,
       "important": [
-        "absolut",
-        "discuss",
+        "desk",
         "trump",
-        "today",
+        "absolut",
         "donald",
-        "video",
-        "donald trump",
         "blog",
+        "discuss",
         "video blog",
-        "desk"
+        "donald trump",
+        "video",
+        "today"
       ],
       "common": [
         "blog",
@@ -1511,18 +1709,18 @@
       "shares_stdev": 1631
     },
     {
-      "number": 16,
+      "number": 18,
       "important": [
         "join",
         "absolut",
         "pennsylvania",
         "michigan",
-        "florida",
         "live",
         "ralli",
-        "join live",
         "thank",
-        "final"
+        "final",
+        "florida",
+        "join live"
       ],
       "common": [
         "fl",
@@ -1624,18 +1822,18 @@
       "shares_stdev": 10049
     },
     {
-      "number": 17,
+      "number": 19,
       "important": [
         "join",
-        "deliv",
+        "week",
         "hous",
-        "white hous",
-        "us",
-        "address",
         "live",
-        "join us",
+        "white hous",
+        "deliv",
         "donald trump",
-        "week"
+        "us",
+        "join us",
+        "address"
       ],
       "common": [
         "house",
@@ -1745,18 +1943,18 @@
       "shares_stdev": 7932
     },
     {
-      "number": 18,
+      "number": 20,
       "important": [
-        "hotel",
-        "trump intern",
+        "thank support",
         "gopdeb",
-        "cnn",
+        "depart",
+        "hotel",
         "makeamericagreatagain timelin",
         "intern",
-        "depart",
+        "trump intern",
         "intern hotel",
-        "las",
-        "thank support"
+        "cnn",
+        "las"
       ],
       "common": [
         "hotel",
@@ -1866,18 +2064,18 @@
       "shares_stdev": 2054
     },
     {
-      "number": 19,
+      "number": 21,
       "important": [
-        "make america great",
-        "million",
-        "america great",
-        "point",
-        "vote",
-        "make",
         "great",
+        "make america great",
         "peopl",
+        "make",
+        "america great",
         "america",
-        "make america"
+        "vote",
+        "make america",
+        "point",
+        "million"
       ],
       "common": [
         "com",
@@ -1991,18 +2189,18 @@
       "shares_stdev": 3502
     },
     {
-      "number": 20,
+      "number": 22,
       "important": [
+        "care",
+        "behind scene",
         "gop",
         "hous",
-        "make",
         "trump",
+        "make",
         "behind",
-        "behind scene",
         "sign",
-        "care",
-        "ask",
-        "team"
+        "team",
+        "ask"
       ],
       "common": [
         "2012",
@@ -2116,18 +2314,18 @@
       "shares_stdev": 4806
     },
     {
-      "number": 21,
+      "number": 23,
       "important": [
         "absolut",
+        "presid",
         "happi birthday",
         "proud",
-        "happi",
-        "photo",
-        "birthday",
-        "presid",
-        "eric",
         "veri",
-        "timelin"
+        "photo",
+        "timelin",
+        "happi",
+        "birthday",
+        "eric"
       ],
       "common": [
         "birthday",
@@ -2245,18 +2443,18 @@
       "shares_stdev": 19090
     },
     {
-      "number": 22,
+      "number": 24,
       "important": [
-        "nice",
         "join",
-        "absolut",
-        "trump tower",
-        "interview",
         "trump",
+        "absolut",
         "live",
+        "tower",
+        "nice",
+        "trump tower",
         "join live",
         "land",
-        "tower"
+        "interview"
       ],
       "common": [
         "30 years",
@@ -2378,18 +2576,18 @@
       "shares_stdev": 8019
     },
     {
-      "number": 23,
+      "number": 25,
       "important": [
-        "latest",
         "time",
-        "absolut",
-        "develop",
         "new york",
-        "point",
-        "first",
+        "absolut",
         "right",
+        "new",
         "trade",
-        "new"
+        "latest",
+        "first",
+        "develop",
+        "point"
       ],
       "common": [
         "2012",
@@ -2519,18 +2717,18 @@
       "shares_stdev": 3817
     },
     {
-      "number": 24,
+      "number": 26,
       "important": [
+        "thank support",
+        "honor",
+        "morn",
+        "good",
+        "without",
         "keep",
         "good morn america",
-        "without",
-        "good morn",
-        "good",
-        "morn",
         "movement",
         "morn america",
-        "honor",
-        "thank support"
+        "good morn"
       ],
       "common": [
         "america",
@@ -2660,18 +2858,18 @@
       "shares_stdev": 5623
     },
     {
-      "number": 25,
+      "number": 27,
       "important": [
-        "unit",
-        "absolut",
-        "photo",
-        "back",
-        "potus",
-        "unit state",
         "honor",
+        "absolut",
+        "potus",
+        "back",
+        "unit",
+        "photo",
         "timelin",
-        "welcom",
-        "letter"
+        "unit state",
+        "letter",
+        "welcom"
       ],
       "common": [
         "america",
@@ -2829,16 +3027,16 @@
       "shares_stdev": 11296
     },
     {
-      "number": 26,
+      "number": 28,
       "important": [
+        "america safe",
+        "safe",
+        "make",
         "proud",
         "great timelin",
-        "make",
-        "america",
-        "safe",
         "make america safe",
+        "america",
         "strong",
-        "america safe",
         "make america",
         "america great timelin"
       ],
@@ -3002,18 +3200,18 @@
       "shares_stdev": 8375
     },
     {
-      "number": 27,
+      "number": 29,
       "important": [
-        "look",
-        "forward",
-        "updat",
-        "presidenti",
-        "continu",
         "continu support",
+        "forward",
+        "presidenti",
+        "updat",
         "ralli",
-        "look forward",
+        "look",
+        "join us",
         "support",
-        "join us"
+        "continu",
+        "look forward"
       ],
       "common": [
         "makeamericagreatagain",
@@ -3179,18 +3377,18 @@
       "shares_stdev": 5192
     },
     {
-      "number": 28,
+      "number": 30,
       "important": [
-        "draintheswamp",
         "time",
-        "absolut",
         "elect",
-        "obama",
-        "rig",
+        "absolut",
+        "draintheswamp",
         "facebook",
+        "rig",
         "thought",
+        "share",
         "address",
-        "share"
+        "obama"
       ],
       "common": [
         "birth certificate",
@@ -3360,18 +3558,18 @@
       "shares_stdev": 7160
     },
     {
-      "number": 29,
+      "number": 31,
       "important": [
-        "poll",
-        "nation",
-        "togeth make america safe",
-        "polici",
         "trump",
-        "public",
-        "togeth make america safe great",
+        "nation",
         "presid",
+        "poll",
+        "polici",
+        "presid trump",
+        "togeth make america safe",
+        "public",
         "still",
-        "presid trump"
+        "togeth make america safe great"
       ],
       "common": [
         "america",
@@ -3553,17 +3751,17 @@
       "shares_stdev": 37932
     },
     {
-      "number": 30,
+      "number": 32,
       "important": [
-        "lot",
         "ani",
-        "rais",
         "money",
         "celebr apprentic",
         "friend",
-        "chariti",
-        "celebr",
+        "rais",
         "apprentic",
+        "lot",
+        "celebr",
+        "chariti",
         "season"
       ],
       "common": [
@@ -3770,18 +3968,18 @@
       "shares_stdev": 7083
     },
     {
-      "number": 31,
+      "number": 33,
       "important": [
         "donald trump jr",
-        "proud",
-        "happi",
-        "donald trump presid campaign",
-        "tbt",
-        "donald",
-        "birthday",
-        "donald trump",
+        "happi birthday",
         "jr",
-        "happi birthday"
+        "proud",
+        "donald",
+        "donald trump presid campaign",
+        "happi",
+        "donald trump",
+        "birthday",
+        "tbt"
       ],
       "common": [
         "2015",
@@ -4011,18 +4209,18 @@
       "shares_stdev": 25308
     },
     {
-      "number": 32,
+      "number": 34,
       "important": [
+        "judg",
+        "honor",
         "join",
         "absolut",
-        "last",
-        "photo",
-        "judg",
-        "timelin",
-        "last night",
         "nomin",
-        "honor",
-        "night"
+        "photo",
+        "last night",
+        "night",
+        "timelin",
+        "last"
       ],
       "common": [
         "carolina",
@@ -4268,18 +4466,18 @@
       "shares_stdev": 12232
     },
     {
-      "number": 33,
+      "number": 35,
       "important": [
-        "nice",
-        "clinton",
-        "state",
-        "lost",
-        "inform",
         "never",
-        "becaus",
+        "clinton",
         "respect",
+        "nice",
+        "becaus",
+        "allow",
+        "inform",
         "hillari clinton",
-        "allow"
+        "state",
+        "lost"
       ],
       "common": [
         "clinton",
@@ -4541,18 +4739,18 @@
       "shares_stdev": 113606
     },
     {
-      "number": 34,
+      "number": 36,
       "important": [
-        "togeth make america great",
-        "day",
-        "hous",
-        "facebook",
-        "white hous",
-        "behind",
-        "first",
         "behind scene",
+        "hous",
         "presid",
-        "presid trump"
+        "facebook",
+        "behind",
+        "day",
+        "white hous",
+        "presid trump",
+        "first",
+        "togeth make america great"
       ],
       "common": [
         "america",
@@ -4822,18 +5020,18 @@
       "shares_stdev": 17130
     },
     {
-      "number": 35,
+      "number": 37,
       "important": [
-        "dream",
-        "news",
         "time",
-        "absolut",
-        "enjoy",
-        "interview",
         "trump",
-        "david",
+        "absolut",
         "long",
-        "congratul"
+        "congratul",
+        "news",
+        "dream",
+        "david",
+        "enjoy",
+        "interview"
       ],
       "common": [
         "com",
@@ -5171,18 +5369,18 @@
       "shares_stdev": 11507
     },
     {
-      "number": 36,
+      "number": 38,
       "important": [
-        "afternoon",
-        "absolut",
         "join",
-        "secretari",
-        "earlier",
-        "discuss",
+        "absolut",
         "photo",
+        "timelin",
+        "earlier",
         "leader",
-        "today",
-        "timelin"
+        "discuss",
+        "secretari",
+        "afternoon",
+        "today"
       ],
       "common": [
         "djt",
@@ -5660,18 +5858,18 @@
       "shares_stdev": 13181
     },
     {
-      "number": 37,
+      "number": 39,
       "important": [
         "absolut",
-        "photo",
         "friend",
-        "good",
-        "wonder",
-        "first",
         "even",
-        "melania",
+        "photo",
         "timelin",
-        "beach"
+        "wonder",
+        "good",
+        "first",
+        "beach",
+        "melania"
       ],
       "common": [
         "great",

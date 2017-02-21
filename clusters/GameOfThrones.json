@@ -2,105 +2,28 @@
   "pagename": "GameOfThrones",
   "globalstats": {
     "messages": 1619,
-    "likes_avg": 41719,
-    "likes_stdev": 64848,
-    "comments_avg": 1844,
-    "comments_stdev": 5683,
-    "shares_avg": 5537,
-    "shares_stdev": 19319,
+    "likes_avg": 42826,
+    "likes_stdev": 67574,
+    "comments_avg": 1914,
+    "comments_stdev": 6016,
+    "shares_avg": 5878,
+    "shares_stdev": 20637,
     "graph_uri": "clusters/GameOfThrones.png"
   },
   "clusters": [
     {
       "number": 1,
       "important": [
-        "poster",
-        "premier",
-        "offici",
-        "valar",
-        "morghuli",
-        "game throne season charact",
-        "access",
-        "check",
-        "charact",
-        "charact poster"
-      ],
-      "common": [
-        "character",
-        "character posters",
-        "game",
-        "game thrones",
-        "posters",
-        "season",
-        "season character",
-        "season character posters",
-        "thrones",
-        "thrones season"
-      ],
-      "messages": [
-        [
-          "Check out the official character posters for #GoTSeason6 premiering 4.24.16 #GoTSeason6: Character Posters",
-          1456332033
-        ],
-        [
-          "Valar Morghulis. View character posters for Game of Thrones Season 4. http://itsh.bo/1c5LDnd Game of Thrones: Season 4 Character Posters",
-          1393419802
-        ],
-        [
-          "Which Game of Thrones Season 3 character poster is your favorite? New season premieres 3/31/13 at 9, only on HBO. Order these posters at the HBO Shop today: http://itsh.bo/10cgGmR Game of Thrones Season 3 Posters",
-          1362244107
-        ],
-        [
-          "\"Game of Thrones Season 3 Characters Revealed\" SLIDESHOW: http://itsh.bo/112EVIp Timeline Photos",
-          1359571201
-        ],
-        [
-          "Robb Season 2 Character Posters",
-          1333128602
-        ],
-        [
-          "Tyrion Season 2 Character Posters",
-          1333128602
-        ],
-        [
-          "Jon Snow Season 2 Character Posters",
-          1333128601
-        ],
-        [
-          "Jaime Season 2 Character Posters",
-          1333128601
-        ],
-        [
-          "Cersei Season 2 Character Posters",
-          1333128601
-        ],
-        [
-          "Daenerys Season 2 Character Posters",
-          1333128601
-        ]
-      ],
-      "dates_start": 1318763237,
-      "dates_end": 1395304512,
-      "likes_avg": 11688,
-      "likes_stdev": 14259,
-      "comments_avg": 582,
-      "comments_stdev": 544,
-      "shares_avg": 3481,
-      "shares_stdev": 2363
-    },
-    {
-      "number": 2,
-      "important": [
-        "ca",
-        "san diego",
-        "hbos game",
+        "diego",
+        "alfi",
         "hbos",
-        "juli",
+        "san diego",
+        "ca",
         "san",
         "comiccon game",
         "comiccon",
-        "diego",
-        "alfi"
+        "hbos game",
+        "juli"
       ],
       "common": [
         "2012",
@@ -166,18 +89,18 @@
       "shares_stdev": 390
     },
     {
-      "number": 3,
+      "number": 2,
       "important": [
-        "danger",
-        "happen",
-        "wondercon",
-        "thing",
         "see",
         "fan",
-        "king",
         "booth",
+        "danger",
+        "wondercon",
+        "album",
         "stop",
-        "album"
+        "king",
+        "thing",
+        "happen"
       ],
       "common": [
         "2012",
@@ -243,18 +166,18 @@
       "shares_stdev": 237
     },
     {
-      "number": 4,
+      "number": 3,
       "important": [
-        "artist",
         "work realm",
-        "iron",
-        "daeneri targaryen",
-        "iron throne",
-        "artist profil",
+        "imag link work",
         "link",
+        "artist",
         "work",
         "imag link",
-        "imag link work"
+        "daeneri targaryen",
+        "iron",
+        "artist profil",
+        "iron throne"
       ],
       "common": [
         "bo",
@@ -328,102 +251,17 @@
       "shares_stdev": 65
     },
     {
-      "number": 5,
+      "number": 4,
       "important": [
-        "see",
-        "photo",
-        "game throne exhibit",
-        "throne",
-        "around",
-        "exhibit",
-        "game throne",
-        "game",
-        "world",
-        "learn"
-      ],
-      "common": [
-        "exhibit",
-        "exhibition",
-        "game",
-        "game thrones",
-        "game thrones exhibition",
-        "photos",
-        "thrones",
-        "thrones exhibition",
-        "timeline",
-        "timeline photos"
-      ],
-      "messages": [
-        [
-          "See photos from the #GoTExhibit traveling around the world and learn more at GoTExhibit.com. Game of Thrones: The Exhibition 2015",
-          1434640463
-        ],
-        [
-          "#GoTExhibit in Madrid. Game of Thrones: The Exhibition 2015",
-          1431633144
-        ],
-        [
-          "Belfast, Ireland Game of Thrones: The Exhibition - Photos from Around The World",
-          1406035391
-        ],
-        [
-          "View photos from the international #GOTExhibit. Game of Thrones: The Exhibition - Photos from Around The World",
-          1400858646
-        ],
-        [
-          "Fantastic news!\r\n\r\nBecause of the great interest in Game of Thrones: The Exhibition in Amsterdam the doors of the Posthoornkerk (church) will be now open on Thursday, May 23 and Friday, May 24 too. Between 10 and 17 pm visitors will have access to the wonderful world of Westeros! The Iron Throne awaits you... Timeline Photos",
-          1369209600
-        ],
-        [
-          "Westeros will come alive for fans in an immersive, not-to-be-missed touring exhibition that will transport viewers into the breathtaking and enchanted world of the 7 Kingdoms. The traveling exhibit, the first of its kind by HBO, will stop in five international cities - Toronto (3/9-3/16), New York City (3/28-4/3), Sao Paolo (4/25-4/30), Amsterdam (5/18-5/27) and Belfast (6/8-6/17). Game of Thrones Exhibition: Props and Costumes",
-          1369064394
-        ],
-        [
-          "HBO Game of Thrones BR Game of Thrones Exhibition: Props and Costumes",
-          1367497244
-        ],
-        [
-          "Are you coming to the international Game of Thrones exhibition in the Posthoornkerk (church) in Amsterdam on May 19, 20, 25, 26 & 27 (closed between 21-24 May)? \r\n\r\nLook for more info at http://www.facebook.com/HBOnl/events. Timeline Photos",
-          1367420401
-        ],
-        [
-          "NYC: Today's the last day to pay \"Hearteater\" a visit at the Game of Thrones Exhibit.\r\n\r\nFind out if the exhibit will be in your town next: http://itsh.bo/XfFD3H Timeline Photos",
-          1364991000
-        ],
-        [
-          "The Dragon has landed in NYC. \r\n\r\nVisit the Game of Thrones Exhibit from 3/28-4/3 at 3 W 57th St to see costumes props and more from the show. MORE DETAILS: http://itsh.bo/11DFFUv (CC: Time Warner Cable) Timeline Photos",
-          1364476200
-        ],
-        [
-          "The Game of Thrones Exhibition will be in NYC from 3/28-4/3 at 3 W. 57th St (between 5th and 6th Avenue) and open to the public. \r\n\r\nAdmission is FREE. Share this update if you'll be attending. (CC: Time Warner Cable) Timeline Photos",
-          1363289401
-        ],
-        [
-          "Brace Yourselves. The International Game of Thrones Exhibit is coming to Toronto, New York, Sao Paulo, Amsterdam and Belfast: http://itsh.bo/VtFc2q Timeline Photos",
-          1361293801
-        ]
-      ],
-      "dates_start": 1357108478,
-      "dates_end": 1409626468,
-      "likes_avg": 14351,
-      "likes_stdev": 12398,
-      "comments_avg": 748,
-      "comments_stdev": 917,
-      "shares_avg": 6545,
-      "shares_stdev": 4778
-    },
-    {
-      "number": 6,
-      "important": [
+        "insid episod hbo",
+        "seri creator",
+        "insid",
+        "battl bastard",
+        "ahead game throne season",
         "ahead game",
         "spoiler ahead",
-        "seri creator",
-        "ahead game throne season",
-        "insid",
-        "insid episod hbo",
         "bastard",
         "game throne season insid",
-        "battl bastard",
         "warn spoiler"
       ],
       "common": [
@@ -502,18 +340,18 @@
       "shares_stdev": 18784
     },
     {
-      "number": 7,
+      "number": 5,
       "important": [
-        "wisdom",
-        "realm",
-        "wednesday",
         "photo",
-        "tywin",
-        "timelin",
         "access",
+        "word",
         "word wisdom",
         "realm timelin",
-        "word"
+        "wednesday",
+        "tywin",
+        "realm",
+        "wisdom",
+        "timelin"
       ],
       "common": [
         "http",
@@ -595,18 +433,18 @@
       "shares_stdev": 5372
     },
     {
-      "number": 8,
+      "number": 6,
       "important": [
         "game throne season photo",
-        "emilia",
-        "daeneri targaryen",
-        "season photo",
-        "game throne season",
-        "throne season",
         "play",
-        "daeneri",
+        "emilia",
         "targaryen",
-        "season"
+        "season photo",
+        "daeneri",
+        "season",
+        "daeneri targaryen",
+        "game throne season",
+        "throne season"
       ],
       "common": [
         "hbo",
@@ -692,18 +530,18 @@
       "shares_stdev": 119
     },
     {
-      "number": 9,
+      "number": 7,
       "important": [
-        "contain spoiler timelin",
-        "insid",
-        "final",
-        "go insid",
         "warn",
+        "go insid",
+        "insid",
+        "spoiler",
         "warn contain",
-        "contain spoiler",
-        "contain",
         "go",
-        "spoiler"
+        "contain spoiler",
+        "final",
+        "contain",
+        "contain spoiler timelin"
       ],
       "common": [
         "http itsh",
@@ -789,118 +627,17 @@
       "shares_stdev": 3463
     },
     {
-      "number": 10,
-      "important": [
-        "tonight",
-        "realm",
-        "realm game",
-        "access",
-        "throne",
-        "game throne",
-        "ralli",
-        "game",
-        "honor",
-        "return"
-      ],
-      "common": [
-        "game",
-        "game thrones",
-        "photos",
-        "rally",
-        "rally realm",
-        "realm",
-        "thrones",
-        "timeline",
-        "timeline photos",
-        "vote"
-      ],
-      "messages": [
-        [
-          "Rally the realm.\nHonor GLAAD's #SpiritDay. Game of Thrones",
-          1476970877
-        ],
-        [
-          "Rally the realm. \n\nGame of Thrones returns tonight at 9 on HBO.",
-          1461506401
-        ],
-        [
-          "Rally the realm.\n\nGame of Thrones has been nominated for the 2016 Shorty Awards. Vote today: http://itsh.bo/GoTShorty VOTE NOW: Game of Thrones - The Shorty Awards The Shorty Awards honor the best content creators and producers on social media: Twitter, Facebook, YouTube, Tumblr, Instagram, Snapchat, Vine and the rest of the digital world.",
-          1455823656
-        ],
-        [
-          "Rally the realm. \n\nName your favorite Game of Thrones episode for HBO NOW\u2019s #GreatestDayinTVEver. Timeline Photos",
-          1443112201
-        ],
-        [
-          "Rally the realm and vote for the #GoTViewersGuide for Best Television Website in the The Webby Awards: http://itsh.bo/1DNSZpE VOTE: Who should win a Webby for Websites / Television? Vote now. Rally the realm and vote for the #GoTViewersGuide for Best Television Website in the The Webby Awards",
-          1429714804
-        ],
-        [
-          "Rally the realm. \n\nRewatch Season 3 of #GameofThrones on HBO2 at 10AM. #MonthOfGoT Timeline Photos",
-          1428231601
-        ],
-        [
-          "For 5 nights, watch your back. \n\nRally the realm & watch the most memorable #GoTBetrayals Mon - Fri at 10PM starting 4/6 on HBO2. #GoTBetrayals",
-          1427983201
-        ],
-        [
-          "Rally the realm. Rewatch Season 2 of Game of Thrones on HBO2 starting at 10AM today.\n\n#MonthOfGoT Timeline Photos",
-          1427626803
-        ],
-        [
-          "25 days.\n\nRally the realm. Watch a new clip from #GoTSeason5.",
-          1426700014
-        ],
-        [
-          "The first television show in history to appear in IMAX. \n\nRally the realm and get your tickets now at IMAX.com/GameofThrones \n\n#IMAXGoT",
-          1421781561
-        ],
-        [
-          "Rally the realm and share this update if you plan on attending #IMAXGoT January 23-29.\n\nLearn more: http://itsh.bo/13V6V32 Timeline Photos",
-          1420672800
-        ],
-        [
-          "Rally the realm against bullying.  #SpiritDay\n\nPhotocred: instagram.com/gameofthrones Timeline Photos",
-          1413463570
-        ],
-        [
-          "Rally the realm.\n \nGame of Thrones: The Complete Fourth Season is available February 17th, 2015 on Blu-ray with Digital Copy, DVD & Digital HD. Timeline Photos",
-          1405517400
-        ],
-        [
-          "Rally the realm and vote for #RoastJoffrey for The Webby Awards.\n \nVote here: http://itsh.bo/1icxMgK Timeline Photos",
-          1398186000
-        ],
-        [
-          "Rally the realm.\n\nVote for Game of Thrones Season 3 in the final round of Esquire\u2019s \u201cTV Seasons Championship.\u201d\n\nVOTE: http://itsh.bo/1gm1SrC  The Esquire TV Seasons Championship Vote in the last round of our tournament: <i>Game of Thrones</i> or <i>Breaking Bad</i>?",
-          1396384201
-        ],
-        [
-          "HBO was honored with a Webby nomination for HBO Connect. Did you enjoy live chats and commentaries from Kristian Nairn and Nikolaj Coster-Waldau? Rally the realm and vote for us here: http://itsh.bo/ISuJop VOTE: Webby People's Voice is ON Vote with me now to pick the best of the web. wbby.co/vote",
-          1335443827
-        ]
-      ],
-      "dates_start": 1392042217,
-      "dates_end": 1454097646,
-      "likes_avg": 53921,
-      "likes_stdev": 49564,
-      "comments_avg": 2162,
-      "comments_stdev": 2577,
-      "shares_avg": 7770,
-      "shares_stdev": 10925
-    },
-    {
-      "number": 11,
+      "number": 8,
       "important": [
         "jaim lannist",
-        "game throne season",
-        "charact wallpap",
         "season charact",
-        "throne season",
         "game throne season charact",
         "charact",
+        "game throne season",
         "jaim",
         "lannist",
+        "charact wallpap",
+        "throne season",
         "wallpap"
       ],
       "common": [
@@ -995,232 +732,18 @@
       "shares_stdev": 116
     },
     {
-      "number": 12,
+      "number": 9,
       "important": [
-        "hbo",
-        "hbo shop",
-        "access",
-        "throne",
-        "game throne",
-        "game",
-        "exclus",
-        "view",
-        "collect",
-        "shop"
-      ],
-      "common": [
-        "bo",
-        "game",
-        "game thrones",
-        "hbo",
-        "hbo shop",
-        "http",
-        "http itsh",
-        "itsh",
-        "shop",
-        "thrones"
-      ],
-      "messages": [
-        [
-          "View Game of Thrones Exclusive Collectibles from the floor of #ToyFair2016. Shop now at the HBO Shop: http://itsh.bo/ToyFair2016 Toy Fair 2016",
-          1455637193
-        ],
-        [
-          "Raise a glass.\nCelebrate 16M in the realm using code GOT16 for 16% off #GoT Essentials at the HBO Shop: http://itsh.bo/1Kd9oqU Game of Thrones Merchandise, Shirts & Gifts | HBO Shop Explore the Game of Thrones store to find the latest merchandise, shirts, and jewelry. Shop the Game of Thrones shop for gifts, DVDs and the Westeros map.",
-          1442323957
-        ],
-        [
-          "When you play the game of the Risk, you win or you die.\n\nPurchase the Game of Thrones edition of Risk on the HBO Shop today: http://itsh.bo/1JNB9D5 Game of Thrones Risk Inspired by the hit HBO series and the classic game of Risk comes the Game of Thrones Risk board game.",
-          1441289940
-        ],
-        [
-          "Represent the realm with new Game of Thrones Apparel from the HBO Shop. Game of Thrones Shop products seen on and inspired by HBO series at the official HBO Shop. Build your DVD collection with complete season and series box sets.",
-          1438167600
-        ],
-        [
-          "Having Game of Thrones withdrawals?\n\nBring the realm home and purchase all things #GoT from the HBO Shop for up to 20% off: http://itsh.bo/1JYREzW Game of Thrones Shop: Use code DROGON at Checkout Shop HBO\u2019s Game of Thrones Boutique for everything from the Westeros Map to the Game of Thrones Family Tree, to Game of Thrones books, DVDs, shirts, and accessories!",
-          1434633322
-        ],
-        [
-          "View Game of Thrones Exclusive Collectibles from the floor of #ToyFair. Shop now at the HBO Shop: http://itsh.bo/1FIxLcP Toy Fair 2015",
-          1423862646
-        ],
-        [
-          "Winter is coming.\n\nPurchase your own Game of Thrones ornaments and get 25% off at the HBO Shop using code CYBER25 today: http://itsh.bo/1ygR6Q0 Timeline Photos",
-          1417444236
-        ],
-        [
-          "\"Nothing cuts like Valyrian steel.\"\n\nPurchase your own Sword Letter Openers and get 15% off all Game of Thrones merchandise at the HBO Shop using code FALL15: http://itsh.bo/1qYR7nr Timeline Photos",
-          1410955201
-        ],
-        [
-          "Show your allegiance.\n\nPurchase your House Sigil banner and get 20% off all Game of Thrones merchandise at the HBO Shop using code GOTFINALE: http://itsh.bo/1q5bXAJ Timeline Photos",
-          1403093701
-        ],
-        [
-          "Explore Westeros. \n\nPurchase your own map markers and get 20% off all Game of Thrones merchandise today only using code GOT20FB at the HBO Shop: http://itsh.bo/Rja9XX Timeline Photos",
-          1400938201
-        ],
-        [
-          "Explore Westeros.\n\nPurchase the Game of Thrones Pop Up Book at the HBO Shop: http://itsh.bo/1ifWsim Timeline Photos",
-          1398271200
-        ],
-        [
-          "Westeros just got a little smaller.\n\nPurchase your own Game of Thrones Funko Mystery Minis at the HBO shop: http://itsh.bo/1gqkMSb Game of Thrones Mystery Mini Blind Box Purchase your own Game of Thrones Funko Mystery Minis at the HBO shop: http://itsh.bo/1gqkMSb",
-          1394890501
-        ],
-        [
-          "Rest your goblets of Dornish wine on these Game of Thrones House Sigil Coasters.\r\n\r\nToday only, use the code COASTER25 to get 25% off.\r\nSHOP: http://itsh.bo/S1nCNN Timeline Photos",
-          1345637401
-        ],
-        [
-          "Today only, get 25% off when you order your own Dragon Egg with the code GOTEGG25 at the HBO Shop.\r\n\r\nSHOP: http://itsh.bo/S1nfmm Photos",
-          1344427802
-        ],
-        [
-          "Fall is coming. Today only, relish summer and save up to 20% at the HBO Shop with the code SUMMER.\r\n\r\nSHOP: http://itsh.bo/MMlgSA Photos",
-          1343740201
-        ],
-        [
-          "\"What the King dreams, the Hand builds.\" Order your Hand of the King pin at the HBO Shop today. SHOP: http://itsh.bo/HpmZfq Timeline Photos",
-          1333641629
-        ],
-        [
-          "In celebration of HBO's Golden Globes winners and nominees, take 20% off the Game of Thrones Season 1 DVD and more merchandise at the HBO Shop.  Offer valid until 1/17 with discount code GG20.  SHOP: Game of Thrones DVD (Pre-order) | 20% Discount Take 20% off the Game of Thrones Season 1 DVD and more merchandise at the HBO Shop.  Offer valid until 1/17 with discount code GG20. ",
-          1326730330
-        ]
-      ],
-      "dates_start": 1355986871,
-      "dates_end": 1438799605,
-      "likes_avg": 18454,
-      "likes_stdev": 27317,
-      "comments_avg": 1088,
-      "comments_stdev": 2227,
-      "shares_avg": 2190,
-      "shares_stdev": 2771
-    },
-    {
-      "number": 13,
-      "important": [
-        "hear",
-        "andi",
-        "episod",
-        "full episod hbo",
-        "final",
-        "access",
-        "throne",
-        "full episod",
-        "afterthethron",
-        "watch full"
-      ],
-      "common": [
-        "afterthethrones",
-        "bo",
-        "episode",
-        "http",
-        "http itsh",
-        "http itsh bo",
-        "itsh",
-        "itsh bo",
-        "thrones",
-        "watch"
-      ],
-      "messages": [
-        [
-          "Braveheart vs. The Godfather.\nChris and Andy dig into the differences & similarities between Episode 9 and 10 on #AfterTheThrones: www.hbonow.com After the Thrones: Finale Reactions",
-          1467120111
-        ],
-        [
-          "The #AfterTheThrones team has decided. If you ever hear Jaime Lannister say \u201cthe things we do for love,\u201d you should run.\nWatch the full episode on HBO NOW: http://itsh.bo/1Z4q9dC After the Thrones: Episode 8 - Clip #1",
-          1466002330
-        ],
-        [
-          "Chris Ryan and Andy Greenwald from #AfterTheThrones chat Yara pep-talks, Riverrun moats, The Hound and more: http://itsh.bo/1Yf8rGh Dive Into \"The Broken Man\" With After the Thrones Chris Ryan and Andy Greenwald talk everything from Riverrun moats to Bronn to the 10-year-old Lady of Bear Island.",
-          1465415600
-        ],
-        [
-          "Who won the week? The #AfterTheThrones hosts make their picks.\nWatch the full episode on HBO NOW: http://itsh.bo/1Z4q9dC After The Thrones: Episode 7 - Who Won The Week?",
-          1465233420
-        ],
-        [
-          "What other characters could come back? The #AfterTheThrones team makes their predictions.\nWatch the full episode on HBO NOW: http://itsh.bo/1Z4q9dC After The Thrones: Who Could Return?",
-          1464908400
-        ],
-        [
-          "Chris and Andy of #AfterTheThrones break down the \"surprise that feels earned\" from \"The Door.\"\nWatch the full episode on HBO NOW: http://itsh.bo/1Z4q9dC After the Thrones: Hodor",
-          1464024720
-        ],
-        [
-          "Family reunions and alliances: dive deeper into \u201cBook of the Stranger\u201d with #AfterTheThrones. Andy Greenwald and Chris Ryan Delve into 'Book of the Stranger' Mallory Rubin and Jason Concepcion join the hosts of After the Thrones to discuss ulterior motives and what it means to be family in the Seven Kingdoms. Spoilers follow for \"Book of the Stranger.\"",
-          1463767200
-        ],
-        [
-          "Time to ask the expert.\nThe #AfterTheThrones crew dishes on the survival of the Tyrell family. Watch the full episode today: http://itsh.bo/1Z4q9dC After the Thrones: Episode #4 - The Tyrells",
-          1463664600
-        ],
-        [
-          "The #AfterTheThrones crew discuss how family reunions go down in Westeros. \nWatch the full episode on HBO NOW: http://itsh.bo/1Z4q9dC\n(SPOILERS AHEAD) After The Thrones: The Big Idea - Episode #4 (HBO NOW)",
-          1463406640
-        ],
-        [
-          "Break down the three major moments from \"Oathbreaker\" with #AfterTheThrones: http://itsh.bo/220HPJ9 Watch a Breakdown of 3 Major Moments in 'Oathbreaker' Hosts of the new recap series After the Thrones Andy Greenwald and Chris Ryan delve into the big scenes in \"Oathbreaker.\"",
-          1463169540
-        ],
-        [
-          "The prince that was promised.\nChris and Andy of #AfterTheThrones break down prophecies in the world of Game of Thrones. \nWatch the full episode on HBO NOW: http://itsh.bo/1Z4q9dC After The Thrones: The Prince That Was Promised",
-          1463058438
-        ],
-        [
-          "20 years is a long time to wait. #AfterTheThrones discusses that pivotal flashback. \nWatch the full episode on HBO NOW: http://itsh.bo/1Z4q9dC\n(WARNING: SPOILERS AHEAD) After The Thrones: Episode 3 - Ask The Expert",
-          1462885195
-        ],
-        [
-          "Who won the week?\nChris and Andy of #AfterTheThrones discuss the clear winner. Watch the full episode on HBO NOW: http://itsh.bo/1Z4q9dC\n(SPOILERS AHEAD) Game of Thrones Season 6: Episode 2 - Who Won The Week?",
-          1462575600
-        ],
-        [
-          "What's the deal with Bran's travels?\nThe crew from #AfterTheThrones have answers. 'After the Thrones' Answers Your Burning Questions In the second installment of their recap show, After the Thrones hosts Andy Greenwald and Chris Ryan tackle GoT's pressing issues. Check out their clips after the jump.",
-          1462470300
-        ],
-        [
-          "Is Cersei gearing up to hit back?\nChris and Andy break it down on #AfterTheThrones. After The Thrones: Cersei Hits Back",
-          1462377986
-        ],
-        [
-          "Get a lesson in warging courtesy of #AfterTheThrones.\nWatch the full episode on HBO NOW: http://itsh.bo/1Z4q9dC After The Thrones: \"Warging\" (HBO)",
-          1462226400
-        ],
-        [
-          "Fan the flames of your Game of Thrones fandom with \"After the Thrones.\" \nRead more about the after-show: http://itsh.bo/201208W Fan the Flames of Your Fandom With \"After the Thrones\" Find out more about the weekly GoT recap with Andy Greenwald and Chris Ryan after the jump.",
-          1459794600
-        ],
-        [
-          "Did you know that Stephen Dillane aka \"Stannis Baratheon\" is in the new original Cinemax action series Hunted? \r\n\r\nWatch the full episode here: http://itsh.bo/RQBFH2 Timeline Photos",
-          1350933308
-        ]
-      ],
-      "dates_start": 1431520317,
-      "dates_end": 1483261281,
-      "likes_avg": 5060,
-      "likes_stdev": 5463,
-      "comments_avg": 217,
-      "comments_stdev": 145,
-      "shares_avg": 185,
-      "shares_stdev": 147
-    },
-    {
-      "number": 14,
-      "important": [
-        "poster",
+        "campaign poster",
         "fire blood",
-        "campaign",
+        "access",
+        "link",
+        "imag link",
+        "king",
+        "poster",
         "imag",
         "fanart",
-        "king",
-        "link",
-        "campaign poster",
-        "access",
-        "imag link"
+        "campaign"
       ],
       "common": [
         "art",
@@ -1326,18 +849,18 @@
       "shares_stdev": 671
     },
     {
-      "number": 15,
+      "number": 10,
       "important": [
-        "realm",
-        "hbo",
         "start hbo",
-        "quiet realm",
-        "quiet",
-        "bastard",
-        "access",
-        "battl",
         "battl bastard",
-        "start"
+        "quiet realm",
+        "access",
+        "start",
+        "quiet",
+        "battl",
+        "bastard",
+        "realm",
+        "hbo"
       ],
       "common": [
         "9pm",
@@ -1443,18 +966,18 @@
       "shares_stdev": 5454
     },
     {
-      "number": 16,
+      "number": 11,
       "important": [
-        "countri",
+        "db weiss david",
+        "weiss david",
+        "go insid",
         "db",
         "weiss",
         "insid episod",
-        "db weiss david",
+        "creator",
         "cersei",
-        "go insid",
-        "benioff",
-        "weiss david",
-        "creator"
+        "countri",
+        "benioff"
       ],
       "common": [
         "benioff",
@@ -1564,17 +1087,17 @@
       "shares_stdev": 587
     },
     {
-      "number": 17,
+      "number": 12,
       "important": [
-        "wall",
-        "ascent",
         "night",
+        "game",
+        "ascent",
         "play",
         "gift",
-        "game throne",
-        "game",
         "free",
         "long",
+        "game throne",
+        "wall",
         "updat"
       ],
       "common": [
@@ -1685,147 +1208,18 @@
       "shares_stdev": 303
     },
     {
-      "number": 18,
+      "number": 13,
       "important": [
-        "reliv",
-        "comiccon intern",
-        "connect game",
-        "hbo",
-        "hbo connect",
-        "comiccon",
-        "sdcc",
-        "hbo connect game",
-        "connect",
-        "connect game throne"
-      ],
-      "common": [
-        "bo",
-        "connect",
-        "game thrones",
-        "hbo",
-        "hbo connect",
-        "http",
-        "http itsh",
-        "http itsh bo",
-        "itsh",
-        "itsh bo"
-      ],
-      "messages": [
-        [
-          "Relive Game of Thrones coverage from Comic-Con International at HBO Connect: http://itsh.bo/1M4iTLP Game of Thrones at #SDCC 2015 Relive Game of Thrones coverage from Comic-Con International at HBO Connect.",
-          1436968801
-        ],
-        [
-          "Have a question for Maisie_Williams?\n\nRegister for HBO Connect to submit your question and learn about other opportunities to get closer to HBO: http://itsh.bo/1CWKXs4 Ask Maisie Williams Check out this post from HBO Connect, the best way of getting up close and personal with the shows you're most passionate about.",
-          1436270401
-        ],
-        [
-          "Submit your questions for John Bradley West and you may get answered at HBO Connect: http://itsh.bo/1l0y1qz Timeline Photos",
-          1402323001
-        ],
-        [
-          "How is Oberyn preparing for Sunday's #TrialByCombat? \n\nSubmit your questions for a Q&A with Pedro Pascal at HBO Connect. ASK PEDRO: http://itsh.bo/1nyl5jF Timeline Photos",
-          1401454800
-        ],
-        [
-          "What's it like playing one of the toughest girls in Westeros? \n\nSubmit your questions for a live Q&A with Maisie Williams today at 12PM ET at HBO Connect. ASK MAISIE: http://itsh.bo/1jv3LW2 Timeline Photos",
-          1398254400
-        ],
-        [
-          "Ism\u00e9t Tr\u00f3nok harca DVD-t nyerhetsz! Tudj meg t\u00f6bbet kedvenc sorozatodr\u00f3l az HBO Connecttel \u00e9s ti\u00e9d lehet a teljes II. \u00e9vad! A j\u00e1t\u00e9k ma 22:00 \u00e9s 23:00 k\u00f6z\u00f6tt zajlik, r\u00e9szletek a linkre kattintva a cikkben! http://itsh.bo/13QfNlD Tudj meg t\u00f6bbet a Tr\u00f3nok harc\u00e1r\u00f3l \u00e9s nyerj! Ha k\u00edv\u00e1ncsi vagy a Tr\u00f3nok harc\u00e1val kapcsolatos h\u00e1tt\u00e9rinform\u00e1ci\u00f3kra, kulisszatitkokra, az egyes karakterek t\u00f6rt\u00e9neteire, akkor l\u00e9pj be az HBO Connect vil\u00e1g\u00e1ba, az egyes epiz\u00f3dok vet\u00edt\u00e9se alatt II. \u00e9vad DVD-t nyerhetsz!",
-          1370280601
-        ],
-        [
-          "TODAY AT 1PM ET: Join a live Q&A with Michelle Fairley aka \"Catelyn Stark\" at HBO Connect.\r\n\r\nASK MICHELLE: http://itsh.bo/14oeCs7 Timeline Photos",
-          1370264400
-        ],
-        [
-          "Submit your questions for tomorrow's live Q&A with Joe Dempsie aka \"Gendry\" at HBO Connect.\r\n\r\nASK JOE: http://itsh.bo/10Rudy4 Timeline Photos",
-          1369937400
-        ],
-        [
-          "Nyerj Tr\u00f3nok harca DVD-t! Tudj meg t\u00f6bbet kedvenc sorozatodr\u00f3l az HBO Connecttel \u00e9s ti\u00e9d lehet a teljes II. \u00e9vad! A j\u00e1t\u00e9k ma 22:00 \u00e9s 23:00 k\u00f6z\u00f6tt zajlik, r\u00e9szletek a linkre kattintva a cikkben! Tudj meg t\u00f6bbet a Tr\u00f3nok harc\u00e1r\u00f3l \u00e9s nyerj! Ha k\u00edv\u00e1ncsi vagy a Tr\u00f3nok harc\u00e1val kapcsolatos h\u00e1tt\u00e9rinform\u00e1ci\u00f3kra, kulisszatitkokra, az egyes karakterek t\u00f6rt\u00e9neteire, akkor l\u00e9pj be az HBO Connect vil\u00e1g\u00e1ba, az egyes epiz\u00f3dok vet\u00edt\u00e9se alatt II. \u00e9vad DVD-t nyerhetsz!",
-          1369071001
-        ],
-        [
-          "Nyerj Tr\u00f3nok harca DVD-t! Tudj meg t\u00f6bbet kedvenc sorozatodr\u00f3l az HBO Connecttel \u00e9s ti\u00e9d lehet a teljes II. \u00e9vad! A j\u00e1t\u00e9k ma 22:00 \u00e9s 23:00 k\u00f6z\u00f6tt zajlik, r\u00e9szletek a linkre kattintva a cikkben! http://itsh.bo/13QfNlD Tudj meg t\u00f6bbet a Tr\u00f3nok harc\u00e1r\u00f3l \u00e9s nyerj! Ha k\u00edv\u00e1ncsi vagy a Tr\u00f3nok harc\u00e1val kapcsolatos h\u00e1tt\u00e9rinform\u00e1ci\u00f3kra, kulisszatitkokra, az egyes karakterek t\u00f6rt\u00e9neteire, akkor l\u00e9pj be az HBO Connect vil\u00e1g\u00e1ba, az egyes epiz\u00f3dok vet\u00edt\u00e9se alatt II. \u00e9vad DVD-t nyerhetsz!",
-          1368466201
-        ],
-        [
-          "If you haven't submitted a question for today's HBO Connect Q&A with Kit Harington at 2PM ET then \"you know nothing.\" \r\n\r\nASK KIT: http://itsh.bo/15cc2vs Timeline Photos",
-          1367847601
-        ],
-        [
-          "There are no men like him, only him. Submit your questions for today\u2019s Q&A with Nikolaj Coster-Waldau at HBO Connect.\r\n\r\nASK NIKOLAJ: http://itsh.bo/15KwEKy Timeline Photos",
-          1367431200
-        ],
-        [
-          "TODAY AT 3PM: Find out what it's like playing Arya Stark and join Maisie Williams for a live Q&A at HBO Connect.\r\n\r\nASK MAISIE: http://itsh.bo/ZAhO0W Timeline Photos",
-          1366903800
-        ],
-        [
-          "There are no men like him. Only him. \r\n\r\nLook who's on the cover of the May issue of Men's Health: http://itsh.bo/14H7SKw Available 4/16 Timeline Photos",
-          1365615600
-        ],
-        [
-          "It\u2019s your final day to enter for a chance to win a custom Game of Thrones Xbox 360 Console on HBO Connect: http://itsh.bo/pwt1DF \r\n\r\n\u201cSHARE\u201d this update across the realm if you\u2019re entering and be sure to include #SDCCGoTFan in your tweets. Photos",
-          1342369202
-        ],
-        [
-          "Enter for a chance to win a custom Game of Thrones Xbox 360 Console on HBO Connect: http://itsh.bo/pwt1DF \r\n\r\n\u201cSHARE\u201d this update across the realm and be sure to include #SDCCGoTFan in your tweets. Photos",
-          1342197003
-        ],
-        [
-          "Watch an episode of Game of Thrones with Ser Loras Tyrell.\r\n\r\nPlay commentary from Finn Jones as you watch with HBO Connect: http://itsh.bo/N8sDAW Photos",
-          1341667202
-        ],
-        [
-          "There are no men like him, only him. \r\n\r\nVisit the new HBO Connect for an archived Q&A with Nikolaj Coster-Waldeau.\r\n CONNECT: http://itsh.bo/Ndwa0M Photos",
-          1341498002
-        ],
-        [
-          "RIGHT NOW: Follow Winter-Is-Coming.net as they provide a live commentary of Episode 10 at HBO Connect.  LIVE COMMENTARY: Winter is Coming: Game of Thrones Episode 10 \"Fire and Blood\"",
-          1333315957
-        ],
-        [
-          "RIGHT NOW: Turn on HBO2 and follow Finn Jones, a.k.a. \"Ser Loras Tyrell\" as he provides a live Episode 5 commentary at HBO Connect. LIVE COMMENTARY: Finn Jones: Game of Thrones Ep. 5 \"The Wolf and the Lion\"",
-          1333298746
-        ],
-        [
-          "RIGHT NOW: Wonder what it's like to be a story editor on \"Game of Thrones?\" Join a live chat with Bryan Cogman and find out.  CHAT: Bryan Cogman (Game of Thrones Story Editor) Visit HBO Connect for an Upcoming chat with Bryan Cogman from Game of Thrones. Share your questions through Twitter or Facebook.",
-          1333294897
-        ],
-        [
-          "RIGHT NOW: Turn on HBO2 and follow Westeros.org as they provide a live Episode 1 commentary at HBO Connect. LIVE COMMENTARY: Westeros.org: Game of Thrones Ep. 1 \"Winter Is Coming\"",
-          1333283711
-        ],
-        [
-          "Power. Honor. War. Follow the link below to HBO Connect and tell us what Game of Thrones means to you in 140 characters or less. CONNECT: #got140 HBO Connect, Game of Thrones visualizer. An interactive Twitter experience that displays what fans are buzzing about over Game of Thrones.",
-          1332354086
-        ]
-      ],
-      "dates_start": 1335780602,
-      "dates_end": 1396773137,
-      "likes_avg": 13839,
-      "likes_stdev": 15964,
-      "comments_avg": 677,
-      "comments_stdev": 980,
-      "shares_avg": 1148,
-      "shares_stdev": 2309
-    },
-    {
-      "number": 19,
-      "important": [
-        "background",
+        "game throne viewer guid enter",
+        "captur",
         "spoiler game",
+        "background",
+        "contain spoiler game",
         "viewer",
         "viewer guid",
         "game throne viewer",
-        "contain spoiler game",
         "guid",
-        "last night episod",
-        "game throne viewer guid enter",
-        "captur"
+        "last night episod"
       ],
       "common": [
         "game",
@@ -1947,155 +1341,18 @@
       "shares_stdev": 1868
     },
     {
-      "number": 20,
+      "number": 14,
       "important": [
-        "watch game",
-        "watch game throne season recap",
-        "blackwat",
-        "watch game throne",
-        "game throne season recap",
-        "watch",
-        "everi sunday night",
-        "tune new",
-        "everi sunday night game",
-        "recap"
-      ],
-      "common": [
-        "9pm",
-        "episode",
-        "game",
-        "game thrones",
-        "season",
-        "sunday",
-        "thrones",
-        "watch",
-        "watch game",
-        "watch game thrones"
-      ],
-      "messages": [
-        [
-          "\"The world is built by killers. So you'd better get used to looking at them.\" Watch a recap of \"Blackwater\" right here.  WATCH: Game Of Thrones Season 2: Recap #19 Tune in to the new season of \"Game Of Thrones\" every Sunday night at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones onl...",
-          1338395860
-        ],
-        [
-          "\"They're both men that have surrounded themselves with death.\" Get an inside look at Blackwater.  WATCH: Game Of Thrones Season 2: Inside The Episode #19 Tune in to the new season of \"Game Of Thrones\" every Sunday night at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones onl...",
-          1338308761
-        ],
-        [
-          "War is finally here. The Battle of Blackwater airs tonight at 9PM only on HBO. \n\n\"SHARE\" this trailer with your friends and spread the word across the realm.  SHARE: Game Of Thrones Season 2: Episode 19 - War Of The Kings Trailer Tune in to the new season of \"Game Of Thrones\" every Sunday night at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones onl...",
-          1338125371
-        ],
-        [
-          "War is here and there are only 2 episodes left. Watch a preview of Blackwater right here.  WATCH: Game Of Thrones Season 2: Episode #19 Preview Tune in to the new season of \"Game Of Thrones\" every Sunday night at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones onl...",
-          1337883449
-        ],
-        [
-          "\"It gives me joy to kill people. Killing's the sweetest thing there is.\" Get a recap of the latest episode.  WATCH: Game Of Thrones Season 2: Recap #18 Tune in to the new season of \"Game Of Thrones\" every Sunday night at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones onl...",
-          1337786507
-        ],
-        [
-          "\"It's an open declaration of war.\" Get an inside look at the latest episode. WATCH: Game Of Thrones Season 2: Inside The Episode #18 Tune in to the new season of \"Game Of Thrones\" every Sunday night at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones onl...",
-          1337693787
-        ],
-        [
-          "\"If the city falls Stannis will burn every Lannister he can find.\" Only 6 more days till \"Blackwater.\" Watch a preview.  WATCH: Game Of Thrones Season 2: Episode 19 - Battle Tease Tune in to the new season of \"Game Of Thrones\" every Sunday night at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones onl...",
-          1337601293
-        ],
-        [
-          "Only one can rule. \n\nClick \"LIKE\" if you're ready for \"Blackwater\" next Sunday at 9PM on HBO.  WATCH: Game Of Thrones Season 2: Episode 19 - War Of The Kings Trailer Tune in to the new season of \"Game Of Thrones\" every Sunday night at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones onl...",
-          1337565884
-        ],
-        [
-          "\"If this is the price for what we've done. For our sins.\" Watch a recap of the latest episode right here.  Game of Thrones Season 2: Recap #17 Take a look at a recap of episode #17. Catch all new episodes on Sunday night's at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game ...",
-          1337170840
-        ],
-        [
-          "\"It's all just a game.\" Executive Producers Dan Weiss and David Benioff go inside the latest episode.   WATCH: Game Of Thrones Season 2: Inside The Episode #17 Take a look inside episode #17 of \"Game Of Thrones.\" Catch all new episodes on Sunday night's at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b...",
-          1337020290
-        ],
-        [
-          "\"Find my dragons.\" Watch a preview of this Sunday's episode.  WATCH: Game Of Thrones Season 2: Episode #17 Preview Tune in to the new season of \"Game Of Thrones\" every Sunday night at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones onl...",
-          1336676087
-        ],
-        [
-          "\"Betray me and you will wish you hadn't.\" Get a recap of the latest episode.  WATCH: Game of Thrones Season 2: Recap #16 Take a look at a recap of episode #16. Catch all new episodes on Sunday night's at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game ...",
-          1336487564
-        ],
-        [
-          "\"I don't think Arya is anyone's little girl anymore.\" Go inside last night's episode.  WATCH: Game Of Thrones Season 2: Inside The Episode #16 Take a look inside episode #16 of \"Game Of Thrones.\" Catch all new episodes on Sunday night's at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b...",
-          1336404862
-        ],
-        [
-          "A new episode of Game of Thrones starts in 5 minutes at 9PM ET on HBO. \n\n\"LIKE\" this update if you're watching.  WATCH: Game Of Thrones Season 2: Episode #16 Preview Tune in to the new season of \"Game Of Thrones\" every Sunday night at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones onl...",
-          1336344922
-        ],
-        [
-          "\"You can't avenge him if you are dead.\" Recap the latest episode of Game of Thrones.  WATCH: Game of Thrones Season 2: Recap #15 Take a look at a recap of episode #15. Catch all new episodes on Sunday night's at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game ...",
-          1336050144
-        ],
-        [
-          "\"Your grace...my lady...news from Winterfell.\" Watch a preview of this Sunday's episode.  WATCH: Game Of Thrones Season 2: Episode #16 Preview Tune in to the new season of \"Game Of Thrones\" every Sunday night at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones onl...",
-          1335974040
-        ],
-        [
-          "\"Bran is trying to figure out his place in the world.\" Get an inside look at last night's episode.  WATCH: Game Of Thrones Season 2: Inside The Episode #15 Take a look inside episode #15 of \"Game Of Thrones.\" Catch all new episodes on Sunday night's at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b...",
-          1335793331
-        ],
-        [
-          "A new episode of Game of Thrones starts in 10 minutes at 9PM ET on HBO. \"Like\" this update if you're watching.   Game Of Thrones Season 2: Episode #15 Preview Tune in to the new season of \"Game Of Thrones\" every Sunday night at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones onl...",
-          1335739797
-        ],
-        [
-          "\"You stole 3 deaths from the Red God, we have to give them back.\" Watch a preview of this Sunday's episode.  WATCH: Game Of Thrones Season 2: Episode #15 Preview Tune in to the new season of \"Game Of Thrones\" every Sunday night at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones onl...",
-          1335362879
-        ],
-        [
-          "Robb's actions are questioned by his banner men. Get a behind the scenes look at the latest episode.  WATCH: Game Of Thrones Season 2: Inside The Episode #14 Take a look inside Episode #14 of \"Game Of Thrones.\" Catch all new episodes on Sunday night's at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b...",
-          1335286008
-        ],
-        [
-          "\"Wildings serve crueler Gods than you or I.\" Watch a recap of last night's episode.  WATCH: Game of Thrones Season 2: Recap #14 Take a look at a recap of episode #14. Catch all new episodes on Sunday night's at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game ...",
-          1335189387
-        ],
-        [
-          "\"Strange that this Lord of Light asks you to work in the shadows.\" Watch a preview of this Sunday's episode.  WATCH: Game Of Thrones Season 2: Episode #14 Preview Tune in to the new season of \"Game Of Thrones\" every Sunday night at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones onl...",
-          1334925108
-        ],
-        [
-          "\"May I present my wife, Margaery of House Tyrell.\" Watch a recap of the latest episode.  WATCH: Game Of Thrones Season 2: Recap #13 Take a look at a recap of episode #13. Catch all new episodes on Sunday night's at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game ...",
-          1334756530
-        ],
-        [
-          "\"No one will take my dragons.\" Recap the first 3 episodes of Game of Thrones Season 2.  WATCH: Game Of Thrones Season 2: The Story So Far (Episodes 11-13) Take a look at what's happened in the first 3 episodes of season 2. Catch new episodes on Sunday night's at 9PM. For more on Game of Thrones, go to http://it...",
-          1334663565
-        ],
-        [
-          "\"No man gives me a crown. I will take my crown.\" Watch a recap of the latest episode.   WATCH: Game of Thrones Season 2: Recap #12 See what happened on Season 2 Episode 12 of \"Game of Thrones.\" And remember to catch a new episode every Sunday night at 9pm only on HBO. For more on Game of...",
-          1334238601
-        ]
-      ],
-      "dates_start": 1335230789,
-      "dates_end": 1337684799,
-      "likes_avg": 7190,
-      "likes_stdev": 4912,
-      "comments_avg": 390,
-      "comments_stdev": 199,
-      "shares_avg": 716,
-      "shares_stdev": 679
-    },
-    {
-      "number": 21,
-      "important": [
-        "hbo",
-        "et",
-        "countri",
         "spread",
+        "sunday april",
+        "spread word",
         "us",
         "air",
-        "air sunday",
         "ralli",
-        "spread word",
-        "sunday april"
+        "air sunday",
+        "et",
+        "hbo",
+        "countri"
       ],
       "common": [
         "hbo",
@@ -2225,18 +1482,18 @@
       "shares_stdev": 48616
     },
     {
-      "number": 22,
+      "number": 15,
       "important": [
-        "bluray dvd",
-        "photo",
-        "dvd",
-        "timelin",
-        "throne",
-        "game throne",
         "game",
-        "access",
+        "photo",
         "ser",
-        "bluray"
+        "access",
+        "bluray",
+        "throne",
+        "bluray dvd",
+        "game throne",
+        "timelin",
+        "dvd"
       ],
       "common": [
         "blu",
@@ -2366,18 +1623,18 @@
       "shares_stdev": 3629
     },
     {
-      "number": 23,
+      "number": 16,
       "important": [
-        "connect game",
-        "full",
+        "onlin",
         "game throne comiccon",
         "game throne onlin",
-        "comiccon",
-        "comic con",
-        "panel",
         "comic",
-        "onlin",
-        "con"
+        "comiccon",
+        "panel",
+        "con",
+        "comic con",
+        "full",
+        "connect game"
       ],
       "common": [
         "game",
@@ -2511,163 +1768,18 @@
       "shares_stdev": 8328
     },
     {
-      "number": 24,
+      "number": 17,
       "important": [
-        "left",
-        "episod",
-        "preview hbo",
-        "bastard",
-        "preview sunday",
-        "game throne season episod preview",
-        "preview",
-        "episod preview",
-        "battl bastard",
-        "sunday episod"
-      ],
-      "common": [
-        "episode",
-        "game",
-        "game thrones",
-        "game thrones season",
-        "new",
-        "preview",
-        "season",
-        "thrones",
-        "thrones season",
-        "watch"
-      ],
-      "messages": [
-        [
-          "2 episodes left.\nPreview this Sunday's episode of Game of Thrones, \"Battle of the Bastards.\" Game of Thrones Season 6: Episode #9 Preview (HBO)",
-          1465844400
-        ],
-        [
-          "Tonight. #GameofThrones Game of Thrones Season 6: Episode 8 Preview",
-          1465734600
-        ],
-        [
-          "\"I choose violence.\"\nPreview tomorrow's new episode of Game of Thrones. Game of Thrones: Episode 8 Preview",
-          1465652940
-        ],
-        [
-          "\"I did what I had to do to survive. I will always be a Stark.\"\nPreview tomorrow's new episode of Game of Thrones. Game of Thrones Season 6: Episode 7 Preview",
-          1465046280
-        ],
-        [
-          "\"Show them what we do to our enemies.\"\nPreview tomorrow's new episode of Game of Thrones. Game of Thrones Season 6: Episode #6 Preview (HBO)",
-          1464440460
-        ],
-        [
-          "\"There's still so much you don't know.\"\nPreview the next episode of Game of Thrones airing tomorrow at 9PM. Game of Thrones Season 6: Episode #5 Preview",
-          1463839200
-        ],
-        [
-          "\"Sansa has escaped Winterfell.\"\nPreview the next episode of Game of Thrones airing tomorrow at 9PM. Game of Thrones Season 6: Episode 4 Preview",
-          1463234400
-        ],
-        [
-          "\"And now it begins.\"\nPreview the next episode of Game of Thrones airing tomorrow at 9PM. Game of Thrones Season 6: Episode 3 Preview",
-          1462631400
-        ],
-        [
-          "Tonight.\nThe next episode of Game of Thrones starts tonight at 9. Game of Thrones Season 6: Episode 2 Preview",
-          1462112820
-        ],
-        [
-          "\"Get out of my way.\"\nPreview next episode of Game of Thrones airing tomorrow at 9PM. Game of Thrones Season 6: Episode 2 Preview (HBO)",
-          1462030500
-        ],
-        [
-          "Two more episodes.\n\nWatch a preview of tomorrow's new episode, \"The Dance of Dragons.\"",
-          1433597640
-        ],
-        [
-          "\"Why should the people trust a queen who can't keep her promises?\"\n\nWatch a preview of tomorrow's new episode, \"Hardhome.\"",
-          1432993261
-        ],
-        [
-          "\"We march to victory or we march to defeat, but we go forward.\"\n\nWatch a preview of tomorrow's new episode, \"The Gift.\"",
-          1432385281
-        ],
-        [
-          "\"Is a girl ready?\"\n\nWatch a preview of tomorrow's new episode, \"Unbowed, Unbent, Unbroken.\"",
-          1431781500
-        ],
-        [
-          "\"Winter is coming. We know what's coming with it.\"\n\nWatch a preview of tomorrow's new episode, \"Kill The Boy.\"",
-          1431205203
-        ],
-        [
-          "\"All men must die, but not all can die in glory.\"\n\nWatch a preview of tomorrow's new episode, \"Sons of the Harpy.\"",
-          1430572020
-        ],
-        [
-          "\"Avenge them.\"\n\nWatch a preview for tomorrow's episode of #GoTSeason5, \"High Sparrow.\"",
-          1429968541
-        ],
-        [
-          "\"This is where you'll find the man you seek.\"\n\nPreview tomorrow's new episode, \"The House of Black and White.\"",
-          1429390803
-        ],
-        [
-          "Only 2 episodes left. Watch a preview of the next Game of Thrones. Game Of Thrones Season 3: Episode #9 Preview Catch new episodes of season 3 on Sunday night's at 9PM.",
-          1370011201
-        ],
-        [
-          "REMINDER: There will be no new episode airing tonight. Watch a preview of the next episode of Game of Thrones, airing June 2, only on HBO. WATCH: Game Of Thrones Season 3: Episode #9 Preview Catch new episodes of season 3 on Sunday nights at 9PM.",
-          1369577401
-        ],
-        [
-          "Beric and Arya serve different Gods. Watch a preview of the next Game of Thrones. WATCH: Game Of Thrones Season 3: Episode #7 Preview New episodes air Sundays at 9PM, only on HBO. Watch a preview. ",
-          1368209400
-        ],
-        [
-          "\"If you fall, don't scream.\" Watch a preview of the next Game of Thrones. WATCH: Game Of Thrones Season 3: Episode #6 Preview New episodes air Sunday nights at 9PM on HBO, ",
-          1367601601
-        ],
-        [
-          "\"In war you kill your enemies!\" Watch a preview of the next Game of Thrones. Game Of Thrones Season 3: Episode #5 Preview New episodes air Sunday nights at 9PM, only HBO. ",
-          1366999800
-        ],
-        [
-          "\"The Tyrells are a problem.\" Watch a preview of the next Game of Thrones. WATCH: Game Of Thrones Season 3: Episode #4 Preview New episodes of Game of Thrones air Sundays at 9PM only on HBO. ",
-          1366483200
-        ],
-        [
-          "\"Throw him off the wall. See if crows can fly.\" Watch a preview of this Sunday's Game of Thrones. WATCH: Game Of Thrones Season 3: Episode #3 Preview New episodes air Sunday night at 9PM, only on HBO. ",
-          1365795001
-        ],
-        [
-          "Can Sansa make friends in King's Landing? Watch a preview of \"Dark Wings, Dark Words.\" WATCH: Game Of Thrones Season 3: Episode #2 Preview Game of Thrones airs Sunday at 9PM, only on HBO. ",
-          1365198000
-        ],
-        [
-          "\"They don't like the idea of a woman leading a Khalasar.\" Watch a preview of Sunday's new episode.  WATCH: Game Of Thrones Season 2: Episode #12 Preview Preview a new episode of Game of Thrones. Game of Thrones Season 2 airs Sundays at 9PM. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game ...",
-          1333559258
-        ]
-      ],
-      "dates_start": 1377912238,
-      "dates_end": 1464005992,
-      "likes_avg": 46927,
-      "likes_stdev": 43200,
-      "comments_avg": 3597,
-      "comments_stdev": 7395,
-      "shares_avg": 6921,
-      "shares_stdev": 12829
-    },
-    {
-      "number": 25,
-      "important": [
-        "jon snow",
-        "jon",
-        "gotviewersguid",
         "cast",
-        "war",
-        "explor",
         "access",
-        "gotviewersguid warn",
+        "jon",
         "come",
-        "citi"
+        "war",
+        "gotviewersguid warn",
+        "explor",
+        "citi",
+        "gotviewersguid",
+        "jon snow"
       ],
       "common": [
         "bo",
@@ -2805,17 +1917,17 @@
       "shares_stdev": 806
     },
     {
-      "number": 26,
+      "number": 18,
       "important": [
         "ball",
-        "artist",
-        "seri",
         "read full",
         "air",
-        "full interview",
-        "death",
-        "robert",
+        "artist",
         "read full interview",
+        "robert",
+        "death",
+        "seri",
+        "full interview",
         "art"
       ],
       "common": [
@@ -2958,18 +2070,18 @@
       "shares_stdev": 4039
     },
     {
-      "number": 27,
+      "number": 19,
       "important": [
-        "tonight",
         "check tonight",
-        "tyrion",
         "sticker getglu",
-        "final",
         "season final",
-        "check",
-        "timelin",
+        "final",
         "earn",
-        "lannist"
+        "lannist",
+        "tyrion",
+        "check",
+        "tonight",
+        "timelin"
       ],
       "common": [
         "bo",
@@ -3115,372 +2227,18 @@
       "shares_stdev": 1625
     },
     {
-      "number": 28,
+      "number": 20,
       "important": [
-        "experi",
-        "live",
-        "today game",
-        "facebook live",
-        "ticket",
-        "facebook",
-        "ralli",
-        "today",
-        "djawadi",
-        "give"
-      ],
-      "common": [
-        "carpet",
-        "concert",
-        "facebook",
-        "facebook live",
-        "game",
-        "game thrones",
-        "live",
-        "red",
-        "red carpet",
-        "thrones"
-      ],
-      "messages": [
-        [
-          "Rally the realm.\nWe're live with Ramin Djawadi, composer of @Game of Thrones, giving us an intimate sneak peek at the Game of Thrones Live Concert Experience.\nGet your tickets today: livemu.sc/2h2vW73 Game of Thrones Live Concert Experience: Facebook Live (HBO)",
-          1486077832
-        ],
-        [
-          "Music is coming...\nGet your tickets today to the Game of Thrones Live Concert Experience & tune in tomorrow for a Facebook Live sneak peek: livemu.sc/2h2vW73 Game of Thrones Live Concert Experience on Ticketmaster",
-          1485992490
-        ],
-        [
-          "Music is coming.\nThe Game of Thrones Live Concert Experience is underway. Get your tickets today: bit.ly/2d3XlTU Game of Thrones Live Concert (HBO)",
-          1485270571
-        ],
-        [
-          "Music is coming.\nPurchase your tickets to the Game of Thrones Live Concert Experience today: http://livemu.sc/2h2vW73 Game of Thrones Live Concert Experience",
-          1481656374
-        ],
-        [
-          "Game of Thrones composer Ramin Djawadi is live on Facebook answering your questions about the series and the #GoT Live Concert Experience. Get your tickets today: http://livemu.sc/2h9aHOs Game of Thrones Live Concert Experience",
-          1481655549
-        ],
-        [
-          "Music is coming.\nJoin a Facebook Live Q&A with Game of Thrones composer Ramin Djawadi discussing the Game of Thrones Live Concert Experience.\n\nAsk your questions in the comments and get your tickets today: http://livemu.sc/2h2vW73 Music is Coming: Game of Thrones - Ramin Djawadi Q&A",
-          1481569200
-        ],
-        [
-          "Music is coming.\nGet your tickets to the Game of Thrones Live Concert Experience featuring composer Ramin Djawadi today: http://bit.ly/2d3XlTU Game of Thrones: Live Concert Experience",
-          1475687068
-        ],
-        [
-          "Game of Thrones composer Ramin Djawadi is now live.  See him in the #GoT Live Concert Experience in 2017. Get your tickets today: http://bit.ly/2d3XlTU Game of Thrones composer Ramin Djawadi is now live.",
-          1475686803
-        ],
-        [
-          "Rally the realm and join us at the Game of Thrones Live Concert Experience featuring Ramin Djawadi. \nGet more info here: http://livemu.sc/GOT_TOUR Game of Thrones Live Concert",
-          1470676155
-        ],
-        [
-          "Prepare for the #GoTSeason6 premiere.\nRelive the most memorable moments from the #GoTPremiereLA Facebook Live. Game of Thrones Season 6: Facebook Live Recap (HBO",
-          1461448140
-        ],
-        [
-          "We are live at the #ArtTheThrone exhibit in NYC with #GameOfThrones cast members Jacob Anderson and Hannah Murray.",
-          1461185442
-        ],
-        [
-          "Relive some of the best moments from the #GoTPremiereLA and read about the cast's reactions to #GoTSeason6: http://itsh.bo/1qNpeUc The Buzz: Game of Thrones S6 Red Carpet Premiere (HBO)",
-          1461079800
-        ],
-        [
-          "Thanks for watching the #GoTPremiereLA on Facebook Live.\nNow watch an exclusive look behind the VFX of Game of Thrones. Game of Thrones: Behind the VFX",
-          1460336285
-        ],
-        [
-          "The Raven has landed in LA.\nSee your favorite #GameOfThrones cast members walk the carpet and answer your questions at #GoTPremiereLA.",
-          1460328986
-        ],
-        [
-          "#GoTPremiereLA is coming. \n\nRally the realm and tune in tonight at 5PM with Facebook Live on the #GameofThrones  Facebook page. \n(Photo: Instagram.com/gameofthrones) Timeline Photos",
-          1460310359
-        ],
-        [
-          "Send a raven.\nTune in to the #GoTPremiereLA tonight on the Game of Thrones Facebook Page with Facebook Live. Michiel Huisman #GOTPremiereLA",
-          1460302382
-        ],
-        [
-          "A raven is landing in Los Angeles.\n\nShare questions for your favorite Game of Thrones cast members for them to answer on the red carpet at the #GoTPremiereLA.\n\nPut the cast member name in front of your question and check back Sunday night, 4/10 to watch the red carpet on the #GoT Facebook page with \u0652Face\u0652book Live. Timeline Photos",
-          1460050380
-        ],
-        [
-          "Heart Eater. Crimson Death. Dark Sister. Which are Game of Thrones swords and which are 80\u2019s metal bands? \n\nSee which cast member has the right answers then enter to join them #GoTPremiereLA: http://bit.ly/Season6Premiere Game of Thrones Season 6: Swords or Metal Band",
-          1459369800
-        ],
-        [
-          "Before tomorrow's #GoTSeason5 premiere relive the most memorable moments from the #GoTPremiereSF Red Carpet.",
-          1428757202
-        ],
-        [
-          "See photos from the #GoTPremiereSF Red Carpet and After Party. Watch the live stream of the event here: http://itsh.bo/1HMxedE #GoTPremiereSF Red Carpet & After Party Photos",
-          1427392825
-        ],
-        [
-          "Missed #GoTPremiereSF? Here are 5 takeaways you need to know. \n\nWatch the full live stream here: http://itsh.bo/1y2VorL 5 Takeaways From the Red Carpet Premiere Find out what the cast was talking about in San Francisco.",
-          1427231050
-        ],
-        [
-          "The Dragon has landed in San Francisco. \n\nWatch the #GoTPremiereSF Facebook live stream to see your favorite cast members walk the red carpet and answer your questions. Game of Thrones Red Carpet Watch the #GoTPremiereSF Facebook Live stream to see your favorite cast members walk the red carpet and answer your questions.",
-          1427155201
-        ],
-        [
-          "The dragon has landed at #GoTPremiereSF. Watch live tonight at 6 PM PT on the GoT Facebook Page. Mobile Uploads",
-          1427149534
-        ],
-        [
-          "The dragon has landed in #SanFrancisco. \n\nTune in to the #GoTPremiereSF live stream tomorrow at 6PM PT on the #GoT Facebook Page. \n\n(Via Instagram.com/gameofthrones) Mobile Uploads",
-          1427058331
-        ],
-        [
-          "The dragon is landing in San Francisco.\n\nShare questions for Emilia Clarke, Peter Dinklage, Maisie Williams and more Game of Thrones cast members for them to answer on the red carpet as part of the #GoTPremiereSF.\n\nPlease put the cast member name in front of your question and check back next Monday, 3/23 at 6PM PT to watch the red carpet on the #GoT Facebook page. Timeline Photos",
-          1426860003
-        ],
-        [
-          "BREAKING: The #GoTSeason5 San Francisco red carpet premiere will stream live on Facebook on Monday, 3/23 at 6PM PT. \n\nRally the realm and spread the word. #GoTPremiereSF Timeline Photos",
-          1426800620
-        ],
-        [
-          "Natalie Dormer, Nikolaj Coster-Waldau and Rory McCann graced the red carpet of last night's Television Academy / Primetime Emmys HBO party.\n\nPhotos by FilmMagic Photos from Game of Thrones's post",
-          1409087401
-        ],
-        [
-          "Get a raven's eye view of scenes from the #GoTPremiereNYC Red Carpet. #GoTPremiereNYC Get a raven's eye view of scenes from the #GoTPremiereNYC Red Carpet.",
-          1395702901
-        ],
-        [
-          "The #GoTPremiereNYC Facebook Live red carpet stream starts now. \n \nWatch the Game of Thrones cast grace the red carpet and answer #GoTFan questions. Following the red carpet coverage, our ravens have a new, exclusive Season 4 trailer for you.  WATCH: Game of Thrones NYC Premiere Red Carpet Facebook Live Stream Tune in Tuesday, 3/18 at 6PM ET to watch the red carpet Facebook Live for the Game of Thrones Season 4 Premiere with Emilia Clarke, Peter Dinklage, Maisie Williams and more Game of Thrones cast members, and a new Season 4 trailer.",
-          1395176401
-        ],
-        [
-          "In one day, Westeros will be taking over your newsfeed. \n \nCheck back tomorrow at 6PM ET to watch the Facebook Live #GoTPremiereNYC Red Carpet stream and an exclusive Season 4 trailer. Timeline Photos",
-          1395099000
-        ],
-        [
-          "The Raven is landing in NYC.\n\nShare questions for Emilia Clarke, Peter Dinklage, Maisie Williams and more Game of Thrones cast members for them to answer on the Facebook Live red carpet as part of the #GoTPremiereNYC.\n\nPlease put the cast member name in front of your question and check back next Tuesday, 3/18 at 6PM ET/3PM PT to watch the red carpet Facebook Live and a new, exclusive Season 4 trailer. Timeline Photos",
-          1394729165
-        ],
-        [
-          "Maisie Williams graces the red carpet of the #GOTExhibit party at SXSW. \n\nFollow the HBO Instagram for more exclusive photos: http://instagram.com/hbo Timeline Photos",
-          1394249353
-        ],
-        [
-          "#GameofThrones cast members answered some lucky #GoTFans in #GoTForeshadowing. See if your questions were answered and watch #GoTForeshadowing in it's entirety here: http://itsh.bo/1bKrssv #GoTFan Questions Answered in #GoTForeshadowing",
-          1392061534
-        ]
-      ],
-      "dates_start": 1412806793,
-      "dates_end": 1475871639,
-      "likes_avg": 38757,
-      "likes_stdev": 41555,
-      "comments_avg": 3092,
-      "comments_stdev": 6665,
-      "shares_avg": 6347,
-      "shares_stdev": 16626
-    },
-    {
-      "number": 29,
-      "important": [
-        "seri creator",
-        "game throne season final",
-        "episod hbo",
-        "insid episod",
-        "final",
-        "season final",
-        "discuss",
-        "game throne season insid",
-        "creator",
-        "final game"
-      ],
-      "common": [
-        "episode",
-        "game",
-        "game thrones",
-        "game thrones season",
-        "game thrones season episode",
-        "hbo",
-        "season",
-        "season episode",
-        "thrones",
-        "thrones season"
-      ],
-      "messages": [
-        [
-          "The series creators discuss the build-up and pay-off of the Game of Thrones' Season 6 finale. Game of Thrones Season 6: Inside the Episode #10 (HBO)",
-          1467289800
-        ],
-        [
-          "\"There's something wrong.\"\nRelive this must-see moment from Sunday's Game of Thrones Season 6 finale. Game of Thrones Season 6: Episode #10 - Wildfire (HBO)",
-          1467059580
-        ],
-        [
-          "\"You're going to die tomorrow, Lord Bolton. Sleep well.\"\nRelive this chilling moment from \"Battle of the Bastards.\"\n(WARNING: CONTAINS SPOILERS) Game of Thrones Season 6: Episode #9 Clip - Battle of the Bast...",
-          1466863200
-        ],
-        [
-          "\"You're in the great game now.\"\nPreview this Sunday's season finale of Game of Thrones. Game of Thrones Season 6: Episode #10 Preview (HBO)",
-          1466625600
-        ],
-        [
-          "Prepare for tomorrow's all-new episode of Game of Thrones.\nWatch \"No One\" on HBO NOW: www.hbonow.com Game of Thrones Season 6: Episode 8 (HBO NOW)",
-          1466258580
-        ],
-        [
-          "\"Finally, a girl is no one.\"\nRelive this memorable moment from Sunday's episode of Game of Thrones.\n(WARNING: CONTAINS SPOILERS) Game of Thrones Season 6: Episode #8 Clip",
-          1465907313
-        ],
-        [
-          "Relive this unforgettable moment from \"The Broken Man.\"\n(WARNING: CONTAINS SPOILERS) Game of Thrones Season 6: Episode #7 Clip",
-          1465305300
-        ],
-        [
-          "DRACARYS!\nPrepare for Sunday. Watch \"Blood of My Blood\" on HBO NOW: www.hbonow.com Game of Thrones: Season 6 Episode 6 (HBO NOW)",
-          1464992100
-        ],
-        [
-          "\"I choose you all.\"\nRelive this moment from \"Blood of My Blood.\" Game of Thrones Season 6: Episode 6 Clip",
-          1464819840
-        ],
-        [
-          "\"Hold the door.\"\nRelive the unforgettable moment from Sunday's episode of Game of Thrones.\n(WARNING: CONTAINS SPOILERS) Game of Thrones Season 6: Episode #5 Clip \u2013 Hold The Door (HBO)",
-          1464094800
-        ],
-        [
-          "\"I am, so I will.\"\nPrepare for Sunday. Watch \"Book of the Stranger\" on HBO NOW: www.hbonow.com Game of Thrones Season 6: Episode #4 on HBO NOW",
-          1463785200
-        ],
-        [
-          "\"None of you are fit to lead the Dothraki. But I am.\" Game of Thrones Season 6: Episode #4",
-          1463750880
-        ],
-        [
-          "Tonight.  #GameofThrones Game of Thrones Season 6: Episode 4",
-          1463317320
-        ],
-        [
-          "\"Now that's a trial by combat I can't wait to see.\"\nRelive Game of Thrones Season 6 Episode 3 on HBO NOW: www.hbonow.com Game of Thrones Season 6: Episode 3 (HBO NOW)",
-          1462830300
-        ],
-        [
-          "Tonight. \n#GameofThrones Game of Thrones Season 6: Episode 3",
-          1462730008
-        ],
-        [
-          "Kit Harington discusses \"Home.\"\nRead the full Entertainment Weekly story: http://itsh.bo/1TuLI2T\n(WARNING: CONTAINS SPOILERS) 'Game of Thrones': Kit Harington Discusses \"Home.\" (WARNING: CONTAINS SPOILERS)",
-          1462485300
-        ],
-        [
-          "\"Next time I have an idea like that, punch me in the face.\"\nRelive this must-see moment from \"Home.\"\n(WARNING: CONTAINS SPOILERS) Game of Thrones Season 6: Episode #2 Clip - Tyrion and the Dra...",
-          1462452895
-        ],
-        [
-          "\u201cI\u2019m here to help. Don\u2019t eat the help.\u201d \nRelive Game of Thrones Season 6 Episode 2 on HBO NOW: www.hbonow.com Game of Thrones Season 6: Episode 2 (HBO NOW)",
-          1462401300
-        ],
-        [
-          "\"Queen of Nothing.\"\nRelive this must-see moment from the premiere episode of Game of Thrones Season 6.\n(WARNING: CONTAINS SPOILERS) Game of Thrones Season 6: Episode #1 Clip - Danenerys meets Kh...",
-          1461853140
-        ],
-        [
-          "\"I can't see.\"\nRelive the Game of Thrones Season 6 premiere on HBO NOW: www.hbonow.com Game of Thrones Season 6: Episode 1 (HBO NOW)",
-          1461603720
-        ],
-        [
-          "\"Do you remember the first time you saw a dead body?\"\n1 more day. Watch a clip from this Sunday's premiere of Game of Thrones. Game of Thrones Season 6: Episode #1 Clip \u201cCersei and Jamie\u201d (...",
-          1461426660
-        ],
-        [
-          "4 more days.\nWatch a clip from the Season 6 premiere of Game of Thrones airing Sunday on HBO. Game of Thrones Season 6: Episode #1 Clip \u201cSansa and Theon\u201d (HBO)",
-          1461163028
-        ],
-        [
-          "\"If I'm going to die let it happen while there's still some of me left.\"\n\nWatch a preview of tonight's season finale, \"Mother's Mercy.\"",
-          1434237960
-        ],
-        [
-          "\"There's something else to help you remember.\"\n\nRelive the unforgettable reunion.",
-          1431731221
-        ],
-        [
-          "\"No one.\"\n\nRelive the unforgettable moment from #TheHouseofBlackandWhite.",
-          1429740960
-        ],
-        [
-          "\"You have more friends than you thought.\" Relive this unforgettable moment from #TheChildren: http://itsh.bo/1qvJF4P Game of Thrones Season 4: Episode #10 Clip - Tyrion's \u007fEscape (HBO) Subscribe to the Game of Thrones YouTube: http://itsh.bo/10qIOan Don't miss this epic scene \u007ffrom the season 4 finale of Game of Thrones. Connect with Game o...",
-          1403284201
-        ],
-        [
-          "Still recovering from the season finale of Game of Thrones?\n\nStop by the HBO Pop Up Shop at The Linq, next to Sprinkles Cupcakes, to purchase official merchandise from the hit show this week only, June 19 - 21 from 2-10pm.  \n\n#HBOPopUpShop Timeline Photos",
-          1403267401
-        ],
-        [
-          "\"Are you a knight?\" Relive this unforgettable scene from #TheChildren: http://itsh.bo/1qvJlTG Game of Thrones Season 4: Episode #10 Clip - Arya Meets Brienne (HBO) Subscribe to the Game of Thrones YouTube: http://itsh.bo/10qIOan Don't miss this epic scene \u007ffrom the season 4 finale of Game of Thrones. Connect with Game o...",
-          1403191801
-        ],
-        [
-          "\"The dead can't hear us.\" Preview the #GoTSeason4 finale episode, #TheChildren.  Game of Thrones Season 4: Episode #10 Preview (HBO) Subscribe to the Game of Thrones YouTube: http://itsh.bo/10qIOan Don't miss the Season 4 finale of Game of Thrones this Sunday at 9PM, only on HBO. Connect w...",
-          1402693800
-        ],
-        [
-          "The Wildlings charge on the Wall. Relive this unforgettable moment from #TheWatchersOnTheWall. Game of Thrones Season 4: Episode #9 Clip - Wildlings March on the Wall (HBO) Subscribe to the Game of Thrones YouTube: http://itsh.bo/10qIOan Don't miss the Season 4 finale of Game of Thrones this Sunday at 9PM, only on HBO. Connect w...",
-          1402425001
-        ],
-        [
-          "\"I am Daenerys Stormborn.\" Relive an unforgettable moment from #BreakerofChains.\n\n(WARNING: Contains Spoilers)  Game of Thrones Season 4: Episode #3 Clip - Dany's Speech (HBO) Relive an unforgettable moment from #BreakerofChains.\n\n(WARNING: Contains Spoilers) ",
-          1398118200
-        ],
-        [
-          "The King can do as he likes. Watch King Joffrey's finest moments. #purplewedding \n\n(WARNING: Contains Spoilers) The Best of King Joffrey - CONTAINS SPOILERS (WARNING: Contains Spoilers) Watch King Joffrey's finest moments. ",
-          1397667900
-        ],
-        [
-          "Arya's list gets one name shorter. Relive the moment the realm can't stop talking about from #TwoSwords. \n\n(WARNING: Contains Spoilers.) Game of Thrones: Red Band Clip: Season 4: Episode 1: Contains Spoilers (HBO) This clip contains graphic content and language and has been approved for mature audiences only. Subscribe to the Game of Thrones YouTube: http://itsh.bo/10q...",
-          1396906500
-        ],
-        [
-          "Brace yourself. The Game of Thrones Season 3 finale airs tonight at 9PM on HBO. Click \u201cLIKE\u201d if you\u2019ll be watching. Timeline Photos",
-          1370787000
-        ],
-        [
-          "\"The Northerners will never forget.\" Watch a preview of the Game of Thrones Season 3 finale. WATCH: Game Of Thrones Season 3: Episode #10 Preview Watch a preview of the Game of Thrones\ufeff Season 3 finale. ",
-          1370614200
-        ],
-        [
-          "The Game of Thrones Season 2 finale starts right now on HBO. \"LIKE\" this update if you're watching. Timeline Photos",
-          1338764539
-        ],
-        [
-          "Only 1 episode left. What are you excited to see in tonight's Season 2 finale? Timeline Photos",
-          1338730972
-        ]
-      ],
-      "dates_start": 1397499976,
-      "dates_end": 1474455565,
-      "likes_avg": 57217,
-      "likes_stdev": 49367,
-      "comments_avg": 2973,
-      "comments_stdev": 3557,
-      "shares_avg": 6203,
-      "shares_stdev": 7275
-    },
-    {
-      "number": 30,
-      "important": [
-        "rememb",
-        "doe",
         "cast",
+        "year",
+        "sdcc",
+        "away",
+        "doe",
         "chat",
         "jump",
+        "rememb",
         "share",
-        "sdcc",
-        "death",
-        "year",
-        "away"
+        "death"
       ],
       "common": [
         "comic",
@@ -3658,709 +2416,311 @@
       "shares_stdev": 7881
     },
     {
-      "number": 31,
+      "number": 21,
       "important": [
-        "cast",
-        "crew",
-        "headey",
-        "rais",
-        "game throne",
-        "game",
-        "glass",
-        "lena",
-        "cast crew",
-        "nomin"
+        "game throne season final",
+        "seri creator",
+        "season final",
+        "episod hbo",
+        "discuss",
+        "final",
+        "insid episod",
+        "final game",
+        "game throne season insid",
+        "creator"
       ],
       "common": [
-        "emmys",
-        "game",
-        "game thrones",
-        "george",
-        "george martin",
-        "hbo",
-        "lena",
-        "martin",
-        "peter",
-        "thrones"
-      ],
-      "messages": [
-        [
-          "Raise a glass.\nCongratulations to the cast and crew of Game of Thrones and Lena Headey on their Golden Globes nominations. gph.is",
-          1481550073
-        ],
-        [
-          "\"Fight for the Good.\"\nLena Headey of Game of Thrones on her work with migrants. (via TIME) 'Fight for the Good.' Lena Headey of Game of Thrones on Her Work With Migrants The actress has released a video and picture series for Human Rights Day",
-          1481478330
-        ],
-        [
-          "We are saddened by the passing of Game of Thrones actor Peter Vaughan.\n(via BBC News) Peter Vaughan: Thrones and Porridge star dies at 93 - BBC News British actor Peter Vaughan, best known for roles in Game of Thrones and Porridge, dies aged 93.",
-          1481048022
-        ],
-        [
-          "History was made.\nRead more about Game of Thrones' big #Emmys wins. Game of Thrones\u2019 Triumphs at 2016 Emmys History was made this year when GoT's 12 wins brought the series' Emmy total to 38 overall. Get all the details after the jump.",
-          1474324380
-        ],
-        [
-          "DRACARYS!\nCongratulations to the cast & crew of Game of Thrones on their 2016 #Emmys wins. gph.is",
-          1474247101
-        ],
-        [
-          "Lena Headey has a message to the realm about the refugee crisis.\nDonate today and support the cause: http://itsh.bo/2bhYp6m Lena Headey's Message to You About the Refugee Crisis Lena Headey, Maisie Williams and Liam Cunningham visited the International Rescue Committee refugee camps. Click here to read Lena's letter and watch a video of the actors' reflecting on their trip.",
-          1472562875
-        ],
-        [
-          "Lena Headey, Liam Cunningham and Maisie Williams share the stories of some of the refugees they met while visiting Greece with the International Rescue Committee. \nDonate today: http://itsh.bo/2bhYp6m. International Rescue Committee & Game of Thrones (HBO)",
-          1471359183
-        ],
-        [
-          "\"Lena Headey on Her Life-Changing Journey to Greece, and the Heartbreak That Awaited Her There.\" Read her full story.\n(via Marie Claire) Lena Headey on Her Life-Changing Journey to Greece, and the Heartbreak That Awaited Her There The 'Game of Thrones' star writes a powerful essay about the refugees who so desperately need help.",
-          1469473980
-        ],
-        [
-          "23 #Emmys nominations.\nThe most of any drama series this year: http://itsh.bo/2a16ihc\n#GameofThrones gph.is",
-          1468507141
-        ],
-        [
-          "Maisie Williams Lena Headey & Liam Cunningham are headed on a field trip with the International Rescue Committee. \n\nFollow along at www.twitter.com/GameofThrones Game of Thrones: IRC Trip",
-          1467205200
-        ],
-        [
-          "Applause in the realm. \nCongratulations to the cast & crew of #GameofThrones on their Best Drama TV Series #GoldenGlobes nomination. giphy.com",
-          1449752952
-        ],
-        [
-          "Game of Thrones broke an Emmy record. Get the details on the big night. GoT Makes Emmy History With 12 Wins Not only was GoT the year\u2019s most honored program, it broke the record for the most Emmys in by one series in a single year. Read up on the series' wins. ",
-          1442872801
-        ],
-        [
-          "Congratulations to the cast & crew of Game of Thrones on their record breaking 12 #Emmys wins. Game of Thrones: 2015 Emmys",
-          1442799433
-        ],
-        [
-          "*CLINK*\n\nRaise a glass & congratulate Game of Thrones, Peter Dinklage, Lena Headey & Emilia Clarke on their 2015 #Emmys nominations.",
-          1437055344
-        ],
-        [
-          "Watch George R.R. Martin discuss Arya's service with The Faceless Man: http://itsh.bo/1FrMXgE",
-          1430484900
-        ],
-        [
-          "DRACARYS.  \n\nCongratulations to the cast and crew of Game of Thrones on their Golden Globes nomination for Best Television Series. Timeline Photos",
-          1418311263
-        ],
-        [
-          "*CLINK*\n\nRaise a glass & congratulate Game of Thrones, Peter Dinklage, Diana Rigg & Lena Headey on their 2014 Emmy nominations. Timeline Photos",
-          1404991858
-        ],
-        [
-          "George R.R. Martin explains what brings Stannis north of the Wall: http://itsh.bo/1qvLuyU Timeline Photos",
-          1404072900
-        ],
-        [
-          "George R.R. Martin has raised over $420,000 so far to help save wolves in need in New Mexico. \n\nHelp support the cause and you can win a trip to spend a day with him at the Wild Spirit Wolf Sanctuary: www.prizeo.com/grrm Timeline Photos",
-          1403811000
-        ],
-        [
-          "George R.R. Martin examines the different ways to defend the Wall: http://itsh.bo/1l0iOFW Timeline Photos",
-          1402593001
-        ],
-        [
-          "Rally the realm.\n\nSupport Game of Thrones creator George R.R. Martin by helping a great cause and you could win a trip to join him for a helicopter ride to a wolf sanctuary. Go to www.prizeo.com/grrm to enter. Win A Wolf Sanctuary Tour and Helicopter Ride with George R.R. Martin Go to http://www.prizeo.com/grrm for your chance!",
-          1401976800
-        ],
-        [
-          "\"Sun, moon and stars\" reunited at the  #HBOEmmyNight Primetime Emmys after party. Timeline Photos",
-          1380119401
-        ],
-        [
-          "Peter Dinklage poses at the #HBOEmmyNight Primetime Emmys after party. Timeline Photos",
-          1379938201
-        ],
-        [
-          "TONIGHT AT 7:30 PT/10:30 ET: Watch an \"Evening with Game of Thrones,\" a live discussion with David Benioff, D.B. Weiss, George R.R. Martin, Peter Dinklage and more of the cast/producers of the show. WEBCAST LINK: http://itsh.bo/WD30CU\r\n\r\nTweet your questions @PrimetimeEmmys and you may get answered on the webcast. (via: Primetime Emmys) Timeline Photos",
-          1363717200
-        ],
-        [
-          "George R.R. Martin recorded his oath. Have you? TAKE THE BLACK: http://itsh.bo/14SxXUw George R.R. Martin Takes the Night's Watch Oath The Game of Thrones Season 2 DVD/Blu-ray will be available for purchase on 2/19. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones onli...",
-          1360774187
-        ],
-        [
-          "\"Everyone knew this was the episode that was going to make or break the season.\" - David Benioff\r\n\r\n\u2018Blackwater\u2019 is GQ\u2019s best episode of television for 2012. George R.R. Martin, David Benioff and Dan Weiss tell the publication how the epic battle came together: http://itsh.bo/11cdh9g Timeline Photos",
-          1354555202
-        ],
-        [
-          "Game of Thrones writer George R. R. Martin Game of Thrones Stars at the HBO Emmys Party",
-          1348486460
-        ],
-        [
-          "Family Guy creator Seth MacFarlane with Game of Thrones' Emilia Clarke Game of Thrones Stars at the HBO Emmys Party",
-          1348486460
-        ],
-        [
-          "HBO gents Peter Dinklage and Adam Driver from Game of Thrones and Girls Game of Thrones Stars at the HBO Emmys Party",
-          1348486460
-        ],
-        [
-          "Westeros meets Brooklyn at the HBO Emmys Party. (CC: Lena Dunham, Girls) Game of Thrones Stars at the HBO Emmys Party",
-          1348486460
-        ],
-        [
-          "\"I am wearing a very Game of Thrones-esque dress tonight!\" - Esme Bianco, \"Ros\" Game of Thrones Stars at the HBO Emmys Party",
-          1348486460
-        ],
-        [
-          "Steve Buscemi, Michelle Fairley, Peter Dinklange, and Lena Headey chat at the HBO party. Game of Thrones Stars at the HBO Emmys Party",
-          1348486460
-        ],
-        [
-          "Pour yourself a glass of Dornish wine. Game of Thrones was nominated for Best Drama Series and Peter Dinklage was nominated for Best Supporting Actor for the second year in a row in the Primetime Emmys. \r\n\r\nThank you to the realm for your support \u2013 Season 3 premieres March  31, 2013 on HBO. Timeline Photos",
-          1342696824
-        ],
-        [
-          "George R.R. Marin discusses \"Blackwater,\" Tyrion's dire situation and his next book. READ INTERVIEW: http://itsh.bo/MzP3uO Photos",
-          1339514400
-        ],
-        [
-          "\"Disruptor Beam is launching Game of Thrones Ascent on Facebook, which is based on both the HBO TV series and George R.R. Martin\u2019s novels.\" (via: The Hollywood Reporter)  'Game of Thrones' Fans Get Facebook Social Game Gamers are about to get yet another way to experience bestselling author George R.R. Martin\u2019s fantasy series, A Song of Ice and Fire. ",
-          1337782389
-        ],
-        [
-          "Peter Dinklage will be on the cover of the May issue of  Rolling Stone.  You can pick it up at newsstands starting this Friday, 5/11. Timeline Photos",
-          1336574958
-        ],
-        [
-          "\"HBO, Bigpoint To Develop Game of Thrones Online Game\" (via: The Hollywood Reporter) REGISTER FOR THE LATEST NEWS: http://itsh.bo/yOrxP5 HBO, Bigpoint To Develop 'Game of Thrones' Online Game As with Battlestar Galactica, the Game of Thrones online game will be free-to-play. The game will be set in the series' fictional medieval world of Westeros and feature plotlines inspired by the show and George R.R. Martin's original A Song of Ice and Fire book series.",
-          1331319396
-        ],
-        [
-          "\"Reviewing the Game of Thrones Blu-ray\" (via: Westeros) Game of Thrones: News - Reviewing the Game of Thrones Blu-ray Game of Thrones is a site for the HBO-series based on George R.R. Martin's A Song of Ice and Fire. The second season premiers April 1st 2012!",
-          1329506548
-        ],
-        [
-          "\"Game of Thrones: You Win or You Die Season 2 Trailer Hits (Video)\" (via: The Hollywood Reporter) WATCH: 'Game of Thrones': 'You Win or You Die' Season 2 Trailer Hits (Video) HBO is building up the anticipation for the April 1 premiere of Game of Thrones' sophomore season. On Sunday, ahead of the series premiere of its David Milch horseracing drama Luck, HBO unspooled the first full-length trailer for season two of the George R.R. Martin fantasy drama.",
-          1327943776
-        ],
-        [
-          "\"Lena Headey Teases Loss For Cersei In 'Game Of Thrones' Season Two\" (via: MTV) WATCH: Lena Headey Talks Cersei's Upcoming Arc In 'Game Of Thrones' | News Video | MTV \"She loses her mind slowly,\" Headey says.",
-          1327438428
-        ],
-        [
-          "\"Tyrion's always been my favorite character and certainly Peter Dinklage has done an extraordinary job of bringing Tyrion to life.\" - George R.R. Martin at the Golden Globes WATCH: The Buzz: Golden Globe Winners The Buzz celebrates the HBO winners of the 69th annual Golden Globe awards at the HBO party in Beverly Hills. Connect with HBO on Facebook & Twitter http://w...",
-          1327436134
-        ],
-        [
-          "\u201cPeter Dinklage on Game of Thrones\u201d (via: Hollyscoop.com)  WATCH: Peter Dinklage On Game Of Thrones Peter Dinklage talks to Hollyscoop about his role in HBO series Game Of Thrones.",
-          1327092050
-        ],
-        [
-          "Pour yourself a glass of Arbor Gold, Peter Dinklage won Best Supporting Actor for Game of Thrones in the Golden Globes. Timeline Photos",
-          1326676257
-        ],
-        [
-          "Watching the Golden Globes tonight? Game of Thrones is nominated for \"Best TV Drama\" and Peter Dinklage is nominated for \"Best Supporting Actor.\"  MORE: 2012 Golden Globe Nominees Check out all the nominees for television and movie Golden Globes for 2012, including multiple nods for Kate Winslet, The Help, George Clooney, Homeland, 30 Rock, The Artist and more.",
-          1326634592
-        ]
-      ],
-      "dates_start": 1336586589,
-      "dates_end": 1449373284,
-      "likes_avg": 48828,
-      "likes_stdev": 63511,
-      "comments_avg": 1328,
-      "comments_stdev": 2306,
-      "shares_avg": 3626,
-      "shares_stdev": 6306
-    },
-    {
-      "number": 32,
-      "important": [
-        "danger",
-        "preview next",
-        "game throne game throne season",
-        "game throne game",
-        "khaleesi",
-        "episod season",
-        "preview",
-        "catch new",
-        "game throne game throne",
-        "throne game throne"
-      ],
-      "common": [
+        "episode",
         "game",
         "game thrones",
         "game thrones season",
-        "go",
-        "http",
+        "preview",
         "season",
+        "season episode",
         "thrones",
-        "watch",
-        "watch game",
-        "watch game thrones"
+        "thrones season",
+        "thrones season episode"
       ],
       "messages": [
         [
-          "\"He's a dangerous man Khaleesi. They all are.\" Watch a preview of the next Game of Thrones. Game Of Thrones Season 3: Episode #8 Preview Catch new episodes of season 3 on Sunday night's at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones online at HBO GO\u00ae ht...",
-          1368825600
+          "The series creators discuss the build-up and pay-off of the Game of Thrones' Season 6 finale. Game of Thrones Season 6: Inside the Episode #10 (HBO)",
+          1467289800
         ],
         [
-          "5 Days. Game Of Thrones Season 3: War Preview Don't miss the season 3 premiere on March 31st, 2013. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones online at HBO GO\u00ae http:...",
-          1364339400
+          "\"There's something wrong.\"\nRelive this must-see moment from Sunday's Game of Thrones Season 6 finale. Game of Thrones Season 6: Episode #10 - Wildfire (HBO)",
+          1467059580
         ],
         [
-          "One week. Game Of Thrones Season 3: Enemies Preview Don't miss the season 3 premiere on March 31st, 2013. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. ",
-          1364149200
+          "\"You're going to die tomorrow, Lord Bolton. Sleep well.\"\nRelive this chilling moment from \"Battle of the Bastards.\"\n(WARNING: CONTAINS SPOILERS) Game of Thrones Season 6: Episode #9 Clip - Battle of the Bast...",
+          1466863200
         ],
         [
-          "Go beyond the wall and experience the intensity of Iceland with a new behind the scenes look at Season 3. http://itsh.bo/WAQySC WATCH: Making Of Game Of Thrones Season 3: Vlog #3 - Intensity Of Iceland Go beyond the Wall as the cast and crew of Game of Thrones films in Iceland. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones ...",
-          1359653345
+          "\"You're in the great game now.\"\nPreview this Sunday's season finale of Game of Thrones. Game of Thrones Season 6: Episode #10 Preview (HBO)",
+          1466625600
         ],
         [
-          "Game of Thrones Season 3 is only 70 days away. Your new invitation to the set awaits. Game Of Thrones Season 3: Invitation To The Set Don't miss the season 3 premiere on March 31st, 2013. Don't miss the season 3 premiere on March 31st, 2013. For more on Game of Thrones, go to http://itsh.bo...",
-          1358640416
+          "Prepare for tomorrow's all-new episode of Game of Thrones.\nWatch \"No One\" on HBO NOW: www.hbonow.com Game of Thrones Season 6: Episode 8 (HBO NOW)",
+          1466258580
         ],
         [
-          "Game of Thrones Executive Story Editor/Writer Bryan Cogman gives a glimpse into making Season 3 and discusses molding the book into the series. http://itsh.bo/10cPIyz WATCH: Making Of Game Of Thrones Season 3: Vlog #2 - Molding The Book Into A Series Don't miss the season 3 premiere on March 31st, 2013. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones online at HBO GO\u00ae http:...",
-          1358362896
+          "\"Finally, a girl is no one.\"\nRelive this memorable moment from Sunday's episode of Game of Thrones.\n(WARNING: CONTAINS SPOILERS) Game of Thrones Season 6: Episode #8 Clip",
+          1465907313
         ],
         [
-          "Their world returns to ours.  Watch a new Season 3 tease featuring \"The Rains of Castamere\" by The National. \n\nShare this update and spread the three-eyed raven across the realm. WATCH: Game Of Thrones Season 3: Three-Eyed Raven Tease Season 3 premieres on Sunday, March 31st at 9PM, only on HBO.",
-          1357921866
+          "2 episodes left.\nPreview this Sunday's episode of Game of Thrones, \"Battle of the Bastards.\" Game of Thrones Season 6: Episode #9 Preview (HBO)",
+          1465844400
         ],
         [
-          "\"The only way Dany can take back the 7 Kingdoms is to conquer them.\" Get an inside look at the Season 2 finale.  WATCH: Game Of Thrones Season 2: Inside The Episode #20 Take a look inside the season 2 finale of \"Game Of Thrones.\" For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones online at HBO GO...",
-          1338827295
+          "Tonight. #GameofThrones Game of Thrones Season 6: Episode 8 Preview",
+          1465734600
         ],
         [
-          "Valar Morghulis. The Game of Thrones Season 2 finale airs tonight at 9PM on HBO. WATCH: Game Of Thrones: Season 2 Finale Preview Don't miss the season finale on Sunday night at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones online at HBO GO\u00ae http:/...",
-          1338738228
+          "\"I choose violence.\"\nPreview tomorrow's new episode of Game of Thrones. Game of Thrones: Episode 8 Preview",
+          1465652940
         ],
         [
-          "Only 1 episode left. Watch a preview of the Game of Thrones Season 2 finale.  WATCH: Game Of Thrones: Season 2 Finale Preview Don't miss the season finale on Sunday night at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones online at HBO GO\u00ae http:/...",
-          1338561230
+          "Relive this unforgettable moment from \"The Broken Man.\"\n(WARNING: CONTAINS SPOILERS) Game of Thrones Season 6: Episode #7 Clip",
+          1465305300
         ],
         [
-          "\"I've taken Winterfell and will keep Winterfell.\" Catch-up on the story so far.  WATCH: Game Of Thrones Season 2: The Story So Far (Episodes 17-19) Catch up on episodes 17-19 of season 2. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones online at HBO GO\u00ae http://itsh.bo/eIDx...",
-          1338477436
+          "\"I did what I had to do to survive. I will always be a Stark.\"\nPreview tomorrow's new episode of Game of Thrones. Game of Thrones Season 6: Episode 7 Preview",
+          1465046280
         ],
         [
-          "\"Where are my dragons!\" Get a recap of the first 6 episodes of Season 2.  WATCH: Game Of Thrones Season 2: The Story So Far (Episodes 11-16) Catch up on the first 6 episodes of season 2. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones online at HBO GO\u00ae http://itsh.b...",
-          1336502218
+          "DRACARYS!\nPrepare for Sunday. Watch \"Blood of My Blood\" on HBO NOW: www.hbonow.com Game of Thrones: Season 6 Episode 6 (HBO NOW)",
+          1464992100
         ],
         [
-          "\"It shows Theon what it means to be a Greyjoy for the first time.\" Get an inside look at Theon's baptism.  WATCH: Game Of Thrones Season 2: Anatomy Of A Scene - Theon Being Baptized Catch new episodes of season 2 on Sunday night's at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones online at HBO GO\u00ae ht...",
-          1336237120
+          "\"I choose you all.\"\nRelive this moment from \"Blood of My Blood.\" Game of Thrones Season 6: Episode 6 Clip",
+          1464819840
         ],
         [
-          "\"He has a talent for this...\" Go inside the scene where Tyrion declares he is Hand of the King.  WATCH: Game Of Thrones Season 2: Anatomy Of A Scene: Tyrion Delcaring He Is Hand Of King Catch new episodes of season 2 on Sunday night's at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones online at HBO GO\u00ae ht...",
-          1335012296
+          "\"Show them what we do to our enemies.\"\nPreview tomorrow's new episode of Game of Thrones. Game of Thrones Season 6: Episode #6 Preview (HBO)",
+          1464440460
         ],
         [
-          "\"There is only one God, and his name is death.\" Get an inside look at the religions of Westeros with George R.R. Martin.  WATCH: Game Of Thrones Season 2: Religions Of Westeros Catch new episodes of season 2 on Sunday night's at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones online at HBO GO\u00ae ht...",
-          1334856369
+          "\"Hold the door.\"\nRelive the unforgettable moment from Sunday's episode of Game of Thrones.\n(WARNING: CONTAINS SPOILERS) Game of Thrones Season 6: Episode #5 Clip \u2013 Hold The Door (HBO)",
+          1464094800
         ],
         [
-          "\"For the night is dark and full of terrors.\" Go inside the Burning of the 7 Gods scene from \"The North Remembers.\"  WATCH: Game Of Thrones Season 2: Burning Of The 7 Gods Catch new episodes of season 2 on Sunday night's at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones online at HBO GO\u00ae ht...",
-          1334602401
+          "\"There's still so much you don't know.\"\nPreview the next episode of Game of Thrones airing tomorrow at 9PM. Game of Thrones Season 6: Episode #5 Preview",
+          1463839200
         ],
         [
-          "\"Tyrion wants everyone to know he knows how the game is played.\" Get an inside look at last night's episode, \"What is Dead May Never Die.\" WATCH: Game Of Thrones Season 2: Inside The Episode #13 Take a look inside Episode #13 of \"Game Of Thrones.\" For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones online at HBO GO\u00ae http:/...",
-          1334588787
+          "\"I am, so I will.\"\nPrepare for Sunday. Watch \"Book of the Stranger\" on HBO NOW: www.hbonow.com Game of Thrones Season 6: Episode #4 on HBO NOW",
+          1463785200
         ],
         [
-          "\"They are the knights of summer and winter is coming.\" Watch a preview and catch a new episode this Sunday at 9PM on HBO. WATCH: Game Of Thrones Season 2: Episode #13 Preview Tune in to the new season of \"Game Of Thrones\" on Sunday night's at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones onli...",
-          1334321618
+          "\"None of you are fit to lead the Dothraki. But I am.\" Game of Thrones Season 6: Episode #4",
+          1463750880
         ],
         [
-          "\"My father has ships and men who know how to sail them.\" Delve into Theon Greyjoy's character.  WATCH: Game of Thrones Season 2: Character Featurette - Theon Greyjoy Go behind the scenes with Theon Greyjoy. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones online at HBO GO\u00ae http://itsh.bo/eID...",
-          1334077226
+          "Tonight.  #GameofThrones Game of Thrones Season 6: Episode 4",
+          1463317320
         ],
         [
-          "\"That's how Littlefinger does things...\" Executive Producers Dan Weiss and David Benioff go inside last night's episode.  WATCH: Game Of Thrones Season 2: Inside The Episode #12 Take a look inside Episode #12 of \"Game Of Thrones.\" For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones online at HBO GO\u00ae http:/...",
-          1333988895
+          "\"Sansa has escaped Winterfell.\"\nPreview the next episode of Game of Thrones airing tomorrow at 9PM. Game of Thrones Season 6: Episode 4 Preview",
+          1463234400
         ],
         [
-          "\"...A thrilling return to brilliance\" See what the critics are saying about Game of Thrones Season 2.  WATCH: Game Of Thrones Season 2: Critics Spot Tune in to new episodes of season 2 on Sunday night's at 9PM. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game of Thrones online at HBO G...",
-          1333484902
+          "\"Now that's a trial by combat I can't wait to see.\"\nRelive Game of Thrones Season 6 Episode 3 on HBO NOW: www.hbonow.com Game of Thrones Season 6: Episode 3 (HBO NOW)",
+          1462830300
         ],
         [
-          "\"Do you understand we're losing the war?\" Get a recap of the Season 2 premiere.   WATCH: Game Of Thrones Season 2: Recap #11 Take a look at a recap of the season 2 premiere of \"Game Of Thrones.\" For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game of Thrones online ...",
-          1333458066
+          "Tonight. \n#GameofThrones Game of Thrones Season 6: Episode 3",
+          1462730008
         ],
         [
-          "\"Robb is impressing and surprising everyone.\" Get an inside look at last night's Season 2 premiere.  WATCH: Game Of Thrones Season 2: Inside The Episode #11 Go inside the season 2 premiere of \"Game Of Thrones.\" For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game of Thrones online at HBO GO\u00ae http:...",
-          1333384604
+          "\"And now it begins.\"\nPreview the next episode of Game of Thrones airing tomorrow at 9PM. Game of Thrones Season 6: Episode 3 Preview",
+          1462631400
         ],
         [
-          "\"This war you started is coming to our doorstep.\" Get a preview of what's to come in Season 2.  WATCH: Game Of Thrones Season 2: Weeks Ahead Trailer Take a look at what's coming in the weeks ahead of season 2. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game of Thrones online at HBO GO...",
-          1333324841
+          "Kit Harington discusses \"Home.\"\nRead the full Entertainment Weekly story: http://itsh.bo/1TuLI2T\n(WARNING: CONTAINS SPOILERS) 'Game of Thrones': Kit Harington Discusses \"Home.\" (WARNING: CONTAINS SPOILERS)",
+          1462485300
         ],
         [
-          "\"I will take what is mine with fire and blood!\" We're less than an hour away from the premiere of Game of Thrones Season 2.  Share this update and spread the word across the realm. WATCH: Game Of Thrones Season 2: \"Shadow\" Tease Don't miss the new season of \"Game Of Thrones,\" premiering on April 1st, 2012. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game of Throne...",
-          1333318933
+          "\"Next time I have an idea like that, punch me in the face.\"\nRelive this must-see moment from \"Home.\"\n(WARNING: CONTAINS SPOILERS) Game of Thrones Season 6: Episode #2 Clip - Tyrion and the Dra...",
+          1462452895
         ],
         [
-          "\"The world just expanded enormously.\" Take a look at the new destinations in Season 2.  WATCH: Destinations Of Season 2 Take a look at the new destinations in Season 2 of Game of Thrones. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game of Thrones online at...",
-          1333305534
+          "\u201cI\u2019m here to help. Don\u2019t eat the help.\u201d \nRelive Game of Thrones Season 6 Episode 2 on HBO NOW: www.hbonow.com Game of Thrones Season 6: Episode 2 (HBO NOW)",
+          1462401300
         ],
         [
-          "Like this if you\u2019re ready for tonight\u2019s Season 2 premiere at 9 on HBO. Game Of Thrones Season 2: \"Seven Devils\" Catch the season 2 premiere of \"Game Of Thrones\" on Sunday, April 1st. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game of Thrones online...",
-          1333245600
+          "Tonight.\nThe next episode of Game of Thrones starts tonight at 9. Game of Thrones Season 6: Episode 2 Preview",
+          1462112820
         ],
         [
-          "The war of 5 kings. Season 2 premieres Tomorrow, 9PM. Share this update & spread the word. Game Of Thrones Season 2: \"Seven Devils\" Catch the season 2 premiere of \"Game Of Thrones\" on Sunday, April 1st. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game of Thrones online...",
-          1333159200
+          "\"Get out of my way.\"\nPreview next episode of Game of Thrones airing tomorrow at 9PM. Game of Thrones Season 6: Episode 2 Preview (HBO)",
+          1462030500
         ],
         [
-          "This April, prepare for a new season. Game of Thrones returns to HBO on 4/1. MLB Opening Day is 4/4. (CC: MLB FanCave)  Game Of Thrones Season 2: The Game Returns This April This April, prepare for a new season. Game of Thrones returns to HBO on April 1st. MLB Opening Day is April 4th. For more on Game of Thrones, go to http://it...",
-          1333123366
+          "\"Queen of Nothing.\"\nRelive this must-see moment from the premiere episode of Game of Thrones Season 6.\n(WARNING: CONTAINS SPOILERS) Game of Thrones Season 6: Episode #1 Clip - Danenerys meets Kh...",
+          1461853140
         ],
         [
-          "\"This woman will lead him into a war he cannot win.\" Meet the new characters in Game of Thrones Season 2.  WATCH: Game Of Thrones: New Characters of Season 2 Take a look at the new faces of Game of Thrones Season 2. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game of Thrones online at HBO GO\u00ae h...",
-          1333031407
+          "\"I can't see.\"\nRelive the Game of Thrones Season 6 premiere on HBO NOW: www.hbonow.com Game of Thrones Season 6: Episode 1 (HBO NOW)",
+          1461603720
         ],
         [
-          "\"I will hurt you for this. And your joy will turn to ashes.\" Game of Thrones returns in one week on 4/1.   WATCH: Game Of Thrones Season 2: Nowhere To Hide Promo Catch the season 2 premiere on Sunday, April 1st. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game of Thrones online at HBO GO\u00ae http://it...",
-          1332716090
+          "\"Do you remember the first time you saw a dead body?\"\n1 more day. Watch a clip from this Sunday's premiere of Game of Thrones. Game of Thrones Season 6: Episode #1 Clip \u201cCersei and Jamie\u201d (...",
+          1461426660
         ],
         [
-          "\"The Iron Throne is mine, by right.\" Meet Stannis Baratheon.  WATCH: Game of Thrones Season 2: Character Featurette - Stannis Baratheon Go behind the scenes with Stannis Baratheon. Catch the season 2 premiere on Sunday, April 1st. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watc...",
-          1332422397
+          "4 more days.\nWatch a clip from the Season 6 premiere of Game of Thrones airing Sunday on HBO. Game of Thrones Season 6: Episode #1 Clip \u201cSansa and Theon\u201d (HBO)",
+          1461163028
         ],
         [
-          "\"No one can survive in this world without help.\" Watch the latest Game of Thrones trailer here.  WATCH: Game of Thrones Season 2: \"Price For Our Sins\" Trailer Catch the season 2 premiere on Sunday, April 1st. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game of Thrones online at HBO GO\u00ae http://it...",
-          1332275326
+          "\"If I'm going to die let it happen while there's still some of me left.\"\n\nWatch a preview of tonight's season finale, \"Mother's Mercy.\"",
+          1434237960
         ],
         [
-          "\"I offer the Lannisters peace if they meet my terms.\" Meet the King of the North. WATCH: Game of Thrones Season 2: Character Feature - Robb Stark Go behind the scenes with Robb Stark. Catch the season 2 premiere on Sunday, April 1st.",
-          1332175749
+          "Two more episodes.\n\nWatch a preview of tomorrow's new episode, \"The Dance of Dragons.\"",
+          1433597640
         ],
         [
-          "\"I will see the Lannisters answer for your husband\u2019s murder.\" Meet Renly Baratheon. WATCH: Game Of Thrones Season 2: Character Featurette - Renly Baratheon Go behind the scenes with Renly Baratheon. Catch the season 2 premiere on Sunday, April 1st. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch ...",
-          1331825293
+          "\"Why should the people trust a queen who can't keep her promises?\"\n\nWatch a preview of tomorrow's new episode, \"Hardhome.\"",
+          1432993261
         ],
         [
-          "\"Killing you would send your brother a message.\" Delve into King Joffrey's character.  WATCH: Game Of Thrones Season 2: Character Featurette - Joffrey Baratheon Go behind the scenes with Joffrey Baratheon. Catch the season 2 premiere on Sunday, April 1st. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watc...",
-          1331651171
+          "\"We march to victory or we march to defeat, but we go forward.\"\n\nWatch a preview of tomorrow's new episode, \"The Gift.\"",
+          1432385281
         ],
         [
-          "\"I'm not your little princess.\" Game of Thrones Season 2 premieres April 1st at 9PM, only on HBO. WATCH: Game Of Thrones Season 2: The More You Love Trailer Catch the season 2 premiere on Sunday, April 1st. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game of Thrones online at HBO GO\u00ae http://it...",
-          1331574433
+          "\"Is a girl ready?\"\n\nWatch a preview of tomorrow's new episode, \"Unbowed, Unbent, Unbroken.\"",
+          1431781500
         ],
         [
-          "\"No one will take my dragons.\" Go inside the Khaleesi's struggle.  WATCH: Game Of Thrones Season 1: Character Featurette - Daenerys Targaryen Go behind the scenes with Daenerys Targaryen. Catch the season 2 premiere on Sunday, April 1st. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Wat...",
-          1331564457
+          "\"There's something else to help you remember.\"\n\nRelive the unforgettable reunion.",
+          1431731221
         ],
         [
-          "\"Anyone can be killed.\" Watch the latest Game of Thrones Season 2 trailer right here. (CC: Florence and the Machine)  WATCH: Game Of Thrones Season 2: \"Seven Devils\" Catch the season 2 premiere of \"Game Of Thrones\" on Sunday, April 1st. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game of Thrones online...",
-          1330909674
+          "\"Winter is coming. We know what's coming with it.\"\n\nWatch a preview of tomorrow's new episode, \"Kill The Boy.\"",
+          1431205203
         ],
         [
-          "\"Nothing matters but how it ends.\" Watch the new Game of Thrones Season 2 trailer right here.  WATCH: Game Of Thrones Season 2: \"Power And Grace\" Trailer Catch the season 2 premiere on Sunday, April 1st. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game of Thrones online at HBO GO\u00ae http://it...",
-          1330305062
+          "\"All men must die, but not all can die in glory.\"\n\nWatch a preview of tomorrow's new episode, \"Sons of the Harpy.\"",
+          1430572020
         ],
         [
-          "\"It's so lovely to be back for Season 2.\"  Go on set with the cast and crew of Game of Thrones. WATCH: Game Of Thrones Season 2: Invitation To The Set Go on set with the cast and crew of Game Of Thrones. The new season premieres on Sunday, April 1st. For more on Game of Thrones, go to http://itsh.bo/gHfJPE....",
-          1329786362
+          "\"Avenge them.\"\n\nWatch a preview for tomorrow's episode of #GoTSeason5, \"High Sparrow.\"",
+          1429968541
         ],
         [
-          "\"They love the series & want to be here.\" Take a glimpse into working as an extra on the set of Game of Thrones.  WATCH: Making Of Game Of Thrones: Season 2 - Working As An Extra Go behind the scenes of working as an extra. Catch the season 2 premiere on April 1st. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game o...",
-          1329579974
+          "\"No one.\"\n\nRelive the unforgettable moment from #TheHouseofBlackandWhite.",
+          1429740960
         ],
         [
-          "\"He's in the true north now.\" Go on set in Iceland with the cast and crew of Game of Thrones Season 2.  WATCH: Game Of Thrones Season 2: In Production - Iceland Go on set in Iceland as they film Season 2 of \"Game Of Thrones,\" which premieres on April 1st, 2012. For more on Game of Thrones, go to http://itsh.bo/gHfJPE...",
-          1329247262
+          "\"This is where you'll find the man you seek.\"\n\nPreview tomorrow's new episode, \"The House of Black and White.\"",
+          1429390803
         ],
         [
-          "\"A very small man can cast a very large shadow.\" Watch the new trailer for Game of Thrones Season 2.  WATCH: Game Of Thrones Season 2: \"Shadow\" Tease Don't miss the new season of \"Game Of Thrones,\" premiering on April 1st, 2012. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game of Throne...",
-          1327885426
+          "\"You have more friends than you thought.\" Relive this unforgettable moment from #TheChildren: http://itsh.bo/1qvJF4P Game of Thrones Season 4: Episode #10 Clip - Tyrion's \u007fEscape (HBO) Subscribe to the Game of Thrones YouTube: http://itsh.bo/10qIOan Don't miss this epic scene \u007ffrom the season 4 finale of Game of Thrones. Connect with Game o...",
+          1403284201
         ],
         [
-          "\"We like keeping it quite exotic.\" Go behind the scenes as the crew discuss the detailed sets and costumes of Game of Thrones Season 2.  WATCH: Making Of Game Of Thrones: Season 2 - Art Direction Go behind the scenes with the cast and crew of Game of Thrones season 2. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game of Thrones onli...",
-          1327074911
+          "Still recovering from the season finale of Game of Thrones?\n\nStop by the HBO Pop Up Shop at The Linq, next to Sprinkles Cupcakes, to purchase official merchandise from the hit show this week only, June 19 - 21 from 2-10pm.  \n\n#HBOPopUpShop Timeline Photos",
+          1403267401
         ],
         [
-          "\"Kings landing might be the most important location in the entire show.\" Go on the set of Game of Thrones Season 2 as the cast and crew film in Croatia. WATCH: Game Of Thrones Season 2: In Production - Croatia Go on the set of Game of Thrones Season 2 as the cast and crew film in Croatia. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game of Thron...",
-          1326829938
+          "\"Are you a knight?\" Relive this unforgettable scene from #TheChildren: http://itsh.bo/1qvJlTG Game of Thrones Season 4: Episode #10 Clip - Arya Meets Brienne (HBO) Subscribe to the Game of Thrones YouTube: http://itsh.bo/10qIOan Don't miss this epic scene \u007ffrom the season 4 finale of Game of Thrones. Connect with Game o...",
+          1403191801
+        ],
+        [
+          "\"The dead can't hear us.\" Preview the #GoTSeason4 finale episode, #TheChildren.  Game of Thrones Season 4: Episode #10 Preview (HBO) Subscribe to the Game of Thrones YouTube: http://itsh.bo/10qIOan Don't miss the Season 4 finale of Game of Thrones this Sunday at 9PM, only on HBO. Connect w...",
+          1402693800
+        ],
+        [
+          "The Wildlings charge on the Wall. Relive this unforgettable moment from #TheWatchersOnTheWall. Game of Thrones Season 4: Episode #9 Clip - Wildlings March on the Wall (HBO) Subscribe to the Game of Thrones YouTube: http://itsh.bo/10qIOan Don't miss the Season 4 finale of Game of Thrones this Sunday at 9PM, only on HBO. Connect w...",
+          1402425001
+        ],
+        [
+          "\"I am Daenerys Stormborn.\" Relive an unforgettable moment from #BreakerofChains.\n\n(WARNING: Contains Spoilers)  Game of Thrones Season 4: Episode #3 Clip - Dany's Speech (HBO) Relive an unforgettable moment from #BreakerofChains.\n\n(WARNING: Contains Spoilers) ",
+          1398118200
+        ],
+        [
+          "The King can do as he likes. Watch King Joffrey's finest moments. #purplewedding \n\n(WARNING: Contains Spoilers) The Best of King Joffrey - CONTAINS SPOILERS (WARNING: Contains Spoilers) Watch King Joffrey's finest moments. ",
+          1397667900
+        ],
+        [
+          "Arya's list gets one name shorter. Relive the moment the realm can't stop talking about from #TwoSwords. \n\n(WARNING: Contains Spoilers.) Game of Thrones: Red Band Clip: Season 4: Episode 1: Contains Spoilers (HBO) This clip contains graphic content and language and has been approved for mature audiences only. Subscribe to the Game of Thrones YouTube: http://itsh.bo/10q...",
+          1396906500
+        ],
+        [
+          "Brace yourself. The Game of Thrones Season 3 finale airs tonight at 9PM on HBO. Click \u201cLIKE\u201d if you\u2019ll be watching. Timeline Photos",
+          1370787000
+        ],
+        [
+          "\"The Northerners will never forget.\" Watch a preview of the Game of Thrones Season 3 finale. WATCH: Game Of Thrones Season 3: Episode #10 Preview Watch a preview of the Game of Thrones\ufeff Season 3 finale. ",
+          1370614200
+        ],
+        [
+          "Only 2 episodes left. Watch a preview of the next Game of Thrones. Game Of Thrones Season 3: Episode #9 Preview Catch new episodes of season 3 on Sunday night's at 9PM.",
+          1370011201
+        ],
+        [
+          "REMINDER: There will be no new episode airing tonight. Watch a preview of the next episode of Game of Thrones, airing June 2, only on HBO. WATCH: Game Of Thrones Season 3: Episode #9 Preview Catch new episodes of season 3 on Sunday nights at 9PM.",
+          1369577401
+        ],
+        [
+          "Beric and Arya serve different Gods. Watch a preview of the next Game of Thrones. WATCH: Game Of Thrones Season 3: Episode #7 Preview New episodes air Sundays at 9PM, only on HBO. Watch a preview. ",
+          1368209400
+        ],
+        [
+          "\"If you fall, don't scream.\" Watch a preview of the next Game of Thrones. WATCH: Game Of Thrones Season 3: Episode #6 Preview New episodes air Sunday nights at 9PM on HBO, ",
+          1367601601
+        ],
+        [
+          "\"In war you kill your enemies!\" Watch a preview of the next Game of Thrones. Game Of Thrones Season 3: Episode #5 Preview New episodes air Sunday nights at 9PM, only HBO. ",
+          1366999800
+        ],
+        [
+          "\"The Tyrells are a problem.\" Watch a preview of the next Game of Thrones. WATCH: Game Of Thrones Season 3: Episode #4 Preview New episodes of Game of Thrones air Sundays at 9PM only on HBO. ",
+          1366483200
+        ],
+        [
+          "\"Throw him off the wall. See if crows can fly.\" Watch a preview of this Sunday's Game of Thrones. WATCH: Game Of Thrones Season 3: Episode #3 Preview New episodes air Sunday night at 9PM, only on HBO. ",
+          1365795001
+        ],
+        [
+          "Can Sansa make friends in King's Landing? Watch a preview of \"Dark Wings, Dark Words.\" WATCH: Game Of Thrones Season 3: Episode #2 Preview Game of Thrones airs Sunday at 9PM, only on HBO. ",
+          1365198000
+        ],
+        [
+          "The Game of Thrones Season 2 finale starts right now on HBO. \"LIKE\" this update if you're watching. Timeline Photos",
+          1338764539
+        ],
+        [
+          "Only 1 episode left. What are you excited to see in tonight's Season 2 finale? Timeline Photos",
+          1338730972
+        ],
+        [
+          "\"They don't like the idea of a woman leading a Khalasar.\" Watch a preview of Sunday's new episode.  WATCH: Game Of Thrones Season 2: Episode #12 Preview Preview a new episode of Game of Thrones. Game of Thrones Season 2 airs Sundays at 9PM. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game ...",
+          1333559258
         ]
       ],
-      "dates_start": 1326693430,
-      "dates_end": 1348147605,
-      "likes_avg": 13160,
-      "likes_stdev": 15875,
-      "comments_avg": 533,
-      "comments_stdev": 440,
-      "shares_avg": 3114,
-      "shares_stdev": 4394
+      "dates_start": 1388499347,
+      "dates_end": 1470784203,
+      "likes_avg": 52876,
+      "likes_stdev": 47139,
+      "comments_avg": 3236,
+      "comments_stdev": 5521,
+      "shares_avg": 6506,
+      "shares_stdev": 10008
     },
     {
-      "number": 33,
+      "number": 22,
       "important": [
-        "realm",
-        "costerwaldau",
-        "day",
-        "fan",
-        "photo",
-        "instagram",
-        "access",
-        "ralli",
-        "nikolaj",
-        "video"
-      ],
-      "common": [
-        "behind",
-        "bo",
-        "game",
-        "game thrones",
-        "http",
-        "http itsh",
-        "http itsh bo",
-        "itsh",
-        "itsh bo",
-        "thrones"
-      ],
-      "messages": [
-        [
-          "Rally the realm.\nWelcome Nikolaj Coster-Waldau to Instagram. Nikolaj Coster-Waldau (@nikolajwilliamcw) \u2022 Instagram photos and videos",
-          1475162803
-        ],
-        [
-          "Natalie Dormer talks trial day, watching as a fan, and why she\u2019d warg into the Hound. Natalie Dormer\u2019s Margaery Tyrell Is No Victim The actor behind the clever queen discusses trial day, watching the show as a fan and other Season 6 surprises. (Spoilers follow.)",
-          1467811860
-        ],
-        [
-          "\u201cPromise me, Ned.\u201d \nSee the connections behind the Tower of Joy scene from \"The Winds of Winter\": http://itsh.bo/29cUZ2B See the Connections Behind Ned\u2019s Promise With This Infographic GoT relationships are complicated, as this diagram proves. Spoilers ahead.",
-          1467241200
-        ],
-        [
-          "Dean-Charles Chapman weighs in on the Game of Thrones Season 6 finale, fate of the Seven Kingdoms and Ser Pounce: http://itsh.bo/298RlXm Heavy Is the Crown for Dean-Charles Chapman\u2019s Tommen The actor behind the Seven Kingdom\u2019s sweetest king talks plot twists, motherly love and divided loyalties. (Spoilers follow.)  ",
-          1467151620
-        ],
-        [
-          "Bella Ramsey talks playing the small but formidable Lyanna Mormont in \"The Winds of Winter\": http://itsh.bo/29c4qiE We Know No Scene-Stealer but the One on Bear Island, Whose Name Is Bella Ramsey The 12-year-old actor who portrays the formidable Lady Lyanna Mormont chats for the first time about her role. (Spoilers follow)",
-          1467126000
-        ],
-        [
-          "\"Natalie Dormer on Margaery Tyrell's Game of Thrones Shocker.\" \nRead the full interview: http://itsh.bo/28ZttZG\n(via Harper's Bazaar) Exclusive: Natalie Dormer on Margaery Tyrell's 'Game of Thrones' Shocker As her 'Game of Thrones' character makes a dramatic exit, Natalie Dormer prepares to take center stage.",
-          1467041940
-        ],
-        [
-          "Iwan Rheon talks battles, hounds, and playing one arrogant bastard: http://itsh.bo/28LxdOf\n(WARNING: SPOILERS AHEAD) Iwan Rheon Knows Ramsay Is One Arrogant Bastard The actor behind the Starks\u2019 nemesis talks battles, hounds and holding Winterfell. (Spoilers follow.)  ",
-          1466686800
-        ],
-        [
-          "Gemma Whelan chats the kingsmoot, Yara\u2019s emotional side and Theon\u2019s future: http://itsh.bo/1Ybnukt\n(SPOILERS AHEAD) Gemma Whelan Thinks Yara Is Playing the Long Game The actor behind the Iron Island badass, Yara Greyjoy, chats about the kingsmoot, Theon\u2019s future and Yara\u2019s emotional side. (Spoilers from Sunday's episode, \"The Broken Man,\" follow.)",
-          1465336860
-        ],
-        [
-          "Maisie Williams talks getting competitive with the Waif & being No One: http://itsh.bo/1TUrEtQ\n(WARNING: CONTAINS SPOILERS) Maisie Williams Knows Arya Stark Is a Force to Reckon With The actress who plays Arya Stark talks fight scenes, becoming \u201cNo One\u201d and the pain of contact lenses. ",
-          1464727680
-        ],
-        [
-          "Isaac Hempstead Wright chats Bran Stark, Summer and the many revelations of #HoldtheDoor: http://itsh.bo/1qF67uI\n(WARNING: CONTAINS SPOILERS) Isaac Hempstead Wright\u2019s Bran Stark Makes Waves North of the Wall The 17-year-old actor who plays Bran Stark dives into the many revelations in \"The Door\" and just how much misfortune a Stark can handle. (Spoilers follow.)",
-          1464121260
-        ],
-        [
-          "Carice van Houten talks Melisandre\u2019s vulnerabilities, and her big role in #GoTSeason6: http://itsh.bo/1rLbFEP Carice van Houten Plays the Red Woman in a \"Different Color\" The actor behind Melisandre discusses her character's vulnerabilities and her part in one of the biggest storylines of Season 6. (Spoilers follow.)",
-          1463004180
-        ],
-        [
-          "\"Melisandre Unusually Insecure in Season 6.\" \nRead the full interview with Carice van Houten: http://itsh.bo/1NeJcvJ\n(via Entertainment Weekly) 'Game of Thrones' Carice van Houten: Melisandre unusually insecure in season 6 The title of the season 6 premiere \u2013 \u201cThe Red Woman\u201d \u2013 makes her importance perfectly clear: Carice van Houten\u2019s seductive sorceress Melisandre has...",
-          1460138897
-        ],
-        [
-          "Maisie Williams teases Arya's action-filled season 6: http://itsh.bo/25Jnv2h\n(via Entertainment Weekly) 'Game of Thrones' Maisie Williams candidly talks feminism, fan outrage, season 6 Maisie Williams enters the London hotel\u2019s coffee shop in a furry-ish jacket, ready to talk. She\u2019s been out all night, but still has more energy...",
-          1459892340
-        ],
-        [
-          "New #GoTSeason6 photos unveiled.\n(via Entertainment Weekly) 'Game of Thrones': New Season 6 Photos Unveiled Blinded for breaking the rules of The House of Black and White, Arya Stark (Maisie Williams) struggles on the streets of Braavos. Williams opted to wear rather uncomfortable opaque contacts for the blindness effect instead of having the\u2026",
-          1458921943
-        ],
-        [
-          "Maisie Williams and Gwendoline Christie brought the house down at their Comic-Con panels. Maisie Williams and Gwendoline Christie Wow Crowds at Comic-Con Panels The two actors delighted audiences at the TV Guide and Entertainment Weekly discussions. ",
-          1436877000
-        ],
-        [
-          "Watch the audition video that played at #GoTSDCC featuring Gwendoline Christie, Carice van Houten, Pedro Pascal and more Game of Thrones cast members. Game of Thrones: Audition Reel",
-          1436567190
-        ],
-        [
-          "Look into the flames and register for HBO Connect to submit a question for Carice van Houten: http://itsh.bo/1CWMI8E Ask Carice Van Houten Check out this post from HBO Connect, the best way of getting up close and personal with the shows you're most passionate about.",
-          1436360401
-        ],
-        [
-          "Send a raven. Game of Thrones is headed to Comic-Con 2015. \n\nThe #GoTSDCC panel will be Friday 7/10 at 2:30PM, moderated by Seth Meyers with panelists from the cast and crew.\n\n#GoTSDCC Panelists: Executive Producer Carolyn Strauss, Director David Nutter and cast members Alfie Allen, John Bradley, Gwendoline Christie, Liam Cunningham. Natalie Dormer, Conleth Hill, Hannah Murray, Sophie Turner, Carice van Houten and Maisie Williams.",
-          1435073027
-        ],
-        [
-          "\"It shows a more psychotic side to Arya.\" \n\nMaisie Williams chats about the Game of Thrones Finale. Making Game of Thrones: Maisie Williams Thinks Arya's Having an Identity Crisis The actor behind the House of Black and White's recent acolyte chats about her character's Faceless Man training, Arya's \"psychotic side\" and filming the finale's reveals. (Spoilers follow.)",
-          1434486300
-        ],
-        [
-          "\"Something is forgiven and united\u2026\" \n\nThe actor behind Jorah Mormont discusses #TheDanceofDragons. Making Game of Thrones: Iain Glen Knows Jorah Is a Romantic The actor behind Jorah Mormont talks about his fight scenes in Season 5, getting to know Tyrion, and his enduring love for Daenerys.",
-          1433969280
-        ],
-        [
-          "\"The Ultimate Arya Interview\" \n\n(via Entertainment Weekly) 'Game of Thrones' star Maisie Williams speaks: The ultimate Arya interview As Arya Stark on Game of Thrones, Maisie Williams is all tomboy\u2014short dirty hair, a favorite sword, and a thirst for vengeance. In real life, the...",
-          1432747983
-        ],
-        [
-          "The actor behind Lancel Lannister discusses his character\u2019s unburdening \u2014 and what it means for Cersei.\n\nRead the full interview. Eugene Simon Has the Gods on His Side The actor behind Lancel Lannister shares his thoughts about his character's crusade for fairness.",
-          1432732740
-        ],
-        [
-          "Go behind the scenes of the Sand Snakes' showdown with actor Keisha Castle-Hughes.\n\nRead the full interview. Keisha Castle-Hughes Mastered the Sand Snakes' Stunts The woman behind Obara Sand talks through how she learned the moves for Sunday's big showdown in the Water Gardens.",
-          1432126544
-        ],
-        [
-          "Iwan Rheon discusses Ramsay\u2019s ambitions and his touching moment with dad.\n\nRead the full interview. Making Game of Thrones: Iwan Rheon Recommends Keeping Ramsay Busy The actor behind Ramsay Bolton discusses his character's ambitions and his stepmother's future safety.",
-          1431521400
-        ],
-        [
-          "Actor Keisha Castle-Hughes discusses how Pedro Pascal\u2019s performance influenced the Sand Snakes.\n\n#GOTSeason5 Making Game of Thrones: Keisha Castle-Hughes Made Sure Obara Paid Tribute to Oberyn As Obara Sand, namesake of her fallen father Oberyn Martell, Keisha Castle-Hughes promises plenty of \"bad-assery\" this season. The actor explains the culture of Dorne, the sisterly bond of the Sand Snakes and how Pedro Pascal influenced her performance.",
-          1431126001
-        ],
-        [
-          "Actor Aidan Gillen discusses Littlefinger's \u201cmost audacious play yet.\u201d\n\n#GoTSeason5 Making Game of Thrones: Aidan Gillen Dishes on Littlefinger's Ripple Effect The actor behind Lord Baelish talks about the motives and modus operandi at play for Littlefinger since the very first episode. (Spoilers follow.)",
-          1430744101
-        ],
-        [
-          "\"Nasty little sh*ts aren't worth crying over.\"\n\nGwendoline Christie chats about Brienne\u2019s big moments in #GoTSeason5 and taking on Pod as a project: http://itsh.bo/1DuBWp5 Making Game of Thrones: Gwendoline Christie Knows Brienne Is a Badass The woman behind Westeros' fiercest fighter tells HBO.com about Brienne's commitment to Sansa, the revelations from her past and what occasion warrants a raincoat.  ",
-          1430318388
-        ],
-        [
-          "The actor behind Jaqen H\u2019ghar breaks down #TheHouseofBlackandWhite and what it means for Arya.\n\n(WARNING: SPOILERS AHEAD) Making Game of Thrones: Interview with Tom Wlaschiha The actor breaks down \"The House of Black and White,\" and what it means for Arya. (Spoilers...",
-          1429709700
-        ],
-        [
-          "Find out who Gwendoline Christie's favorite rap artist is and listen to Catch The Throne: The Mixtape v2 now on SoundCloud: http://itsh.bo/1fVmdno",
-          1429221601
-        ],
-        [
-          "The Women of Thrones Hit the Panels at Comic-Con International: http://itsh.bo/1tTvuFC The Women of Thrones Hit the Panels at Comic-Con Photo by Albert L. Ortega / Getty Images With the GOT panel behind them, Gwendoline Christie, Maisie Williams and Natalie Dormer participated in other discussions happening around Comic-Con. Christie was part of TV Guide's annual Fan Favorites gathering. When asked about a standout fan interaction,\u2026",
-          1406569500
-        ],
-        [
-          "Rory McCann talks about the Hound\u2019s big brawl and teaching Arya too well.\n Rory McCann Still Knows All the Moves From the Hound's Big Battle Sandor \u201cThe Hound\u201d Clegane traveled a long road this season, journeying across the kingdoms with Arya Stark, while at the same time evolving from cold-blooded killer to Arya\u2019s ally. HBO.com talked to Rory McCann about the Hound's brawl with Brienne, getting bitten, and teaching Arya only too well. ",
-          1403386200
-        ],
-        [
-          "\"She's not coming with you.\" The actors behind Westeros' two fiercest fighters discuss their confrontation: http://itsh.bo/1qvK2MN Timeline Photos",
-          1403374501
-        ],
-        [
-          "Maisie Williams reveals Arya's red flags: http://itsh.bo/1iBtAmB Maisie Williams Reveals Arya's Red Flags The actress behind Arya Stark remembers her brief moment of happiness, her front-row seat to the season's biggest brawl and how she applied her lessons from the Hound.",
-          1403109000
-        ],
-        [
-          "Hannah Murray Discusses Gilly and Sam\u2019s Big Moment: http://itsh.bo/1pcLIKQ Hannah Murray Discusses Gilly and Sam\u2019s Big Moment The actress behind Gilly talks about her character\u2019s relationship with Samwell Tarly, overcoming trauma and what she makes of Ygritte. (Spoilers ahead.)",
-          1402525800
-        ],
-        [
-          "Is there a Dothraki word for 'forgiveness'? Iain Glen on Jorah\u2019s confrontation: http://itsh.bo/1iMO9fJ #TheMountainandtheViper\n\n Interview With Iain Glen The actor behind Ser Jorah Mormont talks about his devotion to Daenerys, the benefit of time alone with her, and who he'd want as an ally.  (Spoilers ahead.)  ",
-          1402150501
-        ],
-        [
-          "\"Nothing isn't better or worse than anything. Nothing is just nothing.\" - Arya Timeline Photos",
-          1401404401
-        ],
-        [
-          "Nikolaj Coster-Waldau discusses Jaime's changed relationship with Cersei & his golden hand. Interview With Nikolaj Coster-Waldau The actor behind Jaime Lannister explains his character's bold decision in \"The Laws of Gods and Men\" and details Jaime's relationships with Brienne, Tywin and Cersei. (Warning: Spoilers ahead.)",
-          1399926600
-        ],
-        [
-          "Nikolaj Coster-Waldau and Lena Headey discuss why Jaime fails to get the welcome he expected from Cersei: http://itsh.bo/1qeAjYw Timeline Photos",
-          1397332800
-        ],
-        [
-          "\"Game of Thrones\u2019 Maisie Williams on How Arya\u2019s Quest Is About More than Vengeance\" (via: IGN.com)  Game of Thrones\u2019 Maisie Williams on How Arya\u2019s Quest Is About More than Vengeance - IGN We chat with Game of Thrones\u2019 Maisie Williams about Season 4 and how Arya\u2019s quest is now about more than just vengeance.",
-          1396699269
-        ],
-        [
-          "\"Great Dane: Game of Thrones' Nikolaj Coster-Waldau\" (via: DETAILS)  Great Dane: Game of Thrones' Nikolaj Coster-Waldau At 43, the actor is finally poised to enter the ranks of leading men. What's taken the Danish sex symbol so long? He's always had looks and talent to burn. But it took playing a vain, murderous, incestuous swordsman to make us love him.",
-          1395082398
-        ],
-        [
-          "Our ravens tell us there's still time to submit your questions for next Tuesday's #GoTPremiereNYC Red Carpet Facebook Live event. \n\nPlease put the cast/crew member name in front of your question in the comments for David Benioff, D. B. Weiss, Alfie Allen, John Bradley, Gwendoline Christie, Emilia Clarke, Liam Cunningham, Charles Dance, Peter Dinklage, Aidan Gillen, Jack Gleeson, Lena Headey, Conleth Hill, Kristofer Hivju, Sibel Kekilli, Rose Leslie, Rory McCann, Michael McElhatton, Pedro Pascal, Diana Rigg, Sophie Turner, Carice van Houten, Maisie Williams, Isaac Hempstead Wright and more.",
-          1394749925
-        ],
-        [
-          "Gwendoline Christie poses with Brienne at the #GOTExhibit VIP Party at #SXSW. \n\nView more photos: http://instagram.com/gameofthrones Timeline Photos",
-          1394294402
-        ],
-        [
-          "\"Everybody wants a piece of Peter Dinklage, and there is plenty of Dinklage to go around.\" (via: Esquire) \n\nRead the full interview: http://itsh.bo/1iT0oJj Timeline Photos",
-          1392318001
-        ],
-        [
-          "Nikolaj Coster-Waldau, Joffrey's \"TV Uncle\" shares some heartfelt feelings with his grace in this letter. #RoastJoffrey Letter to Joffrey from Nikolaj Coster-Waldau",
-          1386959274
-        ],
-        [
-          "Happy Name Day to Carice van Houten aka \"Melisandre.\"  Share this to honor the Lord of Light. Timeline Photos",
-          1378390201
-        ],
-        [
-          "RIGHT NOW: Join a live Q&A with Carice Van Houten aka \"Melisandre\" at HBO Connect.  ASK CARICE: http://itsh.bo/164YyPi Timeline Photos",
-          1371229202
-        ],
-        [
-          "TODAY AT 3PM ET: Join a live Q&A with Carice Van Houten aka \"Melisandre\" at HBO Connect.\r\n\r\nASK CARICE: http://itsh.bo/164YyPi Timeline Photos",
-          1371211800
-        ],
-        [
-          "The night is dark and full of terrors. Carice van Houten discusses Melisandre: http://itsh.bo/14JQL8j Timeline Photos",
-          1369146600
-        ],
-        [
-          "No one judges the lion. Nikolaj Coster-Waldau discusses Jaime Lannister: http://itsh.bo/13tFGJx Timeline Photos",
-          1368714600
-        ],
-        [
-          "Wondering how Gwendoline Christie and Nikolaj Coster-Waldau tangled with a bear and made it out alive? Find out on Making Game of Thrones: http://itsh.bo/13w9THN Timeline Photos",
-          1368633001
-        ],
-        [
-          "Maisie Williams talks to MTV Geek about the best thing she's ever eaten on the Game of Thrones set and The Inn at the Crossroads teaches you how to make a Westerosi recipe: http://itsh.bo/YKG4yn Game Of Thrones \u2018And Now His Watch Is Ended\u2019 Recap \u2013 With Maisie Williams And Varys\u2019 Tea Eggs! This week on our exclusive Game of Thrones recap series 'Cooking With Thrones', we chat with Maisie Williams (Arya Stark) about the best thing she's ever",
-          1366837802
-        ],
-        [
-          "IN ONE HOUR: Meet the woman behind \"Brienne of Tarth\" and join Gwendoline Christie for a live Q&A at HBO Connect.\r\n\r\nASK GWENDOLINE: http://itsh.bo/10p41wA Timeline Photos",
-          1365076800
-        ],
-        [
-          "Nikolaj Coster-Waldau digs deeper into Jaime Lannister's dark side - and his grooming. READ INTERVIEW: http://itsh.bo/NKzPq7 Photos",
-          1339083002
-        ],
-        [
-          "\"Game of Thrones Interview: Nikolaj Coster-Waldau (Jaime Lannister)\" (via: What Culture)   READ: Game of Thrones Interview: Nikolaj Coster-Waldau (Jaime Lannister) In the lead up to the Season 2 Premier on April 1st, we will be posting the series of interviews to wet your appetites for what will surely be another monumental season.",
-          1331223559
-        ],
-        [
-          "\"Stick em' with the pointy end!\" - Arya Stark Timeline Photos",
-          1325881649
-        ]
-      ],
-      "dates_start": 1378582975,
-      "dates_end": 1455717309,
-      "likes_avg": 41509,
-      "likes_stdev": 43608,
-      "comments_avg": 1247,
-      "comments_stdev": 1585,
-      "shares_avg": 2404,
-      "shares_stdev": 4949
-    },
-    {
-      "number": 34,
-      "important": [
-        "epic",
         "see",
-        "jon",
-        "bastard",
-        "jump",
-        "dani",
-        "daeneri",
-        "battl bastard",
         "north",
-        "storyboard"
+        "battl bastard",
+        "daeneri",
+        "jump",
+        "storyboard",
+        "jon",
+        "dani",
+        "epic",
+        "bastard"
       ],
       "common": [
         "bo",
@@ -4646,18 +3006,18 @@
       "shares_stdev": 2233
     },
     {
-      "number": 35,
+      "number": 23,
       "important": [
-        "hbo",
+        "end",
         "start hbo",
+        "announc",
+        "year",
         "seri",
         "want",
-        "year",
         "befor",
-        "announc",
-        "marathon",
-        "end",
-        "game throne hbo"
+        "hbo",
+        "game throne hbo",
+        "marathon"
       ],
       "common": [
         "entertainment",
@@ -4959,18 +3319,339 @@
       "shares_stdev": 7904
     },
     {
-      "number": 36,
+      "number": 24,
       "important": [
-        "mother",
-        "like",
+        "preview next",
+        "khaleesi",
+        "episod season",
+        "preview",
+        "game throne game throne season",
+        "danger",
+        "game throne game throne",
+        "game throne game",
+        "throne game throne",
+        "catch new"
+      ],
+      "common": [
+        "game",
+        "game thrones",
+        "game thrones season",
+        "go",
+        "season",
+        "thrones",
+        "thrones season",
+        "watch",
+        "watch game",
+        "watch game thrones"
+      ],
+      "messages": [
+        [
+          "\"He's a dangerous man Khaleesi. They all are.\" Watch a preview of the next Game of Thrones. Game Of Thrones Season 3: Episode #8 Preview Catch new episodes of season 3 on Sunday night's at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones online at HBO GO\u00ae ht...",
+          1368825600
+        ],
+        [
+          "5 Days. Game Of Thrones Season 3: War Preview Don't miss the season 3 premiere on March 31st, 2013. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones online at HBO GO\u00ae http:...",
+          1364339400
+        ],
+        [
+          "One week. Game Of Thrones Season 3: Enemies Preview Don't miss the season 3 premiere on March 31st, 2013. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. ",
+          1364149200
+        ],
+        [
+          "Go beyond the wall and experience the intensity of Iceland with a new behind the scenes look at Season 3. http://itsh.bo/WAQySC WATCH: Making Of Game Of Thrones Season 3: Vlog #3 - Intensity Of Iceland Go beyond the Wall as the cast and crew of Game of Thrones films in Iceland. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones ...",
+          1359653345
+        ],
+        [
+          "Game of Thrones Season 3 is only 70 days away. Your new invitation to the set awaits. Game Of Thrones Season 3: Invitation To The Set Don't miss the season 3 premiere on March 31st, 2013. Don't miss the season 3 premiere on March 31st, 2013. For more on Game of Thrones, go to http://itsh.bo...",
+          1358640416
+        ],
+        [
+          "Game of Thrones Executive Story Editor/Writer Bryan Cogman gives a glimpse into making Season 3 and discusses molding the book into the series. http://itsh.bo/10cPIyz WATCH: Making Of Game Of Thrones Season 3: Vlog #2 - Molding The Book Into A Series Don't miss the season 3 premiere on March 31st, 2013. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones online at HBO GO\u00ae http:...",
+          1358362896
+        ],
+        [
+          "Their world returns to ours.  Watch a new Season 3 tease featuring \"The Rains of Castamere\" by The National. \n\nShare this update and spread the three-eyed raven across the realm. WATCH: Game Of Thrones Season 3: Three-Eyed Raven Tease Season 3 premieres on Sunday, March 31st at 9PM, only on HBO.",
+          1357921866
+        ],
+        [
+          "\"The only way Dany can take back the 7 Kingdoms is to conquer them.\" Get an inside look at the Season 2 finale.  WATCH: Game Of Thrones Season 2: Inside The Episode #20 Take a look inside the season 2 finale of \"Game Of Thrones.\" For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones online at HBO GO...",
+          1338827295
+        ],
+        [
+          "Valar Morghulis. The Game of Thrones Season 2 finale airs tonight at 9PM on HBO. WATCH: Game Of Thrones: Season 2 Finale Preview Don't miss the season finale on Sunday night at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones online at HBO GO\u00ae http:/...",
+          1338738228
+        ],
+        [
+          "Only 1 episode left. Watch a preview of the Game of Thrones Season 2 finale.  WATCH: Game Of Thrones: Season 2 Finale Preview Don't miss the season finale on Sunday night at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones online at HBO GO\u00ae http:/...",
+          1338561230
+        ],
+        [
+          "\"I've taken Winterfell and will keep Winterfell.\" Catch-up on the story so far.  WATCH: Game Of Thrones Season 2: The Story So Far (Episodes 17-19) Catch up on episodes 17-19 of season 2. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones online at HBO GO\u00ae http://itsh.bo/eIDx...",
+          1338477436
+        ],
+        [
+          "\"The world is built by killers. So you'd better get used to looking at them.\" Watch a recap of \"Blackwater\" right here.  WATCH: Game Of Thrones Season 2: Recap #19 Tune in to the new season of \"Game Of Thrones\" every Sunday night at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones onl...",
+          1338395860
+        ],
+        [
+          "\"They're both men that have surrounded themselves with death.\" Get an inside look at Blackwater.  WATCH: Game Of Thrones Season 2: Inside The Episode #19 Tune in to the new season of \"Game Of Thrones\" every Sunday night at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones onl...",
+          1338308761
+        ],
+        [
+          "War is finally here. The Battle of Blackwater airs tonight at 9PM only on HBO. \n\n\"SHARE\" this trailer with your friends and spread the word across the realm.  SHARE: Game Of Thrones Season 2: Episode 19 - War Of The Kings Trailer Tune in to the new season of \"Game Of Thrones\" every Sunday night at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones onl...",
+          1338125371
+        ],
+        [
+          "War is here and there are only 2 episodes left. Watch a preview of Blackwater right here.  WATCH: Game Of Thrones Season 2: Episode #19 Preview Tune in to the new season of \"Game Of Thrones\" every Sunday night at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones onl...",
+          1337883449
+        ],
+        [
+          "\"It gives me joy to kill people. Killing's the sweetest thing there is.\" Get a recap of the latest episode.  WATCH: Game Of Thrones Season 2: Recap #18 Tune in to the new season of \"Game Of Thrones\" every Sunday night at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones onl...",
+          1337786507
+        ],
+        [
+          "\"It's an open declaration of war.\" Get an inside look at the latest episode. WATCH: Game Of Thrones Season 2: Inside The Episode #18 Tune in to the new season of \"Game Of Thrones\" every Sunday night at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones onl...",
+          1337693787
+        ],
+        [
+          "\"If the city falls Stannis will burn every Lannister he can find.\" Only 6 more days till \"Blackwater.\" Watch a preview.  WATCH: Game Of Thrones Season 2: Episode 19 - Battle Tease Tune in to the new season of \"Game Of Thrones\" every Sunday night at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones onl...",
+          1337601293
+        ],
+        [
+          "Only one can rule. \n\nClick \"LIKE\" if you're ready for \"Blackwater\" next Sunday at 9PM on HBO.  WATCH: Game Of Thrones Season 2: Episode 19 - War Of The Kings Trailer Tune in to the new season of \"Game Of Thrones\" every Sunday night at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones onl...",
+          1337565884
+        ],
+        [
+          "\"If this is the price for what we've done. For our sins.\" Watch a recap of the latest episode right here.  Game of Thrones Season 2: Recap #17 Take a look at a recap of episode #17. Catch all new episodes on Sunday night's at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game ...",
+          1337170840
+        ],
+        [
+          "\"It's all just a game.\" Executive Producers Dan Weiss and David Benioff go inside the latest episode.   WATCH: Game Of Thrones Season 2: Inside The Episode #17 Take a look inside episode #17 of \"Game Of Thrones.\" Catch all new episodes on Sunday night's at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b...",
+          1337020290
+        ],
+        [
+          "\"Find my dragons.\" Watch a preview of this Sunday's episode.  WATCH: Game Of Thrones Season 2: Episode #17 Preview Tune in to the new season of \"Game Of Thrones\" every Sunday night at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones onl...",
+          1336676087
+        ],
+        [
+          "\"Where are my dragons!\" Get a recap of the first 6 episodes of Season 2.  WATCH: Game Of Thrones Season 2: The Story So Far (Episodes 11-16) Catch up on the first 6 episodes of season 2. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones online at HBO GO\u00ae http://itsh.b...",
+          1336502218
+        ],
+        [
+          "\"Betray me and you will wish you hadn't.\" Get a recap of the latest episode.  WATCH: Game of Thrones Season 2: Recap #16 Take a look at a recap of episode #16. Catch all new episodes on Sunday night's at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game ...",
+          1336487564
+        ],
+        [
+          "\"I don't think Arya is anyone's little girl anymore.\" Go inside last night's episode.  WATCH: Game Of Thrones Season 2: Inside The Episode #16 Take a look inside episode #16 of \"Game Of Thrones.\" Catch all new episodes on Sunday night's at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b...",
+          1336404862
+        ],
+        [
+          "A new episode of Game of Thrones starts in 5 minutes at 9PM ET on HBO. \n\n\"LIKE\" this update if you're watching.  WATCH: Game Of Thrones Season 2: Episode #16 Preview Tune in to the new season of \"Game Of Thrones\" every Sunday night at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones onl...",
+          1336344922
+        ],
+        [
+          "\"It shows Theon what it means to be a Greyjoy for the first time.\" Get an inside look at Theon's baptism.  WATCH: Game Of Thrones Season 2: Anatomy Of A Scene - Theon Being Baptized Catch new episodes of season 2 on Sunday night's at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones online at HBO GO\u00ae ht...",
+          1336237120
+        ],
+        [
+          "\"You can't avenge him if you are dead.\" Recap the latest episode of Game of Thrones.  WATCH: Game of Thrones Season 2: Recap #15 Take a look at a recap of episode #15. Catch all new episodes on Sunday night's at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game ...",
+          1336050144
+        ],
+        [
+          "\"Your grace...my lady...news from Winterfell.\" Watch a preview of this Sunday's episode.  WATCH: Game Of Thrones Season 2: Episode #16 Preview Tune in to the new season of \"Game Of Thrones\" every Sunday night at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones onl...",
+          1335974040
+        ],
+        [
+          "\"Bran is trying to figure out his place in the world.\" Get an inside look at last night's episode.  WATCH: Game Of Thrones Season 2: Inside The Episode #15 Take a look inside episode #15 of \"Game Of Thrones.\" Catch all new episodes on Sunday night's at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b...",
+          1335793331
+        ],
+        [
+          "A new episode of Game of Thrones starts in 10 minutes at 9PM ET on HBO. \"Like\" this update if you're watching.   Game Of Thrones Season 2: Episode #15 Preview Tune in to the new season of \"Game Of Thrones\" every Sunday night at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones onl...",
+          1335739797
+        ],
+        [
+          "\"You stole 3 deaths from the Red God, we have to give them back.\" Watch a preview of this Sunday's episode.  WATCH: Game Of Thrones Season 2: Episode #15 Preview Tune in to the new season of \"Game Of Thrones\" every Sunday night at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones onl...",
+          1335362879
+        ],
+        [
+          "Robb's actions are questioned by his banner men. Get a behind the scenes look at the latest episode.  WATCH: Game Of Thrones Season 2: Inside The Episode #14 Take a look inside Episode #14 of \"Game Of Thrones.\" Catch all new episodes on Sunday night's at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b...",
+          1335286008
+        ],
+        [
+          "\"Wildings serve crueler Gods than you or I.\" Watch a recap of last night's episode.  WATCH: Game of Thrones Season 2: Recap #14 Take a look at a recap of episode #14. Catch all new episodes on Sunday night's at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game ...",
+          1335189387
+        ],
+        [
+          "\"He has a talent for this...\" Go inside the scene where Tyrion declares he is Hand of the King.  WATCH: Game Of Thrones Season 2: Anatomy Of A Scene: Tyrion Delcaring He Is Hand Of King Catch new episodes of season 2 on Sunday night's at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones online at HBO GO\u00ae ht...",
+          1335012296
+        ],
+        [
+          "\"Strange that this Lord of Light asks you to work in the shadows.\" Watch a preview of this Sunday's episode.  WATCH: Game Of Thrones Season 2: Episode #14 Preview Tune in to the new season of \"Game Of Thrones\" every Sunday night at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones onl...",
+          1334925108
+        ],
+        [
+          "\"There is only one God, and his name is death.\" Get an inside look at the religions of Westeros with George R.R. Martin.  WATCH: Game Of Thrones Season 2: Religions Of Westeros Catch new episodes of season 2 on Sunday night's at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones online at HBO GO\u00ae ht...",
+          1334856369
+        ],
+        [
+          "\"May I present my wife, Margaery of House Tyrell.\" Watch a recap of the latest episode.  WATCH: Game Of Thrones Season 2: Recap #13 Take a look at a recap of episode #13. Catch all new episodes on Sunday night's at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game ...",
+          1334756530
+        ],
+        [
+          "\"No one will take my dragons.\" Recap the first 3 episodes of Game of Thrones Season 2.  WATCH: Game Of Thrones Season 2: The Story So Far (Episodes 11-13) Take a look at what's happened in the first 3 episodes of season 2. Catch new episodes on Sunday night's at 9PM. For more on Game of Thrones, go to http://it...",
+          1334663565
+        ],
+        [
+          "\"For the night is dark and full of terrors.\" Go inside the Burning of the 7 Gods scene from \"The North Remembers.\"  WATCH: Game Of Thrones Season 2: Burning Of The 7 Gods Catch new episodes of season 2 on Sunday night's at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones online at HBO GO\u00ae ht...",
+          1334602401
+        ],
+        [
+          "\"Tyrion wants everyone to know he knows how the game is played.\" Get an inside look at last night's episode, \"What is Dead May Never Die.\" WATCH: Game Of Thrones Season 2: Inside The Episode #13 Take a look inside Episode #13 of \"Game Of Thrones.\" For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones online at HBO GO\u00ae http:/...",
+          1334588787
+        ],
+        [
+          "\"They are the knights of summer and winter is coming.\" Watch a preview and catch a new episode this Sunday at 9PM on HBO. WATCH: Game Of Thrones Season 2: Episode #13 Preview Tune in to the new season of \"Game Of Thrones\" on Sunday night's at 9PM. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones onli...",
+          1334321618
+        ],
+        [
+          "\"No man gives me a crown. I will take my crown.\" Watch a recap of the latest episode.   WATCH: Game of Thrones Season 2: Recap #12 See what happened on Season 2 Episode 12 of \"Game of Thrones.\" And remember to catch a new episode every Sunday night at 9pm only on HBO. For more on Game of...",
+          1334238601
+        ],
+        [
+          "\"My father has ships and men who know how to sail them.\" Delve into Theon Greyjoy's character.  WATCH: Game of Thrones Season 2: Character Featurette - Theon Greyjoy Go behind the scenes with Theon Greyjoy. For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones online at HBO GO\u00ae http://itsh.bo/eID...",
+          1334077226
+        ],
+        [
+          "\"That's how Littlefinger does things...\" Executive Producers Dan Weiss and David Benioff go inside last night's episode.  WATCH: Game Of Thrones Season 2: Inside The Episode #12 Take a look inside Episode #12 of \"Game Of Thrones.\" For more on Game of Thrones, go to http://itsh.bo/HpR8b1. Watch Game of Thrones online at HBO GO\u00ae http:/...",
+          1333988895
+        ],
+        [
+          "\"...A thrilling return to brilliance\" See what the critics are saying about Game of Thrones Season 2.  WATCH: Game Of Thrones Season 2: Critics Spot Tune in to new episodes of season 2 on Sunday night's at 9PM. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game of Thrones online at HBO G...",
+          1333484902
+        ],
+        [
+          "\"Do you understand we're losing the war?\" Get a recap of the Season 2 premiere.   WATCH: Game Of Thrones Season 2: Recap #11 Take a look at a recap of the season 2 premiere of \"Game Of Thrones.\" For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game of Thrones online ...",
+          1333458066
+        ],
+        [
+          "\"Robb is impressing and surprising everyone.\" Get an inside look at last night's Season 2 premiere.  WATCH: Game Of Thrones Season 2: Inside The Episode #11 Go inside the season 2 premiere of \"Game Of Thrones.\" For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game of Thrones online at HBO GO\u00ae http:...",
+          1333384604
+        ],
+        [
+          "\"This war you started is coming to our doorstep.\" Get a preview of what's to come in Season 2.  WATCH: Game Of Thrones Season 2: Weeks Ahead Trailer Take a look at what's coming in the weeks ahead of season 2. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game of Thrones online at HBO GO...",
+          1333324841
+        ],
+        [
+          "\"I will take what is mine with fire and blood!\" We're less than an hour away from the premiere of Game of Thrones Season 2.  Share this update and spread the word across the realm. WATCH: Game Of Thrones Season 2: \"Shadow\" Tease Don't miss the new season of \"Game Of Thrones,\" premiering on April 1st, 2012. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game of Throne...",
+          1333318933
+        ],
+        [
+          "\"The world just expanded enormously.\" Take a look at the new destinations in Season 2.  WATCH: Destinations Of Season 2 Take a look at the new destinations in Season 2 of Game of Thrones. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game of Thrones online at...",
+          1333305534
+        ],
+        [
+          "Like this if you\u2019re ready for tonight\u2019s Season 2 premiere at 9 on HBO. Game Of Thrones Season 2: \"Seven Devils\" Catch the season 2 premiere of \"Game Of Thrones\" on Sunday, April 1st. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game of Thrones online...",
+          1333245600
+        ],
+        [
+          "The war of 5 kings. Season 2 premieres Tomorrow, 9PM. Share this update & spread the word. Game Of Thrones Season 2: \"Seven Devils\" Catch the season 2 premiere of \"Game Of Thrones\" on Sunday, April 1st. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game of Thrones online...",
+          1333159200
+        ],
+        [
+          "This April, prepare for a new season. Game of Thrones returns to HBO on 4/1. MLB Opening Day is 4/4. (CC: MLB FanCave)  Game Of Thrones Season 2: The Game Returns This April This April, prepare for a new season. Game of Thrones returns to HBO on April 1st. MLB Opening Day is April 4th. For more on Game of Thrones, go to http://it...",
+          1333123366
+        ],
+        [
+          "\"This woman will lead him into a war he cannot win.\" Meet the new characters in Game of Thrones Season 2.  WATCH: Game Of Thrones: New Characters of Season 2 Take a look at the new faces of Game of Thrones Season 2. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game of Thrones online at HBO GO\u00ae h...",
+          1333031407
+        ],
+        [
+          "\"I will hurt you for this. And your joy will turn to ashes.\" Game of Thrones returns in one week on 4/1.   WATCH: Game Of Thrones Season 2: Nowhere To Hide Promo Catch the season 2 premiere on Sunday, April 1st. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game of Thrones online at HBO GO\u00ae http://it...",
+          1332716090
+        ],
+        [
+          "\"The Iron Throne is mine, by right.\" Meet Stannis Baratheon.  WATCH: Game of Thrones Season 2: Character Featurette - Stannis Baratheon Go behind the scenes with Stannis Baratheon. Catch the season 2 premiere on Sunday, April 1st. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watc...",
+          1332422397
+        ],
+        [
+          "\"No one can survive in this world without help.\" Watch the latest Game of Thrones trailer here.  WATCH: Game of Thrones Season 2: \"Price For Our Sins\" Trailer Catch the season 2 premiere on Sunday, April 1st. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game of Thrones online at HBO GO\u00ae http://it...",
+          1332275326
+        ],
+        [
+          "\"I offer the Lannisters peace if they meet my terms.\" Meet the King of the North. WATCH: Game of Thrones Season 2: Character Feature - Robb Stark Go behind the scenes with Robb Stark. Catch the season 2 premiere on Sunday, April 1st.",
+          1332175749
+        ],
+        [
+          "\"I will see the Lannisters answer for your husband\u2019s murder.\" Meet Renly Baratheon. WATCH: Game Of Thrones Season 2: Character Featurette - Renly Baratheon Go behind the scenes with Renly Baratheon. Catch the season 2 premiere on Sunday, April 1st. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch ...",
+          1331825293
+        ],
+        [
+          "\"Killing you would send your brother a message.\" Delve into King Joffrey's character.  WATCH: Game Of Thrones Season 2: Character Featurette - Joffrey Baratheon Go behind the scenes with Joffrey Baratheon. Catch the season 2 premiere on Sunday, April 1st. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watc...",
+          1331651171
+        ],
+        [
+          "\"I'm not your little princess.\" Game of Thrones Season 2 premieres April 1st at 9PM, only on HBO. WATCH: Game Of Thrones Season 2: The More You Love Trailer Catch the season 2 premiere on Sunday, April 1st. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game of Thrones online at HBO GO\u00ae http://it...",
+          1331574433
+        ],
+        [
+          "\"No one will take my dragons.\" Go inside the Khaleesi's struggle.  WATCH: Game Of Thrones Season 1: Character Featurette - Daenerys Targaryen Go behind the scenes with Daenerys Targaryen. Catch the season 2 premiere on Sunday, April 1st. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Wat...",
+          1331564457
+        ],
+        [
+          "\"Anyone can be killed.\" Watch the latest Game of Thrones Season 2 trailer right here. (CC: Florence and the Machine)  WATCH: Game Of Thrones Season 2: \"Seven Devils\" Catch the season 2 premiere of \"Game Of Thrones\" on Sunday, April 1st. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game of Thrones online...",
+          1330909674
+        ],
+        [
+          "\"Nothing matters but how it ends.\" Watch the new Game of Thrones Season 2 trailer right here.  WATCH: Game Of Thrones Season 2: \"Power And Grace\" Trailer Catch the season 2 premiere on Sunday, April 1st. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game of Thrones online at HBO GO\u00ae http://it...",
+          1330305062
+        ],
+        [
+          "\"It's so lovely to be back for Season 2.\"  Go on set with the cast and crew of Game of Thrones. WATCH: Game Of Thrones Season 2: Invitation To The Set Go on set with the cast and crew of Game Of Thrones. The new season premieres on Sunday, April 1st. For more on Game of Thrones, go to http://itsh.bo/gHfJPE....",
+          1329786362
+        ],
+        [
+          "\"They love the series & want to be here.\" Take a glimpse into working as an extra on the set of Game of Thrones.  WATCH: Making Of Game Of Thrones: Season 2 - Working As An Extra Go behind the scenes of working as an extra. Catch the season 2 premiere on April 1st. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game o...",
+          1329579974
+        ],
+        [
+          "\"He's in the true north now.\" Go on set in Iceland with the cast and crew of Game of Thrones Season 2.  WATCH: Game Of Thrones Season 2: In Production - Iceland Go on set in Iceland as they film Season 2 of \"Game Of Thrones,\" which premieres on April 1st, 2012. For more on Game of Thrones, go to http://itsh.bo/gHfJPE...",
+          1329247262
+        ],
+        [
+          "\"A very small man can cast a very large shadow.\" Watch the new trailer for Game of Thrones Season 2.  WATCH: Game Of Thrones Season 2: \"Shadow\" Tease Don't miss the new season of \"Game Of Thrones,\" premiering on April 1st, 2012. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game of Throne...",
+          1327885426
+        ],
+        [
+          "\"We like keeping it quite exotic.\" Go behind the scenes as the crew discuss the detailed sets and costumes of Game of Thrones Season 2.  WATCH: Making Of Game Of Thrones: Season 2 - Art Direction Go behind the scenes with the cast and crew of Game of Thrones season 2. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game of Thrones onli...",
+          1327074911
+        ],
+        [
+          "\"Kings landing might be the most important location in the entire show.\" Go on the set of Game of Thrones Season 2 as the cast and crew film in Croatia. WATCH: Game Of Thrones Season 2: In Production - Croatia Go on the set of Game of Thrones Season 2 as the cast and crew film in Croatia. For more on Game of Thrones, go to http://itsh.bo/gHfJPE. Watch Game of Thron...",
+          1326829938
+        ]
+      ],
+      "dates_start": 1328404306,
+      "dates_end": 1345758754,
+      "likes_avg": 11058,
+      "likes_stdev": 13412,
+      "comments_avg": 482,
+      "comments_stdev": 379,
+      "shares_avg": 2270,
+      "shares_stdev": 3740
+    },
+    {
+      "number": 25,
+      "important": [
         "see",
-        "dragon",
-        "instagram",
-        "instagramcomgameofthron",
         "happi",
-        "via",
+        "like",
+        "instagram",
         "access",
-        "video"
+        "video",
+        "via",
+        "mother",
+        "instagramcomgameofthron",
+        "dragon"
       ],
       "common": [
         "comments",
@@ -5396,18 +4077,18 @@
       "shares_stdev": 7764
     },
     {
-      "number": 37,
+      "number": 26,
       "important": [
-        "rememb",
-        "doe",
+        "north",
+        "game",
         "photo",
+        "cover",
         "make",
-        "dont",
         "access",
         "sdcc",
-        "game",
-        "cover",
-        "north"
+        "dont",
+        "doe",
+        "rememb"
       ],
       "common": [
         "bo",
@@ -6029,30 +4710,30 @@
       "shares_stdev": 24681
     },
     {
-      "number": 38,
+      "number": 27,
       "important": [
-        "tonight",
-        "hbo",
         "sunday night",
-        "show",
+        "hous",
+        "john",
+        "last",
         "sunday hbo",
         "sunday",
-        "hous",
-        "last",
-        "return",
-        "john"
+        "hbo",
+        "show",
+        "tonight",
+        "return"
       ],
       "common": [
+        "bo",
         "game",
         "game thrones",
         "game thrones season",
         "hbo",
         "http",
-        "new",
+        "itsh",
         "season",
         "thrones",
-        "thrones season",
-        "watch"
+        "thrones season"
       ],
       "messages": [
         [
@@ -6140,6 +4821,14 @@
           1457032795
         ],
         [
+          "Check out the official character posters for #GoTSeason6 premiering 4.24.16 #GoTSeason6: Character Posters",
+          1456332033
+        ],
+        [
+          "View Game of Thrones Exclusive Collectibles from the floor of #ToyFair2016. Shop now at the HBO Shop: http://itsh.bo/ToyFair2016 Toy Fair 2016",
+          1455637193
+        ],
+        [
           "Game of Thrones returns 4.24.16 Game of Thrones: Season 6 Tease",
           1455497961
         ],
@@ -6184,12 +4873,28 @@
           1444317054
         ],
         [
+          "Raise a glass.\nCelebrate 16M in the realm using code GOT16 for 16% off #GoT Essentials at the HBO Shop: http://itsh.bo/1Kd9oqU Game of Thrones Merchandise, Shirts & Gifts | HBO Shop Explore the Game of Thrones store to find the latest merchandise, shirts, and jewelry. Shop the Game of Thrones shop for gifts, DVDs and the Westeros map.",
+          1442323957
+        ],
+        [
           "Get a first look at the Game of Thrones Pinball machines: http://itsh.bo/1KBZjXK\n\n(via The Wall Street Journal) Game of Thrones: Pinball Machine",
           1441731601
         ],
         [
+          "When you play the game of the Risk, you win or you die.\n\nPurchase the Game of Thrones edition of Risk on the HBO Shop today: http://itsh.bo/1JNB9D5 Game of Thrones Risk Inspired by the hit HBO series and the classic game of Risk comes the Game of Thrones Risk board game.",
+          1441289940
+        ],
+        [
+          "Represent the realm with new Game of Thrones Apparel from the HBO Shop. Game of Thrones Shop products seen on and inspired by HBO series at the official HBO Shop. Build your DVD collection with complete season and series box sets.",
+          1438167600
+        ],
+        [
           "\"Winter is coming.\"\n\nWatch the #GameofThrones pop culture mash-up that played at the #GoTSDCC panel. Game of Thrones: Pop Culture Mash-Up",
           1436626801
+        ],
+        [
+          "Having Game of Thrones withdrawals?\n\nBring the realm home and purchase all things #GoT from the HBO Shop for up to 20% off: http://itsh.bo/1JYREzW Game of Thrones Shop: Use code DROGON at Checkout Shop HBO\u2019s Game of Thrones Boutique for everything from the Westeros Map to the Game of Thrones Family Tree, to Game of Thrones books, DVDs, shirts, and accessories!",
+          1434633322
         ],
         [
           "Get the music of the realm.\n\nPurchase the Game of Thrones Season 5 soundtrack today: http://smarturl.it/got5_i Game of Thrones Season 5 - Music by Ramin Djawadi Preview and download Game of Thrones (Music from the HBO\u00ae Series) Season 5 on iTunes. See ratings and read customer reviews.",
@@ -6240,6 +4945,10 @@
           1424882100
         ],
         [
+          "View Game of Thrones Exclusive Collectibles from the floor of #ToyFair. Shop now at the HBO Shop: http://itsh.bo/1FIxLcP Toy Fair 2015",
+          1423862646
+        ],
+        [
           "\u201cAlthough this is TV, it\u2019s TV in a scale that is beyond everything else.\u201d \n\nWatch #GoTDayintheLife now: http://itsh.bo/1DaNQIp Game of Thrones Season 5: A Day in the Life (HBO) Subscribe to the Game of Thrones YouTube: http://itsh.bo/10qIOan 3 countries, hundreds of cast & crew, 1 epic day. Get an inside look at #GoTSeason5. Connect...",
           1423450801
         ],
@@ -6272,6 +4981,10 @@
           1417529527
         ],
         [
+          "Winter is coming.\n\nPurchase your own Game of Thrones ornaments and get 25% off at the HBO Shop using code CYBER25 today: http://itsh.bo/1ygR6Q0 Timeline Photos",
+          1417444236
+        ],
+        [
           "Watch the first trailer for the Game of Thrones - A Telltale Games Series upcoming game. Game of Thrones: A Telltale Games Series - Teaser Trailer Game of Thrones: A Telltale Games Series is a new six part episodic game series set in the world of HBO's groundbreaking TV show. This new story tells of Hou...",
           1416523192
         ],
@@ -6284,12 +4997,28 @@
           1412880936
         ],
         [
+          "\"Nothing cuts like Valyrian steel.\"\n\nPurchase your own Sword Letter Openers and get 15% off all Game of Thrones merchandise at the HBO Shop using code FALL15: http://itsh.bo/1qYR7nr Timeline Photos",
+          1410955201
+        ],
+        [
           "Experiencing Westeros withdrawal? Read 7 insider stories from the set of Game of Thrones Season 4: http://itsh.bo/1rYTQ2w 7 Stories From the Set of Season 4 Experiencing Westeros withdrawal? Get your 'Game of Thrones' fix with these stories that pull back the curtain on some of Season 4's most buzz-worthy moments.",
           1405092601
         ],
         [
+          "Show your allegiance.\n\nPurchase your House Sigil banner and get 20% off all Game of Thrones merchandise at the HBO Shop using code GOTFINALE: http://itsh.bo/1q5bXAJ Timeline Photos",
+          1403093701
+        ],
+        [
           "Listen to an exclusive free stream of \"Craster's Keep\" by Ramin Djawadi and download the Game of Thrones soundtrack on iTunes: http://smarturl.it/got4_i Craster's Keep - Game of Thrones Season 4 Soundtrack - Ramin Djawadi",
           1402401902
+        ],
+        [
+          "Explore Westeros. \n\nPurchase your own map markers and get 20% off all Game of Thrones merchandise today only using code GOT20FB at the HBO Shop: http://itsh.bo/Rja9XX Timeline Photos",
+          1400938201
+        ],
+        [
+          "Explore Westeros.\n\nPurchase the Game of Thrones Pop Up Book at the HBO Shop: http://itsh.bo/1ifWsim Timeline Photos",
+          1398271200
         ],
         [
           "\"Death in 'Game of Thrones' Never Looked So Beautiful\" (via: Mashable) #BeautifulDeath  Death in 'Game of Thrones' Never Looked So Beautiful HBO released a series of intricate posters that reveal the poignance of deaths in Game of Thrones.",
@@ -6302,6 +5031,10 @@
         [
           "View photos from the Game of Thrones Season 4 NYC Premiere. Game of Thrones Season 4: NYC Premiere",
           1395254488
+        ],
+        [
+          "Westeros just got a little smaller.\n\nPurchase your own Game of Thrones Funko Mystery Minis at the HBO shop: http://itsh.bo/1gqkMSb Game of Thrones Mystery Mini Blind Box Purchase your own Game of Thrones Funko Mystery Minis at the HBO shop: http://itsh.bo/1gqkMSb",
+          1394890501
         ],
         [
           "A raven has landed. Watch the new trailer for #GoTSeason4. Game of Thrones Season 4 premieres 4/6 at 9PM, only on HBO.",
@@ -6322,6 +5055,10 @@
         [
           "All Men Must Die. Game of Thrones Season 4 premieres 4/6 at 9PM, only on HBO.",
           1393626916
+        ],
+        [
+          "Valar Morghulis. View character posters for Game of Thrones Season 4. http://itsh.bo/1c5LDnd Game of Thrones: Season 4 Character Posters",
+          1393419802
         ],
         [
           "\"'Game of Thrones' First Look: Come Fly With Daenerys and Her Dragon\" (via: YahooTV)  'Game of Thrones' First Look: Come Fly With Daenerys and Her Dragon Yahoo TV has your first look at the Season 4 character poster for \"Game of Thrones\" fan favorite Daenerys \"Khaleesi\" Targaryen, plus a 30-second video sneak peek from a dragon's point of view.",
@@ -6464,6 +5201,10 @@
           1362269047
         ],
         [
+          "Which Game of Thrones Season 3 character poster is your favorite? New season premieres 3/31/13 at 9, only on HBO. Order these posters at the HBO Shop today: http://itsh.bo/10cgGmR Game of Thrones Season 3 Posters",
+          1362244107
+        ],
+        [
           "What was your favorite part of the Game of Thrones Season 3 trailer? Click \"LIKE\" on your favorite screencaps and watch the trailer on repeat here: http://itsh.bo/15ajDHc Game of Thrones Season 3 Trailer Screencaps",
           1361975683
         ],
@@ -6488,6 +5229,10 @@
           1360435990
         ],
         [
+          "\"Game of Thrones Season 3 Characters Revealed\" SLIDESHOW: http://itsh.bo/112EVIp Timeline Photos",
+          1359571201
+        ],
+        [
           "Game of Thrones Season 3 premieres 3/31/13 on HBO.  Here's your first photos from the new season. Game of Thrones Season 3 Photos",
           1359138050
         ],
@@ -6498,6 +5243,18 @@
         [
           "Happy Election Day to all in the realm! \r\n\r\nClick \"LIKE\" if you're voting today.\r\n\r\n(Image submitted to http://gameofthrones.tumblr.com/ via Leuva T.) Timeline Photos",
           1352211706
+        ],
+        [
+          "Rest your goblets of Dornish wine on these Game of Thrones House Sigil Coasters.\r\n\r\nToday only, use the code COASTER25 to get 25% off.\r\nSHOP: http://itsh.bo/S1nCNN Timeline Photos",
+          1345637401
+        ],
+        [
+          "Today only, get 25% off when you order your own Dragon Egg with the code GOTEGG25 at the HBO Shop.\r\n\r\nSHOP: http://itsh.bo/S1nfmm Photos",
+          1344427802
+        ],
+        [
+          "Fall is coming. Today only, relish summer and save up to 20% at the HBO Shop with the code SUMMER.\r\n\r\nSHOP: http://itsh.bo/MMlgSA Photos",
+          1343740201
         ],
         [
           "Gary Lightbody from Snow Patrol on the set of Game of Thrones Season 3. Snow Patrol So I did my scene this morning for Game Of Thrones. I looked like this. Can't say much just it's no pivotal role. Fun!",
@@ -6540,6 +5297,10 @@
           1333715852
         ],
         [
+          "\"What the King dreams, the Hand builds.\" Order your Hand of the King pin at the HBO Shop today. SHOP: http://itsh.bo/HpmZfq Timeline Photos",
+          1333641629
+        ],
+        [
           "\"Win GameofThrones Official Merchandise\" (via: IGN.com)  Win Game of Thrones Official Merchandise -   \t   \t\tTV  \t\t\t Feature  at IGN Watch IGN's On the Throne - the Game of Thrones episode recap video show - for a chance to win some amazing Westerosian prizes from HBO!",
           1333551860
         ],
@@ -6550,6 +5311,30 @@
         [
           "Ready for Sunday's Season 2 premiere? Tag yourself in these character posters and share them across the realm.   Game of Thrones Season 2 premieres Sunday at 9PM on HBO. Tag yourself in these photos and help spread the word. ",
           1333129976
+        ],
+        [
+          "Robb Season 2 Character Posters",
+          1333128602
+        ],
+        [
+          "Tyrion Season 2 Character Posters",
+          1333128602
+        ],
+        [
+          "Jon Snow Season 2 Character Posters",
+          1333128601
+        ],
+        [
+          "Jaime Season 2 Character Posters",
+          1333128601
+        ],
+        [
+          "Cersei Season 2 Character Posters",
+          1333128601
+        ],
+        [
+          "Daenerys Season 2 Character Posters",
+          1333128601
         ],
         [
           "Hear, hear! To commemorate the Season 2 premiere, HBO has officially dubbed this Sunday, 4/1/12, Game of Thrones Day: a day fully dedicated to all things Westeros. Join us on Twitter and follow HBO and @GameofThrones to celebrate the series\u2019 triumphant return.\n\n\u201cSHARE\u201d the event postcard and spread the word about all the ways to celebrate the new season this Sunday. Timeline Photos",
@@ -6658,16 +5443,20 @@
         [
           "\"Game Of Thrones Season Two Preview: It Gets 'Bigger\" (via: MTV)  'Game Of Thrones' Season Two Preview: It Gets 'Bigger' - Music, Celebrity, Artist News | MTV \"Game of Thrones\" season two preview: On Golden Globes red carpet, David Benioff promises, \"A lot of bloodshed\" and \"more romance.\"",
           1326900567
+        ],
+        [
+          "In celebration of HBO's Golden Globes winners and nominees, take 20% off the Game of Thrones Season 1 DVD and more merchandise at the HBO Shop.  Offer valid until 1/17 with discount code GG20.  SHOP: Game of Thrones DVD (Pre-order) | 20% Discount Take 20% off the Game of Thrones Season 1 DVD and more merchandise at the HBO Shop.  Offer valid until 1/17 with discount code GG20. ",
+          1326730330
         ]
       ],
-      "dates_start": 1343783025,
-      "dates_end": 1439363860,
-      "likes_avg": 43598,
-      "likes_stdev": 84732,
-      "comments_avg": 3501,
-      "comments_stdev": 11738,
-      "shares_avg": 14244,
-      "shares_stdev": 41879
+      "dates_start": 1342735162,
+      "dates_end": 1437642519,
+      "likes_avg": 39404,
+      "likes_stdev": 79203,
+      "comments_avg": 3107,
+      "comments_stdev": 10874,
+      "shares_avg": 12488,
+      "shares_stdev": 38810
     }
   ]
 }

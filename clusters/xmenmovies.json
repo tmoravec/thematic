@@ -2,12 +2,12 @@
   "pagename": "xmenmovies",
   "globalstats": {
     "messages": 1046,
-    "likes_avg": 14106,
-    "likes_stdev": 25901,
-    "comments_avg": 333,
-    "comments_stdev": 1022,
-    "shares_avg": 1348,
-    "shares_stdev": 7599,
+    "likes_avg": 13890,
+    "likes_stdev": 25823,
+    "comments_avg": 325,
+    "comments_stdev": 1020,
+    "shares_avg": 1336,
+    "shares_stdev": 7668,
     "graph_uri": "clusters/xmenmovies.png"
   },
   "clusters": [
@@ -15,15 +15,15 @@
       "number": 1,
       "important": [
         "timelin",
-        "timelin photo",
-        "book",
-        "across",
         "photo",
-        "quicksilv",
-        "igiphycom",
         "xmen",
         "get",
-        "know"
+        "igiphycom",
+        "book",
+        "quicksilv",
+        "know",
+        "across",
+        "timelin photo"
       ],
       "common": [
         "bit",
@@ -87,16 +87,16 @@
     {
       "number": 2,
       "important": [
-        "around",
-        "screen",
-        "get xmentix",
+        "film",
         "world",
         "bring",
-        "film",
-        "xmentix",
-        "apocalyps",
         "xmen apocalyps",
-        "fan screen"
+        "around",
+        "xmentix",
+        "fan screen",
+        "screen",
+        "get xmentix",
+        "apocalyps"
       ],
       "common": [
         "apocalypse",
@@ -164,16 +164,16 @@
     {
       "number": 3,
       "important": [
-        "mind",
-        "xmenapocalyps",
-        "across",
-        "first",
-        "hope",
         "check",
-        "question",
-        "know",
         "gphis",
-        "last"
+        "xmenapocalyps",
+        "mind",
+        "first",
+        "last",
+        "hope",
+        "know",
+        "across",
+        "question"
       ],
       "common": [
         "bit",
@@ -241,16 +241,16 @@
     {
       "number": 4,
       "important": [
-        "cast xmen apocalyps",
-        "sophi",
         "beast",
-        "across",
-        "birthday",
-        "cast xmen",
         "hoult",
-        "happi birthday",
         "gphis",
-        "jennif"
+        "happi birthday",
+        "birthday",
+        "cast xmen apocalyps",
+        "cast xmen",
+        "jennif",
+        "across",
+        "sophi"
       ],
       "common": [
         "beast",
@@ -318,16 +318,16 @@
     {
       "number": 5,
       "important": [
-        "trask",
+        "xmen timelin",
+        "mutant",
+        "peter",
+        "timelin photo",
+        "bolivar trask",
+        "bolivar",
+        "dinklag",
         "premier",
         "see",
-        "dinklag",
-        "bolivar",
-        "xmen timelin",
-        "bolivar trask",
-        "mutant",
-        "timelin photo",
-        "peter"
+        "trask"
       ],
       "common": [
         "bolivar",
@@ -399,10 +399,10 @@
     {
       "number": 6,
       "important": [
-        "across",
         "timelin",
+        "photo",
         "timelin photo",
-        "photo"
+        "across"
       ],
       "common": [
         "photos",
@@ -474,16 +474,16 @@
     {
       "number": 7,
       "important": [
-        "battl",
-        "begin",
         "apocalyps ticket",
-        "ticket",
         "ticket xmentix",
-        "get xmen",
+        "battl",
         "get",
         "xmentix",
         "xmen apocalyps",
-        "get xmen apocalyps ticket"
+        "begin",
+        "ticket",
+        "get xmen apocalyps ticket",
+        "get xmen"
       ],
       "common": [
         "apocalypse",
@@ -559,16 +559,16 @@
     {
       "number": 8,
       "important": [
-        "digit",
-        "xmen apocalyps",
-        "watch xmen",
-        "across",
-        "hd",
-        "watch",
         "xmen",
-        "onli",
+        "xmen apocalyps",
         "bluray",
-        "apocalyps"
+        "onli",
+        "digit",
+        "watch",
+        "hd",
+        "watch xmen",
+        "apocalyps",
+        "across"
       ],
       "common": [
         "bit",
@@ -644,105 +644,16 @@
     {
       "number": 9,
       "important": [
-        "cast",
-        "futur past",
-        "cast xmen day",
-        "mutant",
-        "xmen day",
-        "cast xmen",
-        "day futur",
-        "join",
-        "day",
-        "ultim"
-      ],
-      "common": [
-        "days",
-        "days future",
-        "days future past",
-        "future",
-        "future past",
-        "men",
-        "men days",
-        "men days future",
-        "men days future past",
-        "past"
-      ],
-      "messages": [
-        [
-          "Booboo Stewart joins the cast of X-Men: Days of Future Past as Warpath, the ultimate mutant fighter. Timeline Photos",
-          1393273187
-        ],
-        [
-          "See Empire Magazine\u2019s exclusive cover series of the full cast of X-Men: Days of Future Past. #Empire25 Empire Magazine\u2019s 25 Covers of X-Men: Days of Future Past",
-          1390911305
-        ],
-        [
-          "Omar Sy joins the cast of X-Men: Days of Future Past as Bishop. See him on his new Empire Magazine cover exclusive now! #Empire25 Timeline Photos",
-          1390886348
-        ],
-        [
-          "Mutants get ready! Director Bryan Singer and the cast of X-Men: Days of Future Past are excited to share something big on 1/27 from Empire Magazine. #Empire25 http://bit.ly/1eGCUpg Timeline Photos",
-          1390508812
-        ],
-        [
-          "Toad returns, played by Evan Jonigkeit, to the cast of X-Men: Days of Future Past. Which Classic 'X-Men' Character Is Making A 'Days Of Future Past' Comeback? Actor Evan Jonigkeit reveals who he's playing and how he prepared for the role. ",
-          1389144994
-        ],
-        [
-          "Empire Magazine journeys to the 70\u2019s, on set, with the cast of X-Men: Days of Future Past. Exclusive New Behind-The-Scenes Image From X-Men: Days Of Future Past | News | Empire Say hello to Bryan Singer's '70s mutants",
-          1388516863
-        ],
-        [
-          "X-Men: Days of Future Past takes Comic-Con by storm with a Sentinel Display and surprise panel with Bryan Singer and the entire cast. X-Men: Days of Future Past Comic-Con Photo Gallery",
-          1374942340
-        ],
-        [
-          "Everyone is talking about it. Comic-Con: 'X-Men: Days of Future Past' Cast Sends Hall H Into Frenzy Fox brought out the entire cast of X-Men: Days of Future Past for Comic-Con, sending Hall H into pandemonium.",
-          1374432705
-        ],
-        [
-          "Ladies and Gentlemen, we present to you the cast of X-Men: Days of Future Past. Timeline Photos",
-          1374361887
-        ],
-        [
-          "Director Bryan Singer welcomes rising star Evan Peters to the cast of X-men: Days of Future Past. #Quicksilver. Timeline Photos",
-          1369349518
-        ],
-        [
-          "A few new and familiar faces, and a few oddly \"empty\" places... \r\n\r\nSee anyone you recognize from the cast of X-Men: Days of Future Past? Timeline Photos",
-          1363394699
-        ],
-        [
-          "More exciting news as Bryan Singer welcomes actor Omar Sy to the cast of X-men: Days of Future Past. \r\n\r\nAny guesses on who he'll be playing? Timeline Photos",
-          1362261282
-        ],
-        [
-          "Big casting announcement from director Bryan Singer! \n\nWelcome Peter Dinklage (Game of Thrones) to the cast of X-MEN: Days of Future Past. Timeline Photos",
-          1360807032
-        ]
-      ],
-      "dates_start": 1366850140,
-      "dates_end": 1390502317,
-      "likes_avg": 6014,
-      "likes_stdev": 4540,
-      "comments_avg": 273,
-      "comments_stdev": 231,
-      "shares_avg": 749,
-      "shares_stdev": 671
-    },
-    {
-      "number": 10,
-      "important": [
-        "trask",
-        "timelin",
-        "timelin photo",
-        "mutant",
-        "industri",
-        "across",
-        "mutanttruth",
         "photo",
+        "mutant",
         "xmen",
-        "year"
+        "timelin photo",
+        "mutanttruth",
+        "industri",
+        "year",
+        "across",
+        "timelin",
+        "trask"
       ],
       "common": [
         "bit",
@@ -820,18 +731,18 @@
       "shares_stdev": 557
     },
     {
-      "number": 11,
+      "number": 10,
       "important": [
-        "ensembl fight war surviv",
-        "across two",
-        "digit",
-        "across",
-        "ensembl fight war",
-        "ensembl fight",
-        "speci",
-        "hd",
+        "avail",
         "ultim xmen ensembl",
-        "avail"
+        "ensembl fight",
+        "ensembl fight war",
+        "digit",
+        "ensembl fight war surviv",
+        "hd",
+        "across two",
+        "speci",
+        "across"
       ],
       "common": [
         "days",
@@ -909,17 +820,17 @@
       "shares_stdev": 8966
     },
     {
-      "number": 12,
+      "number": 11,
       "important": [
         "timelin",
-        "timelin photo",
-        "xmen dofp timelin",
-        "across",
         "photo",
         "xmen",
-        "sentinel",
         "dofp",
         "dofp timelin",
+        "xmen dofp timelin",
+        "sentinel",
+        "across",
+        "timelin photo",
         "xmen dofp"
       ],
       "common": [
@@ -998,18 +909,18 @@
       "shares_stdev": 1591
     },
     {
-      "number": 13,
+      "number": 12,
       "important": [
-        "new",
         "fox",
         "mutant",
-        "across",
-        "exclus",
         "xmen",
-        "join",
-        "welcom",
+        "xmen apocalyps",
         "play",
-        "xmen apocalyps"
+        "exclus",
+        "welcom",
+        "new",
+        "join",
+        "across"
       ],
       "common": [
         "men",
@@ -1087,18 +998,18 @@
       "shares_stdev": 742
     },
     {
-      "number": 14,
+      "number": 13,
       "important": [
-        "xmentix igiphycom",
-        "see",
         "storm",
-        "theater",
-        "apocalyps play theater",
         "igiphycom",
         "xmentix",
-        "apocalyps play",
         "xmen apocalyps",
-        "play theater"
+        "xmentix igiphycom",
+        "theater",
+        "apocalyps play theater",
+        "play theater",
+        "apocalyps play",
+        "see"
       ],
       "common": [
         "apocalypse playing",
@@ -1180,18 +1091,18 @@
       "shares_stdev": 125
     },
     {
-      "number": 15,
+      "number": 14,
       "important": [
-        "timelin",
+        "photo",
+        "avail",
+        "xmen avail",
         "time",
         "timelin photo",
-        "avail us",
-        "xmen avail",
-        "us",
-        "across",
         "begin",
-        "photo",
-        "avail"
+        "us",
+        "avail us",
+        "across",
+        "timelin"
       ],
       "common": [
         "available",
@@ -1277,18 +1188,18 @@
       "shares_stdev": 179
     },
     {
-      "number": 16,
+      "number": 15,
       "important": [
-        "xmenapocalyps",
-        "timelin photo",
-        "gift",
         "timelin",
+        "photo",
+        "gphis",
+        "timelin photo",
+        "xmenapocalyps",
         "xavier",
         "today",
         "across",
-        "photo",
-        "content",
-        "gphis"
+        "gift",
+        "content"
       ],
       "common": [
         "charles",
@@ -1374,18 +1285,18 @@
       "shares_stdev": 8736
     },
     {
-      "number": 17,
+      "number": 16,
       "important": [
-        "ever",
-        "mystiqu",
-        "magneto",
-        "look",
-        "scene",
-        "chang",
-        "xmen day",
-        "back",
         "special",
-        "jennif"
+        "mystiqu",
+        "look",
+        "ever",
+        "magneto",
+        "xmen day",
+        "jennif",
+        "chang",
+        "scene",
+        "back"
       ],
       "common": [
         "days future",
@@ -1471,18 +1382,18 @@
       "shares_stdev": 558
     },
     {
-      "number": 18,
+      "number": 17,
       "important": [
-        "new xmen apocalyps",
-        "empir magazin",
-        "director",
-        "singer",
-        "director bryan",
-        "bryan",
-        "apocalyps",
-        "empir",
         "xmen apocalyps",
-        "trailer"
+        "singer",
+        "empir magazin",
+        "trailer",
+        "new xmen apocalyps",
+        "director",
+        "empir",
+        "bryan",
+        "director bryan",
+        "apocalyps"
       ],
       "common": [
         "bryan singer",
@@ -1572,18 +1483,18 @@
       "shares_stdev": 565
     },
     {
-      "number": 19,
+      "number": 18,
       "important": [
         "timelin",
-        "timelin photo",
         "xmen apocalyps timelin",
         "photo",
-        "favorit",
         "xmen",
+        "xmen apocalyps",
+        "favorit",
+        "apocalyps timelin",
         "charact",
         "apocalyps",
-        "xmen apocalyps",
-        "apocalyps timelin"
+        "timelin photo"
       ],
       "common": [
         "000",
@@ -1673,18 +1584,18 @@
       "shares_stdev": 3753
     },
     {
-      "number": 20,
+      "number": 19,
       "important": [
-        "apocalyps theater",
-        "theater may",
-        "see",
-        "apocalyps theater may",
-        "may",
-        "theater",
         "see xmen",
-        "apocalyps",
         "xmen apocalyps",
-        "see xmen apocalyps"
+        "apocalyps theater may",
+        "apocalyps",
+        "apocalyps theater",
+        "theater",
+        "see xmen apocalyps",
+        "theater may",
+        "may",
+        "see"
       ],
       "common": [
         "27",
@@ -1778,123 +1689,18 @@
       "shares_stdev": 1646
     },
     {
-      "number": 21,
-      "important": [
-        "timelin photo",
-        "across",
-        "befor",
-        "logan",
-        "claw",
-        "theater",
-        "watch",
-        "welcom",
-        "back",
-        "wolverin"
-      ],
-      "common": [
-        "claws",
-        "logan",
-        "photos",
-        "ready",
-        "theaters",
-        "tickets",
-        "timeline",
-        "timeline photos",
-        "today",
-        "wolverine"
-      ],
-      "messages": [
-        [
-          "Before you watch Logan in theaters, relive his journey with the #Wolverine 2-Movie Collection. http://apple.co/2k0HQNn giphy.com",
-          1486160906
-        ],
-        [
-          "Welcome Back. Logan #Logan 3.3.17",
-          1475699463
-        ],
-        [
-          "Bone claws or Adamantium? You decide. Timeline Photos",
-          1416069001
-        ],
-        [
-          "Wolverine doesn\u2019t run away from bullets. Bullets run away from Wolverine. \nhttp://bit.ly/WolverineGIF #XMen Timeline Photos",
-          1413821538
-        ],
-        [
-          "The fate of the X-Men depends on Wolverine. Timeline Photos",
-          1398897892
-        ],
-        [
-          "BREAKING NEWS! Wolverhampton Station in England will now be known as Wolverine Station! #XMenTrain Timeline Photos",
-          1396375884
-        ],
-        [
-          "Jalen Rose, a Wolverine since the 90s, now has the claws to prove it. #WolverineUnleashed The Wolverine ESPN Promo - Jalen Rose helps out Sage Steele Jalen Rose got his hands on The Wolverine claws. Watch what happens when he unleashes them to help Sage Steele. Sink your claws into The Wolverine available ...",
-          1385150873
-        ],
-        [
-          "Just released! The Wolverine iTunes multi-touch book. Explore nearly 59 pages of content that allows you to go deeper inside The Wolverine\u2019s mutant powers. #WolverineUnleashed \nhttp://bit.ly/19z9pnr The Wolverine Read a sample or download The Wolverine by Fox Home Entertainment with iBooks.",
-          1383683732
-        ],
-        [
-          "The courage to face danger.\nDon't miss The Wolverine 'Atomic Bomb Clip'. The Wolverine - 'Atomic Bomb Clip' The Wolverine tickets on sale today!",
-          1373576644
-        ],
-        [
-          "Two words: bullet train.\n\nThe Wolverine hits theaters July 26. The Wolverine - Extended Train Fight Scene The Wolverine advance tickets on sale today!",
-          1373390561
-        ],
-        [
-          "What if it\u2019s the only thing you feel? Logan What if it\u2019s the only thing you feel?",
-          1373241588
-        ],
-        [
-          "A samurai without a cause. The Wolverine - A Ronin Story Featurette Get Advance Tickets for The Wolverine Today!",
-          1372793754
-        ],
-        [
-          "Don't miss out.\nAdvance tickets for The Wolverine are on sale NOW!\nBuy your tickets: http://www.thewolverinemovie.com/\nJoin the conversation - #WolverineTix The Wolverine (2013) - #WolverineTix Presale Event Today Get Advance Tickets for The Wolverine Today!",
-          1372714371
-        ],
-        [
-          "Logan is ready for more action. Timeline Photos",
-          1366311853
-        ],
-        [
-          "Check out photos of the cast from The Wolverine. In theaters summer 2013. Logan Check out photos of the cast from The Wolverine. In theaters summer 2013.",
-          1364575590
-        ],
-        [
-          "The Wolverine is poised. Ready to strike. Timeline Photos",
-          1355411265
-        ],
-        [
-          "New image of the bone claws for The Wolverine. Are you ready? Logan New image of the bone claws for The Wolverine. Are you ready?",
-          1352144119
-        ]
-      ],
-      "dates_start": 1354802512,
-      "dates_end": 1428729138,
-      "likes_avg": 24492,
-      "likes_stdev": 27491,
-      "comments_avg": 695,
-      "comments_stdev": 1059,
-      "shares_avg": 1901,
-      "shares_stdev": 2585
-    },
-    {
-      "number": 22,
+      "number": 20,
       "important": [
         "battl",
+        "summer",
         "theater timelin",
         "greatest",
         "dont",
-        "summer",
-        "theater",
         "play",
-        "play theater timelin",
+        "miss",
+        "theater",
         "play theater",
-        "miss"
+        "play theater timelin"
       ],
       "common": [
         "http fox co",
@@ -1992,18 +1798,18 @@
       "shares_stdev": 647
     },
     {
-      "number": 23,
+      "number": 21,
       "important": [
-        "best",
-        "fight war",
         "mutant",
-        "roguecut",
-        "across",
-        "watch",
         "xmen",
-        "year",
         "celebr",
-        "moment"
+        "moment",
+        "fight war",
+        "best",
+        "watch",
+        "roguecut",
+        "year",
+        "across"
       ],
       "common": [
         "bit",
@@ -2109,18 +1915,18 @@
       "shares_stdev": 270
     },
     {
-      "number": 24,
+      "number": 22,
       "important": [
-        "tumblr",
-        "xmen movi",
         "gif",
-        "anim gif exclus content xmen",
+        "anim",
         "exclus content",
+        "movi",
         "anim gif exclus",
         "anim gif",
-        "content",
-        "anim",
-        "movi"
+        "xmen movi",
+        "tumblr",
+        "anim gif exclus content xmen",
+        "content"
       ],
       "common": [
         "animated",
@@ -2230,18 +2036,18 @@
       "shares_stdev": 123
     },
     {
-      "number": 25,
+      "number": 23,
       "important": [
-        "apocalyps arriv",
-        "timelin",
-        "timelin photo",
-        "one",
         "xmen timelin",
-        "across",
+        "timelin",
         "photo",
+        "one",
         "xmen",
+        "arriv",
+        "apocalyps arriv",
         "apocalyps",
-        "arriv"
+        "across",
+        "timelin photo"
       ],
       "common": [
         "mutant",
@@ -2355,18 +2161,18 @@
       "shares_stdev": 638
     },
     {
-      "number": 26,
+      "number": 24,
       "important": [
-        "see xmen day",
-        "futur past play theater timelin",
-        "theater timelin",
-        "day futur past play theater",
         "see xmen",
-        "play",
+        "theater timelin",
+        "futur past play theater timelin",
+        "day futur past play theater",
+        "day futur past play",
         "take",
-        "play theater timelin",
+        "play",
+        "see xmen day",
         "play theater",
-        "day futur past play"
+        "play theater timelin"
       ],
       "common": [
         "days",
@@ -2484,18 +2290,18 @@
       "shares_stdev": 531
     },
     {
-      "number": 27,
+      "number": 25,
       "important": [
+        "futur xmen day",
+        "day futur past buy",
+        "fight futur",
+        "use",
+        "fight futur xmen",
+        "buy ticket",
         "power",
         "meet",
-        "fight futur xmen",
         "futur xmen",
-        "use",
-        "day futur past buy",
-        "futur",
-        "fight futur",
-        "futur xmen day",
-        "buy ticket"
+        "futur"
       ],
       "common": [
         "days",
@@ -2613,18 +2419,18 @@
       "shares_stdev": 2507
     },
     {
-      "number": 28,
+      "number": 26,
       "important": [
-        "timelin",
-        "timelin photo",
-        "xmenapocalyps",
-        "happi birthday",
-        "across",
-        "birthday",
         "photo",
-        "bryan",
+        "man",
+        "timelin photo",
+        "happi birthday",
+        "birthday",
         "onli",
-        "man"
+        "xmenapocalyps",
+        "bryan",
+        "across",
+        "timelin"
       ],
       "common": [
         "birthday",
@@ -2750,18 +2556,18 @@
       "shares_stdev": 694
     },
     {
-      "number": 29,
+      "number": 27,
       "important": [
+        "us timelin",
         "timelin",
         "xmen roguecut us",
         "timelin photo",
-        "us timelin",
-        "roguecut",
-        "us",
-        "futur xmen",
-        "futur",
         "xmen roguecut",
-        "roguecut us"
+        "roguecut us",
+        "us",
+        "roguecut",
+        "futur xmen",
+        "futur"
       ],
       "common": [
         "bit",
@@ -2887,18 +2693,18 @@
       "shares_stdev": 235
     },
     {
-      "number": 30,
+      "number": 28,
       "important": [
-        "xmenapocalyps",
-        "timelin photo",
         "timelin",
+        "photo",
+        "comiccon intern",
+        "xmenapocalyps",
+        "two",
         "intern",
         "ticket",
-        "comiccon intern",
-        "photo",
+        "chanc",
         "comiccon",
-        "two",
-        "chanc"
+        "timelin photo"
       ],
       "common": [
         "bryan",
@@ -3040,18 +2846,18 @@
       "shares_stdev": 1185
     },
     {
-      "number": 31,
+      "number": 29,
       "important": [
-        "battl",
-        "xmenapocalyps",
-        "across",
-        "readi",
-        "quicksilv",
         "xmen",
-        "apocalyps",
-        "apocalyps play",
+        "battl",
         "xmen apocalyps",
-        "young"
+        "young",
+        "apocalyps play",
+        "xmenapocalyps",
+        "quicksilv",
+        "readi",
+        "apocalyps",
+        "across"
       ],
       "common": [
         "apocalypse",
@@ -3197,18 +3003,18 @@
       "shares_stdev": 482
     },
     {
-      "number": 32,
+      "number": 30,
       "important": [
+        "film",
+        "futur past xmen",
+        "hall",
         "hugh jackman jame",
-        "xmen day futur past xmen",
+        "day futur past xmen",
         "jame mcavoy",
         "fassbend",
-        "futur past xmen",
-        "berri",
-        "film",
-        "day futur past xmen",
         "jennif",
-        "hall"
+        "berri",
+        "xmen day futur past xmen"
       ],
       "common": [
         "ian",
@@ -3370,18 +3176,18 @@
       "shares_stdev": 667
     },
     {
-      "number": 33,
+      "number": 31,
       "important": [
-        "see",
-        "fassbend",
+        "fight",
+        "day futur past timelin",
+        "fight futur",
         "magneto xmen",
+        "michael",
+        "fassbend",
         "past timelin",
         "futur",
-        "fight futur",
-        "day futur past timelin",
-        "fight",
-        "michael",
-        "michael fassbend"
+        "michael fassbend",
+        "see"
       ],
       "common": [
         "days",
@@ -3559,18 +3365,18 @@
       "shares_stdev": 1964
     },
     {
-      "number": 34,
+      "number": 32,
       "important": [
-        "see",
-        "today xmentix",
-        "today",
-        "get ticket",
-        "ticket",
-        "get",
         "see xmen",
+        "get",
+        "xmen apocalyps",
         "xmentix timelin",
+        "ticket",
+        "get ticket",
+        "today xmentix",
         "xmentix",
-        "xmen apocalyps"
+        "see",
+        "today"
       ],
       "common": [
         "apocalypse",
@@ -3756,18 +3562,18 @@
       "shares_stdev": 3615
     },
     {
-      "number": 35,
+      "number": 33,
       "important": [
-        "featur",
         "special",
-        "befor",
-        "futur",
-        "sentinel",
-        "ani",
-        "action",
-        "celebr",
         "wolverin",
-        "movi"
+        "celebr",
+        "featur",
+        "movi",
+        "ani",
+        "befor",
+        "action",
+        "sentinel",
+        "futur"
       ],
       "common": [
         "days future",
@@ -3953,18 +3759,18 @@
       "shares_stdev": 2799
     },
     {
-      "number": 36,
+      "number": 34,
       "important": [
-        "new",
-        "premier",
-        "power",
         "mutant",
-        "across",
         "tomorrow",
-        "evan",
-        "know",
         "evan peter",
-        "come"
+        "evan",
+        "power",
+        "new",
+        "know",
+        "premier",
+        "come",
+        "across"
       ],
       "common": [
         "apocalypse",
@@ -4194,18 +4000,18 @@
       "shares_stdev": 27988
     },
     {
-      "number": 37,
+      "number": 35,
       "important": [
-        "xperienc",
         "insid",
-        "cast xmen apocalyps",
-        "xmenliv timelin",
-        "submit",
-        "across",
-        "cast xmen",
         "get",
+        "look",
+        "xperienc",
+        "submit",
+        "cast xmen apocalyps",
+        "cast xmen",
         "apocalyps",
-        "look"
+        "across",
+        "xmenliv timelin"
       ],
       "common": [
         "days",
@@ -4463,18 +4269,18 @@
       "shares_stdev": 2314
     },
     {
-      "number": 38,
+      "number": 36,
       "important": [
-        "cut",
-        "power",
-        "across",
-        "exclus",
-        "exclus xmen",
-        "rogu",
         "xmen",
+        "rogu",
+        "xmen apocalyps",
+        "across",
+        "cut",
+        "exclus",
+        "power",
         "day",
         "apocalyps",
-        "xmen apocalyps"
+        "exclus xmen"
       ],
       "common": [
         "days",
@@ -4654,6 +4460,10 @@
           1394093092
         ],
         [
+          "Booboo Stewart joins the cast of X-Men: Days of Future Past as Warpath, the ultimate mutant fighter. Timeline Photos",
+          1393273187
+        ],
+        [
           "Slide between past and future on the X-Men: Days of Future Past official site. X-Men Days of Future Past | Official Movie Site Bryan Singer returns to direct X-Men: Days of Future Past in which the ultimate X-Men ensemble join forces in an epic battle that must change the past, to save our future.",
           1393261928
         ],
@@ -4674,8 +4484,28 @@
           1391028379
         ],
         [
+          "See Empire Magazine\u2019s exclusive cover series of the full cast of X-Men: Days of Future Past. #Empire25 Empire Magazine\u2019s 25 Covers of X-Men: Days of Future Past",
+          1390911305
+        ],
+        [
+          "Omar Sy joins the cast of X-Men: Days of Future Past as Bishop. See him on his new Empire Magazine cover exclusive now! #Empire25 Timeline Photos",
+          1390886348
+        ],
+        [
+          "Mutants get ready! Director Bryan Singer and the cast of X-Men: Days of Future Past are excited to share something big on 1/27 from Empire Magazine. #Empire25 http://bit.ly/1eGCUpg Timeline Photos",
+          1390508812
+        ],
+        [
           "Have you seen the X-Men: Days of Future Past trailer in theaters yet? Watch it here again!",
           1390007811
+        ],
+        [
+          "Toad returns, played by Evan Jonigkeit, to the cast of X-Men: Days of Future Past. Which Classic 'X-Men' Character Is Making A 'Days Of Future Past' Comeback? Actor Evan Jonigkeit reveals who he's playing and how he prepared for the role. ",
+          1389144994
+        ],
+        [
+          "Empire Magazine journeys to the 70\u2019s, on set, with the cast of X-Men: Days of Future Past. Exclusive New Behind-The-Scenes Image From X-Men: Days Of Future Past | News | Empire Say hello to Bryan Singer's '70s mutants",
+          1388516863
         ],
         [
           "Check out the new X-Men: Days of Future Past photo album on Facebook. #XMen #DOFP X-Men: Days of Future Past Photos",
@@ -4714,6 +4544,18 @@
           1375031310
         ],
         [
+          "X-Men: Days of Future Past takes Comic-Con by storm with a Sentinel Display and surprise panel with Bryan Singer and the entire cast. X-Men: Days of Future Past Comic-Con Photo Gallery",
+          1374942340
+        ],
+        [
+          "Everyone is talking about it. Comic-Con: 'X-Men: Days of Future Past' Cast Sends Hall H Into Frenzy Fox brought out the entire cast of X-Men: Days of Future Past for Comic-Con, sending Hall H into pandemonium.",
+          1374432705
+        ],
+        [
+          "Ladies and Gentlemen, we present to you the cast of X-Men: Days of Future Past. Timeline Photos",
+          1374361887
+        ],
+        [
           "UNBELIEVABLE! Bryan Singer has the ENTIRE CAST of X-Men onstage: Days of Future Past to Comic-Con International.\r\n\r\nFor live updates, follow along on Twitter: @XMenMovies\r\n\r\n(http://twitter.com/xmenmovies) Timeline Photos",
           1374358255
         ],
@@ -4724,6 +4566,10 @@
         [
           "Michael Fassbender leads the mutant uprising as Magneto in X-Men: Days of Future Past. \r\n\r\n(For more updates follow @BryanSinger and @XmenMovies on Twitter.) Timeline Photos",
           1370456800
+        ],
+        [
+          "Director Bryan Singer welcomes rising star Evan Peters to the cast of X-men: Days of Future Past. #Quicksilver. Timeline Photos",
+          1369349518
         ],
         [
           "Jennifer Lawrence as a vengeful Mystique. #TrueColors\r\n\r\n(For more X-Men: Days of Future Past updates follow @BryanSinger and @XmenMovies on Twitter.) Timeline Photos",
@@ -4742,18 +4588,30 @@
           1365611357
         ],
         [
+          "A few new and familiar faces, and a few oddly \"empty\" places... \r\n\r\nSee anyone you recognize from the cast of X-Men: Days of Future Past? Timeline Photos",
+          1363394699
+        ],
+        [
+          "More exciting news as Bryan Singer welcomes actor Omar Sy to the cast of X-men: Days of Future Past. \r\n\r\nAny guesses on who he'll be playing? Timeline Photos",
+          1362261282
+        ],
+        [
+          "Big casting announcement from director Bryan Singer! \n\nWelcome Peter Dinklage (Game of Thrones) to the cast of X-MEN: Days of Future Past. Timeline Photos",
+          1360807032
+        ],
+        [
           "What do you guys think? Why an X-Men Days of Future Past Movie Makes Sense",
           1343754289
         ]
       ],
-      "dates_start": 1377082821,
-      "dates_end": 1415203896,
-      "likes_avg": 15076,
-      "likes_stdev": 16215,
-      "comments_avg": 353,
-      "comments_stdev": 624,
-      "shares_avg": 1935,
-      "shares_stdev": 5359
+      "dates_start": 1374000794,
+      "dates_end": 1412387931,
+      "likes_avg": 13546,
+      "likes_stdev": 15282,
+      "comments_avg": 339,
+      "comments_stdev": 578,
+      "shares_avg": 1734,
+      "shares_stdev": 4914
     }
   ]
 }

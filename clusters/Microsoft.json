@@ -2,28 +2,182 @@
   "pagename": "Microsoft",
   "globalstats": {
     "messages": 1341,
-    "likes_avg": 1075,
-    "likes_stdev": 1910,
-    "comments_avg": 93,
-    "comments_stdev": 144,
-    "shares_avg": 158,
-    "shares_stdev": 359,
+    "likes_avg": 1054,
+    "likes_stdev": 1943,
+    "comments_avg": 96,
+    "comments_stdev": 245,
+    "shares_avg": 152,
+    "shares_stdev": 304,
     "graph_uri": "clusters/Microsoft.png"
   },
   "clusters": [
     {
       "number": 1,
       "important": [
-        "get",
-        "artist seri mice",
-        "artist",
+        "field trip",
+        "access",
+        "trip",
+        "archiv",
+        "microsoft",
+        "field",
+        "control",
+        "xbox",
+        "one",
+        "microsoft archiv"
+      ],
+      "common": [
+        "archives",
+        "field",
+        "field trip",
+        "field trip microsoft",
+        "field trip microsoft archives",
+        "microsoft",
+        "microsoft archives",
+        "trip",
+        "trip microsoft",
+        "trip microsoft archives"
+      ],
+      "messages": [
+        [
+          "Who had one of these original Xbox controllers? Field Trip! The Microsoft Archives",
+          1339168389
+        ],
+        [
+          "Umm\u2026moving on. Field Trip! The Microsoft Archives",
+          1339168389
+        ],
+        [
+          "28 lbs. of processor for...this Field Trip! The Microsoft Archives",
+          1339168388
+        ],
+        [
+          "Run for your lives! Field Trip! The Microsoft Archives",
+          1339168388
+        ],
+        [
+          "A life-sized Clippy costume, encased in plastic. Biding its time. Field Trip! The Microsoft Archives",
+          1339168388
+        ],
+        [
+          "This was the Altair 8800, similar to the model that inspired Bill Gates and Paul Allen when they saw it on the cover of Popular Electronics in 1975.  But this is the 8800b \u2013 a sort of \u201cversion 2.0\u201d of this device.  Perhaps it had an extra switch. Field Trip! The Microsoft Archives",
+          1339168388
+        ],
+        [
+          "This Compaq \u201cportable\u201d weighs in at 28 lbs. (12.7 Kg) Field Trip! The Microsoft Archives",
+          1339168388
+        ],
+        [
+          "This Xbox was shown when the project was first revealed at the Game Developer\u2019s Conference in 2000 \u2013 It was clear at the time that this would not be the final hardware design. Field Trip! The Microsoft Archives",
+          1339168388
+        ],
+        [
+          "An early Microsoft logo used on consumer products. Makes us look like a heavy metal band. Field Trip! The Microsoft Archives",
+          1339168387
+        ],
+        [
+          "No, that\u2019s not a tiny coffee cup. It\u2019s an 8 inch floppy! Field Trip! The Microsoft Archives",
+          1339168387
+        ]
+      ],
+      "dates_start": 1339168387,
+      "dates_end": 1339168388,
+      "likes_avg": 347,
+      "likes_stdev": 322,
+      "comments_avg": 84,
+      "comments_stdev": 103,
+      "shares_avg": 58,
+      "shares_stdev": 34
+    },
+    {
+      "number": 2,
+      "important": [
+        "hear",
+        "version",
+        "facebook page",
+        "transit",
+        "day transit",
+        "post",
+        "hello",
+        "good",
+        "good news",
+        "us"
+      ],
+      "common": [
+        "de",
+        "facebook",
+        "fans",
+        "local",
+        "microsoft",
+        "microsoft facebook",
+        "page",
+        "posts",
+        "us",
+        "version"
+      ],
+      "messages": [
+        [
+          "Hello to all our fans in Nigeria. Over the next few days, we\u2019ll be transitioning you to a local version of the Microsoft Facebook page. The good news is that you'll be hearing from us with posts written specifically for Nigeria. Let us know what you\u2019d like to hear more about!",
+          1425308460
+        ],
+        [
+          "Hello to all our fans in Guatemala. Over the next few days, we\u2019ll be transitioning fans to a local version of the Microsoft Facebook page. The good news is that you'll be hearing from us in Spanish, with posts written specifically for Guatemala. Let us know what you\u2019d like to hear more about!\n\n\u00a1Hola a todos nuestros fans de Guatemala! Durante los pr\u00f3ximos d\u00edas vamos a estar mudando a nuestros fans a una versi\u00f3n local de la p\u00e1gina de Microsoft en Facebook. La buena noticia es que van a seguir ley\u00e9ndonos en espa\u00f1ol, con mensajes escritos espec\u00edficamente para Guatemala. \u00a1Cu\u00e9ntanos sobre qu\u00e9 te gustar\u00eda saber m\u00e1s a partir de ahora!",
+          1425308401
+        ],
+        [
+          "Hello to all our fans in Finland. Over the next few days, we\u2019ll be transitioning you to a local version of the Microsoft Facebook page. The good news is that you'll be hearing from us with posts written in Finnish, specifically for Finland. Let us know what you\u2019d like to hear more about!\n\nHei kaikki suomalaiset Microsoft-fanit! Yhdist\u00e4mme Microsoft Suomi \u2013sivun osaksi Microsoftin kansainv\u00e4list\u00e4 Facebook-sivua seuraavien muutaman p\u00e4iv\u00e4n aikana. Tulet kuitenkin edelleen kuulemaan meist\u00e4 suomeksi ja n\u00e4kem\u00e4\u00e4n juuri suomalaisia kiinnostavia sis\u00e4lt\u00f6j\u00e4. Kerro meille, mist\u00e4 haluaisit kuulla enemm\u00e4n! Timeline Photos",
+          1425305222
+        ],
+        [
+          "Hello to all our fans in Austria. Over the next few days, we\u2019ll be transitioning you to a local version of the Microsoft Facebook page. The good news is that you'll be hearing from us with posts written in German, specifically for Austria. Let us know what you\u2019d like to hear more about!\n\nHallo an all unsere Fans in \u00d6sterreich! Wir \u00fcbersiedeln in den n\u00e4chsten Tagen mit unserer lokalen Facebook Fanseite auf die globale Microsoft Fanseite. Das Sch\u00f6ne daran ist, dass ihr wieder in den Genuss von deutschsprachigen Posts kommt, die speziell den \u00f6sterreichischen Markt betreffen. Welche Themen sollen wir eurer \nMeinung nach vermehrt in der Zukunft bringen? Timeline Photos",
+          1425305163
+        ],
+        [
+          "Hello to all our fans in Luxembourg. Over the next few days, we\u2019ll be transitioning you to a local version of the Microsoft Facebook page. The good news is that you'll be hearing from us with posts written specifically for you. Let us know what you\u2019d like to hear more about!\n\nBonjour tr\u00e8s chers fans luxembourgeois de Microsoft ! Ce petit message pour vous informer du fait que vous serez bient\u00f4t transf\u00e9r\u00e9s automatiquement vers la version luxembourgeoise de cette page Facebook Microsoft. C\u2019est une tr\u00e8s bonne nouvelle : vous y trouverez en effet des actualit\u00e9s locales de Microsoft, des r\u00e9cits sympas et des trucs et astuces super pratiques. N\u2019h\u00e9sitez pas \u00e0 nous faire savoir ce qui vous int\u00e9resse avant tout! Timeline Photos",
+          1425305101
+        ],
+        [
+          "Hello to all our fans in Belgium. Over the next few days, we\u2019ll be transitioning you to a local version of the Microsoft Facebook page. The good news is that you'll be hearing from us with posts written in French specifically for Belgium. Let us know what you\u2019d like to hear more about!\n\nBonjour chers fans belges de Microsoft ! Ce petit message pour vous informer du fait que vous serez bient\u00f4t transf\u00e9r\u00e9s automatiquement vers la version belge de cette page Facebook Microsoft. C\u2019est une tr\u00e8s bonne nouvelle : vous y trouverez en effet des actualit\u00e9s locales de Microsoft, des r\u00e9cits sympas et des trucs et astuces super pratiques en fran\u00e7ais. N\u2019h\u00e9sitez pas \u00e0 nous faire savoir ce qui vous int\u00e9resse avant tout! Timeline Photos",
+          1425305041
+        ],
+        [
+          "Hello to all our fans in Jordan. Over the next few days, we\u2019ll be transitioning you to a local version of the Microsoft Facebook page. The good news is that you'll be hearing from us with posts written in Arabic, specifically for Jordan. Let us know what you\u2019d like to hear more about!\n\n\u0645\u0631\u062d\u0628\u0627\u064b \u0628\u0645\u0639\u062c\u0628\u064a \u0635\u0641\u062d\u0629 \u0645\u0627\u064a\u0643\u0631\u0648\u0633\u0648\u0641\u062a \u0627\u0644\u062e\u0627\u0635\u0629 \u0628\u0627\u0644\u0623\u0631\u062f\u0646! \u062e\u0644\u0627\u0644 \u0627\u0644\u0623\u064a\u0627\u0645 \u0627\u0644\u0642\u0644\u064a\u0644\u0629 \u0627\u0644\u0645\u0642\u0628\u0644\u0629\u060c \u0633\u0646\u0642\u0648\u0645 \u0628\u0646\u0642\u0644 \u0644\u0627\u0626\u062d\u0629 \u0627\u0644\u0645\u0639\u062c\u0628\u064a\u0646 \u0644\u0646\u0633\u062e\u0629 \u0645\u062d\u0644\u064a\u0629 \u0645\u0646 \u0635\u0641\u062d\u0629 \u0645\u0627\u064a\u0643\u0631\u0648\u0633\u0648\u0641\u062a \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 \u0639\u0644\u0649 \u0627\u0644\u0641\u064a\u0633\u0628\u0648\u0643. \u0627\u0644\u0631\u062c\u0627\u0621 \u0627\u0637\u0644\u0627\u0639\u0646\u0627 \u0639\u0644\u0649 \u0627\u0644\u0645\u0648\u0627\u0636\u064a\u0639 \u0648\u0627\u0644\u0623\u0641\u0643\u0627\u0631 \u0627\u0644\u062a\u064a \u062a\u062d\u0638\u0649 \u0628\u0627\u0647\u062a\u0645\u0627\u0645\u0643\u0645 \u0644\u0645\u0639\u0631\u0641\u0629 \u0627\u0644\u0645\u0632\u064a\u062f \u0639\u0646\u0647\u0627.",
+          1425304920
+        ],
+        [
+          "Hello to all our fans in Lebanon. Over the next few days, we\u2019ll be transitioning fans to a local version of the Microsoft Facebook page. The good news is that you\u2019ll be hearing from us with posts written specifically for Lebanon. Let us know what you\u2019d like to hear more about!",
+          1425304860
+        ],
+        [
+          "Hello to all our fans in Turkey. Over the next few days, we\u2019ll be transitioning fans to a local version of the Microsoft Facebook page. The good news is that you\u2019ll be hearing from us in Turkish, with posts written specifically for Turkey. Let us know what you\u2019d like to hear more about!\n\nMerhaba T\u00fcrkiye\u2019deki t\u00fcm Microsoft takip\u00e7ileri! \u00d6n\u00fcm\u00fczdeki bir ka\u00e7 g\u00fcnde sayfam\u0131z\u0131 be\u011fenen kullan\u0131c\u0131lar\u0131 lokal Microsoft Facebook sayfas\u0131na aktaraca\u011f\u0131z. \u0130yi haber bundan sonraT\u00fcrk\u00e7e olarak, \u00f6zellikle sizler i\u00e7in haz\u0131rlanm\u0131\u015f i\u00e7erikler T\u00fcrk\u00e7e olarak haber alacaks\u0131n\u0131z. Daha fazla haber almak istedi\u011finiz konular\u0131 l\u00fctfen bizimle yorum olarak payla\u015f\u0131n!",
+          1425304801
+        ],
+        [
+          "Hello to all our fans in Pakistan. Over the next few days, we\u2019ll be transitioning fans to a local version of the Microsoft Facebook page. The good news is that you\u2019ll be seeing posts written specifically for Pakistan. Let us know what you\u2019d like to hear more about!",
+          1425261600
+        ]
+      ],
+      "dates_start": 1425288035,
+      "dates_end": 1425314678,
+      "likes_avg": 111,
+      "likes_stdev": 59,
+      "comments_avg": 14,
+      "comments_stdev": 12,
+      "shares_avg": 5,
+      "shares_stdev": 3
+    },
+    {
+      "number": 3,
+      "important": [
         "seri",
-        "hand",
+        "artist",
+        "artist seri",
         "microsoft hardwar",
         "hardwar",
         "mice",
-        "artist seri",
-        "art"
+        "get",
+        "art",
+        "hand",
+        "artist seri mice"
       ],
       "common": [
         "artist",
@@ -121,18 +275,590 @@
       "shares_stdev": 150
     },
     {
-      "number": 2,
+      "number": 4,
       "important": [
-        "follow us",
-        "mani",
-        "account microsoft",
-        "us instagram",
-        "passion",
-        "boundari",
+        "access",
+        "microsoft",
+        "timelin",
+        "timelin photo",
+        "photo"
+      ],
+      "common": [
+        "5to9",
+        "5to9 timeline",
+        "5to9 timeline photos",
+        "http",
+        "http msft",
+        "ly",
+        "msft",
+        "photos",
+        "timeline",
+        "timeline photos"
+      ],
+      "messages": [
+        [
+          "#\u0645\u0627\u064a\u0643\u0631\u0648\u0633\u0648\u0641\u062a \u062a\u0639\u062a\u0632\u0645 \u0625\u0637\u0644\u0627\u0642 \u062a\u0635\u0645\u064a\u0645 \u062c\u062f\u064a\u062f \u0644\u0648\u0627\u062c\u0647\u0629 \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645 \u0639\u0644\u0649 \u0646\u0638\u0627\u0645 \u0627\u0644\u062a\u0634\u063a\u064a\u0644 #\u0648\u064a\u0646\u062f\u0648\u063210 \nMicrosoft \nhttps://aitnews.com/?p=259521 Timeline Photos",
+          1486706424
+        ],
+        [
+          "How do you express yourself from #5to9? Timeline Photos",
+          1422046804
+        ],
+        [
+          "How do you recharge from #5to9? Timeline Photos",
+          1418418004
+        ],
+        [
+          "Do you feel more creative from #5to9? Timeline Photos",
+          1417811402
+        ],
+        [
+          "When the workday ends, some reach for a lens. How do you own your #5to9? Timeline Photos",
+          1415390102
+        ],
+        [
+          "#ProTips: Titanfall http://msft.it/61889LDk Timeline Photos",
+          1398359915
+        ],
+        [
+          "No more standing by for #Titanfall. Timeline Photos",
+          1394557469
+        ],
+        [
+          "Wheee! Timeline Photos",
+          1388684701
+        ],
+        [
+          "More about Solitaire in this fascinating article from Slate: http://msft.it/6030wPw6 Timeline Photos",
+          1377625738
+        ],
+        [
+          "#HappyFriday from sunny Redmond, WA! Timeline Photos",
+          1372439686
+        ],
+        [
+          "VROOM: http://msft.it/6038kUmG Timeline Photos",
+          1371051390
+        ],
+        [
+          "Soon\u2026 Timeline Photos",
+          1369099631
+        ],
+        [
+          "Then and Now: Timeline Photos",
+          1366900727
+        ],
+        [
+          "Then and now: Bill Gates and Paul Allen http://msft.it/6033n7lR Timeline Photos",
+          1365182129
+        ],
+        [
+          "Accessorize: http://bit.ly/13mhcmR Timeline Photos",
+          1362066663
+        ],
+        [
+          "Here kitty, kitty. Timeline Photos",
+          1359057662
+        ],
+        [
+          "Holy Batphone! http://bit.ly/NbvWh7 Timeline Photos",
+          1339597448
+        ],
+        [
+          "Microsoft commits to carbon neutrality: http://bit.ly/JOPFQr Timeline Photos",
+          1337019885
+        ]
+      ],
+      "dates_start": 1351816515,
+      "dates_end": 1421740793,
+      "likes_avg": 4125,
+      "likes_stdev": 6565,
+      "comments_avg": 208,
+      "comments_stdev": 267,
+      "shares_avg": 671,
+      "shares_stdev": 1322
+    },
+    {
+      "number": 5,
+      "important": [
+        "microsoft employe support",
+        "children",
+        "support",
+        "built",
+        "employe support",
+        "home",
+        "givinghero join microsoft employe support",
+        "build",
+        "givinghero",
+        "join microsoft employe"
+      ],
+      "common": [
+        "givinghero",
+        "http",
+        "http msft",
+        "join",
+        "microsoft",
+        "msft",
+        "photos",
+        "timeline",
+        "timeline photos",
+        "youth"
+      ],
+      "messages": [
+        [
+          "Steve, who works in Microsoft sales, supports the InterAmerican Restoration Corporation: \u201cInter-Urban Restoration Corporation of Honduras has built over 3,000 homes, children\u2019s home, a medical clinic serving 10,000 patients a year, and is building a women\u2019s trade-training center.\u201d\n\nBe a #GivingHero: Join Microsoft employees who support the IRC and other youth-oriented causes: http://msft.it/6185jSx5 Timeline Photos",
+          1385751605
+        ],
+        [
+          "Tom, a Microsoft engineer, supports Xbot Robotics: \u201cHow could I possibly have more fun while doing more good? I love sharing my passion for engineering and giving kids a better chance at college and a great career.\u201d\n\nBe a #GivingHero: Join Microsoft employees who support Xbot Robotics and other youth causes: http://msft.it/6182jooy Timeline Photos",
+          1385582404
+        ],
+        [
+          "Theo, a Microsoft Store employee, supports The Healing Circle 'Victory over Child Abuse' camps: \u201cThe Healing Circle camps are a safe place where you don't have to worry about your history and can just be a kid.\u201d \n\nBe a #GivingHero: Join Microsoft employees supporting The Healing Circle and other youth causes: http://msft.it/6182jmgq Timeline Photos",
+          1385499303
+        ],
+        [
+          "Poorvi, a Microsoft engineer, supports the College Success Foundation: \u201cI was seven when I was first introduced to a computer and I struggled badly in my first programming class. Today, I focus on involving students, especially girls, by explaining OOPS concepts to them in real life situations.\u201d\n\nBe a #GivingHero: Join Microsoft employees who support the College Success Foundation and inspire students to pursue STEM degrees: http://msft.it/6185jcN5 Timeline Photos",
+          1385405763
+        ],
+        [
+          "Velu, a Microsoft engineer, supports ISHA: \u201cThe moment I started working at Microsoft, I began supporting the education of a girl child in India. Bala Bavani, now in 5th grade, is very much inclined to become a teacher, loves math, and wants to give back to her community. As Microsoft is matching my contribution, another girl, Brisilla, now in 4th grade, is also receiving free education.\u201d \n\nBe a #GivingHero: Join Microsoft employees helping to educate children in India and other youth causes: http://msft.it/6183jg0R Timeline Photos",
+          1385308804
+        ],
+        [
+          "Katie, a producer at Microsoft supports Knock Foundation: \u201c$25 helps provide lunch for 3 children for a whole year! For many, this is the only meal of the day and incentive for parents to send them to school instead of keeping them home to help with chores.\u201d\n\nBe a #GivingHero: Join Microsoft employees supporting the Knock Foundation and other youth causes: http://msft.it/6187jg0z Timeline Photos",
+          1385222403
+        ],
+        [
+          "Sonu, a Microsoft program manager, supports Cascade Science Center Foundation: \u201cI dream of a community where children embrace science, technology, engineering and mathematics with open arms. Join our Cascades Science Squad and help design fun, hands-on STEM curriculum or mentor young kids.\u201d \n\nBe a #GivingHero: Join Microsoft employees helping to bring joy to kids by supporting Cascade Science Center Foundation and other youth causes: http://msft.it/6186jg06 Timeline Photos",
+          1385166303
+        ],
+        [
+          "\u201cIn 1995, when I was 8 my father was diagnosed with HIV. Inspire Youth Project became my extended family.\u201d \u2013 Katie, Microsoft Operations PM\n\nBe a #GivingHero: Join Microsoft employees supporting children affected by HIV/AIDS and other youth causes in your community: http://msft.it/6183jboB Timeline Photos",
+          1384984803
+        ],
+        [
+          "\"Microsoft employees at our South Coast Plaza store have joined with community partners to raise over $95K toward a Blind Technology Center to provide support for visually impaired children and their families.\u201d Kelly, Microsoft Store, Costa Mesa, CA\n\nBe a Giving Hero: Join Microsoft employees supporting this and other youth causes in your community: http://msft.it/ghbclc Timeline Photos",
+          1384790489
+        ],
+        [
+          "\u201cThe more I work with Hopelink, the more I see how innovative they are!\u201d Andy, Microsoft engineer, and Hopelink Board Treasurer. \n\nBe a #GivingHero: Join the Microsoft employees supporting Hopelink and other youth causes in your community: http://msft.it/6189jrnW Timeline Photos",
+          1384530870
+        ],
+        [
+          "Sarah, a Microsoft store employee in Cincinnati supports Ronald McDonald House: \u201cTwice a month, we make breakfast for families so parents can spend more time with their children.\" Be a #GivingHero: Join Microsoft employees supporting Ronald McDonald House and other youth causes in your community: http://msft.it/6189jMgF Timeline Photos",
+          1384358404
+        ],
+        [
+          "Sanjay, a Microsoft employee in Delaware, volunteers with FAME, an organization dedicated to helping kids in grade 7-12 study STEM. Be a #GivingHero. Join Microsoft employees supporting FAME and other youth causes in your community: http://msft.it/6188jzFO Timeline Photos",
+          1384274886
+        ],
+        [
+          "Jason, a Microsoft employee in Boulder, CO supports the I Have a Dream Foundation: \u201cI wouldn\u2019t be where I am today without them. They adopted my 4th grade class. When our phone was disconnected, they came knocking on my door to make sure I was okay and on track.\u201d\n\nBe a #GivingHero: Join Microsoft employees in their support of the I Have a Dream Foundation and other youth causes in your community: http://msft.it/givinghero Timeline Photos",
+          1384175255
+        ],
+        [
+          "Monique, a Microsoft Store employee in San Francisco supports GLIDE: \u201cGiving back is healing for the soul. We may not have the money to take care of those with less than we have, but we have the passion.\" \n\nBe a #GivingHero: Join the Microsoft employees who support GLIDE and other youth causes in your community: http://msft.it/6187jHHh Timeline Photos",
+          1384012804
+        ],
+        [
+          "Sandi, a Microsoft employee in Austin supports Urban Roots: \u201cHere in Austin, 1 in 4 children live in food-insecure households. My team harvested 707 pounds of collards, fennel, beets, cabbage, and spinach on Urban Roots\u2019 3.5-acre urban, sustainable farm. How cool is that?\u201d Be a #GivingHero. Join the Microsoft employees supporting youth causes in your community: http://msft.it/6187jEmz Timeline Photos",
+          1383915605
+        ],
+        [
+          "Support youth in your community, be a #GivingHero: http://msft.it/6186jBSM\n\n\u201cI was encouraged to excel and achieve big, bold audacious goals. Dream Jamaica inspires students and provides the means by which they can achieve.\u201d Shemiele, a Microsoft Business Manager supports Dream Jamaica, one of the many youth causes we're supporting this month. Timeline Photos",
+          1383757207
+        ],
+        [
+          "Support youth in your community, be a #GivingHero: http://msft.it/6181bhnv\n\n\u201cWe\u2019re helping eradicate illiteracy. If I didn\u2019t have to earn an income, I\u2019d devote myself full-time to this organization.\u201d Beth, a Microsoft Marketer supports WorldReader. Timeline Photos",
+          1383669332
+        ],
+        [
+          "Support youth in your community, be a #GivingHero: http://msft.it/6184b4Ar\n\n\u201cThey explore, make mistakes, iterate, and play at learning.\" Annette in Microsoft Sales supports Playing @ Learning. Timeline Photos",
+          1383494404
+        ],
+        [
+          "First Robotics is a cause supported by LaSone, a Microsoft Community Manager in Arlington, VA.  Be a #GivingHero, support First Robotics and other youth-oriented causes here: http://msft.it/6185b4nL Timeline Photos",
+          1383330723
+        ]
+      ],
+      "dates_start": 1383840161,
+      "dates_end": 1385342087,
+      "likes_avg": 797,
+      "likes_stdev": 554,
+      "comments_avg": 32,
+      "comments_stdev": 22,
+      "shares_avg": 61,
+      "shares_stdev": 41
+    },
+    {
+      "number": 6,
+      "important": [
+        "touch",
+        "perfect",
+        "beauti",
+        "web",
+        "internet explor",
+        "experi",
+        "internet",
+        "creat",
+        "new",
+        "explor"
+      ],
+      "common": [
+        "explorer",
+        "http",
+        "http bit",
+        "http bit ly",
+        "internet",
+        "internet explorer",
+        "ly",
+        "photos",
+        "timeline",
+        "timeline photos"
+      ],
+      "messages": [
+        [
+          "Internet Explorer invites you to Rethink what the web can be: http://msft.it/6186egUG  Rethink what the web can be Internet Explorer is creating entirely new web experiences that are fast, beautiful, and perfect for touch. ",
+          1390849201
+        ],
+        [
+          "NORAD + Internet Explorer + Bing Maps = One epic Santa experience. Explore the re-designed site: http://msft.it/6186jI6M Timeline Photos",
+          1386111603
+        ],
+        [
+          "An Expedition to Everest, presented by Internet Explorer: http://msft.it/6031kTUz Timeline Photos",
+          1369838838
+        ],
+        [
+          "Watch the exclusive The Hunger Games: Catching Fire Teaser Trailer, in partnership with Internet Explorer: http://msft.it/6032XHbu Timeline Photos",
+          1365992224
+        ],
+        [
+          "\u201cYou might not remember us.  We met in the nineties.\u201d http://bit.ly/Ulb351 Child of the 90s | Internet Explorer You grew up. So did we. Reconnect with the new Internet Explorer. Visit http://www.browseryoulovedtohate.com for more. #childofthe90s",
+          1358961679
+        ],
+        [
+          "Microsoft has confirmed that Internet Explorer 6\u20138 contain an unpatched bug that is being used by attackers to hijack victims' Windows computers. Microsoft confirms zero-day bug in IE6, IE7 and IE8 Second time in two years it's had to deal with late-December vulnerabilities",
+          1356893313
+        ],
+        [
+          "Weekend Reading: Microsoft Surface release news, Entertainment for Xbox, Internet Explorer comes to the living room with Xbox, and more: http://bit.ly/T5I7Nh Timeline Photos",
+          1350741602
+        ],
+        [
+          "Comebacks come in all shapes and sizes. Check out these famous comebacks, courtesy of Internet Explorer: http://chzb.gr/W7lGs8 Timeline Photos",
+          1349968491
+        ],
+        [
+          "Check out Contre Jour \u2013 a game blending rich melodies, stunning visuals, and unbelievably fluid gameplay from Internet Explorer: http://bit.ly/RuyPr7 Timeline Photos",
+          1349814065
+        ],
+        [
+          "TIME names Internet Explorer's Atari Arcade one of the 50 best websites of 2012. Read about it here: http://ti.me/Rl6XaY Timeline Photos",
+          1348756680
+        ],
+        [
+          "Microsoft is urging Internet Explorer users to protect themselves against targeted attacks.\n\nRead the story:\nhttp://on.mash.to/RmFan6 Microsoft Urges Internet Explorer Users to Protect Against Targeted Attacks Microsoft is urging Internet Explorer 9 and earlier versions to deploy a toolkit to help protect against a series of attacks.",
+          1347932042
+        ],
+        [
+          "Internet Explorer collaborated with The xx on a cool digital sharing experience that allows you to enjoy a live stream of their new album and see where it has been shared around the world. Check it out here: http://bit.ly/NqUMcm Timeline Photos",
+          1347566935
+        ],
+        [
+          "Weekend Reading: Nostalgia comes to Internet Explorer with the Atari Arcade, search your friends\u2019 Facebook photos with Bing, Skype turns 9 and more: http://bit.ly/Q8EmVH Timeline Photos",
+          1346508002
+        ],
+        [
+          "Weekend Reading: Pulse brings its elegant news-sharing interface to Internet Explorer, Xbox 360 tops the charts in sales for the 19th straight month, Microsoft teams up with the NYPD to fight crime and more: http://bit.ly/P6afh8 Timeline Photos",
+          1344693602
+        ],
+        [
+          "NOW HIRING: Weyland Industries is  recruiting for the Project Prometheus crew. Take a look at Internet Explorer's new HTML5 site and see if you have what it takes to join: http://bit.ly/JTkB1K Timeline Photos",
+          1337866813
+        ],
+        [
+          "Via Internet Explorer: Get a behind-the-scenes look at Brandon Generator and learn more about it here: http://bit.ly/KJGXQP  The Random Adventures of Brandon Generator Continue",
+          1337711418
+        ],
+        [
+          "Many of you enjoyed Brandon Generator, the HTML5 experience presented by Internet Explorer. He's back in a second episode - have a look: http://bit.ly/IP1gL0 Timeline Photos",
+          1337368038
+        ],
+        [
+          "Internet Explorer launched a brand new HTML5 site celebrating the upcoming blockbuster Prometheus. Join the crew over at Weyland Industries: http://bit.ly/JTkB1K Timeline Photos",
+          1337198312
+        ],
+        [
+          "A fine way to spend a few minutes this weekend: The Random Adventures of Brandon Generator is an HTML5-based interactive story presented by the Internet Explorer team. Check it out: http://bit.ly/IP1gL0 Timeline Photos",
+          1334339274
+        ],
+        [
+          "Great comebacks in history: mustaches, single gear bikes, and Internet Explorer. This new site \"The Browser You Loved to Hate\" explains: http://bit.ly/GMhpkw  The Browser You Loved to Hate Some people are trying the new Internet Explorer and actually liking it. Not that they would say that out loud. Curious? It's a new browser.",
+          1332361024
+        ]
+      ],
+      "dates_start": 1335871616,
+      "dates_end": 1367275698,
+      "likes_avg": 731,
+      "likes_stdev": 565,
+      "comments_avg": 68,
+      "comments_stdev": 50,
+      "shares_avg": 144,
+      "shares_stdev": 152
+    },
+    {
+      "number": 7,
+      "important": [
+        "fun",
+        "season",
+        "xbox",
+        "best",
+        "one",
+        "xbox one",
+        "hand",
+        "holiday",
+        "exclus",
+        "full"
+      ],
+      "common": [
+        "games",
+        "http",
+        "http msft",
+        "msft",
+        "one",
+        "photos",
+        "timeline",
+        "timeline photos",
+        "xbox",
+        "xbox one"
+      ],
+      "messages": [
+        [
+          "Santa is going to have his hands full: Nine exclusives coming to Xbox One this holiday season http://msft.it/6181cIPV E3 2014 Xbox One Games With the best exclusives, spectacular new franchises and the best multiplayer community, it's more fun on Xbox One.",
+          1403013604
+        ],
+        [
+          "Xbox One comes to 26 new markets in September: http://msft.it/6189gLoT Timeline Photos",
+          1396029604
+        ],
+        [
+          "Broadcast your game action with Twitch, coming to Xbox One early next month: http://msft.it/61875t6T Timeline Photos",
+          1393513204
+        ],
+        [
+          "Buy Xbox One. Get Titanfall. http://msft.it/61865mJa Timeline Photos",
+          1393261442
+        ],
+        [
+          "Introducing the Xbox One Media Remote, available next month. http://msft.it/61895iOf Timeline Photos",
+          1393011485
+        ],
+        [
+          "Game as loud as you like with the new Xbox One stereo headset, available next month. http://msft.it/61865XfM Timeline Photos",
+          1392735604
+        ],
+        [
+          "Carl Ledbetter on designing Xbox One: http://msft.it/6188enbY Timeline Photos",
+          1390317453
+        ],
+        [
+          "Build your personalized NFL football command station with Xbox One and Surface.  Here\u2019s how: http://msft.it/6187d5aN Timeline Photos",
+          1388430004
+        ],
+        [
+          "Learn more and watch an exclusive UI walkthrough here: http://msft.it/6183j1S9 Xbox One \u2013 UI Screenshots",
+          1383921856
+        ],
+        [
+          "This is an invitation\u2026http://msft.it/6180bs3n Xbox One: Invitation This is an invitation to a new generation. Where your games and entertainment are no longer separated, but together in one. This is an invitation from the all-in-one, Xbox One. Jump ahead.",
+          1382707921
+        ],
+        [
+          "Machinima to launch exclusive experience on Xbox One: http://msft.it/6185bbFP Timeline Photos",
+          1381933863
+        ],
+        [
+          "Up close with the Xbox One controller: http://msft.it/6035wDjW An Insider's Look at the Xbox One Controller Xbox's Major Nelson discusses the Xbox One controller with general manager Zulfi Alam.",
+          1376923627
+        ],
+        [
+          "Xbox One: unboxed http://msft.it/6036ZNhs Unboxing Xbox One Xbox's Major Nelson unboxes the new Xbox One for the first time. See what's inside the Day One edition.\r\n\r\n",
+          1376329319
+        ],
+        [
+          "An inside look at Zoo Tycoon on Xbox One and Xbox 360: http://msft.it/6036ZXXm Timeline Photos",
+          1374072382
+        ],
+        [
+          "Halo is coming exclusively to Xbox One! Your journey begins in 2014: Halo on Xbox One: Official E3 Trailer Halo: Watch the official announcement that Halo is coming exclusively to Xbox One!",
+          1370978762
+        ],
+        [
+          "Hit the road in the trailer to Forza Motorsport 5, coming to Xbox One: http://msft.it/6035kopX Timeline Photos",
+          1370972880
+        ],
+        [
+          "E3 2013 Xbox Briefing Highlights: It\u2019s all about the games. E3 2013 Xbox Briefing Highlights Highlights from Xbox's E3 2013 Media Briefing, featuring Xbox One games, SmartGlass with Xbox One games, Xbox One November launch date + pricing.",
+          1370968254
+        ],
+        [
+          "Like chocolate and peanut butter: Skype and Xbox One http://msft.it/6035kzbN Timeline Photos",
+          1369317654
+        ],
+        [
+          "Another look at Xbox One: http://msft.it/6032kJiQ Xbox Executives Discuss Xbox One Xbox executives discuss how Xbox built the all-in-one games and entertainment system for today and the decade ahead -- Xbox One.",
+          1369238189
+        ],
+        [
+          "Get an up-close look at the remarkable all-in-one entertainment system -The Xbox One. Say hello to the future of entertainment: http://msft.it/xboxhub Xbox One",
+          1369172059
+        ]
+      ],
+      "dates_start": 1371805714,
+      "dates_end": 1392879201,
+      "likes_avg": 903,
+      "likes_stdev": 817,
+      "comments_avg": 144,
+      "comments_stdev": 180,
+      "shares_avg": 220,
+      "shares_stdev": 432
+    },
+    {
+      "number": 8,
+      "important": [
+        "photo",
+        "access",
+        "window",
+        "timelin",
+        "friday",
+        "window timelin",
+        "comput",
+        "timelin photo",
+        "help",
+        "kinect"
+      ],
+      "common": [
+        "fresh",
+        "http",
+        "http msft",
+        "msft",
+        "photos",
+        "timeline",
+        "timeline photos",
+        "windows",
+        "windows http",
+        "windows http msft"
+      ],
+      "messages": [
+        [
+          "Unlocking futuristic computing with the help of Kinect for Windows http://msft.it/61809mLn Timeline Photos",
+          1398085203
+        ],
+        [
+          "Happy Friday! Here, have a free rainbow theme for Windows. http://msft.it/6184gcLw Timeline Photos",
+          1395410402
+        ],
+        [
+          "Plan your perfect day of romance with a little help from Windows 8.1: http://msft.it/61815TGc Timeline Photos",
+          1392390002
+        ],
+        [
+          "Free texting, calling, and photo sharing app Viber now available for Windows 8: http://msft.it/6183dZWD Timeline Photos",
+          1388674801
+        ],
+        [
+          "That\u2019s no moon\u2026It\u2019s Star Wars: Tiny Death Star. Download it now for Windows Phone http://msft.it/6184jEPO and Windows 8 http://msft.it/6185jEPP Timeline Photos",
+          1383851876
+        ],
+        [
+          "Your kids can solve galactic problems that bring together math + adventure with mathematical missions in Electric Company: Banana Blast Off! Download it now for Windows 8: http://msft.it/6183b4Sl Timeline Photos",
+          1383341402
+        ],
+        [
+          "Ten new Windows themes to celebrate Windows 8.1: http://msft.it/6189baux Timeline Photos",
+          1382989685
+        ],
+        [
+          "8.1 reasons to love Windows 8.1: http://msft.it/6184bs0a Timeline Photos",
+          1382729403
+        ],
+        [
+          "Weekend Reading: Windows 8.1 is here! http://msft.it/6180b9ly Timeline Photos",
+          1382191440
+        ],
+        [
+          "Fresh Paint for Windows Phone has arrived, now with Pencil and SkyDrive! http://msft.it/6189bwP7 Timeline Photos",
+          1381860004
+        ],
+        [
+          "Meet the new Fresh Paint, reimagined for Windows 8.1: http://msft.it/6186brfs Timeline Photos",
+          1381419330
+        ],
+        [
+          "Are you running the Windows 8.1 Preview? If so, try out the new version of Fresh Paint! http://msft.it/6035ZST1 Timeline Photos",
+          1375381209
+        ],
+        [
+          "High five! 3D printing support is coming to Windows 8.1 \u2013  http://msft.it/6030kCm8 Timeline Photos",
+          1372274538
+        ],
+        [
+          "Weekend Reading: A first glimpse of Windows 8.1 http://msft.it/6032kkYg Timeline Photos",
+          1370095584
+        ],
+        [
+          "Caption this epic image, created with Fresh Paint for Windows 8: Timeline Photos",
+          1369843448
+        ],
+        [
+          "Rev up your desktop with this free Ferrari theme from Windows: http://msft.it/6036Xmum Timeline Photos",
+          1367860179
+        ],
+        [
+          "London is calling in this free theme for Windows: http://msft.it/6037XpMJ Timeline Photos",
+          1366810111
+        ],
+        [
+          "Buzz into spring with the Bees theme from Windows: http://bit.ly/100gqXa Timeline Photos",
+          1363794473
+        ],
+        [
+          "Behind the scenes with Fresh Paint, a creative, free app for Windows 8: http://bit.ly/Zy0pft Timeline Photos",
+          1361571379
+        ],
+        [
+          "Friday Question: Have you upgraded to Windows 8? Timeline Photos",
+          1351874317
+        ],
+        [
+          "Shred some fresh powder right on your desktop with the Snow Sports theme for Windows 7: http://bit.ly/wT7sr4 Timeline Photos",
+          1328215406
+        ]
+      ],
+      "dates_start": 1359755292,
+      "dates_end": 1390784153,
+      "likes_avg": 2155,
+      "likes_stdev": 1783,
+      "comments_avg": 411,
+      "comments_stdev": 1111,
+      "shares_avg": 264,
+      "shares_stdev": 209
+    },
+    {
+      "number": 9,
+      "important": [
         "account",
-        "celebr peopl",
+        "follow us",
         "travel",
-        "domor"
+        "boundari",
+        "celebr peopl",
+        "us instagram",
+        "domor",
+        "passion",
+        "account microsoft",
+        "mani"
       ],
       "common": [
         "boundaries achieve goals domore",
@@ -250,18 +976,425 @@
       "shares_stdev": 12
     },
     {
-      "number": 3,
+      "number": 10,
       "important": [
-        "halo",
-        "weekend read",
-        "miss",
+        "access",
+        "hi",
+        "icreatedthi timelin",
+        "timelin",
+        "paint",
+        "art",
+        "timelin photo",
+        "icreatedthi",
+        "photo",
+        "stori"
+      ],
+      "common": [
+        "created",
+        "http",
+        "http msft",
+        "icreatedthis",
+        "icreatedthis timeline",
+        "icreatedthis timeline photos",
+        "msft",
+        "photos",
+        "timeline",
+        "timeline photos"
+      ],
+      "messages": [
+        [
+          "Hi, I\u2019m  Shukei, and I speed paint with Excel. Here's my story: http://msft.it/6186mP1g #ICreatedThis Timeline Photos",
+          1406901550
+        ],
+        [
+          "\"We\u2019re Douglas Cable and Manuel Sanchez, artists in Paris who created a mind-bending art installation with Kinect.\" http://msft.it/6180Y07G #ICreatedThis Timeline Photos",
+          1405008127
+        ],
+        [
+          "\"I mixed Victorian furniture with Xbox control. Read my story here\": http://msft.it/6189YYJT #ICreatedThis Timeline Photos",
+          1404406806
+        ],
+        [
+          "\u201cI created an interactive dinosaur exhibit at Science Museum Oklahoma. Thanks to a hidden Kinect, visitors can hold out their hands for friendly responses from herbivores or menacing growls from predators. RAWR!\u201d http://msft.it/6187YOGB #ICreatedThis Timeline Photos",
+          1403791205
+        ],
+        [
+          "\"Hi, I\u2019m Paul Vera-Broadbent. I\u2019ve got 20 years of experience in the video game industry, but my real passion is art. I love reworking classics on my Surface Pro using Fresh Paint.\" http://msft.it/6184cfUO #ICreatedThis Timeline Photos",
+          1403182843
+        ],
+        [
+          "\"I created a school to teach guitar to students around the world via Skype.\" http://msft.it/6189cowf #ICreatedThis Timeline Photos",
+          1402592405
+        ],
+        [
+          "\"I gave Cortana her personality.\" Meet Susan Hendrich, the Program Manager behind Cortana: http://msft.it/6182cPXu #ICreatedThis Timeline Photos",
+          1401801460
+        ],
+        [
+          "\"3D printing used to be my hobby. Now it's my job.\" http://msft.it/6181iv5x #ICreatedThis Timeline Photos",
+          1400677205
+        ],
+        [
+          "I\u2019m Andrew Kim, and I created a stir. As an art student, I was given an assignment to redesign a Popsicle. I decided to rebrand Microsoft, instead. The project went viral and led me to a job as a designer on the Xbox team. Oh, and my professor liked it, too. http://msft.it/6187iMi7 #ICreatedThis Timeline Photos",
+          1399381205
+        ],
+        [
+          "Hi, I\u2019m John Clang. I use Skype to create what I call 'impossible portraits.' They bring together family members from across the world and create a portrait\u2014and memory\u2014that will last a lifetime. http://msft.it/618697Oa #ICreatedThis Timeline Photos",
+          1398780006
+        ],
+        [
+          "Hi, I\u2019m Natasha Nicole, I create a piece of art every day for my blog using Fresh Paint. The stylus is my brush, and Surface Pro is my canvas: http://msft.it/61849ssw #ICreatedThis Timeline Photos",
+          1398187489
+        ],
+        [
+          "\"I gave Cortana her personality.\" Meet Susan Hendrich, the Program Manager behind Cortana: http://msft.it/618999BB #ICreatedThis Timeline Photos",
+          1397671205
+        ],
+        [
+          "\"3D printing used to be my hobby. Now it's my job.\" http://msft.it/61889TVu #ICreatedThis Timeline Photos",
+          1397134919
+        ],
+        [
+          "\"I designed the hardware for Xbox One. But I still waited in the rain to get it.\" http://msft.it/61829ETE #ICreatedThis Timeline Photos",
+          1396544404
+        ],
+        [
+          "\"I created a low-bandwidth version of Skype for remote areas in need, like refugee camps.\" http://msft.it/6188gA70 #ICreatedThis Timeline Photos",
+          1396357205
+        ],
+        [
+          "\"My app helps people bake like it\u2019s 1869. Here's my secret recipe.\" http://msft.it/6184gaLO #ICreatedThis Timeline Photos",
+          1395943204
+        ],
+        [
+          "\"I made an app that lets me share holistic health tips with other moms.\" #ICreatedThis http://msft.it/6189gq7H Timeline Photos",
+          1395756003
+        ],
+        [
+          "I\u2019m Andrew Kim, and I created a stir. As an art student, I was given an assignment to redesign a Popsicle. I decided to rebrand Microsoft, instead. The project went viral and led me to a job as a designer on the Xbox team. Oh, and my professor liked it, too. http://msft.it/6184gPDg #ICreatedThis Timeline Photos",
+          1394719204
+        ],
+        [
+          "Hi, I\u2019m John Clang. I use Skype to create what I call 'impossible portraits.' They bring together family members from across the world and create a portrait\u2014and memory\u2014that will last a lifetime. http://msft.it/6188gzom #ICreatedThis Timeline Photos",
+          1394564403
+        ],
+        [
+          "I\u2019m Kyle Rector, a grad student in computer science and engineering. I develop exercise technologies for the blind, so my team and I created an app called Eyes-Free Yoga. It uses Kinect to track movement and gives spoken feedback to blind or vision-impaired yoga practitioners. #ICreatedThis http://msft.it/6189g8xf Timeline Photos",
+          1394204464
+        ],
+        [
+          "Hi, I\u2019m Natasha Nicole, an artist and illustrator in Brighton, England. I create a piece of art every day for my blog using Fresh Paint. The stylus is my brush, and Surface Pro is my canvas: http://msft.it/61805FZe #ICreatedThis Timeline Photos",
+          1393858804
+        ],
+        [
+          "Tell us about it using #ICreatedThis Timeline Photos",
+          1393614003
+        ],
+        [
+          "Hi, I'm Juhee Ahmed, Employee Communications Lead at the Microsoft India Development Center. My team and I created a program for our employee Giving Campaign to build a Mobility and Sensory Simulation Park for the visually impaired. Learn more about the park and more that we are doing for the visually impaired here: http://msft.it/61825ahC #ICreatedThis Timeline Photos",
+          1393600110
+        ]
+      ],
+      "dates_start": 1394609214,
+      "dates_end": 1402667152,
+      "likes_avg": 2064,
+      "likes_stdev": 5795,
+      "comments_avg": 76,
+      "comments_stdev": 91,
+      "shares_avg": 58,
+      "shares_stdev": 66
+    },
+    {
+      "number": 11,
+      "important": [
+        "app window",
+        "app",
+        "app window phone",
+        "phone",
+        "window phone timelin",
+        "twitter",
+        "come",
+        "phone timelin",
+        "photo",
+        "window phone"
+      ],
+      "common": [
+        "http",
+        "msft",
+        "phone",
+        "phone http",
+        "photos",
+        "timeline",
+        "timeline photos",
+        "windows",
+        "windows phone",
+        "windows phone http"
+      ],
+      "messages": [
+        [
+          "Just in: Photo enhancements come to Twitter app for Windows Phone: http://msft.it/6180Y46a Timeline Photos",
+          1405086485
+        ],
+        [
+          "The NCAA March Madness Live app, now available for Windows: http://msft.it/6188gTlg and Windows Phone: http://msft.it/6189gTl9 Timeline Photos",
+          1394820004
+        ],
+        [
+          "Path beta arrives on Windows Phone: http://msft.it/6180eZpe Timeline Photos",
+          1390424403
+        ],
+        [
+          "The Mint app arrives on Windows http://msft.it/6189jLff  and Windows Phone http://msft.it/6180jLfA Timeline Photos",
+          1386183814
+        ],
+        [
+          "31 spook-tacular Halloween apps for Windows Phone: http://msft.it/6186bIBA Timeline Photos",
+          1383075902
+        ],
+        [
+          "SMILE! Instagram is coming to Windows Phone. http://msft.it/6187bmwl Timeline Photos",
+          1382463002
+        ],
+        [
+          "Weekend Reading: Best back to school apps for Windows Phone: http://msft.it/6038wVlq Timeline Photos",
+          1377959629
+        ],
+        [
+          "Test your internet connection speed with the new Network Speed Test app from Microsoft Research, available for Windows 8 + Windows Phone 8: http://msft.it/6038ZO4K Timeline Photos",
+          1373475724
+        ],
+        [
+          "Watch Discovery Channel, TLC, and Animal Planet all on your Windows Phone! http://msft.it/6031Z6nR Timeline Photos",
+          1372363583
+        ],
+        [
+          "Happy #firstdayofsummer! Get started with these weekend getaway apps for your Windows Phone: http://msft.it/6033kFcW Timeline Photos",
+          1371846326
+        ],
+        [
+          "A Disney icon comes to Windows Phone: http://msft.it/6030k0xM Timeline Photos",
+          1371836886
+        ],
+        [
+          "Experience Halo like never before in Halo: Spartan Assault, a new touch-based top-down shooter coming soon for Windows 8 and Windows Phone 8: http://msft.it/6034keQ6 Timeline Photos",
+          1370358818
+        ],
+        [
+          "The apps to pack for a backcountry adventure with your Windows Phone: http://msft.it/6030X386 Timeline Photos",
+          1366299472
+        ],
+        [
+          "Weekend Reading: New games for Windows Phone http://bit.ly/110YtKX Timeline Photos",
+          1364654169
+        ],
+        [
+          "Straight from the Batcave: \u201cThe Dark Knight Rises\u201d arrives on Windows Phone: http://bit.ly/102P3MG Timeline Photos",
+          1364235206
+        ],
+        [
+          "The Amazing Spider-Man swings onto Windows Phone: http://bit.ly/ZmyKf8 Timeline Photos",
+          1362778876
+        ],
+        [
+          "Music to your ears: Spotify arrives on Windows Phone 8 http://bit.ly/VLFbtb Timeline Photos",
+          1360356189
+        ],
+        [
+          "Weekend Reading: MSN's top stories of 2012, Best Windows Phone news apps for 2013, Urbanspoon on Windows Phone, and more: http://bit.ly/Rx3cRx Timeline Photos",
+          1357401601
+        ],
+        [
+          "Meet the new Windows Phone. http://www.windowsphone.com Timeline Photos",
+          1351537202
+        ],
+        [
+          "Stay up-to-date on all the latest news, schedules and results across all sports in the Summer Games with the official London 2012 Results app on Windows Phone: http://bit.ly/NBFcbt Timeline Photos",
+          1342726965
+        ],
+        [
+          "Download audio books directly to your phone with the Audible.com app for Windows Phone: http://bit.ly/M4Wssi Timeline Photos",
+          1341584216
+        ],
+        [
+          "Download the new free CNN app for Windows Phone: http://bit.ly/Ljedzn Timeline Photos",
+          1340902573
+        ],
+        [
+          "Live news and on-demand video from across the globe is at your fingertips with The Wall Street Journal Live app for Windows Phone: http://bit.ly/MD4pii Timeline Photos",
+          1339682824
+        ],
+        [
+          "Many of you have been asking, and we finally have an answer: Photosynth for Windows Phone is here! http://bit.ly/JueOw5 Timeline Photos",
+          1338387909
+        ],
+        [
+          "Get the latest news, opinions, analysis, and award-winning photography via the TIME app for Windows Phone: http://bit.ly/MiKkQx Timeline Photos",
+          1337697032
+        ]
+      ],
+      "dates_start": 1347372387,
+      "dates_end": 1384478717,
+      "likes_avg": 1338,
+      "likes_stdev": 1281,
+      "comments_avg": 84,
+      "comments_stdev": 74,
+      "shares_avg": 151,
+      "shares_stdev": 167
+    },
+    {
+      "number": 12,
+      "important": [
+        "window",
+        "answer",
+        "trivia",
+        "trivia tuesday answer",
+        "avail",
+        "timelin",
+        "need",
+        "download",
+        "timelin photo",
+        "photo"
+      ],
+      "common": [
+        "answer",
+        "microsoft",
+        "photos",
+        "timeline",
+        "timeline photos",
+        "trivia",
+        "trivia tuesday",
+        "trivia tuesday answer",
+        "tuesday",
+        "tuesday answer"
+      ],
+      "messages": [
+        [
+          "Trivia Tuesday Answer: Windows 95 came on 13 floppy disks! Windows 8.1 will be available for download on October 17th. No floppies needed! Timeline Photos",
+          1380651449
+        ],
+        [
+          "Trivia Tuesday: How many floppy disks were in the Windows 95 box? Timeline Photos",
+          1380644222
+        ],
+        [
+          "Trivia Tuesday Answer: The Surface touch cover comes in 5 different colors (8 if you count the Limited Edition designs). Which one is your favorite? Timeline Photos",
+          1375218067
+        ],
+        [
+          "Trivia Tuesday: Who is featured on the cover of Madden NFL 13, out today for Xbox 360? Timeline Photos",
+          1346164470
+        ],
+        [
+          "Trivia Tuesday Answer: Halo: Combat Evolved launched the same day as the original Xbox in 2001. Halo 4 comes out this November 6. Like if you'll be lining up to get it! Timeline Photos",
+          1345569861
+        ],
+        [
+          "Trivia Tuesday Answer: Windows desktop customization first appeared in Windows 3.0, released in 1990. Brightly colored geometric patterns were all the rage back then :-). Is your desktop background looking a little dated? Download some new ones here: http://bit.ly/PRE2X4 Timeline Photos",
+          1344966367
+        ],
+        [
+          "Trivia Tuesday Answer: Microsoft Office 1.0 for Windows was released in 1990. And boy, how times have changed! Download the new Office Customer Preview here: http://bit.ly/SD60dw Timeline Photos",
+          1343761706
+        ],
+        [
+          "Trivia Tuesday Answer: The ThinkPad line, now made by Lenovo, was introduced 20 years ago. The original ThinkPad 700C boasted 256 colors and a weight of \"only\" 7.6 pounds! Have you owned a ThinkPad? Timeline Photos",
+          1343148500
+        ],
+        [
+          "Trivia Tuesday Answer: Microsoft\u2019s first CD-ROM application was Microsoft Bookshelf. It contained 10 complete reference books including The World Almanac and Book of Facts, The American Heritage Dictionary and The Chicago Manual of Style all on a single disc! Timeline Photos",
+          1342557177
+        ],
+        [
+          "Trivia Tuesday Answer: Microsoft was founded in 1975. Explore more Microsoft milestones in the timeline section of our Facebook page: http://www.facebook.com/Microsoft Timeline Photos",
+          1341939386
+        ],
+        [
+          "Trivia Tuesday Answer: It's Microsoft Office - like this post if you've got an Office app open right now! http://on.fb.me/LNEVTy Timeline Photos",
+          1341335596
+        ],
+        [
+          "Trivia Tuesday: Name this Microsoft product: Timeline Photos",
+          1341325332
+        ],
+        [
+          "Trivia Tuesday Answer: An epic new Halo 4 adventure is coming to Xbox on November 6! Watch the official \"Commissioning\" live-action trailer and learn about the limited edition game here: http://bit.ly/LzFQoz Halo 4 :60 Live-Action Trailer Watch the all new Halo 4 official \"Commissioning\" Live-Action Trailer for Halo 4, releasing 11.06.12. ",
+          1340127128
+        ],
+        [
+          "Trivia Tuesday: Which upcoming Xbox game\u2019s limited edition is pictured here? Timeline Photos",
+          1340119534
+        ],
+        [
+          "Trivia Tuesday Answer: Maroon 5 performed on stage at the Windows Phone 7 launch event in San Francisco: Timeline Photos",
+          1335892014
+        ],
+        [
+          "Trivia Tuesday Answer: There are 80 buildings on the Microsoft corporate campus. See them for yourself here: http://bit.ly/IauxmW Timeline Photos",
+          1335287380
+        ],
+        [
+          "Trivia Tuesday Answer: This is a scene from the Microsoft briefing at E3 2011. Gamers, click Like if you're excited for E3 2012! Timeline Photos",
+          1334682016
+        ],
+        [
+          "Trivia Tuesday: This is a scrambled photo from what 2011 event? Timeline Photos",
+          1334671249
+        ],
+        [
+          "Trivia Tuesday Answer: Kinect Star Wars for Xbox 360 is now available. These ARE the droids you're looking for. http://bit.ly/HGlmMp  Kinect Star Wars Launch Trailer Play Star Wars like never before...using your whole body and without a controller. Feel the force as you become a Jedi, drive a Podracer, pilot a starfighter, and wreak havoc as a Rancor monster in Kinect Star Wars! ",
+          1333472289
+        ],
+        [
+          "Trivia Tuesday: Name the year of this Microsoft Word screen shot: Timeline Photos",
+          1332262774
+        ],
+        [
+          "Trivia Tuesday Answer: This is SkyDrive's logo. Learn more about working collaboratively and sharing your Microsoft Office documents across multiple PCs: http://sdrv.ms/yamoXQ. Timeline Photos",
+          1331664614
+        ],
+        [
+          "Trivia Tuesday: This is a close-up shot of what Microsoft product's logo? (Bonus points for tagging the brand!) Timeline Photos",
+          1331651113
+        ],
+        [
+          "Trivia Tuesday Answer: Snake '97 is transporting your Windows Phone back to the 1990s faster than you can say \"Hey, Macarena!\" http://nokia.ly/w87Ajq Timeline Photos",
+          1328637128
+        ],
+        [
+          "Trivia Tuesday Answer: Olympic Decathlon. It was available for the TRS-80 and Apple II before being renamed Microsoft Decathlon and released for MS-DOS based PCs in 1982. Do you remember playing it? Timeline Photos",
+          1328037810
+        ],
+        [
+          "Trivia Tuesday: What old school Microsoft game is this? Timeline Photos",
+          1328026857
+        ],
+        [
+          "Trivia Tuesday Answer: In 2001, Dwayne The Rock Johnson took the CES stage with Bill Gates to help unveil the original Xbox. Timeline Photos",
+          1325618368
+        ]
+      ],
+      "dates_start": 1327214379,
+      "dates_end": 1356434267,
+      "likes_avg": 1205,
+      "likes_stdev": 1075,
+      "comments_avg": 282,
+      "comments_stdev": 294,
+      "shares_avg": 147,
+      "shares_stdev": 116
+    },
+    {
+      "number": 13,
+      "important": [
         "edit",
-        "news",
-        "weekend",
-        "univers",
-        "read",
         "edit week",
-        "may"
+        "halo",
+        "news",
+        "may",
+        "read",
+        "miss",
+        "univers",
+        "weekend",
+        "weekend read"
       ],
       "common": [
         "edition",
@@ -395,18 +1528,18 @@
       "shares_stdev": 73
     },
     {
-      "number": 4,
+      "number": 14,
       "important": [
-        "caption bing homepag imag",
-        "begin",
-        "bing homepag imag timelin",
-        "timelin",
-        "photo",
         "access",
         "caption",
-        "timelin photo",
+        "begin",
+        "bing homepag imag timelin",
+        "homepag imag timelin",
+        "timelin",
+        "caption bing homepag imag",
         "caption bing homepag imag timelin",
-        "homepag imag timelin"
+        "timelin photo",
+        "photo"
       ],
       "common": [
         "bing",
@@ -560,18 +1693,18 @@
       "shares_stdev": 63
     },
     {
-      "number": 5,
+      "number": 15,
       "important": [
-        "free",
-        "explor",
-        "window theme timelin",
+        "free window theme timelin",
         "theme timelin",
         "free window",
-        "world",
-        "free window theme timelin",
-        "theme",
         "free window theme",
-        "window theme"
+        "window theme",
+        "world",
+        "theme",
+        "explor",
+        "window theme timelin",
+        "free"
       ],
       "common": [
         "bit ly",
@@ -757,18 +1890,18 @@
       "shares_stdev": 251
     },
     {
-      "number": 6,
+      "number": 16,
       "important": [
-        "weekend read",
-        "lumia",
-        "timelin",
         "photo",
-        "weekend",
         "access",
-        "timelin photo",
         "window devic",
+        "timelin",
         "read",
-        "de"
+        "lumia",
+        "de",
+        "timelin photo",
+        "weekend",
+        "weekend read"
       ],
       "common": [
         "http",
@@ -966,231 +2099,235 @@
       "shares_stdev": 168
     },
     {
-      "number": 7,
+      "number": 17,
       "important": [
-        "timelin",
-        "need",
-        "photo",
+        "surfac",
         "access",
+        "microsoft surfac",
         "microsoft",
-        "trivia",
-        "timelin photo",
-        "download",
-        "trivia tuesday answer",
-        "answer"
+        "meet",
+        "artist",
+        "fan",
+        "design",
+        "day",
+        "video"
       ],
       "common": [
-        "answer",
+        "bit",
+        "bit ly",
+        "http",
+        "http bit",
+        "http bit ly",
+        "ly",
         "microsoft",
-        "photos",
-        "timeline",
-        "timeline photos",
-        "trivia",
-        "trivia tuesday",
-        "trivia tuesday answer",
-        "tuesday",
-        "tuesday answer"
+        "pro",
+        "surface",
+        "surface pro"
       ],
       "messages": [
         [
-          "#\u0645\u0627\u064a\u0643\u0631\u0648\u0633\u0648\u0641\u062a \u062a\u0639\u062a\u0632\u0645 \u0625\u0637\u0644\u0627\u0642 \u062a\u0635\u0645\u064a\u0645 \u062c\u062f\u064a\u062f \u0644\u0648\u0627\u062c\u0647\u0629 \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645 \u0639\u0644\u0649 \u0646\u0638\u0627\u0645 \u0627\u0644\u062a\u0634\u063a\u064a\u0644 #\u0648\u064a\u0646\u062f\u0648\u063210 \nMicrosoft \nhttps://aitnews.com/?p=259521 Timeline Photos",
-          1486706424
+          "Industrial design by day, motorcycle concept artist by night. Meet Jeremy Lacy \u2013 Motorcycle, Sketchbook and Surface Fan Find out why the Surface Pro 3 is his portable weapon of choice.",
+          1427464805
         ],
         [
-          "How do you express yourself from #5to9? Timeline Photos",
-          1422046804
+          "VIDEO: Microsoft Surface Hub in action.",
+          1421865797
         ],
         [
-          "How do you recharge from #5to9? Timeline Photos",
-          1418418004
+          "Trusted by the pros, built for the fans, #SurfacePro3 continues elevating the game as the Official Tablet of the NFL: http://cic.ms/JcDkGO Microsoft Surface: Trusted by the Pros, Built for the Fans In a sport where speed and performance matter, NFL coaches and players trust Microsoft Surface by using it on the sidelines of every game to help them strate...",
+          1421611800
         ],
         [
-          "Do you feel more creative from #5to9? Timeline Photos",
-          1417811402
+          "He holds 60 patents and co-invented the Surface. See what he\u2019s working on next. Stevie Bathiche: Re:inventing the wheel Microsoft\u2019s Distinguished Scientist Stevie Bathiche, co-inventor of Surface.",
+          1415127604
         ],
         [
-          "When the workday ends, some reach for a lens. How do you own your #5to9? Timeline Photos",
-          1415390102
+          "Turn your Surface Pro 3 into your command center. How would this docking station help you do more? Surface Pro 3 Docking Station available in 28 markets Docking Station will be available for purchase in retail outlets and through authorized resellers in all 28 markets where Surface Pro 3 is sold.",
+          1410543245
         ],
         [
-          "#ProTips: Titanfall http://msft.it/61889LDk Timeline Photos",
-          1398359915
+          "Surface 2 is now $100 off. Get yours today.  Surface 2, now just $349 Weighing in at less than 1.5 pounds, Surface 2 lets you carry less while you do more.",
+          1409005771
         ],
         [
-          "No more standing by for #Titanfall. Timeline Photos",
-          1394557469
+          "The amazingly lapable Surface Pro 3: http://msft.it/6183YtSW Surface Pro 3 - Lapability Lapability means being able to get work done comfortably in tight spaces. Get industrious while you get to the office.",
+          1404826300
         ],
         [
-          "Wheee! Timeline Photos",
-          1388684701
+          "Surface Pro and Xbox One help overcome a life-changing injury: http://msft.it/6182Ywri Timeline Photos",
+          1404234012
         ],
         [
-          "Trivia Tuesday Answer: Windows 95 came on 13 floppy disks! Windows 8.1 will be available for download on October 17th. No floppies needed! Timeline Photos",
-          1380651449
+          "The new Surface commercial was made in one continuous shot. Here\u2019s how they did it: http://msft.it/6186YOGp Behind the Scenes: Surface Pro 3 Commercial Wondering how we got the Surface Pro 3 from the bedroom to the board room in a single shot, without edits? Watch this short video.",
+          1403874005
         ],
         [
-          "Trivia Tuesday: How many floppy disks were in the Windows 95 box? Timeline Photos",
-          1380644222
+          "Surface Pro 3 goes on sale today. Pick one up at your local Microsoft retail store: http://msft.it/6181ch95 Timeline Photos",
+          1403284137
         ],
         [
-          "More about Solitaire in this fascinating article from Slate: http://msft.it/6030wPw6 Timeline Photos",
-          1377625738
+          "Putting a finer point on it: in-depth with the new Surface Pro 3 pen: http://msft.it/6185iChz Timeline Photos",
+          1401202051
         ],
         [
-          "Trivia Tuesday Answer: The Surface touch cover comes in 5 different colors (8 if you count the Limited Edition designs). Which one is your favorite? Timeline Photos",
-          1375218067
+          "Hands-on with the Surface Pro 3. Information on pre-orders and more: http://msft.it/6187ixmX Timeline Photos",
+          1400688664
         ],
         [
-          "#HappyFriday from sunny Redmond, WA! Timeline Photos",
-          1372439686
+          "#SurfacePro3, as illustrated on a Surface Pro 3. Timeline Photos",
+          1400601431
         ],
         [
-          "VROOM: http://msft.it/6038kUmG Timeline Photos",
-          1371051390
+          "Winning the big game means a huge to-do list. See how Russell Wilson uses Surface Pro 2 to get it all done. http://msft.it/6182izTj Honestly: Russell Wilson The off season isn't really \"off\" for Quarterback, Russell Wilson. See how he uses his Surface Pro 2 and OneNote to \"stay on.\" http://bit.ly/1bmBj77",
+          1399304073
         ],
         [
-          "Soon\u2026 Timeline Photos",
-          1369099631
+          "From yoga to cookies, see how this woman uses her Surface: http://msft.it/6189i64t Delicious (& Practical) use of Surface 2 Loren Brill is a baked goods visionary and the founder of Sweet Loren\u2019s in New York City. Sweet Loren\u2019s offers ready-to-bake desserts made from all-natural cookie dough and brownie batter. We here at the Surface team say yum to that! Loren is using Surface 2 as her one device to help her run and gro\u2026",
+          1398866406
         ],
         [
-          "Then and Now: Timeline Photos",
-          1366900727
+          "The Surface Pro 2 is a mobile drawing studio for Penny Arcade co-founder: http://msft.it/61899vq9 Surface Hero Mike Krahulik Take a look inside the Penny Arcade headquarters. ",
+          1398275163
         ],
         [
-          "Then and now: Bill Gates and Paul Allen http://msft.it/6033n7lR Timeline Photos",
-          1365182129
+          "#TeamVic for the win. Surface What's the hardest part about being 12? Convincing your dad you need a new tablet. See how #teamvic got herself a new Surface. It's totes amaze.",
+          1395673678
         ],
         [
-          "Accessorize: http://bit.ly/13mhcmR Timeline Photos",
-          1362066663
+          "Pre-order it here: http://msft.it/618053fu Timeline Photos",
+          1392159388
         ],
         [
-          "Here kitty, kitty. Timeline Photos",
-          1359057662
+          "Surface Pro 2 running Photoshop CC with pressure-sensitive pen input. A feat not all tablets can pull off. http://msft.it/6180j8ke Timeline Photos",
+          1383774354
         ],
         [
-          "Trivia Tuesday: Who is featured on the cover of Madden NFL 13, out today for Xbox 360? Timeline Photos",
-          1346164470
+          "Lights, camera, Surface! See how an independent filmmaker uses Surface to manage projects on the go: http://msft.it/6189bZ0x Timeline Photos",
+          1381848287
         ],
         [
-          "Trivia Tuesday Answer: Halo: Combat Evolved launched the same day as the original Xbox in 2001. Halo 4 comes out this November 6. Like if you'll be lining up to get it! Timeline Photos",
-          1345569861
+          "Surface pre-orders are going quick! Reserve yours today: http://msft.it/6187byHN Timeline Photos",
+          1380813482
         ],
         [
-          "Trivia Tuesday Answer: Windows desktop customization first appeared in Windows 3.0, released in 1990. Brightly colored geometric patterns were all the rage back then :-). Is your desktop background looking a little dated? Download some new ones here: http://bit.ly/PRE2X4 Timeline Photos",
-          1344966367
+          "Say hello to the Surface 2 series: http://msft.it/Surface2 Surface 2, Surface Pro 2 and New Accessories",
+          1379964690
         ],
         [
-          "Trivia Tuesday Answer: Microsoft Office 1.0 for Windows was released in 1990. And boy, how times have changed! Download the new Office Customer Preview here: http://bit.ly/SD60dw Timeline Photos",
-          1343761706
+          "STARTING NOW: Have questions on the new Surface 2 or Surface Pro 2? Join the #Surface Team for an #AMA on Reddit today at 3pm ET. http://msft.it/6183wFU5 Timeline Photos",
+          1379955687
         ],
         [
-          "Trivia Tuesday Answer: The ThinkPad line, now made by Lenovo, was introduced 20 years ago. The original ThinkPad 700C boasted 256 colors and a weight of \"only\" 7.6 pounds! Have you owned a ThinkPad? Timeline Photos",
-          1343148500
+          "See how filmmaker Chayse Irvin uses his Surface throughout the movie-making process: http://msft.it/6036wSY2 Chayse Irvin -- Cinematographer, Technophile, Creator Meet Chayse Irvin. He is a cinematographer, filmmaker, world traveler, and technology enthusiast. Chayse uses his Surface Pro during the scouting process to take pictures of locations, look up production notes while on set and to communicate his vision for scenes to the crew.",
+          1379347275
         ],
         [
-          "Trivia Tuesday Answer: Microsoft\u2019s first CD-ROM application was Microsoft Bookshelf. It contained 10 complete reference books including The World Almanac and Book of Facts, The American Heritage Dictionary and The Chicago Manual of Style all on a single disc! Timeline Photos",
-          1342557177
+          "Limited Edition Touch Covers for Microsoft Surface: http://bit.ly/13W76cF Timeline Photos",
+          1363192320
         ],
         [
-          "Trivia Tuesday Answer: Microsoft was founded in 1975. Explore more Microsoft milestones in the timeline section of our Facebook page: http://www.facebook.com/Microsoft Timeline Photos",
-          1341939386
+          "The Year of the Snake Touch Cover for Microsoft Surface: http://bit.ly/WGY8Z7 Timeline Photos",
+          1362511196
         ],
         [
-          "Trivia Tuesday Answer: It's Microsoft Office - like this post if you've got an Office app open right now! http://on.fb.me/LNEVTy Timeline Photos",
-          1341335596
+          "Meet Kate Bailey, the artist behind the Skulls Limited Edition Microsoft Surface Touch Cover. She worked on the design using the Surface Pro: http://bit.ly/XzZWGt Timeline Photos",
+          1361898894
         ],
         [
-          "Trivia Tuesday: Name this Microsoft product: Timeline Photos",
-          1341325332
+          "Surface Windows 8 Pro comes bundled with a pen and features Palm Block functionality. This pen makes for an amazing experience for writers, graphic designers or even engineers. Learn more: http://bit.ly/YkWIsJ Surface Pro",
+          1358873750
         ],
         [
-          "Trivia Tuesday Answer: An epic new Halo 4 adventure is coming to Xbox on November 6! Watch the official \"Commissioning\" live-action trailer and learn about the limited edition game here: http://bit.ly/LzFQoz Halo 4 :60 Live-Action Trailer Watch the all new Halo 4 official \"Commissioning\" Live-Action Trailer for Halo 4, releasing 11.06.12. ",
-          1340127128
+          "Weekend Reading: Microsoft Surface with Windows 8 Pro details released, Bing keeps you from getting Scroogled, Windows Phone holiday shopping apps, and more: http://bit.ly/YgVhvR Timeline Photos",
+          1354376019
         ],
         [
-          "Trivia Tuesday: Which upcoming Xbox game\u2019s limited edition is pictured here? Timeline Photos",
-          1340119534
+          "Have you clicked in to Microsoft Surface yet? http://bit.ly/RG1wUB Timeline Photos",
+          1352321263
         ],
         [
-          "Holy Batphone! http://bit.ly/NbvWh7 Timeline Photos",
-          1339597448
+          "The 2012 Election: Big Bird, Bayonets\u2026 and Bing! How Microsoft is covering the election: http://bit.ly/Rv5FL0 Timeline Photos",
+          1351811710
         ],
         [
-          "Microsoft commits to carbon neutrality: http://bit.ly/JOPFQr Timeline Photos",
-          1337019885
+          "A front view of Surface, shown with a red Touch Cover, one of five colors available. Pre-order yours here: http://bit.ly/ROZn63 Surface",
+          1350825401
         ],
         [
-          "Trivia Tuesday Answer: Maroon 5 performed on stage at the Windows Phone 7 launch event in San Francisco: Timeline Photos",
-          1335892014
+          "A front view of Surface, shown with a cyan Touch Cover, one of five colors available. Pre-order yours here: http://bit.ly/ROZn63 Surface",
+          1350825401
         ],
         [
-          "Trivia Tuesday Answer: There are 80 buildings on the Microsoft corporate campus. See them for yourself here: http://bit.ly/IauxmW Timeline Photos",
-          1335287380
+          "A front view of Surface, shown with a black Touch Cover, one of five colors available. Pre-order yours here: http://bit.ly/ROZn63 Surface",
+          1350825401
         ],
         [
-          "Trivia Tuesday Answer: This is a scene from the Microsoft briefing at E3 2011. Gamers, click Like if you're excited for E3 2012! Timeline Photos",
-          1334682016
+          "Surface features a built-in kickstand that lets you transition Surface from active use to passive consumption. Pre-order yours here: http://bit.ly/ROZn63 Surface",
+          1350825401
         ],
         [
-          "Trivia Tuesday: This is a scrambled photo from what 2011 event? Timeline Photos",
-          1334671249
+          "Some activities call for a keyboard. The Touch Cover connects to Surface with a single magnetic click.  Pre-order yours here: http://bit.ly/ROZn63 Surface",
+          1350825401
         ],
         [
-          "Trivia Tuesday Answer: Kinect Star Wars for Xbox 360 is now available. These ARE the droids you're looking for. http://bit.ly/HGlmMp  Kinect Star Wars Launch Trailer Play Star Wars like never before...using your whole body and without a controller. Feel the force as you become a Jedi, drive a Podracer, pilot a starfighter, and wreak havoc as a Rancor monster in Kinect Star Wars! ",
-          1333472289
+          "The 3 mm Touch Cover represents a step forward in human-computer interface. Using a unique pressure-sensitive technology, the Touch Cover senses keystrokes as gestures, enabling you to touch type significantly faster than with an on-screen keyboard. It will be available in cyan, magenta, black, red and white. Pre-order yours here: http://bit.ly/ROZn63 Surface",
+          1350825401
         ],
         [
-          "Trivia Tuesday: Name the year of this Microsoft Word screen shot: Timeline Photos",
-          1332262774
+          "A front view of Surface, shown with a magenta Touch Cover, one of five colors available. Pre-order yours here: http://bit.ly/ROZn63 Surface",
+          1350825401
         ],
         [
-          "Trivia Tuesday Answer: This is SkyDrive's logo. Learn more about working collaboratively and sharing your Microsoft Office documents across multiple PCs: http://sdrv.ms/yamoXQ. Timeline Photos",
-          1331664614
+          "A front view of Surface, shown with a white Touch Cover, one of five colors available. Pre-order yours here: http://bit.ly/ROZn63 Surface",
+          1350825401
         ],
         [
-          "Trivia Tuesday: This is a close-up shot of what Microsoft product's logo? (Bonus points for tagging the brand!) Timeline Photos",
-          1331651113
+          "The time is near. Preorder your Surface with Windows RT starting at $499 at 9am PST today. Check out all the details here. [PRESS RELEASE] http://msft.it/SurfaceNews The making of Microsoft Surface Get a more in-depth view of the making of Microsoft Surface.",
+          1350393081
         ],
         [
-          "Trivia Tuesday Answer: Snake '97 is transporting your Windows Phone back to the 1990s faster than you can say \"Hey, Macarena!\" http://nokia.ly/w87Ajq Timeline Photos",
-          1328637128
+          "The Surface Movement. Click This. The Surface Movement The Movement for Microsoft Surface.",
+          1350349245
         ],
         [
-          "Trivia Tuesday Answer: Olympic Decathlon. It was available for the TRS-80 and Apple II before being renamed Microsoft Decathlon and released for MS-DOS based PCs in 1982. Do you remember playing it? Timeline Photos",
-          1328037810
+          "Click in. Surface by Microsoft A tablet that's a unique expression of entertainment and creativity. A tablet that works and plays the way you want. A new type of computing. Surface.",
+          1350245751
         ],
         [
-          "Trivia Tuesday: What old school Microsoft game is this? Timeline Photos",
-          1328026857
+          "Surface: Last month, we introduced Surface, our new family of PCs built to be the ultimate stage for Windows. http://bit.ly/NeMXlz What We Did On Our Summer Vacation",
+          1344004506
         ],
         [
-          "Trivia Tuesday Answer: In 2001, Dwayne The Rock Johnson took the CES stage with Bill Gates to help unveil the original Xbox. Timeline Photos",
-          1325618368
+          "Microsoft's Surface tablet has two standout features: A full-sized, multitouch keyboard with trackpad and a built-in kickstand that also doubles as the case. Have they finally released a product that can compete with the iPad? Fast Company Microsoft CEO Steve Ballmer unveiled a suite of Microsoft Surface products today, including a signature tablet device to compete directly with Apple's iPad.",
+          1340108350
+        ],
+        [
+          "Store out of flowers? Don't worry, the Windows 7 Roses theme has you covered: http://bit.ly/xgVHcK Timeline Photos",
+          1329254429
         ]
       ],
-      "dates_start": 1326827549,
-      "dates_end": 1393601913,
-      "likes_avg": 2399,
-      "likes_stdev": 4514,
-      "comments_avg": 252,
-      "comments_stdev": 285,
-      "shares_avg": 361,
-      "shares_stdev": 888
+      "dates_start": 1350468513,
+      "dates_end": 1403765078,
+      "likes_avg": 944,
+      "likes_stdev": 976,
+      "comments_avg": 66,
+      "comments_stdev": 64,
+      "shares_avg": 163,
+      "shares_stdev": 248
     },
     {
-      "number": 8,
+      "number": 18,
       "important": [
+        "access",
+        "turn",
         "wonder",
         "use",
-        "lumia",
+        "smartphon",
         "set",
-        "photograph",
-        "access",
+        "lumia",
         "natur",
         "place",
-        "smartphon",
-        "turn"
+        "photograph"
       ],
       "common": [
         "http",
@@ -1400,28 +2537,28 @@
       "shares_stdev": 138
     },
     {
-      "number": 9,
+      "number": 19,
       "important": [
-        "develop",
-        "time",
         "phone app",
-        "million",
-        "bring",
-        "download",
         "meet",
-        "window phone",
+        "app",
+        "develop",
+        "bring",
         "peopl",
-        "app"
+        "time",
+        "million",
+        "download",
+        "window phone"
       ],
       "common": [
+        "bit",
+        "bit ly",
         "http",
         "http bit",
         "http bit ly",
         "ly",
         "phone",
         "photos",
-        "timeline",
-        "timeline photos",
         "windows",
         "windows phone"
       ],
@@ -1449,10 +2586,6 @@
         [
           "Capture and share your favorite moments with a Windows Phone: http://msft.it/photography",
           1405356711
-        ],
-        [
-          "Just in: Photo enhancements come to Twitter app for Windows Phone: http://msft.it/6180Y46a Timeline Photos",
-          1405086485
         ],
         [
           "Adobe Photoshop Express comes to Windows Phone. Download it now for free: http://msft.it/6182YgJA Timeline Photos",
@@ -1483,36 +2616,12 @@
           1396633474
         ],
         [
-          "The NCAA March Madness Live app, now available for Windows: http://msft.it/6188gTlg and Windows Phone: http://msft.it/6189gTl9 Timeline Photos",
-          1394820004
-        ],
-        [
-          "Path beta arrives on Windows Phone: http://msft.it/6180eZpe Timeline Photos",
-          1390424403
-        ],
-        [
-          "The Mint app arrives on Windows http://msft.it/6189jLff  and Windows Phone http://msft.it/6180jLfA Timeline Photos",
-          1386183814
-        ],
-        [
-          "31 spook-tacular Halloween apps for Windows Phone: http://msft.it/6186bIBA Timeline Photos",
-          1383075902
-        ],
-        [
           "Phone booth upgraded to the 21st century: Timeline Photos",
           1382993310
         ],
         [
-          "SMILE! Instagram is coming to Windows Phone. http://msft.it/6187bmwl Timeline Photos",
-          1382463002
-        ],
-        [
           "Nokia unveils two new 6-inch Lumia phones, a beautiful new tablet, and utters the word Windows Phone users have been waiting to hear: \u201cInstagram!\u201d New from Nokia",
           1382456578
-        ],
-        [
-          "Weekend Reading: Best back to school apps for Windows Phone: http://msft.it/6038wVlq Timeline Photos",
-          1377959629
         ],
         [
           "You may be wondering what happened to the YouTube app for Windows Phone: http://bit.ly/13DkvCc The limits of Google's openness Last May, after we launched a much improved YouTube app, Google objected on a number of grounds. We took our app down and agreed to work with Google to solve their issues. This week, after we addressed each of Google\u2019s points, we re-launched the app, only to have Google technically block it.",
@@ -1523,32 +2632,8 @@
           1373926960
         ],
         [
-          "Test your internet connection speed with the new Network Speed Test app from Microsoft Research, available for Windows 8 + Windows Phone 8: http://msft.it/6038ZO4K Timeline Photos",
-          1373475724
-        ],
-        [
           "Eight spectacular photos from the Windows Phone summer nights reinvented photo challenge: http://msft.it/6032ZzFq Timeline Photos",
           1373309571
-        ],
-        [
-          "Watch Discovery Channel, TLC, and Animal Planet all on your Windows Phone! http://msft.it/6031Z6nR Timeline Photos",
-          1372363583
-        ],
-        [
-          "Happy #firstdayofsummer! Get started with these weekend getaway apps for your Windows Phone: http://msft.it/6033kFcW Timeline Photos",
-          1371846326
-        ],
-        [
-          "A Disney icon comes to Windows Phone: http://msft.it/6030k0xM Timeline Photos",
-          1371836886
-        ],
-        [
-          "Experience Halo like never before in Halo: Spartan Assault, a new touch-based top-down shooter coming soon for Windows 8 and Windows Phone 8: http://msft.it/6034keQ6 Timeline Photos",
-          1370358818
-        ],
-        [
-          "The apps to pack for a backcountry adventure with your Windows Phone: http://msft.it/6030X386 Timeline Photos",
-          1366299472
         ],
         [
           "See how Grant Hill, 7-time All-Star basketball player, uses his Windows Phone: Meet Grant Hill, 7-time NBA All-Star. See his Windows Phone. See Grant Hill, 7-time All-Star and gold medalist, and his wife Tamia Hill, a Grammy-nominated R&B singer, use their Nokia Lumia 920 Windows Phones to stay in touch.",
@@ -1559,24 +2644,8 @@
           1366209853
         ],
         [
-          "Weekend Reading: New games for Windows Phone http://bit.ly/110YtKX Timeline Photos",
-          1364654169
-        ],
-        [
-          "Straight from the Batcave: \u201cThe Dark Knight Rises\u201d arrives on Windows Phone: http://bit.ly/102P3MG Timeline Photos",
-          1364235206
-        ],
-        [
-          "The Amazing Spider-Man swings onto Windows Phone: http://bit.ly/ZmyKf8 Timeline Photos",
-          1362778876
-        ],
-        [
           "8 hidden Windows Phone settings: http://bit.ly/12NaK80 Timeline Photos",
           1361377802
-        ],
-        [
-          "Music to your ears: Spotify arrives on Windows Phone 8 http://bit.ly/VLFbtb Timeline Photos",
-          1360356189
         ],
         [
           "Five essential Windows Phone apps for photographers: http://bit.ly/Vspabj Timeline Photos",
@@ -1599,10 +2668,6 @@
           1357581966
         ],
         [
-          "Weekend Reading: MSN's top stories of 2012, Best Windows Phone news apps for 2013, Urbanspoon on Windows Phone, and more: http://bit.ly/Rx3cRx Timeline Photos",
-          1357401601
-        ],
-        [
           "See how Andy Samberg uses his Windows Phone: http://bit.ly/U5lhWp Meet Andy It's easy to see how much Andy Samberg loves movies when you look at his Windows Phone. ",
           1355792351
         ],
@@ -1621,10 +2686,6 @@
         [
           "Check out VoterHub, an amazing election app for Windows 8 and Windows Phone. \r\n\r\nWindows 8 App: http://bit.ly/Vusp0L \r\nWindows Phone app: http://bit.ly/Ud16YH Timeline Photos",
           1352131697
-        ],
-        [
-          "Meet the new Windows Phone. http://www.windowsphone.com Timeline Photos",
-          1351537202
         ],
         [
           "STARTING NOW: See what's next for Windows Phone on the live webcast at 10 a.m. PT: http://on.fb.me/Q28C7q Timeline Photos",
@@ -1659,18 +2720,6 @@
           1343063721
         ],
         [
-          "Stay up-to-date on all the latest news, schedules and results across all sports in the Summer Games with the official London 2012 Results app on Windows Phone: http://bit.ly/NBFcbt Timeline Photos",
-          1342726965
-        ],
-        [
-          "Download audio books directly to your phone with the Audible.com app for Windows Phone: http://bit.ly/M4Wssi Timeline Photos",
-          1341584216
-        ],
-        [
-          "Download the new free CNN app for Windows Phone: http://bit.ly/Ljedzn Timeline Photos",
-          1340902573
-        ],
-        [
           "Ben The PC Guy hits the streets of Seattle to see if Android and iPhone users are up to the Smoked By Windows Phone challenge! Watch Ramona play for a shot at dinner, then read more about the challenge here: http://bit.ly/Qdi9o0 Windows Phone Challenge: Did Ramona get a free dinner? We offered Ramona and four of her closest friends dinner if she could prove that her Android phone is faster at everyday things, like searching for a restaurant and sending the link to friends. See how Local Scout and Groups help make Windows Phone simply faster.",
           1340730408
         ],
@@ -1685,18 +2734,6 @@
         [
           "Windows Phone now has 100,000 apps and counting.  Which ones do you use every day? Timeline Photos",
           1340214575
-        ],
-        [
-          "Live news and on-demand video from across the globe is at your fingertips with The Wall Street Journal Live app for Windows Phone: http://bit.ly/MD4pii Timeline Photos",
-          1339682824
-        ],
-        [
-          "Many of you have been asking, and we finally have an answer: Photosynth for Windows Phone is here! http://bit.ly/JueOw5 Timeline Photos",
-          1338387909
-        ],
-        [
-          "Get the latest news, opinions, analysis, and award-winning photography via the TIME app for Windows Phone: http://bit.ly/MiKkQx Timeline Photos",
-          1337697032
         ],
         [
           "The Aviary photo editing platform is coming to Windows Phone! Check out the demo (http://bit.ly/LuQwbB) and read more about it here: http://bit.ly/K89ctW Timeline Photos",
@@ -1751,14 +2788,455 @@
           1325707127
         ]
       ],
-      "dates_start": 1338238555,
-      "dates_end": 1388835170,
-      "likes_avg": 901,
-      "likes_stdev": 906,
-      "comments_avg": 70,
-      "comments_stdev": 58,
-      "shares_avg": 138,
-      "shares_stdev": 155
+      "dates_start": 1334751057,
+      "dates_end": 1390189909,
+      "likes_avg": 706,
+      "likes_stdev": 577,
+      "comments_avg": 64,
+      "comments_stdev": 48,
+      "shares_avg": 133,
+      "shares_stdev": 149
+    },
+    {
+      "number": 20,
+      "important": [
+        "product",
+        "work",
+        "devic",
+        "window devic",
+        "avail",
+        "keyboard",
+        "introduc",
+        "two",
+        "univers",
+        "way"
+      ],
+      "common": [
+        "acer",
+        "http",
+        "http msft",
+        "msft",
+        "new",
+        "pc",
+        "photos",
+        "timeline",
+        "timeline photos",
+        "windows"
+      ],
+      "messages": [
+        [
+          "Introducing the Universal Foldable Keyboard, a portable, packable, and precise way to make you more productive. Pairs with two devices simultaneously and works with iOS, Android, and Windows devices. Available in July. Timeline Photos",
+          1425331655
+        ],
+        [
+          "ROUNDUP: New Windows devices announced at #CES2015. CES 2015: New Windows Devices Windows devices are offering more premium choices than ever.",
+          1420682676
+        ],
+        [
+          "Announced at #CES2015: Dell reveals the smallest 13-inch laptop on the planet. CES 2015: Dell Today, Dell announced an expanded portfolio of award-winning devices from its XPS, Alienware, Venue, Inspiron and displays families at CES 2015.",
+          1420571852
+        ],
+        [
+          "Lenovo\u2019s lineup of YOGA convertibles and tablets takes flexibility to a new level. http://msft.it/6184ajdK New crop of Lenovo PCs announced at CES Lenovo adds to CES excitement with new Windows tablets, 2 in 1s, notebooks and AIOs.",
+          1420499344
+        ],
+        [
+          "Game thinner, lighter, and with the power of a desktop. ORIGIN PC unleashes new gaming laptops at #CES2015. http://msft.it/6185ajEV Introducing New ORIGIN PC EON17-X and EON15-X Laptops ORIGIN PC announced their new ORIGIN PC EON17-X and EON15-X high-performance laptops for gamers, artist, professionals and enthusiasts all over the world. ",
+          1420493434
+        ],
+        [
+          "We\u2019re proud to announce our new partnership with the Special Olympics. Microsoft to partner with Special Olympics Microsoft announced a partnership with the Special Olympics to modernize the non-profit\u2019s software and games management system, and elevate it to the cloud.",
+          1414441139
+        ],
+        [
+          "Get more done on whatever you've got.  Universal Mobile Keyboard Designed to work with iPad, iPhone, Android devices and Windows tablets. Come take a look.",
+          1410873642
+        ],
+        [
+          "Get in the game\u2026 literally! Create an animated 3D game character version of yourself Using a Kinect for Windows v2 device you can scan yourself to create a game-ready 3D avatar.",
+          1410359640
+        ],
+        [
+          "Which one is your favorite? New Windows devices announced at IFA",
+          1409950472
+        ],
+        [
+          "There are good deals and there are great deals, like this Acer Aspire E 15 for just $199. It\u2019s perfect for #backtoschool. Get yours while supplies last. Flash Sale: Acer Aspire E 15 Only $199, while supplies last. From running Office programs to kicking back with a movie, the Acer Aspire E 15 is your Back to School device. ",
+          1409317207
+        ],
+        [
+          "Smokin\u2019 deal: Surface 2 is now $100 off. Surface 2, now just $349 Thin, light tablet with up to 10-hour battery life",
+          1408964406
+        ],
+        [
+          "Smokin\u2019 deal: Surface 2 is now $100 off at MicrosoftStore.com. Get yours: Surface 2, now just $349 Thin, light tablet with up to 10-hour battery life",
+          1408892414
+        ],
+        [
+          "Sharp as a blade. Acer announces new Aspire V Nitro series laptops Acer has announced 15-inch and 17-inch Aspire V Nitro series laptops.",
+          1408381208
+        ],
+        [
+          "This one's for the gamers! ASUS Republic of Gamers announces new gaming devices at Computex: http://msft.it/6184cm4I Timeline Photos",
+          1402578006
+        ],
+        [
+          "Over 40 new Windows devices announced at Computex in Taipei http://msft.it/6186cTop New ecosystem opportunity for Windows devices News and perspectives covering the top stories, events and activities from Microsoft. The content for this blog includes the official information and stories from all of Microsoft's primary businesses.",
+          1401907215
+        ],
+        [
+          "Dell announces new Inspiron 2-in-1 and All-in-One PCs at Computex http://msft.it/6187cuv7 Timeline Photos",
+          1401827388
+        ],
+        [
+          "Meet #SurfacePro3, the tablet that can replace your laptop. http://msft.it/6182iQ6Q Timeline Photos",
+          1400593984
+        ],
+        [
+          "Announced: the Lenovo ThinkPad 10 tablet and ThinkStation P300 http://msft.it/6188ilIj Timeline Photos",
+          1400245204
+        ],
+        [
+          "Throwback Thursday: See history in the making. http://msft.it/6187ilKH History in the making With Nokia Devices & Services joining Microsoft, the next chapter of a remarkable story begins: http://conversations.nokia.com/2014/05/08/history-making-rube-goldberg-style/",
+          1400178963
+        ],
+        [
+          "Acer announces new devices including a new 2-in-1 laptop and 23-inch All-in-One: http://msft.it/6188iPTa Timeline Photos",
+          1399471203
+        ],
+        [
+          "Everything just became a lot #MoreColorful. Microsoft and Nokia Devices & Services unite! http://msft.it/618190X3 Timeline Photos",
+          1398418207
+        ],
+        [
+          "Introducing new Windows FLEX 2 laptops from Lenovo: http://msft.it/61899qYP Timeline Photos",
+          1398171604
+        ],
+        [
+          "A range of new laptops from Toshiba, including a 4K Ultra HD display: http://msft.it/61879mkX Timeline Photos",
+          1397844776
+        ],
+        [
+          "4 great laptops under $400: http://msft.it/6189d7yt Timeline Photos",
+          1389812911
+        ],
+        [
+          "Hands-on with the ultra-high resolution Toshiba 4K Windows 8.1 laptops: http://msft.it/6187dfVN Timeline Photos",
+          1389735785
+        ],
+        [
+          "New Windows Devices Announced at CES 2014 Roundup of CES 2014",
+          1389652236
+        ],
+        [
+          "What was the coolest Windows PC shown at #CES2014?\nA)     Lenovo Thinkpad Carbon X1\nB)     ASUS VivoTab Note 8\nC)     HP Z1G2 Workstation\nD)     Panasonic Toughpad FZ-M1\nE)     Toshiba 4K laptops\nF)      Sony Flip 11",
+          1389402000
+        ],
+        [
+          "Lenovo\u2019s New Year\u2019s resolution? 3840x2160. Their beautiful 4K monitor from #CES2014 Timeline Photos",
+          1389393666
+        ],
+        [
+          "Hands-on with the Panasonic Toughpad FZ-M1 from #CES2014: http://msft.it/6181daE7 Timeline Photos",
+          1389288186
+        ],
+        [
+          "Introducing Christine, a futuristic modular PC concept from Razer at #CES2014: http://msft.it/6183dQix Timeline Photos",
+          1389218462
+        ],
+        [
+          "Panasonic shows the world's first 4K tablet at #CES2014 and it is glorious. http://msft.it/6181dt4R Timeline Photos",
+          1389203343
+        ],
+        [
+          "Staying classy with the new Lenovo Thinkpad X1 Carbon in Las Vegas http://msft.it/6184dsDK Timeline Photos",
+          1389133805
+        ],
+        [
+          "Staying hydrated at #CES2014 with the new Panasonic Toughpad http://msft.it/6184dSNI Timeline Photos",
+          1389124921
+        ],
+        [
+          "Announced at #CES2014: the ASUS VivoTab Note 8. http://msft.it/6185dSGx Timeline Photos",
+          1389107401
+        ],
+        [
+          "Introduced at #CES2014: The HP Z1 G2 all-in-one workstation. http://msft.it/6186dq6w Timeline Photos",
+          1389049860
+        ],
+        [
+          "Spotted at #CES2014: Panasonic announces Toughpad FZ-M1 Fully Rugged 7\u201d Windows 8.1 Pro Tablet. http://msft.it/6186dUvw Timeline Photos",
+          1389043714
+        ],
+        [
+          "Roundup: New Windows devices announced at #CES2014: http://msft.it/6189dUZD Timeline Photos",
+          1389035666
+        ],
+        [
+          "Just announced at #CES2014: Toshiba introduces world\u2019s first 4K laptops! http://msft.it/6188doLk CES 2014: Toshiba Introduces World\u2019s First 4K Laptops Toshiba has made 4K display technology more accessible by announcing two exciting new Windows 8.1 laptops.",
+          1389025895
+        ],
+        [
+          "Bonanza! Lenovo unveils 10 new Windows PCs at #CES2014 http://msft.it/6185dWol Timeline Photos",
+          1388969764
+        ],
+        [
+          "Next week, we'll be down at CES, bringing you news from many of our partners who have some great new Windows devices to show off. What would you like to see?",
+          1388764800
+        ],
+        [
+          "Throwback Thursday: Our favorite photo from CES last year--our pal Jenn Brown putting a Panasonic Toughpad to the test. #CES2014 is next week! We\u2019ll be there to bring you news from our partners\u2014lots of great new Windows devices to show you. Stay tuned! Timeline Photos",
+          1388689563
+        ],
+        [
+          "Get a Windows device from Santa? Quick tips to get up and running: http://msft.it/6189dZmU Timeline Photos",
+          1388070002
+        ],
+        [
+          "If you\u2019re shopping for a powerful new PC this season, here are 6 that will satisfy your need for speed. Beast Mode: 6 Awesome Ultrabooks and All-in-Ones for Holiday",
+          1386630602
+        ],
+        [
+          "Say hello to the Lenovo Miix2 tablet: http://msft.it/6189bo8T Timeline Photos",
+          1382535774
+        ],
+        [
+          "At the IFA show in Berlin, Toshiba introduced the Encore, an 8 inch tablet running Windows 8.1. Learn more about all of Toshiba\u2019s IFA announcements here: http://msft.it/6031wcY5 Timeline Photos",
+          1378838671
+        ],
+        [
+          "At the IFA 2013 show in Berlin, Panasonic introduced world\u2019s first 20\u201d 4K tablet, the Toughpad 4K. Learn more about all of Panasonic\u2019s IFA announcements here: http://msft.it/6031w9o5 Timeline Photos",
+          1378751364
+        ],
+        [
+          "Take a look at some of the incredible new Windows PCs introduced this week at IFA 2013 and click \u2018Like\u2019 on your favorite! http://msft.it/IFA New Windows PCs at IFA 2013",
+          1378398702
+        ],
+        [
+          "Via The Verge: This is how you build a Windows 8 laptop http://msft.it/6039wpLx Acer Aspire S7 review The S7 is straight-up made for airplanes. It's incredibly thin and light, with a hinge that opens to any angle you want and a screen that looks great from even the oddest seatback-induced angle.",
+          1377883189
+        ],
+        [
+          "Red is the new beige! New red edition Sony VAIO laptops: http://msft.it/6039Zh8U Timeline Photos",
+          1376579622
+        ],
+        [
+          "Siri, can you play Halo? http://msft.it/6032Z7ka Acer Iconia W3 vs. iPad Mini The competition just got smaller. See how the Acer Iconia W3 stacks up against the iPad Mini. http://windows.com/compare",
+          1376498687
+        ],
+        [
+          "Gizmodo goes gaga for the Windows 8-powered Razer Blade gaming laptop: http://msft.it/6032Z1L6 Razer Blade 2013: Now This Is How You Make a Damn Windows Laptop Everyone\u2019s first impression of the 14-inch Razer Blade, even more than its 17-inch older brother, is Ha, they made a MacBook. But then, Oh\u2014wait. They made a MacBook. And actually, it's even better than that.",
+          1372787429
+        ],
+        [
+          "Sony announced two new Windows 8 PCs at Computex \u2013 the feather light VAIO Pro 11/13 and the slider hybrid VAIO Duo 13. Details: http://msft.it/6036kixC Computex 2013: New from Sony",
+          1370528798
+        ],
+        [
+          "Newly unveiled PCs from Acer and ASUS including the first 8 inch Windows 8 tablet, an ultrabook with a 2500 x 1600 touchscreen display + more! Computex 2013: New Windows 8 PCs",
+          1370382331
+        ],
+        [
+          "From Computex 2013: Dell announces the new XPS 11 and enhancements to other Windows PCs: http://msft.it/6035k5OB Timeline Photos",
+          1370374772
+        ],
+        [
+          "Acer introduces the Iconia W3 \u2013 an 8-inch, 1.2 pound, .45 inch thin Windows PC! http://msft.it/6038kbEC Timeline Photos",
+          1370273189
+        ],
+        [
+          "The ASUS Transformer Book TX300 is now available! Use it as a laptop or tablet: http://msft.it/6031kRA1 Timeline Photos",
+          1369763228
+        ],
+        [
+          "Congrats to the Windows team on their most recent milestone \u2013 100 million Windows 8 licenses sold! Are you running Windows 8 on your PC? http://msft.it/6034Xttp Timeline Photos",
+          1368462977
+        ],
+        [
+          "Meet the VAIO Fit, a new line of Windows 8 laptops from Sony: http://msft.it/6036XqQM Timeline Photos",
+          1368124667
+        ],
+        [
+          "Acer introduced a slew of new Windows 8 PCs today.  Included in the lineup was the Aspire R7. It features a new \u201cEzel Hinge,\u201d designed to make the combination of touching and typing more intuitive and natural.  Get all the details on the new Acer lineup at the Windows Team Blog: http://msft.it/6035XYGP Timeline Photos",
+          1367607361
+        ],
+        [
+          "Behold the Toshiba KIRAbook: A Windows 8 PC with a stunning 2,560 x 1,440 touchscreen display, 2 year warranty, and 24/7 premium support: http://msft.it/6032XRHQ Timeline Photos",
+          1366659922
+        ],
+        [
+          "Find the perfect PC with the Windows PC Finder: http://msft.it/6031n4pV Timeline Photos",
+          1364999567
+        ],
+        [
+          "This week, Microsoft announced the 4Afrika Initiative, a new effort through which the company will actively engage in Africa\u2019s economic development to improve its global competitiveness. Learn more about the project here: http://bit.ly/WPtjo4\n\nPhoto \u00a9 Greg Von Doersten/Mawingu Timeline Photos",
+          1360184494
+        ],
+        [
+          "Jenn Brown shows off the newest PC from Panasonic: The Panasonic ToughPad FZ-G1 powered by Windows 8 http://bit.ly/WFR4KA First Look at the new Panasonic ToughPad powered by Windows 8 Sport anchor and tech enthusiast Jenn Brown shows off the newest PC from Panasonic: The Panasonic ToughPad FZ-G1 powered by Windows 8.",
+          1357854854
+        ],
+        [
+          "Sport anchor and tech enthusiast Jenn Brown shows off the newest PCs from Lenovo: The ThinkPad Helix and the IdeaCentre Horizon table PC both powered by Windows 8: http://bit.ly/TNsr26 First Look at Lenovo's New Windows 8 PCs with Jenn Brown Jenn Brown shows off the newest PCs from Lenovo: The ThinkPad Helix and the IdeaCentre Horizon table PC both powered by Windows 8.",
+          1357852181
+        ],
+        [
+          "Announced tonight at CES: The Panasonic Toughpad tablet with Windows 8 Timeline Photos",
+          1357702440
+        ],
+        [
+          "Elige la Windows 8 PC ideal para ti: http://bit.ly/Rb4FcK Timeline Photos",
+          1350676166
+        ],
+        [
+          "Samsung Series 5 Ultra Touch: Speed, mobility and stunning design, all in an Ultrabook that is so perfectly balanced, it reflects every side of you. http://bit.ly/TlQkZV Pick the Windows 8 PC That\u2019s Right for You",
+          1350056385
+        ],
+        [
+          "ASUS VivoTab RT: Is it a laptop or tablet? Why not both? With this remarkably thin and light convertible, you can have it all without sacrificing performance for portability. This ASUS VivoTab RT is powered by Windows RT. http://bit.ly/TlQkZV Pick the Windows 8 PC That\u2019s Right for You",
+          1350056385
+        ],
+        [
+          "VIZIO 27\" All-in-One Touch PC: Elegantly combining a powerful PC, premium entertainment and a Full HD touchscreen display, the VIZIO All-in-One Touch PC does it all. http://bit.ly/TlQkZV Pick the Windows 8 PC That\u2019s Right for You",
+          1350056385
+        ],
+        [
+          "Dell XPS One 27: Provides lightning-fast access to apps, artwork and anything else you need to bring inspiration to life. A creativity powerhouse. Empower your artistic side with a stunning display in a sleek and slim body. http://bit.ly/TlQkZV Pick the Windows 8 PC That\u2019s Right for You",
+          1350056385
+        ],
+        [
+          "HP ENVY TouchSmart Ultrabook 4: Experience the power of touch and take thin and light to the next level. http://bit.ly/TlQkZV Pick the Windows 8 PC That\u2019s Right for You",
+          1350056385
+        ],
+        [
+          "Acer Aspire S7-391: The Aspire S7 is beautifully slim, tough and light. Its touch-and-show display enables productive teamwork. The light-sensing backlit keyboard automatically adjusts for optimized viewing anytime. http://bit.ly/TlQkZV Pick the Windows 8 PC That\u2019s Right for You",
+          1350056385
+        ],
+        [
+          "Sony VAIO Duo 11: It\u2019s the best of both worlds: a full HD laptop and a touchscreen tablet. All in a compact, mobile design that\u2019s ready to go. Write notes or draw with the digitizer stylus, type an email or use your fingers to pinch, swipe and scroll through the Web. http://bit.ly/TlQkZV Pick the Windows 8 PC That\u2019s Right for You",
+          1350056385
+        ],
+        [
+          "This week saw an incredible number of announcements from our Windows OEM partners of new PCs for Windows 8. Flip through the gallery to see what\u2019s coming, then learn more about them here: http://bit.ly/S5NKwG Windows",
+          1346436412
+        ],
+        [
+          "Buy a Windows 7 PC and get Windows 8 Pro for $14.99: http://bit.ly/Ns8jSi Timeline Photos",
+          1346077470
+        ],
+        [
+          "The Dell OptiPlex Family - The Dell OptiPlex family provides day-to-day productivity for critical business tasks and is designed to be a secure, flexible and manageable business desktop. The newly designed, sleek OptiPlex 9010 All-in-One empowers productivity while preserving precious desk space with an integrated power supply, VESA mounting, and optional wireless mouse and keyboard. http://bit.ly/My20tx New Dell PCs",
+          1340721866
+        ],
+        [
+          "Dell Alienware M18x - Alienware\u2019s flagship gaming desktop, the M18x, is equipped with technology capable of matching gaming desktop performance. With extreme graphics, HD display and HD surround sound, all wrapped in a stylish, cool-to-the-touch anodized aluminum shell, the M18x is a gaming and entertainment powerhouse. http://bit.ly/My20tx New Dell PCs",
+          1340721866
+        ],
+        [
+          "Dell XPS 13, 14 and 15 - XPS laptops are a blend of high performance, uncompromised form and function, and thoughtful design. Each XPS laptop has a very specific customer in mind, and high performance helps meet their specific expectations. The XPS 13, Dell\u2019s first Ultrabook, was designed for ultimate mobility and has seen incredible success and reception among consumers and professionals who want to bring their personal products into the workplace.The XPS 14 was created for all-day performance and connectivity. And finally, the XPS 15 is a powerhouse performer for creation, entertainment or anything in between. http://bit.ly/My20tx New Dell PCs",
+          1340721866
+        ],
+        [
+          "VIZIO All-in-Ones: Available in both 24- and 27-inch screen sizes so you can fit your PC to your lifestyle, not the other way around. http://bit.ly/McLEUb New VIZIO PCs",
+          1340134268
+        ],
+        [
+          "VIZIO 15.6-Inch Thin + Light: This is more than just another pretty case \u2014 there\u2019s plenty of power under the hood, and its crystal-clear full HD screen is great for movies or editing photos. http://bit.ly/McLEUb New VIZIO PCs",
+          1340134267
+        ],
+        [
+          "VIZIO 24-Inch All-in-One: The ultimate all-in-one PC, beautifully integrated into one simple solution, with full HD picture quality and 2.1 surround sound. With its own remote and easy connectivity to your cable box, Blu-ray player or gaming console, this is much more than just a powerful PC. http://bit.ly/McLEUb New VIZIO PCs",
+          1340134267
+        ],
+        [
+          "VIZIO 27-Inch All-in-One: Any way you look at it, it's beautiful. And packed into that elegant design is a powerful PC just waiting to be let loose. This sleek, powerful PC is all business for work, but when playtime comes, its roomy 27-inch full HD screen makes it the perfect entertainment hub. http://bit.ly/McLEUb New VIZIO PCs",
+          1340134267
+        ],
+        [
+          "Thinking of getting a new PC? Why wait? Buy a Windows PC now and get Windows 8 Pro for $15 as soon as it comes out! http://bit.ly/LRWRYp Timeline Photos",
+          1338570391
+        ],
+        [
+          "Lenovo ThinkPad X1 - With scratch-resistant Gorilla Glass from edge to edge, carbon-fiber roll cage and spill-resistant keyboard, the Lenovo ThinkPad X1 is designed for rugged durability. The ThinkPad X Series is qualified as Electronics Product Environmental Assessment Tool Gold-rated, Energy Star-efficient and UL Environment Gold-rated. Lenovo EE3 Windows 7 PCs",
+          1336065722
+        ],
+        [
+          "Lenovo ThinkPad X220 Tablet - Take the highly mobile X220 Convertible Tablet virtually anywhere work requires. It's lightweight, starting at just 3.57 pounds, and has up to 18 hours of battery life for all-day computing. The tablet's nifty digitizer pen helps you jot notes and sketch diagrams directly on the screen. Thanks to palm-rejection technology, your hand won't interfere with the precision of your writing. Lenovo EE3 Windows 7 PCs",
+          1336065722
+        ],
+        [
+          "Lenovo ThinkPad Edge S430 - Image conscious professionals need look no farther than the ThinkPad Edge S430 laptop. This striking laptop in Mocha Black measures less than one-inch thin and has metal accents, a soft-touch finish encased in an elegant thin and light design. The 14-inch laptop also comes packed with the features SMBs need to succeed with choices of the latest Intel Core processors, a DVD burner or a second hard drive for up to 1 TB of storage. Lenovo EE3 Windows 7 PCs",
+          1336065722
+        ],
+        [
+          "Lenovo IdeaPad U300s - The Lenovo IdeaPad U300s series is available in Clementine Orange and Graphite Gray, complete with a long battery life and powerful capabilities in an ultraportable package. With this Windows 7-based PC, you will be able to show off the immaculate design and high-quality construction of the U300s laptop. Then, continue to impress with this ultraportable computer\u2019s smart innovations and breathtaking speed. Lenovo EE3 Windows 7 PCs",
+          1336065721
+        ],
+        [
+          "Lenovo ThinkCentre M71z - The space-saving, reliable M71z all-in-one desktop PC takes less room on your desk but does more work \u2014 quickly, efficiently and reliably. With a wireless, spill-resistant keyboard and wireless mouse included and optional multitouch screen, this Windows 7-based business PC features the perfect balance between power and affordability. Lenovo EE3 Windows 7 PCs",
+          1336065721
+        ],
+        [
+          "Lenovo IdeaCentre A720 - The world\u2019s slimmest 27-inch all-in-one, the IdeaCentre A720, with Windows 7, uniquely combines a frameless display supporting 10-point multitouch for greater accuracy with a widely adjustable screen angle (from five degrees to 90 degrees) that allows comfortable use in any position. Lenovo EE3 Windows 7 PCs",
+          1336065721
+        ],
+        [
+          "Lenovo IdeaPad U310 - The affordable IdeaPad U310 Ultrabook, available in a range of colors, uniquely combines a super-slim design with intelligent features such as Lenovo Smart Update that downloads your emails even while in sleep mode. An extended battery life of up to seven hours makes sure you are on top of your game, even while on the go. Lenovo EE3 Windows 7 PCs",
+          1336065721
+        ],
+        [
+          "Acer Aspire S3 - At 13 millimeters, the Acer Aspire S3 Ultrabook is one of the thinnest Windows 7-based notebooks on the market. Innovative Acer Green Instant-On technology provides instant-resume functionality and ensures battery longevity, while Acer Instant Connect delivers Internet access in 2.5 seconds. The Aspire S3 is encased in a thin, light metal design that's sturdy, aerodynamic and perfect for the fashionista on the go. http://bit.ly/HnnGCa Acer 2012 Lineup",
+          1332953099
+        ],
+        [
+          "Acer Aspire Z5 Series - The Acer Aspire Z5 Series all-in-one PCs feature intuitive, 23-inch Full HD touchscreens that light up your digital life with an exciting new look and feel. The Acer TouchPortal provides a smarter way to access your PC and the Internet, and gives you cool, hands-on control of today's latest HD multimedia and social networking. Plus, premium PC performance lets you use all your favorite apps at the same time \u2014 multitask with multitouch. http://bit.ly/Hk5CLy Acer 2012 Lineup",
+          1332953099
+        ],
+        [
+          "Acer TravelMate TimelineX TM8481T-6440 - Road warriors and savvy business professionals seeking a combination of style, mobility and eco-compliance should consider the Acer TravelMate TimelineX TM8481T-6440 PC with Windows 7. The TravelMate TimelineX Series features more than eight hours of battery life in a slim and lightweight design with efficient processing power, wide-ranging communication capabilities and indispensable security solutions to maximize your potential while on the move. http://bit.ly/HizIl9 Acer 2012 Lineup",
+          1332953099
+        ],
+        [
+          "Acer Aspire Timeline Ultra - Acer Aspire Timeline Ultra is the first Ultrabook with the new NVIDIA GeForce GT640M graphics card for amazing gaming and multimedia. At 20 millimeters thin, it\u2019s the first two-spindle, full-featured, 15-inch Ultrabook with approximately eight hours of battery life. Acer Green Instant-On resumes in less than two seconds and Instant Connect accesses the Internet four times faster than conventional connections. Features super-fast-access, long-running solid-state drive (SSD) or extra-large hard disk drive (HDD) with integrated SSD dedicated to supporting the Acer Green Instant-On feature. http://bit.ly/GXcNHv Acer 2012 Lineup",
+          1332953099
+        ],
+        [
+          "Acer Aspire S5 - The Acer Aspire S5 is one of the world\u2019s thinnest notebooks, measuring only 15 millimeters at its maximal point. Weighing less than 3 pounds and built with a 13.3-inch high-definition (HD) LED LCD, it features Windows 7, the unique Acer Green Instant-On technology for fast boot and resume, and Acer Always Connect for accessing and managing multimedia and data anytime, anywhere. http://bit.ly/yf12PJ Acer 2012 Lineup",
+          1332953099
+        ],
+        [
+          "Professional grade: The HP Z1 Workstation with Windows 7. http://bit.ly/xE1Twe  Introducing the HP Z1 Workstation Introducing power without the tower -- learn how the HP Z1 all-in-one Workstation came to be.",
+          1331833281
+        ],
+        [
+          "The new generation of ultra-thin Windows PC laptops is here: http://bit.ly/zGhTxb Timeline Photos",
+          1330979073
+        ],
+        [
+          "Thin, light, cheap, and powerful. The Acer Aspire S3: http://bit.ly/xp6VdZ Timeline Photos",
+          1329939888
+        ],
+        [
+          "Lenovo ThinkPad X1\nWith scratch-resistant Gorilla Glass from edge to edge, carbon-fiber roll cage and spill-resistant keyboard, the Lenovo ThinkPad X1 is designed for rugged durability. The ThinkPad X Series is qualified as EPEAT Gold- and Energy Star-efficient, and UL Environment Gold-rated. http://bit.ly/xZb7uF Six Green Windows 7 Laptops",
+          1327939886
+        ],
+        [
+          "Dell Inspiron 14z\nThis thin, powerful and affordable laptop was designed with the environment in mind from the start, and contains no harmful materials such as arsenic in the display or mercury in the system components. Not only is the Dell Inspiron 14z a great thin and powerful laptop for today\u2019s students with a wide-screen high-definition display in a lightweight, stylish design, it is also delivered to most Dell customers in innovative bamboo packaging \u2014 a replacement for foam that is recyclable in the U.S. and some other areas of the world. When it\u2019s time to retire the system, Dell offers free recycling to consumers in many countries, as well as secure, reliable recycling to businesses. http://bit.ly/xZb7uF Six Green Windows 7 Laptops",
+          1327939886
+        ],
+        [
+          "Acer TravelMate Timeline 8481T\nRoad warriors and savvy business professionals seeking a combination of style, mobility and eco-compliance should consider the Acer TravelMate Timeline 8481T PC with Windows 7. Acer professional notebooks are submitted to a series of reliability tests and are compliant with the most stringent industry criteria including Energy Star qualified and registered EPEAT Silver. With energy savings, longer battery life and elimination of hazardous substances throughout the TravelMate Timeline\u2019s supply chain results in one of Acer\u2019s greenest notebook to date. http://bit.ly/xZb7uF Six Green Windows 7 Laptops",
+          1327939885
+        ]
+      ],
+      "dates_start": 1343418538,
+      "dates_end": 1399592307,
+      "likes_avg": 876,
+      "likes_stdev": 898,
+      "comments_avg": 76,
+      "comments_stdev": 88,
+      "shares_avg": 150,
+      "shares_stdev": 173
     }
   ]
 }

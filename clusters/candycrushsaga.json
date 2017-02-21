@@ -2,28 +2,28 @@
   "pagename": "candycrushsaga",
   "globalstats": {
     "messages": 1123,
-    "likes_avg": 17537,
-    "likes_stdev": 26884,
-    "comments_avg": 1532,
-    "comments_stdev": 2437,
-    "shares_avg": 1084,
-    "shares_stdev": 3684,
+    "likes_avg": 17319,
+    "likes_stdev": 26647,
+    "comments_avg": 1510,
+    "comments_stdev": 2415,
+    "shares_avg": 1067,
+    "shares_stdev": 3645,
     "graph_uri": "clusters/candycrushsaga.png"
   },
   "clusters": [
     {
       "number": 1,
       "important": [
-        "us comment",
-        "next",
         "next week",
         "comment",
-        "candi crush",
         "fan",
-        "share",
         "us",
-        "week",
-        "post"
+        "next",
+        "candi crush",
+        "post",
+        "us comment",
+        "share",
+        "week"
       ],
       "common": [
         "next weeks timeline",
@@ -79,16 +79,16 @@
     {
       "number": 2,
       "important": [
+        "far",
+        "dreamworld",
+        "play candi crush",
         "timelin",
         "follow",
-        "dreamworld",
-        "play",
         "candi crush",
+        "action",
         "play candi",
-        "play candi crush",
-        "photo",
-        "far",
-        "action"
+        "play",
+        "photo"
       ],
       "common": [
         "escape reality follow",
@@ -148,16 +148,16 @@
     {
       "number": 3,
       "important": [
-        "timelin",
-        "play",
-        "like",
-        "chanc",
-        "treat",
         "spring",
-        "photo",
+        "timelin",
+        "treat",
+        "sale",
+        "chanc",
         "action",
         "last",
-        "sale"
+        "like",
+        "play",
+        "photo"
       ],
       "common": [
         "com",
@@ -218,15 +218,88 @@
       "number": 4,
       "important": [
         "timelin",
-        "follow",
-        "candycrushsaga",
-        "say",
+        "one",
+        "whos",
+        "today timelin",
+        "day",
+        "candi",
+        "action",
+        "today",
+        "happi",
+        "photo"
+      ],
+      "common": [
+        "alphabetty",
+        "challenge",
+        "challenge play alphabetty saga today",
+        "photos",
+        "timeline",
+        "timeline photos",
+        "today",
+        "today timeline",
+        "today timeline photos",
+        "word"
+      ],
+      "messages": [
+        [
+          "Which one are you today? Timeline Photos",
+          1459008002
+        ],
+        [
+          "Happy Cotton Candy Day! Who's having some today? :) Timeline Photos",
+          1449502201
+        ],
+        [
+          "Challenge! What's the longest word you can find? Put your answer in comments below! Fancy another word challenge? Play AlphaBetty Saga today! :) Timeline Photos",
+          1440768601
+        ],
+        [
+          "Challenge! What's the longest word you can find? Put your answer in comments below! Fancy another word challenge? Play AlphaBetty Saga today! Timeline Photos",
+          1437226202
+        ],
+        [
+          "CHALLENGE TIME! What\u2019s the first Candy Crush related word you can find in this word #puzzle? Write your answer in a COMMENT! \n\n Fancy another word challenge? Play AlphaBetty Saga today!  :) Timeline Photos",
+          1432474365
+        ],
+        [
+          "Calling all Candy Crush experts! Share your knowledge with others today! Timeline Photos",
+          1428672601
+        ],
+        [
+          "Lazy Sunday! Who's playing #CandyCrushSaga today? Timeline Photos",
+          1422199801
+        ],
+        [
+          "Well, what a fantastic view! \n\nWho's playing today? http://to.king.com/n4ED Timeline Photos",
+          1417188600
+        ],
+        [
+          "What does this mean? New levels soon perhaps? ;) \n\nWarm up today! \u2192 http://to.king.com/tDng Timeline Photos",
+          1408455001
+        ]
+      ],
+      "dates_start": 1417870631,
+      "dates_end": 1447795006,
+      "likes_avg": 13991,
+      "likes_stdev": 11415,
+      "comments_avg": 1411,
+      "comments_stdev": 968,
+      "shares_avg": 367,
+      "shares_stdev": 581
+    },
+    {
+      "number": 5,
+      "important": [
+        "timelin",
+        "candi crush saga",
         "hi",
         "come",
-        "candi crush saga",
-        "photo",
+        "follow",
+        "say",
+        "action",
+        "candycrushsaga",
         "twitter",
-        "action"
+        "photo"
       ],
       "common": [
         "follow",
@@ -288,17 +361,17 @@
       "shares_stdev": 40
     },
     {
-      "number": 5,
+      "number": 6,
       "important": [
-        "help",
-        "saga",
-        "new",
-        "witch",
         "tasti",
-        "bubbl",
+        "help",
         "work",
+        "new",
         "candi",
         "bubbl witch",
+        "bubbl",
+        "witch",
+        "saga",
         "saga timelin"
       ],
       "common": [
@@ -365,18 +438,99 @@
       "shares_stdev": 145
     },
     {
-      "number": 6,
+      "number": 7,
       "important": [
-        "candi crush level",
-        "new candi crush",
-        "let us",
+        "dont miss",
+        "live",
+        "miss",
+        "happi",
         "dont",
-        "forget let",
-        "new candi",
-        "dont forget",
+        "get",
+        "hour unlimit",
+        "hour",
+        "play",
+        "find"
+      ],
+      "common": [
+        "get",
+        "hours",
+        "hours unlimited",
+        "hours unlimited lives",
+        "lives",
+        "photos",
+        "timeline",
+        "timeline photos",
+        "unlimited",
+        "unlimited lives"
+      ],
+      "messages": [
+        [
+          "Happy Saturday! <3 Want 2 hours of Unlimited Lives? Play now to find out how to get them! Don't miss out! ;) Timeline Photos",
+          1434220200
+        ],
+        [
+          "Want 2 hours of Unlimited Lives? Play now to find out how to get them! Happy Friday! <3 <3 <3 Timeline Photos",
+          1434133801
+        ],
+        [
+          "Want 2 hours of Unlimited Lives? Play now to find out how to get them... Don\u2019t miss out! ;) Timeline Photos",
+          1433053802
+        ],
+        [
+          "Want 2 hours of Unlimited Lives? Play now to find out how to get them! :) Timeline Photos",
+          1432974601
+        ],
+        [
+          "Last call to enjoy our delicious Spring offer. Get at least two hours of unlimited lives today! Ends 9am (CET) on Tuesday 7th April!\n\n(Available on Facebook, Android, iOS and Amazon) Timeline Photos",
+          1428327001
+        ],
+        [
+          "Play like it's Spring, whatever the weather! Make the best of our Spring offer and get at least 2 hours of unlimited lives! Ends 9am (CET) on Tuesday 7th April! \n\n(Available on Facebook, Android, iOS and Amazon) Timeline Photos",
+          1427997602
+        ],
+        [
+          "Last call to enjoy our Valentine's offer! \n\nGet at least 2 hours of unlimited Lives when you buy our special Gold Bar packs! This offer is only available until the 16th February, 9AM CET!\n\nDon't miss out! --> http://to.king.com/kAwQ Timeline Photos",
+          1424014200
+        ],
+        [
+          "Take advantage of our Valentines Sale, buy one our special Gold Bar packs and get at least 2 hours of unlimited Lives. Ends 9:00 am CET, 16th February.\n\nThis way! --> http://to.king.com/j1F8 Timeline Photos",
+          1423841401
+        ],
+        [
+          "Have you heard about our sweet Valentine's offer? Buy one of our special Gold Bar packs and get at least 2 hours of unlimited Lives! This offer is only available until the 16th February, 9AM CET!\n\nCheck it out! --> http://to.king.com/71Ln Timeline Photos",
+          1423755001
+        ],
+        [
+          "Last chance to get yourself a sweet deal! Buy a booster and get unlimited lives for 2 hours with the Candy Crush Harvest sale!\n\nDon\u2019t miss out! \u2192 http://to.king.com/L4G1 Timeline Photos",
+          1411894800
+        ],
+        [
+          "SWEET. Harvest sale is on!  Buy a Booster and get unlimited Lives for 2 hours!\n\nCheck it out! --> http://to.king.com/cdH6 Timeline Photos",
+          1411738200
+        ]
+      ],
+      "dates_start": 1418264020,
+      "dates_end": 1433726999,
+      "likes_avg": 16274,
+      "likes_stdev": 2865,
+      "comments_avg": 854,
+      "comments_stdev": 263,
+      "shares_avg": 203,
+      "shares_stdev": 45
+    },
+    {
+      "number": 8,
+      "important": [
         "forget",
+        "candi crush level",
+        "dont forget",
         "crush level",
-        "know think"
+        "know think",
+        "new candi",
+        "dont",
+        "let us",
+        "forget let",
+        "new candi crush"
       ],
       "common": [
         "know",
@@ -446,18 +600,18 @@
       "shares_stdev": 89
     },
     {
-      "number": 7,
+      "number": 9,
       "important": [
-        "win",
-        "follow",
         "us twitter",
+        "random",
         "must",
+        "follow",
+        "cet",
+        "twitter",
+        "win",
         "giveaway",
         "winner",
-        "cet",
-        "contact",
-        "twitter",
-        "random"
+        "contact"
       ],
       "common": [
         "com",
@@ -527,18 +681,18 @@
       "shares_stdev": 100
     },
     {
-      "number": 8,
+      "number": 10,
       "important": [
-        "timelin",
-        "chocol",
-        "bar",
         "world",
-        "know",
-        "candi",
+        "timelin",
         "put",
-        "photo",
+        "candi",
         "action",
-        "call"
+        "chocol",
+        "know",
+        "bar",
+        "call",
+        "photo"
       ],
       "common": [
         "bit",
@@ -612,18 +766,18 @@
       "shares_stdev": 249
     },
     {
-      "number": 9,
+      "number": 11,
       "important": [
-        "veri soon",
-        "dreamworld level",
-        "soon timelin",
-        "new",
-        "dreamworld",
         "new dreamworld",
-        "action",
+        "veri soon",
+        "dreamworld",
+        "dreamworld level",
         "level",
         "game",
-        "new dreamworld level"
+        "new dreamworld level",
+        "new",
+        "action",
+        "soon timelin"
       ],
       "common": [
         "dreamworld",
@@ -697,18 +851,18 @@
       "shares_stdev": 71
     },
     {
-      "number": 10,
+      "number": 12,
       "important": [
-        "timelin",
-        "friday timelin",
-        "happi friday",
-        "friday",
         "bubblegum",
-        "sweet",
-        "photo",
+        "timelin",
+        "action",
         "happi friday timelin",
         "happi",
-        "action"
+        "happi friday",
+        "friday timelin",
+        "friday",
+        "sweet",
+        "photo"
       ],
       "common": [
         "friday",
@@ -786,17 +940,17 @@
       "shares_stdev": 1889
     },
     {
-      "number": 11,
+      "number": 13,
       "important": [
+        "candycrushsagaoffici",
         "tiffi",
-        "follow",
-        "love",
-        "candi crush saga",
-        "us",
         "happen",
         "whos",
+        "candi crush saga",
+        "follow",
+        "us",
         "action",
-        "candycrushsagaoffici",
+        "love",
         "instagram"
       ],
       "common": [
@@ -875,18 +1029,18 @@
       "shares_stdev": 237
     },
     {
-      "number": 12,
+      "number": 14,
       "important": [
+        "level",
+        "game",
         "timelin",
         "new",
-        "photo",
         "new level",
-        "sweet",
         "game timelin",
-        "level",
+        "action",
         "yes",
-        "game",
-        "action"
+        "sweet",
+        "photo"
       ],
       "common": [
         "com",
@@ -968,18 +1122,18 @@
       "shares_stdev": 3448
     },
     {
-      "number": 13,
+      "number": 15,
       "important": [
-        "head",
         "timelin",
         "game",
-        "trick",
-        "hope",
-        "photo",
         "treat",
-        "sweet",
+        "trick",
         "halloween",
-        "action"
+        "hope",
+        "action",
+        "sweet",
+        "head",
+        "photo"
       ],
       "common": [
         "candy",
@@ -1061,18 +1215,18 @@
       "shares_stdev": 203
     },
     {
-      "number": 14,
+      "number": 16,
       "important": [
-        "watch video",
-        "video",
-        "new candi crush",
-        "video see",
-        "watch video see",
-        "need",
-        "new candi",
         "see",
+        "watch video see",
+        "video see",
+        "watch",
+        "video",
+        "new candi",
         "new candi crush saga",
-        "watch"
+        "watch video",
+        "new candi crush",
+        "need"
       ],
       "common": [
         "beat",
@@ -1154,18 +1308,18 @@
       "shares_stdev": 706
     },
     {
-      "number": 15,
+      "number": 17,
       "important": [
+        "way",
+        "level",
         "timelin",
         "new",
-        "way",
-        "new level",
-        "level",
         "way timelin",
+        "feel",
+        "new level",
         "soon",
-        "photo",
         "action",
-        "feel"
+        "photo"
       ],
       "common": [
         "com",
@@ -1251,18 +1405,18 @@
       "shares_stdev": 3508
     },
     {
-      "number": 16,
+      "number": 18,
       "important": [
-        "head",
+        "level",
+        "level timelin",
         "timelin",
         "new",
         "new level timelin",
         "new level",
-        "level timelin",
-        "level",
         "soon",
-        "photo",
-        "action"
+        "action",
+        "head",
+        "photo"
       ],
       "common": [
         "levels",
@@ -1356,18 +1510,18 @@
       "shares_stdev": 748
     },
     {
-      "number": 17,
+      "number": 19,
       "important": [
-        "saga",
-        "candi crush saga post",
-        "crush",
-        "match",
-        "candi crush",
-        "candi crush saga",
-        "sweet",
         "got",
+        "tiffi",
+        "candi crush saga post",
+        "match",
+        "candi crush saga",
+        "candi crush",
         "post",
-        "tiffi"
+        "sweet",
+        "crush",
+        "saga"
       ],
       "common": [
         "candy",
@@ -1465,18 +1619,365 @@
       "shares_stdev": 1052
     },
     {
-      "number": 18,
+      "number": 20,
       "important": [
-        "saga",
+        "colour",
+        "one",
+        "download",
+        "tri",
+        "free",
+        "join",
+        "info",
+        "sweet",
+        "info timelin",
+        "page"
+      ],
+      "common": [
+        "candy",
+        "candy crush",
+        "com",
+        "competition",
+        "http",
+        "king",
+        "king com",
+        "photos",
+        "timeline",
+        "timeline photos"
+      ],
+      "messages": [
+        [
+          "Join the latest trend Candy Crush style, with our new adult colouring book. Try one page for FREE now, simply download, print, and colour, Sweet! http://bit.ly/CandyColouring\n\nMore info: http://to.king.com/HBDD Timeline Photos",
+          1450810801
+        ],
+        [
+          "Join the latest trend Candy Crush style, with our new adult colouring book. Try one page for FREE now, simply download, print, and colour, Sweet! http://bit.ly/CandyColouring\n\nMore info: http://to.king.com/4jfY Timeline Photos",
+          1450771201
+        ],
+        [
+          "Have you beaten Nina Garcia's level yet? Tick, tock, tick, tock\u202618 hours left to finish the event! ;) \n\nMore info: http://to.king.com/aS5Y Timeline Photos",
+          1450453200
+        ],
+        [
+          "Remember you have until the end of July to participate in our #CandyCrushMakeUpChallenge for a chance to win amazing Candy Crush goodies! Info here: ttp://to.king.com/uoZg Timeline Photos",
+          1436967000
+        ],
+        [
+          "We've already seen a few awesome entries in our inbox! You guys are talented! Wanna join the #CandyCrushMakeUpChallenge for a chance to win lots of goodies? \n\nCheck out all the info here --> http://to.king.com/XIaI Timeline Photos",
+          1436362200
+        ],
+        [
+          "Win a trip to San Fran! We just celebrated the launch of AlphaBetty Saga with cheese-tastic happenings in London & New York - check out #AlphaBettySaga on social where the story continues! Competition ends 19/06 23:59 GMT. \nMore info here \u2014> http://lostletters.alphabettysaga.com/ AlphaBetty Saga lands in London & New York - play with words!",
+          1434629023
+        ],
+        [
+          "Say it with Candy Crush Soda this Mother\u2019s Day! Check out what's happening in London on Friday 13th March!\n\nInfo: http://to.king.com/DLFr Timeline Photos",
+          1426165201
+        ],
+        [
+          "We're excited to announce a brand new, super sweet sweepstakes featuring items in the Candy Crush official store. Enter to win today!\n\nCheck info here: http://myplay.me/1dfp Timeline Photos",
+          1424725201
+        ],
+        [
+          "There\u2019s only a few hours left to participate in our Twitter giveaway! Don\u2019t miss out! :) \n\nInfo: http://to.king.com/ITbB Timeline Photos",
+          1423256404
+        ],
+        [
+          "Last chance to enter our Sodalicious #Match3Candies competition! Join the challenge and you could win an iPad Air 2! \u2013 Tasty! \nInfo:  http://candycrushsaga.com/games/candy-crush-soda-saga/competition \nClose 19/12/14 @ 15:00CET \nT&Cs http://to.king.com/eDvP Timeline Photos",
+          1418938201
+        ],
+        [
+          "Competition! Join our #Match3Candies Twitter challenge for your chance to win one of five iPad Air 2\u2019s\nInfo: http://candycrushsaga.com/games/candy-crush-soda-saga/competition \nClose 19/12/14 @ 15:00CET \nT&Cs http://to.king.com/eDvP Timeline Photos",
+          1418830201
+        ],
+        [
+          "Don\u2019t forget to participate in our #SpunCandyGiveaway. Only 2 days left to enter! \n\nMore info here: http://to.king.com/m6hj Timeline Photos",
+          1414596602
+        ],
+        [
+          "Remember you have until Sunday 21st to participate in our Candy Crush Bake Off and get yourself a FREE Candy Crush gift box that includes a $75 worth of game cards, a Candy Crush beach towel, exclusive sunglasses, stickers, and more goodies! \n\nMore info here: http://to.king.com/JRLZ Timeline Photos",
+          1410960601
+        ],
+        [
+          "Don\u2019t forget to enter our competition, fans!  It\u2019s not long now until we draw the winning picture so get scribbling and create a Sweet Masterpiece.\n\nEnter here \u2192 http://to.king.com/f0xE Sweet Masterpiece competition",
+          1378983727
+        ],
+        [
+          "Don\u2019t forget to enter your pictures of Candy characters enjoying their holidays to win the chance to have your image recreated and signed by the Candy design team!  \n\nHere are some of the entries we\u2019ve received so far; great work sweeties!\n\nEnter here --> http://to.king.com/McXk Create a Sweet Masterpiece",
+          1378468279
+        ],
+        [
+          "We were overwhlemed by the response to the Easter competition to win a custom Candy Crush Saga Kitchen Aid and other goodies. Take a look at the winning eggs and check back soon for our Spring competition with more exciting prizes. Until then, Happy Candy Crushing! Play now http://smarturl.it/7rn70y Eggcellent Easter Competition Winners",
+          1367236451
+        ],
+        [
+          "Don\u2019t miss out - Easter competition closing today! \nEnter now to see if you can win some AWESOME Candy Crush Saga PRIZES! \nEnter NOW-->http://about.king.com/competition/candy-crush-easter \nPlay now-->http://bit.ly/XiQpFt Timeline Photos",
+          1365180634
+        ],
+        [
+          "COMPETITION ALERT!\n Candify your Easter! \nEnter our Candy Crush Saga Easter competition and you could win some choctastic prizes!!! \nEnter now-->  http://about.king.com/competition/candy-crush-easter   \nPlay now--> http://bit.ly/XiLbtc Timeline Photos",
+          1364491893
+        ],
+        [
+          "Get in the mood for candy and love!\n Enter our Valentine\u2019s Day competition to see what super sweet prizes you could win!\n Play now--> http://bit.ly/WVbMHY Timeline Photos",
+          1360518636
+        ]
+      ],
+      "dates_start": 1380299660,
+      "dates_end": 1442052492,
+      "likes_avg": 7752,
+      "likes_stdev": 7686,
+      "comments_avg": 544,
+      "comments_stdev": 449,
+      "shares_avg": 310,
+      "shares_stdev": 381
+    },
+    {
+      "number": 21,
+      "important": [
+        "great",
+        "gold bar",
+        "bar booster",
+        "hour unlimit live end",
+        "surpris",
+        "cet",
+        "packag",
+        "special packag",
+        "deal",
+        "booster hour unlimit live end"
+      ],
+      "common": [
+        "bars boosters hours unlimited lives",
+        "boosters hours unlimited",
+        "gold bars boosters",
+        "gold bars boosters hours",
+        "gold bars boosters hours unlimited",
+        "hours",
+        "hours unlimited",
+        "hours unlimited lives",
+        "unlimited",
+        "unlimited lives"
+      ],
+      "messages": [
+        [
+          "It's the season of surprises! :) Get a great deal on our special package containing Gold Bars, Boosters and 2 hours of Unlimited Lives! Ends 28/12 11AM CET. \n\nCheck it out! ---> http://to.king.com/IM7d",
+          1451143801
+        ],
+        [
+          "Are you taking advantage our Super Sale? Check out our special package with Gold Bars, Boosters and 2 hours of Unlimited Lives! Ends 17:00 (CET) on Tuesday 1st December. \n\nCheck it out! --> http://to.king.com/5Oij Timeline Photos",
+          1448722801
+        ],
+        [
+          "Last chance to enjoy the frightfully sweet deals from our Halloween Sale! Get a great deal with Gold Bars, Boosters and 2 hours of Unlimited Lives. Ends Monday 2nd November!\n\nNo tricks, just treats --> http://to.king.com/pjsx Timeline Photos",
+          1446391800
+        ],
+        [
+          "Now that's how you throw a Halloween party! \ud83c\udf83\n\nGet a great deal on our package containing Gold Bars, Boosters and 2 hours of Unlimited Lives, for a limited time only! Ends Monday 2nd November\n\nCheck it out here: http://to.king.com/zt82 No tricks, just treats!",
+          1446132601
+        ],
+        [
+          "Last chance to enjoy these sweet deals from our Game Day Sale! Get a great deal on sweet package containing Gold Bars, Boosters and 2 hours of Unlimited Lives. Ends 11am CEST on Monday 5th October. Timeline Photos",
+          1443965521
+        ],
+        [
+          "Check out our Game Day Sale for a great deal with Gold Bars, Boosters and 2 hours of Unlimited Lives, for a limited time only! Ends 11am CEST on Monday 5th October. Timeline Photos",
+          1443879000
+        ],
+        [
+          "Take it to the next level, with our Game Day Sale! Get a great deal on a package containing Gold Bars, Boosters and 2 hours of Unlimited Lives, for a limited time only! Ends 11am CEST on Monday 5th October. Timeline Photos",
+          1443707428
+        ],
+        [
+          "Last Call! Take advantage of our special package with Gold Bars, boosters and 2 hours of Unlimited Lives. Ends 11am (CEST) Friday 4th September! *Only available on Mobile* Timeline Photos",
+          1441287001
+        ],
+        [
+          "Are you taking advantage our Funday sale? Check out our special package with Gold Bars, Boosters and 2 hours of Unlimited Lives. Unlock the fun! Ends 11am (CEST) on Friday 4th September!*Only available on Mobile* Timeline Photos",
+          1441200634
+        ],
+        [
+          "Are you ready to unlock the fun? Funday sale starts now! Try our special package with Gold Bars, Boosters and 2 hours of Unlimited Lives! Ends 11am (CEST) Friday 4th September! *Only available on Mobile* Timeline Photos",
+          1441029601
+        ],
+        [
+          "Last Call! Take advantage of our special package with Gold Bars, boosters and 2 hours of Unlimited Lives. Ends 11am (CEST) on Monday 3rd August Timeline Photos",
+          1438538401
+        ],
+        [
+          "Are you taking advantage our weekend sale? Check out our special package with Gold Bars, Boosters and 2 hours of Unlimited Lives. Dive in and join the party! Ends 11am (CEST) on Monday 3rd August Timeline Photos",
+          1438455602
+        ],
+        [
+          "Our weekend sale is ON! Try our special package with Gold Bars, Boosters and 2 hours of Unlimited Lives! Ends 11am (CEST) on Monday 3rd August Timeline Photos",
+          1438322400
+        ],
+        [
+          "Last Call! Take advantage of our special package with Gold Bars, boosters and 2 hours of Unlimited Lives. Ends 11am (CEST) on Monday 29th June Timeline Photos",
+          1435498201
+        ],
+        [
+          "Are you taking advantage of our weekend sale? Check out our special package with Gold Bars, Boosters and 2 hours of Unlimited Lives. Dive in and join the party! Ends 11am (CEST) on Monday 29th June Timeline Photos",
+          1435411800
+        ],
+        [
+          "Weekend sale starts now, SWEET! Try our special package with Gold Bars, Boosters and 2 hours of Unlimited Lives! Ends 11am (CEST) on Monday 29th June\n\nDive in & join the party! --> http://to.king.com/MsLE Timeline Photos",
+          1435239001
+        ],
+        [
+          "Last chance! Get a great deal on our special package containing Gold Bars, Boosters, and 2 hours of Unlimited Lives for a limited time only! Ends 11am CEST on 26th May.\n\nLife's a picnic with these great deals! --> http://to.king.com/AAQY Timeline Photos",
+          1432560601
+        ],
+        [
+          "Don\u2019t miss our sweet deals on our special package containing Gold Bars, Boosters, and 2 hours of Unlimited Lives for a limited time only! Ends 11am CEST on 26th May. Timeline Photos",
+          1432387800
+        ],
+        [
+          "Get a great deal on our special package containing Gold Bars, Boosters, and 2 hours of Unlimited Lives for a limited time only! Ends 11am CEST on 26th May.\n\nCheck it out! --> http://to.king.com/5vbb Timeline Photos",
+          1432301401
+        ],
+        [
+          "Try our NEW Spring package containing Gold bars, boosters and 2 hours of unlimited lives to play with, for a very delicious price! Ends 9am (CET) on Tuesday 7th April!\n\n(Available on Facebook, Android, iOS and Amazon) Timeline Photos",
+          1428240601
+        ]
+      ],
+      "dates_start": 1433770950,
+      "dates_end": 1445670649,
+      "likes_avg": 8766,
+      "likes_stdev": 3745,
+      "comments_avg": 574,
+      "comments_stdev": 155,
+      "shares_avg": 148,
+      "shares_stdev": 40
+    },
+    {
+      "number": 22,
+      "important": [
+        "episod",
+        "level",
+        "timelin",
         "new",
-        "new candi crush",
-        "candi crush",
-        "candi crush saga",
-        "new candi",
-        "game timelin",
+        "new level",
+        "action",
+        "love",
+        "fun",
+        "latest",
+        "photo"
+      ],
+      "common": [
+        "com",
+        "crush",
+        "http",
+        "king com",
+        "levels",
+        "new",
+        "new levels",
+        "photos",
+        "timeline",
+        "timeline photos"
+      ],
+      "messages": [
+        [
+          "\u2763\ufe0f New levels OUT NOW!\u2763\ufe0f Have fun with Giggles the Clown in our latest LOVELY episode, the Crumbly Crossing! \u2764\ufe0f Timeline Photos",
+          1486656008
+        ],
+        [
+          "NEW LEVELS - OUT NOW! Trick your way through 15 new levels in our latest spooc-tastic episode, Tricky Tracks! \ud83d\udc7b Timeline Photos",
+          1477576801
+        ],
+        [
+          "New levels! New levels! Nom nom! media.giphy.com",
+          1462975200
+        ],
+        [
+          "New levels out now! Let's play! Timeline Photos",
+          1444829401
+        ],
+        [
+          "If you were waiting for new levels head to the game today. We have 15 new levels straight out of the oven! Have fun! :) Timeline Photos",
+          1441805401
+        ],
+        [
+          "New levels are out! Let's play! :)",
+          1431610201
+        ],
+        [
+          "Oh! Here they are, new levels OUT NOW! :)",
+          1431005400
+        ],
+        [
+          "New levels are out! Game On! :)",
+          1429795800
+        ],
+        [
+          "New levels are on the way so get warming up! Here's a teaser! ;)",
+          1429018202
+        ],
+        [
+          "The new levels are here! Now you can crush you way to level 575 in Dreamworld!\n\nLet's play! --> http://to.king.com/PXQx Timeline Photos",
+          1423774802
+        ],
+        [
+          "New levels for Candy Crush Saga on Facebook out now! (831-855) \nLet\u2019s crush! ;) Timeline Photos",
+          1423170001
+        ],
+        [
+          "You asked and we deliver! New levels for Candy Crush Saga on Facebook are out now!\n\nCome play! --> http://to.king.com/zVIf Timeline Photos",
+          1421940601
+        ],
+        [
+          "15 New levels are out now! Enjoy! ;) \n\nPlay here: http://to.king.com/qOgN Timeline Photos",
+          1420644601
+        ],
+        [
+          "NEW LEVELS are OUT for Candy Crush Saga on Facebook! Don\u2019t forget to give your feedback and tell us what you think! \n\nGame On! --> http://to.king.com/jsdg Timeline Photos",
+          1414071001
+        ],
+        [
+          "Yes, that's right. There's 15 new levels for Candy Crush Saga OUT NOW! \n\nGame on! \u2192 http://to.king.com/j0Gd Timeline Photos",
+          1413466200
+        ],
+        [
+          "Hope you\u2019re ready for a full body workout with Tiffi and Minty. Enjoy 15 NEW LEVELS for Candy Crush Saga on Facebook! \n\nGame On: http://to.king.com/jPWz Timeline Photos",
+          1412861401
+        ],
+        [
+          "Brand new levels for Candy Crush Facebook OUT NOW! \n\nGame on! --> http://to.king.com/8qCs Timeline Photos",
+          1409835600
+        ],
+        [
+          "All aboard the Jelly Wagon! NEW LEVELS out in Candy Crush Saga! Play now \u2192 http://to.king.com/gvw5 Timeline Photos",
+          1396618201
+        ],
+        [
+          "Get stuck into new levels in Sticky Savanna!  This way to meet Suzy; the sweetest Giraffe on Facebook, now \u2192 http://to.king.com/BHOW Timeline Photos",
+          1395415801
+        ],
+        [
+          "Have you completed the new levels already or are you on it? \n\nPlay --> http://bit.ly/Kml7ny Timeline Photos",
+          1338105655
+        ]
+      ],
+      "dates_start": 1394684784,
+      "dates_end": 1455832843,
+      "likes_avg": 16256,
+      "likes_stdev": 8094,
+      "comments_avg": 1321,
+      "comments_stdev": 649,
+      "shares_avg": 611,
+      "shares_stdev": 1444
+    },
+    {
+      "number": 23,
+      "important": [
         "level",
         "game",
-        "new candi crush saga"
+        "candi crush saga",
+        "new",
+        "game timelin",
+        "candi crush",
+        "new candi",
+        "new candi crush saga",
+        "saga",
+        "new candi crush"
       ],
       "common": [
         "candy",
@@ -1590,18 +2091,18 @@
       "shares_stdev": 153
     },
     {
-      "number": 19,
+      "number": 24,
       "important": [
-        "timelin",
-        "chocol",
-        "crush",
-        "life",
-        "candi crush",
-        "love",
-        "candi crush timelin",
-        "candi",
         "crush timelin",
-        "real"
+        "real",
+        "candi crush timelin",
+        "timelin",
+        "candi",
+        "candi crush",
+        "life",
+        "chocol",
+        "love",
+        "crush"
       ],
       "common": [
         "candy",
@@ -1723,18 +2224,18 @@
       "shares_stdev": 3578
     },
     {
-      "number": 20,
+      "number": 25,
       "important": [
-        "saga",
         "timelin",
         "candi crush saga timelin",
-        "crush",
-        "candi crush",
-        "saga timelin",
         "candi crush saga",
-        "candi",
         "photo",
-        "keep"
+        "candi",
+        "candi crush",
+        "crush",
+        "keep",
+        "saga",
+        "saga timelin"
       ],
       "common": [
         "candy",
@@ -1860,14 +2361,14 @@
       "shares_stdev": 2387
     },
     {
-      "number": 21,
+      "number": 26,
       "important": [
         "timelin",
         "gold",
         "candi",
+        "action",
         "onli",
-        "photo",
-        "action"
+        "photo"
       ],
       "common": [
         "4th",
@@ -1993,18 +2494,18 @@
       "shares_stdev": 453
     },
     {
-      "number": 22,
+      "number": 27,
       "important": [
-        "time",
-        "divin",
-        "life",
-        "color",
+        "real",
         "check",
         "bomb",
-        "sweet",
-        "color bomb",
+        "color",
+        "time",
         "action",
-        "real"
+        "life",
+        "color bomb",
+        "sweet",
+        "divin"
       ],
       "common": [
         "bomb",
@@ -2130,18 +2631,159 @@
       "shares_stdev": 435
     },
     {
-      "number": 23,
+      "number": 28,
       "important": [
+        "readi",
+        "come soon",
+        "get readi",
+        "level come",
+        "readi timelin",
+        "come",
+        "soon",
+        "new level",
+        "get",
+        "sweet"
+      ],
+      "common": [
+        "get",
+        "levels",
+        "new",
+        "new levels",
+        "photos",
+        "ready",
+        "ready timeline",
+        "soon",
+        "timeline",
+        "timeline photos"
+      ],
+      "messages": [
+        [
+          "Sweet NEW LEVELS are coming soon! Get ready! \ud83d\ude09 Timeline Photos",
+          1476194400
+        ],
+        [
+          "When your coworkers ask what you did over the weekend\u2026 giphy.com",
+          1472479200
+        ],
+        [
+          "The new levels are just around the corner! Who's ready? :) Timeline Photos",
+          1461074400
+        ],
+        [
+          "New levels coming soon! Are you ready? ;) Timeline Photos",
+          1458660600
+        ],
+        [
+          "Snacks ready. Let the show begin! #RedCarpet Timeline Photos",
+          1456700401
+        ],
+        [
+          "We hope you're ready for new levels because they'll be here very soon! Get warming up! ;) Timeline Photos",
+          1456241400
+        ],
+        [
+          "Ready for dessert? ;) Timeline Photos",
+          1454254266
+        ],
+        [
+          "New levels are nearly here! Get ready, sweeties! Timeline Photos",
+          1449588602
+        ],
+        [
+          "In need of a sugar rush? The new episode is almost ready! :) Timeline Photos",
+          1447169401
+        ],
+        [
+          "We are working on new levels and they are nearly ready! Who's excited? :) Timeline Photos",
+          1445347800
+        ],
+        [
+          "The new levels are just around the corner! Who's ready? Timeline Photos",
+          1443533400
+        ],
+        [
+          "Someone said new levels? Prepare to satisfy your sweet tooth because they are nearly ready! Timeline Photos",
+          1441719001
+        ],
+        [
+          "You ask and we deliver, new levels will be out very soon. Who's excited? Timeline Photos",
+          1441114201
+        ],
+        [
+          "You ask and we deliver, new levels will be out very soon. Who's excited? :) Timeline Photos",
+          1437485400
+        ],
+        [
+          "Do you like experimenting with makeup? Get your brushes ready because soon the #CandyCrushMakeUpChallenge starts and the rewards are DELICIOUS! Stay tuned!",
+          1434375000
+        ],
+        [
+          "We're making new levels and will be ready very soon! Get warming up! Timeline Photos",
+          1433856601
+        ],
+        [
+          "Get ready for a delicious giveaway starting Saturday at 17:30 CET! Timeline Photos",
+          1428067801
+        ],
+        [
+          "New levels are ready to leave the Candy Factory very soon, so start to warm up! Plus, you will 'encounter' something new and mysterious in this episode. What could it be? Timeline Photos",
+          1424187001
+        ],
+        [
+          "New levels out very soon! Who\u2019s ready? :) Timeline Photos",
+          1422997200
+        ],
+        [
+          "New levels are in the oven! Who's ready?\n\nWarm up here! http://to.king.com/4vS0 Timeline Photos",
+          1420471801
+        ],
+        [
+          "We're making new levels! Who's ready for more? ;) Timeline Photos",
+          1415633401
+        ],
+        [
+          "Choo Choo! A special train is on its way, loaded with 15 new levels. \n\nHope you're all ready!  http://to.king.com/3OKu Timeline Photos",
+          1413898201
+        ],
+        [
+          "Guess what's coming soon? EXACTLY! New Candy Crush Levels!\n\nGet ready! \u2192 http://to.king.com/1a2O Timeline Photos",
+          1411477202
+        ],
+        [
+          "It\u2019s too bright; too bright that Mole can\u2019t see\u2026but we sense some new levels might be out very soon, so start warming up! \n\nPlay here: http://to.king.com/kURW Timeline Photos",
+          1410874201
+        ],
+        [
+          "Can you hear that? It sounds like new Dreamworld episodes will be here soon! \n\nGet ready to Rock! --> http://to.king.com/HthR Timeline Photos",
+          1410269401
+        ],
+        [
+          "It\u2019s time to get colourful, sweeties!  Rainbow Runway is here.  Get ready for some candy crushing fun.\nPlay now --> http://to.king.com/jHlf Timeline Photos",
+          1374076254
+        ]
+      ],
+      "dates_start": 1413838162,
+      "dates_end": 1458603879,
+      "likes_avg": 14591,
+      "likes_stdev": 12520,
+      "comments_avg": 1233,
+      "comments_stdev": 672,
+      "shares_avg": 316,
+      "shares_stdev": 278
+    },
+    {
+      "number": 29,
+      "important": [
+        "year",
         "timelin",
+        "friend",
         "new",
         "day",
-        "year",
-        "friend",
         "candi",
-        "sweet",
-        "photo",
+        "action",
         "happi",
-        "action"
+        "sweet",
+        "photo"
       ],
       "common": [
         "birthday",
@@ -2283,178 +2925,17 @@
       "shares_stdev": 8651
     },
     {
-      "number": 24,
+      "number": 30,
       "important": [
-        "booster hour unlimit live end",
-        "deal",
-        "special packag",
-        "surpris",
-        "bar booster",
-        "hour unlimit live end",
-        "packag",
-        "gold bar",
-        "cet",
-        "great"
-      ],
-      "common": [
-        "gold",
-        "hours",
-        "hours unlimited",
-        "hours unlimited lives",
-        "lives",
-        "photos",
-        "timeline",
-        "timeline photos",
-        "unlimited",
-        "unlimited lives"
-      ],
-      "messages": [
-        [
-          "It's the season of surprises! :) Get a great deal on our special package containing Gold Bars, Boosters and 2 hours of Unlimited Lives! Ends 28/12 11AM CET. \n\nCheck it out! ---> http://to.king.com/IM7d",
-          1451143801
-        ],
-        [
-          "Are you taking advantage our Super Sale? Check out our special package with Gold Bars, Boosters and 2 hours of Unlimited Lives! Ends 17:00 (CET) on Tuesday 1st December. \n\nCheck it out! --> http://to.king.com/5Oij Timeline Photos",
-          1448722801
-        ],
-        [
-          "Last chance to enjoy the frightfully sweet deals from our Halloween Sale! Get a great deal with Gold Bars, Boosters and 2 hours of Unlimited Lives. Ends Monday 2nd November!\n\nNo tricks, just treats --> http://to.king.com/pjsx Timeline Photos",
-          1446391800
-        ],
-        [
-          "Now that's how you throw a Halloween party! \ud83c\udf83\n\nGet a great deal on our package containing Gold Bars, Boosters and 2 hours of Unlimited Lives, for a limited time only! Ends Monday 2nd November\n\nCheck it out here: http://to.king.com/zt82 No tricks, just treats!",
-          1446132601
-        ],
-        [
-          "Last chance to enjoy these sweet deals from our Game Day Sale! Get a great deal on sweet package containing Gold Bars, Boosters and 2 hours of Unlimited Lives. Ends 11am CEST on Monday 5th October. Timeline Photos",
-          1443965521
-        ],
-        [
-          "Check out our Game Day Sale for a great deal with Gold Bars, Boosters and 2 hours of Unlimited Lives, for a limited time only! Ends 11am CEST on Monday 5th October. Timeline Photos",
-          1443879000
-        ],
-        [
-          "Take it to the next level, with our Game Day Sale! Get a great deal on a package containing Gold Bars, Boosters and 2 hours of Unlimited Lives, for a limited time only! Ends 11am CEST on Monday 5th October. Timeline Photos",
-          1443707428
-        ],
-        [
-          "Last Call! Take advantage of our special package with Gold Bars, boosters and 2 hours of Unlimited Lives. Ends 11am (CEST) Friday 4th September! *Only available on Mobile* Timeline Photos",
-          1441287001
-        ],
-        [
-          "Are you taking advantage our Funday sale? Check out our special package with Gold Bars, Boosters and 2 hours of Unlimited Lives. Unlock the fun! Ends 11am (CEST) on Friday 4th September!*Only available on Mobile* Timeline Photos",
-          1441200634
-        ],
-        [
-          "Are you ready to unlock the fun? Funday sale starts now! Try our special package with Gold Bars, Boosters and 2 hours of Unlimited Lives! Ends 11am (CEST) Friday 4th September! *Only available on Mobile* Timeline Photos",
-          1441029601
-        ],
-        [
-          "Last Call! Take advantage of our special package with Gold Bars, boosters and 2 hours of Unlimited Lives. Ends 11am (CEST) on Monday 3rd August Timeline Photos",
-          1438538401
-        ],
-        [
-          "Are you taking advantage our weekend sale? Check out our special package with Gold Bars, Boosters and 2 hours of Unlimited Lives. Dive in and join the party! Ends 11am (CEST) on Monday 3rd August Timeline Photos",
-          1438455602
-        ],
-        [
-          "Our weekend sale is ON! Try our special package with Gold Bars, Boosters and 2 hours of Unlimited Lives! Ends 11am (CEST) on Monday 3rd August Timeline Photos",
-          1438322400
-        ],
-        [
-          "Last Call! Take advantage of our special package with Gold Bars, boosters and 2 hours of Unlimited Lives. Ends 11am (CEST) on Monday 29th June Timeline Photos",
-          1435498201
-        ],
-        [
-          "Are you taking advantage of our weekend sale? Check out our special package with Gold Bars, Boosters and 2 hours of Unlimited Lives. Dive in and join the party! Ends 11am (CEST) on Monday 29th June Timeline Photos",
-          1435411800
-        ],
-        [
-          "Weekend sale starts now, SWEET! Try our special package with Gold Bars, Boosters and 2 hours of Unlimited Lives! Ends 11am (CEST) on Monday 29th June\n\nDive in & join the party! --> http://to.king.com/MsLE Timeline Photos",
-          1435239001
-        ],
-        [
-          "Happy Saturday! <3 Want 2 hours of Unlimited Lives? Play now to find out how to get them! Don't miss out! ;) Timeline Photos",
-          1434220200
-        ],
-        [
-          "Want 2 hours of Unlimited Lives? Play now to find out how to get them! Happy Friday! <3 <3 <3 Timeline Photos",
-          1434133801
-        ],
-        [
-          "Want 2 hours of Unlimited Lives? Play now to find out how to get them... Don\u2019t miss out! ;) Timeline Photos",
-          1433053802
-        ],
-        [
-          "Want 2 hours of Unlimited Lives? Play now to find out how to get them! :) Timeline Photos",
-          1432974601
-        ],
-        [
-          "Last chance! Get a great deal on our special package containing Gold Bars, Boosters, and 2 hours of Unlimited Lives for a limited time only! Ends 11am CEST on 26th May.\n\nLife's a picnic with these great deals! --> http://to.king.com/AAQY Timeline Photos",
-          1432560601
-        ],
-        [
-          "Don\u2019t miss our sweet deals on our special package containing Gold Bars, Boosters, and 2 hours of Unlimited Lives for a limited time only! Ends 11am CEST on 26th May. Timeline Photos",
-          1432387800
-        ],
-        [
-          "Get a great deal on our special package containing Gold Bars, Boosters, and 2 hours of Unlimited Lives for a limited time only! Ends 11am CEST on 26th May.\n\nCheck it out! --> http://to.king.com/5vbb Timeline Photos",
-          1432301401
-        ],
-        [
-          "Last call to enjoy our delicious Spring offer. Get at least two hours of unlimited lives today! Ends 9am (CET) on Tuesday 7th April!\n\n(Available on Facebook, Android, iOS and Amazon) Timeline Photos",
-          1428327001
-        ],
-        [
-          "Try our NEW Spring package containing Gold bars, boosters and 2 hours of unlimited lives to play with, for a very delicious price! Ends 9am (CET) on Tuesday 7th April!\n\n(Available on Facebook, Android, iOS and Amazon) Timeline Photos",
-          1428240601
-        ],
-        [
-          "Play like it's Spring, whatever the weather! Make the best of our Spring offer and get at least 2 hours of unlimited lives! Ends 9am (CET) on Tuesday 7th April! \n\n(Available on Facebook, Android, iOS and Amazon) Timeline Photos",
-          1427997602
-        ],
-        [
-          "Last call to enjoy our Valentine's offer! \n\nGet at least 2 hours of unlimited Lives when you buy our special Gold Bar packs! This offer is only available until the 16th February, 9AM CET!\n\nDon't miss out! --> http://to.king.com/kAwQ Timeline Photos",
-          1424014200
-        ],
-        [
-          "Take advantage of our Valentines Sale, buy one our special Gold Bar packs and get at least 2 hours of unlimited Lives. Ends 9:00 am CET, 16th February.\n\nThis way! --> http://to.king.com/j1F8 Timeline Photos",
-          1423841401
-        ],
-        [
-          "Have you heard about our sweet Valentine's offer? Buy one of our special Gold Bar packs and get at least 2 hours of unlimited Lives! This offer is only available until the 16th February, 9AM CET!\n\nCheck it out! --> http://to.king.com/71Ln Timeline Photos",
-          1423755001
-        ],
-        [
-          "Last chance to get yourself a sweet deal! Buy a booster and get unlimited lives for 2 hours with the Candy Crush Harvest sale!\n\nDon\u2019t miss out! \u2192 http://to.king.com/L4G1 Timeline Photos",
-          1411894800
-        ],
-        [
-          "SWEET. Harvest sale is on!  Buy a Booster and get unlimited Lives for 2 hours!\n\nCheck it out! --> http://to.king.com/cdH6 Timeline Photos",
-          1411738200
-        ]
-      ],
-      "dates_start": 1425513710,
-      "dates_end": 1444187360,
-      "likes_avg": 11430,
-      "likes_stdev": 4987,
-      "comments_avg": 673,
-      "comments_stdev": 241,
-      "shares_avg": 168,
-      "shares_stdev": 49
-    },
-    {
-      "number": 25,
-      "important": [
-        "timelin",
-        "new",
         "come soon",
-        "level come",
-        "new level",
-        "come",
-        "sweet",
         "level",
+        "timelin",
+        "level come",
+        "new",
+        "come",
+        "new level",
         "soon",
+        "sweet",
         "photo"
       ],
       "common": [
@@ -2617,18 +3098,18 @@
       "shares_stdev": 883
     },
     {
-      "number": 26,
+      "number": 31,
       "important": [
         "help",
-        "ask",
-        "give",
-        "leav comment",
-        "saga",
-        "comment",
         "mayb",
-        "need",
+        "ask",
+        "comment",
+        "level",
         "candi crush saga",
-        "level"
+        "leav comment",
+        "give",
+        "saga",
+        "need"
       ],
       "common": [
         "candy",
@@ -2814,18 +3295,18 @@
       "shares_stdev": 2855
     },
     {
-      "number": 27,
+      "number": 32,
       "important": [
-        "gamer",
-        "clear",
-        "back",
-        "complet",
-        "super",
-        "super gamer",
-        "clip",
         "level",
+        "complet",
+        "back",
+        "super",
         "action",
-        "complet level"
+        "clip",
+        "complet level",
+        "clear",
+        "super gamer",
+        "gamer"
       ],
       "common": [
         "com",
@@ -3015,239 +3496,18 @@
       "shares_stdev": 3182
     },
     {
-      "number": 28,
+      "number": 33,
       "important": [
-        "timelin",
-        "episod",
-        "new",
-        "fun",
-        "new level",
-        "love",
-        "level",
-        "photo",
-        "action",
-        "latest"
-      ],
-      "common": [
-        "com",
-        "http",
-        "http king com",
-        "levels",
-        "new",
-        "new levels",
-        "photos",
-        "ready",
-        "timeline",
-        "timeline photos"
-      ],
-      "messages": [
-        [
-          "\u2763\ufe0f New levels OUT NOW!\u2763\ufe0f Have fun with Giggles the Clown in our latest LOVELY episode, the Crumbly Crossing! \u2764\ufe0f Timeline Photos",
-          1486656008
-        ],
-        [
-          "NEW LEVELS - OUT NOW! Trick your way through 15 new levels in our latest spooc-tastic episode, Tricky Tracks! \ud83d\udc7b Timeline Photos",
-          1477576801
-        ],
-        [
-          "Sweet NEW LEVELS are coming soon! Get ready! \ud83d\ude09 Timeline Photos",
-          1476194400
-        ],
-        [
-          "When your coworkers ask what you did over the weekend\u2026 giphy.com",
-          1472479200
-        ],
-        [
-          "New levels! New levels! Nom nom! media.giphy.com",
-          1462975200
-        ],
-        [
-          "The new levels are just around the corner! Who's ready? :) Timeline Photos",
-          1461074400
-        ],
-        [
-          "New levels coming soon! Are you ready? ;) Timeline Photos",
-          1458660600
-        ],
-        [
-          "Snacks ready. Let the show begin! #RedCarpet Timeline Photos",
-          1456700401
-        ],
-        [
-          "We hope you're ready for new levels because they'll be here very soon! Get warming up! ;) Timeline Photos",
-          1456241400
-        ],
-        [
-          "Ready for dessert? ;) Timeline Photos",
-          1454254266
-        ],
-        [
-          "New levels are nearly here! Get ready, sweeties! Timeline Photos",
-          1449588602
-        ],
-        [
-          "In need of a sugar rush? The new episode is almost ready! :) Timeline Photos",
-          1447169401
-        ],
-        [
-          "We are working on new levels and they are nearly ready! Who's excited? :) Timeline Photos",
-          1445347800
-        ],
-        [
-          "New levels out now! Let's play! Timeline Photos",
-          1444829401
-        ],
-        [
-          "The new levels are just around the corner! Who's ready? Timeline Photos",
-          1443533400
-        ],
-        [
-          "If you were waiting for new levels head to the game today. We have 15 new levels straight out of the oven! Have fun! :) Timeline Photos",
-          1441805401
-        ],
-        [
-          "Someone said new levels? Prepare to satisfy your sweet tooth because they are nearly ready! Timeline Photos",
-          1441719001
-        ],
-        [
-          "You ask and we deliver, new levels will be out very soon. Who's excited? Timeline Photos",
-          1441114201
-        ],
-        [
-          "You ask and we deliver, new levels will be out very soon. Who's excited? :) Timeline Photos",
-          1437485400
-        ],
-        [
-          "Do you like experimenting with makeup? Get your brushes ready because soon the #CandyCrushMakeUpChallenge starts and the rewards are DELICIOUS! Stay tuned!",
-          1434375000
-        ],
-        [
-          "We're making new levels and will be ready very soon! Get warming up! Timeline Photos",
-          1433856601
-        ],
-        [
-          "New levels are out! Let's play! :)",
-          1431610201
-        ],
-        [
-          "Oh! Here they are, new levels OUT NOW! :)",
-          1431005400
-        ],
-        [
-          "New levels are out! Game On! :)",
-          1429795800
-        ],
-        [
-          "New levels are on the way so get warming up! Here's a teaser! ;)",
-          1429018202
-        ],
-        [
-          "Get ready for a delicious giveaway starting Saturday at 17:30 CET! Timeline Photos",
-          1428067801
-        ],
-        [
-          "New levels are ready to leave the Candy Factory very soon, so start to warm up! Plus, you will 'encounter' something new and mysterious in this episode. What could it be? Timeline Photos",
-          1424187001
-        ],
-        [
-          "The new levels are here! Now you can crush you way to level 575 in Dreamworld!\n\nLet's play! --> http://to.king.com/PXQx Timeline Photos",
-          1423774802
-        ],
-        [
-          "New levels for Candy Crush Saga on Facebook out now! (831-855) \nLet\u2019s crush! ;) Timeline Photos",
-          1423170001
-        ],
-        [
-          "New levels out very soon! Who\u2019s ready? :) Timeline Photos",
-          1422997200
-        ],
-        [
-          "You asked and we deliver! New levels for Candy Crush Saga on Facebook are out now!\n\nCome play! --> http://to.king.com/zVIf Timeline Photos",
-          1421940601
-        ],
-        [
-          "15 New levels are out now! Enjoy! ;) \n\nPlay here: http://to.king.com/qOgN Timeline Photos",
-          1420644601
-        ],
-        [
-          "New levels are in the oven! Who's ready?\n\nWarm up here! http://to.king.com/4vS0 Timeline Photos",
-          1420471801
-        ],
-        [
-          "We're making new levels! Who's ready for more? ;) Timeline Photos",
-          1415633401
-        ],
-        [
-          "NEW LEVELS are OUT for Candy Crush Saga on Facebook! Don\u2019t forget to give your feedback and tell us what you think! \n\nGame On! --> http://to.king.com/jsdg Timeline Photos",
-          1414071001
-        ],
-        [
-          "Choo Choo! A special train is on its way, loaded with 15 new levels. \n\nHope you're all ready!  http://to.king.com/3OKu Timeline Photos",
-          1413898201
-        ],
-        [
-          "Yes, that's right. There's 15 new levels for Candy Crush Saga OUT NOW! \n\nGame on! \u2192 http://to.king.com/j0Gd Timeline Photos",
-          1413466200
-        ],
-        [
-          "Hope you\u2019re ready for a full body workout with Tiffi and Minty. Enjoy 15 NEW LEVELS for Candy Crush Saga on Facebook! \n\nGame On: http://to.king.com/jPWz Timeline Photos",
-          1412861401
-        ],
-        [
-          "Guess what's coming soon? EXACTLY! New Candy Crush Levels!\n\nGet ready! \u2192 http://to.king.com/1a2O Timeline Photos",
-          1411477202
-        ],
-        [
-          "It\u2019s too bright; too bright that Mole can\u2019t see\u2026but we sense some new levels might be out very soon, so start warming up! \n\nPlay here: http://to.king.com/kURW Timeline Photos",
-          1410874201
-        ],
-        [
-          "Can you hear that? It sounds like new Dreamworld episodes will be here soon! \n\nGet ready to Rock! --> http://to.king.com/HthR Timeline Photos",
-          1410269401
-        ],
-        [
-          "Brand new levels for Candy Crush Facebook OUT NOW! \n\nGame on! --> http://to.king.com/8qCs Timeline Photos",
-          1409835600
-        ],
-        [
-          "All aboard the Jelly Wagon! NEW LEVELS out in Candy Crush Saga! Play now \u2192 http://to.king.com/gvw5 Timeline Photos",
-          1396618201
-        ],
-        [
-          "Get stuck into new levels in Sticky Savanna!  This way to meet Suzy; the sweetest Giraffe on Facebook, now \u2192 http://to.king.com/BHOW Timeline Photos",
-          1395415801
-        ],
-        [
-          "It\u2019s time to get colourful, sweeties!  Rainbow Runway is here.  Get ready for some candy crushing fun.\nPlay now --> http://to.king.com/jHlf Timeline Photos",
-          1374076254
-        ],
-        [
-          "Have you completed the new levels already or are you on it? \n\nPlay --> http://bit.ly/Kml7ny Timeline Photos",
-          1338105655
-        ]
-      ],
-      "dates_start": 1404638370,
-      "dates_end": 1458271317,
-      "likes_avg": 15315,
-      "likes_stdev": 10852,
-      "comments_avg": 1271,
-      "comments_stdev": 663,
-      "shares_avg": 444,
-      "shares_stdev": 986
-    },
-    {
-      "number": 29,
-      "important": [
-        "take",
-        "timelin",
-        "free",
-        "time",
-        "think",
-        "end",
         "yet",
-        "photo",
+        "timelin",
         "first",
-        "action"
+        "time",
+        "end",
+        "think",
+        "take",
+        "free",
+        "action",
+        "photo"
       ],
       "common": [
         "com",
@@ -3497,17 +3757,17 @@
       "shares_stdev": 629
     },
     {
-      "number": 30,
+      "number": 34,
       "important": [
-        "whi",
-        "saga",
-        "crush",
-        "candi crush soda saga",
-        "candi crush",
         "jelli",
-        "soda",
-        "candi",
+        "candi crush soda saga",
         "candi crush soda",
+        "whi",
+        "candi",
+        "candi crush",
+        "crush",
+        "soda",
+        "saga",
         "saga timelin"
       ],
       "common": [
@@ -3762,26 +4022,26 @@
       "shares_stdev": 3139
     },
     {
-      "number": 31,
+      "number": 35,
       "important": [
-        "timelin",
-        "next",
-        "good",
-        "day",
-        "might",
-        "love",
         "monday",
+        "might",
+        "timelin",
         "photo",
+        "day",
+        "next",
         "action",
+        "love",
+        "good",
         "fish"
       ],
       "common": [
         "candy",
         "com",
+        "go",
         "http",
         "http king",
         "http king com",
-        "king",
         "king com",
         "photos",
         "timeline",
@@ -3853,10 +4113,6 @@
           1460035800
         ],
         [
-          "Which one are you today? Timeline Photos",
-          1459008002
-        ],
-        [
           "Your dose of cuteness for this weekend! :) Timeline Photos",
           1455982201
         ],
@@ -3897,10 +4153,6 @@
           1450539002
         ],
         [
-          "Happy Cotton Candy Day! Who's having some today? :) Timeline Photos",
-          1449502201
-        ],
-        [
           "#Cupcakes make Mondays better :) Timeline Photos",
           1447687800
         ],
@@ -3933,10 +4185,6 @@
           1443792600
         ],
         [
-          "Challenge! What's the longest word you can find? Put your answer in comments below! Fancy another word challenge? Play AlphaBetty Saga today! :) Timeline Photos",
-          1440768601
-        ],
-        [
           "Friday feeling! What song do you like so much that you can't stop listening to it? Timeline Photos",
           1438954201
         ],
@@ -3945,20 +4193,12 @@
           1437917401
         ],
         [
-          "Challenge! What's the longest word you can find? Put your answer in comments below! Fancy another word challenge? Play AlphaBetty Saga today! Timeline Photos",
-          1437226202
-        ],
-        [
           "Smash any Candy that is giving you a hard time with the Lollipop Hammer. Revenge is sweet! ;) Timeline Photos",
           1433597409
         ],
         [
           "The fish are here to save the day! Join the special event @CandyCrushSodaSaga, and watch your fish multiply! \nEnds Sunday 8th June 07:00 GMT\n\nPlay Now! --> http://to.king.com/00Ri Timeline Photos",
           1433440801
-        ],
-        [
-          "CHALLENGE TIME! What\u2019s the first Candy Crush related word you can find in this word #puzzle? Write your answer in a COMMENT! \n\n Fancy another word challenge? Play AlphaBetty Saga today!  :) Timeline Photos",
-          1432474365
         ],
         [
           "Friday Spirit! How are you feeling today? COMMENT A,B,C, or D! Timeline Photos",
@@ -3981,10 +4221,6 @@
           1429882201
         ],
         [
-          "Calling all Candy Crush experts! Share your knowledge with others today! Timeline Photos",
-          1428672601
-        ],
-        [
           "What could this be? Are those new levels around the corner?  Not long to go now. Hold on tight!",
           1427808601
         ],
@@ -4003,10 +4239,6 @@
         [
           "CHALLENGE TIME! You have 24 hours to match 1000 red candies on any level to get this sweet reward!\n\nGo, go, go! ---> http://to.king.com/L0gb Timeline Photos",
           1423906202
-        ],
-        [
-          "Lazy Sunday! Who's playing #CandyCrushSaga today? Timeline Photos",
-          1422199801
         ],
         [
           "A weekend with no Candy Crush; is not a real weekend!\n\nJoin the fun! --> http://to.king.com/Ejco Timeline Photos",
@@ -4029,10 +4261,6 @@
           1417964400
         ],
         [
-          "Well, what a fantastic view! \n\nWho's playing today? http://to.king.com/n4ED Timeline Photos",
-          1417188600
-        ],
-        [
           "Sunday #Giveaway! Who wants a sweet Candy Crush bed linen like this one for FREE? Comment below answering these questions: \n\n-What's your favorite thing in Candy Crush? \n-What would you change in Candy Crush? \n\nWe will pick one winner at random from the best answers, good luck! :) Timeline Photos",
           1416756600
         ],
@@ -4043,10 +4271,6 @@
         [
           "Thank Candy it's Friday! What sweet things are happening for you this weekend?\n\nPlay Candy Crush here: http://to.king.com/Oh9z",
           1408714200
-        ],
-        [
-          "What does this mean? New levels soon perhaps? ;) \n\nWarm up today! \u2192 http://to.king.com/tDng Timeline Photos",
-          1408455001
         ],
         [
           "Happy Sunday! Who's playing #CandyCrushSaga today? \n\nJoin the fun! --> http://to.king.com/EMwc",
@@ -4129,28 +4353,28 @@
           1337518826
         ]
       ],
-      "dates_start": 1396148750,
-      "dates_end": 1464679026,
-      "likes_avg": 12489,
-      "likes_stdev": 11670,
-      "comments_avg": 1178,
-      "comments_stdev": 1322,
-      "shares_avg": 465,
-      "shares_stdev": 770
+      "dates_start": 1394268653,
+      "dates_end": 1465986218,
+      "likes_avg": 12311,
+      "likes_stdev": 11687,
+      "comments_avg": 1150,
+      "comments_stdev": 1355,
+      "shares_avg": 477,
+      "shares_stdev": 788
     },
     {
-      "number": 32,
+      "number": 36,
       "important": [
-        "win",
-        "level candi crush saga",
-        "avail",
         "world",
-        "cake",
+        "avail",
         "level candi crush",
         "collect",
+        "level candi crush saga",
         "level candi",
         "player",
-        "delici"
+        "delici",
+        "win",
+        "cake"
       ],
       "common": [
         "candy",

@@ -14,16 +14,16 @@
     {
       "number": 1,
       "important": [
-        "timelin",
+        "urquel",
         "ago",
-        "pilsner",
-        "new",
-        "pilsner urquel",
-        "nazdravi",
         "happi",
         "photo",
         "year",
-        "urquel"
+        "pilsner",
+        "nazdravi",
+        "pilsner urquel",
+        "timelin",
+        "new"
       ],
       "common": [
         "happy",
@@ -75,16 +75,16 @@
     {
       "number": 2,
       "important": [
-        "serv",
-        "rais",
-        "pilsner urquel",
-        "perfect",
-        "glass",
-        "rais glass",
+        "urquel",
         "nazdravi timelin",
+        "glass",
+        "perfect",
         "nazdravi",
+        "rais",
         "alway",
-        "urquel"
+        "rais glass",
+        "pilsner urquel",
+        "serv"
       ],
       "common": [
         "glass",
@@ -140,16 +140,16 @@
     {
       "number": 3,
       "important": [
-        "serv",
-        "begin",
-        "pilsner",
-        "nazdravi",
-        "glass",
-        "cold",
-        "great",
         "serv pilsner",
         "nazdravi giphycom",
-        "everi"
+        "glass",
+        "pilsner",
+        "nazdravi",
+        "great",
+        "cold",
+        "everi",
+        "begin",
+        "serv"
       ],
       "common": [
         "com",
@@ -205,16 +205,16 @@
     {
       "number": 4,
       "important": [
-        "brew",
-        "becaus",
-        "recip",
-        "brewmast",
-        "befor",
-        "process",
-        "vaclav",
         "berka",
+        "process",
+        "befor",
+        "brewmast",
+        "vaclav",
+        "brew",
+        "famous",
         "brew pilsner",
-        "famous"
+        "recip",
+        "becaus"
       ],
       "common": [
         "berka",
@@ -274,16 +274,16 @@
     {
       "number": 5,
       "important": [
-        "golden",
-        "go",
         "pilsner nazdravi",
-        "golden pilsner",
+        "pilsner nazdravi timelin",
+        "golden",
         "glass",
-        "origin golden",
         "nazdravi timelin",
         "gold",
         "origin",
-        "pilsner nazdravi timelin"
+        "golden pilsner",
+        "go",
+        "origin golden"
       ],
       "common": [
         "nazdravi",
@@ -343,16 +343,93 @@
     {
       "number": 6,
       "important": [
-        "originalpilsn",
-        "brew",
+        "fill",
+        "first",
+        "tast",
+        "perfect pilsner",
+        "perfect",
+        "head",
         "beer",
-        "timelin",
+        "foam",
+        "keep",
+        "perfect pilsner pour"
+      ],
+      "common": [
+        "beer",
+        "nazdravi",
+        "nazdravi timeline",
+        "perfect",
+        "perfect pilsner",
+        "perfect pilsner pour",
+        "pilsner",
+        "pilsner pour",
+        "pour",
+        "timeline photos"
+      ],
+      "messages": [
+        [
+          "The perfect Pilsner pour: foam first then fill the beer from below the head. The foam keeps the beer fresher and tasting smoother #NaZdravi Timeline Photos",
+          1480346161
+        ],
+        [
+          "These Tapsters love pouring perfect Pilsners for you but sometimes the beer is too good to share! #NaZdravi Timeline Photos",
+          1479480961
+        ],
+        [
+          "This is Martina, one of the Brewery Bartenders. \"To be a good Tapster you have to love beer. But just drinking a lot of beer doesn\u2019t make you an expert. I\u2019m always learning.\" Perfect Pilsner Pour: Martina Navr\u00e1tilov\u00e1 \"I am the girl who understands beer better than some of the men sitting across the bar!\u201d",
+          1478603460
+        ],
+        [
+          "If you're in Czech and you ask for a Pilsner, this is what you'll get. The perfect Pilsner pour is #BetterWithFoam Perfect Pilsner Pour: Hladinka",
+          1478101680
+        ],
+        [
+          "\"I think the women softly care about the beer. We have more love. The man pours it harder.\" Veronika teaches people to pour perfect Pilsners and she notices the small differences in how they do it. Here's her story...\n\npilsnerurquell.com/article/perfect-pilsner-pour-veronika-mik\u00e9skov\u00e1 Perfect Pilsner Pour: Veronika Mik\u00e9skov\u00e1",
+          1473085355
+        ],
+        [
+          "Now this is a perfect Pilsner pour, exactly as you get it in a Czech pub. Always demand that your Pilsner looks like this because it tastes better with foam #NaZdravi Timeline Photos",
+          1470759601
+        ],
+        [
+          "The perfect pilsner pour is not the same as the best pour for other beers #NaZdravi Timeline Photos",
+          1465999500
+        ],
+        [
+          "The perfect Pilsner pour begins with a clean, cold, wet glass and ends with a smile on your face #NaZdravi Timeline Photos",
+          1465826640
+        ],
+        [
+          "The brewer brews our beer but it\u2019s \u2018made\u2019 at the bar with a perfect Pilsner pour. It tastes better with foam. Fancy one? #NaZdravi The perfect Pilser pour",
+          1464957582
+        ],
+        [
+          "This is how we express love in the Czech Republic #NaZdravi Milan's Perfect Pilsner Pour",
+          1464874380
+        ]
+      ],
+      "dates_start": 1466012827,
+      "dates_end": 1478394236,
+      "likes_avg": 895,
+      "likes_stdev": 628,
+      "comments_avg": 17,
+      "comments_stdev": 15,
+      "shares_avg": 36,
+      "shares_stdev": 52
+    },
+    {
+      "number": 7,
+      "important": [
         "ago",
-        "chang",
-        "groll",
+        "originalpilsn",
         "photo",
         "josef",
-        "world"
+        "groll",
+        "beer",
+        "brew",
+        "timelin",
+        "world",
+        "chang"
       ],
       "common": [
         "beer",
@@ -418,18 +495,18 @@
       "shares_stdev": 27
     },
     {
-      "number": 7,
+      "number": 8,
       "important": [
-        "pour nazdravi",
-        "serv",
-        "pour",
-        "perfect",
-        "glass",
-        "pour nazdravi timelin",
-        "cold",
-        "import",
+        "perfect pour",
         "nazdravi timelin",
-        "perfect pour"
+        "glass",
+        "perfect",
+        "pour nazdravi",
+        "cold",
+        "serv",
+        "pour nazdravi timelin",
+        "import",
+        "pour"
       ],
       "common": [
         "beer",
@@ -495,18 +572,18 @@
       "shares_stdev": 12
     },
     {
-      "number": 8,
+      "number": 9,
       "important": [
-        "foam",
-        "becaus",
-        "know",
         "pour",
+        "perfect pour",
+        "tast",
         "perfect",
         "tri",
-        "tast",
-        "pour pilsner",
+        "know",
         "better",
-        "perfect pour"
+        "foam",
+        "pour pilsner",
+        "becaus"
       ],
       "common": [
         "better",
@@ -572,18 +649,18 @@
       "shares_stdev": 29
     },
     {
-      "number": 9,
+      "number": 10,
       "important": [
-        "brew",
+        "urquel",
         "ago",
-        "breweri",
         "mobil",
-        "time",
         "pilsner",
+        "big",
+        "brew",
+        "time",
         "pilsner urquel",
         "cold",
-        "big",
-        "urquel"
+        "breweri"
       ],
       "common": [
         "beer",
@@ -649,18 +726,18 @@
       "shares_stdev": 6
     },
     {
-      "number": 10,
+      "number": 11,
       "important": [
+        "tankovna pilsner",
+        "come",
+        "someth",
+        "thing",
         "happen",
         "mean",
-        "someth",
+        "pub",
         "tankovna",
-        "thing",
-        "come",
-        "kitchen",
         "love",
-        "tankovna pilsner",
-        "pub"
+        "kitchen"
       ],
       "common": [
         "beer",
@@ -726,16 +803,16 @@
       "shares_stdev": 41
     },
     {
-      "number": 11,
+      "number": 12,
       "important": [
-        "timelin",
-        "ago",
-        "plzen nazdravi timelin",
-        "nazdravi",
-        "plzen nazdravi",
         "nazdravi timelin",
-        "give",
+        "plzen nazdravi",
         "photo",
+        "ago",
+        "nazdravi",
+        "give",
+        "plzen nazdravi timelin",
+        "timelin",
         "put",
         "plzen"
       ],
@@ -803,17 +880,17 @@
       "shares_stdev": 13
     },
     {
-      "number": 12,
+      "number": 13,
       "important": [
-        "beer",
-        "food",
-        "timelin",
-        "ago",
-        "best beer",
-        "best",
         "pilsnerfood timelin",
-        "photo",
         "one",
+        "food",
+        "ago",
+        "photo",
+        "beer",
+        "best beer",
+        "timelin",
+        "best",
         "pilsnerfood"
       ],
       "common": [
@@ -880,18 +957,18 @@
       "shares_stdev": 9
     },
     {
-      "number": 13,
+      "number": 14,
       "important": [
-        "cellar",
-        "ago",
-        "breweri cellar",
-        "someth",
-        "breweri",
         "make beer",
-        "still",
-        "around",
+        "someth",
+        "ago",
+        "barrel",
+        "breweri cellar",
+        "cellar",
         "youll",
-        "barrel"
+        "around",
+        "breweri",
+        "still"
       ],
       "common": [
         "beer",
@@ -965,17 +1042,17 @@
       "shares_stdev": 43
     },
     {
-      "number": 14,
+      "number": 15,
       "important": [
-        "bright",
-        "malt",
+        "nazdravi timelin",
+        "glass",
         "pilsner",
         "perfect",
-        "glass",
         "also",
-        "nazdravi timelin",
+        "malt",
         "gold",
         "hop",
+        "bright",
         "czech"
       ],
       "common": [
@@ -1050,18 +1127,18 @@
       "shares_stdev": 22
     },
     {
-      "number": 15,
+      "number": 16,
       "important": [
-        "see",
+        "origin golden lager",
         "giphycom",
+        "nazdravi giphycom",
+        "get",
+        "see",
+        "lager",
         "brew origin",
         "new",
         "golden lager",
-        "origin golden",
-        "lager",
-        "get",
-        "origin golden lager",
-        "nazdravi giphycom"
+        "origin golden"
       ],
       "common": [
         "golden",
@@ -1139,18 +1216,18 @@
       "shares_stdev": 26
     },
     {
-      "number": 16,
+      "number": 17,
       "important": [
-        "place",
-        "beer",
-        "foam",
         "make beer",
-        "bar",
         "lot",
         "special",
+        "place",
+        "beer",
+        "bar",
+        "fresh",
         "sure",
-        "make",
-        "fresh"
+        "foam",
+        "make"
       ],
       "common": [
         "beer",
@@ -1232,17 +1309,17 @@
       "shares_stdev": 4
     },
     {
-      "number": 17,
+      "number": 18,
       "important": [
-        "brew",
-        "year ago",
-        "today",
         "ago",
         "first",
+        "today",
+        "year",
         "peopl",
         "origin",
         "batch",
-        "year",
+        "brew",
+        "year ago",
         "plzen"
       ],
       "common": [
@@ -1329,18 +1406,18 @@
       "shares_stdev": 20
     },
     {
-      "number": 18,
+      "number": 19,
       "important": [
-        "beer",
-        "timelin",
-        "time",
-        "nazdravi",
+        "good",
         "nazdravi timelin",
         "beer nazdravi timelin",
         "back",
         "photo",
-        "good",
-        "beer nazdravi"
+        "nazdravi",
+        "beer",
+        "beer nazdravi",
+        "time",
+        "timelin"
       ],
       "common": [
         "beer",
@@ -1430,17 +1507,17 @@
       "shares_stdev": 14
     },
     {
-      "number": 19,
+      "number": 20,
       "important": [
-        "serv",
-        "food",
-        "timelin",
-        "ago",
-        "open",
-        "pilsner",
         "citi",
+        "open",
         "pragu",
+        "food",
         "photo",
+        "pilsner",
+        "ago",
+        "serv",
+        "timelin",
         "start"
       ],
       "common": [
@@ -1535,18 +1612,18 @@
       "shares_stdev": 15
     },
     {
-      "number": 20,
+      "number": 21,
       "important": [
-        "pilsen czech republ",
+        "glass",
+        "barley moravia",
         "first golden pilsner never",
-        "first golden",
         "world first",
+        "czech",
+        "pilsen",
+        "first golden",
         "first golden pilsner",
         "onli",
-        "pilsen",
-        "glass",
-        "czech",
-        "barley moravia"
+        "pilsen czech republ"
       ],
       "common": [
         "barley",
@@ -1644,18 +1721,18 @@
       "shares_stdev": 3
     },
     {
-      "number": 21,
+      "number": 22,
       "important": [
-        "pint pilsner",
-        "even",
-        "pint pilsner urquel",
-        "work",
-        "make sure",
-        "give",
-        "make",
-        "pint",
         "snack",
-        "everi"
+        "pint pilsner",
+        "give",
+        "pint",
+        "even",
+        "everi",
+        "make sure",
+        "work",
+        "make",
+        "pint pilsner urquel"
       ],
       "common": [
         "beer",
@@ -1753,18 +1830,18 @@
       "shares_stdev": 17
     },
     {
-      "number": 22,
+      "number": 23,
       "important": [
-        "cellar",
-        "beer",
-        "peopl pilsner",
-        "see",
         "make beer",
+        "urquel",
+        "peopl pilsner",
         "pilsner",
-        "pilsner urquel",
+        "see",
         "peopl",
-        "make",
-        "urquel"
+        "beer",
+        "cellar",
+        "pilsner urquel",
+        "make"
       ],
       "common": [
         "beer",
@@ -1866,18 +1943,18 @@
       "shares_stdev": 8
     },
     {
-      "number": 23,
+      "number": 24,
       "important": [
-        "foam",
-        "flavour",
-        "saaz hop",
         "lot",
         "special",
-        "use",
+        "saaz hop",
         "give",
+        "flavour",
         "hop",
+        "use",
         "bitter",
-        "fresh"
+        "fresh",
+        "foam"
       ],
       "common": [
         "beer",
@@ -1979,17 +2056,17 @@
       "shares_stdev": 104
     },
     {
-      "number": 24,
+      "number": 25,
       "important": [
-        "brew",
         "weve",
-        "golden",
-        "golden pilsner",
-        "home",
-        "pilsner",
-        "nazdravi",
         "nazdravi timelin",
+        "golden",
         "year",
+        "pilsner",
+        "home",
+        "nazdravi",
+        "brew",
+        "golden pilsner",
         "fresh"
       ],
       "common": [
@@ -2092,18 +2169,18 @@
       "shares_stdev": 13
     },
     {
-      "number": 25,
+      "number": 26,
       "important": [
-        "everyon",
-        "glass pilsner",
-        "weekend",
-        "begin",
-        "pilsner",
-        "pilsner urquel",
-        "nazdravi",
+        "urquel",
         "glass",
+        "everyon",
+        "pilsner",
+        "nazdravi",
+        "glass pilsner",
+        "pilsner urquel",
+        "begin",
         "great",
-        "urquel"
+        "weekend"
       ],
       "common": [
         "beer",
@@ -2209,18 +2286,18 @@
       "shares_stdev": 39
     },
     {
-      "number": 26,
+      "number": 27,
       "important": [
         "way nazdravi",
-        "peopl pilsner",
-        "brew origin",
         "befor",
-        "peopl",
-        "origin",
-        "still brew",
-        "make",
+        "peopl pilsner",
         "way",
-        "origin way"
+        "origin way",
+        "origin",
+        "peopl",
+        "brew origin",
+        "still brew",
+        "make"
       ],
       "common": [
         "nazdravi",
@@ -2326,18 +2403,143 @@
       "shares_stdev": 469
     },
     {
-      "number": 27,
+      "number": 28,
       "important": [
+        "lot",
+        "pilsner pour",
+        "way",
+        "lager",
+        "classic",
+        "go",
+        "learn",
+        "foam",
+        "czech",
+        "pour"
+      ],
+      "common": [
+        "beer",
+        "classic",
+        "czech",
+        "foam",
+        "hladinka",
+        "photos",
+        "pilsner",
+        "pour",
+        "timeline",
+        "timeline photos"
+      ],
+      "messages": [
+        [
+          "For drinkers in other countries the appearance of the Hladinka \u2013 which has a lot of wet foam \u2013 might be a little surprising, but Czech lagers aren\u2019t supposed to be poured the same way other beers... Classic Pilsner Pours: Hladinka Go to Czech Republic, ask for a Pilsner, and a Hladinka is what you'll get. This is the typical Czech Pilsner pour. Learn more here!",
+          1484046720
+        ],
+        [
+          "Here's one way we can guarantee a white Christmas! The classic Mliko pour of Pilsner Urquell is all sweet, smooth foam - a perfect dessert beer #NaZdravi Timeline Photos",
+          1482246455
+        ],
+        [
+          "Pilsner is better with friends and #BetterWithFoam Timeline Photos",
+          1481729051
+        ],
+        [
+          "\"English drinkers can complain about the foam and want their beer topped up. It\u2019s a cultural thing. I just try to explain the importance of foam and flavour.\u201d Meet Tapster Jacques from London\u2019s The Duck & Rice. The Duck & Rice, London \"I went to Plze\u0148 on the Tapster Programme. It was there I realised how important the beer was. I came back with a burning mission to adapt my bar to be able to pour Pilsner Urquell properly.\"",
+          1479224041
+        ],
+        [
+          "Brilliant white foam, thick and smooth, with a neat line on top of the golden Pilsner. Beautiful beer perfection! #Betterwithfoam Timeline Photos",
+          1477660020
+        ],
+        [
+          "He nearly dropped these glasses when we said that some people want their Pilsner without foam! #BetterWithFoam Timeline Photos",
+          1474637521
+        ],
+        [
+          "Foam rings left on your glass? That's great! Properly poured Pilsners leave foam lacing as you drink #BetterWithFoam Timeline Photos",
+          1474294144
+        ],
+        [
+          "The three Pilsner pours. How do you like yours? #TankBeer Timeline Photos",
+          1473598800
+        ],
+        [
+          "A Pilsner poured without foam?! That's just not Czech #Betterwithfoam Timeline Photos",
+          1473427981
+        ],
+        [
+          "We told this Tapster that some drinkers outside of the Czech Republic want their Pilsner without foam. This was his reaction! #Betterwithfoam Timeline Photos",
+          1472462700
+        ],
+        [
+          "The thick foam on Pilsner Urquell is 'wet' foam. It's poured by the special Pilsner tap that we have and it works differently to the 'dry' foam on most other beers. Watch this Czech Hladinka pour and you'll see how the foam actually becomes beer. Foam is good. Pilsner Urquell tastes better with foam. Hladinka: Pilsner Urquell's classic Czech pour",
+          1471444090
+        ],
+        [
+          "It's unthinkable to serve a Pilsner without the foam in the Czech Republic. The Hladinka pour \u2013 or Smooth \u2013 is how we do it.\n\nHere's the story: http://pilsnerurquell.com/article/classic-pilsner-pours-hladinka Drink it like a Czech. Have a Hladinka When you order a Pilsner, make sure you get a proper pour and drink it like we do.",
+          1470836273
+        ],
+        [
+          "'Not a large beer and it's not even a small beer.' Ever had the unusual Czech '\u0160nyt' pour of Pilsner Urquell? \n\nhttp://pilsnerurquell.com/article/classic-pilsner-pour-%C5%A1nyt Classic Pilsner Pour: \u0160nyt A small beer in a large glass with a great story",
+          1470229921
+        ],
+        [
+          "Here's how we create the crisp bitterness in the Na Dvakrat pour (and wait until you see how the foam turns into beer!) #betterwithfoam Na Dvakrat Pour",
+          1468332742
+        ],
+        [
+          "Think of mliko like a beery dessert. And you need to drink a mliko quickly before that sweet, smooth foam turns into beer! #betterwithfoam Mliko Pour",
+          1467897600
+        ],
+        [
+          "The three classic Pilsner pours: Na Dvakr\u00e1t, Hladinka and Mliko. Each has a different amount of foam, different carbonation and qualities, and each is delicious in its own way! #NaZdravi Timeline Photos",
+          1467724793
+        ],
+        [
+          "Here's how the classic Czech pour works (and see how all that wet foam turns into more great beer while the foam stays thick on top. Perfect!) #betterwithfoam",
+          1467643409
+        ],
+        [
+          "A small beer in a large glass topped with foam and a good story. This is the Czech \"\u0161nyt\" pour \n\nhttp://pilsnerurquell.com/article/classic-pilsner-pour-%C5%A1nyt Classic Pilsner Pour: \u0160nyt \"The \u0160nyt is a popular compromise between \u2018have one\u2019, and \u2018don\u2019t have any\u2019. It is at least something more than nothing, even if it isn\u2019t a full glass\u201d.",
+          1462972980
+        ],
+        [
+          "Pouring Pilsners for 174 years and not much has changed! Love these great old taps and the proper Czech pour with plenty of foam #NaZdravi Timeline Photos",
+          1459779295
+        ],
+        [
+          "A small beer in a large glass with an interesting story. This is the traditional Czech \u201c\u0160nyt\" pour #NaZdravi \n\npilsnerurquell.com/article/classic-pilsner-pour-\u0161nyt Classic Pilsner Pour: \u0160nyt \"The \u0160nyt is a popular compromise between \u2018have one\u2019, and \u2018don\u2019t have any\u2019. It is at least something more than nothing, even if it isn\u2019t a full glass\"",
+          1453998300
+        ],
+        [
+          "The beer tap is drawn from the side, rather than the top, giving the pourer total control over the beer and the foam #NaZdravi Timeline Photos",
+          1448468401
+        ],
+        [
+          "Coucou, on est dans le top 5 ! \n\nEn revanche, notre carte a pas mal chang\u00e9 ! \nPour les bi\u00e8res pressions : \nCheap blonde / Budweiser / Triple Cauwe / Newcastle Brown Ale / Guinness\nPour les bi\u00e8res bouteilles : \nPilsner Urquell / Heineken / Sol / Vedett / Duvel / La Chouffe / Asahi\n\nBisous du dimanche. Les 5 meilleurs bars \u00e0 bi\u00e8re de Paris S\u00c9LECTION - Qui dit printemps, dit ap\u00e9ro ! Pas question, en revanche, de s'infliger une mauvaise pinte. Voici nos adresses pr\u00e9f\u00e9r\u00e9es dans la capitale, \u00e0 consommer, bien s\u00fbr, avec mod\u00e9ration.",
+          1398592590
+        ]
+      ],
+      "dates_start": 1450093490,
+      "dates_end": 1484565402,
+      "likes_avg": 487,
+      "likes_stdev": 698,
+      "comments_avg": 18,
+      "comments_stdev": 25,
+      "shares_avg": 23,
+      "shares_stdev": 26
+    },
+    {
+      "number": 29,
+      "important": [
+        "drink",
+        "ago",
+        "originalpilsn",
+        "photo",
         "brew",
         "timelin",
-        "originalpilsn",
-        "ago",
-        "drink",
-        "water",
-        "got",
-        "photo",
         "world",
-        "plzen"
+        "got",
+        "plzen",
+        "water"
       ],
       "common": [
         "brew",
@@ -2455,18 +2657,18 @@
       "shares_stdev": 8
     },
     {
-      "number": 28,
+      "number": 30,
       "important": [
-        "mean",
-        "flavour",
         "team",
-        "litr",
+        "barrel",
+        "wooden",
         "big",
-        "ensur",
+        "flavour",
+        "litr",
+        "mean",
         "around",
         "job",
-        "barrel",
-        "wooden"
+        "ensur"
       ],
       "common": [
         "barrel",
@@ -2588,18 +2790,18 @@
       "shares_stdev": 2040
     },
     {
-      "number": 29,
+      "number": 31,
       "important": [
-        "breweri",
-        "christma",
-        "creat",
-        "pilsner urquel",
-        "cooper",
-        "nazdravi photo",
-        "photo pilsner",
         "happi",
+        "creat",
+        "nazdravi photo",
         "get",
-        "post"
+        "christma",
+        "post",
+        "pilsner urquel",
+        "breweri",
+        "photo pilsner",
+        "cooper"
       ],
       "common": [
         "photos",
@@ -2721,18 +2923,18 @@
       "shares_stdev": 7
     },
     {
-      "number": 30,
+      "number": 32,
       "important": [
-        "serv",
-        "pragu",
-        "beer",
-        "best beer",
-        "creat",
-        "bar",
-        "good beer",
         "good",
+        "pragu",
+        "creat",
+        "good beer",
+        "differ",
+        "bar",
+        "beer",
         "na",
-        "differ"
+        "best beer",
+        "serv"
       ],
       "common": [
         "beer",
@@ -2866,18 +3068,18 @@
       "shares_stdev": 71
     },
     {
-      "number": 31,
+      "number": 33,
       "important": [
         "ago",
-        "see",
-        "think",
-        "tankovna",
-        "london",
-        "bar",
-        "unpasteuris",
-        "best",
         "tast",
-        "tank beer"
+        "tank beer",
+        "see",
+        "bar",
+        "london",
+        "tankovna",
+        "think",
+        "unpasteuris",
+        "best"
       ],
       "common": [
         "beer",
@@ -3031,183 +3233,18 @@
       "shares_stdev": 8
     },
     {
-      "number": 32,
+      "number": 34,
       "important": [
-        "foam",
-        "classic",
-        "go",
-        "pour",
-        "lot",
-        "lager",
-        "pilsner pour",
-        "way",
-        "learn",
-        "czech"
-      ],
-      "common": [
-        "beer",
-        "czech",
-        "foam",
-        "perfect",
-        "photos",
-        "pilsner",
-        "pilsner pour",
-        "pour",
-        "timeline",
-        "timeline photos"
-      ],
-      "messages": [
-        [
-          "For drinkers in other countries the appearance of the Hladinka \u2013 which has a lot of wet foam \u2013 might be a little surprising, but Czech lagers aren\u2019t supposed to be poured the same way other beers... Classic Pilsner Pours: Hladinka Go to Czech Republic, ask for a Pilsner, and a Hladinka is what you'll get. This is the typical Czech Pilsner pour. Learn more here!",
-          1484046720
-        ],
-        [
-          "Here's one way we can guarantee a white Christmas! The classic Mliko pour of Pilsner Urquell is all sweet, smooth foam - a perfect dessert beer #NaZdravi Timeline Photos",
-          1482246455
-        ],
-        [
-          "Pilsner is better with friends and #BetterWithFoam Timeline Photos",
-          1481729051
-        ],
-        [
-          "The perfect Pilsner pour: foam first then fill the beer from below the head. The foam keeps the beer fresher and tasting smoother #NaZdravi Timeline Photos",
-          1480346161
-        ],
-        [
-          "These Tapsters love pouring perfect Pilsners for you but sometimes the beer is too good to share! #NaZdravi Timeline Photos",
-          1479480961
-        ],
-        [
-          "\"English drinkers can complain about the foam and want their beer topped up. It\u2019s a cultural thing. I just try to explain the importance of foam and flavour.\u201d Meet Tapster Jacques from London\u2019s The Duck & Rice. The Duck & Rice, London \"I went to Plze\u0148 on the Tapster Programme. It was there I realised how important the beer was. I came back with a burning mission to adapt my bar to be able to pour Pilsner Urquell properly.\"",
-          1479224041
-        ],
-        [
-          "This is Martina, one of the Brewery Bartenders. \"To be a good Tapster you have to love beer. But just drinking a lot of beer doesn\u2019t make you an expert. I\u2019m always learning.\" Perfect Pilsner Pour: Martina Navr\u00e1tilov\u00e1 \"I am the girl who understands beer better than some of the men sitting across the bar!\u201d",
-          1478603460
-        ],
-        [
-          "If you're in Czech and you ask for a Pilsner, this is what you'll get. The perfect Pilsner pour is #BetterWithFoam Perfect Pilsner Pour: Hladinka",
-          1478101680
-        ],
-        [
-          "Brilliant white foam, thick and smooth, with a neat line on top of the golden Pilsner. Beautiful beer perfection! #Betterwithfoam Timeline Photos",
-          1477660020
-        ],
-        [
-          "He nearly dropped these glasses when we said that some people want their Pilsner without foam! #BetterWithFoam Timeline Photos",
-          1474637521
-        ],
-        [
-          "Foam rings left on your glass? That's great! Properly poured Pilsners leave foam lacing as you drink #BetterWithFoam Timeline Photos",
-          1474294144
-        ],
-        [
-          "The three Pilsner pours. How do you like yours? #TankBeer Timeline Photos",
-          1473598800
-        ],
-        [
-          "A Pilsner poured without foam?! That's just not Czech #Betterwithfoam Timeline Photos",
-          1473427981
-        ],
-        [
-          "\"I think the women softly care about the beer. We have more love. The man pours it harder.\" Veronika teaches people to pour perfect Pilsners and she notices the small differences in how they do it. Here's her story...\n\npilsnerurquell.com/article/perfect-pilsner-pour-veronika-mik\u00e9skov\u00e1 Perfect Pilsner Pour: Veronika Mik\u00e9skov\u00e1",
-          1473085355
-        ],
-        [
-          "We told this Tapster that some drinkers outside of the Czech Republic want their Pilsner without foam. This was his reaction! #Betterwithfoam Timeline Photos",
-          1472462700
-        ],
-        [
-          "The thick foam on Pilsner Urquell is 'wet' foam. It's poured by the special Pilsner tap that we have and it works differently to the 'dry' foam on most other beers. Watch this Czech Hladinka pour and you'll see how the foam actually becomes beer. Foam is good. Pilsner Urquell tastes better with foam. Hladinka: Pilsner Urquell's classic Czech pour",
-          1471444090
-        ],
-        [
-          "It's unthinkable to serve a Pilsner without the foam in the Czech Republic. The Hladinka pour \u2013 or Smooth \u2013 is how we do it.\n\nHere's the story: http://pilsnerurquell.com/article/classic-pilsner-pours-hladinka Drink it like a Czech. Have a Hladinka When you order a Pilsner, make sure you get a proper pour and drink it like we do.",
-          1470836273
-        ],
-        [
-          "Now this is a perfect Pilsner pour, exactly as you get it in a Czech pub. Always demand that your Pilsner looks like this because it tastes better with foam #NaZdravi Timeline Photos",
-          1470759601
-        ],
-        [
-          "'Not a large beer and it's not even a small beer.' Ever had the unusual Czech '\u0160nyt' pour of Pilsner Urquell? \n\nhttp://pilsnerurquell.com/article/classic-pilsner-pour-%C5%A1nyt Classic Pilsner Pour: \u0160nyt A small beer in a large glass with a great story",
-          1470229921
-        ],
-        [
-          "Here's how we create the crisp bitterness in the Na Dvakrat pour (and wait until you see how the foam turns into beer!) #betterwithfoam Na Dvakrat Pour",
-          1468332742
-        ],
-        [
-          "Think of mliko like a beery dessert. And you need to drink a mliko quickly before that sweet, smooth foam turns into beer! #betterwithfoam Mliko Pour",
-          1467897600
-        ],
-        [
-          "The three classic Pilsner pours: Na Dvakr\u00e1t, Hladinka and Mliko. Each has a different amount of foam, different carbonation and qualities, and each is delicious in its own way! #NaZdravi Timeline Photos",
-          1467724793
-        ],
-        [
-          "Here's how the classic Czech pour works (and see how all that wet foam turns into more great beer while the foam stays thick on top. Perfect!) #betterwithfoam",
-          1467643409
-        ],
-        [
-          "The perfect pilsner pour is not the same as the best pour for other beers #NaZdravi Timeline Photos",
-          1465999500
-        ],
-        [
-          "The perfect Pilsner pour begins with a clean, cold, wet glass and ends with a smile on your face #NaZdravi Timeline Photos",
-          1465826640
-        ],
-        [
-          "The brewer brews our beer but it\u2019s \u2018made\u2019 at the bar with a perfect Pilsner pour. It tastes better with foam. Fancy one? #NaZdravi The perfect Pilser pour",
-          1464957582
-        ],
-        [
-          "This is how we express love in the Czech Republic #NaZdravi Milan's Perfect Pilsner Pour",
-          1464874380
-        ],
-        [
-          "A small beer in a large glass topped with foam and a good story. This is the Czech \"\u0161nyt\" pour \n\nhttp://pilsnerurquell.com/article/classic-pilsner-pour-%C5%A1nyt Classic Pilsner Pour: \u0160nyt \"The \u0160nyt is a popular compromise between \u2018have one\u2019, and \u2018don\u2019t have any\u2019. It is at least something more than nothing, even if it isn\u2019t a full glass\u201d.",
-          1462972980
-        ],
-        [
-          "Pouring Pilsners for 174 years and not much has changed! Love these great old taps and the proper Czech pour with plenty of foam #NaZdravi Timeline Photos",
-          1459779295
-        ],
-        [
-          "A small beer in a large glass with an interesting story. This is the traditional Czech \u201c\u0160nyt\" pour #NaZdravi \n\npilsnerurquell.com/article/classic-pilsner-pour-\u0161nyt Classic Pilsner Pour: \u0160nyt \"The \u0160nyt is a popular compromise between \u2018have one\u2019, and \u2018don\u2019t have any\u2019. It is at least something more than nothing, even if it isn\u2019t a full glass\"",
-          1453998300
-        ],
-        [
-          "The beer tap is drawn from the side, rather than the top, giving the pourer total control over the beer and the foam #NaZdravi Timeline Photos",
-          1448468401
-        ],
-        [
-          "Coucou, on est dans le top 5 ! \n\nEn revanche, notre carte a pas mal chang\u00e9 ! \nPour les bi\u00e8res pressions : \nCheap blonde / Budweiser / Triple Cauwe / Newcastle Brown Ale / Guinness\nPour les bi\u00e8res bouteilles : \nPilsner Urquell / Heineken / Sol / Vedett / Duvel / La Chouffe / Asahi\n\nBisous du dimanche. Les 5 meilleurs bars \u00e0 bi\u00e8re de Paris S\u00c9LECTION - Qui dit printemps, dit ap\u00e9ro ! Pas question, en revanche, de s'infliger une mauvaise pinte. Voici nos adresses pr\u00e9f\u00e9r\u00e9es dans la capitale, \u00e0 consommer, bien s\u00fbr, avec mod\u00e9ration.",
-          1398592590
-        ]
-      ],
-      "dates_start": 1453975712,
-      "dates_end": 1483729484,
-      "likes_avg": 614,
-      "likes_stdev": 703,
-      "comments_avg": 18,
-      "comments_stdev": 22,
-      "shares_avg": 27,
-      "shares_stdev": 36
-    },
-    {
-      "number": 33,
-      "important": [
-        "old",
-        "beer",
-        "master",
         "ago",
-        "breweri",
-        "insid",
-        "mani",
-        "great",
         "year old",
-        "year"
+        "year",
+        "insid",
+        "beer",
+        "mani",
+        "master",
+        "breweri",
+        "great",
+        "old"
       ],
       "common": [
         "beer",
@@ -3405,18 +3442,18 @@
       "shares_stdev": 16
     },
     {
-      "number": 34,
+      "number": 35,
       "important": [
-        "serv",
-        "pour pilsner urquel",
-        "pour",
-        "time",
         "perfect",
-        "pour pilsner",
+        "pour pilsner urquel",
         "tapster",
+        "time",
+        "everi",
+        "serv",
         "job",
+        "pour pilsner",
         "czech",
-        "everi"
+        "pour"
       ],
       "common": [
         "bartender",
@@ -3630,17 +3667,17 @@
       "shares_stdev": 56
     },
     {
-      "number": 35,
+      "number": 36,
       "important": [
-        "old",
-        "cellar",
-        "know",
-        "breweri",
-        "look",
-        "around",
-        "come",
-        "na",
         "czech republ",
+        "look",
+        "cellar",
+        "na",
+        "around",
+        "breweri",
+        "old",
+        "come",
+        "know",
         "plzen"
       ],
       "common": [
@@ -3887,18 +3924,18 @@
       "shares_stdev": 12
     },
     {
-      "number": 36,
+      "number": 37,
       "important": [
-        "beer",
+        "nazdravi timelin",
+        "good",
         "food",
         "today",
-        "timelin",
+        "photo",
         "ago",
         "nazdravi",
-        "nazdravi timelin",
-        "photo",
-        "good",
-        "day"
+        "beer",
+        "day",
+        "timelin"
       ],
       "common": [
         "beer",

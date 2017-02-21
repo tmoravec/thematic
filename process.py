@@ -186,23 +186,21 @@ def best_number_clusters(X):
     # Try to reduce difference between average and biggest component size
     # In some cases this works great, in some cases maximizing silhouette_score
     # would work better.
-    diffs = []
+    scores = []
 
-    cluster_sizes = range(10, 41, 1)
+    cluster_sizes = range(15, 41, 1)
     for n in cluster_sizes:
         predictor = AgglomerativeClustering(n_clusters=n, connectivity=None, linkage='ward', affinity='euclidean')
         labels = predictor.fit_predict(X)
 
         indices_to_keep = remove_noise_clusters(X, labels)
         labelsI = [labels[i] for i in indices_to_keep]
+        XI = [X[i] for i in indices_to_keep]
 
-        sizes = np.bincount(labelsI)
-        #avg_size = np.mean(sizes)
-        #diffs.append(max(sizes) - avg_size)
-        diffs.append(max(sizes))
+        scores.append(silhouette_score(XI, labelsI))
 
-    print(time.ctime(), 'best_number_clusters diffs:', diffs)
-    index = diffs.index(min(diffs))
+    print(time.ctime(), 'best_number_clusters scores:', scores)
+    index = scores.index(max(scores))
     size = cluster_sizes[index]
 
     return size

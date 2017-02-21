@@ -7,8 +7,8 @@ from pprint import pprint
 import pickle
 
 
-TOKEN = 'EAACEdEose0cBAAE8kCuB6cZBsomcI5WOk4LrZCDwFmVHe3p6MPd5Fo7KOmkcn13zYZAXCLMz6mWDkK0oRRNVVJZB1IP4sZB7thRmcQoeRAGdGYq6ZAcAqJWZBbNZBiwePw6P0AGYOBPYMx0AbFqT4IHHCZBsICd9P5fdOIIhfIt9GZC7mah8eGMDdkeSFGaiu09gIZD'
-PAGE = 'SamsungMobile'
+TOKEN = 'EAACEdEose0cBAHS1vQD35o3LZCn0GYr3fVo2Gbr1ZCZBRRzZArH5qGZBLmTFtTrPP9nHLn3HpZCJgsnSkoDMnawYupE85HkVPXEH9Ln7oV0m9MlB5ZAYZCrk7ZCsvZBFNgVvByGEj6cG6u9QFDhZBvm1Piq5kkd8nvrrVcZBdvgbpSnXOb4sIfL5ADa0BTqfYjBq84oZD'
+PAGE = 'vsem.cz'
 URL = 'https://graph.facebook.com/v2.8/' + PAGE + '?fields={}&access_token=' + TOKEN
 DIRECTORY = 'pages-' + PAGE
 FILE_NAME = DIRECTORY + '/page-{}.json'

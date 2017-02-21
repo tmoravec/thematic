@@ -2,28 +2,28 @@
   "pagename": "nightwish",
   "globalstats": {
     "messages": 946,
-    "likes_avg": 5337,
-    "likes_stdev": 7580,
-    "comments_avg": 192,
-    "comments_stdev": 401,
-    "shares_avg": 549,
-    "shares_stdev": 1597,
+    "likes_avg": 5406,
+    "likes_stdev": 7777,
+    "comments_avg": 184,
+    "comments_stdev": 389,
+    "shares_avg": 563,
+    "shares_stdev": 1664,
     "graph_uri": "clusters/nightwish.png"
   },
   "clusters": [
     {
       "number": 1,
       "important": [
-        "de",
-        "nightwish",
-        "actual",
-        "ani",
-        "marco",
-        "happi birthday",
         "hietala",
-        "happi",
+        "happi birthday",
+        "marco",
         "sale",
-        "birthday"
+        "happi",
+        "nightwish",
+        "de",
+        "birthday",
+        "ani",
+        "actual"
       ],
       "common": [
         "delain",
@@ -75,13 +75,13 @@
     {
       "number": 2,
       "important": [
-        "tuoma",
-        "imaginaerum tour",
-        "tour",
         "moment",
-        "actual",
         "imaginaerum",
-        "mark"
+        "tour",
+        "mark",
+        "imaginaerum tour",
+        "tuoma",
+        "actual"
       ],
       "common": [
         "denis",
@@ -137,16 +137,16 @@
     {
       "number": 3,
       "important": [
-        "hometown",
-        "first",
-        "trailer",
-        "endless form",
-        "episod",
         "beauti",
-        "endless form beauti",
+        "first",
+        "hometown",
+        "subscrib",
+        "episod",
+        "trailer",
         "form",
         "endless",
-        "subscrib"
+        "endless form beauti",
+        "endless form"
       ],
       "common": [
         "album",
@@ -207,15 +207,15 @@
       "number": 4,
       "important": [
         "perfect",
-        "tarja",
-        "floor",
-        "fan",
-        "actual",
-        "say",
-        "metal",
         "concert",
+        "tarja",
         "wacken",
-        "pleas"
+        "fan",
+        "metal",
+        "pleas",
+        "floor",
+        "say",
+        "actual"
       ],
       "common": [
         "anette",
@@ -275,16 +275,16 @@
     {
       "number": 5,
       "important": [
-        "dear",
-        "nightwish offici",
-        "latest",
         "band nightwish",
+        "offici",
         "nightwish web",
+        "websit",
+        "offici websit",
         "way",
         "metal band",
-        "offici",
-        "offici websit",
-        "websit"
+        "dear",
+        "nightwish offici",
+        "latest"
       ],
       "common": [
         "band",
@@ -348,16 +348,16 @@
     {
       "number": 6,
       "important": [
-        "anett",
-        "stage",
-        "nightwish",
-        "floor",
-        "actual",
-        "hear",
         "futur",
-        "part",
+        "stage",
+        "anett olzon",
+        "anett",
+        "hear",
+        "nightwish",
         "interview",
-        "anett olzon"
+        "floor",
+        "part",
+        "actual"
       ],
       "common": [
         "anette",
@@ -421,16 +421,16 @@
     {
       "number": 7,
       "important": [
-        "photo",
-        "nightwish",
-        "video",
-        "actual",
-        "live",
-        "march",
         "hope",
+        "photo",
         "band",
+        "nightwish live",
+        "video",
         "show",
-        "nightwish live"
+        "march",
+        "nightwish",
+        "live",
+        "actual"
       ],
       "common": [
         "band",
@@ -494,16 +494,16 @@
     {
       "number": 8,
       "important": [
-        "black",
-        "perform",
-        "nightwish",
-        "actual",
-        "birthday",
-        "festiv",
-        "januari",
         "happi birthday",
+        "black",
+        "histori",
+        "januari",
+        "perform",
+        "festiv",
+        "nightwish",
         "happi",
-        "histori"
+        "birthday",
+        "actual"
       ],
       "common": [
         "14th",
@@ -571,16 +571,16 @@
     {
       "number": 9,
       "important": [
-        "photo",
-        "bueno",
         "actual",
+        "see",
+        "open air",
         "confirm",
-        "look",
+        "bueno",
         "timelin",
         "timelin photo",
-        "see",
+        "look",
         "air",
-        "open air"
+        "photo"
       ],
       "common": [
         "2013",
@@ -652,16 +652,16 @@
     {
       "number": 10,
       "important": [
-        "great",
-        "photo",
-        "montreal",
-        "sold",
         "actual",
-        "realli",
-        "next",
+        "sold timelin",
         "timelin",
+        "montreal",
+        "realli",
+        "sold",
         "timelin photo",
-        "sold timelin"
+        "great",
+        "next",
+        "photo"
       ],
       "common": [
         "next",
@@ -733,101 +733,16 @@
     {
       "number": 11,
       "important": [
-        "black",
-        "de",
-        "el",
-        "rock",
-        "metal",
-        "digit",
-        "la",
-        "record",
-        "es",
-        "los"
-      ],
-      "common": [
-        "banda",
-        "com",
-        "de",
-        "el",
-        "en",
-        "http",
-        "la",
-        "nightwish",
-        "que",
-        "su"
-      ],
-      "messages": [
-        [
-          "MOONSPELL (Moonspellofficialband) es la banda m\u00e1s importante de metal procedente de Portugal. Una perfecta y singular mezcla entre metal/rock g\u00f3tico y las vertientes m\u00e1s extremas del metal (death, doom, black) han convertido a esta banda en toda una leyenda del g\u00e9nero a lo largo de sus 25 a\u00f1os de carrera al mando del influyente Fernando Ribeiro. Una banda obligada a pertenecer a tu colecci\u00f3n musical, una de las m\u00e1s grandes del mundo que incluso ha participado en el famoso Rock in R\u00edo en Brasil del 2015, el mismo en el que particip\u00f3 Nightwish. Moonspell estar\u00e1 realizando una nueva gira por Latinoam\u00e9rica este 2017 para celebrar los 20 a\u00f1os de su \u00e1lbum m\u00e1s influyente \"Irreligious\" y promocionar su \u00faltimo disco \"Extinct\". MOONSPELL - Extinct (Official Video) | Napalm Records Order \"Extinct\" now: http://shop.napalmrecords.com US customers: http://www.napalmrecordsamerica.com/store/moonspell Digital: http://smarturl.it/ExtinctDL EM...",
-          1486313837
-        ],
-        [
-          "Ya s\u00e9 que ha pasado algo de tiempo pero el flujo de trabajo nos impide hacer todo los que nos gustar\u00eda, como por ejemplo compartir con vosotros este precioso v\u00eddeo de la actuaci\u00f3n que organizamos durante la Semana del arte de Marina d'Or - Holiday resort 2016. Estad atentos porque muy pronto os presentaremos otro proyecto muy diferente, como a nosotros nos gusta. Disfrutad la puesta en escena de este homenaje a la obra de Maricarmen Lopez Olivares. \n\nMusas y \u00e1ngeles de Georgi:\n\u00c1ngela Mart\u00ednez Legan\u00e9s- bailarina de ballet cl\u00e1sico y jazz\nVanessa Campos\nLucia Ion\nNataliya Kalchuk\nRaluca Bradau\nJessiica Paulano Delgado\nAtrezzo y tocados: Georgialis Couture\n\nSoundtrack and inspiring music by the awesome group Nightwish. I hope you don't mind us using your song as a background for our performance during an important art fair in our city. Triunfo del arte",
-          1485449035
-        ],
-        [
-          "Nightwish acaban de publicar \"Vehicle Of Spirit\", su nuevo directo con los conciertos en Wembley y Tampere. Tuvimos la oportunidad de hablar con Troy Donockley sobre este lanzamiento, sobre el \u00faltimo concierto de la banda en Madrid, y por supuesto tambi\u00e9n sobre la batalla entre los fans de Tarja Turunen y la nueva etapa de la banda con Floor Jansen. Pasen y lean!\n\n[entrevista] Nightwish: \"Algunos fans piensan que Tarja es inocente y pura, que todo fue culpa de la banda. No fue as\u00ed\" [entrevista] Nightwish: \"Algunos fans piensan que Tarja es inocente y pura, que todo fue culpa de la banda. No fue as\u00ed\" - GoetiaMedia [entrevista] Nightwish editan ahora un nuevo dvd en directo titulado \"Vehicle Of Spirit\", justo en el a\u00f1o sab\u00e1tico que se toman de manera forzada debido al embarazo de Floor Jansen. Hablamos con Troy Donockley, quien en este 2017 cumple 10 a\u00f1os con la banda y est\u00e1 especialmente emocionado por el lan...",
-          1485273217
-        ],
-        [
-          "Slayer, Nightwish, Apocalyptica, Saxon en 18 andere nieuwe namen voor Graspop http://newsmonkey.be/article/61916 Slayer, Nightwish, Apocalyptica, Saxon en 18 andere nieuwe namen voor Graspop Vlak voor de kerstvakantie doen ze in Dessel alvast een pakje open. Daarin 22 nieuwe namen. Nightwish, Slayer, Apocalyptica, Saxon, Anthrax maar ook onder meer Tremonti zijn daarbij.",
-          1450423612
-        ],
-        [
-          "Concert photos from Bucharest Poze concert Nightwish la Bucure\u0219ti 2015 Vezi galeria de poze de concertul Nightwish de la Romexpo Bucuresti de pe 10 decembrie 2015 - Fotografii cu noua solist\u0103, Floor Jansen.",
-          1449783625
-        ],
-        [
-          "Nightwish: ingressos quase esgotados para show em SP Nightwish: ingressos quase esgotados para show em SP Os ingressos para apresenta\u00e7\u00e3o da banda Nighwtish em S\u00e3o Paulo est\u00e3o pr\u00f3ximos do fim. De acordo com informa\u00e7\u00f5es da Ingresso R\u00e1pido, esgotaram-se ingressos para setores camarote, frisa e cadeira alta, assim como o 1\u00ba lote de pista, restando apenas o 2\u00ba lote de pista normal (R$ 240,00 inteira, R$ 120,\u2026",
-          1433086862
-        ],
-        [
-          "This world is great. The injustice of political and religious regimes is the greatest shame we human beings have imposed on it and ourselves. After that has been said, me and my mate Tuomas Holopainen are simply grateful that my voice and his song were requested to be used and heard in this context.\n\nThank you Amnesty International\nMarco Hietala. Bassplayer and co-vocalist of Nightwish.\n\nhttps://www.youtube.com/watch?v=HjqiX1cXYaE&feature=youtu.be La campagne bougies 2014 d\u2019Amnesty International Luxembourg Ensemble, soutenons les victimes de torture ! Du 4 novembre au 13 d\u00e9cembre, participez \u00e0 la campagne bougies d\u2019Amnesty International Luxembourg. Pour plus in...",
-          1415101207
-        ],
-        [
-          "http://www.youtube.com/watch?v=luWMxUNnlXc&hd=1 J.CA.L - Desistir Jamais Primeira musica de trabalho da Banda J.CA.L. Formada Pelos Integrantes. Vocal: Neno Guitarra: Lukaz Santoz Baixo: Saile Gomes Bateria: Anderson Santos Espero...",
-          1394314290
-        ],
-        [
-          "Ya pas\u00f3 un mes (y un d\u00eda) de los shows de Nightwish en Buenos Aires!!! Que r\u00e1pido pasa el tiempo! Nightwish - I Want My Tears Back - Teatro de Flores [14/12/12] [HD] Video exclusivo de www.nwmproductions.com.ar",
-          1358375406
-        ],
-        [
-          "Fotos de Nightwish en Argentina!!! @ignacio cangelo!\nhttp://www.facebook.com/media/set/?set=a.10151146679842111.441279.178713952110&type=1&notif_t=like NWM Productions http://www.facebook.com/Ignacio.Cangelo :: http://www.IgnacioCangelo.com/",
-          1355688048
-        ],
-        [
-          "Te Invitamos A Darle \"Me Gusta\" A Nuestro Perfil De Nostra Morte http://www.facebook.com/nostramorte Apoyanos Mostrandole A Tus Amigos Nuestra Musica Y Pasando El Link NOSTRA MORTE Nostra Morte es un grupo de rock sinf\u00f3nico procedente de M\u00e9xico, conocido por sus r\u00edtmicas \u00fanicas, orquestaciones y la uni\u00f3n perfecta de voces l\u00edricas. ",
-          1340133356
-        ],
-        [
-          "Nightwish @ Costa de Fuego 2012\nKitee, Finlandia, 1996. Tuomas Holopainen comienza a pensar en formar un proyecto en solitario que tenga como punto de partida la creaci\u00f3n de atm\u00f3sferas. El guitarrista Erno \u2018Emppu\u2019 Vuorinen y la vocalista Tarja Turunen se unen a su idea y en unos meses ya tienen las primeras demos grabadas. Las guitarras ac\u00fasticas se tornan el\u00e9ctricas, entra Jukka Nevalainen a la bater\u00eda y \u2018Angels Fall First\u2019 (Spinefarm Records, 1997) se planta como su esperanzador debut. \u2018Oceanborn\u2019 (1998),  Wishmaster (2000) y Century Child (2002) les convierte en l\u00edderes de ventas en Finlandia (Discos de Platino y de Oro) y su \u00e9xito traspasa fronteras. Europa y Am\u00e9rica (del Norte y del Sur) se rinden a su sonido y comienzan a girar por todo el planeta en conciertos m\u00edticos inmortalizados en DVD. Tras tantos meses de convivencia, Tuomas se replantea la continuidad de la banda y decide cambiar la formaci\u00f3n dando entrada al bajista y vocalista Marco Hietala en lugar de Sami V\u00e4nsk\u00e4. \u2018Once\u2019 (2004) supuso un cambio de direcci\u00f3n conceptual, hacia un sonido m\u00e1s sinf\u00f3nico (con la Filarm\u00f3nica de Londres inclusive), transformando su \u00e9xito en consagraci\u00f3n con m\u00e1s de 130 conciertos en todo el mundo. Tarja Turunen es invitada a abandonar la nave y en su lugar llega la sueca Anette Olzon, tras un exhaustivo casting vocal internacional. \u2018Dark Passion Play\u2019 (2007) e \u2018Imaginaerum\u2019 (2011), que a\u00f1adir\u00eda una producci\u00f3n paralela de una pel\u00edcula hom\u00f3nima dirigida por Stobe Harju (responsable de su exitoso videoclip \u2018The Islander\u2019), son sus \u00faltimos trabajos. Siempre por delante, siempre innovando, siempre bienvenidos.\n+++\nPicture this; Kitee, Finland, 1996, Tuomas Holopainen imagines a solo project where the starting point will be creating atmospheres. Guitarist Erno 'Emppu' Vuorinen and vocalist Tarja Turunen join him and in a few months they record their first demos. Acoustic guitars become electric, Jukka Nevalainen comes in at the drums and 'Angels Fall First' (Spinefarm Records, 1997) is their hopeful debut. 'Oceanborn' (1998), Wishmaster (2000) and Century Child (2002) put them at the top of the sales charts in Finland (platinum and gold albums) and their success crosses borders. Europe and America (both North and South) surrender to their sound and they begin to tour the planet giving mythical performances immortalised on DVD. After many months on the road together, Tuomas questions the band's existe\u00acnce and decides to make changes in the line up, introducing bassist and vocalist Marco Hietala instead of Sami V\u00e4nsk\u00e4. 'Once' (2004) was a conceptual change towards a more symphonic sound (London Philharmonic included) which transformed their success into a worldwide phenomenon and brought along over 130 concerts. Tarja Turunen was invited to abandon ship and was replaced by Swedish Anette Olzon after an exhaustive international casting for a new vocalist. 'Dark Passion Play' (2007) and 'Imaginaerum' (2011) \u2013which includes the parallel production of a homonymous film directed by Stobe Harju (responsible for their acclaimed video 'The Islander')- are their latest works. Nightwish are always avant-garde, always innovating, always welcome.\n Nightwish - Storytime Nightwish's new single STORYTIME is available starting November 9th, 2011. It is the first single of the upcoming album IMAGINAERUM. Be sure to check http://...",
-          1332416520
-        ]
-      ],
-      "dates_start": 1359738073,
-      "dates_end": 1471321762,
-      "likes_avg": 437,
-      "likes_stdev": 1339,
-      "comments_avg": 12,
-      "comments_stdev": 25,
-      "shares_avg": 52,
-      "shares_stdev": 151
-    },
-    {
-      "number": 12,
-      "important": [
-        "photo",
-        "soon timelin",
         "actual",
+        "come",
+        "photo",
+        "see soon",
+        "see",
+        "soon timelin",
         "left",
         "timelin",
-        "come",
-        "soon",
-        "see soon",
         "timelin photo",
-        "see"
+        "soon"
       ],
       "common": [
         "photos",
@@ -901,18 +816,103 @@
       "shares_stdev": 633
     },
     {
+      "number": 12,
+      "important": [
+        "es",
+        "la",
+        "digit",
+        "los",
+        "black",
+        "record",
+        "metal",
+        "de",
+        "rock",
+        "el"
+      ],
+      "common": [
+        "banda",
+        "com",
+        "de",
+        "el",
+        "en",
+        "http",
+        "la",
+        "nightwish",
+        "que",
+        "su"
+      ],
+      "messages": [
+        [
+          "MOONSPELL (Moonspellofficialband) es la banda m\u00e1s importante de metal procedente de Portugal. Una perfecta y singular mezcla entre metal/rock g\u00f3tico y las vertientes m\u00e1s extremas del metal (death, doom, black) han convertido a esta banda en toda una leyenda del g\u00e9nero a lo largo de sus 25 a\u00f1os de carrera al mando del influyente Fernando Ribeiro. Una banda obligada a pertenecer a tu colecci\u00f3n musical, una de las m\u00e1s grandes del mundo que incluso ha participado en el famoso Rock in R\u00edo en Brasil del 2015, el mismo en el que particip\u00f3 Nightwish. Moonspell estar\u00e1 realizando una nueva gira por Latinoam\u00e9rica este 2017 para celebrar los 20 a\u00f1os de su \u00e1lbum m\u00e1s influyente \"Irreligious\" y promocionar su \u00faltimo disco \"Extinct\". MOONSPELL - Extinct (Official Video) | Napalm Records Order \"Extinct\" now: http://shop.napalmrecords.com US customers: http://www.napalmrecordsamerica.com/store/moonspell Digital: http://smarturl.it/ExtinctDL EM...",
+          1486313837
+        ],
+        [
+          "Ya s\u00e9 que ha pasado algo de tiempo pero el flujo de trabajo nos impide hacer todo los que nos gustar\u00eda, como por ejemplo compartir con vosotros este precioso v\u00eddeo de la actuaci\u00f3n que organizamos durante la Semana del arte de Marina d'Or - Holiday resort 2016. Estad atentos porque muy pronto os presentaremos otro proyecto muy diferente, como a nosotros nos gusta. Disfrutad la puesta en escena de este homenaje a la obra de Maricarmen Lopez Olivares. \n\nMusas y \u00e1ngeles de Georgi:\n\u00c1ngela Mart\u00ednez Legan\u00e9s- bailarina de ballet cl\u00e1sico y jazz\nVanessa Campos\nLucia Ion\nNataliya Kalchuk\nRaluca Bradau\nJessiica Paulano Delgado\nAtrezzo y tocados: Georgialis Couture\n\nSoundtrack and inspiring music by the awesome group Nightwish. I hope you don't mind us using your song as a background for our performance during an important art fair in our city. Triunfo del arte",
+          1485449035
+        ],
+        [
+          "Nightwish acaban de publicar \"Vehicle Of Spirit\", su nuevo directo con los conciertos en Wembley y Tampere. Tuvimos la oportunidad de hablar con Troy Donockley sobre este lanzamiento, sobre el \u00faltimo concierto de la banda en Madrid, y por supuesto tambi\u00e9n sobre la batalla entre los fans de Tarja Turunen y la nueva etapa de la banda con Floor Jansen. Pasen y lean!\n\n[entrevista] Nightwish: \"Algunos fans piensan que Tarja es inocente y pura, que todo fue culpa de la banda. No fue as\u00ed\" [entrevista] Nightwish: \"Algunos fans piensan que Tarja es inocente y pura, que todo fue culpa de la banda. No fue as\u00ed\" - GoetiaMedia [entrevista] Nightwish editan ahora un nuevo dvd en directo titulado \"Vehicle Of Spirit\", justo en el a\u00f1o sab\u00e1tico que se toman de manera forzada debido al embarazo de Floor Jansen. Hablamos con Troy Donockley, quien en este 2017 cumple 10 a\u00f1os con la banda y est\u00e1 especialmente emocionado por el lan...",
+          1485273217
+        ],
+        [
+          "Slayer, Nightwish, Apocalyptica, Saxon en 18 andere nieuwe namen voor Graspop http://newsmonkey.be/article/61916 Slayer, Nightwish, Apocalyptica, Saxon en 18 andere nieuwe namen voor Graspop Vlak voor de kerstvakantie doen ze in Dessel alvast een pakje open. Daarin 22 nieuwe namen. Nightwish, Slayer, Apocalyptica, Saxon, Anthrax maar ook onder meer Tremonti zijn daarbij.",
+          1450423612
+        ],
+        [
+          "Concert photos from Bucharest Poze concert Nightwish la Bucure\u0219ti 2015 Vezi galeria de poze de concertul Nightwish de la Romexpo Bucuresti de pe 10 decembrie 2015 - Fotografii cu noua solist\u0103, Floor Jansen.",
+          1449783625
+        ],
+        [
+          "Nightwish: ingressos quase esgotados para show em SP Nightwish: ingressos quase esgotados para show em SP Os ingressos para apresenta\u00e7\u00e3o da banda Nighwtish em S\u00e3o Paulo est\u00e3o pr\u00f3ximos do fim. De acordo com informa\u00e7\u00f5es da Ingresso R\u00e1pido, esgotaram-se ingressos para setores camarote, frisa e cadeira alta, assim como o 1\u00ba lote de pista, restando apenas o 2\u00ba lote de pista normal (R$ 240,00 inteira, R$ 120,\u2026",
+          1433086862
+        ],
+        [
+          "This world is great. The injustice of political and religious regimes is the greatest shame we human beings have imposed on it and ourselves. After that has been said, me and my mate Tuomas Holopainen are simply grateful that my voice and his song were requested to be used and heard in this context.\n\nThank you Amnesty International\nMarco Hietala. Bassplayer and co-vocalist of Nightwish.\n\nhttps://www.youtube.com/watch?v=HjqiX1cXYaE&feature=youtu.be La campagne bougies 2014 d\u2019Amnesty International Luxembourg Ensemble, soutenons les victimes de torture ! Du 4 novembre au 13 d\u00e9cembre, participez \u00e0 la campagne bougies d\u2019Amnesty International Luxembourg. Pour plus in...",
+          1415101207
+        ],
+        [
+          "http://www.youtube.com/watch?v=luWMxUNnlXc&hd=1 J.CA.L - Desistir Jamais Primeira musica de trabalho da Banda J.CA.L. Formada Pelos Integrantes. Vocal: Neno Guitarra: Lukaz Santoz Baixo: Saile Gomes Bateria: Anderson Santos Espero...",
+          1394314290
+        ],
+        [
+          "Ya pas\u00f3 un mes (y un d\u00eda) de los shows de Nightwish en Buenos Aires!!! Que r\u00e1pido pasa el tiempo! Nightwish - I Want My Tears Back - Teatro de Flores [14/12/12] [HD] Video exclusivo de www.nwmproductions.com.ar",
+          1358375406
+        ],
+        [
+          "Fotos de Nightwish en Argentina!!! @ignacio cangelo!\nhttp://www.facebook.com/media/set/?set=a.10151146679842111.441279.178713952110&type=1&notif_t=like NWM Productions http://www.facebook.com/Ignacio.Cangelo :: http://www.IgnacioCangelo.com/",
+          1355688048
+        ],
+        [
+          "Te Invitamos A Darle \"Me Gusta\" A Nuestro Perfil De Nostra Morte http://www.facebook.com/nostramorte Apoyanos Mostrandole A Tus Amigos Nuestra Musica Y Pasando El Link NOSTRA MORTE Nostra Morte es un grupo de rock sinf\u00f3nico procedente de M\u00e9xico, conocido por sus r\u00edtmicas \u00fanicas, orquestaciones y la uni\u00f3n perfecta de voces l\u00edricas. ",
+          1340133356
+        ],
+        [
+          "Nightwish @ Costa de Fuego 2012\nKitee, Finlandia, 1996. Tuomas Holopainen comienza a pensar en formar un proyecto en solitario que tenga como punto de partida la creaci\u00f3n de atm\u00f3sferas. El guitarrista Erno \u2018Emppu\u2019 Vuorinen y la vocalista Tarja Turunen se unen a su idea y en unos meses ya tienen las primeras demos grabadas. Las guitarras ac\u00fasticas se tornan el\u00e9ctricas, entra Jukka Nevalainen a la bater\u00eda y \u2018Angels Fall First\u2019 (Spinefarm Records, 1997) se planta como su esperanzador debut. \u2018Oceanborn\u2019 (1998),  Wishmaster (2000) y Century Child (2002) les convierte en l\u00edderes de ventas en Finlandia (Discos de Platino y de Oro) y su \u00e9xito traspasa fronteras. Europa y Am\u00e9rica (del Norte y del Sur) se rinden a su sonido y comienzan a girar por todo el planeta en conciertos m\u00edticos inmortalizados en DVD. Tras tantos meses de convivencia, Tuomas se replantea la continuidad de la banda y decide cambiar la formaci\u00f3n dando entrada al bajista y vocalista Marco Hietala en lugar de Sami V\u00e4nsk\u00e4. \u2018Once\u2019 (2004) supuso un cambio de direcci\u00f3n conceptual, hacia un sonido m\u00e1s sinf\u00f3nico (con la Filarm\u00f3nica de Londres inclusive), transformando su \u00e9xito en consagraci\u00f3n con m\u00e1s de 130 conciertos en todo el mundo. Tarja Turunen es invitada a abandonar la nave y en su lugar llega la sueca Anette Olzon, tras un exhaustivo casting vocal internacional. \u2018Dark Passion Play\u2019 (2007) e \u2018Imaginaerum\u2019 (2011), que a\u00f1adir\u00eda una producci\u00f3n paralela de una pel\u00edcula hom\u00f3nima dirigida por Stobe Harju (responsable de su exitoso videoclip \u2018The Islander\u2019), son sus \u00faltimos trabajos. Siempre por delante, siempre innovando, siempre bienvenidos.\n+++\nPicture this; Kitee, Finland, 1996, Tuomas Holopainen imagines a solo project where the starting point will be creating atmospheres. Guitarist Erno 'Emppu' Vuorinen and vocalist Tarja Turunen join him and in a few months they record their first demos. Acoustic guitars become electric, Jukka Nevalainen comes in at the drums and 'Angels Fall First' (Spinefarm Records, 1997) is their hopeful debut. 'Oceanborn' (1998), Wishmaster (2000) and Century Child (2002) put them at the top of the sales charts in Finland (platinum and gold albums) and their success crosses borders. Europe and America (both North and South) surrender to their sound and they begin to tour the planet giving mythical performances immortalised on DVD. After many months on the road together, Tuomas questions the band's existe\u00acnce and decides to make changes in the line up, introducing bassist and vocalist Marco Hietala instead of Sami V\u00e4nsk\u00e4. 'Once' (2004) was a conceptual change towards a more symphonic sound (London Philharmonic included) which transformed their success into a worldwide phenomenon and brought along over 130 concerts. Tarja Turunen was invited to abandon ship and was replaced by Swedish Anette Olzon after an exhaustive international casting for a new vocalist. 'Dark Passion Play' (2007) and 'Imaginaerum' (2011) \u2013which includes the parallel production of a homonymous film directed by Stobe Harju (responsible for their acclaimed video 'The Islander')- are their latest works. Nightwish are always avant-garde, always innovating, always welcome.\n Nightwish - Storytime Nightwish's new single STORYTIME is available starting November 9th, 2011. It is the first single of the upcoming album IMAGINAERUM. Be sure to check http://...",
+          1332416520
+        ]
+      ],
+      "dates_start": 1359738073,
+      "dates_end": 1471321762,
+      "likes_avg": 437,
+      "likes_stdev": 1339,
+      "comments_avg": 12,
+      "comments_stdev": 25,
+      "shares_avg": 52,
+      "shares_stdev": 151
+    },
+    {
       "number": 13,
       "important": [
-        "tomorrow",
-        "tour",
-        "date ticket",
-        "arctica",
-        "arctica delain",
-        "\u00e9lan",
-        "begin",
+        "cddvd",
         "delain",
         "tour edit",
-        "cddvd"
+        "begin",
+        "tour",
+        "arctica delain",
+        "date ticket",
+        "arctica",
+        "tomorrow",
+        "\u00e9lan"
       ],
       "common": [
         "arctica",
@@ -992,16 +992,16 @@
     {
       "number": 14,
       "important": [
-        "arena",
-        "de",
-        "vehicl",
         "wembley",
+        "spirit",
+        "vehicl",
+        "nightwish live",
+        "arena",
+        "full",
+        "de",
         "el",
         "live",
-        "dvd",
-        "full",
-        "spirit",
-        "nightwish live"
+        "dvd"
       ],
       "common": [
         "com",
@@ -1081,16 +1081,16 @@
     {
       "number": 15,
       "important": [
-        "photo",
-        "stage",
         "actual",
-        "pictur",
-        "thank",
         "come",
-        "timelin",
         "ever",
+        "isoaho",
+        "pictur",
+        "stage",
+        "timelin",
         "timelin photo",
-        "isoaho"
+        "thank",
+        "photo"
       ],
       "common": [
         "isoaho",
@@ -1170,16 +1170,16 @@
     {
       "number": 16,
       "important": [
+        "voic",
+        "citi",
         "pic",
-        "welcom",
         "anett",
         "nightwish",
-        "actual",
-        "love",
         "lake",
-        "citi",
         "thank",
-        "voic"
+        "welcom",
+        "love",
+        "actual"
       ],
       "common": [
         "12",
@@ -1259,16 +1259,16 @@
     {
       "number": 17,
       "important": [
-        "version",
-        "great",
-        "photo",
-        "nightwish",
         "actual",
         "studio",
-        "live",
-        "made",
         "cover",
-        "track"
+        "made",
+        "nightwish",
+        "version",
+        "great",
+        "live",
+        "track",
+        "photo"
       ],
       "common": [
         "contest",
@@ -1350,14 +1350,14 @@
       "important": [
         "ja",
         "perfect",
-        "kai",
-        "nightwish",
-        "song",
         "new",
-        "actual",
+        "song",
+        "five",
+        "nightwish",
         "facebook",
+        "kai",
         "live",
-        "five"
+        "actual"
       ],
       "common": [
         "barona",
@@ -1437,13 +1437,13 @@
     {
       "number": 19,
       "important": [
-        "co",
-        "photo",
-        "nightwish",
+        "spring",
         "actual",
         "timelin",
+        "nightwish",
         "timelin photo",
-        "spring"
+        "co",
+        "photo"
       ],
       "common": [
         "com",
@@ -1527,16 +1527,16 @@
     {
       "number": 20,
       "important": [
-        "score",
         "check",
-        "nightwish",
         "album",
         "video",
+        "like",
         "offici",
-        "actual",
-        "love",
         "ghost",
-        "like"
+        "nightwish",
+        "love",
+        "score",
+        "actual"
       ],
       "common": [
         "com",
@@ -1620,16 +1620,16 @@
     {
       "number": 21,
       "important": [
-        "arena",
         "wembley",
-        "live",
-        "award",
-        "top",
-        "vote",
-        "chanc",
-        "ticket",
         "win",
-        "take"
+        "chanc",
+        "arena",
+        "top",
+        "take",
+        "ticket",
+        "award",
+        "vote",
+        "live"
       ],
       "common": [
         "award",
@@ -1717,121 +1717,16 @@
     {
       "number": 22,
       "important": [
-        "photo",
-        "avail",
-        "new",
-        "actual",
-        "still",
-        "timelin",
-        "ticket avail",
-        "timelin photo",
-        "ticket",
-        "join"
-      ],
-      "common": [
-        "available",
-        "barona",
-        "last",
-        "nightwish",
-        "photos",
-        "show",
-        "tickets",
-        "timeline",
-        "timeline photos",
-        "www"
-      ],
-      "messages": [
-        [
-          "NEW JERSEY !!!\nLess than 200 tickets available ! Join the party :)\n\nTickets:\nhttp://www.axs.com/events/278436/nightwish-tickets?skin=starland&src=AEGLIVE_WSTAREWR030115VEN001 Timeline Photos",
-          1455632243
-        ],
-        [
-          "AMSTERDAM # 2 TONIGHT :) \nSome tickets still available at the door. Timeline Photos",
-          1448019600
-        ],
-        [
-          "\"The first show of our European Tour was a magical evening filled with the universal language of music, goodwill and love. Those things will never be silenced - despite the deeply shocking events in Paris.\nSo, in solidarity with France, Europe, and the rest of the good, sane people of our world, we have no intention of cancelling our shows in France or anywhere else for that matter. \nDefiance is vital in the face of such darkness.\"\n\nYours as ever,\n       Nightwish",
-          1447595032
-        ],
-        [
-          "PRAHA !!!\nTHE LAST 8 TICKETS AVAILABLE NOW AT:\nwww.ticketportal.cz. Timeline Photos",
-          1446789122
-        ],
-        [
-          "ESPOO !!! METRO (ex-BARONA) ARENA !!\nTHE LAST 100 TICKETS ARE ON SALE NOW !!!\n\nThe Schedule:\n18:30 doors open\n20:15 Beast In Black\n21:30 NIGHTWISH Timeline Photos",
-          1446450959
-        ],
-        [
-          "PRAGUE !!! PRAHA !!!\nABSOLUTELY THE LAST TICKETS AVAILABLE NOW !!!\n\nhttp://www.ticketpro.cz/jnp/en/hudba/rock/1563789-nightwish.html Timeline Photos",
-          1446355708
-        ],
-        [
-          "THE LAST 300 TICKETS ARE ON SALE NOW !!!\nIT IS GONNA BE A BLAST AT WEMBLEY :) Timeline Photos",
-          1446028472
-        ],
-        [
-          "THE LAST 400 TICKETS LAUNCHED FOR SALE RIGHT NOW !!! Timeline Photos",
-          1445523919
-        ],
-        [
-          "Our European tour will kick off at Barona (Metro) Areena in Espoo, Finland on the 13th of November 2015.\nThis will be our last Finnish show before the summer of 2016.\nSupport: BEAST IN BLACK\nLast 500 tickets on sale now !!! Timeline Photos",
-          1445321960
-        ],
-        [
-          "Still some tickets left for the first show of our European tour 2015. Now also support band added, BIB as a support only at Barona Arena though.\n\nhttp://www.lippupalvelu.fi/event/nightwish-lippuja/161623 Timeline Photos",
-          1441530376
-        ],
-        [
-          "Standing tickets for NIGHTWISH at Wembley are now sold out! Seated tickets are still available from www.livenation.co.uk Timeline Photos",
-          1439803978
-        ],
-        [
-          "Last 2000 tickets on sale now !!!\nDo not miss this magical event in the UK. Timeline Photos",
-          1437121301
-        ],
-        [
-          "Barona Areenan lipunmyynti alkaa huomenaamulla perjantaina 12.6.2015\n klo 09.00. \n\nThe ticket sales for Barona Arena in Espoo will start tomorrow \nmorning at 9 AM.\n\nhttp://www.lippupalvelu.fi/venue/barona-areena-espoo-lippuja/BAR/318 Timeline Photos",
-          1434022605
-        ],
-        [
-          "Nightwish announces an extra show in Finland! The band will start their European tour from Barona Arena Espoo November 13th. The ticket sales starts this Friday 12th of June in Lippupalvelu, http://www.lippupalvelu.fi/?language=en-us&languageSwitch=on. Timeline Photos",
-          1433737006
-        ],
-        [
-          "Joensuun 6.6.2015 keikan lippuja saa edelleen Tiketist\u00e4.\nJoensuu 6.6.2015 show tickets still available from Tiketti.\n\nhttps://www.tiketti.fi/Nightwish-Children-of-Bodom-Sonata-Arctica-Insomnium-tickets/28768 Timeline Photos",
-          1432574702
-        ],
-        [
-          "Some Vancouver tickets still available, but from this link only: \n\nhttps://www.ticketfly.com/purchase/event/812847\n\nThe show will be filmed. Timeline Photos",
-          1429550853
-        ],
-        [
-          "First those three FABULOUS shows in France on our previous European tour and now this! Foire aux Vins, Colmar, France, we love you! Thanks and good night! Sleep tight!!!",
-          1344201584
-        ]
-      ],
-      "dates_start": 1412467488,
-      "dates_end": 1460504208,
-      "likes_avg": 4703,
-      "likes_stdev": 4377,
-      "comments_avg": 115,
-      "comments_stdev": 160,
-      "shares_avg": 289,
-      "shares_stdev": 323
-    },
-    {
-      "number": 23,
-      "important": [
-        "arena",
-        "great",
-        "photo",
         "wembley",
         "actual",
-        "singapor",
         "tonight",
-        "thank",
+        "singapor",
+        "arena",
         "timelin",
-        "timelin photo"
+        "timelin photo",
+        "thank",
+        "great",
+        "photo"
       ],
       "common": [
         "bogota",
@@ -1929,18 +1824,18 @@
       "shares_stdev": 233
     },
     {
-      "number": 24,
+      "number": 23,
       "important": [
-        "back",
-        "interest",
-        "tarja",
-        "rock",
+        "recent",
         "talk",
-        "follow",
-        "vocalist",
-        "band",
         "current",
-        "recent"
+        "band",
+        "tarja",
+        "follow",
+        "back",
+        "vocalist",
+        "interest",
+        "rock"
       ],
       "common": [
         "band",
@@ -2038,18 +1933,18 @@
       "shares_stdev": 276
     },
     {
-      "number": 25,
+      "number": 24,
       "important": [
-        "gold",
-        "tuoma",
-        "tuoma holopainen",
-        "finland",
-        "great",
-        "album",
-        "realli",
-        "solo",
         "holopainen",
-        "week"
+        "album",
+        "gold",
+        "realli",
+        "tuoma holopainen",
+        "great",
+        "finland",
+        "week",
+        "solo",
+        "tuoma"
       ],
       "common": [
         "album",
@@ -2151,131 +2046,18 @@
       "shares_stdev": 306
     },
     {
-      "number": 26,
+      "number": 25,
       "important": [
-        "photo",
-        "im",
-        "rock",
-        "actual",
-        "germani",
-        "festiv",
-        "timelin",
-        "timelin photo",
-        "websit",
-        "ticket"
-      ],
-      "common": [
-        "festival",
-        "http",
-        "http www",
-        "nightwish",
-        "photos",
-        "show",
-        "timeline",
-        "timeline photos",
-        "trondheim",
-        "www"
-      ],
-      "messages": [
-        [
-          "GREENFIELD FESTIVAL, Interlaken, SWITZERLAND\n08.06. - 11.6. 2016 \n\nFestival website: www.greenfieldfestival.ch  \nwww.facebook.com/greenfieldfestival.ch\nHashtags for twitter and instagram: #GF2016\nTickets:  http://www.greenfieldfestival.ch/index.php?id=24 Timeline Photos",
-          1448715607
-        ],
-        [
-          "ROCKAVARIA FESTIVAL, M\u00fcnchen, GERMANY\n27.05 - 29.05.2016 \nFestival website: http://www.rockavaria.de Timeline Photos",
-          1448715268
-        ],
-        [
-          "ROCK IM REVIER, Gelsenkirchen, GERMANY\n26.05 - 28.05.2016 \nFestival website: http://www.rock-im-revier.de Timeline Photos",
-          1448715187
-        ],
-        [
-          "Nightwish- The Greatest Show on Earth\n\n6.32: gorillas come on stage :D\n\nhttps://www.youtube.com/watch?v=AScsyVZ70Ug Nightwish- The Greatest Show on Earth.(Sverresborg Arena, Trondheim, Norway 29/08/15) Nightwish-The Greatest Show on Earth (Sverresborg Arena, Trondheim,Norway 29/08/15)",
-          1441396979
-        ],
-        [
-          "THANK YOU TRONDHEIM ! \nIt was really a killer ending for our festival summer 2015 :) Timeline Photos",
-          1440943463
-        ],
-        [
-          "THIS SATURDAY !!! IN TRONDHEIM !!! ROCK & ROLL :) Timeline Photos",
-          1440477180
-        ],
-        [
-          "Our last European summer show for 2015 will be on the 29th of August in Trondheim, Norway ! It will be a blast :) Timeline Photos",
-          1440148849
-        ],
-        [
-          "THANK YOU SUMMER BREEZE :) \nIT WAS A MUTUAL PLEASURE :)\nNEXT: TRONDHEIM ! Timeline Photos",
-          1439709148
-        ],
-        [
-          "Kingdom of Hegyalja at Tokaj-Rakamaz is relocated, the NIGHTWISH show scheduled for July 15 at the Festival will now take place in Budapest at Pet\u00f6fi Music Garden.\n\nThe purchased tickets for this show will be valid for the new venue, for refund or ticket exchange please contact your ticketing service or place of purchase.\n\nDue to unexpected problems relating to land-lease the festival between 15-19 July will not go ahead at Tokaj-Rakamaz. \n\n\"We have not got the festival site at our hands in the format we previously agreed on with the local municipality, thus we made the hurtful decision not to go ahead with our event. We are working tirelessly on rearranging shows at selected venues, and will provide information in due course.\" said Peter Kovacs, one of the main organisers of the festival. Timeline Photos",
-          1435909448
-        ],
-        [
-          "More show dates are coming in and we can announce another festival! \nGet your tickets for: ROCK THE RING \u2013 Hinwil-Zurich, Switzerland\nNightwish will rock you on: 19th of June 2015\nTICKETS for this festival with amazing line-up: \nhttp://www.ticketcorner.ch/tickets.html?fun=erdetail&affiliate=GNP&doc=erdetaila&erid=1284720\n[1] Timeline Photos",
-          1415280704
-        ],
-        [
-          "People of Norway! Tickets for the Nightwish concert in Trondheim on August 29th are on sale NOW! \n\nGet yours at http://www.billettservice.no/event/440285 Timeline Photos",
-          1414130170
-        ],
-        [
-          "The sun is shining and festival season is about to begin! Good times! Which ones are you looking forward to the most? \n\nHere is a list of festivals that Nightwish will be playing at: http://www.nightwish.com/en/live\n\nHave a great weekend, everybody!",
-          1369988426
-        ],
-        [
-          "What do you say Adelaide, should we start this weekend by having some good time at the HQ Complex tonight?",
-          1358492378
-        ],
-        [
-          "Time for the movie premier preceeded by our full blown live show. After which, we will be having our very own wine festival featuring our very own wine!",
-          1352559259
-        ],
-        [
-          "Nightwish @ Trondheim, Borgg\u00e5rden. \r\nPhoto: Karianne Kaas",
-          1345981570
-        ],
-        [
-          "Trondheim, what was that!?!? Our last summer show (for this year) in a place like this, for a crowd like this! Huge thanks to you all! Hope to come back soon!",
-          1345925598
-        ],
-        [
-          "Cheers Montreux! Enjoy the rest of the festival AND the colossal views!!!",
-          1342121018
-        ],
-        [
-          "Kiitos Provinssirock! There's nothing that beats summer night on a festival of 20.000 Finns! Enjoy rest of the weekend!",
-          1339795774
-        ],
-        [
-          "Festival season starting in 20 minutes! Poland, show us love!!!",
-          1338668409
-        ]
-      ],
-      "dates_start": 1355384240,
-      "dates_end": 1445423594,
-      "likes_avg": 5260,
-      "likes_stdev": 5923,
-      "comments_avg": 152,
-      "comments_stdev": 104,
-      "shares_avg": 261,
-      "shares_stdev": 343
-    },
-    {
-      "number": 27,
-      "important": [
+        "citi",
         "ballroom",
-        "hall",
         "music hall",
         "theater",
-        "san",
         "ca",
-        "citi",
-        "factori",
+        "hall",
+        "theatr",
         "canada",
-        "theatr"
+        "factori",
+        "san"
       ],
       "common": [
         "04",
@@ -2385,18 +2167,18 @@
       "shares_stdev": 1105
     },
     {
-      "number": 28,
+      "number": 26,
       "important": [
-        "post",
-        "photo",
-        "montreal",
-        "nightwish",
-        "sold",
-        "actual",
-        "germani",
         "nightwish post",
+        "actual",
+        "photo",
+        "photo nightwish post",
+        "germani",
         "photo nightwish",
-        "photo nightwish post"
+        "montreal",
+        "sold",
+        "nightwish",
+        "post"
       ],
       "common": [
         "nightwish",
@@ -2522,171 +2304,18 @@
       "shares_stdev": 300
     },
     {
-      "number": 29,
-      "important": [
-        "tour",
-        "american tour",
-        "edit",
-        "februari",
-        "north american tour",
-        "begin",
-        "american",
-        "north",
-        "see",
-        "tour edit"
-      ],
-      "common": [
-        "available",
-        "com",
-        "enterthevault",
-        "enterthevault com",
-        "nightwish",
-        "north",
-        "tickets",
-        "tour",
-        "vip",
-        "vip tickets"
-      ],
-      "messages": [
-        [
-          "Endless Forms Most Beautiful, Tour Edition - http://nblast.de/NIGHTWISHFormsNB.\n\nNorth American tour begins February 19th. Which show will we see you at? Timeline Photos",
-          1453047986
-        ],
-        [
-          "Silver Spring show was a killer, here\u00b4s the review:\n\nhttp://bravewords.com/galleries/nightwish-sabaton-last-ride-of-the-tour NIGHTWISH / SABATON - Last Ride Of The Tour Final night of the North American tour was held at the Fillmore, in Silver Spring, Maryland, a suburb of Washington DC. As such, it was not your typical black shirted metalheads-only crowd, a new generation of Washington house wives amongst the soccer moms and sports jacket/blazer wearing dads...",
-          1431875724
-        ],
-        [
-          "ICYMI: Nightwish reveal the 17th episode of the #EndlessFormsMostBeautiful album trailers!\n\nWatch as the band rehearse and offer insight into those exciting days before the North American tour kick-off in New York City.\n\nRemaining Tour Dates: http://bit.ly/nightwish-on-tour\nAlbum available at: http://bit.ly/nightwish-efmb-retailers",
-          1430488801
-        ],
-        [
-          "Nightwish discuss the collaboration with ToxicAngel Official for the creation of the #EndlessFormsMostBeautiful artwork in the sixteenth album trailer!\n\nThe band successfully kicked off their world-tour yesterday evening in New York City! Full list of dates and tickets available at http://bit.ly/nightwish-on-tour.\n\nWorldwide Chart Entries for 'Endless Forms Most Beautiful'\nFinland: #1\nCzech Republic: #1\nGermany: #2\nSwitzerland: #2\nNetherlands: #3\nAustria: #4\nSweden: #4\nMexico: #6\nGreece: #9\nFrance: #10\nPoland: #10\nUK: #12\nSpain: #13\nCanada: #13\nBelgium: #14\nAustralia: #16\nItaly: #18\nIreland: #21\nNew Zealand #32\nUSA: #34",
-          1428687276
-        ],
-        [
-          "Nightwish North American Tour with Sabaton and Delain begins this Thursday in New York City! Which show will you be attending?!\n\nEurope, you're next! World tour dates and tickets available at http://bit.ly/nightwish-on-tour.\n\n#EndlessFormsMostBeautiful is out now worldwide and available at http://bit.ly/nightwish-efmb-retailers.",
-          1428335490
-        ],
-        [
-          "Are you ready for the greatest show on earth?!\n\nNightwish world tour dates and tickets available at http://bit.ly/nightwish-on-tour.\n\nBrand new album #EndlessFormsMostBeautiful is OUT NOW worldwide and available at http://bit.ly/nightwish-efmb-retailers.",
-          1428247800
-        ],
-        [
-          "THE WAIT IS OVER!\n\n#EndlessFormsMostBeautiful is OUT TODAY in Europe. Share your thoughts about the new album with Nightwish in the comments below.\n\nUnited Kingdom, you're next this Monday, March 30th!\nNorth America + Rest of World, that's this Tuesday, March 31st for you!",
-          1427474027
-        ],
-        [
-          "Did you miss it? The 14th \"making of\" album trailer is available below!\n\nIn this episode, Nightwish share their thoughts and feelings about the brand new album, #EndlessFormsMostBeautiful.\n\nAlbum release is only a week away...let the countdown begin!!",
-          1426864463
-        ],
-        [
-          "Dear North American fans,\n\ntickets to our shows are running out in various cities! We are very exited so many of you want to come out and rock with us and for those who cannot make it to the 2015 tour we have good news :-) \nWe would like to announce a 2nd show in Canada for February 22, 2016! This show will take place in London, Ontario at the London Music Hall.\nThere will be VIP tickets available for this show which will include a meet/greet and a tour program :-)\nTickets go onsale today exclusively through Enterthevault.com and then the regular onsale begins March 21, 2015.\n\nSee you in March or April this year, or next year in 2016! Timeline Photos",
-          1424942028
-        ],
-        [
-          "North American fans!\nApril and May are finally closing in and that means we are almost leaving to rock you again! Our new album 'Endless Forms Most Beautiful' is almost there\u2026.so many almost but not yet situations! \nThis also involves the ticket sales and VIP tickets. Some shows are almost sold out. Quebec City already is (therefore we have already announced a show in Montreal in 2016, on Floor's birthday).\nThe VIP tickets in NYC, Toronto and Vancouver are sold out. But almost gone but not all yet are the VIP tickets in Philadelphia, Cleveland , Denver , Worcester , Chicago , Clive , Houston , Dallas, SIlver Springs!\nAlmost is there in a jiffy so get your tickets before you're almost too late! Timeline Photos",
-          1422538220
-        ],
-        [
-          "Great news for our fans in Canada! \nDue to the overwhelming demand of the sold out Quebec City show we have added a Montreal date on February 21 in 2016\u2026.!!! \n\nTickets are exclusively on sale through Enterthevault.com. (On January 23 they become available everywhere)\nThe VIP meet / greets tickets are also available exclusively through Enterthevault.com.....and are limited to 100 for the show.\n\nFor the upcoming North American tour in April - May 2015 there are some spots left for the VIP meets but they are getting close to sell out. Get your tickets fast!",
-          1418412028
-        ],
-        [
-          "We are excited to announce that our very special guest on our North American tour in 2015 is Sabaton!!! This upcoming and award winning Swedish band will surely rock you off your socks and we are glad they team up with us and the Dutch metal heads from Delain. This promises to become a tour you don't want to miss! \n\nThe Nightwish VIP are sold exclusively on www.enterthevault.com \nGo to http://www.nightwish.com/en/live for all info and links to ticket sale points or check out the tour dates on this Facebook page. Timeline Photos",
-          1415531293
-        ],
-        [
-          "The tickets for our shows in America and Canada are on sale today! We can't wait to rock with you in 2015!!!\nThe VIP are sold exclusively on www.enterthevault.com (the VIP tickets for LA are sold out and almost sold out is Quebed City, NYC and Vancouver. \n\nGo to http://www.nightwish.com/en/live for all info and links to ticket sale points! Timeline Photos",
-          1413039190
-        ],
-        [
-          "Tomorrow is the big day for our North American tour! The tickets will be on sale everywhere! \nVIP will be sold exclusively on www.enterthevault.com (the VIP tickets for LA are sold out and almost sold out is Quebed City, NYC and Vancouver. \nGo to http://www.nightwish.com/en/live for all info and links to ticket sale points! Timeline Photos",
-          1412949703
-        ],
-        [
-          "We're happy to announce the first confirmed Nightwish concert in Canada in 2015! Nightwish will be playing Le Capitole in Qu\u00e9bec City on April 13th. \n\nTickets are already available through  http://www.enterthevault.com/moreInfo.php?id=6370",
-          1410704724
-        ],
-        [
-          "Quebec City / April 13 2015\n\ntickets on sale now ; www.enterthevault.com",
-          1410615765
-        ],
-        [
-          "THE FIRST SHOW OF THE NEXT NIGHTWISH WORLD TOUR ANNOUNCED\n\nNIGHTWISH\n@ The Greek Theater\nLos Angeles, CA\n1st of May 2015\n\nVIP and Meet&Greet tickets are exclusively on sale through www.Enterthevault.com\nstarting on the 9th of September 2014.\n\nThe rest of the tickets will go onsale through Ticketmaster on the 12th of September 2014.\n www.enterthevault.com",
-          1410191890
-        ],
-        [
-          "Gooood morning, Canada! Imaginaerum will have its North American premiere on August 4th at the Fantasia Film Festival in Montreal. If you are in the area, don't miss your opportunity to watch the movie on the big screen!\n\nhttp://www.fantasiafestival.com/2013/en/films-schedule/54/imaginaerum Imaginaerum - Sympatico & Ubisoft Present Fantasia 2013 Since its inception in 1996, FanTasia has been an event hell-bent on showcasing the most exciting, innovative and individualistic examples of contemporary international genre cinema, with an emphasis on unveiling films very rarely seen in North America",
-          1373436255
-        ],
-        [
-          "Some North American tour merch leftovers available at nightwishusa.com! Click here to enter!",
-          1360217377
-        ],
-        [
-          "Hi everyone!\n\nWe've settled down here in Florida for a while to have our vacation. This is what we wanted to tell you after North American tour:\nThank you! Good times, intense shows and lots of laughter and love. They'll keep us going for a long time, and there's even more to come. Let's recharge and bring our particular heaven and hell to UK soon!\n\nCheerio!",
-          1350413788
-        ],
-        [
-          "Dear people and fans!\n\nAs a way to thank you for sticking with Nightwish, we've decided to add more VIP meet & greet occasions for the rest of the US tour.\n\nThis means that for every tour date till the end of the US tour there will be a limited amount of VIP tickets available. This also applies to the already earlier sold out meet & greet events, which now have additional VIP tickets on sale\n\nPeople with normal tickets have now a possibility to upgrade to VIP tickets.\n\nAs said: We're grateful for the faith you've shown to us. We're grateful for the two brilliant shows with Floor at the helm already. And we're grateful for the chance to continue this tour for us all! Thank You!\n\nHere's the list for the new and upgradeable venues with VIP meet & greet tickets:  \nthis offer only lasts while the tickets are available ...\n\nOct 3, San Francisco, CA, The Warfield - VIP tickets are now onsale through the Warfield box office. The upgrades for tonight are available all day at the box office for the people who already bought regular tickets.\n\nOct 5, Anaheim, CA, The Grove - VIP tickets are now  back  onsale through Enterthevault.com. Later today the upgrades will be available at the Grove box office for the people who already bought regular tickets.\n\nOct 6, San Diego, CA, House of Blues - VIP tickets are now onsale through Enterthevault.com. Later today the upgrades will be available at the House of Bues box office for the people who already bought regular tickets.\n\nOct 7, Tempe, AZ, Marquee Theater - VIP tickets are now onsale through Enterthevault.com. Later today the upgrades will be available at the Marquee box office for the people who already bought regular tickets.\n\nOct 9, Ok City, OK, Diamond Ballroom - VIP tickets are now onsale through Enterthevault.com. Later today the upgrades will be available at the venue box office for the people who already bought regular tickets.\n\nOct 10, Austin, TX, Emos - VIP tickets are now onsale through Enterthevault.com. On the showday the upgrades will be available at the venue box office for the people who already bought regular tickets.\n\nOct 11, New Orleans, LA, House of Blues - VIP tickets are now onsale through Enterthevault.com. Later on the upgrades will be available at the venue box office for the people who already bought regular tickets.\n\nOct 13, Ft Lauderdale, FL, Revolution - VIP tickets are now onsale through Enterthevault.com. Later on the upgrades will be available at the venue box office for the people who already bought regular tickets.\n\nOct 14, Lake Buena Vista, FL, House of Blues - VIP tickets are now onsale through Enterthevault.com. Later on the upgrades will be available at the venue box office for the people who already bought regular tickets.",
-          1349296468
-        ],
-        [
-          "Update:\nColumbus Ohio at the Newport Music Hall has only 38 tickets left for Sept 21st show ! Denver at the Ogden on Sept 28th and Seattle at the Showbox on Oct 1st have under 200 tickets left each. Selling fast. All tickets on www.Enterthevault.com have a 4.99$ service charge.",
-          1348074001
-        ],
-        [
-          "The North American tour has officially started! Atlanta just earned an award for \"the best start of the tour of all times\"! Timeline Photos",
-          1347499480
-        ],
-        [
-          "Update:\nLess than 100 tickets are left for Sept 12 in Atlanta, less than 175 for Nyc on Sept 15 (buy your tickets now as this will sell out by the weekend) and under 200 tickets in Columbus on Sept 21 - Denver on Sept 28 and Seattle on Oct 1....\n\nwww.Enterthevault.com is running fan appreciation specials in Montreal for Sept 19 -where you can buy 25$ tickets this week only with a 2.99$ service charge. Chicago for the same 20$ promotion from last week, with the 4.99$ service charge... and the rest of the tour, all tickets carry the 4.99$ service charge.",
-          1347302900
-        ],
-        [
-          "Atlanta 2nd show is sold out! Many others expected to sellout soon (1st Atlanta show, NYC, Columbus...).\n\nAlso, for Chicago on Sept 24, there is a special promotion to run on Enterthevault.com that will sell 100 General Admission tickets for only 20$. This is to our fans only and designed to get the less financially fortunate a chance at tickets for the biggest venue on the tour..\n\nStill running is the 4.99$ service charge for all tickets, onsale now...",
-          1346861748
-        ],
-        [
-          "The North American tour is drawing near!\n\nSoon it's finally time to head to North America to carry out our colossal 25 show tour! Our special shows last January at the Gibson Amphitheater and on 70000 Tons Of Metal Cruise were nothing short of perfect and it's a great pleasure to get to play there again for a complete tour. See you all soon!!!\n\nSome important information from the promoter:\nThe 2nd show in Atlanta (Sep 13th) is already nearly sold out. If you did not get your ticket yet, act fast! The 1st show on Sep 12th still has some tickets left, but is to be sold out in advance as well, so don't miss it! These two shows will have slightly different setlists.\n\nThanks to your fantastic response enterthevault.com is again offering a reduced service charge for the North American tour tickets. Find your closest city and get into it @ http://www.enterthevault.com/. The Vault, Fan Club & VIP Tickets The Vault. Fan club VIP Tickets",
-          1345209749
-        ],
-        [
-          "Due to overwhelming response on the reduced service charge for the North American tour, the special has been extended through Sunday... Buy your tickets now as they wont last forever and the amount of unsold tickets is getting smaller each day.\n\nhttp://www.enterthevault.com/ The Vault, Fan Club & VIP Tickets The Vault. Fan club VIP Tickets",
-          1343989707
-        ],
-        [
-          "A special 2 day promotion will begin on http://www.enterthevault.com on the Nightwish / Kamelot  North America tour. On Wednesday Aug 1 and Thursday Aug 2, all tickets for all shows on the Nightwish / Kamelot tour in North America onsale through Enterthevault.com will have a reduced service charge of only 4.99$ per ticket for all tickets for the tour. The following cities will participate: Atlanta, Philly, Worcester, Montreal, Toront, Columbus, Royal Oak, Chicago, Sauget, Kansas City, Denver, Salt Lake City, Seattle , Portland, San Francisco, Anaheim, San Diego, Tempe, Ok City, Austin, New Orleans, Ft Lauderdale, Lake Buena Vists.\n\nAdditionally, the following venues have also agreed to participate in the Aug 1 and Aug 2 promotion\nWorcester, Sauget, Kansas City through http://www.ticketmaster.com/ and Portland through http://www.cascadetickets.com/apps/calendar/ and Austin through http://www.ticketfly.com/. The Vault, Fan Club & VIP Tickets The Vault. Fan club VIP Tickets",
-          1343837745
-        ],
-        [
-          "Tickets to the Imaginaerum North American Tour 2012 are now on presale!\n\nPrepare your voices for screaming and your heads for dreaming! We are bringing Imaginaerum over to North America! This will be the one and only North American leg during the Imaginaerum World Tour, so make sure you`ll be there!\n\nClick here to get to the exlcusive presale page: http://www.facebook.com/nightwish/app_103890722979364\n\nPlease spread the word by sharing the post on your Facebook wall! Timeline Photos",
-          1334933362
-        ]
-      ],
-      "dates_start": 1354829139,
-      "dates_end": 1430344583,
-      "likes_avg": 3888,
-      "likes_stdev": 2822,
-      "comments_avg": 258,
-      "comments_stdev": 228,
-      "shares_avg": 357,
-      "shares_stdev": 384
-    },
-    {
-      "number": 30,
+      "number": 27,
       "important": [
         "check",
-        "complet",
-        "avail",
-        "nightwish",
-        "enjoy",
-        "year",
-        "celebr",
-        "releas",
         "imaginaerum",
-        "three"
+        "complet",
+        "releas",
+        "avail",
+        "three",
+        "enjoy",
+        "nightwish",
+        "celebr",
+        "year"
       ],
       "common": [
         "com",
@@ -2828,18 +2457,18 @@
       "shares_stdev": 968
     },
     {
-      "number": 31,
+      "number": 28,
       "important": [
-        "shop",
-        "ship worldwid",
-        "ship",
-        "worldwid",
-        "titl",
         "item",
+        "titl",
+        "shop",
+        "ship",
         "select",
+        "worldwid",
+        "usa",
         "uk",
         "sale",
-        "usa"
+        "ship worldwid"
       ],
       "common": [
         "bit ly",
@@ -2985,18 +2614,18 @@
       "shares_stdev": 407
     },
     {
-      "number": 32,
+      "number": 29,
       "important": [
+        "new",
+        "stock",
+        "nuclear blast",
         "get",
         "shop",
         "blast",
-        "nightwish shop",
         "nightwish",
-        "new",
         "year",
-        "nuclear blast",
-        "soon",
-        "stock"
+        "nightwish shop",
+        "soon"
       ],
       "common": [
         "bit",
@@ -3142,18 +2771,18 @@
       "shares_stdev": 2666
     },
     {
-      "number": 33,
+      "number": 30,
       "important": [
-        "tuoma holopainen",
-        "tuoma",
-        "tell",
-        "holopainen",
         "stori",
+        "holopainen",
+        "forward",
         "dont",
+        "tuoma holopainen",
+        "interview",
         "theatr",
         "factori",
-        "interview",
-        "forward"
+        "tuoma",
+        "tell"
       ],
       "common": [
         "band",
@@ -3307,18 +2936,18 @@
       "shares_stdev": 337
     },
     {
-      "number": 34,
+      "number": 31,
       "important": [
-        "ship worldwid",
-        "endless form",
         "beauti",
-        "exclus",
         "press",
-        "endless form beauti",
+        "exclus",
         "form",
-        "piec",
+        "ship worldwid",
         "endless",
-        "vinyl"
+        "piec",
+        "endless form beauti",
+        "vinyl",
+        "endless form"
       ],
       "common": [
         "album",
@@ -3484,18 +3113,18 @@
       "shares_stdev": 3613
     },
     {
-      "number": 35,
+      "number": 32,
       "important": [
-        "great",
-        "photo",
-        "night",
         "wembley",
         "actual",
-        "next",
+        "night",
         "timelin",
-        "thank",
         "timelin photo",
-        "rememb"
+        "rememb",
+        "thank",
+        "great",
+        "next",
+        "photo"
       ],
       "common": [
         "great",
@@ -3661,18 +3290,18 @@
       "shares_stdev": 619
     },
     {
-      "number": 36,
+      "number": 33,
       "important": [
-        "offici nightwish shop",
-        "final",
         "life",
-        "shop",
-        "nightwish shop",
+        "final",
+        "stock",
         "beauti",
-        "offici nightwish",
+        "shop",
+        "offici nightwish shop",
         "order",
         "tshirt",
-        "stock"
+        "offici nightwish",
+        "nightwish shop"
       ],
       "common": [
         "com",
@@ -3870,30 +3499,251 @@
       "shares_stdev": 523
     },
     {
-      "number": 37,
+      "number": 34,
       "important": [
-        "photo",
-        "sweden",
         "actual",
-        "singapor",
-        "info",
+        "new",
+        "avail",
+        "tour",
         "timelin",
-        "presal",
-        "timelin photo",
         "ticket",
-        "current"
+        "timelin photo",
+        "ticket avail",
+        "join",
+        "photo"
       ],
       "common": [
-        "day",
-        "may",
-        "mexico",
+        "available",
+        "com",
+        "enterthevault",
+        "enterthevault com",
+        "http",
+        "nightwish",
+        "tickets",
+        "tour",
+        "vip",
+        "www"
+      ],
+      "messages": [
+        [
+          "NEW JERSEY !!!\nLess than 200 tickets available ! Join the party :)\n\nTickets:\nhttp://www.axs.com/events/278436/nightwish-tickets?skin=starland&src=AEGLIVE_WSTAREWR030115VEN001 Timeline Photos",
+          1455632243
+        ],
+        [
+          "Endless Forms Most Beautiful, Tour Edition - http://nblast.de/NIGHTWISHFormsNB.\n\nNorth American tour begins February 19th. Which show will we see you at? Timeline Photos",
+          1453047986
+        ],
+        [
+          "AMSTERDAM # 2 TONIGHT :) \nSome tickets still available at the door. Timeline Photos",
+          1448019600
+        ],
+        [
+          "\"The first show of our European Tour was a magical evening filled with the universal language of music, goodwill and love. Those things will never be silenced - despite the deeply shocking events in Paris.\nSo, in solidarity with France, Europe, and the rest of the good, sane people of our world, we have no intention of cancelling our shows in France or anywhere else for that matter. \nDefiance is vital in the face of such darkness.\"\n\nYours as ever,\n       Nightwish",
+          1447595032
+        ],
+        [
+          "PRAHA !!!\nTHE LAST 8 TICKETS AVAILABLE NOW AT:\nwww.ticketportal.cz. Timeline Photos",
+          1446789122
+        ],
+        [
+          "ESPOO !!! METRO (ex-BARONA) ARENA !!\nTHE LAST 100 TICKETS ARE ON SALE NOW !!!\n\nThe Schedule:\n18:30 doors open\n20:15 Beast In Black\n21:30 NIGHTWISH Timeline Photos",
+          1446450959
+        ],
+        [
+          "PRAGUE !!! PRAHA !!!\nABSOLUTELY THE LAST TICKETS AVAILABLE NOW !!!\n\nhttp://www.ticketpro.cz/jnp/en/hudba/rock/1563789-nightwish.html Timeline Photos",
+          1446355708
+        ],
+        [
+          "THE LAST 300 TICKETS ARE ON SALE NOW !!!\nIT IS GONNA BE A BLAST AT WEMBLEY :) Timeline Photos",
+          1446028472
+        ],
+        [
+          "THE LAST 400 TICKETS LAUNCHED FOR SALE RIGHT NOW !!! Timeline Photos",
+          1445523919
+        ],
+        [
+          "Our European tour will kick off at Barona (Metro) Areena in Espoo, Finland on the 13th of November 2015.\nThis will be our last Finnish show before the summer of 2016.\nSupport: BEAST IN BLACK\nLast 500 tickets on sale now !!! Timeline Photos",
+          1445321960
+        ],
+        [
+          "Still some tickets left for the first show of our European tour 2015. Now also support band added, BIB as a support only at Barona Arena though.\n\nhttp://www.lippupalvelu.fi/event/nightwish-lippuja/161623 Timeline Photos",
+          1441530376
+        ],
+        [
+          "Standing tickets for NIGHTWISH at Wembley are now sold out! Seated tickets are still available from www.livenation.co.uk Timeline Photos",
+          1439803978
+        ],
+        [
+          "Last 2000 tickets on sale now !!!\nDo not miss this magical event in the UK. Timeline Photos",
+          1437121301
+        ],
+        [
+          "Barona Areenan lipunmyynti alkaa huomenaamulla perjantaina 12.6.2015\n klo 09.00. \n\nThe ticket sales for Barona Arena in Espoo will start tomorrow \nmorning at 9 AM.\n\nhttp://www.lippupalvelu.fi/venue/barona-areena-espoo-lippuja/BAR/318 Timeline Photos",
+          1434022605
+        ],
+        [
+          "Nightwish announces an extra show in Finland! The band will start their European tour from Barona Arena Espoo November 13th. The ticket sales starts this Friday 12th of June in Lippupalvelu, http://www.lippupalvelu.fi/?language=en-us&languageSwitch=on. Timeline Photos",
+          1433737006
+        ],
+        [
+          "Joensuun 6.6.2015 keikan lippuja saa edelleen Tiketist\u00e4.\nJoensuu 6.6.2015 show tickets still available from Tiketti.\n\nhttps://www.tiketti.fi/Nightwish-Children-of-Bodom-Sonata-Arctica-Insomnium-tickets/28768 Timeline Photos",
+          1432574702
+        ],
+        [
+          "Silver Spring show was a killer, here\u00b4s the review:\n\nhttp://bravewords.com/galleries/nightwish-sabaton-last-ride-of-the-tour NIGHTWISH / SABATON - Last Ride Of The Tour Final night of the North American tour was held at the Fillmore, in Silver Spring, Maryland, a suburb of Washington DC. As such, it was not your typical black shirted metalheads-only crowd, a new generation of Washington house wives amongst the soccer moms and sports jacket/blazer wearing dads...",
+          1431875724
+        ],
+        [
+          "ICYMI: Nightwish reveal the 17th episode of the #EndlessFormsMostBeautiful album trailers!\n\nWatch as the band rehearse and offer insight into those exciting days before the North American tour kick-off in New York City.\n\nRemaining Tour Dates: http://bit.ly/nightwish-on-tour\nAlbum available at: http://bit.ly/nightwish-efmb-retailers",
+          1430488801
+        ],
+        [
+          "Some Vancouver tickets still available, but from this link only: \n\nhttps://www.ticketfly.com/purchase/event/812847\n\nThe show will be filmed. Timeline Photos",
+          1429550853
+        ],
+        [
+          "Nightwish discuss the collaboration with ToxicAngel Official for the creation of the #EndlessFormsMostBeautiful artwork in the sixteenth album trailer!\n\nThe band successfully kicked off their world-tour yesterday evening in New York City! Full list of dates and tickets available at http://bit.ly/nightwish-on-tour.\n\nWorldwide Chart Entries for 'Endless Forms Most Beautiful'\nFinland: #1\nCzech Republic: #1\nGermany: #2\nSwitzerland: #2\nNetherlands: #3\nAustria: #4\nSweden: #4\nMexico: #6\nGreece: #9\nFrance: #10\nPoland: #10\nUK: #12\nSpain: #13\nCanada: #13\nBelgium: #14\nAustralia: #16\nItaly: #18\nIreland: #21\nNew Zealand #32\nUSA: #34",
+          1428687276
+        ],
+        [
+          "Nightwish North American Tour with Sabaton and Delain begins this Thursday in New York City! Which show will you be attending?!\n\nEurope, you're next! World tour dates and tickets available at http://bit.ly/nightwish-on-tour.\n\n#EndlessFormsMostBeautiful is out now worldwide and available at http://bit.ly/nightwish-efmb-retailers.",
+          1428335490
+        ],
+        [
+          "Are you ready for the greatest show on earth?!\n\nNightwish world tour dates and tickets available at http://bit.ly/nightwish-on-tour.\n\nBrand new album #EndlessFormsMostBeautiful is OUT NOW worldwide and available at http://bit.ly/nightwish-efmb-retailers.",
+          1428247800
+        ],
+        [
+          "THE WAIT IS OVER!\n\n#EndlessFormsMostBeautiful is OUT TODAY in Europe. Share your thoughts about the new album with Nightwish in the comments below.\n\nUnited Kingdom, you're next this Monday, March 30th!\nNorth America + Rest of World, that's this Tuesday, March 31st for you!",
+          1427474027
+        ],
+        [
+          "Did you miss it? The 14th \"making of\" album trailer is available below!\n\nIn this episode, Nightwish share their thoughts and feelings about the brand new album, #EndlessFormsMostBeautiful.\n\nAlbum release is only a week away...let the countdown begin!!",
+          1426864463
+        ],
+        [
+          "Dear North American fans,\n\ntickets to our shows are running out in various cities! We are very exited so many of you want to come out and rock with us and for those who cannot make it to the 2015 tour we have good news :-) \nWe would like to announce a 2nd show in Canada for February 22, 2016! This show will take place in London, Ontario at the London Music Hall.\nThere will be VIP tickets available for this show which will include a meet/greet and a tour program :-)\nTickets go onsale today exclusively through Enterthevault.com and then the regular onsale begins March 21, 2015.\n\nSee you in March or April this year, or next year in 2016! Timeline Photos",
+          1424942028
+        ],
+        [
+          "North American fans!\nApril and May are finally closing in and that means we are almost leaving to rock you again! Our new album 'Endless Forms Most Beautiful' is almost there\u2026.so many almost but not yet situations! \nThis also involves the ticket sales and VIP tickets. Some shows are almost sold out. Quebec City already is (therefore we have already announced a show in Montreal in 2016, on Floor's birthday).\nThe VIP tickets in NYC, Toronto and Vancouver are sold out. But almost gone but not all yet are the VIP tickets in Philadelphia, Cleveland , Denver , Worcester , Chicago , Clive , Houston , Dallas, SIlver Springs!\nAlmost is there in a jiffy so get your tickets before you're almost too late! Timeline Photos",
+          1422538220
+        ],
+        [
+          "Great news for our fans in Canada! \nDue to the overwhelming demand of the sold out Quebec City show we have added a Montreal date on February 21 in 2016\u2026.!!! \n\nTickets are exclusively on sale through Enterthevault.com. (On January 23 they become available everywhere)\nThe VIP meet / greets tickets are also available exclusively through Enterthevault.com.....and are limited to 100 for the show.\n\nFor the upcoming North American tour in April - May 2015 there are some spots left for the VIP meets but they are getting close to sell out. Get your tickets fast!",
+          1418412028
+        ],
+        [
+          "We are excited to announce that our very special guest on our North American tour in 2015 is Sabaton!!! This upcoming and award winning Swedish band will surely rock you off your socks and we are glad they team up with us and the Dutch metal heads from Delain. This promises to become a tour you don't want to miss! \n\nThe Nightwish VIP are sold exclusively on www.enterthevault.com \nGo to http://www.nightwish.com/en/live for all info and links to ticket sale points or check out the tour dates on this Facebook page. Timeline Photos",
+          1415531293
+        ],
+        [
+          "The tickets for our shows in America and Canada are on sale today! We can't wait to rock with you in 2015!!!\nThe VIP are sold exclusively on www.enterthevault.com (the VIP tickets for LA are sold out and almost sold out is Quebed City, NYC and Vancouver. \n\nGo to http://www.nightwish.com/en/live for all info and links to ticket sale points! Timeline Photos",
+          1413039190
+        ],
+        [
+          "Tomorrow is the big day for our North American tour! The tickets will be on sale everywhere! \nVIP will be sold exclusively on www.enterthevault.com (the VIP tickets for LA are sold out and almost sold out is Quebed City, NYC and Vancouver. \nGo to http://www.nightwish.com/en/live for all info and links to ticket sale points! Timeline Photos",
+          1412949703
+        ],
+        [
+          "We're happy to announce the first confirmed Nightwish concert in Canada in 2015! Nightwish will be playing Le Capitole in Qu\u00e9bec City on April 13th. \n\nTickets are already available through  http://www.enterthevault.com/moreInfo.php?id=6370",
+          1410704724
+        ],
+        [
+          "Quebec City / April 13 2015\n\ntickets on sale now ; www.enterthevault.com",
+          1410615765
+        ],
+        [
+          "THE FIRST SHOW OF THE NEXT NIGHTWISH WORLD TOUR ANNOUNCED\n\nNIGHTWISH\n@ The Greek Theater\nLos Angeles, CA\n1st of May 2015\n\nVIP and Meet&Greet tickets are exclusively on sale through www.Enterthevault.com\nstarting on the 9th of September 2014.\n\nThe rest of the tickets will go onsale through Ticketmaster on the 12th of September 2014.\n www.enterthevault.com",
+          1410191890
+        ],
+        [
+          "Gooood morning, Canada! Imaginaerum will have its North American premiere on August 4th at the Fantasia Film Festival in Montreal. If you are in the area, don't miss your opportunity to watch the movie on the big screen!\n\nhttp://www.fantasiafestival.com/2013/en/films-schedule/54/imaginaerum Imaginaerum - Sympatico & Ubisoft Present Fantasia 2013 Since its inception in 1996, FanTasia has been an event hell-bent on showcasing the most exciting, innovative and individualistic examples of contemporary international genre cinema, with an emphasis on unveiling films very rarely seen in North America",
+          1373436255
+        ],
+        [
+          "Some North American tour merch leftovers available at nightwishusa.com! Click here to enter!",
+          1360217377
+        ],
+        [
+          "Hi everyone!\n\nWe've settled down here in Florida for a while to have our vacation. This is what we wanted to tell you after North American tour:\nThank you! Good times, intense shows and lots of laughter and love. They'll keep us going for a long time, and there's even more to come. Let's recharge and bring our particular heaven and hell to UK soon!\n\nCheerio!",
+          1350413788
+        ],
+        [
+          "Dear people and fans!\n\nAs a way to thank you for sticking with Nightwish, we've decided to add more VIP meet & greet occasions for the rest of the US tour.\n\nThis means that for every tour date till the end of the US tour there will be a limited amount of VIP tickets available. This also applies to the already earlier sold out meet & greet events, which now have additional VIP tickets on sale\n\nPeople with normal tickets have now a possibility to upgrade to VIP tickets.\n\nAs said: We're grateful for the faith you've shown to us. We're grateful for the two brilliant shows with Floor at the helm already. And we're grateful for the chance to continue this tour for us all! Thank You!\n\nHere's the list for the new and upgradeable venues with VIP meet & greet tickets:  \nthis offer only lasts while the tickets are available ...\n\nOct 3, San Francisco, CA, The Warfield - VIP tickets are now onsale through the Warfield box office. The upgrades for tonight are available all day at the box office for the people who already bought regular tickets.\n\nOct 5, Anaheim, CA, The Grove - VIP tickets are now  back  onsale through Enterthevault.com. Later today the upgrades will be available at the Grove box office for the people who already bought regular tickets.\n\nOct 6, San Diego, CA, House of Blues - VIP tickets are now onsale through Enterthevault.com. Later today the upgrades will be available at the House of Bues box office for the people who already bought regular tickets.\n\nOct 7, Tempe, AZ, Marquee Theater - VIP tickets are now onsale through Enterthevault.com. Later today the upgrades will be available at the Marquee box office for the people who already bought regular tickets.\n\nOct 9, Ok City, OK, Diamond Ballroom - VIP tickets are now onsale through Enterthevault.com. Later today the upgrades will be available at the venue box office for the people who already bought regular tickets.\n\nOct 10, Austin, TX, Emos - VIP tickets are now onsale through Enterthevault.com. On the showday the upgrades will be available at the venue box office for the people who already bought regular tickets.\n\nOct 11, New Orleans, LA, House of Blues - VIP tickets are now onsale through Enterthevault.com. Later on the upgrades will be available at the venue box office for the people who already bought regular tickets.\n\nOct 13, Ft Lauderdale, FL, Revolution - VIP tickets are now onsale through Enterthevault.com. Later on the upgrades will be available at the venue box office for the people who already bought regular tickets.\n\nOct 14, Lake Buena Vista, FL, House of Blues - VIP tickets are now onsale through Enterthevault.com. Later on the upgrades will be available at the venue box office for the people who already bought regular tickets.",
+          1349296468
+        ],
+        [
+          "Update:\nColumbus Ohio at the Newport Music Hall has only 38 tickets left for Sept 21st show ! Denver at the Ogden on Sept 28th and Seattle at the Showbox on Oct 1st have under 200 tickets left each. Selling fast. All tickets on www.Enterthevault.com have a 4.99$ service charge.",
+          1348074001
+        ],
+        [
+          "The North American tour has officially started! Atlanta just earned an award for \"the best start of the tour of all times\"! Timeline Photos",
+          1347499480
+        ],
+        [
+          "Update:\nLess than 100 tickets are left for Sept 12 in Atlanta, less than 175 for Nyc on Sept 15 (buy your tickets now as this will sell out by the weekend) and under 200 tickets in Columbus on Sept 21 - Denver on Sept 28 and Seattle on Oct 1....\n\nwww.Enterthevault.com is running fan appreciation specials in Montreal for Sept 19 -where you can buy 25$ tickets this week only with a 2.99$ service charge. Chicago for the same 20$ promotion from last week, with the 4.99$ service charge... and the rest of the tour, all tickets carry the 4.99$ service charge.",
+          1347302900
+        ],
+        [
+          "Atlanta 2nd show is sold out! Many others expected to sellout soon (1st Atlanta show, NYC, Columbus...).\n\nAlso, for Chicago on Sept 24, there is a special promotion to run on Enterthevault.com that will sell 100 General Admission tickets for only 20$. This is to our fans only and designed to get the less financially fortunate a chance at tickets for the biggest venue on the tour..\n\nStill running is the 4.99$ service charge for all tickets, onsale now...",
+          1346861748
+        ],
+        [
+          "The North American tour is drawing near!\n\nSoon it's finally time to head to North America to carry out our colossal 25 show tour! Our special shows last January at the Gibson Amphitheater and on 70000 Tons Of Metal Cruise were nothing short of perfect and it's a great pleasure to get to play there again for a complete tour. See you all soon!!!\n\nSome important information from the promoter:\nThe 2nd show in Atlanta (Sep 13th) is already nearly sold out. If you did not get your ticket yet, act fast! The 1st show on Sep 12th still has some tickets left, but is to be sold out in advance as well, so don't miss it! These two shows will have slightly different setlists.\n\nThanks to your fantastic response enterthevault.com is again offering a reduced service charge for the North American tour tickets. Find your closest city and get into it @ http://www.enterthevault.com/. The Vault, Fan Club & VIP Tickets The Vault. Fan club VIP Tickets",
+          1345209749
+        ],
+        [
+          "First those three FABULOUS shows in France on our previous European tour and now this! Foire aux Vins, Colmar, France, we love you! Thanks and good night! Sleep tight!!!",
+          1344201584
+        ],
+        [
+          "Due to overwhelming response on the reduced service charge for the North American tour, the special has been extended through Sunday... Buy your tickets now as they wont last forever and the amount of unsold tickets is getting smaller each day.\n\nhttp://www.enterthevault.com/ The Vault, Fan Club & VIP Tickets The Vault. Fan club VIP Tickets",
+          1343989707
+        ],
+        [
+          "A special 2 day promotion will begin on http://www.enterthevault.com on the Nightwish / Kamelot  North America tour. On Wednesday Aug 1 and Thursday Aug 2, all tickets for all shows on the Nightwish / Kamelot tour in North America onsale through Enterthevault.com will have a reduced service charge of only 4.99$ per ticket for all tickets for the tour. The following cities will participate: Atlanta, Philly, Worcester, Montreal, Toront, Columbus, Royal Oak, Chicago, Sauget, Kansas City, Denver, Salt Lake City, Seattle , Portland, San Francisco, Anaheim, San Diego, Tempe, Ok City, Austin, New Orleans, Ft Lauderdale, Lake Buena Vists.\n\nAdditionally, the following venues have also agreed to participate in the Aug 1 and Aug 2 promotion\nWorcester, Sauget, Kansas City through http://www.ticketmaster.com/ and Portland through http://www.cascadetickets.com/apps/calendar/ and Austin through http://www.ticketfly.com/. The Vault, Fan Club & VIP Tickets The Vault. Fan club VIP Tickets",
+          1343837745
+        ],
+        [
+          "Tickets to the Imaginaerum North American Tour 2012 are now on presale!\n\nPrepare your voices for screaming and your heads for dreaming! We are bringing Imaginaerum over to North America! This will be the one and only North American leg during the Imaginaerum World Tour, so make sure you`ll be there!\n\nClick here to get to the exlcusive presale page: http://www.facebook.com/nightwish/app_103890722979364\n\nPlease spread the word by sharing the post on your Facebook wall! Timeline Photos",
+          1334933362
+        ]
+      ],
+      "dates_start": 1369301342,
+      "dates_end": 1448319457,
+      "likes_avg": 4189,
+      "likes_stdev": 3501,
+      "comments_avg": 205,
+      "comments_stdev": 216,
+      "shares_avg": 332,
+      "shares_stdev": 364
+    },
+    {
+      "number": 35,
+      "important": [
+        "actual",
+        "presal",
+        "singapor",
+        "timelin",
+        "sweden",
+        "ticket",
+        "timelin photo",
+        "current",
+        "info",
+        "photo"
+      ],
+      "common": [
+        "festival",
+        "http",
         "nightwish",
         "photos",
+        "rock",
         "show",
-        "time",
+        "tickets",
         "timeline",
         "timeline photos",
-        "tomorrow"
+        "www"
       ],
       "messages": [
         [
@@ -3919,6 +3769,18 @@
         [
           "M\u00fcnchen was a perfect party with 6000 good friends :)\nTOMORROW: STUTTGART Timeline Photos",
           1449059453
+        ],
+        [
+          "GREENFIELD FESTIVAL, Interlaken, SWITZERLAND\n08.06. - 11.6. 2016 \n\nFestival website: www.greenfieldfestival.ch  \nwww.facebook.com/greenfieldfestival.ch\nHashtags for twitter and instagram: #GF2016\nTickets:  http://www.greenfieldfestival.ch/index.php?id=24 Timeline Photos",
+          1448715607
+        ],
+        [
+          "ROCKAVARIA FESTIVAL, M\u00fcnchen, GERMANY\n27.05 - 29.05.2016 \nFestival website: http://www.rockavaria.de Timeline Photos",
+          1448715268
+        ],
+        [
+          "ROCK IM REVIER, Gelsenkirchen, GERMANY\n26.05 - 28.05.2016 \nFestival website: http://www.rock-im-revier.de Timeline Photos",
+          1448715187
         ],
         [
           "Here`s a few links which may be of interest:\n\nhttp://www.bbc.com/news/magazine-34801885\n\nhttps://www.youtube.com/watch?v=QlvLr7DSbog\n\nhttps://www.youtube.com/watch?v=Jd8O6rhIGo8\n\nhttps://openlysecular.org/video/tuomas-holopainen-troy-donockley-nightwish-openly-secular/\n\nhttp://www.theshovel.com.au/2013/12/09/man-forced-to-watch-concert-through-his-own-eyes/",
@@ -3961,8 +3823,28 @@
           1442937099
         ],
         [
+          "Nightwish- The Greatest Show on Earth\n\n6.32: gorillas come on stage :D\n\nhttps://www.youtube.com/watch?v=AScsyVZ70Ug Nightwish- The Greatest Show on Earth.(Sverresborg Arena, Trondheim, Norway 29/08/15) Nightwish-The Greatest Show on Earth (Sverresborg Arena, Trondheim,Norway 29/08/15)",
+          1441396979
+        ],
+        [
           "SWEDEN ! \nStill tickets left for our ONLY show in Sweden in 2015 ! Timeline Photos",
           1441003757
+        ],
+        [
+          "THANK YOU TRONDHEIM ! \nIt was really a killer ending for our festival summer 2015 :) Timeline Photos",
+          1440943463
+        ],
+        [
+          "THIS SATURDAY !!! IN TRONDHEIM !!! ROCK & ROLL :) Timeline Photos",
+          1440477180
+        ],
+        [
+          "Our last European summer show for 2015 will be on the 29th of August in Trondheim, Norway ! It will be a blast :) Timeline Photos",
+          1440148849
+        ],
+        [
+          "THANK YOU SUMMER BREEZE :) \nIT WAS A MUTUAL PLEASURE :)\nNEXT: TRONDHEIM ! Timeline Photos",
+          1439709148
         ],
         [
           "KIITOS TAMPERE ! WE WERE HERE ! Timeline Photos",
@@ -3971,6 +3853,10 @@
         [
           "TOMORROW !!! \nRatina Stadium map here. \nTicket booth & guest lists are at the Gate E.\nOvilippuja saa portilta E, jossa ovat my\u00f6s vieraslistat.\nTAMPERE !!!! Timeline Photos",
           1438261208
+        ],
+        [
+          "Kingdom of Hegyalja at Tokaj-Rakamaz is relocated, the NIGHTWISH show scheduled for July 15 at the Festival will now take place in Budapest at Pet\u00f6fi Music Garden.\n\nThe purchased tickets for this show will be valid for the new venue, for refund or ticket exchange please contact your ticketing service or place of purchase.\n\nDue to unexpected problems relating to land-lease the festival between 15-19 July will not go ahead at Tokaj-Rakamaz. \n\n\"We have not got the festival site at our hands in the format we previously agreed on with the local municipality, thus we made the hurtful decision not to go ahead with our event. We are working tirelessly on rearranging shows at selected venues, and will provide information in due course.\" said Peter Kovacs, one of the main organisers of the festival. Timeline Photos",
+          1435909448
         ],
         [
           "complete set NIGTHWISH CRUISE DAY 1-2@\n metal-and-more Jolen Brothers Home",
@@ -4001,6 +3887,14 @@
           1415603346
         ],
         [
+          "More show dates are coming in and we can announce another festival! \nGet your tickets for: ROCK THE RING \u2013 Hinwil-Zurich, Switzerland\nNightwish will rock you on: 19th of June 2015\nTICKETS for this festival with amazing line-up: \nhttp://www.ticketcorner.ch/tickets.html?fun=erdetail&affiliate=GNP&doc=erdetaila&erid=1284720\n[1] Timeline Photos",
+          1415280704
+        ],
+        [
+          "People of Norway! Tickets for the Nightwish concert in Trondheim on August 29th are on sale NOW! \n\nGet yours at http://www.billettservice.no/event/440285 Timeline Photos",
+          1414130170
+        ],
+        [
           "We packed up the summer camp\u2026.and we feel the blues of saying goodbye to this beautiful place we called 'home' for the last three month! But onwards to the last recordings, the mix, the master\u2026.onwards to 2015!!! Timeline Photos",
           1411920414
         ],
@@ -4021,6 +3915,10 @@
           1371317516
         ],
         [
+          "The sun is shining and festival season is about to begin! Good times! Which ones are you looking forward to the most? \n\nHere is a list of festivals that Nightwish will be playing at: http://www.nightwish.com/en/live\n\nHave a great weekend, everybody!",
+          1369988426
+        ],
+        [
           "Hey, Floor has something to say.\n\np.s. May 24th, Liquidroom (Tokyo, Japan) show is sold out. Tickets to our other Japan shows can be bought here:\nhttp://www.creativeman.co.jp/artist/2013/05nightwish/ Nightwish - Imaginaerum Japan Tour 2013 Imaginaerum Japan Tour 2013: May 21, Namba Hatch, Osaka May 23, Diamond Hall, Nagoya May 24, Liquidroom, Tokyo May 25, Finland Fest / Studio Coast, Tokyo Get...",
           1368511333
         ],
@@ -4039,6 +3937,10 @@
         [
           "Farewell Australia! We gave it our best shots! Timeline Photos",
           1358695688
+        ],
+        [
+          "What do you say Adelaide, should we start this weekend by having some good time at the HQ Complex tonight?",
+          1358492378
         ],
         [
           "Hyv\u00e4\u00e4 syntum\u00e4p\u00e4iv\u00e4\u00e4 Marco!!!!\r\n\r\nGreetings from Mexico",
@@ -4065,6 +3967,10 @@
           1354128868
         ],
         [
+          "Time for the movie premier preceeded by our full blown live show. After which, we will be having our very own wine festival featuring our very own wine!",
+          1352559259
+        ],
+        [
           "Just got home from the show in Kansas City, I'll be spending the next few days editing the photos I took from the pit.  Here's a teaser.",
           1348802278
         ],
@@ -4077,12 +3983,24 @@
           1346169806
         ],
         [
+          "Nightwish @ Trondheim, Borgg\u00e5rden. \r\nPhoto: Karianne Kaas",
+          1345981570
+        ],
+        [
+          "Trondheim, what was that!?!? Our last summer show (for this year) in a place like this, for a crowd like this! Huge thanks to you all! Hope to come back soon!",
+          1345925598
+        ],
+        [
           "Here are the winners for our \"3.000.000 Facebook likes\" competition!\r\n\r\n1) Laura Rochon-Massicotte, Laval, Quebec, Canada.\r\n2) Jonathan Lantz, Edmonton, Alberta, Canada.\r\n\r\nWe will contact Laura and Jonathan about the delivery of their prizes.\r\n\r\nThanks to everybody who participated! Timeline Photos",
           1343987085
         ],
         [
           "Nightwish will be supported by Sweden's PAIN on their upcoming UK tour this fall.",
           1343019957
+        ],
+        [
+          "Cheers Montreux! Enjoy the rest of the festival AND the colossal views!!!",
+          1342121018
         ],
         [
           "Hej Sverige, mitt k\u00e4ra hemland:-)\n\nTime to get up and rock G\u00e4vle and Getaway and I am sure it will be a great gig;-)\n\nLets show the Finns who rules!!! Timeline Photos",
@@ -4093,8 +4011,16 @@
           1341071953
         ],
         [
+          "Kiitos Provinssirock! There's nothing that beats summer night on a festival of 20.000 Finns! Enjoy rest of the weekend!",
+          1339795774
+        ],
+        [
           "What a colossal show we had at the Download on Friday! You people in UK sure know how to have fun despite of all the wind, rain and mud. Thumbs up!!!\n\nTonight it's time for the Nova Rock!\n\nGreetings from Vienna.",
           1339326358
+        ],
+        [
+          "Festival season starting in 20 minutes! Poland, show us love!!!",
+          1338668409
         ],
         [
           "Another colossal night ahead in the Imaginaerum! Let's open the doors, drop the curtain and get going! Timeline Photos",
@@ -4189,407 +4115,14 @@
           1326727127
         ]
       ],
-      "dates_start": 1331567334,
-      "dates_end": 1427774965,
-      "likes_avg": 5298,
-      "likes_stdev": 5738,
-      "comments_avg": 237,
-      "comments_stdev": 284,
-      "shares_avg": 306,
-      "shares_stdev": 791
-    },
-    {
-      "number": 38,
-      "important": [
-        "record",
-        "featur",
-        "album",
-        "new",
-        "announc",
-        "nightwish",
-        "march",
-        "emppu",
-        "new album",
-        "via"
-      ],
-      "common": [
-        "album",
-        "band",
-        "com",
-        "floor",
-        "http",
-        "music",
-        "new",
-        "nightwish",
-        "video",
-        "www"
-      ],
-      "messages": [
-        [
-          "Brother Firetribe Featuring Nightwish Guitarist Emppu Vuorinen Announce New Album Sunbound BROTHER FIRETRIBE Featuring NIGHTWISH Guitarist Emppu Vuorinen Announce New Album Sunbound Brother Firetribe \u2014 the five-strong outfit fueled by class compositions and top-of-the-line musicianship, the latter underpinned by the signature style of Nightwish guitarist, Emppu Vuorinen \u2014 will release their fourth full-length album Sunbound via Spinefarm Records on March 24yj. \u00a0 Featuring 12 ne...",
-          1486764876
-        ],
-        [
-          "ATLAS PAIN - 'THE COUNTER DANCE' LYRIC VIDEO AVAILABLE\n\nHere we are! You've waited for it and now you got it: our lyric video is officially online!\n\nEpic/Folk metal band Atlas Pain have released a lyric video for the song 'The Counter Dance', taken from their debut album 'What The Oak Left', out on March 10th on Scarlet Records.\n\nWatch the video here: https://youtu.be/jjM4f-Er8W0 \nPreorders available here: http://hyperurl.co/nrzbz5\n\nCombining elements of Extreme, Pagan/Folk and Symphonic Metal with a cinematic approach, the band is able to handle a multitude of musical genres yet maintaining a very personal touch that makes them stand out in today\u2019s crowded music scene. \n\n\u2018What The Oak Left\u2019 has been recorded at Media Factory Esine studio with Fabrizio Romani (Skylark) and mastered by Mika Jussila - Mastering of the Universe (Nightwish, Children Of Bodom) at Finnvox Studios in Helsinki, Finland. The beautiful artwork was made by Jan \u00d6rkki Yrlund of Darkgrove (Korpiklaani, MANOWAR).\n\nENGL Amps Italia / Mogar Music\nAmedia Cymbals / Attack Drum heads\nTwilight Studio - Recording & Mastering\nRonin Agency ATLAS PAIN - 'The Counter Dance' official lyric video 'The Counter Dance' is taken from Atlas Pain' debut album \u2018What The Oak Left\u2019, out on March 10th on Scarlet Records.",
-          1486716376
-        ],
-        [
-          "Nightwish with Anette Olzon <3 NIGHTWISH - Amaranth (OFFICIAL MUSIC VIDEO) Nightwish \"Amaranth\" official music video. Order at: http://smarturl.it/NW-DPP-NB Subscribe to Nuclear Blast: http://bit.ly/subs-nb-yt Subscribe to Nightwish...",
-          1486563253
-        ],
-        [
-          "Part 1 of a 2 part episode featuring music from Lacuna Coil, Amaranthe, Delain, Nightwish, and Epica. We also discussed, plugged, or mentioned Arcane Ritual, Xandria, and Within Temptation. Stay tuned for Part 2 next week!\n\nhttp://www.spreaker.com/user/audioveinentertainment/2-6-17-female-fronted-metal 2/6/17: Female Fronted Metal Christina Rosenfeld co-hosts with Marcus Miller on \"Female Fronted Metal\" bands, featuring: Lacuna Coil, Amaranthe, Delain, Nightwish, Epica",
-          1486397547
-        ],
-        [
-          "Dear fans, there is a special document in the making about Nightwish fans all over the world. Find more details and instructions how to be part of it: http://yle.fi/aihe/fellow-imagineers Fellow imagineers | yle.fi If Nightwish has changed your life, send us a video telling us what the band means to you. Read all instructions, deadline and contact information here!",
-          1444801746
-        ],
-        [
-          "Special news:\nKalevala Jewelry and Nightwish will launch EVOLUTION SERIES BY NIGHTWISH jewelry collection. You can now pre-order jewelry at the official Nightwish Shop, so go to shop.nightwish.com and pick your favorites.\nRead the press release below.\n\nPress release 18.8.2015:\nKalevala Jewelry and Nightwish to launch jewelry collection EVOLUTION SERIES BY NIGHTWISH\n\nKalevala Koru (Jewelry), in collaboration with the band Nightwish, is launching a new jewelry collection EVOLUTION SERIES BY NIGHTWISH. \nSince spring, Nightwish\u2019s lead singer, the Dutch soprano Floor Jansen, has lent her face to Kalevala Koru jewelry. Now the collaboration is being taken one step further with the launch of the jewelry collection Evolution Series by Nightwish, created together with the band. \n\u201cIn spring, Floor Jansen became the wonderful face of our jewelry and now the cooperation is expanding into the Nightwish collection. At Kalevala Koru, we are really happy about this connection. It gives us international visibility with the world\u2019s best known Finnish band,\u201d says CEO Riitta Huuhtanen from Kalevala Jewelry.\n\nThe new jewelry collection accompanies the theme of the rich diversity of life \u2013 as on Nightwish\u2019s album Endless Forms Most Beautiful. It is something that the band\u2019s founder, musician Tuomas Holopainen, emphasizes in the collaboration.\n\u201cFrom the start, it was important for the band that when we start to create a jewelry collection it should in some way reflect the theme of our new album. The message on the album is associated with the endless variety of all living things on our planet: we are one, made out of the same DNA, of the same matter. It\u2019s an extremely beautiful and humbling fact, which we wish to bring out in the album. The same theme is also present in the new jewelry collection.\u201d  \n\nCEO Riitta Huuhtanen from Kalevala Jewelry is confident that the new collection will be a success. \n\u201cNightwish is a well-known and popular band, both in Finland and internationally. We are looking forward to see how the fans and the general public will receive the collection.\n\nThe Evolution Series by Nightwish collection includes two different silver pendants and a bracelet. The larger pendant has been inspired by the form of the fossil of the ancient marine animal, the ammonite. The smaller pendant echoes the spiral form of DNA. \n\nLaunched to shops in mid-October, pre-sale of the jewelry collection starts in the official Nightwish shop (shop.nightwish.com) on August 18, and in Kalevala Jewelry\u00b4s online store on September 1. The jewelry collection will also be sold on the NIGHTWISH European tour.\n\nFor additional information, please contact \nKalevala Koru Oy/Petra Nikkinen, communication and PR, tel. +358 (0)40 521 7772, petra.nikkinen@kalevalakoru.fi \n\n***\nKalevala Koru Oy is the largest jewelry manufacturer in Finland. All Kalevala Jewelry products are manufactured in Finland. The extensive collection includes both timeless classics and modern designers\u2019 interpretations. Timeline Photos",
-          1439884800
-        ],
-        [
-          "American singers! Floor will give a masterclass in Orlando on Friday and there are spots available! Hereby some more info:\n\nYOUR VOICE! A MASTERCLASS BY FLOOR JANSEN\nDate:\nFriday, May 8th, 2015\n11:00am - 1:00pm\nLocation:\nALOFT Orlando Downtown - Solar Exchange Room\n500 South Orange Avenue \u00b7 Orlando, Florida, 32801\n407-380-3500\nIn this masterclass we will focus on vocal techniques and song interpretation. The technical part can be seen as a check-up: what do you know, and what do you actually use? The techniques are there to keep your instrument healthy and strong and to explore its boundaries.\nThis session is designed for both beginner and experienced singers who are 16 years of age or older (those who are just starting with a group/choir/band and those who have performed or perform regularly). Experience with lessons welcome but not necessary.\nWe will sing with the whole group (exercises) and you will also get the chance (option) to sing alone. For more advanced singers, we will focus on song interpretation: can you make the song sound good; in other words \u201ctell its story\u201d? Plus: pick Floor\u2019s brain! We can work on specific problems; focus on boundaries you would like to cross (higher, lower, softer, louder, etc.).\nEach singer can bring one song for practice (have an instrumental ready to work with, either on CD or in mp3 format). We will take the time to listen to a part of it and Floor will advise you on what technical aspects you should focus on and how to work and study to make the song sound better.\nYou will hear other singers sing and get advice that will also be informative for yourself. If you have specific questions: ask them! This masterclass is there to inspire you to explore your sound, better your technique and to feel the music even more than before.\nI look forward to singing with you!\nFloor\n-----------------------------------------------------------------\nRegistration:\nEmail yourvoicemasterclass@gmail.com to sign up!\nPrice: $95.00\nThe payment can be done with Paypal to floor1981@me.com (you will need a credit card or your own Paypal account). The payment will insure your spot in the masterclass!\n-----------------------------------------------------------------\nAloft Orlando Downtown: Onsite hotel parking available for a fee, with other transportation options available such as SunRail, LYMMO, Lynx and parking garages within walking distance.\n(Photo is taken by Timo Isoaho taken at Nightwish Endless Forms Most Beautiful Tour at Hammerstein Ballroom, New York City 4.9.15) Timeline Photos",
-          1430943487
-        ],
-        [
-          "Today we start our world tour in New York, USA!!! We spend a few days in this amazing metropole to rehearse and feel more than ready to get back on stage!!!\nAs you can see on the picture we had some champagne to celebrate the kick off AND the world wide chart news that is just mind blowing! \nFor the sixth time in a row we made it onto the pole position in our home country Finland \u2013 as well as in Czech Republic, where \u00bbEndless Forms Most Beautiful\u00ab received gold-status after just two days. \nGermany and Switzerland follow with a brilliant #2. \nAnother amazing result is the #3 in Floor Jansen\u2019s native country Netherland. \nMore Top 10 entries follow with Austria (#4), Sweden (#4), Mexico (#6), Greece (#9), France (#10) and Poland (#10). Another huge step was made in the UK, with an excellent #12, as well as in Spain (#13), Belgium (#14), Australia (#16), New Zealand (#32)\u2026 and an incredible #34 at the American Billboard charts (#2 Independent Albums, #4 Top Hard Music Charts, #8 Top Current Rock Albums). \n\nWe are grateful to all our fans for standing behind us. We can't wait to meet you during this world tour we start today! Thank you! Photos from Nightwish's post",
-          1428584246
-        ],
-        [
-          "Added on 2nd of April: \n\nTHIS IS AN APRIL FOOLS JOKE !! \n-------------------------------------------------------\n\nHOLOPAINEN PRESENTS \"HOLOPAINEN\"\n\nOnly a few days after the release of the new album \"Endless Forms Most Beautiful\", Finland-based NIGHTWISH mastermind Tuomas Holopainen reveals a big surprise to the public: This May will see the launch of his first own fragrance, simply called \"Holopainen\" - an elegant, yet humble fragrance for the modern metalhead.\n \nSays Tuomas: \"This may come as a bit of a surprise to some fans, but creating my own fragrance has always been the logical next step for me. As a band, we had the Imaginaerum wine, but I wanted to create something more personal. Besides, many great artists have done it before, take Avril Lavigne for instance. I strongly believe in following your dreams and wishes. You only live once.\"\n\nThe fragrance will first be sold exclusively though Nightwish-Shop, but a big Swedish clothing store chain has already expressed interest in international distribution.\n\n\u201cHolopainen\u201d will be available in 50ml and 150ml bottles in various editions. In addition to the standard bottle with a black cap, there will be a web-exclusive limited edition with a fresh looking yellow cap - the perfect choice for spring time! Also, don\u2019t miss the super exclusive fan edition (limited to 200 pieces) that comes in a beautiful wooden box and has a fabulous silver cap on the bottle, the only right choice for those special moments in life.  \n\nFollow this link to pre-order yours today:\nhttp://smarturl.it/HOLOPAINEN-preorder\n\n#YOLOPAINEN Timeline Photos",
-          1427864401
-        ],
-        [
-          "Receive TWO instant track downloads of \"Shudder Before The Beautiful\" and \"\u00c9lan\" with your iTunes album pre-order of #EndlessFormsMostBeautiful at http://geni.us/NightwishEndlessDeluxe.",
-          1426692600
-        ],
-        [
-          "ICYMI: Listen to the BRAND NEW track \"Shudder Before The Beautiful\" below!\n\n\"The core of \"Shudder Before The Beautiful\" lies in moments such as gazing at The Milky Way on a cold winter's night, seeing a photo of our Planet Earth, \"a pale blue dot\" taken by Voyager 1 as a tiny oasis in the unfathomable vastness of space, or when listening to music which momentarily takes away all woe and time.\nAnd sharing those moments with people you love.\" - Tuomas / Nightwish\n\nCatch Nightwish on the road! North American + European tour dates available at http://bit.ly/nightwish-on-tour.\n\n#EndlessFormsMostBeautiful, available at\nNuclear Blast: http://smarturl.it/NIGHTWISH-Endless\nNightwish Shop: http://bit.ly/NIGHTWISH-Webshop\niTunes: http://geni.us/NightwishEndlessDeluxe\nAmazon: http://geni.us/NightwishEndlessAmzDlx",
-          1426605658
-        ],
-        [
-          "\"Shudder Before The Beautiful\" - listen to the opening track now on http://www.hs.fi/mainos/advertoriaali/nightwish/\n\n\"We wanted to present our upcoming album`s opening track \"Shudder Before The Beautiful\" for everyone to listen to before the album`s release in cooperation with the newspaper Helsingin Sanomat. Bringing together the most trustworthy Finnish media with a song about universal awe was a match made in heaven in its uniqueness.\n\nThe core of \"Shudder Before The Beautiful\" lies in moments such as gazing at The Milky Way on a cold winter`s night, seeing a photo of our Planet Earth, \"a pale blue dot\" taken by Voyager 1 as a tiny oasis in the unfathomable vastness of space, or when listening to music which momentarily takes away all woe and time.\nAnd sharing those moments with people you love.\"\n\n\"Halusimme antaa uuden levymme avausbiisin \u2019Shudder Before The Beautiful\u2019 kaikille kuunneltavaksi ennen albumin ilmestymist\u00e4 yhteisty\u00f6ss\u00e4 Helsingin Sanomien kanssa. Suomen luotettavimman tietol\u00e4hteen yhdist\u00e4minen universumin ihmeellisyyksien ihasteluun on ainutlaatuisuudessaan ohittamaton idea. Kappaleen \u2019Shudder Before The Beautiful\u2019 ydin on hetkess\u00e4 kun katsomme Linnunrataa kirkkaana talviy\u00f6n\u00e4, kun n\u00e4emme Voyager 1:n ottaman valokuvan Maapallostamme pienen\u00e4 sinisen\u00e4 keitaana k\u00e4sitt\u00e4m\u00e4tt\u00f6m\u00e4ss\u00e4 \u00e4\u00e4rett\u00f6myydess\u00e4, kun ymm\u00e4rr\u00e4mme olemassaolomme kauneuden ja hetkellisyyden, kun kuulemme musiikkia joka poistaa hetkeksi ymp\u00e4rilt\u00e4mme kaikki murheet ja h\u00e4vitt\u00e4\u00e4 ajan. Ja ennen kaikkea kun saamme jakaa kaikki nuo asiat meille rakkaiden ihmisten kanssa\u201d, kiteytt\u00e4\u00e4 Tuomas Holopainen.\"\n\n- Tuomas / Nightwish Ilmoitus: Ennakkokuuntelussa Nightwishin uusi biisi ILMOITUS. Helsingin Sanomat ja Nightwish tarjoavat faneilleen 27. maaliskuuta julkaistavan albumin Endless Forms Most Beautiful avauskappaleen Shudder Before The Beautiful kuunneltavaksi ennakkoon 13.3.-26.3. osoitteessa HS.fi/nightwish.",
-          1426198261
-        ],
-        [
-          "https://www.youtube.com/watch?v=FB6nCwoVCYw Nightwish - Creek Mary's Blood I've always been fascinated by Indians - their history and customs, their love for freedom and nature, and their tragic fate. For my first video I used the f...",
-          1424564229
-        ],
-        [
-          "Receive an instant download of our brand new track \"\u00c9lan\" with your iTunes album pre-order! #EndlessFormMostBeautiful Endless Forms Most Beautiful (Deluxe Version) by Nightwish Receive instant download of \"\u00c9lan\" with iTunes album pre-order!",
-          1424539800
-        ],
-        [
-          "Tune into TeamRock Radio now to hear our new track, \u00c9lan! The track will be played on Dewsbury's Afternoon Show between now and 6pm: http://www.teamrock.com/radio/ Timeline Photos",
-          1423749202
-        ],
-        [
-          "This message was written and released by Tuomas last night. We as a band feel the same and like to share these words with you:\n\nWarmest greetings everyone,\n\nSome of us like to stay neutral on issues concerning internet/Facebook, but I feel it only proper to remark on a quite remarkable situation. I saw that our first single \"\u00c8lan\" was leaked on the internet today, and I was quite baffled by some of the reactions I read. I was then asked to make a short statement, and the following is what I feel about the issue.\n\nThe leaking of a full album, or just a single song in advance, is a huge blow to the wonderful mystery which is surrounding the impending release of our new music. We have deliberately cultivated this so as to give our fans an event; a (hopefully) powerful surprise. The passionate posts on the bands Facebook page (which were done in the heat of the moment) were no doubt a honest reaction to the disappointment in someone deliberately spoiling a part of these efforts. To suggest that the band or the record label would do this on purpose is very \"conspiracy theory\" and simply not true. The very thing we care about most is the music on the album, and the impact it will have on people. \n\nWith that in mind, do try to avoid listening to this \"leak\" and any others for that matter. Just wait to hear it as it is supposed to be - a labour of love, the fruit of dedicated hard work and of the highest quality. The way we would wish to experience it ourselves. \n\nThis is a delicate issue, which seems to be very hard to address in a right way. We seriously hope everyone would calm down now. There\u00b4s a lesson to be learned for all sides here.\n\nYours sincerely,  \n  Tuomas &\n   Nightwish",
-          1423318960
-        ],
-        [
-          "OUR INTENTION WAS NOT NECESSARILY TO ATTACK AN INDIVIDUAL PERSON, BUT TO RAISE AWARENESS THAT SPREADING UNRELEASED PROPERTY THROUGH INTERNET IS NOT SOMETHING THAT ANY ARTIST WOULD LIKE TO SEE HAPPEN. THIS IS ABOUT OUR MUSICAL PROPERTY AND THE ABUSE OF IT, WE ARE NOT ANONYMOUS, EITHER. THIS KIND OF THING CAUSES IRREPARABLE HARM TO COUNTLESS PEOPLE WORKING IN THE MUSIC INDUSTRY WORLDWIDE. NOT ONLY FOR THE BAND.",
-          1423240062
-        ],
-        [
-          "The guys over at PROG Magazine in the UK have shared their first impressions of #EndlessFormsMostBeautiful' - see what they think of the album, here: http://bit.ly/1ED28Ua \n\n\"Endless Forms... builds on their trademark symphonic-meets-celtic sound with maturity and greater confidence. And new singer Floor Jansen's vocals are absolutely spot-on.\" - NATASHA SCHARF, News Editor at Prog Nightwish: First Impressions Last Friday, various members of Team Prog ventured into central London to be played the new Nightwish album...",
-          1422970929
-        ],
-        [
-          "Amazing Voice Soprano Lyric Floor Jansen \u2764\ufe0f \u2764\ufe0f \n\nhttps://www.youtube.com/watch?v=05Uhk4Hs5N0 After Forever-Tortuous Threnody (Live) After Forever playing a song from Prison of Desire album called: Tortuous Threnody; Live at Piorno Rock, Granada (Spain, March 2002)",
-          1418997696
-        ],
-        [
-          "Many Dutch metal heads, also our own Floor, has joined forces to record a song for a special and very important purpose! Please read, listen, enjoy, give and share as much as you can!\n\nThis is the official statement taken from \nhttp://www.thepoweroflove.nl:\n\nWe have recorded Frankie Goes to Hollywood\u2019s \u201cThe Power of Love\u201d to help the Red Cross gather funds to bring hope and a future to victims of sexual violence in conflict areas worldwide. We call on you metal fans, music fans, to support us and show what you can do when you get together and join forces to do what\u2019s right.\nWe are one family. So give all you can and download \u201cThe Power of Love\u201d.\nShare this website with your friends, spread the word... and if you live in the Netherlands, call 3FM on 0909-1336 from Dec 18th to Dec 24th to request our cover of \u201cThe Power of Love\u201d on the radio!!!\n\nToday a special acoustic version came out, so if you request the song now, you get two versions for the same price! \nhttps://www.facebook.com/video.php?v=830101740368937&set=vb.772933189419126&type=2&theater&notif_t=like Countermove EXCITING NEWS TODAY! \nHave you made a donation on www.thepoweroflove.nl yet? Or maybe you would like to make another small donation? From this moment on there's a reason more! As an extra treat you can download a very special ACOUSTIC VERSION of \"The Power of Love\"! \n\nDUTCH METAL FOR SERIOUS REQUEST 2014 | THE POWER OF LOVE | FOR Serious Request 2014 Haarlem AND Rode Kruis OUT NOW. GIVE ALL YOU CAN!\n\nFloor Jansen  (Nightwish, ReVamp)\nJochem Jonkman (Vanderbuyst)\nManda Ophuis  (Nemesea)\nGeorge Oosthoek (ex-Orphanage)\nMark Jansen Official (Epica, MaYaN)\nCaroline Westendorp (The Charm The Fury)\nValerio Recenti (my propane)\nArjen Lucassen (Ayreon)\nDianne van Giersbergen Official (Xandria)\nRuud Jolie (Within Temptation)\nCharlotte Wessels  (Delain)\nSimone Johanna Maria Simons Official (Epica)\nAnneke Van Giersbergen (The Gentle Storm)\nDaniel de Jongh (Textures)\nMarcela Bovio (Stream of Passion)\nEpic Rock Choir (The Theater Equation)",
-          1418759008
-        ],
-        [
-          "Magazine SOUNDI - Translations:\n\n\u2014 English: http://headuphigh.com.br/english-magazine-soundi/\n\u2014 Portugu\u00eas: http://headuphigh.com.br/portugues-revista-soundi/\n\n\nFloor Jansen - Head up High: Your best reference! ;) Official BR.\n\nwww.floorjansen.com | www.nightwish.com | www.revampmusic.com Head up High, my dear! \u2013 English: Magazine \u2013 SOUNDI There has been no lack of drama in Floor Jansen\u2019s recent years, the singer who got an urgent call for Nightwish\u2019s vocalist. Now, the turbulent phase is luckily behind her and the Dutch singer has found peace on the outskirts of Joensuu and in Nightwish\u2019s line-up. Jansen won\u2019t be seen much in North K\u2026",
-          1418661815
-        ],
-        [
-          "Masterclass news from Floor:\n\nHey singers! Some spots opened up on the masterclass in Roermond on Saturday the 29th!!!! And there are also some last spots available on the 30th, also in Roermond (The Netherlands)\nHere is some more info (to sign up, go to http://floorjansen.com/contact)\nDate: Saturday 29th of November 2014 \nGroup 1: 13:00 - 15:00 (last spots available!)\nGroup 2: 16:00- 18:00 (SOLD OUT)\nDate: Sunday 30th of November 2014 \nGroup 1: 13:00 - 15:00 (last spots available!)\nGroup 2: 16:00- 18:00 (last spots available!)\nMinimum age singers: 16 years old\nPrice: \u20ac90,00\nWhere: ECI Cultuurfabriek, ECI 13 | 6041 MA Roermond, The Netherlands. Contact me \u2014 Floor Jansen Is there something special you would like to share with Floor? Do you have a question or do you want to comment on this website? Feel free to contact her!",
-          1416655957
-        ],
-        [
-          "News from Floor:\n\nHi singers out there! \nI will give three masterclasses in Helsinki (Finland), Roermond (The Netherlands) and London (UK)! I am very happy with the amazing response thus far and hope to welcome you as well to one of these classes. All info can be found on:\nhttp://floorjansen.com/blog/masterclass-for-singers-in-helsinki-finland-roermond-the-netherlands-and-london-uk Mobile Uploads",
-          1413444796
-        ],
-        [
-          "The icing on the cake! Recording the orchestra in the Angel Studio's with Pip Williams in London. \nFloor Jansen about this experience: \"this was the first time I witnessed the recording of an orchestra and it was so enchanting! I was stunned by the professionalism of the players, the conductor, the studio engineers and by the amazing arrangements Pip made again. To hear it all come together is amazing, goosebumps all the way through!!!\" Mobile Uploads",
-          1412759109
-        ],
-        [
-          "Troy was the last band member to record in our wonderful camp before ending it last weekend. He will continue later on in Helsinki but a part of his recordings are done and he sends you these words and this picture: \n\"And now, the new Nightwish album has some weird and wonderful 'fanfret Cumbrian Bouzouki' in its Forcefield. Here's the photographic evidence....\" Timeline Photos",
-          1412072141
-        ],
-        [
-          "Calling all Nightwish fans! Want to be a part of a global community of\nfriends? With new logos and designs, the Nightwish USA Official Fan Club is now offering a bundle of goodies for all members. Come be a part of the fun!  http://nightwishusa.com/Club.html Timeline Photos",
-          1412003557
-        ],
-        [
-          "VOX done! Marco and Floor finished their vocal recording!!! We're getting closer to the end of these magical recording sessions\u2026\nBut this milestone in its process was celebrated with as much joy as the recording itself! Timeline Photos",
-          1411754933
-        ],
-        [
-          "The recording of the album is going great!!! Today we can announce that all rhythm- and lead guitars are now recorded! Missing just a couple of solos, to be recorded after the vocals (hard to shred with that mutant right hand, anyway\u2026). Truly fantastic job, Emppu!\nOn to keyboards and vocals next. \n\nNothing goes without minor bumps (second picture)\nWhen computers (and the engineer`s nerves\u2026) fail\u2026:-) Photos from Nightwish's post",
-          1409992976
-        ],
-        [
-          "\u201cWhen I come up with a subject for the song, I always see it as a short movie. Each song is like a soundtrack for that movie in my head\u2026 it takes at least 12-18 month to write an album.\u201d\n\nNew Nightwish album coming 2015! Watch the third album trailer below. NIGHTWISH - Making of new album 2015; Episode 3 (OFFICIAL TRAILER) A NEW NIGHTWISH ALBUM IS COMING! Enjoy the third episode of \u201ethe making of\" the new Nightwish album, which is scheduled to be released before summer 2015 SUB...",
-          1408550400
-        ],
-        [
-          "We are Fans from greece! We make symphonic elecrtro epic music!!!! Hell us to became famous!!! We love u!!!! Listen the voice of my girl!\n Airesis - The Wizard Music: Loop Lyrics/Vocals: Dee Mixing & Mastering: Loop (Deeloop studios) VFX: Loop & Dee LYRICS: VERSE 1: Boom like a bomb let the fireball burn ya Ya wanna...",
-          1407362266
-        ],
-        [
-          "How to begin telling something that you wouldn\u2019t want to have to tell, although you know that the decision you made is the only (at least the only right) one you could make at the moment? I face this dilemma now, and will do my best to find the right words.\n\nFor a number of years, I have suffered from occasional but very difficult insomnia, something that has been my unwanted companion during many of our tours, too. I\u2019ve done my best to try to control it or at least to cope with it. Still, we don\u2019t even really know why we need sleep, so unfortunately there\u2019s not much information available on why some of us suffer from sleeplessness. There is no 100% cure for the problem.\n\nDuring the last month, it has become evident for me that due to my insomnia, I can\u2019t fulfill my duties as a musician in the way that I\u2019d want and with the precision that the music deserves. Thus I have decided to step aside from my duties as the drummer of Nightwish during the recording of the forthcoming album and the subsequent tour. I will still be involved in managing the day-to-day affairs of the band, but the dearest and the most important thing, playing, is, for the time being, not possible. Time will tell what the future holds.\n\nOn a personal level, my decision obviously feels indescribably sad. Fortunately, looking at it with some distance, it is \u201cjust\u201d part of the constant, inevitable ebb and flow of life. The sad things are part of it as well as the beautiful, unforgettable experiences and adventures that I\u2019ve already had the pleasure to experience in spades. Surely, there will still be many adventures ahead, too.\n\nMy good friend Kai Hahto will play drums on the forthcoming album. I\u2019m extremely grateful that he didn\u2019t hesitate for a minute when he decided to help us in this challenging situation. What comes to touring, everything is still open, but we will let you know as soon possible what the line-up will be.\n\nIf beginning this was hard, so is ending it. So maybe I will just quote something fitting.\n\n\u201cYou can only lose something that you have, but you cannot lose something that you are.\u201d\u2015 Eckhart Tolle\n\nBest regards, Jukka Nevalainen / Nightwish NIGHTWISH - Jukka Nevalainen forced to take a break due to health issues How to begin telling something that you wouldn\u2019t want to have to tell, although you know that the decision you made is the only (at least the only right) one...",
-          1407309202
-        ],
-        [
-          "Nightwish are proud to announce our newly-inked North American deal for the U.S. and Canada via Nuclear Blast Entertainment.\n\nThe band\u2019s as-yet-untitled eighth studio album will be the first to feature new Dutch vocalist Floor Jansen, who has toured with the band since October 2012.\n\nExpanding the territory of NIGHTWISH\u2019s initial European collaboration with Nuclear Blast\u2018s HQ in Germany since 2004\u2019s Once album, NBE President and A&R Chief Monte Conner looks forward to the growth of the band\u2019s new line-up:\n\n\u201cIt was a pleasure to work with NIGHTWISH at my former label, but now in my new capacity at NBE, I will be more directly involved with the band than ever before.  I would like to thank NIGHTWISH and their management for their continued faith in and loyalty to me.  I am particularly excited at the prospect of hearing Floor Jansen\u2019s debut studio recording with the band. Her performance on last year\u2019s live release Showtime, Storytime completely blew me away and proved why she is the PERFECT singer for NIGHTWISH.\u201d \n\nNIGHTWISH\u2019s long-time co-manager Ewo Pohjola of King Foo Entertainment adds the following:\n\n\u201cHaving Monte Conner now back with NIGHTWISH in North America makes us all really happy. And with Nuclear Blast we have always felt at home since Day One.\u201d\n\nRecordings of the new NIGHTWISH material are slated begin this summer. Band members have already spent time in the wilderness of Hattula, Finland working on new song demos with producer Tero \u201cTeeCee\u201d Kinnumen. \n\n\u201cIt\u2019s proven to be a very effective arrangement,\u201d states song composer & keyboard player Tuomas Holopainen. \u201cWe have our peace here, in the middle of nature. We can concentrate 24/7.\u201d \n\n\u201cThere\u2019s stuff that sounds excellent already and stuff that clearly needs some work still,\u201d adds bassist & vocalist Marco Hietala. \u201cWe have such a strong belief in the end result that we know if will work like alchemy: Schei\u00dfe [shit] will turn to gold.\u201d Timeline Photos",
-          1407166314
-        ],
-        [
-          "Read Tuomas's update about the progress of the new Nightwish album at:\nhttp://www.tuomas-holopainen.com/en/diary/513-14th-may-demo-update Timeline Photos",
-          1400326292
-        ],
-        [
-          "Have you been wondering what Emppu has been up to lately? Find all your answers and some damn good music in this video! \n\nhttp://www.vevo.com/watch/brother-firetribe/for-better-or-for-worse/FIUV71400018 VEVO | New Music Videos, Premieres, Concerts & Original Shows Watch your favorite artist's music videos, see premiere performances and search for new music on VEVO.com.",
-          1399199835
-        ],
-        [
-          "Tuomas's \u00bbThe Life And Times Of Scrooge\u00ab enters international charts!\n\nFinland            #1\nSweden:          #12 (Rock charts)\nSwitzerland:    #19\nGermany:        #23\nUSA:                #29 (Billboard Top New Artist Albums; Heatseekers)\nCzech Republic: #40\nAustria:           #52\nUK:                  #92\nBelgium:         #92\n\nCommented TUOMAS HOLOPAINEN: \u201cThe response to the album \u00bbThe Life And Times Of Scrooge\u00ab has been unexpectedly overwhelming and heartwarming. I wish to thank you all for the support! Moreover, I hope the album has brought Don Rosa`s wonderful story to your attention, as well!\u201d Timeline Photos",
-          1398420254
-        ],
-        [
-          "This is incredible! It's Nightwish Acapella. Van Canto - Wishmaster (Official) Join us on Facebook! (http://www.facebook.com/vancantoband) Here comes the brand new Van Canto music video Wishmaster! The track is a very special interpreta...",
-          1395695794
-        ],
-        [
-          "Congratulations to Emppu &  Brother Firetribe! Spinefarm Records We are happy to tell you that Brother Firetribe returns with a new album! \u201cDiamond In The Firepit\u201d will be out in May. We also gave the band gold awards for their previous album \u201cHeart Full Of Fire\u201d. Congratulations guys and welcome back!",
-          1393661401
-        ],
-        [
-          "Some additional \"Showtime, Storytime\" chart entries available. Here's the whole list:\n\nFinland DVD #01 (#40 CD)\nFrance DVD #02\nSweden DVD #02\nUK #05 (Rock/Metal Top 40; #126 Charts)\nGermany #06 (DVD #1)\nAustria DVD #09\nBelgium #11 (Belgium Flanders #15, Belgium Walloonia #7)\nUSA #15 (Top 100 Hard Music Albums)\nSwitzerland #52",
-          1387702610
-        ],
-        [
-          "This summer, NIGHTWISH published the first application about the band for tablet computers. It has now been updated. The new version includes three unreleased live recordings by NIGHTWISH, a videoblog by the band's new vocalist Floor Jansen, profiles of the band members, new photos, and other interesting updates. NIGHTWISH FanPOD also includes details of all NIGHTWISH\u00b4s online services.\n\nNIGHTWISH FanPOD is available for download in English, Portuguese and Russian on iTunes App Store and Google Play.\n\nCommented NIGHTWISH manager Ewo Pohjola: \u201cNIGHTWISH has always taken a keen interest in everything new. With FanPOD we can give our fans much more than just with traditional printed fanclub newsletter. For one thing, with printed newsletter there\u2019s no way we could publish actual recordings and rare video footage that we have here plenty in our archives.\"\n\nMore details, please visit the following link:\nhttp://fanpod.fi/nightwish\nor contact:\nCyde Hyttinen, Executive ProducerProvisual Ltd. - FanPOD mobile at cyde@provisual.fi.\n\nAlso watch out for the upcoming NIGHTWISH DVD / Blu-ray \u00bbShowtime, Storytime\u00ab, which is out on Nuclear Blast on November, 29th.\n\n\u2018Ghost Love Score\u2019 (live): http://youtu.be/JYjIlHWBAVo\n\u2018Storytime\u2019 (Live): http://youtu.be/pvkYwOJZONU\n\nTrailer #1: http://www.youtube.com/watch?v=_czsLPig_0s&feature=youtu.be\nTrailer #2: http://www.youtube.com/watch?v=TnKe1-8hVus\nTrailer #3: http://www.youtube.com/watch?v=18zFzKQXEmU\n\nPreorder \u00bbShowtime, Storytime\u00ab from the official Nightwish Shop at: http://shop.nightwish.com\nor at: http://smarturl.it/NIGHTWISHShowtime Nightwish FanPOD NEW Nightwish update 12.11.2013 New update includes the band's history, a trailer of Imaginaerum movie, details of all Nightwish's online services, upcoming shows and the Nightwish shop, plus lots of pictures. Version 2 includes band members introductions, previously unreleased music, Floor Jansen\u00b4s...",
-          1385037619
-        ],
-        [
-          "Additional \"Showtime, storytime\" release dates available:\n\n- Argentina: December 15th (2DVD / 2CD) Delimaginario Discos\n- Japan: December 18th (2DVD+2CD / 2DVD) Marquee Inc.\n- Korea : December 19th  (2DVD+2CD / 2CD) Evolution Music\n- Brazil: January 1st 2014 (2DVD / 2CD) Dynamo Brazilie\n- Taiwan: January 2nd 2014 (2DVD+2CD / 2DVD / 2CD) Magnum Music",
-          1384773685
-        ],
-        [
-          "NIGHTWISH \u2013 new trailer featuring Tuomas Holopainen online.\n\nOnly two weeks ago, NIGHTWISH announced to continue as a six-piece band, featuring their new singer Floor Jansen and Troy Donockley (uilleann pipes, low whistles, vocals) as a full-time members.\n\nDuring the promotion trip for the upcoming live / tour documentary DVD \u00bbShowtime, Storytime\u00ab (out on November 29th), Nuclear Blast Records filmed the following trailer, featuring Tuomas Holopainen talking about their new family members.\n\nWatch it here: http://www.youtube.com/watch?v=TnKe1-8hVus\n\nRemember to also check:\nTrailer #1: http://www.youtube.com/watch?v=_czsLPig_0s&feature=youtu.be\n\u2018Storytime\u2019 (Live): http://youtu.be/pvkYwOJZONU\n\nPreorder \u00bbShowtime, Storytime\u00ab from the official Nightwish Shop: http://shop.nightwish.com/\nor at http://smarturl.it/NIGHTWISHShowtime Nightwish - \"Showtime, Storytime\" (2nd Trailer) Watch Tuomas Holopainen talking about the new band members.",
-          1382695238
-        ],
-        [
-          "Message from the Brueland Family\r\n\r\nTo all the members of Nightwish, their families, the people of Finland and fans around the world.....\r\n\r\nOctober 25, 2013 is the 10th anniversary of the death of our beloved son and brother Marc Brueland....\r\nWe would like to take this opportunity to express our profound gratitude and love for your support these past 10 years....\r\n\r\nNightwish opened their hearts to us and never looked back....At ProgPower 2003, having never met us before, we were welcomed into their world with love and compassion....Marc was brought on stage in his wheelchair and given the time of his life as Nightwish performed \"Walking in the Air\".  It gave him such strength that he was able to get out of that chair and walk on stage to hug his \"brother\" Tuomas and express his gratitude to the band.\r\n\r\nOver these past 10 years since his passing we have attended so many gigs where the band graciously performed \"Higher Than Hope\" for us and to honor Marc...We would head bang along with the fans and sing the lyrics as we wiped tears from our eyes....It has been magical and such an honor to be part of.\r\n\r\nTherefore, we would like to take this opportunity to thank Marco, Jukka, Emppu, Troy, Tarja, Anette, Floor and our beloved Tuomas and the fans for all you have given us.  We look forward to the bright future ahead with excitement and love.\r\n\r\nThe Brueland Family,\r\nGeorgene and Erin\r\nas well as our beloved\r\nMarc and Eric Timeline Photos",
-          1381752059
-        ],
-        [
-          "Ms. Floor Jansen is a keeper.\n\nAlso, we will be a six-piece band from now on, as Mr. Troy Donockley (uilleann pipes, low whistles, vocals) will become a full-time member of NIGHTWISH.\n\nOriginally we were going to wait until 2014 to make a decision about the future line-up of the band, but the past year has clearly shown us that Floor and Troy are perfect matching pieces to our puzzle, and we are really grateful of the bond that has grown between all of us. We love you guys.\n\nTuomas\nMarco\nJukka\nEmppu\n\nCommented vocalist Floor Jansen: \"Words cannot describe what I feel! This union is beyond everything and I cannot tell you how wonderful it is to continue this amazing journey with my new brothers! Once I had a dream\u2026and this is it!!!\"\n\nPiper/whistleman, added vocalist Troy Donockley: \"`Imaginaerum World Tour\u00b4was a revelation to me and in that time, I became aware of a growing unity and then, finally, a transcendence of all the usual nonsense that affects bands. A beautiful process. And since the idea, the musical dream that is NIGHTWISH has been a part of me since before I was born, I am delighted to officially sail into uncharted waters with my brothers and sister. Wondrous scenes Ahoy! \"\n\nThe new line-up can be seen on the live / tour documentary DVD \u00bbShowtime, Storytime\u00ab, released on November 29th.\n\nWatch a brand new trailer, directed by Ville Lipi\u00e4inen here: http://www.youtube.com/watch?v=_czsLPig_0s&feature=youtu.be\n\nPreorder \u00bbShowtime, Storytime\u00ab at:\nthe official Nightwish Shop at: http://shop.nightwish.com (Shipping worldwide!)\nor from http://smarturl.it/NIGHTWISHShowtime\n\nwww.nightwish.com | www.facebook.com/nightwish | www.nuclearblast.de/nightwish",
-          1381302019
-        ],
-        [
-          "TARJA NEW VIDEO!!!!\n\nhttp://www.youtube.com/watch?v=7PHr2NHfCjo Tarja \"Victim Of Ritual\" Official Music Video from \"Colours in The Dark\" OUT NOW! Download the single & video via iTunes: http://smarturl.it/Tarja_VOR Click here to pre-order the new album \"Colours In The Dark\": http://www.tarja-coloursint...",
-          1379414996
-        ],
-        [
-          "The video for Kari Ruesl\u00e5tten's new single \"Why So Lonely\" has been released today and can be viewed following the link below. \n\nThis new recording of the The Third And The Mortal classic from 1994 features Tuomas Holopainen on keyboards and piano. The original song has been a big inspiration for the birth of Nightwish.\n\nEnjoy the video and have a great weekend, everybody! Kari Ruesl\u00e5tten - Why So Lonely (OFFICIAL) \"Why So Lonely\" from Kari Ruesl\u00e5tten, featuring Tuomas Holopainen from Nightwish on keyboard. A brand new recording of the song originally made famous by 3rd...",
-          1379089209
-        ],
-        [
-          "Kari Ruesl\u00e5tten's new single \"Why So Lonely\" featuring Tuomas Holopainen on piano and keys is now ready to be streamed or downloaded through iTunes, Amazon, Spotify and Wimp. Also available on vinyl.\r\n\r\nMore information can be found on her website at http://www.karirueslatten.com or her facebook page: http://www.facebook.com/kari.rueslatten.official Timeline Photos",
-          1378732662
-        ],
-        [
-          "HEY PEOPLE!!!  Watch tarjaofficial TARJA's new Video from \"Colours In The Dark\" new album out NOW! Enjoy and share. \n\nhttp://www.youtube.com/watch?v=7PHr2NHfCjo Tarja \"Victim Of Ritual\" Official Music Video from \"Colours in The Dark\" OUT AUGUST 2013 Download the single & video via iTunes: http://smarturl.it/Tarja_VOR Click here to pre-order the new album \"Colours In The Dark\": http://www.tarja-coloursint...",
-          1378134069
-        ],
-        [
-          "\"Wild Card\", the second album of Floor Jansen\u00b4s REVAMP finally hits the stores! REVAMP \u2013 \u00bbWild Card\u00ab out now! - read more. Never before in my career I faced a situation like the one we were in with this album. It was a huge challenge because of several reasons...",
-          1377514339
-        ],
-        [
-          "WATCH TARJA`S NEW VIDEO... for her new album Colours In The dark.\n\nhttp://www.youtube.com/watch?v=7PHr2NHfCjo Tarja \"Victim Of Ritual\" Official Music Video from \"Colours in The Dark\" OUT AUGUST 2013 Download the single & video via iTunes: http://smarturl.it/Tarja_VOR Click here to pre-order the new album \"Colours In The Dark\": http://www.tarja-coloursint...",
-          1377442372
-        ],
-        [
-          "Tuomas appears on Kari Ruesl\u00e5tten`s solo album, in the track \"Why So Lonely\", a new version of The Third And The Mortal - classic from the 1994 album \"Tears Laid In Earth\".\nThis album was a huge inspiration for the birth of Nightwish back in mid 90`s, so yet another circle closes!\nCheck out the news from the link below. \n\nhttp://www.blabbermouth.net/news.aspx?mode=Article&newsitemID=193304",
-          1375869816
-        ],
-        [
-          "Nightwish FanPOD Trailer Nightwish FanPOD Trailer Nightwish has published the first Nightwish FanPOD Vol 1. app for tablet computers. This \"e-magazine\" for fans of the band is now available in four languages...",
-          1374150375
-        ],
-        [
-          "We have always been enthusiastic about new things, both in music and technology. We have tablet computers for fun, and noticed that they could also be useful for the band and fans. That's why we started our own \"fan magazine\" for tablet computers, and the Vol. 1 is now available! More updates are coming in autumn 2013, and you'll see more previously unpublished pictures, videos, and other interesting stuff and benefits. \n\nCheck out the first Nightwish FanPOD Vol 1. here: http://www.fanpod.fi/nightwish Nightwish FanPOD Nightwish 1 English Nightwish Vol 1. FanPOD is the first application for tablet computers about Nightwish-band. The application icludes band's history, Imaginaerum movie trailer, all Nightwish's online-services, upcoming shows, Nightwish Shop and plenty unpublished pictures. More updates coming in a...",
-          1372933081
-        ],
-        [
-          "Nightwish exhibition in the Kitee museum\n\nIn the Kiteen Kotiseutumuseo there`s now a small Nightwish section where you can see memorabilia and some rare pieces of the band`s history. The entrance is 2 euros, which includes all other sections of the museum, as well. Definitely worth a visit if you happen to be around!\n\n-\n\nNightwish-n\u00e4yttely Kiteen kotiseutumuseossa\n\nKiteen keskustassa sijaitsevassa kotiseutumuseossa on meneill\u00e4\u00e4n pienimuotoinen Nightwish-n\u00e4yttely, jossa on n\u00e4ht\u00e4viss\u00e4 tavaroita b\u00e4ndin uran eri vaiheilta. Sis\u00e4\u00e4np\u00e4\u00e4sy on 2 euroa, jolla p\u00e4\u00e4see tutstumaan my\u00f6s museon muihin osastoihin. K\u00e4y tsekkaamassa jos satut olemaan hoodiloilla!",
-          1370863603
-        ],
-        [
-          "Floor has posted a very nice video blog of Nightwish's Japan tour to her website. Enjoy! In Japan with Nightwish \u2014 Floor Jansen I promised you a new blog in my previous post. Instead of a written one I made a video report of my trip to Japan with Nightwish. I hope you'll enjoy it!",
-          1370159038
-        ],
-        [
-          "My twins were sad to hear about Annette no longer being with the band, but they are hard at work with their audition tape!!!!  I hope you enjoy this as much as I do.  I present some of your youngest fans!!!!!",
-          1366206423
-        ],
-        [
-          "Our new album \"Frozen Legends\" is out! Two tracks are free to download, check it out! Skadika - Trapped The second track of our new album \"Frozen Legends\" which will be out on Jan 5th '13. You can download the track here: http://skadika.bandcamp.com/album/froze...",
-          1358980477
-        ],
-        [
-          "Soy s\u00ed fan",
-          1358687313
-        ],
-        [
-          "Please take a look at our official Videoclip \"My Fellow Prisoner\" Featuring Labyrinth and A Perfect Day Singer Roberto Tiranti.\nFrom our album \"The Prophecy\" out for Nadir Music.\nVideo By Armonica Film, Directed By Paolo Mantero\nScreenplay By Francesco Molinelli\nFeaturing Roberto Tiranti and Lyliwithe\n\nhttp://youtu.be/cL1rjRHe44U\n\nWe Hope you could like it!!!!\n\nStay Metal!!!!!!! GEMINY \"My Fellow Prisoner\" Official Videoclip BAND: GEMINY GENRE: HEAVY PROG METAL SONG: MY FELLOW PRISONER ALBUM: THE PROPHECY RECORDED AT: NADIR STUDIOS LABEL: NADIR MUSIC OUT: NOVEMBER 2012 PRESS OFFI...",
-          1358502551
-        ],
-        [
-          "Marco & Emppu in Puerto Rico  <3",
-          1354854532
-        ],
-        [
-          "Emppu & Marco in Puerto Rico!!  <3  What an epic show!",
-          1354854107
-        ],
-        [
-          "The new promo pictures inspired me... ;)",
-          1354048058
-        ],
-        [
-          "Reino - shoes make history!\n\nThis must be the number 1. Christmas present for this year! Check 'em out!!!\n\nEnglish:\nhttp://www.reinokauppa.fi/nightwish/en/\n\nFinnish:\nhttp://www.reinokauppa.fi/nightwish/ Click here to buy yours! The Finnish metal band Nightwish and Reino are making history together. Each pair of Reino slippers is accompanied by an Authenticity Certificate which guarantees you have a genuine and authentic pair of Nightwish Reinos.",
-          1351848304
-        ],
-        [
-          "Want more insight to the Imaginaerum movie?\nThe official British Isles fan club, The Islanders, is offering a pre-order of the second and final printing of their \"Imaginaerum Special\" fanzine. Featuring interviews with the cast and crew, as well as other exclusive content.\n\nDirector Stobe Harju commented: \"The Wayfarer has the most fantastic insight of Imaginaerum. Get one!\"\n\nFor more info: http://www.the-islanders.co.uk/main/index.php/the-wayfarer The Wayfarer This40 page monsterfeatures fan reviews, stories and more. Of course who could forget that it's called the'Imaginaerum Special', featuring exclusive interviews about the upcoming film byTuomas Holopainen, Marianne Farley, Quinn Lord, Petri Alanko, Ilkka Villi, Stobe Harju, Marco HietalaandToxic Ange...",
-          1350919840
-        ],
-        [
-          "My new tattooooo!!!! *-* <3",
-          1348471743
-        ],
-        [
-          "Well dear friends, from Argentina are writing to tell you how much we regret the departure of Tarja, beyond their egocentric, when we learned that she would leave the band, cherish the desire to see the band paraded all the energy of Floor Jansen. Actually we all would have liked to enjoy the magic of Floor in Nightwish. Poor Anette, she does what she can, but if not for the masterful arrangements of Tuomas, Marco's voice, Jukka bases plus under Emppu, ... believe us, it would seem too La Oreja de Van Gogh . Floor really has not done great with ReVamp, is not it a delicious temptation to seduce her reign with her voice the sound of Nightwish??? Dark night hugs and wishes from Argentina.",
-          1346011663
-        ],
-        [
-          "Nightwish Indonesian\n\nWe yours fans Nightwish\n\nhttp://m.facebook.com/profile.php?id=220103988110117&ref=stream",
-          1345548567
-        ],
-        [
-          "Fans from Australia and New Zealand! Can you spare an evening for Nightwish in January 2013? Timeline Photos",
-          1343020066
-        ],
-        [
-          "Click on like @ Nuclear Blast EUROPE to get all important news of your favourite metal bands first! Nuclear Blast Our facebook fans heard of it live during the after show party last Sunday and here is the official news with a good quality picture:\n\nAfter their last show on the first part of the \u201eImaginaerum\u201c tour, in Stuttgart Nightwish received 3 awards from their label Nuclear Blast: \n\n\u201eImaginaerum\u201c \u2013 Gold Award (for more than 100.000 sold copies in Germany) \n\u201eDark Passion Play\u201c \u2013 Platinum Award (for more than 200.000 sold copies in Germany) \n\u201eOnce\u201c Triple Gold Award (for more than 300.000 sold copies in Germany) \n\n\"These 3 awards from \u201eOnce\u201c, \u201eDark Passion Play\u201c and \u201eImaginaerum\u201c represent the purity of our music making, loyalty of the fans, and hard work & trust from the record label and management. We are deeply touched and grateful, and will continue to tread the chosen path with you all\u201c, so the statement from Tuomas Holopainen. \n\n\u201cNIGHTWISH rightfully stand at the very top of the winner\u2019s podium, brave every trend with their music and go ahead with their style consistently with much blood, sweat and tears. Each and every NIGHTWISH album is a masterpiece and the awards substantiate that the fans acknowledge and honour the band\u2019s class and sincerity. We\u2019re very proud that we\u2019ve been able to make our contribution to their success and are looking forward a lot to our shared future\u201d, states Andy Siry \u2013 head of A&R and label manager of Nuclear Blast. \n\nMore news: \nwww.nightwish.com I www.nuclearblast.de/nightwish \n\nFotocredit: Audrey Dujardin / www.facebook.com/audrey.dujardin.photography",
-          1336566197
-        ],
-        [
-          "Hey US Fans! There are a few Trials of Imaginaerum 10\" Picture Discs available at the Roadrunner Records store! http://bit.ly/IdhMrW  Nightwish - Trials Of Imaginaerum 10",
-          1335378398
-        ],
-        [
-          "Thank you for taking part in the video competition! Within the next days, a decision will be made and a winner chosen! But there are so many great videos up there...  Nuclear Blast Fan Video Contest       - YouTube Share your videos with friends, family, and the world",
-          1334646148
-        ],
-        [
-          "Nightwish introducing your new mistress and dominatrix: Madam Anette Hell! Don't be fooled by the quality of the audio. The band IS playing live! Nightwish - \"Planet Hell\" from SIR Studios \"Planet Hell\" shot in January 2012 at SIR Studios, LA, USA.",
-          1334152202
-        ],
-        [
-          "If you haven't taken part yet - go ahead! There are already some great videos up there! If you have already taken part: Thank you for your efford and good luck! Nightwish Fan Video Contest - Nuclear Blast Nightwish Fan Video Contest",
-          1333455103
-        ],
-        [
-          "Nightwish are releasing a limited edition 10\" EP, Trials of Imaginaerum, on Record Store Day 2012 which will include the band's demo versions (with vocals by Marco Hietala) of Imaginaerum tracks \"Storytime,\" \"I Want My Tears Back,\" \"The Crow, the Owl, and the Dove\" and \"Slow, Love, Slow.\"  Also, with your purchase, you'll also get a download code for a fifth unreleased track! Nightwish Issues Record Store Day 10\" The Finnish symphonic metallers release their demos on vinyl!",
-          1331735727
-        ],
-        [
-          "Good evening fans! Have you already seen the trailer to the upcoming Monsters Of Metal Volume 8 where we are represented too?! Watch and enjoy!\nhttp://www.youtube.com/watch?v=aMGITz8n4q4\n\nIf you want to know who else is on this DVD visit this site!\nhttp://www.nuclearblast.de/en/label/music/news/details/669108.monsters-of-metal-vol-8-neuer-release.html\n MONSTERS OF METAL Vol. 8 -- official Trailer The ultimate Metal compilation \"MONSTERS OF METAL -- VOL.8\" on DVD/Blu-Ray with 90 music videos and over 400 minutes pure metal will be out on March 16, 2012...",
-          1331561134
-        ],
-        [
-          "Emppu is so sweet <3<3<3<3<3<3<3<3<3<3 i love you",
-          1331489748
-        ],
-        [
-          "New Nightwish single \"The Crow, The Owl And The Dove\" went directly to top position on the Finnish single chart!\" Timeline Photos",
-          1331294948
-        ],
-        [
-          "5 Track CD Single 2012",
-          1331137965
-        ],
-        [
-          "Nightwish's new single \"The Crow, The Owl And The Dove\" will be released tomorrow! Pre-order your copy on www.itunes.com/nightwish",
-          1330607488
-        ],
-        [
-          "http://www.youtube.com/watch?v=hF04p4oO7lI\n\nBeautiful song! Anette sounds amazing!  Nightwish - The Heart Asks Pleasure First New Song I DO NOT OWN THIS MUSIC!! IT'S FROM NIGHTWISH'S NEW SINGLE \"THE CROW, THE OWL AND THE DOVE\" P.S. The song is just incredible :X Enjoy! :)",
-          1330572372
-        ],
-        [
-          "There has been a change in the rules of the Video Contest! Thanks to you fans, we have decided to make it as fair as possible. Now, the Band will chose the winner, together with the label and the management, and under consideration of views and \"like\" clicks. So please do go on! Show us your creativity! Nightwish Fan Video Contest - Nuclear Blast Nightwish Fan Video Contest",
-          1330075615
-        ],
-        [
-          "There's a video contest on for the new single track \u201cThe Crow, The Dove And The Owl\u201d off the recent \u201eIMAGINAERUM\u201c album - Take your cam and take part!  Nightwish Fan Video Contest - Nuclear Blast Nightwish Fan Video Contest",
-          1329994299
-        ],
-        [
-          "\"The Crow, The Owl And The Dove\" singles are here!\n\nWe just received the first print run of the new \"The Crow, The Owl And The Dove\" single and it looks fantastic! Release for the Finland is on February 29th and for the others on March 2nd.\n\nIf you haven't yet ordered your copy do it now!\n\nORDER NEW SINGLE HERE: http://presales.nwshop.fi/siteshop/list Timeline Photos",
-          1329812712
-        ],
-        [
-          "Gold in Poland!!\n\nThe success for our new record IMAGINAERUM continues. The 6th gold award comes from POLAND. We're proud and very happy about this amazing result and thank all you fans in Poland for the support!",
-          1328897565
-        ],
-        [
-          "Check this CNN video report about the \"70,000 Tons of Metal\" cruise, featuring some scenes from Nightwish's performance! 70,000 Tons of Heavy Metal I'm on board of 70,000 tons of metal, \"Heavy Metal\" that is. Heavy Metal is actually part of a very wide range of music that can utilize much more than typically loud guitars and drums. I saw everyth",
-          1327683659
-        ],
-        [
-          "After having reached gold status in Germany, Greece and Finland (multiple platinum), Nightwish's new album IMAGINAERUM has also been certified Gold in Switzerland and Slovakia.\n\nIncluding the fantastic sales of Imaginaerum, Nightwish have now sold more than 1.000.000 albums in Germany.",
-          1327674104
-        ],
-        [
-          "The good news don't stop: Imaginaerum has entered the Canadian album charts at #13. Huge thanks and merci beaucoup to the fans in Canada!",
-          1326979259
-        ],
-        [
-          "Imaginaerum has entered the American billboard charts at #27 ! In Japan it entered the international chart at #7 ! These are the highest entries ever for a Nightwish album in these countries. Huge thanks for everybody who made this come true!",
-          1326903451
-        ],
-        [
-          "Pre-order the new NIGHTWISH single NOW!\n\nNew single \"The Crow, The Owl And The Dove\" is now on presale at the Nightwish-Shop! Along with the title song you will also get a previously unreleased song \"The Heart Asks Pleasure First\" (Theme from movie 'The Piano')! Only at the Nightwish-Shop you can choose to order a bundle that includes an exclusive t-shirt!\n\nOrder your copy NOW! => http://presales.nwshop.fi\n\n We ship worldwide!!! Timeline Photos",
-          1326290240
-        ],
-        [
-          "We are proud to announce that \"Imaginaerum\" has reached Gold status in Germany, with more than 100.000 units sold.\n \nTuomas Holopainen comments: \"Germany never fails us! Only 5 weeks since the release and Imaginaerum goes gold! Magical, wondrous, imaginative and grateful times we're living. Huge thanks to all the fans and the fellowship of Nuclear Blast!\"\n \nAnother gold level was reached in Greece, while the record already made triple platinum in the band's homecountry Finland.\n \nBut there are even more news from Germany: the \"Once\" album has reached triple gold level, and \"Dark Passion Play\" was certified platinum!",
-          1326121330
-        ]
-      ],
-      "dates_start": 1339842981,
-      "dates_end": 1424331047,
-      "likes_avg": 4788,
-      "likes_stdev": 5759,
-      "comments_avg": 257,
-      "comments_stdev": 481,
-      "shares_avg": 443,
-      "shares_stdev": 897
+      "dates_start": 1335733604,
+      "dates_end": 1432172230,
+      "likes_avg": 5290,
+      "likes_stdev": 5777,
+      "comments_avg": 219,
+      "comments_stdev": 259,
+      "shares_avg": 297,
+      "shares_stdev": 722
     }
   ]
 }

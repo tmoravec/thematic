@@ -2,88 +2,27 @@
   "pagename": "fordmustang",
   "globalstats": {
     "messages": 1296,
-    "likes_avg": 12157,
-    "likes_stdev": 23136,
-    "comments_avg": 409,
-    "comments_stdev": 2113,
-    "shares_avg": 1444,
-    "shares_stdev": 4160,
+    "likes_avg": 12518,
+    "likes_stdev": 24009,
+    "comments_avg": 418,
+    "comments_stdev": 2224,
+    "shares_avg": 1514,
+    "shares_stdev": 4387,
     "graph_uri": "clusters/fordmustang.png"
   },
   "clusters": [
     {
       "number": 1,
       "important": [
-        "add",
-        "come",
-        "day",
-        "holiday",
-        "skill",
-        "get",
-        "mustang",
-        "need",
-        "home",
-        "pack"
-      ],
-      "common": [
-        "boast",
-        "boast holiday",
-        "boast holiday packing",
-        "boast holiday packing skills",
-        "holiday",
-        "holiday packing",
-        "holiday packing skills",
-        "packing",
-        "packing skills",
-        "skills"
-      ],
-      "messages": [
-        [
-          "Merry Christmas!! =) - Juan F. Boast Your Holiday Packing Skills",
-          1325856262
-        ],
-        [
-          "Definitely took some strategic planning to get it all in there... - Adam P. Boast Your Holiday Packing Skills",
-          1325856262
-        ],
-        [
-          "All day shopping spree at the mall! - Jay C. Boast Your Holiday Packing Skills",
-          1325856262
-        ],
-        [
-          "Who needs a truck? This was just a small 6-footer!\n- Angel C. Boast Your Holiday Packing Skills",
-          1325534557
-        ],
-        [
-          "Coming home after the gifts were unwrapped...\n- Eddie T. Boast Your Holiday Packing Skills",
-          1325534556
-        ],
-        [
-          "Loaded my 2008 Mustang with my 7-piece drumset! FORGET about passengers! - Rick S. Boast Your Holiday Packing Skills",
-          1325534556
-        ]
-      ],
-      "dates_start": 1325534556,
-      "dates_end": 1325856262,
-      "likes_avg": 212,
-      "likes_stdev": 96,
-      "comments_avg": 43,
-      "comments_stdev": 30,
-      "shares_avg": 10,
-      "shares_stdev": 6
-    },
-    {
-      "number": 2,
-      "important": [
-        "captur",
-        "win",
         "est",
-        "timelin",
         "end",
-        "onli",
-        "vote",
         "two",
+        "timelin",
+        "vote",
         "choos",
+        "captur",
+        "onli",
+        "win",
         "mustang"
       ],
       "common": [
@@ -142,18 +81,18 @@
       "shares_stdev": 371
     },
     {
-      "number": 3,
+      "number": 2,
       "important": [
-        "style",
-        "speed",
-        "job",
-        "truck",
-        "muscl",
         "driver",
+        "muscl",
         "classic",
+        "famili",
         "sport",
-        "like",
-        "famili"
+        "style",
+        "job",
+        "speed",
+        "truck",
+        "like"
       ],
       "common": [
         "car",
@@ -215,18 +154,18 @@
       "shares_stdev": 148
     },
     {
-      "number": 4,
+      "number": 3,
       "important": [
-        "add",
+        "topdowntuesday",
         "timelin",
-        "topdowntuesday timelin",
         "photo",
-        "convert",
-        "car",
-        "mustang",
-        "person",
+        "topdowntuesday timelin",
         "mustang convert",
-        "topdowntuesday"
+        "add",
+        "person",
+        "mustang",
+        "convert",
+        "car"
       ],
       "common": [
         "convertible",
@@ -292,18 +231,18 @@
       "shares_stdev": 1800
     },
     {
-      "number": 5,
+      "number": 4,
       "important": [
-        "get custom",
         "mustang could",
         "creat",
+        "custom mustang",
         "next ford mustang",
         "car week",
-        "next ford",
         "could next",
+        "get custom",
         "blue",
-        "could next ford",
-        "custom mustang"
+        "next ford",
+        "could next ford"
       ],
       "common": [
         "created",
@@ -377,17 +316,114 @@
       "shares_stdev": 1181
     },
     {
+      "number": 5,
+      "important": [
+        "two",
+        "timelin",
+        "photo",
+        "tbt timelin",
+        "shelbi",
+        "made",
+        "tbt",
+        "check",
+        "dream",
+        "origin"
+      ],
+      "common": [
+        "mustang",
+        "mustang tbt",
+        "mustang tbt timeline",
+        "mustang tbt timeline photos",
+        "photos",
+        "tbt",
+        "tbt timeline",
+        "tbt timeline photos",
+        "timeline",
+        "timeline photos"
+      ],
+      "messages": [
+        [
+          "This is the stuff dreams are made of - two rare original Shelby GT350 reunited for a limited tour. Be sure to check out all the pictures in the article http://ford.to/V3Gpke #TBT Timeline Photos",
+          1405601087
+        ],
+        [
+          "Show us your classic Mustang wallpaper on your phone, laptop, desktop or tablet! #TBT Timeline Photos",
+          1402599997
+        ],
+        [
+          "Narci and her husband purchased a 1965 Mustang when they were first married 50 years ago. Today, they are looking forward to renewing their Mustang love affair with a 2015 GT convertible. Is Ford Mustang part of your family's DNA? #TBT Timeline Photos",
+          1401976622
+        ],
+        [
+          "Does your modern Mustang have a classic Mustang twin? Share your pics, we love a good family portrait! #TBT Timeline Photos",
+          1401372842
+        ],
+        [
+          "Coupe or convertible, V6 or V8? How do you like your Ford Mustang? #TBT Timeline Photos",
+          1399557906
+        ],
+        [
+          "Sunrise or sunset? Which makes your Mustang look its best? #TBT Timeline Photos",
+          1398953942
+        ],
+        [
+          "That was Ford Mustang at the Empire State Building then; this is Mustang now. #TBT Timeline Photos",
+          1398348889
+        ],
+        [
+          "Ford Mustang may age, but it never grows old. 1965 Mustang Fastback #TBT Timeline Photos",
+          1395932416
+        ],
+        [
+          "Twins born in different years, a 1966 GT and a 2006 GT. Thanks for sharing this great looking pair of ponies, Gary! #TBT Timeline Photos",
+          1394121624
+        ],
+        [
+          "Dimitri sent this classic Mustang in from snowy Austria. #TBT Timeline Photos",
+          1393516807
+        ],
+        [
+          "Brandon posted this picture of his Mustang at a Route 66 landmark. Where would you go in a Mustang? #TBT Timeline Photos",
+          1392912010
+        ],
+        [
+          "Heather shared this wonderful image of her vintage #Mustang. Feel free to post your classic Mustang pictures on our timeline. Who knows, we might post your car next! #TBT Timeline Photos",
+          1392307217
+        ],
+        [
+          "Can we get some love for this 1965 Mustang? #TBT Timeline Photos",
+          1391702425
+        ],
+        [
+          "And then there was Eleanor. What's your favorite vintage #Mustang? #TBT Timeline Photos",
+          1391097605
+        ],
+        [
+          "Beautiful Mach 1 Randy Shutter! #ThrowbackThursday #TBT Timeline Photos",
+          1390510801
+        ]
+      ],
+      "dates_start": 1392043429,
+      "dates_end": 1401358196,
+      "likes_avg": 33461,
+      "likes_stdev": 23130,
+      "comments_avg": 608,
+      "comments_stdev": 590,
+      "shares_avg": 3057,
+      "shares_stdev": 3692
+    },
+    {
       "number": 6,
       "important": [
-        "car ford",
-        "add",
-        "mach",
-        "concept muscl",
-        "car ford mustang",
-        "ford",
-        "mustang",
-        "custom",
         "ford mustang",
+        "mach",
+        "car ford mustang",
+        "custom",
+        "concept muscl",
+        "add",
+        "car ford",
+        "mustang",
+        "ford",
         "mustang mach"
       ],
       "common": [
@@ -476,113 +512,16 @@
     {
       "number": 7,
       "important": [
-        "tbt timelin",
-        "dream",
-        "origin",
-        "timelin",
-        "tbt",
-        "two",
-        "photo",
-        "check",
-        "made",
-        "shelbi"
-      ],
-      "common": [
-        "mustang",
-        "mustang tbt",
-        "mustang tbt timeline",
-        "mustang tbt timeline photos",
-        "photos",
-        "tbt",
-        "tbt timeline",
-        "tbt timeline photos",
-        "timeline",
-        "timeline photos"
-      ],
-      "messages": [
-        [
-          "This is the stuff dreams are made of - two rare original Shelby GT350 reunited for a limited tour. Be sure to check out all the pictures in the article http://ford.to/V3Gpke #TBT Timeline Photos",
-          1405601087
-        ],
-        [
-          "Show us your classic Mustang wallpaper on your phone, laptop, desktop or tablet! #TBT Timeline Photos",
-          1402599997
-        ],
-        [
-          "Narci and her husband purchased a 1965 Mustang when they were first married 50 years ago. Today, they are looking forward to renewing their Mustang love affair with a 2015 GT convertible. Is Ford Mustang part of your family's DNA? #TBT Timeline Photos",
-          1401976622
-        ],
-        [
-          "Does your modern Mustang have a classic Mustang twin? Share your pics, we love a good family portrait! #TBT Timeline Photos",
-          1401372842
-        ],
-        [
-          "Coupe or convertible, V6 or V8? How do you like your Ford Mustang? #TBT Timeline Photos",
-          1399557906
-        ],
-        [
-          "Sunrise or sunset? Which makes your Mustang look its best? #TBT Timeline Photos",
-          1398953942
-        ],
-        [
-          "That was Ford Mustang at the Empire State Building then; this is Mustang now. #TBT Timeline Photos",
-          1398348889
-        ],
-        [
-          "Ford Mustang may age, but it never grows old. 1965 Mustang Fastback #TBT Timeline Photos",
-          1395932416
-        ],
-        [
-          "Twins born in different years, a 1966 GT and a 2006 GT. Thanks for sharing this great looking pair of ponies, Gary! #TBT Timeline Photos",
-          1394121624
-        ],
-        [
-          "Dimitri sent this classic Mustang in from snowy Austria. #TBT Timeline Photos",
-          1393516807
-        ],
-        [
-          "Brandon posted this picture of his Mustang at a Route 66 landmark. Where would you go in a Mustang? #TBT Timeline Photos",
-          1392912010
-        ],
-        [
-          "Heather shared this wonderful image of her vintage #Mustang. Feel free to post your classic Mustang pictures on our timeline. Who knows, we might post your car next! #TBT Timeline Photos",
-          1392307217
-        ],
-        [
-          "Can we get some love for this 1965 Mustang? #TBT Timeline Photos",
-          1391702425
-        ],
-        [
-          "And then there was Eleanor. What's your favorite vintage #Mustang? #TBT Timeline Photos",
-          1391097605
-        ],
-        [
-          "Beautiful Mach 1 Randy Shutter! #ThrowbackThursday #TBT Timeline Photos",
-          1390510801
-        ]
-      ],
-      "dates_start": 1392043429,
-      "dates_end": 1401358196,
-      "likes_avg": 33461,
-      "likes_stdev": 23130,
-      "comments_avg": 608,
-      "comments_stdev": 590,
-      "shares_avg": 3057,
-      "shares_stdev": 3692
-    },
-    {
-      "number": 8,
-      "important": [
-        "jet",
         "give",
-        "show",
-        "sema",
+        "jet",
+        "beast",
         "new",
         "check",
-        "mustang",
         "today",
         "cobra",
-        "beast"
+        "sema",
+        "mustang",
+        "show"
       ],
       "common": [
         "car",
@@ -672,18 +611,18 @@
       "shares_stdev": 1470
     },
     {
-      "number": 9,
+      "number": 8,
       "important": [
         "prize",
-        "add",
+        "love",
         "stori",
         "start",
-        "love mustang",
         "behind",
-        "ford",
-        "mustang",
         "style",
-        "love"
+        "add",
+        "love mustang",
+        "mustang",
+        "ford"
       ],
       "common": [
         "car",
@@ -773,18 +712,18 @@
       "shares_stdev": 2451
     },
     {
-      "number": 10,
+      "number": 9,
       "important": [
-        "gittin jr",
-        "power",
-        "add",
-        "old",
-        "kind",
         "share",
-        "holiday",
+        "power",
+        "old",
+        "gittin",
+        "gittin jr",
+        "add",
         "mustang",
         "littl",
-        "gittin"
+        "holiday",
+        "kind"
       ],
       "common": [
         "drift",
@@ -878,18 +817,18 @@
       "shares_stdev": 4146
     },
     {
-      "number": 11,
+      "number": 10,
       "important": [
-        "car ford",
-        "eleanor",
-        "concept",
-        "concept muscl",
-        "mustang shelbi",
-        "car ford mustang",
-        "ford",
         "ford mustang",
+        "car ford mustang",
+        "ford mustang shelbi",
         "shelbi",
-        "ford mustang shelbi"
+        "concept muscl",
+        "eleanor",
+        "mustang shelbi",
+        "concept",
+        "car ford",
+        "ford"
       ],
       "common": [
         "car",
@@ -987,18 +926,18 @@
       "shares_stdev": 2432
     },
     {
-      "number": 12,
+      "number": 11,
       "important": [
-        "add",
-        "video",
-        "perform",
-        "mustang ford",
-        "ford",
-        "fastback",
-        "mustang",
-        "color",
         "ford mustang",
-        "ford perform"
+        "mustang ford",
+        "video",
+        "color",
+        "fastback",
+        "add",
+        "ford perform",
+        "perform",
+        "mustang",
+        "ford"
       ],
       "common": [
         "concept muscle",
@@ -1096,135 +1035,18 @@
       "shares_stdev": 897
     },
     {
-      "number": 13,
+      "number": 12,
       "important": [
-        "collect",
-        "add",
-        "timelin",
-        "well",
-        "photo",
-        "thing",
-        "mustang",
-        "mustang timelin",
-        "know",
-        "today"
-      ],
-      "common": [
-        "ford",
-        "http",
-        "http ford",
-        "mustang",
-        "mustang http",
-        "mustang timeline",
-        "mustang timeline photos",
-        "photos",
-        "timeline",
-        "timeline photos"
-      ],
-      "messages": [
-        [
-          "Hop in. Timeline Photos",
-          1486659074
-        ],
-        [
-          "S   H   E   L   B   Y. Timeline Photos",
-          1486573769
-        ],
-        [
-          "Uncovered and unleashed. Timeline Photos",
-          1485281418
-        ],
-        [
-          "Staring contest. \ud83d\udc40 Timeline Photos",
-          1481561731
-        ],
-        [
-          "\ud83d\udc0d Timeline Photos",
-          1480354366
-        ],
-        [
-          "Caption this. Timeline Photos",
-          1476454622
-        ],
-        [
-          "Three's a crowd for this #ThrowbackThursday. \ud83d\udcf7 Husrap photography Timeline Photos",
-          1473350915
-        ],
-        [
-          "How well do you know your Mustang history? Here are 23 things you might not have known about Mustang: http://ford.to/1mRAHNQ Timeline Photos",
-          1398696367
-        ],
-        [
-          "It all began in 1978 with a Mustang II. Today, Mike Berardi owns an impressive collection of 43 Mustangs. http://ford.to/1jOfiDF Timeline Photos",
-          1393430418
-        ],
-        [
-          "This may be the the Year of the Horse, but it's always Year of the Mustang in our book. #Mustang Timeline Photos",
-          1391184015
-        ],
-        [
-          "A snowy 1969 Mustang, complete with snowmobile. #ThrowbackThursday Timeline Photos",
-          1389283212
-        ],
-        [
-          "At the inaugural Hot August Nights to benefit Brain Injury victims, there were plenty of amazing Mustangs on show. Just check out this clip of what owner Jim Sheppard did with his 1967 Mustang  -> http://ford.to/172HV8X Timeline Photos",
-          1384462810
-        ],
-        [
-          "A small group of U.S. Army soldiers fighting in Afghanistan chose a name to inspire them all.\r\n\r\nTeam Mustang. http://ford.to/HQB2yA Timeline Photos",
-          1384205860
-        ],
-        [
-          "Design your own Mustang on www.mustangcustomizer.com! Timeline Photos",
-          1371763805
-        ],
-        [
-          "How do you like to leave your mark with your Mustang? Timeline Photos",
-          1367434809
-        ],
-        [
-          "What's the best thing someone has ever said about your Mustang? Timeline Photos",
-          1363795213
-        ],
-        [
-          "How would you convince your friend shopping for a new car to buy a Mustang? Timeline Photos",
-          1363105405
-        ],
-        [
-          "More limes than a fruit market. Timeline Photos",
-          1355261434
-        ],
-        [
-          "Remember this? Timeline Photos",
-          1354640483
-        ],
-        [
-          "CAPTION IT: Write a caption for this high flying Mustang. Timeline Photos",
-          1350485406
-        ]
-      ],
-      "dates_start": 1359197513,
-      "dates_end": 1464600999,
-      "likes_avg": 27771,
-      "likes_stdev": 13714,
-      "comments_avg": 1005,
-      "comments_stdev": 1335,
-      "shares_avg": 2577,
-      "shares_stdev": 1850
-    },
-    {
-      "number": 14,
-      "important": [
+        "muscl car",
+        "concept muscl car mustang",
+        "like",
+        "wed",
+        "car mustang",
+        "concept muscl",
         "mustang gt",
         "concept",
         "gt",
-        "muscl car",
-        "concept muscl",
-        "concept muscl car mustang",
-        "car",
-        "car mustang",
-        "wed",
-        "like"
+        "car"
       ],
       "common": [
         "car",
@@ -1346,7 +1168,7 @@
       "shares_stdev": 1454
     },
     {
-      "number": 15,
+      "number": 13,
       "important": [
         "mustang",
         "add"
@@ -1471,17 +1293,17 @@
       "shares_stdev": 3633
     },
     {
-      "number": 16,
+      "number": 14,
       "important": [
-        "add",
-        "mustang boss",
-        "convert",
-        "say",
-        "mustang",
         "take",
-        "boss",
-        "everyon",
         "cool",
+        "boss",
+        "add",
+        "everyon",
+        "mustang boss",
+        "mustang",
+        "say",
+        "convert",
         "like"
       ],
       "common": [
@@ -1608,18 +1430,18 @@
       "shares_stdev": 2402
     },
     {
-      "number": 17,
+      "number": 15,
       "important": [
-        "concept",
-        "add",
         "muscl car",
         "concept muscl",
-        "muscl",
-        "car",
         "anniversari",
+        "add",
+        "concept",
+        "mustang concept",
         "mustang concept muscl",
+        "car",
         "mustang",
-        "mustang concept"
+        "muscl"
       ],
       "common": [
         "car",
@@ -1753,18 +1575,332 @@
       "shares_stdev": 142
     },
     {
+      "number": 16,
+      "important": [
+        "ford mustang",
+        "im",
+        "design",
+        "mustang gt",
+        "add",
+        "gt",
+        "march",
+        "mustang",
+        "ford mustang gt",
+        "ford"
+      ],
+      "common": [
+        "2015",
+        "com",
+        "ford",
+        "ford mustang",
+        "ford mustang gt",
+        "gt",
+        "muscle",
+        "mustang",
+        "mustang gt",
+        "new"
+      ],
+      "messages": [
+        [
+          "Si tienes un Ford Mustang y quieres aumentar su potencia, con Hellion tienes 1.200 caballos por menos de 50.000 d\u00f3lares Ford \u010cR Ford Mustang Hellion Hellion Ford Mustang. 1.200 CV por s\u00f3lo 49.995 d\u00f3lares Si tienes el privilegio de vivir en Estados Unidos, de tener un Ford Mustang GT y de que te sobren 49.995 d\u00f3lares est\u00e1s de enhorabuena. Tu deportivo ahora puede generar nada menos que 1.200 CV de potencia.",
+          1486797953
+        ],
+        [
+          "Hat jemand Interesse an einem Ford Mustang GT im cervini design mit sidepipes und klappensteuerung ... Preis ist vb.\nEinfach per PN melden",
+          1478767327
+        ],
+        [
+          "Lovin' my 2016 GT :)",
+          1474811124
+        ],
+        [
+          "The Ford Mustang GT LEGO Speed Champion model is here! Available for purchase starting March 1.",
+          1452620700
+        ],
+        [
+          "http://girlsdrivefasttoo.com/2015/09/21/2015-ford-mustang-gt-coupe-premium/ 2015 Ford Mustang GT Coupe Premium Check out my video review of this red-hot Mustang GT: Share this:Share on Facebook (Opens in new window)Click to share on LinkedIn (Opens in new window)Click to share on Reddit (Opens in new window\u2026",
+          1442845743
+        ],
+        [
+          "proof that the Ford Mustang GT is the best american muscle car! i love it! the best!",
+          1435003259
+        ],
+        [
+          "https://youtu.be/9T8pr2wzyB8 GT / 5.0 MUSTANG PHOTO Shoot Extravaganza at San J 3 Generation of GT / 5.0 MUSTANG",
+          1430787393
+        ],
+        [
+          "Mustang GT 2006 Ford Mustang GT HDR \u00a9 by Ozan Dan\u0131\u015fman - All rights reserved D\u00fcsseldorf, 28.09.2006",
+          1426242376
+        ],
+        [
+          "04 Gt Redfire  at World Ford Headquarters",
+          1425250032
+        ],
+        [
+          "88 gt",
+          1421951047
+        ],
+        [
+          "Vossen Wheels 2015 Mustang GT. \n\nhttps://www.youtube.com/watch?v=VdtALi5WUsc 2015 Mustang 5.0 | Vossen 20\" VFS-1 Concave Wheels Be part of the team! http://www.shopvossen.com Web Site http://www.vossenwheels.com Follow Us On Instagram - @vossen #teamvossen http://www.instagram.com/vos...",
+          1418095064
+        ],
+        [
+          "Ford Mustang 1982 \u00bb 1982 Chevrolet Camaro Z28 vs Ford Mustang GT Comparison Test Drive Your source for that automotive fix.",
+          1411605655
+        ],
+        [
+          "Good day to all with Mustang ! #mustang #goodday\n\nhttps://www.youtube.com/watch?v=WEri7EN7MZ4 Ford Mustang GT 1969 - V8 Launch sound exhaust Recording of this beautiful 1967 Ford Mustang Shelby GT V8 with its incredible 350 hp and 6.7 liters. American muscle cars dream, it is reversible many enthu...",
+          1403848019
+        ],
+        [
+          "There is nothing like the low, throaty rumble of the all-new Mustang GT. http://ford.to/1gTasRu Hear The 2015 Ford Mustang GT Start & Rev: Video If you were worried that the new 420-horsepower 2015 Ford Mustang GT might not sound the part of the ballsy muscle car, well, you're probably dealing with generalized anxiety. But even so, this video should allay any fears. It sounds great. DON'T MISS: Secret Feature On 2015 Ford Mustang Will Be An....",
+          1386780409
+        ],
+        [
+          "Playing with my 2006 GT Saleen supercharged.",
+          1379083062
+        ],
+        [
+          "The cool cars get to park in front. Steve Ma mustang gt sp\u00e9cial California 2012",
+          1377022259
+        ],
+        [
+          "Boom! Insurance Web Directory Mustang GT Convertible by Roush Tuning",
+          1376593339
+        ],
+        [
+          "How many wheels do you see?\n Wanda Babcock State Park, WV with my 2010 Mustang GT",
+          1374762386
+        ],
+        [
+          "SICK. Steve Here's a pic of my 2011 Mustang GT",
+          1371913807
+        ],
+        [
+          "Mustang gt",
+          1355745170
+        ],
+        [
+          "Who win? Concept and Muscle Car 2010 Chevrolet Camaro SS vs. 2011 Ford Mustang GT",
+          1355139052
+        ],
+        [
+          "It\u2019s your chance to take \u201cHigh Gear\u201d the SEMA Mustang built by women home! Bidding is live now through Friday. Proceeds benefit the SEMA Memorial Scholarship Fund. Ford : Mustang GT Coupe 2-Door in Ford | eBay Motors Ford : Mustang GT Coupe 2-Door in Ford | eBay Motors   ",
+          1352332835
+        ],
+        [
+          "Carlo Spiga\u2019s 2011 Ford Mustang GT Concept and Muscle Car",
+          1348899587
+        ],
+        [
+          "My 2001 Mustang GT Conv Is Outta Place With These Classic American Muscle Cars...",
+          1348341922
+        ],
+        [
+          "Manny Galvan\u2019s 2007 Ford Mustang GT Concept and Muscle Car",
+          1346837085
+        ],
+        [
+          "El Ford Mustang del a\u00f1o 1970 cuidadosamente restaurado a Mustang GT, sus lineas cl\u00e1sicas fusionadas en total armon\u00eda con el dise\u00f1o del GT",
+          1346720363
+        ],
+        [
+          "1 more of my 07 GT",
+          1338566974
+        ],
+        [
+          "The fine folks at AmericanMuscle.com recently posted a review of their impressions of the 2013 Ford Mustang GT. Give it a look and tell us what you think!  2013 Ford Mustang GT Review, Drive & Specs - AmericanMuscle.com We bought a brand new 2013 Ford Mustang GT Premium in Gotta Have It Green. Watch us put it to the test as we check out some of the cool new features...",
+          1335698900
+        ],
+        [
+          "My current Mustang, 2008 GT!",
+          1332291560
+        ],
+        [
+          "Hey, I'm selling my Ford Mustang GT Convertible 2005! If you are interested, send me a message! I live in Los Angeles :) MUST SELL!!",
+          1332217280
+        ]
+      ],
+      "dates_start": 1346069289,
+      "dates_end": 1438435488,
+      "likes_avg": 7023,
+      "likes_stdev": 14906,
+      "comments_avg": 139,
+      "comments_stdev": 272,
+      "shares_avg": 615,
+      "shares_stdev": 1294
+    },
+    {
+      "number": 17,
+      "important": [
+        "wheel",
+        "behind",
+        "allnew ford mustang",
+        "racer",
+        "track",
+        "allnew",
+        "behind wheel",
+        "watch",
+        "allnew ford",
+        "could"
+      ],
+      "common": [
+        "2015",
+        "ford",
+        "ford mustang",
+        "http",
+        "mustang",
+        "mustanginspires",
+        "new",
+        "photos",
+        "timeline",
+        "timeline photos"
+      ],
+      "messages": [
+        [
+          "Actor, racer, pilot - you could say Cristi\u00e1n is a bit of a dare devil. Watch as he finds his Mustang zen at the track behind the wheel of an all-new 2015 Ford Mustang.",
+          1427224440
+        ],
+        [
+          "Hard work and determination pays off for personal trainer, Jennifer Penfield. Can she handle the likes of MMA legend Frank Shamrock? Watch as a drive in the all-new 2015 Ford Mustang turns into the fight of Jennifer's life. MMA Training Day with The Legend | 2015 Ford Mustang | Mustang Moments Deep inside everyone is a fighter. Jennifer Penfield is an MMA-obsessed personal trainer. Since high school, she\u2019s been training in martial arts, including k...",
+          1416931378
+        ],
+        [
+          "The wait is over. See how the all-new Shelby\u00ae GT350\u00ae Mustang will deliver world-class performance.",
+          1416229552
+        ],
+        [
+          "Life seems to move at a different pace in a Ford Mustang. When did the world appear to change from ordinary to extraordinary? Watch the story unfold. The Rush | 2015 Ford Mustang | Mustang Moments How does it feel to drive the all-new 2015 Ford Mustang? Feel the rush when Mustang gives these individuals the opportunity of a lifetime. The rush has arriv...",
+          1415042507
+        ],
+        [
+          "Watch as the Ford Mustang engineering team pushes the power and performance of the all-new 2015 Ford Mustang to an entirely new level. ford.to/1BnDSl0",
+          1410962407
+        ],
+        [
+          "Thousands of Mustang fans got a taste of what awaits when the iconic car comes to Europe in 2015. New Mustang V8 - Goodwood Hillclimb UK The all-new Ford Mustang successfully tackled the Goodwood Hill Climb at the 2014 Festival of Speed last weekend.",
+          1404542822
+        ],
+        [
+          "The 1969 Mustang served as a design inspiration for the all-new 2015 Mustang. Here's a short video about one of the most incredible 1969 Mustangs ever imagined. http://ford.to/Njak3X Timeline Photos",
+          1394463622
+        ],
+        [
+          "Take a peek inside the all-new Mustang design process.http://ford.to/1cvHWAQ Timeline Photos",
+          1389128406
+        ],
+        [
+          "Curious about how the design team picked the colors for the all-new Mustang? All-New Ford Mustang Design: Colors & Materials Susan Lampinen, Ford group chief designer, color and materials discusses the enhanced craftsmanship in the all-new Mustang Ford Mustang Marks 50 Years with A...",
+          1388160000
+        ],
+        [
+          "Learn more about the themes that helped shape the all-new  #Mustang. http://ford.to/18F5RNt Timeline Photos",
+          1387814407
+        ],
+        [
+          "It's out of the corral! In case you missed it, watch Good Morning America\u2019s big event -  the all-new #Mustang reveal on @GMA. http://ford.to/1fdrF7J Ford Unveils the 2015 Mustang Watch the video Ford Unveils the 2015 Mustang on Yahoo Good Morning America. Get your first look at the 50th anniversary edition of the iconic car.",
+          1386864057
+        ],
+        [
+          "Anyone catch Ford CEO Alan Mulally and the All-New #Mustang on The Colbert Report last night? Photo credit: Kristopher Long Timeline Photos",
+          1386373570
+        ],
+        [
+          "Somehow, the bat signal doesn't seem quite so cool anymore. #MustangInspires Timeline Photos",
+          1386283843
+        ],
+        [
+          "The all-new Mustang was revealed on four continents and six cities! The All-New Mustang",
+          1386275932
+        ],
+        [
+          "How\u2019s the all-new #Mustang sound? Get some nice headphones, sit back, and prepare to smile. 2015 Ford Mustang The only thing soft on this car is the low menacing rumble. #Mustang ford.to/1jmzSZK",
+          1386270949
+        ],
+        [
+          "The wait is over! Meet the All-New Ford Mustang: http://ford.to/1jmzSZK Timeline Photos",
+          1386247291
+        ],
+        [
+          "IT'S ALMOST HERE. Grab a coffee, 'cuz we're about 90 minutes away from the All-New Mustang revealed on Good Morning America. CAN'T WAIT. Timeline Photos",
+          1386240194
+        ],
+        [
+          "Introducing the All-New Ford Mustang. It\u2019s the car millions of Ford Mustang fans around the world have been clamoring to see. Satisfy your curiosity at www.ford.com/2015-mustang. Introducing the All-New Ford Mustang",
+          1386216534
+        ],
+        [
+          "We\u2019re chomping at the bit to reveal the 2015 Mustang this week, but we\u2019re also stoked about Cars.com\u2019s annual contest for the best cars of 2013. Think Mustang deserves the title? Get over there and vote #MustangInspires !\n\nhttp://ford.to/Iid3rz Timeline Photos",
+          1386079210
+        ],
+        [
+          "The awe-inspiring landscape in Brenton Clarke Little\u2019s #MustangInspires video leaves you wondering where else the all-new @Ford Mustang will take you. Step out and achieve your goals, the all-new Mustang is on the horizon. http://instagram.com/p/hZIuEcJCfO/# Timeline Photos",
+          1385928324
+        ],
+        [
+          "We're cruising down the open road with this #MustangInspires video from Zach Glassman. The snow filled wildress makes you wonder what views await around the next turn. Enjoy the ride, we're almost ready to reveal the all-new Mustang. http://instagram.com/p/hWqakyJCVS/ Timeline Photos",
+          1385845554
+        ],
+        [
+          "There\u2019s nothing like a road trip. Where will you drive in the all-new Ford Mustang? Let's head to the ocean with Mark Clinton in this #MustangInspires video: http://instagram.com/p/hTsDKzJCfl/ Timeline Photos",
+          1385749993
+        ],
+        [
+          "A Russian expat living in New York brings us our next video as we countdown to the all-new 2015 Ford Mustang. #MustangInspires http://instagram.com/p/hRCuBspCT6/ Timeline Photos",
+          1385658388
+        ],
+        [
+          "\"Be free, be crazy and be different.\" That's the next clip in our countdown to the all-new 2015 Ford Mustang, this time from Berlin's Sylvia Matzkowiak. http://instagram.com/p/hOePKKpCWC/ #MustangInspires Timeline Photos",
+          1385570923
+        ],
+        [
+          "Here\u2019s another countdown video inspired by the all-new 2015 Ford Mustang. It comes to us from Finnish photographer Jussi Ulkuniemi. http://instagram.com/p/hL3BjSpCb8/ #MustangInspires Timeline Photos",
+          1385484525
+        ],
+        [
+          "Italian graphic designer Simon Bramante explores movement in our countdown to the all-new 2015 Ford Mustang. http://instagram.com/p/hJjtE7JCWt/ #MustangInspires Timeline Photos",
+          1385405752
+        ],
+        [
+          "Day 4 of our 15 day countdown to the all-new 2015 Ford Mustang by artist Laura Lawson Visconti. #MustangInspires http://instagram.com/p/hEnYMqJCYe/ Timeline Photos",
+          1385240173
+        ],
+        [
+          "Our third video in the 15-day countdown to the all-new @FordMustang is by Mike Diamond: \"I've always believed that there's a connection between inspiration and travel.\" http://instagram.com/p/hB3aKzpCRY/ #MustangInspires Timeline Photos",
+          1385146887
+        ],
+        [
+          "Day two of our countdown to the all-new Ford Mustang reveal begins now. Every frame in this piece by Ryan Stancato vibrates with creativity: http://instagram.com/p/g_kYawpCdv/ #MustangInspires Timeline Photos",
+          1385070051
+        ],
+        [
+          "What are your best Mustang memories? #mustanginspires www.mustanginspires.com Timeline Photos",
+          1383406481
+        ]
+      ],
+      "dates_start": 1380181964,
+      "dates_end": 1404208580,
+      "likes_avg": 26534,
+      "likes_stdev": 74612,
+      "comments_avg": 2023,
+      "comments_stdev": 8796,
+      "shares_avg": 5372,
+      "shares_stdev": 16564
+    },
+    {
       "number": 18,
       "important": [
         "road",
-        "favorit",
-        "add",
+        "trip",
+        "road trip",
+        "like",
         "timelin",
         "photo",
+        "add",
+        "favorit",
         "mustang",
-        "road trip",
-        "perfect",
-        "like",
-        "trip"
+        "perfect"
       ],
       "common": [
         "ford",
@@ -1912,491 +2048,16 @@
     {
       "number": 19,
       "important": [
-        "mustang gt",
-        "gt",
-        "add",
-        "march",
-        "ford",
-        "mustang",
-        "ford mustang",
-        "design",
-        "im",
-        "ford mustang gt"
-      ],
-      "common": [
-        "2015",
-        "com",
-        "ford",
-        "ford mustang",
-        "ford mustang gt",
-        "gt",
-        "muscle",
-        "mustang",
-        "mustang gt",
-        "new"
-      ],
-      "messages": [
-        [
-          "Si tienes un Ford Mustang y quieres aumentar su potencia, con Hellion tienes 1.200 caballos por menos de 50.000 d\u00f3lares Ford \u010cR Ford Mustang Hellion Hellion Ford Mustang. 1.200 CV por s\u00f3lo 49.995 d\u00f3lares Si tienes el privilegio de vivir en Estados Unidos, de tener un Ford Mustang GT y de que te sobren 49.995 d\u00f3lares est\u00e1s de enhorabuena. Tu deportivo ahora puede generar nada menos que 1.200 CV de potencia.",
-          1486797953
-        ],
-        [
-          "Hat jemand Interesse an einem Ford Mustang GT im cervini design mit sidepipes und klappensteuerung ... Preis ist vb.\nEinfach per PN melden",
-          1478767327
-        ],
-        [
-          "Lovin' my 2016 GT :)",
-          1474811124
-        ],
-        [
-          "The Ford Mustang GT LEGO Speed Champion model is here! Available for purchase starting March 1.",
-          1452620700
-        ],
-        [
-          "http://girlsdrivefasttoo.com/2015/09/21/2015-ford-mustang-gt-coupe-premium/ 2015 Ford Mustang GT Coupe Premium Check out my video review of this red-hot Mustang GT: Share this:Share on Facebook (Opens in new window)Click to share on LinkedIn (Opens in new window)Click to share on Reddit (Opens in new window\u2026",
-          1442845743
-        ],
-        [
-          "proof that the Ford Mustang GT is the best american muscle car! i love it! the best!",
-          1435003259
-        ],
-        [
-          "https://youtu.be/9T8pr2wzyB8 GT / 5.0 MUSTANG PHOTO Shoot Extravaganza at San J 3 Generation of GT / 5.0 MUSTANG",
-          1430787393
-        ],
-        [
-          "Mustang GT 2006 Ford Mustang GT HDR \u00a9 by Ozan Dan\u0131\u015fman - All rights reserved D\u00fcsseldorf, 28.09.2006",
-          1426242376
-        ],
-        [
-          "04 Gt Redfire  at World Ford Headquarters",
-          1425250032
-        ],
-        [
-          "88 gt",
-          1421951047
-        ],
-        [
-          "Vossen Wheels 2015 Mustang GT. \n\nhttps://www.youtube.com/watch?v=VdtALi5WUsc 2015 Mustang 5.0 | Vossen 20\" VFS-1 Concave Wheels Be part of the team! http://www.shopvossen.com Web Site http://www.vossenwheels.com Follow Us On Instagram - @vossen #teamvossen http://www.instagram.com/vos...",
-          1418095064
-        ],
-        [
-          "Ford Mustang 1982 \u00bb 1982 Chevrolet Camaro Z28 vs Ford Mustang GT Comparison Test Drive Your source for that automotive fix.",
-          1411605655
-        ],
-        [
-          "Good day to all with Mustang ! #mustang #goodday\n\nhttps://www.youtube.com/watch?v=WEri7EN7MZ4 Ford Mustang GT 1969 - V8 Launch sound exhaust Recording of this beautiful 1967 Ford Mustang Shelby GT V8 with its incredible 350 hp and 6.7 liters. American muscle cars dream, it is reversible many enthu...",
-          1403848019
-        ],
-        [
-          "There is nothing like the low, throaty rumble of the all-new Mustang GT. http://ford.to/1gTasRu Hear The 2015 Ford Mustang GT Start & Rev: Video If you were worried that the new 420-horsepower 2015 Ford Mustang GT might not sound the part of the ballsy muscle car, well, you're probably dealing with generalized anxiety. But even so, this video should allay any fears. It sounds great. DON'T MISS: Secret Feature On 2015 Ford Mustang Will Be An....",
-          1386780409
-        ],
-        [
-          "Playing with my 2006 GT Saleen supercharged.",
-          1379083062
-        ],
-        [
-          "The cool cars get to park in front. Steve Ma mustang gt sp\u00e9cial California 2012",
-          1377022259
-        ],
-        [
-          "Boom! Insurance Web Directory Mustang GT Convertible by Roush Tuning",
-          1376593339
-        ],
-        [
-          "How many wheels do you see?\n Wanda Babcock State Park, WV with my 2010 Mustang GT",
-          1374762386
-        ],
-        [
-          "SICK. Steve Here's a pic of my 2011 Mustang GT",
-          1371913807
-        ],
-        [
-          "Mustang gt",
-          1355745170
-        ],
-        [
-          "Who win? Concept and Muscle Car 2010 Chevrolet Camaro SS vs. 2011 Ford Mustang GT",
-          1355139052
-        ],
-        [
-          "It\u2019s your chance to take \u201cHigh Gear\u201d the SEMA Mustang built by women home! Bidding is live now through Friday. Proceeds benefit the SEMA Memorial Scholarship Fund. Ford : Mustang GT Coupe 2-Door in Ford | eBay Motors Ford : Mustang GT Coupe 2-Door in Ford | eBay Motors   ",
-          1352332835
-        ],
-        [
-          "Carlo Spiga\u2019s 2011 Ford Mustang GT Concept and Muscle Car",
-          1348899587
-        ],
-        [
-          "My 2001 Mustang GT Conv Is Outta Place With These Classic American Muscle Cars...",
-          1348341922
-        ],
-        [
-          "Manny Galvan\u2019s 2007 Ford Mustang GT Concept and Muscle Car",
-          1346837085
-        ],
-        [
-          "El Ford Mustang del a\u00f1o 1970 cuidadosamente restaurado a Mustang GT, sus lineas cl\u00e1sicas fusionadas en total armon\u00eda con el dise\u00f1o del GT",
-          1346720363
-        ],
-        [
-          "1 more of my 07 GT",
-          1338566974
-        ],
-        [
-          "The fine folks at AmericanMuscle.com recently posted a review of their impressions of the 2013 Ford Mustang GT. Give it a look and tell us what you think!  2013 Ford Mustang GT Review, Drive & Specs - AmericanMuscle.com We bought a brand new 2013 Ford Mustang GT Premium in Gotta Have It Green. Watch us put it to the test as we check out some of the cool new features...",
-          1335698900
-        ],
-        [
-          "My current Mustang, 2008 GT!",
-          1332291560
-        ],
-        [
-          "Hey, I'm selling my Ford Mustang GT Convertible 2005! If you are interested, send me a message! I live in Los Angeles :) MUST SELL!!",
-          1332217280
-        ]
-      ],
-      "dates_start": 1346069289,
-      "dates_end": 1438435488,
-      "likes_avg": 7023,
-      "likes_stdev": 14906,
-      "comments_avg": 139,
-      "comments_stdev": 272,
-      "shares_avg": 615,
-      "shares_stdev": 1294
-    },
-    {
-      "number": 20,
-      "important": [
-        "racer",
-        "allnew ford mustang",
-        "could",
-        "track",
-        "watch",
-        "behind",
-        "allnew ford",
-        "allnew",
-        "behind wheel",
-        "wheel"
-      ],
-      "common": [
-        "2015",
-        "ford",
-        "ford mustang",
-        "http",
-        "mustang",
-        "mustanginspires",
-        "new",
-        "photos",
-        "timeline",
-        "timeline photos"
-      ],
-      "messages": [
-        [
-          "Actor, racer, pilot - you could say Cristi\u00e1n is a bit of a dare devil. Watch as he finds his Mustang zen at the track behind the wheel of an all-new 2015 Ford Mustang.",
-          1427224440
-        ],
-        [
-          "Hard work and determination pays off for personal trainer, Jennifer Penfield. Can she handle the likes of MMA legend Frank Shamrock? Watch as a drive in the all-new 2015 Ford Mustang turns into the fight of Jennifer's life. MMA Training Day with The Legend | 2015 Ford Mustang | Mustang Moments Deep inside everyone is a fighter. Jennifer Penfield is an MMA-obsessed personal trainer. Since high school, she\u2019s been training in martial arts, including k...",
-          1416931378
-        ],
-        [
-          "The wait is over. See how the all-new Shelby\u00ae GT350\u00ae Mustang will deliver world-class performance.",
-          1416229552
-        ],
-        [
-          "Life seems to move at a different pace in a Ford Mustang. When did the world appear to change from ordinary to extraordinary? Watch the story unfold. The Rush | 2015 Ford Mustang | Mustang Moments How does it feel to drive the all-new 2015 Ford Mustang? Feel the rush when Mustang gives these individuals the opportunity of a lifetime. The rush has arriv...",
-          1415042507
-        ],
-        [
-          "Watch as the Ford Mustang engineering team pushes the power and performance of the all-new 2015 Ford Mustang to an entirely new level. ford.to/1BnDSl0",
-          1410962407
-        ],
-        [
-          "Thousands of Mustang fans got a taste of what awaits when the iconic car comes to Europe in 2015. New Mustang V8 - Goodwood Hillclimb UK The all-new Ford Mustang successfully tackled the Goodwood Hill Climb at the 2014 Festival of Speed last weekend.",
-          1404542822
-        ],
-        [
-          "The 1969 Mustang served as a design inspiration for the all-new 2015 Mustang. Here's a short video about one of the most incredible 1969 Mustangs ever imagined. http://ford.to/Njak3X Timeline Photos",
-          1394463622
-        ],
-        [
-          "Take a peek inside the all-new Mustang design process.http://ford.to/1cvHWAQ Timeline Photos",
-          1389128406
-        ],
-        [
-          "Curious about how the design team picked the colors for the all-new Mustang? All-New Ford Mustang Design: Colors & Materials Susan Lampinen, Ford group chief designer, color and materials discusses the enhanced craftsmanship in the all-new Mustang Ford Mustang Marks 50 Years with A...",
-          1388160000
-        ],
-        [
-          "Learn more about the themes that helped shape the all-new  #Mustang. http://ford.to/18F5RNt Timeline Photos",
-          1387814407
-        ],
-        [
-          "It's out of the corral! In case you missed it, watch Good Morning America\u2019s big event -  the all-new #Mustang reveal on @GMA. http://ford.to/1fdrF7J Ford Unveils the 2015 Mustang Watch the video Ford Unveils the 2015 Mustang on Yahoo Good Morning America. Get your first look at the 50th anniversary edition of the iconic car.",
-          1386864057
-        ],
-        [
-          "Anyone catch Ford CEO Alan Mulally and the All-New #Mustang on The Colbert Report last night? Photo credit: Kristopher Long Timeline Photos",
-          1386373570
-        ],
-        [
-          "Somehow, the bat signal doesn't seem quite so cool anymore. #MustangInspires Timeline Photos",
-          1386283843
-        ],
-        [
-          "The all-new Mustang was revealed on four continents and six cities! The All-New Mustang",
-          1386275932
-        ],
-        [
-          "How\u2019s the all-new #Mustang sound? Get some nice headphones, sit back, and prepare to smile. 2015 Ford Mustang The only thing soft on this car is the low menacing rumble. #Mustang ford.to/1jmzSZK",
-          1386270949
-        ],
-        [
-          "The wait is over! Meet the All-New Ford Mustang: http://ford.to/1jmzSZK Timeline Photos",
-          1386247291
-        ],
-        [
-          "IT'S ALMOST HERE. Grab a coffee, 'cuz we're about 90 minutes away from the All-New Mustang revealed on Good Morning America. CAN'T WAIT. Timeline Photos",
-          1386240194
-        ],
-        [
-          "Introducing the All-New Ford Mustang. It\u2019s the car millions of Ford Mustang fans around the world have been clamoring to see. Satisfy your curiosity at www.ford.com/2015-mustang. Introducing the All-New Ford Mustang",
-          1386216534
-        ],
-        [
-          "We\u2019re chomping at the bit to reveal the 2015 Mustang this week, but we\u2019re also stoked about Cars.com\u2019s annual contest for the best cars of 2013. Think Mustang deserves the title? Get over there and vote #MustangInspires !\n\nhttp://ford.to/Iid3rz Timeline Photos",
-          1386079210
-        ],
-        [
-          "The awe-inspiring landscape in Brenton Clarke Little\u2019s #MustangInspires video leaves you wondering where else the all-new @Ford Mustang will take you. Step out and achieve your goals, the all-new Mustang is on the horizon. http://instagram.com/p/hZIuEcJCfO/# Timeline Photos",
-          1385928324
-        ],
-        [
-          "We're cruising down the open road with this #MustangInspires video from Zach Glassman. The snow filled wildress makes you wonder what views await around the next turn. Enjoy the ride, we're almost ready to reveal the all-new Mustang. http://instagram.com/p/hWqakyJCVS/ Timeline Photos",
-          1385845554
-        ],
-        [
-          "There\u2019s nothing like a road trip. Where will you drive in the all-new Ford Mustang? Let's head to the ocean with Mark Clinton in this #MustangInspires video: http://instagram.com/p/hTsDKzJCfl/ Timeline Photos",
-          1385749993
-        ],
-        [
-          "A Russian expat living in New York brings us our next video as we countdown to the all-new 2015 Ford Mustang. #MustangInspires http://instagram.com/p/hRCuBspCT6/ Timeline Photos",
-          1385658388
-        ],
-        [
-          "\"Be free, be crazy and be different.\" That's the next clip in our countdown to the all-new 2015 Ford Mustang, this time from Berlin's Sylvia Matzkowiak. http://instagram.com/p/hOePKKpCWC/ #MustangInspires Timeline Photos",
-          1385570923
-        ],
-        [
-          "Here\u2019s another countdown video inspired by the all-new 2015 Ford Mustang. It comes to us from Finnish photographer Jussi Ulkuniemi. http://instagram.com/p/hL3BjSpCb8/ #MustangInspires Timeline Photos",
-          1385484525
-        ],
-        [
-          "Italian graphic designer Simon Bramante explores movement in our countdown to the all-new 2015 Ford Mustang. http://instagram.com/p/hJjtE7JCWt/ #MustangInspires Timeline Photos",
-          1385405752
-        ],
-        [
-          "Day 4 of our 15 day countdown to the all-new 2015 Ford Mustang by artist Laura Lawson Visconti. #MustangInspires http://instagram.com/p/hEnYMqJCYe/ Timeline Photos",
-          1385240173
-        ],
-        [
-          "Our third video in the 15-day countdown to the all-new @FordMustang is by Mike Diamond: \"I've always believed that there's a connection between inspiration and travel.\" http://instagram.com/p/hB3aKzpCRY/ #MustangInspires Timeline Photos",
-          1385146887
-        ],
-        [
-          "Day two of our countdown to the all-new Ford Mustang reveal begins now. Every frame in this piece by Ryan Stancato vibrates with creativity: http://instagram.com/p/g_kYawpCdv/ #MustangInspires Timeline Photos",
-          1385070051
-        ],
-        [
-          "What are your best Mustang memories? #mustanginspires www.mustanginspires.com Timeline Photos",
-          1383406481
-        ]
-      ],
-      "dates_start": 1380181964,
-      "dates_end": 1404208580,
-      "likes_avg": 26534,
-      "likes_stdev": 74612,
-      "comments_avg": 2023,
-      "comments_stdev": 8796,
-      "shares_avg": 5372,
-      "shares_stdev": 16564
-    },
-    {
-      "number": 21,
-      "important": [
-        "hot",
-        "add",
-        "video",
-        "timelin",
-        "photo",
-        "amaz",
-        "ford",
-        "race",
-        "mustang",
-        "ford mustang"
-      ],
-      "common": [
-        "car",
-        "ford",
-        "guys",
-        "hot",
-        "like",
-        "mustang",
-        "photos",
-        "think",
-        "timeline",
-        "timeline photos"
-      ],
-      "messages": [
-        [
-          "What's a \"Hot Blooded Hot Lap\"? Allow Kelly Hansen of Foreigner and Greg Biffle of Roush Fenway Racing, to answer that for you. http://ford.to/1Lmemzj",
-          1441891244
-        ],
-        [
-          "Hot Mustang\u2013cool video! Strap in for a Ford Mustang hot lap at Silverstone. Amazing multi-perspective video with 360\u00b0, drone, and bumper cams will have you reaching for a virtual seatbelt!  http://ford.to/1JiyNMC Timeline Photos",
-          1436984206
-        ],
-        [
-          "Like this post if you treat your car like it\u2019s your baby. http://ford.to/1hMHOEz Timeline Photos",
-          1387305005
-        ],
-        [
-          "Like if you prefer black rims and comment if you prefer chrome. Timeline Photos",
-          1383162589
-        ],
-        [
-          "So hot it will drive you up the wall. Patxi Shelby GT500 urban!",
-          1379442226
-        ],
-        [
-          "Like this photo? Caption it! M\u00e9canique +",
-          1378390099
-        ],
-        [
-          "What's she thinking? Jochen",
-          1377540444
-        ],
-        [
-          "Hot or not? ReAper what do you think??",
-          1374259053
-        ],
-        [
-          "Lifted Mustang. What do you think? Josh Northridge, CA 5/31/13",
-          1372428645
-        ],
-        [
-          "What do you guys think??? Mustang Fanatic I LOVE this photo!! What do you guys think???",
-          1370650306
-        ],
-        [
-          "Think you have the filthiest Ford? Prove it by uploading a photo of your Ford, covered in grime. We\u2019ll be showing off the best in the days to come - http://ford.to/105e6g2 Timeline Photos",
-          1368108064
-        ],
-        [
-          "Agree or disagree: hot dogs go best with mustard. Alice My 2011 Roush/charged GT and 2012 V6",
-          1366730504
-        ],
-        [
-          "Any old school muscle car guys out there? What was it like when Mustang first came on the scene in '64? Brian",
-          1365012666
-        ],
-        [
-          "This is what happens when a Mustang becomes a muse for an artist. What do you think?  Muhammet MUSTANG 65  >>> Karakalem\nhttps://www.facebook.com/pages/M-Balo%C4%9Flu-CAR-Design/429525577089721?ref=tn_tnmn",
-          1363192487
-        ],
-        [
-          "Ford quietly shipped a Mustang GT500 to Germany to be unleashed on the autobahn and N\u00fcrburgring Nordschleife racetrack. How do you think it performed against the competition?\n\n\u201cWe\u2019ve never had a car like that in this town before\u201d -> http://myfrd.co/Z733UG Timeline Photos",
-          1362168907
-        ],
-        [
-          "1950 Mercury Hot rod Custom Car 1950 Mercury Hot rod",
-          1355925047
-        ],
-        [
-          "Hey guys, check out this mustang my dude and i customized, maybe u can tell us what you think about it",
-          1355917730
-        ],
-        [
-          "Mustang group in Saudi Arabia (Jeddah)\r\n\r\ni hope all of you like it ^_^",
-          1355668515
-        ],
-        [
-          "What do you think about this Santa's Cobra 2013",
-          1355562222
-        ],
-        [
-          "Like a Fox. Timeline Photos",
-          1353690922
-        ],
-        [
-          "The countdown to #FordSEMA continues\u2026 what do you think our big news is? Timeline Photos",
-          1351101639
-        ],
-        [
-          "Hot one here !! Sound'N'Shine Cr\u00e9dits : SotSyndicate / Mustang",
-          1348537746
-        ],
-        [
-          "Hi guys... my design in 3d.... more in Ivan Marin Lopez or www.marindesigner3d.wordpress.com...See you...",
-          1347567947
-        ],
-        [
-          "Like !!! \r\n\r\nFacebook Ditwin Photography ;) \r\n\r\n---> www.Ditwin.com <---",
-          1347291018
-        ],
-        [
-          "...ok i was wrong, maybe it can get sexier :), what you guys think?",
-          1347030836
-        ],
-        [
-          "What do u think about this one?????",
-          1346963779
-        ],
-        [
-          "You guys like the Heat? Then check out my car!",
-          1340449972
-        ],
-        [
-          "like my page",
-          1338928179
-        ],
-        [
-          "Let me knw what people think about this mustang for cover photo",
-          1338560304
-        ],
-        [
-          "Hey guys built my Mustang online! Shelby GT500 picking it up at Sunset Ford in St. Louis, MO!",
-          1338296381
-        ],
-        [
-          "how do yall like it ;)",
-          1332214731
-        ]
-      ],
-      "dates_start": 1339411328,
-      "dates_end": 1388393407,
-      "likes_avg": 13478,
-      "likes_stdev": 18503,
-      "comments_avg": 501,
-      "comments_stdev": 767,
-      "shares_avg": 1101,
-      "shares_stdev": 1666
-    },
-    {
-      "number": 22,
-      "important": [
-        "could",
-        "get custom",
         "mustang could",
         "creat",
-        "next",
-        "car week",
-        "week",
         "could next timelin",
+        "custom mustang",
+        "next",
+        "week",
+        "car week",
         "could next",
-        "custom mustang"
+        "get custom",
+        "could"
       ],
       "common": [
         "customizing",
@@ -2554,18 +2215,18 @@
       "shares_stdev": 901
     },
     {
-      "number": 23,
+      "number": 20,
       "important": [
-        "show",
-        "add",
+        "ford mustang",
+        "vs",
         "car show",
-        "seri",
-        "car",
-        "ford",
+        "add",
         "drift",
         "mustang",
-        "ford mustang",
-        "vs"
+        "show",
+        "ford",
+        "seri",
+        "car"
       ],
       "common": [
         "car",
@@ -2731,18 +2392,18 @@
       "shares_stdev": 1352
     },
     {
-      "number": 24,
+      "number": 21,
       "important": [
-        "radio",
-        "mustang gt",
-        "dream",
-        "gt",
         "prize",
-        "enter",
-        "team",
+        "radio",
         "chanc win",
+        "dream mustang",
+        "mustang gt",
+        "team",
+        "gt",
         "chanc",
-        "dream mustang"
+        "dream",
+        "enter"
       ],
       "common": [
         "chance",
@@ -2916,18 +2577,18 @@
       "shares_stdev": 4918
     },
     {
-      "number": 25,
+      "number": 22,
       "important": [
-        "add",
-        "mustang ford",
-        "mustang shelbi",
-        "car",
-        "ford",
-        "mustang",
         "ford mustang",
+        "mustang ford",
         "mustang ford mustang",
+        "ford mustang shelbi",
         "shelbi",
-        "ford mustang shelbi"
+        "add",
+        "mustang shelbi",
+        "mustang",
+        "ford",
+        "car"
       ],
       "common": [
         "2013",
@@ -3105,18 +2766,18 @@
       "shares_stdev": 3019
     },
     {
-      "number": 26,
+      "number": 23,
       "important": [
-        "head",
-        "add",
-        "custom",
-        "mustang custom",
-        "front",
+        "ford mustang",
         "news",
-        "ford",
-        "mustang",
+        "custom",
         "battl",
-        "ford mustang"
+        "front",
+        "add",
+        "mustang custom",
+        "mustang",
+        "ford",
+        "head"
       ],
       "common": [
         "battle",
@@ -3306,289 +2967,24 @@
       "shares_stdev": 1689
     },
     {
-      "number": 27,
+      "number": 24,
       "important": [
-        "show",
-        "origin",
-        "add",
-        "mach",
-        "better",
-        "car",
-        "park",
-        "icon",
-        "wait",
-        "car show"
-      ],
-      "common": [
-        "auto show",
-        "car",
-        "club",
-        "ford",
-        "mustang",
-        "one",
-        "photos",
-        "show",
-        "timeline",
-        "timeline photos"
-      ],
-      "messages": [
-        [
-          "69 Mach 1 @ Aces By The Bay Car Show",
-          1478411823
-        ],
-        [
-          "And you thought the original Hoonicorn was powerful. Wait until you see Hoonicorn V2! ford.to/2eCLizy HOONIGAN, KEN BLOCK AND TOYO TIRES ANNOUNCE UPDATED (TWIN TURBO!!) HOONICORN RTR FOR AN ALL-NEW VIDEO PROJECT PARK CITY, UTAH \u2014 Just when you thought that one of the most iconic custom car builds of the last decade couldn\u2019t get any better, Ken Block and Hoonigan have gone and improved upon the perfection that was Block\u2019s 1965 Ford Mustang Hoonicorn RTR from Gymkhana SEVEN. How you ask? By adding two turbos\u2026",
-          1477061118
-        ],
-        [
-          "Here s one from Norway",
-          1476379535
-        ],
-        [
-          "Did you miss out on the Mustang Club of America's 40th anniversary at the Indianapolis Motor Speedway? Here\u2019s everything you need to know. Celebrating the Mustang Club of America\u2019s 40th Anniversary",
-          1475161781
-        ],
-        [
-          "Dubbed the #BrickPony, LEGOLAND Florida and Southern Ford Dealers present a life-size replica of the 1964\u00bd Mustang V8 Coupe. It makes its debut for the 40th anniversary of the Mustang Club of America at the Indianapolis Motor Speedway. Timeline Photos",
-          1472837199
-        ],
-        [
-          "The Mustang Club of America has been one of the leading voices behind Ford Mustang for 40 years. Celebrate with them Sept 1-4 at the Indianapolis Motor Speedway, and participate in the many events they have to offer, outlined by Mustang360 here: ford.to/2c1GNMP. For those attending the event, share your comments and stories below. The Mustang Club of America Celebrates 40 Years This Labor Day Weekend Coming Labor Day weekend 2016, Mustang enthusiasts from around the globe will converge on Indianapolis Motor Speedway to celebrate the MCA\u2019s 40th.",
-          1472481011
-        ],
-        [
-          "GT LE worth waiting 50 years for this one!",
-          1448145513
-        ],
-        [
-          "Thanks so much to Car and Driver for honoring the Shelby GT350\u00ae and GT350R with their 10BEST Award. We're revving our engines in celebration! Timeline Photos",
-          1447878601
-        ],
-        [
-          "Shout out to all the Mustang clubs, causing envy with incredible Mustangs at every turn. Has your club met lately? Timeline Photos",
-          1437403397
-        ],
-        [
-          "Congratulations Tommy Kendall on being inducted into the Motorsports Hall of Fame of America. Of all your Mustang racing wins over the years, this one may be our favorite.",
-          1426255210
-        ],
-        [
-          "The @Beach Beach Cities Mustang Club is one of MCA's largest Regional clubs, and we'd like to invite all members to California's largest Mustang show: Ponies at the Pike! Formerly called Mustangs at the Queen Mary, the big show takes place on Sunday, Sept 27. Over 100 award classes with over 250 trophies. Vendors, entertainment, host hotel, music and sweeping ocean views make this THE show to attend in 2015. For more information or to register online, visit www.PoniesAtThePike.com. Free event shirt to to the first 100 to enter. You've never attended a show like this one.... Ponies at the Pike - HOME PAGE - Southern California Car Show Ponies at the Pike (formerly Mustangs at the Queen Mary) takes place on Sunday, Sept 27th, 2015. It's California's LARGEST Mustang Show. Visit Beach Cities Mustang Club's 19h Annual Show. Sunday, Sept 27, 2015",
-          1425175966
-        ],
-        [
-          "Waiting for snow to melt!!!",
-          1423595968
-        ],
-        [
-          "How do you add more oohs and aahs to performance? With an R. Introducing the Shelby\u00ae GT350R. The 2016 Shelby\u00ae GT350R Mustang Revealed At 2015 Detroit Auto Show | Ford.com No compromises, no frills. All by design. The all-new Shelby\u00ae GT350R \u2014 for the most demanding performance enthusiasts. See http://ford.to/1C4dz4J and for mor...",
-          1421335259
-        ],
-        [
-          "Mustangs of the San Joaquin heading to the Central California Auto Show!",
-          1416279321
-        ],
-        [
-          "Well Ford Mustang you asked me to post pictures of our trip to the California Auto Show! Here are a few!",
-          1416189924
-        ],
-        [
-          "Are YOU registered for California's largest Mustang show? Beach Cities Mustang Club's PONIES AT THE PIKE takes place on Sunday, Sept 21. First 100 entries save $5 on their entry AND get a free event shirt! We just passed 80 entries so don't delay! Here's a link:  Ponies at the Pike 18 California's largest Mustang & Ford car show returns to Long Beach Harbor on Sunday, Sept 21. Mustangs at the Queen Mary is now PONIES AT THE PIKE! Awards, celebrities, vendors and more make this the show not to miss. We will also be celebrating the 50th Anniversary of the Ford Mustang. Register onl\u2026",
-          1406309190
-        ],
-        [
-          "Are you going to a car show this weekend? Have you ever shown your prized Mustang at a local or national event? Read about one of the biggest Mustang shows in the U.S.: http://ford.to/1mk9sX7 Timeline Photos",
-          1402064226
-        ],
-        [
-          "Come one come all mustang's to our show this weekend-\nLancasteroldcarclub.org\n Welcome to One of the Oldest Car Clubs in Ohio Established in 1957, The Lancaster Old Car Club is one of Ohio's oldest car clubs.  The club hosts a annual car show & swap meet the first weekend of June every year on the Fairfield County...",
-          1401921939
-        ],
-        [
-          "In one of the biggest car-related events ever, a legion of Mustang drivers is celebrating #FordMustang50. Their epic Pony Drive is stretching all the way from Las Vegas to Charlotte, North Carolina. Are you in either town? Welcome their arrival today. Timeline Photos",
-          1397678405
-        ],
-        [
-          "Big \u2014 make that monumental \u2014 things coming your way next week! Be sure to like the Empire State Building to get updates first. Timeline Photos",
-          1396638001
-        ],
-        [
-          "Spring is finally here! Any car shows or classic car cruises in your weekend plans? Timeline Photos",
-          1395414008
-        ],
-        [
-          "The South Texas Mustang Club takes pride in going \"ALL OUT\" when it comes to celebrating the Ford Mustang!  Check out this vid featuring STMC members and their pony cars.   \"Me and My Mustang\" was written by yours truly, a proud owner of 2 Mustang GTs and a member of the Mustang Club of America and STMC!  Enjoy! \n STMC - Me and My Mustang - 50 Years Tribute Me and My Mustang was written on Saturday, May 25, 2013 by Manny Saenz and was recorded on Sunday, August 4, 2013 at Porras Project Studio in Edinburg by sou...",
-          1393467100
-        ],
-        [
-          "Is attending a major auto show on your bucket list? Read about one man's exciting experience at this year's #NAIAS in Detroit. http://ford.to/1lv5akW Timeline Photos",
-          1392048016
-        ],
-        [
-          "Visitors to the Chicago Auto Show Ford display can build one of Revell's brand-new scale models of the all-new 2015 Ford #Mustang. See you there! http://ford.to/1dsJyvs Building the New Revell 2015 Ford Mustang Model With an Expert Visitors to the Ford display at the 2014 North American International Auto Show in Detroit can build one of Revell's brand-new scale models of the all-new 20...",
-          1391868002
-        ],
-        [
-          "Now that's one sweet daily driver, Megan! Timeline Photos",
-          1390838420
-        ],
-        [
-          "Mark your calendars. We\u2019re going to celebrate a very special birthday in not one but two locations this April with Mustang Club of America. We\u2019d love to see you there so start making your travel plans now! http://ford.to/1dxDbsG Mustang 50th Birthday Celebration - April 17, 2014",
-          1388770838
-        ],
-        [
-          "That's one way to add a Mustang to your man cave. Timeline Photos",
-          1388419219
-        ],
-        [
-          "Have you ever taken your Mustang to a car show? Timeline Photos",
-          1383927392
-        ],
-        [
-          "Every spring, hundreds of Mustangers from all over Europe converge on Sinsheim, Germany for a weekend of celebrating the sights and sounds of their favorite car. Hosted by the First Mustang Club of Germany, more than 400 pony cars were on hand last May for the 32nd annual International Mustang Meeting. http://ford.to/1fFCjX2 Timeline Photos",
-          1381932064
-        ],
-        [
-          "Building a Shelby plane is one way to cope! How do those of you who don't have a Mustang dull the pain? Daan can't afford the car -.-,So I made a Shelby plane hope you guys like it",
-          1372184191
-        ],
-        [
-          "That's a seahorse if we ever saw one. Timeline Photos",
-          1370286305
-        ],
-        [
-          "That's one way to increase neighborhood property values. Brandon",
-          1366308638
-        ],
-        [
-          "What's your favorite Mustang model year? Timeline Photos",
-          1363883370
-        ],
-        [
-          "Mustang hits GRID 2 in a major way. Can you handle it? http://myfrd.co/ZUNeRk Timeline Photos",
-          1363622415
-        ],
-        [
-          "This has to be one of the most powerful shelves we've ever seen. Timeline Photos",
-          1357333258
-        ],
-        [
-          "2012 LA Auto Show",
-          1355963228
-        ],
-        [
-          "five Christmas tree in my Car",
-          1355816329
-        ],
-        [
-          "One of my rust bucket.",
-          1355670005
-        ],
-        [
-          "One of the fastest cars I ever owned. The 302 Boss blew away Camaro 350s left & right.",
-          1354391232
-        ],
-        [
-          "Ride along with The Car Connection as they put the 2013 Mustang through its paces. 2013 Ford Mustang Video Road Test The Ford Mustang is one of the classic muscle cars, and it's the longest-running one, too. It seems like there's a Mustang for everyone, from a fuel-efficient V-6 version, to the V-8 GT and track-ready Boss 302--all the way up to the beastly Shelby GT500. In our video road test we show you one of...",
-          1352823010
-        ],
-        [
-          "Terrific Mustang in action, one of my favorite version",
-          1348941774
-        ],
-        [
-          "One Word - Badass. Purely Badass.\r\nGlad I found my mustang's daddy! awesome :)",
-          1348766856
-        ],
-        [
-          "My CAR ....wuahahhh",
-          1346862777
-        ],
-        [
-          "Six years ago this week, I took delivery of one of the coolest cars I've ever owned, after being on a waiting list for 1-1/2 years. Though that chapter of my Mustang story has ended, I will never forget my 2007 Shelby GT500.",
-          1346783920
-        ],
-        [
-          "probably my favorite of the mustangs i've made",
-          1346716955
-        ],
-        [
-          "POLL: In Customizer, what Mustang model is your favorite car to take into battle?",
-          1344433534
-        ],
-        [
-          "Morgan park car show glen cove GT350SR",
-          1340548295
-        ],
-        [
-          "attractive car...",
-          1338567193
-        ],
-        [
-          "This is my 2008 Ford Mustang GT. Torch Red with painted matte black stripes. Probably one of my favorite pictures. She's modified to a nice 500 flywheel HP and 410 ft./lbs. of torque with Roush, Ford Racing, Corsa, and Hurst aftermarket parts.",
-          1338511734
-        ],
-        [
-          "We just have to get that truck to move out of the way, sit back and watch the fireworks. ;-)  Come Get Some Stoplight serendipity in Manhattan this afternoon.",
-          1334100907
-        ],
-        [
-          "my cus car",
-          1331964089
-        ],
-        [
-          "My favorite",
-          1331814843
-        ],
-        [
-          "Late last night our Mustang page hit three million fans!  And on March 2, 1966 Ford hit another million milestone in building the one millionth Mustang, a 1966 white convertible.  Captain Stanley Tucker, the man who had bought the very first Mustang, was on hand for the celebration. His original Mustang was presented to the Henry Ford Museum and Captain Tucker took delivery of the brand-new one million-and-first Ford Mustang.  As the legendary Mustang continues to evolve, we look forward to celebrating many more milestones in the future. Wall Photos",
-          1330190149
-        ],
-        [
-          "More on the GT500 Convertible from today's reveal at the Chicago Auto Show! This time from our friends at Motor Authority! 2013 Ford Shelby GT500 Convertible Live Photos: 2012 Chicago Auto Show If you prefer your mega-horsepower pony cars in topless flavor, the 2013 Ford Shelby GT500 convertible may be just what you\u2019ve been looking for. Like its coupe stablemate, the new GT500 convertible packs a supercharged 5.8-liter V-8, good for 650-horsepower and 600 pound-feet of torque...",
-          1328741922
-        ],
-        [
-          "http://instagr.am/p/GwKxR6ijbr/ 2013 Ford GT500 Convertible Live From The Chicago Auto Show",
-          1328722071
-        ],
-        [
-          "http://instagr.am/p/GwKm-Uijbm/ Live From The Chicago Auto Show 1993 SVT Cobra at the show! ",
-          1328722028
-        ],
-        [
-          "While the 2013 Boss 302 Mustang was revealed at the LA Autoshow, there was one color conspicuously missing from the showroom floor: Gotta Have It Green. Say hello, live and in living color at the North American International Autoshow which opens to the public on Saturday, January 14 - Saturday, January 21!  2013 Boss 302 Mustang: Gotta Have It Green First Photos The Detroit Auto Show doesn't open for the press until Sunday but our own Ray Wert managed to get in and snag these first photos of the Mustang Boss 302 in its new \"Gotta Have It Green\" paint job.",
-          1325882126
-        ]
-      ],
-      "dates_start": 1339785497,
-      "dates_end": 1429844032,
-      "likes_avg": 8470,
-      "likes_stdev": 13579,
-      "comments_avg": 295,
-      "comments_stdev": 1185,
-      "shares_avg": 970,
-      "shares_stdev": 1942
-    },
-    {
-      "number": 28,
-      "important": [
-        "add",
-        "see",
-        "timelin",
-        "let",
-        "photo",
-        "perfect",
-        "debut",
         "poni",
+        "timelin",
+        "photo",
+        "let",
+        "debut",
+        "see",
+        "add",
+        "rock",
         "big",
-        "rock"
+        "perfect"
       ],
       "common": [
+        "bit ly",
         "ford",
         "get",
         "http",
-        "http bit",
         "http ford",
         "mustang",
         "photos",
@@ -3598,8 +2994,20 @@
       ],
       "messages": [
         [
+          "Hop in. Timeline Photos",
+          1486659074
+        ],
+        [
+          "S   H   E   L   B   Y. Timeline Photos",
+          1486573769
+        ],
+        [
           "Stone cold. \u2744\ufe0f Let's see your winter pony! Timeline Photos",
           1486141071
+        ],
+        [
+          "Uncovered and unleashed. Timeline Photos",
+          1485281418
         ],
         [
           "Storybook perfect. \ud83d\udcf7 Scarfone Automotive Photography Timeline Photos",
@@ -3612,6 +3020,14 @@
         [
           "Ford announces new hybrid version of the Mustang, delivering V8 power and even more low-end torque! The Mustang Hybrid, built at the Flat Rock Assembly Plant, debuts in 2020 and will be available in the U.S. to start. Timeline Photos",
           1483458453
+        ],
+        [
+          "Staring contest. \ud83d\udc40 Timeline Photos",
+          1481561731
+        ],
+        [
+          "\ud83d\udc0d Timeline Photos",
+          1480354366
         ],
         [
           "Pony at home....both of them!",
@@ -3642,6 +3058,10 @@
           1476973628
         ],
         [
+          "Caption this. Timeline Photos",
+          1476454622
+        ],
+        [
           "Go behind the scenes tomorrow with Autoblog for an exclusive Facebook Live inside our Flat Rock Mod Center! Timeline Photos",
           1476207440
         ],
@@ -3652,6 +3072,10 @@
         [
           "We love our ponies from the inside out. Let's see the inside of your Mustang! Timeline Photos",
           1474384624
+        ],
+        [
+          "Three's a crowd for this #ThrowbackThursday. \ud83d\udcf7 Husrap photography Timeline Photos",
+          1473350915
         ],
         [
           "Perfect pancake pony. #NationalBreakfastWeek",
@@ -3726,6 +3150,14 @@
           1398866946
         ],
         [
+          "How well do you know your Mustang history? Here are 23 things you might not have known about Mustang: http://ford.to/1mRAHNQ Timeline Photos",
+          1398696367
+        ],
+        [
+          "It all began in 1978 with a Mustang II. Today, Mike Berardi owns an impressive collection of 43 Mustangs. http://ford.to/1jOfiDF Timeline Photos",
+          1393430418
+        ],
+        [
           "Looking to celebrate the Mustang 50th?  Starting April 16-20 in  Charlotte and Las Vegas the Mustang 50th Birthday Celebration will take place.  For additional details please visit our site and like us on Facebook at https://www.facebook.com/mustang50thbirthdaycelebration  www.mustang50thbirdaycelebration.com.  http://www.mustang50thbirdaycelebration.com/",
           1393254506
         ],
@@ -3738,6 +3170,10 @@
           1391443218
         ],
         [
+          "This may be the the Year of the Horse, but it's always Year of the Mustang in our book. #Mustang Timeline Photos",
+          1391184015
+        ],
+        [
           "MTV\u2019s annual Movie Brawl is out and Need for Speed with Aaron Paul is in the running for most-anticipated movie of 2014. Get in there and vote \u2013 let\u2019s smoke the competition! \nhttp://ford.to/1hZ8P7Z\n\n \n MTV Movie Brawl 2014 The brawl for it all is back! What is your most anticipated movie of 2014? Vote for your favorites and spread the word on Facebook and Twitter!",
           1389831089
         ],
@@ -3748,6 +3184,10 @@
         [
           "The 3.7-liter V6 and available 5.0-liter V8 is just the start. Learn more about what the 2015 #Mustang has to offer: http://ford.to/1lXDJ0B #FordNAIAS #NAIAS Timeline Photos",
           1389709173
+        ],
+        [
+          "A snowy 1969 Mustang, complete with snowmobile. #ThrowbackThursday Timeline Photos",
+          1389283212
         ],
         [
           "Did you get engaged over the holidays? Don't forget to include your #Mustang in the wedding. Timeline Photos",
@@ -3764,6 +3204,14 @@
         [
           "Oh yeah, baby! When you\u2019ve been in over 3,000 movies and TV shows, it\u2019s more than fitting to be immortalized amongst all the stars in Hollywood! Timeline Photos",
           1386279646
+        ],
+        [
+          "At the inaugural Hot August Nights to benefit Brain Injury victims, there were plenty of amazing Mustangs on show. Just check out this clip of what owner Jim Sheppard did with his 1967 Mustang  -> http://ford.to/172HV8X Timeline Photos",
+          1384462810
+        ],
+        [
+          "A small group of U.S. Army soldiers fighting in Afghanistan chose a name to inspire them all.\r\n\r\nTeam Mustang. http://ford.to/HQB2yA Timeline Photos",
+          1384205860
         ],
         [
           "Do you know how to heel-toe shift? Can you explain what it means? Timeline Photos",
@@ -3854,6 +3302,10 @@
           1372271405
         ],
         [
+          "Design your own Mustang on www.mustangcustomizer.com! Timeline Photos",
+          1371763805
+        ],
+        [
           "Wanna race? Timeline Photos",
           1371736864
         ],
@@ -3930,6 +3382,10 @@
           1368021984
         ],
         [
+          "How do you like to leave your mark with your Mustang? Timeline Photos",
+          1367434809
+        ],
+        [
           "Michael\u2019s dad Rick hadn\u2019t seen his 1972 MACH I in 24 years. So Mike decided to find Rick\u2019s pony and bring it home as a surprise. Watch it all on the link below!\n\n\u201cWhere you going?!\u201d -> http://myfrd.co/101oIwp Timeline Photos",
           1367348411
         ],
@@ -3968,6 +3424,14 @@
         [
           "Guess who\u2019s 50 in 2014? Celebrate with official Mustang Fifty Years gear! \n\nCLICK HERE TO BUY MERCHANDISE -> http://myfrd.co/16JNqs9 Timeline Photos",
           1364333405
+        ],
+        [
+          "What's the best thing someone has ever said about your Mustang? Timeline Photos",
+          1363795213
+        ],
+        [
+          "How would you convince your friend shopping for a new car to buy a Mustang? Timeline Photos",
+          1363105405
         ],
         [
           "If your Ford is Lime Squeeze, Green Envy, Highland, Spruce or any other shade of green \u2013 we want to see it! Head over to Ford Social and upload a photo of your green Ford for a special upcoming St. Patrick\u2019s Day tribute. http://bit.ly/Yw4LyW Timeline Photos",
@@ -4034,6 +3498,10 @@
           1355338973
         ],
         [
+          "More limes than a fruit market. Timeline Photos",
+          1355261434
+        ],
+        [
           "Unlock the power of Facebook Timeline with Time Share from Ford - http://on.fb.me/YX9iir\n\nTime Share helps you build and share your personal story using Facebook Timeline. Use it to quickly and easily add important dates in your history to Facebook. What else happened on the day you brought home your first Mustang? Find out using Time Share, and start creating the history of you. Timeline Photos",
           1355170512
         ],
@@ -4044,6 +3512,10 @@
         [
           "See what happens when Ford Social member Chris G. took grampa's classic Mustang out for a spin. My how we take modern automotive conveniences for granted - http://bit.ly/SeMMLC Timeline Photos",
           1354745718
+        ],
+        [
+          "Remember this? Timeline Photos",
+          1354640483
         ],
         [
           "It's a real dog and pony show. Timeline Photos",
@@ -4058,6 +3530,10 @@
           1352493019
         ],
         [
+          "CAPTION IT: Write a caption for this high flying Mustang. Timeline Photos",
+          1350485406
+        ],
+        [
           "1966 MUSTANG 289 V-8 DUAL CARBS PONY INT  27,500",
           1338491609
         ],
@@ -4070,14 +3546,14 @@
           1330371027
         ]
       ],
-      "dates_start": 1350375864,
-      "dates_end": 1430140817,
-      "likes_avg": 18912,
-      "likes_stdev": 19075,
-      "comments_avg": 600,
-      "comments_stdev": 2337,
-      "shares_avg": 2017,
-      "shares_stdev": 2614
+      "dates_start": 1350725537,
+      "dates_end": 1436063873,
+      "likes_avg": 20196,
+      "likes_stdev": 18657,
+      "comments_avg": 659,
+      "comments_stdev": 2224,
+      "shares_avg": 2098,
+      "shares_stdev": 2526
     }
   ]
 }

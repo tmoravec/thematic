@@ -14,16 +14,16 @@
     {
       "number": 1,
       "important": [
-        "podcast",
-        "perfect",
         "timelin",
-        "take",
+        "photo",
+        "timelin photo",
         "action",
+        "bestofpodcast timelin",
+        "podcast",
         "bestofpodcast",
         "love",
-        "bestofpodcast timelin",
-        "photo",
-        "timelin photo"
+        "take",
+        "perfect"
       ],
       "common": [
         "apple",
@@ -99,16 +99,16 @@
     {
       "number": 2,
       "important": [
-        "preview",
-        "featur",
-        "preview download",
-        "custom review",
         "download",
-        "sweet",
-        "read",
         "sound",
         "see",
-        "custom"
+        "read",
+        "preview download",
+        "featur",
+        "preview",
+        "custom",
+        "custom review",
+        "sweet"
       ],
       "common": [
         "itunes",
@@ -185,15 +185,15 @@
       "number": 3,
       "important": [
         "song",
-        "timelin",
         "grab",
+        "timelin",
         "action",
-        "hit",
+        "timelin photo",
+        "song timelin",
         "premier",
         "onli",
         "photo",
-        "song timelin",
-        "timelin photo"
+        "hit"
       ],
       "common": [
         "com",
@@ -273,15 +273,104 @@
     {
       "number": 4,
       "important": [
-        "catch",
-        "walk",
+        "continu",
+        "action",
+        "swift",
+        "itu",
+        "kendrick lamar",
+        "touch",
+        "taylor",
+        "photo",
+        "post",
+        "kendrick"
+      ],
+      "common": [
+        "com",
+        "http facebook",
+        "http facebook itunes",
+        "http facebook itunes com",
+        "itunes",
+        "itunes com",
+        "photos",
+        "swift",
+        "taylor",
+        "taylor swift"
+      ],
+      "messages": [
+        [
+          "Taylor Swift\u2019s #BadBlood, with a touch of Kendrick Lamar. \nSold. \nhttp://facebook.itunes.com/BadBlood Photos from iTunes's post",
+          1431955468
+        ],
+        [
+          "This week on The Voice: playoffs continue, Taylor Swift returns, and guest coaches Patrick Stump, Diana Ross, Colbie Caillat, and Christina Aguilera dispense advice. iTunes.com/TheVoice Timeline Photos",
+          1416873607
+        ],
+        [
+          "Taylor Swift fans: which 1989 song is your anthem?\nhttp://facebook.itunes.com/6182SOvj Timeline Photos",
+          1414975021
+        ],
+        [
+          "No going back.\n1989.\nTaylor Swift\nhttp://facebook.itunes.com/6180qLgY Timeline Photos",
+          1414384207
+        ],
+        [
+          "Cutest. Thing. Ever.\nSee more Taylor Swift home movies from #1989. http://facebook.itunes.com/TaylorSwift",
+          1413933721
+        ],
+        [
+          "It's gonna be alright.\nTaylor Swift\nPre-order 1989 and get \"Shake It Off.\"\nhttp://facebook.itunes.com/6180UQF8 Timeline Photos",
+          1412962209
+        ],
+        [
+          "Stay positive.\nTaylor Swift 1989.\nhttp://facebook.itunes.com/6184UZgg Timeline Photos",
+          1412384406
+        ],
+        [
+          "Taylor Swift rides the pop wave on 1989. Pre-order now.\nhttp://facebook.itunes.com/6181ootL Timeline Photos",
+          1411252207
+        ],
+        [
+          "Kendrick Lamar and Imagine Dragons combined \u201cM.A.A.D. City\u201d and \u201cRadioactive\u201d into a muscular mashup. Did you see Taylor Swift dancing? #GRAMMYs Timeline Photos",
+          1390798473
+        ],
+        [
+          "Rolling Stone gave Red 4.5 stars, complimenting Taylor Swift\u2019s lyrical growth. \u201cWhen she\u2019s really on, her songs are like tattoos.\u201d http://facebook.itunes.com/Qkj Timeline Photos",
+          1351273201
+        ],
+        [
+          "Forget puppy love. Now 22, Taylor Swift is dishing kiss-off anthems and exploring new musical territory. http://facebook.itunes.com/9L7 Timeline Photos",
+          1350957599
+        ],
+        [
+          "Taylor Swift's \"We Are Never Ever Getting Back Together\" has us seeing Red. http://facebook.itunes.com/NzU Timeline Photos",
+          1344960619
+        ],
+        [
+          "Rapper B.o.B just released a follow-up to his No. 1 debut. Strange Clouds includes collaborations with Taylor Swift, Lil Wayne, T.I., Chris Brown, and more. http://facebook.itunes.com/igo Timeline Photos",
+          1336017957
+        ]
+      ],
+      "dates_start": 1360127519,
+      "dates_end": 1424907664,
+      "likes_avg": 3753,
+      "likes_stdev": 7106,
+      "comments_avg": 146,
+      "comments_stdev": 280,
+      "shares_avg": 111,
+      "shares_stdev": 193
+    },
+    {
+      "number": 5,
+      "important": [
         "look",
+        "action",
+        "walk",
         "get",
+        "dead",
+        "catch",
         "walk dead",
         "season",
         "befor",
-        "action",
-        "dead",
         "rise"
       ],
       "common": [
@@ -364,18 +453,18 @@
       "shares_stdev": 229
     },
     {
-      "number": 5,
+      "number": 6,
       "important": [
-        "big",
-        "avail",
         "hope",
-        "battl",
-        "avail rent",
-        "star",
-        "war",
-        "love",
         "action",
-        "rent"
+        "star",
+        "rent",
+        "battl",
+        "love",
+        "avail rent",
+        "avail",
+        "big",
+        "war"
       ],
       "common": [
         "apple",
@@ -457,18 +546,18 @@
       "shares_stdev": 58
     },
     {
-      "number": 6,
+      "number": 7,
       "important": [
-        "make",
+        "long",
         "timelin",
         "timelin photo",
-        "take",
-        "action",
-        "long",
-        "us",
-        "photo",
         "bestofitun timelin",
-        "bestofitun"
+        "photo",
+        "bestofitun",
+        "action",
+        "make",
+        "us",
+        "take"
       ],
       "common": [
         "bestofitunes",
@@ -550,18 +639,18 @@
       "shares_stdev": 2
     },
     {
-      "number": 7,
+      "number": 8,
       "important": [
-        "tv",
-        "cover photo",
+        "best",
         "podcast",
         "check",
-        "itu cover",
-        "year",
-        "cover",
-        "best",
+        "itu",
+        "cover photo",
         "got",
-        "itu"
+        "cover",
+        "year",
+        "tv",
+        "itu cover"
       ],
       "common": [
         "com",
@@ -643,18 +732,18 @@
       "shares_stdev": 37
     },
     {
-      "number": 8,
+      "number": 9,
       "important": [
-        "batman movi",
         "lego",
         "instagram",
         "batman",
-        "lego batman",
+        "see",
         "stori",
-        "night",
-        "day",
+        "batman movi",
         "premier",
-        "see"
+        "day",
+        "night",
+        "lego batman"
       ],
       "common": [
         "batman",
@@ -740,16 +829,16 @@
       "shares_stdev": 863
     },
     {
-      "number": 9,
+      "number": 10,
       "important": [
-        "catch",
-        "exclus",
-        "hope",
         "look",
+        "hope",
+        "war",
+        "star",
+        "exclus",
+        "catch",
         "get",
         "first",
-        "star",
-        "war",
         "star war",
         "extra"
       ],
@@ -837,16 +926,16 @@
       "shares_stdev": 49
     },
     {
-      "number": 10,
+      "number": 11,
       "important": [
-        "begin",
         "timelin",
-        "georg",
         "action",
+        "begin",
+        "timelin photo",
+        "count",
         "vote",
         "photo",
-        "count",
-        "timelin photo"
+        "georg"
       ],
       "common": [
         "com",
@@ -940,18 +1029,18 @@
       "shares_stdev": 32
     },
     {
-      "number": 11,
+      "number": 12,
       "important": [
-        "chapter",
-        "itunesessenti",
-        "john",
-        "cc",
-        "john legend",
-        "star",
-        "action",
-        "power",
         "insid",
-        "next"
+        "cc",
+        "action",
+        "chapter",
+        "power",
+        "star",
+        "john",
+        "john legend",
+        "next",
+        "itunesessenti"
       ],
       "common": [
         "com",
@@ -1057,18 +1146,18 @@
       "shares_stdev": 2099
     },
     {
-      "number": 12,
+      "number": 13,
       "important": [
-        "perform",
-        "itunesessenti",
-        "real",
-        "true",
-        "stori",
-        "get",
-        "star",
+        "action",
         "move",
+        "star",
+        "true",
+        "perform",
+        "stori",
+        "real",
         "love",
-        "action"
+        "get",
+        "itunesessenti"
       ],
       "common": [
         "com",
@@ -1182,151 +1271,18 @@
       "shares_stdev": 326
     },
     {
-      "number": 13,
-      "important": [
-        "make",
-        "week",
-        "week timelin",
-        "holiday",
-        "singl",
-        "singl week",
-        "us",
-        "free",
-        "singl week timelin",
-        "countri"
-      ],
-      "common": [
-        "com",
-        "facebook",
-        "facebook itunes",
-        "http",
-        "http facebook",
-        "http facebook itunes",
-        "http facebook itunes com",
-        "itunes",
-        "itunes com",
-        "single week"
-      ],
-      "messages": [
-        [
-          "Nikki Lane's no-nonsense country makes us swoon. \u201cFaLaLaLaLove Ya\u201d is our free Holiday Single of the Week. http://facebook.itunes.com/6185QiOX Timeline Photos",
-          1418263262
-        ],
-        [
-          "Lennon and Maisy Stella steer the tour bus towards Nashville on \"Christmas Coming Home,\u201d our free Holiday Single of the Week.\nhttp://facebook.itunes.com/6181t7Fx Timeline Photos",
-          1417627804
-        ],
-        [
-          "Flight Facilities hug it out with Emma Louise, Kylie Minogue, Bishop Nehru and more on their dance excursion Down to Earth. \"Sunshine\" with Reggie Watts is our Single of the Week.\nhttp://facebook.itunes.com/6185SJTb Timeline Photos",
-          1414720804
-        ],
-        [
-          "The future sound of Mexico is here on Bostich & Fussible's \"Preciosa,\" our free Latin Single of the Week. http://facebook.itunes.com/6180oWOQ Timeline Photos",
-          1411173002
-        ],
-        [
-          "Pop gets a funky-bubbly backbeat in Mapei's \"Don't Wait,\" our free Single of the Week. http://facebook.itunes.com/6182odje Timeline Photos",
-          1410962413
-        ],
-        [
-          "Power duo Royal Blood have rock & blues in a stranglehold. \"Figure it Out\" is our free Single of the Week.\nhttp://facebook.itunes.com/6182WwF6 Timeline Photos",
-          1409139007
-        ],
-        [
-          "British singer/songwriter James Bay conveys deep emotion on \"Let It Go\" our free Single of the Week. http://facebook.itunes.com/6180mL56 Timeline Photos",
-          1408197609
-        ],
-        [
-          "Sweet soul music from St. Paul and the Broken Bones. \"Call Me\" is our free Single of the Week. \nhttp://facebook.itunes.com/6182Yu1C Timeline Photos",
-          1403960406
-        ],
-        [
-          "Colbie Caillat reveals the inspiration of her new song \"Try,\" our free Single of the Week. \nhttp://facebook.itunes.com/6185coB9",
-          1402594395
-        ],
-        [
-          "Betty Who's \"Somebody Loves You\" is positively jubilant. It's our free Single of the Week. http://tw.itunes.com/61829p5w Timeline Photos",
-          1397167169
-        ],
-        [
-          "KONGOS' \"I'm Only Joking\" is a brooding rocker with a catchy, hook-filled chorus. It's our free Single of the Week. http://facebook.itunes.com/6184gNKa Timeline Photos",
-          1396142684
-        ],
-        [
-          "Kick off 2014 with the sticky-sweet vocals and beats of Charlotte OC. \u201cHangover\u201d is our free Single of the Week. http://facebook.itunes.com/ycJ Timeline Photos",
-          1388764801
-        ],
-        [
-          "Sky Ferreira is pop\u2019s shining anti-hero, channeling angst and mood on our free Single of the Week \u201c24 Hours\u201d and her impressive full-length Night Time, My Time. \nhttp://facebook.itunes.com/TYT Timeline Photos",
-          1383403586
-        ],
-        [
-          "There\u2019s still time to download our free Single of the Week from songbird Tori Kelly: \"Dear No One.\"\r\nhttp://facebook.itunes.com/dpF Timeline Photos",
-          1382796035
-        ],
-        [
-          "John Newman\u2019s passionate soul will blow you away. \u201cLove Me Again\u201d is our free Single of the Week. http://facebook.itunes.com/r2T Timeline Photos",
-          1382047201
-        ],
-        [
-          "Echosmith are four siblings making sweet indie pop. \u201cCool Kids\u201d is our free Single of the Week. \r\nhttp://facebook.itunes.com/Z9P Timeline Photos",
-          1381617953
-        ],
-        [
-          "Get to know English pop singer Natalia Kills. Her ode to heartbreak \u201cOutta Time\u201d is our free Single of the Week. \r\nhttp://facebook.itunes.com/1LX Timeline Photos",
-          1378389600
-        ],
-        [
-          "Foy Vance sings of love and heartache in a throaty emotional howl on \"Closed Hand, Full of Friends,\" our free Single of the Week. http://facebook.itunes.com/agb Timeline Photos",
-          1377910801
-        ],
-        [
-          "Five things to know about We Are Twin: http://facebook.itunes.com/Kdr\n\n1. Their soulful electro-pop track \u201cThe Way We Touch\u201d is our free Single of the Week.\n2. Nicolas Balachandran and Gabi Christine are from Germany and New York and met in Los Angeles.\n3. They gave up their jobs to pursue their dream.\n4. Twin loves vintage instruments and art, architecture, and design\n5. Twin live on raw cold-pressed juice.\n\nhttp://facebook.itunes.com/Kdr Timeline Photos",
-          1377216074
-        ],
-        [
-          "Sister trio HAIM recorded \u201cThe Wire\u201d 20 times before they were happy with it. Their commitment is your gain, and our free Single of the Week. http://facebook.itunes.com/AtC Timeline Photos",
-          1376604000
-        ],
-        [
-          "\u201cLove the Way You Lie\u201d songwriter Skylar Grey climbs a \u201cTower\u201d of heartbreak on our free Single of the Week. http://facebook.itunes.com/tWr Timeline Photos",
-          1373464802
-        ],
-        [
-          "There\u2019s still room on The 1975 bandwagon. Hop on with the galactic alt-rock of \u201cChocolate,\u201d our free Single of the Week. http://facebook.itunes.com/r0t Timeline Photos",
-          1372957201
-        ],
-        [
-          "Scorpion Child's \u201cPolygon of Eyes\u201d may be our hardest rockin\u2019 free Single of the Week ever.\n\nhttp://facebook.itunes.com/78I Timeline Photos",
-          1372339629
-        ],
-        [
-          "http://facebook.itunes.com/Kno \r\nMeet Cimorelli, six sisters riding a wave of popularity for their beautiful vocals. \u201cMade in America\u201d is our free Single of the Week. Timeline Photos",
-          1371686401
-        ]
-      ],
-      "dates_start": 1376019429,
-      "dates_end": 1408076123,
-      "likes_avg": 285,
-      "likes_stdev": 394,
-      "comments_avg": 15,
-      "comments_stdev": 26,
-      "shares_avg": 32,
-      "shares_stdev": 37
-    },
-    {
       "number": 14,
       "important": [
         "timelin",
-        "pictur",
-        "record",
-        "essentialalbum timelin",
         "action",
-        "photo",
+        "timelin photo",
+        "pictur",
         "help",
-        "studio",
+        "record",
         "essentialalbum",
-        "timelin photo"
+        "studio",
+        "photo",
+        "essentialalbum timelin"
       ],
       "common": [
         "com",
@@ -1450,16 +1406,282 @@
     {
       "number": 15,
       "important": [
-        "free seri",
-        "seri premier",
-        "seri",
-        "stori",
-        "get",
-        "befor",
+        "readi",
+        "timelin",
+        "timelin photo",
+        "get readi",
+        "son",
+        "see",
+        "preorder timelin",
+        "preorder",
+        "summer",
+        "get"
+      ],
+      "common": [
+        "com",
+        "facebook",
+        "facebook itunes",
+        "facebook itunes com",
+        "http",
+        "http facebook",
+        "http facebook itunes",
+        "http facebook itunes com",
+        "itunes",
+        "itunes com"
+      ],
+      "messages": [
+        [
+          "Gotta get ready to see Mumford and Sons this summer.  \n#WilderMind is almost here! Pre-order: http://facebook.itunes.com/6188AH2y Timeline Photos",
+          1430319723
+        ],
+        [
+          "'A Musical Map of America.'  Check out the free premiere of Foo Fighters #SonicHighways and get the full series now. http://facebook.itunes.com/61874RK5",
+          1428502265
+        ],
+        [
+          "And the countdown to Kelly Clarkson\u2019s #PiecebyPiece begins! \nPre-order and \u201cHeartbeat Song\u201d is yours. \nhttp://facebook.itunes.com/6189IN6W Timeline Photos",
+          1422990010
+        ],
+        [
+          "U2, Foo Fighters, Metallica and more. \nGreat artists. Great prices. \nhttp://facebook.itunes.com/6183vlc7 Timeline Photos",
+          1419636603
+        ],
+        [
+          "Foo Fighters pulled American rock greats Rick Nielsen, Joe Walsh, and Ben Gibbard along for the ride on Sonic Highways.\nhttp://facebook.itunes.com/6186Qi2i Timeline Photos",
+          1418311804
+        ],
+        [
+          "We salute you, AC/DC.\nRock or Bust.\nGet \"Play Ball\" now when you pre-order.\nhttp://facebook.itunes.com/6185s1oS Timeline Photos",
+          1415832426
+        ],
+        [
+          "You have arrived at your destination.\n#SonicHighways\nFoo Fighters\nhttp://facebook.itunes.com/6181SLTt Timeline Photos",
+          1415595604
+        ],
+        [
+          "One band.\nEight American cities. \nThousands of memories.\nStream Foo Fighters' #SonicHighways now on iTunes Radio.  \nhttp://facebook.itunes.com/6182SqhA Timeline Photos",
+          1415421181
+        ],
+        [
+          "Next stop along Foo Fighters' #SonicHighways: Austin, Texas. \nGet \"What Did I Do/God As My Witness\" now. http://facebook.itunes.com/6185SSy9 Timeline Photos",
+          1415337154
+        ],
+        [
+          "Next stop along Foo Fighters' #SonicHighways: \"The Feast and the Famine.\u201d\nhttp://facebook.itunes.com/6189qLs5 Timeline Photos",
+          1414350546
+        ],
+        [
+          "Mary J. Blige laments the passing of a \"Whole Damn Year\" on her latest track from The London Sessions. Get it now when you pre-order.\nhttp://facebook.itunes.com/6187qSW5 Timeline Photos",
+          1414112162
+        ],
+        [
+          "Foo Fighters explore America's rock 'n' roll family tree for inspiration on Sonic Highways.\nGet \"Something From Nothing\" now when you pre-order.\nhttp://facebook.itunes.com/6184q3hE Timeline Photos",
+          1413503703
+        ],
+        [
+          "Mary J. Blige plunges into deep house on The London Sessions. Get the Disclosure-produced \"Right Now\" now when you pre-order. http://facebook.itunes.com/6183UqgS Timeline Photos",
+          1412805608
+        ],
+        [
+          "Foo Fighters compose a love letter to the history of American music on Sonic Highways. http://facebook.itunes.com/SonicHighways Timeline Photos",
+          1412611211
+        ],
+        [
+          "Foo Fighters hoist the American rock 'n' roll flag on Sonic Highways. Pre-order now. http://facebook.itunes.com/6188oiga Timeline Photos",
+          1411054207
+        ],
+        [
+          "\"Animals.\"\nMaroon 5.\nGet it now when you pre-order V.\nhttp://facebook.itunes.com/6185WTCv Timeline Photos",
+          1408930202
+        ],
+        [
+          "Foo Fighters traveled the Sonic Highways for their new album, recording in 8 different American cities and inviting local heroes to sit in. Pre-order now. \nhttp://facebook.itunes.com/6184WzKy Timeline Photos",
+          1408629623
+        ],
+        [
+          "deadmau5 is on another wavelength. Get \"Avaritia\" now when you pre-order while(1<2). http://facebook.itunes.com/6189iIUZ Timeline Photos",
+          1400714705
+        ],
+        [
+          "Rush starring Chris Hemsworth and Daniel Br\u00fchl, is a potent, high-octane thriller. Watch the trailers, an exclusive interview, and pre-order now. http://facebook.itunes.com/eKO Timeline Photos",
+          1381017808
+        ],
+        [
+          "Arcade Fire. Reflektor. Pre-order now. http://facebook.itunes.com/8k4 Timeline Photos",
+          1378782996
+        ],
+        [
+          "Pearl Jam. Lightning Bolt. Pre-order now. \nhttp://facebook.itunes.com/raQ Timeline Photos",
+          1373580083
+        ],
+        [
+          "Outlaws for justice. The Lone Ranger rides into theaters today, and you can pre-order it now.  http://facebook.itunes.com/kPX Timeline Photos",
+          1372860601
+        ],
+        [
+          "Will you join the minions seeing Despicable Me 2 this Independence Day weekend? You can pre-order it now. http://facebook.itunes.com/4Kl Timeline Photos",
+          1372849200
+        ],
+        [
+          "It's David Bowie's birthday, but we get the surprise present. He's unexpectedly announced a March release of his new album, The Next Day. You can get a new track right now when you pre-order. http://facebook.itunes.com/gBK Timeline Photos",
+          1357658935
+        ]
+      ],
+      "dates_start": 1385065054,
+      "dates_end": 1424552308,
+      "likes_avg": 522,
+      "likes_stdev": 543,
+      "comments_avg": 20,
+      "comments_stdev": 21,
+      "shares_avg": 295,
+      "shares_stdev": 788
+    },
+    {
+      "number": 16,
+      "important": [
+        "us",
+        "free",
+        "singl week timelin",
+        "holiday",
+        "singl week",
+        "singl",
+        "countri",
+        "make",
+        "week",
+        "week timelin"
+      ],
+      "common": [
+        "com",
+        "facebook",
+        "facebook itunes",
+        "http",
+        "http facebook",
+        "http facebook itunes",
+        "http facebook itunes com",
+        "itunes",
+        "itunes com",
+        "single week"
+      ],
+      "messages": [
+        [
+          "Nikki Lane's no-nonsense country makes us swoon. \u201cFaLaLaLaLove Ya\u201d is our free Holiday Single of the Week. http://facebook.itunes.com/6185QiOX Timeline Photos",
+          1418263262
+        ],
+        [
+          "Lennon and Maisy Stella steer the tour bus towards Nashville on \"Christmas Coming Home,\u201d our free Holiday Single of the Week.\nhttp://facebook.itunes.com/6181t7Fx Timeline Photos",
+          1417627804
+        ],
+        [
+          "Flight Facilities hug it out with Emma Louise, Kylie Minogue, Bishop Nehru and more on their dance excursion Down to Earth. \"Sunshine\" with Reggie Watts is our Single of the Week.\nhttp://facebook.itunes.com/6185SJTb Timeline Photos",
+          1414720804
+        ],
+        [
+          "The future sound of Mexico is here on Bostich & Fussible's \"Preciosa,\" our free Latin Single of the Week. http://facebook.itunes.com/6180oWOQ Timeline Photos",
+          1411173002
+        ],
+        [
+          "Pop gets a funky-bubbly backbeat in Mapei's \"Don't Wait,\" our free Single of the Week. http://facebook.itunes.com/6182odje Timeline Photos",
+          1410962413
+        ],
+        [
+          "Power duo Royal Blood have rock & blues in a stranglehold. \"Figure it Out\" is our free Single of the Week.\nhttp://facebook.itunes.com/6182WwF6 Timeline Photos",
+          1409139007
+        ],
+        [
+          "British singer/songwriter James Bay conveys deep emotion on \"Let It Go\" our free Single of the Week. http://facebook.itunes.com/6180mL56 Timeline Photos",
+          1408197609
+        ],
+        [
+          "Sweet soul music from St. Paul and the Broken Bones. \"Call Me\" is our free Single of the Week. \nhttp://facebook.itunes.com/6182Yu1C Timeline Photos",
+          1403960406
+        ],
+        [
+          "Colbie Caillat reveals the inspiration of her new song \"Try,\" our free Single of the Week. \nhttp://facebook.itunes.com/6185coB9",
+          1402594395
+        ],
+        [
+          "Betty Who's \"Somebody Loves You\" is positively jubilant. It's our free Single of the Week. http://tw.itunes.com/61829p5w Timeline Photos",
+          1397167169
+        ],
+        [
+          "KONGOS' \"I'm Only Joking\" is a brooding rocker with a catchy, hook-filled chorus. It's our free Single of the Week. http://facebook.itunes.com/6184gNKa Timeline Photos",
+          1396142684
+        ],
+        [
+          "Kick off 2014 with the sticky-sweet vocals and beats of Charlotte OC. \u201cHangover\u201d is our free Single of the Week. http://facebook.itunes.com/ycJ Timeline Photos",
+          1388764801
+        ],
+        [
+          "Sky Ferreira is pop\u2019s shining anti-hero, channeling angst and mood on our free Single of the Week \u201c24 Hours\u201d and her impressive full-length Night Time, My Time. \nhttp://facebook.itunes.com/TYT Timeline Photos",
+          1383403586
+        ],
+        [
+          "There\u2019s still time to download our free Single of the Week from songbird Tori Kelly: \"Dear No One.\"\r\nhttp://facebook.itunes.com/dpF Timeline Photos",
+          1382796035
+        ],
+        [
+          "John Newman\u2019s passionate soul will blow you away. \u201cLove Me Again\u201d is our free Single of the Week. http://facebook.itunes.com/r2T Timeline Photos",
+          1382047201
+        ],
+        [
+          "Echosmith are four siblings making sweet indie pop. \u201cCool Kids\u201d is our free Single of the Week. \r\nhttp://facebook.itunes.com/Z9P Timeline Photos",
+          1381617953
+        ],
+        [
+          "Get to know English pop singer Natalia Kills. Her ode to heartbreak \u201cOutta Time\u201d is our free Single of the Week. \r\nhttp://facebook.itunes.com/1LX Timeline Photos",
+          1378389600
+        ],
+        [
+          "Foy Vance sings of love and heartache in a throaty emotional howl on \"Closed Hand, Full of Friends,\" our free Single of the Week. http://facebook.itunes.com/agb Timeline Photos",
+          1377910801
+        ],
+        [
+          "Five things to know about We Are Twin: http://facebook.itunes.com/Kdr\n\n1. Their soulful electro-pop track \u201cThe Way We Touch\u201d is our free Single of the Week.\n2. Nicolas Balachandran and Gabi Christine are from Germany and New York and met in Los Angeles.\n3. They gave up their jobs to pursue their dream.\n4. Twin loves vintage instruments and art, architecture, and design\n5. Twin live on raw cold-pressed juice.\n\nhttp://facebook.itunes.com/Kdr Timeline Photos",
+          1377216074
+        ],
+        [
+          "Sister trio HAIM recorded \u201cThe Wire\u201d 20 times before they were happy with it. Their commitment is your gain, and our free Single of the Week. http://facebook.itunes.com/AtC Timeline Photos",
+          1376604000
+        ],
+        [
+          "\u201cLove the Way You Lie\u201d songwriter Skylar Grey climbs a \u201cTower\u201d of heartbreak on our free Single of the Week. http://facebook.itunes.com/tWr Timeline Photos",
+          1373464802
+        ],
+        [
+          "There\u2019s still room on The 1975 bandwagon. Hop on with the galactic alt-rock of \u201cChocolate,\u201d our free Single of the Week. http://facebook.itunes.com/r0t Timeline Photos",
+          1372957201
+        ],
+        [
+          "Scorpion Child's \u201cPolygon of Eyes\u201d may be our hardest rockin\u2019 free Single of the Week ever.\n\nhttp://facebook.itunes.com/78I Timeline Photos",
+          1372339629
+        ],
+        [
+          "http://facebook.itunes.com/Kno \r\nMeet Cimorelli, six sisters riding a wave of popularity for their beautiful vocals. \u201cMade in America\u201d is our free Single of the Week. Timeline Photos",
+          1371686401
+        ]
+      ],
+      "dates_start": 1376019429,
+      "dates_end": 1408076123,
+      "likes_avg": 285,
+      "likes_stdev": 394,
+      "comments_avg": 15,
+      "comments_stdev": 26,
+      "shares_avg": 32,
+      "shares_stdev": 37
+    },
+    {
+      "number": 17,
+      "important": [
         "action",
-        "get free",
+        "seri premier",
+        "free",
+        "stori",
+        "seri",
+        "free seri",
         "premier",
-        "free"
+        "get free",
+        "get",
+        "befor"
       ],
       "common": [
         "com",
@@ -1585,18 +1807,18 @@
       "shares_stdev": 143
     },
     {
-      "number": 16,
+      "number": 18,
       "important": [
-        "past",
-        "catch",
-        "check",
-        "exclus",
-        "game throne",
+        "action",
         "check exclus",
         "ibook",
+        "check",
+        "exclus",
+        "game",
+        "catch",
+        "game throne",
         "season",
-        "action",
-        "game"
+        "past"
       ],
       "common": [
         "com",
@@ -1734,18 +1956,18 @@
       "shares_stdev": 29023
     },
     {
-      "number": 17,
+      "number": 19,
       "important": [
-        "timelin",
-        "get",
-        "holiday",
-        "season",
-        "itun gift",
+        "movi",
         "gift",
         "us",
+        "timelin photo",
+        "timelin",
+        "holiday",
+        "get",
+        "season",
         "itun",
-        "movi",
-        "timelin photo"
+        "itun gift"
       ],
       "common": [
         "com",
@@ -1887,18 +2109,18 @@
       "shares_stdev": 81
     },
     {
-      "number": 18,
+      "number": 20,
       "important": [
-        "season premier",
-        "cc",
-        "get",
         "season pass",
-        "season",
-        "blake",
+        "cc",
         "action",
-        "queen",
+        "blake",
         "premier",
-        "pass"
+        "get",
+        "pass",
+        "season",
+        "queen",
+        "season premier"
       ],
       "common": [
         "com",
@@ -2048,18 +2270,18 @@
       "shares_stdev": 30
     },
     {
-      "number": 19,
+      "number": 21,
       "important": [
-        "timelin",
-        "sxsw",
         "itunesfestiv",
-        "itun festiv",
-        "watch",
+        "timelin",
         "action",
-        "photo",
+        "timelin photo",
         "maroon",
+        "watch",
         "festiv sxsw",
-        "timelin photo"
+        "itun festiv",
+        "sxsw",
+        "photo"
       ],
       "common": [
         "com",
@@ -2221,203 +2443,18 @@
       "shares_stdev": 475
     },
     {
-      "number": 20,
+      "number": 22,
       "important": [
-        "swift",
-        "son",
-        "kendrick lamar",
-        "kendrick",
-        "get readi",
-        "action",
-        "photo",
-        "post",
-        "touch",
-        "itu"
-      ],
-      "common": [
-        "com",
-        "facebook",
-        "facebook itunes",
-        "facebook itunes com",
-        "http facebook",
-        "http facebook itunes",
-        "http facebook itunes com",
-        "itunes",
-        "itunes com",
-        "photos"
-      ],
-      "messages": [
-        [
-          "Taylor Swift\u2019s #BadBlood, with a touch of Kendrick Lamar. \nSold. \nhttp://facebook.itunes.com/BadBlood Photos from iTunes's post",
-          1431955468
-        ],
-        [
-          "Gotta get ready to see Mumford and Sons this summer.  \n#WilderMind is almost here! Pre-order: http://facebook.itunes.com/6188AH2y Timeline Photos",
-          1430319723
-        ],
-        [
-          "'A Musical Map of America.'  Check out the free premiere of Foo Fighters #SonicHighways and get the full series now. http://facebook.itunes.com/61874RK5",
-          1428502265
-        ],
-        [
-          "And the countdown to Kelly Clarkson\u2019s #PiecebyPiece begins! \nPre-order and \u201cHeartbeat Song\u201d is yours. \nhttp://facebook.itunes.com/6189IN6W Timeline Photos",
-          1422990010
-        ],
-        [
-          "U2, Foo Fighters, Metallica and more. \nGreat artists. Great prices. \nhttp://facebook.itunes.com/6183vlc7 Timeline Photos",
-          1419636603
-        ],
-        [
-          "Foo Fighters pulled American rock greats Rick Nielsen, Joe Walsh, and Ben Gibbard along for the ride on Sonic Highways.\nhttp://facebook.itunes.com/6186Qi2i Timeline Photos",
-          1418311804
-        ],
-        [
-          "This week on The Voice: playoffs continue, Taylor Swift returns, and guest coaches Patrick Stump, Diana Ross, Colbie Caillat, and Christina Aguilera dispense advice. iTunes.com/TheVoice Timeline Photos",
-          1416873607
-        ],
-        [
-          "We salute you, AC/DC.\nRock or Bust.\nGet \"Play Ball\" now when you pre-order.\nhttp://facebook.itunes.com/6185s1oS Timeline Photos",
-          1415832426
-        ],
-        [
-          "You have arrived at your destination.\n#SonicHighways\nFoo Fighters\nhttp://facebook.itunes.com/6181SLTt Timeline Photos",
-          1415595604
-        ],
-        [
-          "One band.\nEight American cities. \nThousands of memories.\nStream Foo Fighters' #SonicHighways now on iTunes Radio.  \nhttp://facebook.itunes.com/6182SqhA Timeline Photos",
-          1415421181
-        ],
-        [
-          "Next stop along Foo Fighters' #SonicHighways: Austin, Texas. \nGet \"What Did I Do/God As My Witness\" now. http://facebook.itunes.com/6185SSy9 Timeline Photos",
-          1415337154
-        ],
-        [
-          "Taylor Swift fans: which 1989 song is your anthem?\nhttp://facebook.itunes.com/6182SOvj Timeline Photos",
-          1414975021
-        ],
-        [
-          "No going back.\n1989.\nTaylor Swift\nhttp://facebook.itunes.com/6180qLgY Timeline Photos",
-          1414384207
-        ],
-        [
-          "Next stop along Foo Fighters' #SonicHighways: \"The Feast and the Famine.\u201d\nhttp://facebook.itunes.com/6189qLs5 Timeline Photos",
-          1414350546
-        ],
-        [
-          "Mary J. Blige laments the passing of a \"Whole Damn Year\" on her latest track from The London Sessions. Get it now when you pre-order.\nhttp://facebook.itunes.com/6187qSW5 Timeline Photos",
-          1414112162
-        ],
-        [
-          "Cutest. Thing. Ever.\nSee more Taylor Swift home movies from #1989. http://facebook.itunes.com/TaylorSwift",
-          1413933721
-        ],
-        [
-          "Foo Fighters explore America's rock 'n' roll family tree for inspiration on Sonic Highways.\nGet \"Something From Nothing\" now when you pre-order.\nhttp://facebook.itunes.com/6184q3hE Timeline Photos",
-          1413503703
-        ],
-        [
-          "It's gonna be alright.\nTaylor Swift\nPre-order 1989 and get \"Shake It Off.\"\nhttp://facebook.itunes.com/6180UQF8 Timeline Photos",
-          1412962209
-        ],
-        [
-          "Mary J. Blige plunges into deep house on The London Sessions. Get the Disclosure-produced \"Right Now\" now when you pre-order. http://facebook.itunes.com/6183UqgS Timeline Photos",
-          1412805608
-        ],
-        [
-          "Foo Fighters compose a love letter to the history of American music on Sonic Highways. http://facebook.itunes.com/SonicHighways Timeline Photos",
-          1412611211
-        ],
-        [
-          "Stay positive.\nTaylor Swift 1989.\nhttp://facebook.itunes.com/6184UZgg Timeline Photos",
-          1412384406
-        ],
-        [
-          "Taylor Swift rides the pop wave on 1989. Pre-order now.\nhttp://facebook.itunes.com/6181ootL Timeline Photos",
-          1411252207
-        ],
-        [
-          "Foo Fighters hoist the American rock 'n' roll flag on Sonic Highways. Pre-order now. http://facebook.itunes.com/6188oiga Timeline Photos",
-          1411054207
-        ],
-        [
-          "\"Animals.\"\nMaroon 5.\nGet it now when you pre-order V.\nhttp://facebook.itunes.com/6185WTCv Timeline Photos",
-          1408930202
-        ],
-        [
-          "Foo Fighters traveled the Sonic Highways for their new album, recording in 8 different American cities and inviting local heroes to sit in. Pre-order now. \nhttp://facebook.itunes.com/6184WzKy Timeline Photos",
-          1408629623
-        ],
-        [
-          "deadmau5 is on another wavelength. Get \"Avaritia\" now when you pre-order while(1<2). http://facebook.itunes.com/6189iIUZ Timeline Photos",
-          1400714705
-        ],
-        [
-          "Kendrick Lamar and Imagine Dragons combined \u201cM.A.A.D. City\u201d and \u201cRadioactive\u201d into a muscular mashup. Did you see Taylor Swift dancing? #GRAMMYs Timeline Photos",
-          1390798473
-        ],
-        [
-          "Rush starring Chris Hemsworth and Daniel Br\u00fchl, is a potent, high-octane thriller. Watch the trailers, an exclusive interview, and pre-order now. http://facebook.itunes.com/eKO Timeline Photos",
-          1381017808
-        ],
-        [
-          "Arcade Fire. Reflektor. Pre-order now. http://facebook.itunes.com/8k4 Timeline Photos",
-          1378782996
-        ],
-        [
-          "Pearl Jam. Lightning Bolt. Pre-order now. \nhttp://facebook.itunes.com/raQ Timeline Photos",
-          1373580083
-        ],
-        [
-          "Outlaws for justice. The Lone Ranger rides into theaters today, and you can pre-order it now.  http://facebook.itunes.com/kPX Timeline Photos",
-          1372860601
-        ],
-        [
-          "Will you join the minions seeing Despicable Me 2 this Independence Day weekend? You can pre-order it now. http://facebook.itunes.com/4Kl Timeline Photos",
-          1372849200
-        ],
-        [
-          "It's David Bowie's birthday, but we get the surprise present. He's unexpectedly announced a March release of his new album, The Next Day. You can get a new track right now when you pre-order. http://facebook.itunes.com/gBK Timeline Photos",
-          1357658935
-        ],
-        [
-          "Rolling Stone gave Red 4.5 stars, complimenting Taylor Swift\u2019s lyrical growth. \u201cWhen she\u2019s really on, her songs are like tattoos.\u201d http://facebook.itunes.com/Qkj Timeline Photos",
-          1351273201
-        ],
-        [
-          "Forget puppy love. Now 22, Taylor Swift is dishing kiss-off anthems and exploring new musical territory. http://facebook.itunes.com/9L7 Timeline Photos",
-          1350957599
-        ],
-        [
-          "Taylor Swift's \"We Are Never Ever Getting Back Together\" has us seeing Red. http://facebook.itunes.com/NzU Timeline Photos",
-          1344960619
-        ],
-        [
-          "Rapper B.o.B just released a follow-up to his No. 1 debut. Strange Clouds includes collaborations with Taylor Swift, Lil Wayne, T.I., Chris Brown, and more. http://facebook.itunes.com/igo Timeline Photos",
-          1336017957
-        ]
-      ],
-      "dates_start": 1374879871,
-      "dates_end": 1426100509,
-      "likes_avg": 1657,
-      "likes_stdev": 4507,
-      "comments_avg": 64,
-      "comments_stdev": 177,
-      "shares_avg": 230,
-      "shares_stdev": 651
-    },
-    {
-      "number": 21,
-      "important": [
-        "return",
-        "time",
-        "get",
-        "price",
-        "price limit",
         "special",
-        "us",
-        "limit",
+        "return",
+        "icon",
+        "get",
         "special price",
-        "icon"
+        "limit",
+        "price",
+        "time",
+        "us",
+        "price limit"
       ],
       "common": [
         "com",
@@ -2603,18 +2640,18 @@
       "shares_stdev": 382
     },
     {
-      "number": 22,
+      "number": 23,
       "important": [
-        "last",
-        "cc",
-        "year",
         "thank",
-        "take",
+        "cc",
         "action",
         "show",
+        "great",
         "award",
-        "rogu",
-        "great"
+        "year",
+        "last",
+        "take",
+        "rogu"
       ],
       "common": [
         "awards",
@@ -2808,18 +2845,18 @@
       "shares_stdev": 117
     },
     {
-      "number": 23,
+      "number": 24,
       "important": [
-        "tonight",
         "timelin",
-        "readi",
-        "get readi",
-        "action",
         "person",
-        "photo",
-        "post",
+        "timelin photo",
+        "action",
+        "get readi",
+        "readi",
         "itu",
-        "timelin photo"
+        "tonight",
+        "photo",
+        "post"
       ],
       "common": [
         "com",
@@ -3017,18 +3054,18 @@
       "shares_stdev": 115
     },
     {
-      "number": 24,
+      "number": 25,
       "important": [
         "timelin",
-        "new album",
-        "album",
         "action",
+        "timelin photo",
         "sound",
+        "album",
+        "album timelin",
+        "new album",
         "new",
         "new album timelin",
-        "album timelin",
-        "photo",
-        "timelin photo"
+        "photo"
       ],
       "common": [
         "album",
@@ -3226,18 +3263,18 @@
       "shares_stdev": 1962
     },
     {
-      "number": 25,
+      "number": 26,
       "important": [
-        "big",
-        "time",
-        "beauti",
-        "snapchat",
-        "get",
-        "reveal",
         "town",
-        "old",
         "action",
-        "secret"
+        "reveal",
+        "secret",
+        "big",
+        "get",
+        "time",
+        "old",
+        "beauti",
+        "snapchat"
       ],
       "common": [
         "com",
@@ -3447,18 +3484,18 @@
       "shares_stdev": 144
     },
     {
-      "number": 26,
+      "number": 27,
       "important": [
-        "tv",
         "return",
-        "make",
         "avail itun",
-        "avail",
-        "season avail",
-        "season",
+        "timelin photo",
         "itun timelin",
+        "season",
+        "season avail",
+        "make",
         "itun",
-        "timelin photo"
+        "avail",
+        "tv"
       ],
       "common": [
         "com",
@@ -3676,18 +3713,18 @@
       "shares_stdev": 1851
     },
     {
-      "number": 27,
+      "number": 28,
       "important": [
-        "join",
-        "night",
-        "instagram",
-        "one",
         "take",
-        "theater",
+        "instagram",
+        "night",
+        "join",
+        "one",
         "follow",
-        "onli",
+        "theater",
         "woodi",
-        "us"
+        "us",
+        "onli"
       ],
       "common": [
         "com",
@@ -3957,18 +3994,18 @@
       "shares_stdev": 229
     },
     {
-      "number": 28,
+      "number": 29,
       "important": [
-        "tv",
+        "appl",
+        "movi",
+        "iphon",
+        "timelin photo",
+        "appl tv",
         "check",
         "play",
-        "collect",
-        "appl tv",
         "new",
-        "iphon",
-        "movi",
-        "appl",
-        "timelin photo"
+        "collect",
+        "tv"
       ],
       "common": [
         "com",
@@ -4270,18 +4307,18 @@
       "shares_stdev": 9789
     },
     {
-      "number": 29,
+      "number": 30,
       "important": [
         "song",
         "timelin",
+        "action",
+        "timelin photo",
         "festiv",
         "itun festiv",
-        "action",
         "mari",
         "track",
-        "itun",
         "photo",
-        "timelin photo"
+        "itun"
       ],
       "common": [
         "com",
@@ -4583,18 +4620,18 @@
       "shares_stdev": 60
     },
     {
-      "number": 30,
+      "number": 31,
       "important": [
-        "itunesradio",
-        "itunesradio timelin",
         "timelin",
-        "good",
-        "thing",
-        "stream",
         "action",
-        "photo",
+        "timelin photo",
+        "stream",
+        "good",
+        "itunesradio timelin",
+        "itunesradio",
+        "thing",
         "say",
-        "timelin photo"
+        "photo"
       ],
       "common": [
         "com",
@@ -4996,18 +5033,18 @@
       "shares_stdev": 442
     },
     {
-      "number": 31,
+      "number": 32,
       "important": [
         "tom",
-        "documentari",
-        "think",
+        "action",
+        "watch",
+        "star",
         "man",
         "snapchat",
-        "star",
-        "watch",
-        "action",
+        "documentari",
+        "better",
         "old",
-        "better"
+        "think"
       ],
       "common": [
         "com",

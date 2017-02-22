@@ -1,29 +1,31 @@
 {
   "pagename": "barackobama",
+  "page_name_displayed": "Barack Obama",
   "globalstats": {
+    "fan_count": 54517767,
     "messages": 1883,
-    "likes_avg": 89970,
-    "likes_stdev": 157626,
-    "comments_avg": 6027,
-    "comments_stdev": 7889,
-    "shares_avg": 7322,
-    "shares_stdev": 13404,
+    "likes_avg": 89959,
+    "likes_stdev": 157604,
+    "comments_avg": 6025,
+    "comments_stdev": 7890,
+    "shares_avg": 7325,
+    "shares_stdev": 13434,
     "graph_uri": "clusters/barackobama.png"
   },
   "clusters": [
     {
       "number": 1,
       "important": [
-        "uninsur",
-        "uninsur rate",
-        "afford",
-        "coverag afford",
-        "obamacar",
         "cant afford",
-        "cut",
-        "access",
+        "uninsur",
+        "obamacar",
+        "uninsur rate",
         "rate",
-        "law"
+        "law",
+        "afford",
+        "access",
+        "cut",
+        "coverag afford"
       ],
       "common": [
         "health",
@@ -97,26 +99,26 @@
       ],
       "dates_start": 1414489091,
       "dates_end": 1461980112,
-      "likes_avg": 49429,
-      "likes_stdev": 23920,
-      "comments_avg": 3408,
-      "comments_stdev": 1379,
-      "shares_avg": 3169,
-      "shares_stdev": 1488
+      "likes_avg": 49457,
+      "likes_stdev": 23887,
+      "comments_avg": 3410,
+      "comments_stdev": 1391,
+      "shares_avg": 3171,
+      "shares_stdev": 1485
     },
     {
       "number": 2,
       "important": [
-        "combat",
         "power",
         "keep",
-        "clean",
-        "plan",
+        "clean power plan",
         "forward",
         "step",
-        "clean power plan",
-        "clean power",
-        "signific"
+        "signific",
+        "clean",
+        "plan",
+        "combat",
+        "clean power"
       ],
       "common": [
         "change",
@@ -190,9 +192,9 @@
       ],
       "dates_start": 1437490997,
       "dates_end": 1462356286,
-      "likes_avg": 37704,
-      "likes_stdev": 17350,
-      "comments_avg": 2640,
+      "likes_avg": 37695,
+      "likes_stdev": 17345,
+      "comments_avg": 2638,
       "comments_stdev": 1151,
       "shares_avg": 2610,
       "shares_stdev": 1442
@@ -200,16 +202,16 @@
     {
       "number": 3,
       "important": [
-        "chang timelin",
-        "climat chang",
+        "cant afford",
         "cant",
+        "fight climat chang",
         "climat chang timelin",
         "fight climat",
-        "slow",
         "afford",
-        "fight climat chang",
-        "cant afford",
-        "effort"
+        "effort",
+        "climat chang",
+        "chang timelin",
+        "slow"
       ],
       "common": [
         "change",
@@ -287,26 +289,26 @@
       ],
       "dates_start": 1404052960,
       "dates_end": 1469867954,
-      "likes_avg": 72184,
-      "likes_stdev": 34083,
-      "comments_avg": 5674,
-      "comments_stdev": 7109,
+      "likes_avg": 72174,
+      "likes_stdev": 34078,
+      "comments_avg": 5672,
+      "comments_stdev": 7108,
       "shares_avg": 6419,
-      "shares_stdev": 4820
+      "shares_stdev": 4819
     },
     {
       "number": 4,
       "important": [
-        "garland",
-        "leader",
-        "judg garland",
-        "giphycom",
-        "give",
-        "possibl",
-        "hear",
         "fair hear",
+        "hear",
+        "giphycom",
         "senat leader",
-        "rate"
+        "rate",
+        "garland",
+        "possibl",
+        "leader",
+        "give",
+        "judg garland"
       ],
       "common": [
         "fair",
@@ -384,26 +386,26 @@
       ],
       "dates_start": 1460353213,
       "dates_end": 1472247119,
-      "likes_avg": 29387,
-      "likes_stdev": 15196,
-      "comments_avg": 2059,
-      "comments_stdev": 1054,
-      "shares_avg": 2617,
-      "shares_stdev": 1238
+      "likes_avg": 29380,
+      "likes_stdev": 15193,
+      "comments_avg": 2055,
+      "comments_stdev": 1055,
+      "shares_avg": 2616,
+      "shares_stdev": 1237
     },
     {
       "number": 5,
       "important": [
+        "five",
+        "happi",
+        "photo",
+        "enjoy",
         "day",
+        "timelin",
         "month",
         "juli",
-        "enjoy",
-        "five",
-        "photo",
-        "happi",
-        "abl",
         "high",
-        "timelin"
+        "abl"
       ],
       "common": [
         "day",
@@ -485,26 +487,26 @@
       ],
       "dates_start": 1359900269,
       "dates_end": 1431094653,
-      "likes_avg": 451387,
-      "likes_stdev": 258782,
-      "comments_avg": 19746,
-      "comments_stdev": 10775,
-      "shares_avg": 22652,
-      "shares_stdev": 11310
+      "likes_avg": 451314,
+      "likes_stdev": 258744,
+      "comments_avg": 19741,
+      "comments_stdev": 10774,
+      "shares_avg": 22648,
+      "shares_stdev": 11308
     },
     {
       "number": 6,
       "important": [
-        "whi health",
-        "whi",
-        "reform",
-        "care",
-        "health care",
-        "health",
-        "photo",
         "care reform",
+        "import",
+        "health",
+        "reform",
+        "photo",
+        "health care",
+        "whi health",
+        "care",
         "timelin",
-        "import"
+        "whi"
       ],
       "common": [
         "affordable",
@@ -594,9 +596,9 @@
       ],
       "dates_start": 1392051159,
       "dates_end": 1418436274,
-      "likes_avg": 25244,
-      "likes_stdev": 14557,
-      "comments_avg": 2703,
+      "likes_avg": 25239,
+      "likes_stdev": 14555,
+      "comments_avg": 2702,
       "comments_stdev": 835,
       "shares_avg": 1831,
       "shares_stdev": 1910
@@ -604,16 +606,16 @@
     {
       "number": 7,
       "important": [
-        "white hous",
-        "choic",
         "hous",
-        "name",
+        "right",
         "meet",
         "organ",
-        "right",
+        "name",
+        "white hous",
+        "chang",
+        "choic",
         "white",
-        "fellow",
-        "chang"
+        "fellow"
       ],
       "common": [
         "bo",
@@ -703,26 +705,26 @@
       ],
       "dates_start": 1382014906,
       "dates_end": 1444468778,
-      "likes_avg": 69379,
-      "likes_stdev": 48549,
-      "comments_avg": 3908,
-      "comments_stdev": 4239,
-      "shares_avg": 5061,
+      "likes_avg": 69366,
+      "likes_stdev": 48539,
+      "comments_avg": 3906,
+      "comments_stdev": 4238,
+      "shares_avg": 5060,
       "shares_stdev": 5273
     },
     {
       "number": 8,
       "important": [
-        "presid obama",
         "pm",
-        "state",
-        "januari",
-        "et",
         "final",
-        "tune",
+        "state",
+        "presid obama",
         "state union",
         "pm et",
-        "union"
+        "januari",
+        "union",
+        "et",
+        "tune"
       ],
       "common": [
         "http",
@@ -812,26 +814,26 @@
       ],
       "dates_start": 1380622921,
       "dates_end": 1447531596,
-      "likes_avg": 60498,
-      "likes_stdev": 34219,
-      "comments_avg": 6097,
-      "comments_stdev": 4781,
-      "shares_avg": 4695,
+      "likes_avg": 60486,
+      "likes_stdev": 34213,
+      "comments_avg": 6095,
+      "comments_stdev": 4780,
+      "shares_avg": 4694,
       "shares_stdev": 3242
     },
     {
       "number": 9,
       "important": [
-        "sign ofa",
-        "birthday card",
-        "issu",
         "birthday",
+        "card presid",
+        "birthday card",
+        "turn",
         "weve",
         "happi birthday",
-        "card presid",
-        "turn",
+        "card",
+        "sign ofa",
         "celebr",
-        "card"
+        "issu"
       ],
       "common": [
         "birthday",
@@ -929,26 +931,26 @@
       ],
       "dates_start": 1382472480,
       "dates_end": 1457277903,
-      "likes_avg": 106508,
-      "likes_stdev": 136364,
-      "comments_avg": 15791,
-      "comments_stdev": 18158,
-      "shares_avg": 4549,
+      "likes_avg": 106490,
+      "likes_stdev": 136346,
+      "comments_avg": 15787,
+      "comments_stdev": 18156,
+      "shares_avg": 4548,
       "shares_stdev": 6437
     },
     {
       "number": 10,
       "important": [
-        "made",
-        "full",
         "equal",
         "photo",
+        "weve",
         "american",
-        "progress",
         "timelin",
-        "fight",
+        "made",
+        "progress",
         "celebr",
-        "weve"
+        "full",
+        "fight"
       ],
       "common": [
         "bo",
@@ -1054,26 +1056,26 @@
       ],
       "dates_start": 1389918726,
       "dates_end": 1462103524,
-      "likes_avg": 69865,
-      "likes_stdev": 63055,
-      "comments_avg": 6986,
-      "comments_stdev": 9914,
-      "shares_avg": 16217,
-      "shares_stdev": 42282
+      "likes_avg": 69848,
+      "likes_stdev": 63043,
+      "comments_avg": 6982,
+      "comments_stdev": 9905,
+      "shares_avg": 16221,
+      "shares_stdev": 42272
     },
     {
       "number": 11,
       "important": [
-        "day",
-        "presid",
-        "mother",
-        "thank",
-        "earth",
         "abl",
         "happi",
         "photo",
-        "day timelin",
-        "timelin"
+        "day",
+        "thank",
+        "timelin",
+        "presid",
+        "earth",
+        "mother",
+        "day timelin"
       ],
       "common": [
         "day",
@@ -1179,26 +1181,26 @@
       ],
       "dates_start": 1361034488,
       "dates_end": 1425243726,
-      "likes_avg": 438273,
-      "likes_stdev": 321509,
-      "comments_avg": 13741,
-      "comments_stdev": 8142,
-      "shares_avg": 23122,
-      "shares_stdev": 16434
+      "likes_avg": 438197,
+      "likes_stdev": 321459,
+      "comments_avg": 13737,
+      "comments_stdev": 8141,
+      "shares_avg": 23135,
+      "shares_stdev": 16440
     },
     {
       "number": 12,
       "important": [
-        "qualifi",
-        "senat",
-        "candid",
-        "done job",
-        "nomin",
         "fair hear judg",
+        "qualifi",
+        "hear judg",
         "garland",
-        "candid suprem",
+        "senat",
+        "done job",
         "job",
-        "hear judg"
+        "candid suprem",
+        "nomin",
+        "candid"
       ],
       "common": [
         "court",
@@ -1304,26 +1306,26 @@
       ],
       "dates_start": 1459526885,
       "dates_end": 1467253502,
-      "likes_avg": 24985,
-      "likes_stdev": 24209,
-      "comments_avg": 2122,
+      "likes_avg": 24978,
+      "likes_stdev": 24204,
+      "comments_avg": 2118,
       "comments_stdev": 1291,
-      "shares_avg": 1718,
-      "shares_stdev": 2684
+      "shares_avg": 1717,
+      "shares_stdev": 2682
     },
     {
       "number": 13,
       "important": [
-        "limit time",
-        "open",
-        "time",
-        "check option",
+        "onli",
+        "health insur marketplac",
         "health insur marketplac open onli",
-        "limit",
         "limit time check",
         "health insur marketplac open",
-        "health insur marketplac",
-        "onli"
+        "open",
+        "check option",
+        "limit",
+        "limit time",
+        "time"
       ],
       "common": [
         "check",
@@ -1437,26 +1439,26 @@
       ],
       "dates_start": 1422802297,
       "dates_end": 1455613717,
-      "likes_avg": 7060,
-      "likes_stdev": 5512,
+      "likes_avg": 7072,
+      "likes_stdev": 5527,
       "comments_avg": 1765,
-      "comments_stdev": 751,
+      "comments_stdev": 753,
       "shares_avg": 521,
       "shares_stdev": 339
     },
     {
       "number": 14,
       "important": [
-        "chicago",
-        "chanc",
         "pass",
         "chanc meet",
-        "friend could",
-        "final",
-        "trip",
         "summer",
+        "final",
+        "friend could",
+        "trip",
         "see",
-        "win"
+        "chicago",
+        "win",
+        "chanc"
       ],
       "common": [
         "bo",
@@ -1574,26 +1576,26 @@
       ],
       "dates_start": 1391819956,
       "dates_end": 1457457319,
-      "likes_avg": 24565,
-      "likes_stdev": 41753,
-      "comments_avg": 2219,
+      "likes_avg": 24561,
+      "likes_stdev": 41747,
+      "comments_avg": 2218,
       "comments_stdev": 2192,
       "shares_avg": 2125,
-      "shares_stdev": 5024
+      "shares_stdev": 5023
     },
     {
       "number": 15,
       "important": [
-        "ensur",
-        "love",
-        "let",
-        "obama",
-        "photo",
-        "american",
         "obama timelin",
+        "photo",
+        "ensur",
+        "american",
+        "obama",
+        "timelin",
+        "love",
         "us",
-        "fellow",
-        "timelin"
+        "let",
+        "fellow"
       ],
       "common": [
         "obama",
@@ -1715,26 +1717,26 @@
       ],
       "dates_start": 1353162371,
       "dates_end": 1426252560,
-      "likes_avg": 489107,
-      "likes_stdev": 582801,
-      "comments_avg": 20924,
-      "comments_stdev": 23696,
-      "shares_avg": 32315,
-      "shares_stdev": 45197
+      "likes_avg": 489034,
+      "likes_stdev": 582726,
+      "comments_avg": 20919,
+      "comments_stdev": 23693,
+      "shares_avg": 32319,
+      "shares_stdev": 45215
     },
     {
       "number": 16,
       "important": [
-        "act",
-        "secur",
-        "come",
-        "gain",
-        "afford",
-        "cover",
-        "million american",
         "afford care act",
+        "gain",
+        "secur",
+        "cover",
+        "million",
+        "act",
+        "afford",
+        "come",
         "afford care",
-        "million"
+        "million american"
       ],
       "common": [
         "act",
@@ -1856,26 +1858,26 @@
       ],
       "dates_start": 1371022057,
       "dates_end": 1432391189,
-      "likes_avg": 51107,
-      "likes_stdev": 31968,
-      "comments_avg": 4314,
+      "likes_avg": 51103,
+      "likes_stdev": 31962,
+      "comments_avg": 4313,
       "comments_stdev": 1721,
       "shares_avg": 3875,
-      "shares_stdev": 2390
+      "shares_stdev": 2389
     },
     {
       "number": 17,
       "important": [
-        "strengthen",
-        "immigr reform",
-        "broken",
-        "speak",
-        "reform",
-        "congress",
         "immigr",
+        "reform",
+        "broken",
+        "system",
         "comprehens",
-        "immigr system",
-        "system"
+        "strengthen",
+        "speak",
+        "congress",
+        "immigr reform",
+        "immigr system"
       ],
       "common": [
         "bo",
@@ -2005,26 +2007,26 @@
       ],
       "dates_start": 1364156580,
       "dates_end": 1416658363,
-      "likes_avg": 46483,
-      "likes_stdev": 23629,
-      "comments_avg": 6510,
-      "comments_stdev": 7467,
-      "shares_avg": 4015,
-      "shares_stdev": 2897
+      "likes_avg": 46476,
+      "likes_stdev": 23625,
+      "comments_avg": 6509,
+      "comments_stdev": 7466,
+      "shares_avg": 4013,
+      "shares_stdev": 2896
     },
     {
       "number": 18,
       "important": [
-        "movement",
-        "better",
-        "major",
-        "minimum",
         "rise",
-        "polit",
-        "worker",
+        "better",
         "monday",
-        "win",
-        "econom"
+        "polit",
+        "minimum",
+        "movement",
+        "major",
+        "econom",
+        "worker",
+        "win"
       ],
       "common": [
         "bo",
@@ -2166,26 +2168,26 @@
       ],
       "dates_start": 1387758108,
       "dates_end": 1430649444,
-      "likes_avg": 45275,
-      "likes_stdev": 39248,
-      "comments_avg": 6674,
-      "comments_stdev": 9205,
-      "shares_avg": 4813,
-      "shares_stdev": 6875
+      "likes_avg": 45265,
+      "likes_stdev": 39242,
+      "comments_avg": 6671,
+      "comments_stdev": 9204,
+      "shares_avg": 4811,
+      "shares_stdev": 6873
     },
     {
       "number": 19,
       "important": [
-        "person",
-        "never",
-        "issu",
         "polici",
-        "michell",
-        "educ",
-        "first ladi",
-        "across",
+        "michell obama",
+        "never",
         "access",
-        "michell obama"
+        "educ",
+        "issu",
+        "michell",
+        "person",
+        "across",
+        "first ladi"
       ],
       "common": [
         "first",
@@ -2327,26 +2329,26 @@
       ],
       "dates_start": 1327394418,
       "dates_end": 1414508093,
-      "likes_avg": 225281,
-      "likes_stdev": 343320,
-      "comments_avg": 10638,
-      "comments_stdev": 15234,
-      "shares_avg": 8984,
-      "shares_stdev": 10942
+      "likes_avg": 225249,
+      "likes_stdev": 343267,
+      "comments_avg": 10636,
+      "comments_stdev": 15229,
+      "shares_avg": 8985,
+      "shares_stdev": 10940
     },
     {
       "number": 20,
       "important": [
         "share",
+        "tell",
+        "agre",
+        "stori share",
+        "photo",
+        "timelin",
         "great",
         "share agre",
         "life",
-        "stori share",
-        "photo",
-        "abl",
-        "tell",
-        "timelin",
-        "agre"
+        "abl"
       ],
       "common": [
         "bo",
@@ -2492,26 +2494,26 @@
       ],
       "dates_start": 1352211936,
       "dates_end": 1414734421,
-      "likes_avg": 82034,
-      "likes_stdev": 83585,
-      "comments_avg": 6422,
-      "comments_stdev": 6471,
-      "shares_avg": 14113,
-      "shares_stdev": 22195
+      "likes_avg": 82020,
+      "likes_stdev": 83573,
+      "comments_avg": 6420,
+      "comments_stdev": 6469,
+      "shares_avg": 14111,
+      "shares_stdev": 22191
     },
     {
       "number": 21,
       "important": [
-        "movement",
-        "last call",
-        "befor",
-        "keep momentum",
-        "pitch",
-        "move",
-        "fundrais",
         "momentum",
+        "befor",
+        "call",
+        "pitch",
+        "movement",
+        "move",
+        "last call",
         "depend",
-        "call"
+        "fundrais",
+        "keep momentum"
       ],
       "common": [
         "bo",
@@ -2669,26 +2671,26 @@
       ],
       "dates_start": 1394353985,
       "dates_end": 1460936397,
-      "likes_avg": 56229,
-      "likes_stdev": 76425,
-      "comments_avg": 3072,
-      "comments_stdev": 2307,
-      "shares_avg": 3630,
-      "shares_stdev": 5638
+      "likes_avg": 56219,
+      "likes_stdev": 76413,
+      "comments_avg": 3071,
+      "comments_stdev": 2308,
+      "shares_avg": 3629,
+      "shares_stdev": 5637
     },
     {
       "number": 22,
       "important": [
-        "parent",
-        "mother",
-        "idea",
-        "alway",
         "equal",
-        "give",
+        "alway",
         "women",
+        "idea",
+        "parent",
+        "word",
+        "mother",
+        "give",
         "hope",
-        "deserv",
-        "word"
+        "deserv"
       ],
       "common": [
         "barack",
@@ -2846,26 +2848,26 @@
       ],
       "dates_start": 1326813656,
       "dates_end": 1422199219,
-      "likes_avg": 80240,
-      "likes_stdev": 182049,
+      "likes_avg": 80247,
+      "likes_stdev": 182127,
       "comments_avg": 3508,
-      "comments_stdev": 4744,
-      "shares_avg": 9089,
-      "shares_stdev": 27845
+      "comments_stdev": 4748,
+      "shares_avg": 9213,
+      "shares_stdev": 28488
     },
     {
       "number": 23,
       "important": [
-        "timelin",
-        "donat",
-        "last call",
-        "befor",
-        "call get",
         "get",
-        "midnight",
+        "donat",
+        "befor",
         "deadlin",
-        "last",
-        "call"
+        "call",
+        "timelin",
+        "midnight",
+        "last call",
+        "call get",
+        "last"
       ],
       "common": [
         "bo",
@@ -3023,26 +3025,26 @@
       ],
       "dates_start": 1380164387,
       "dates_end": 1411517724,
-      "likes_avg": 36585,
-      "likes_stdev": 36144,
-      "comments_avg": 3207,
+      "likes_avg": 36579,
+      "likes_stdev": 36138,
+      "comments_avg": 3206,
       "comments_stdev": 2040,
-      "shares_avg": 2045,
+      "shares_avg": 2044,
       "shares_stdev": 1909
     },
     {
       "number": 24,
       "important": [
-        "chanc",
-        "meet presid",
-        "meet",
-        "alway",
-        "last chanc",
-        "enter",
         "summer",
+        "meet",
+        "last chanc",
+        "meet presid",
         "deadlin",
+        "alway",
+        "enter",
         "meet presid obama",
-        "wait"
+        "wait",
+        "chanc"
       ],
       "common": [
         "bo",
@@ -3208,26 +3210,26 @@
       ],
       "dates_start": 1386751751,
       "dates_end": 1453110621,
-      "likes_avg": 35153,
-      "likes_stdev": 48879,
-      "comments_avg": 3712,
-      "comments_stdev": 3355,
+      "likes_avg": 35145,
+      "likes_stdev": 48870,
+      "comments_avg": 3711,
+      "comments_stdev": 3354,
       "shares_avg": 2130,
-      "shares_stdev": 5136
+      "shares_stdev": 5135
     },
     {
       "number": 25,
       "important": [
-        "renew",
-        "accord",
-        "intern",
-        "five",
-        "record",
-        "last year",
         "new",
-        "act climat",
+        "five",
         "energi",
-        "power"
+        "power",
+        "accord",
+        "record",
+        "renew",
+        "intern",
+        "last year",
+        "act climat"
       ],
       "common": [
         "bo",
@@ -3397,9 +3399,9 @@
       ],
       "dates_start": 1416440905,
       "dates_end": 1470180517,
-      "likes_avg": 41338,
-      "likes_stdev": 25174,
-      "comments_avg": 2495,
+      "likes_avg": 41335,
+      "likes_stdev": 25172,
+      "comments_avg": 2493,
       "comments_stdev": 1025,
       "shares_avg": 4490,
       "shares_stdev": 4539
@@ -3407,16 +3409,16 @@
     {
       "number": 26,
       "important": [
-        "sure",
-        "peopl",
-        "better",
-        "make sure",
         "birthday",
-        "obama",
-        "coverag",
-        "abl",
+        "better",
+        "peopl",
+        "sure",
         "make",
-        "let"
+        "obama",
+        "make sure",
+        "let",
+        "coverag",
+        "abl"
       ],
       "common": [
         "bo",
@@ -3590,26 +3592,26 @@
       ],
       "dates_start": 1335115434,
       "dates_end": 1428189848,
-      "likes_avg": 125534,
-      "likes_stdev": 121979,
-      "comments_avg": 9464,
-      "comments_stdev": 11185,
-      "shares_avg": 13898,
-      "shares_stdev": 14445
+      "likes_avg": 125563,
+      "likes_stdev": 121964,
+      "comments_avg": 9475,
+      "comments_stdev": 11250,
+      "shares_avg": 13902,
+      "shares_stdev": 14439
     },
     {
       "number": 27,
       "important": [
-        "hour",
-        "unemploy rate",
-        "year",
-        "littl",
-        "earn",
         "unemploy",
-        "economi work",
-        "us",
         "wage",
-        "percent"
+        "unemploy rate",
+        "earn",
+        "percent",
+        "year",
+        "us",
+        "economi work",
+        "littl",
+        "hour"
       ],
       "common": [
         "bo",
@@ -3791,26 +3793,26 @@
       ],
       "dates_start": 1377527259,
       "dates_end": 1453484605,
-      "likes_avg": 61291,
-      "likes_stdev": 33296,
+      "likes_avg": 61296,
+      "likes_stdev": 33282,
       "comments_avg": 5098,
-      "comments_stdev": 3880,
+      "comments_stdev": 3881,
       "shares_avg": 7981,
-      "shares_stdev": 6613
+      "shares_stdev": 6611
     },
     {
       "number": 28,
       "important": [
-        "benefit",
         "giphycom",
-        "must",
         "obamacar",
-        "abl",
         "economi work",
-        "million american",
+        "benefit",
         "american",
+        "must",
+        "million",
         "good news",
-        "million"
+        "million american",
+        "abl"
       ],
       "common": [
         "com",
@@ -3996,26 +3998,26 @@
       ],
       "dates_start": 1382955737,
       "dates_end": 1479509496,
-      "likes_avg": 96565,
-      "likes_stdev": 131335,
-      "comments_avg": 5476,
-      "comments_stdev": 5950,
-      "shares_avg": 8560,
-      "shares_stdev": 10870
+      "likes_avg": 96564,
+      "likes_stdev": 131304,
+      "comments_avg": 5474,
+      "comments_stdev": 5948,
+      "shares_avg": 8561,
+      "shares_stdev": 10867
     },
     {
       "number": 29,
       "important": [
-        "write",
         "polici",
-        "challeng",
+        "way",
+        "busi",
+        "write",
+        "econom",
         "tackl",
+        "challeng",
         "four",
         "ahead",
-        "busi",
-        "way",
-        "america",
-        "econom"
+        "america"
       ],
       "common": [
         "bo",
@@ -4229,26 +4231,26 @@
       ],
       "dates_start": 1429300883,
       "dates_end": 1458761596,
-      "likes_avg": 32366,
-      "likes_stdev": 15298,
-      "comments_avg": 2472,
-      "comments_stdev": 1158,
+      "likes_avg": 32362,
+      "likes_stdev": 15297,
+      "comments_avg": 2471,
+      "comments_stdev": 1157,
       "shares_avg": 2223,
       "shares_stdev": 1478
     },
     {
       "number": 30,
       "important": [
-        "secur",
-        "pay",
-        "whi",
-        "minimum",
         "enjoy",
-        "overtim",
+        "secur",
         "week",
+        "minimum",
+        "whi",
+        "effort",
         "thing",
-        "depend",
-        "effort"
+        "overtim",
+        "pay",
+        "depend"
       ],
       "common": [
         "address",
@@ -4474,23 +4476,23 @@
       ],
       "dates_start": 1420475562,
       "dates_end": 1459847918,
-      "likes_avg": 58510,
-      "likes_stdev": 43077,
-      "comments_avg": 5850,
-      "comments_stdev": 5196,
-      "shares_avg": 6882,
-      "shares_stdev": 4405
+      "likes_avg": 58501,
+      "likes_stdev": 43068,
+      "comments_avg": 5847,
+      "comments_stdev": 5194,
+      "shares_avg": 6885,
+      "shares_stdev": 4403
     },
     {
       "number": 31,
       "important": [
-        "hardwork",
-        "secur",
-        "get ahead",
-        "watch week",
         "opportun",
-        "make sure",
         "obama watch",
+        "get ahead",
+        "secur",
+        "watch week",
+        "hardwork",
+        "make sure",
         "love",
         "ahead",
         "everyon"
@@ -4719,26 +4721,26 @@
       ],
       "dates_start": 1383919038,
       "dates_end": 1420907375,
-      "likes_avg": 122090,
-      "likes_stdev": 33714,
-      "comments_avg": 11114,
-      "comments_stdev": 6448,
-      "shares_avg": 7611,
-      "shares_stdev": 3056
+      "likes_avg": 122067,
+      "likes_stdev": 33708,
+      "comments_avg": 11111,
+      "comments_stdev": 6445,
+      "shares_avg": 7609,
+      "shares_stdev": 3055
     },
     {
       "number": 32,
       "important": [
-        "timelin",
-        "presid",
-        "countri",
-        "yet",
         "fall",
-        "earth",
         "photo",
-        "abl",
         "mark",
-        "wait"
+        "timelin",
+        "countri",
+        "presid",
+        "earth",
+        "wait",
+        "yet",
+        "abl"
       ],
       "common": [
         "bo",
@@ -4968,25 +4970,25 @@
       ],
       "dates_start": 1356188767,
       "dates_end": 1430773729,
-      "likes_avg": 246652,
-      "likes_stdev": 181727,
-      "comments_avg": 11588,
-      "comments_stdev": 10345,
-      "shares_avg": 12566,
-      "shares_stdev": 13062
+      "likes_avg": 246609,
+      "likes_stdev": 181696,
+      "comments_avg": 11584,
+      "comments_stdev": 10344,
+      "shares_avg": 12564,
+      "shares_stdev": 13059
     },
     {
       "number": 33,
       "important": [
-        "american peopl",
         "respons",
         "stand way",
-        "process",
-        "way",
-        "continu",
-        "court",
-        "nomin process",
         "senat leader",
+        "way",
+        "nomin process",
+        "process",
+        "continu",
+        "american peopl",
+        "court",
         "nomin"
       ],
       "common": [
@@ -5221,26 +5223,26 @@
       ],
       "dates_start": 1448736624,
       "dates_end": 1473050945,
-      "likes_avg": 44080,
-      "likes_stdev": 35067,
-      "comments_avg": 2728,
+      "likes_avg": 44074,
+      "likes_stdev": 35060,
+      "comments_avg": 2726,
       "comments_stdev": 1596,
-      "shares_avg": 5563,
-      "shares_stdev": 7603
+      "shares_avg": 5562,
+      "shares_stdev": 7601
     },
     {
       "number": 34,
       "important": [
-        "team",
         "giphycom",
-        "fact",
         "matter",
-        "deliv",
-        "organ",
         "organ action",
-        "action",
+        "organ",
+        "team",
+        "truth",
+        "deliv",
+        "fact",
         "straight",
-        "truth"
+        "action"
       ],
       "common": [
         "action",
@@ -5483,25 +5485,25 @@
       "dates_start": 1369375226,
       "dates_end": 1437999019,
       "likes_avg": 32035,
-      "likes_stdev": 37818,
-      "comments_avg": 3713,
-      "comments_stdev": 3389,
+      "likes_stdev": 37808,
+      "comments_avg": 3712,
+      "comments_stdev": 3388,
       "shares_avg": 1757,
-      "shares_stdev": 2491
+      "shares_stdev": 2490
     },
     {
       "number": 35,
       "important": [
-        "gun violenc prevent",
-        "add voic",
-        "violenc",
         "add",
-        "congress need",
-        "commonsens gun",
-        "voic",
-        "gun violenc",
+        "gun violenc prevent",
         "commonsens",
-        "gun"
+        "gun",
+        "commonsens gun",
+        "violenc",
+        "congress need",
+        "voic",
+        "add voic",
+        "gun violenc"
       ],
       "common": [
         "bo",
@@ -5755,26 +5757,26 @@
       ],
       "dates_start": 1361627634,
       "dates_end": 1448412813,
-      "likes_avg": 103367,
-      "likes_stdev": 133937,
-      "comments_avg": 8651,
+      "likes_avg": 103348,
+      "likes_stdev": 133914,
+      "comments_avg": 8649,
       "comments_stdev": 7684,
-      "shares_avg": 10954,
-      "shares_stdev": 14779
+      "shares_avg": 10951,
+      "shares_stdev": 14775
     },
     {
       "number": 36,
       "important": [
         "ofa",
-        "add name join",
-        "team",
         "name join",
         "join",
-        "fact",
-        "fight back",
-        "lot",
+        "team",
+        "shouldnt",
         "truth",
-        "shouldnt"
+        "fight back",
+        "add name join",
+        "fact",
+        "lot"
       ],
       "common": [
         "bo",
@@ -6060,26 +6062,26 @@
       ],
       "dates_start": 1363043383,
       "dates_end": 1437242129,
-      "likes_avg": 67120,
-      "likes_stdev": 73105,
-      "comments_avg": 6282,
-      "comments_stdev": 6851,
-      "shares_avg": 8244,
-      "shares_stdev": 12371
+      "likes_avg": 67108,
+      "likes_stdev": 73095,
+      "comments_avg": 6280,
+      "comments_stdev": 6850,
+      "shares_avg": 8242,
+      "shares_stdev": 12369
     },
     {
       "number": 37,
       "important": [
-        "dont",
-        "financi",
-        "find",
-        "open",
-        "marketplac",
-        "coverag",
+        "less",
         "health care",
+        "find",
         "marketplac open",
         "back",
-        "less"
+        "dont",
+        "financi",
+        "open",
+        "coverag",
+        "marketplac"
       ],
       "common": [
         "bo",
@@ -6425,26 +6427,26 @@
       ],
       "dates_start": 1382804113,
       "dates_end": 1443804283,
-      "likes_avg": 48315,
-      "likes_stdev": 41490,
-      "comments_avg": 4087,
+      "likes_avg": 48320,
+      "likes_stdev": 41472,
+      "comments_avg": 4086,
       "comments_stdev": 2722,
-      "shares_avg": 4301,
-      "shares_stdev": 5499
+      "shares_avg": 4300,
+      "shares_stdev": 5497
     },
     {
       "number": 38,
       "important": [
+        "offici",
+        "global",
+        "climat agreement",
         "combat",
         "climat chang",
-        "focus",
-        "global",
-        "climat",
-        "climat agreement",
-        "pari",
+        "enter",
         "forc",
-        "offici",
-        "enter"
+        "climat",
+        "focus",
+        "pari"
       ],
       "common": [
         "bo",
@@ -6850,26 +6852,26 @@
       ],
       "dates_start": 1411559332,
       "dates_end": 1464131928,
-      "likes_avg": 44765,
-      "likes_stdev": 37307,
-      "comments_avg": 3524,
-      "comments_stdev": 3495,
-      "shares_avg": 3432,
-      "shares_stdev": 3360
+      "likes_avg": 44766,
+      "likes_stdev": 37304,
+      "comments_avg": 3523,
+      "comments_stdev": 3498,
+      "shares_avg": 3433,
+      "shares_stdev": 3359
     },
     {
       "number": 39,
       "important": [
-        "climat chang",
-        "found",
-        "fire",
-        "year",
-        "climat",
-        "number",
-        "major",
-        "human",
         "break",
-        "chang"
+        "found",
+        "number",
+        "year",
+        "fire",
+        "chang",
+        "human",
+        "major",
+        "climat",
+        "climat chang"
       ],
       "common": [
         "bo",
@@ -7851,12 +7853,12 @@
       ],
       "dates_start": 1351320128,
       "dates_end": 1443664901,
-      "likes_avg": 94464,
-      "likes_stdev": 120066,
-      "comments_avg": 5988,
-      "comments_stdev": 6070,
-      "shares_avg": 8865,
-      "shares_stdev": 11237
+      "likes_avg": 94448,
+      "likes_stdev": 120046,
+      "comments_avg": 5986,
+      "comments_stdev": 6069,
+      "shares_avg": 8863,
+      "shares_stdev": 11236
     }
   ]
 }

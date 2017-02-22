@@ -1,29 +1,31 @@
 {
   "pagename": "House",
+  "page_name_displayed": "House",
   "globalstats": {
+    "fan_count": 39713588,
     "messages": 386,
-    "likes_avg": 20534,
-    "likes_stdev": 48522,
+    "likes_avg": 20532,
+    "likes_stdev": 48517,
     "comments_avg": 434,
     "comments_stdev": 664,
-    "shares_avg": 1980,
-    "shares_stdev": 6389,
+    "shares_avg": 1981,
+    "shares_stdev": 6391,
     "graph_uri": "clusters/House.png"
   },
   "clusters": [
     {
       "number": 1,
       "important": [
+        "hous hous",
+        "hous hous hugh",
+        "hous hugh",
         "patient",
         "perform",
-        "hous hous hugh",
+        "better",
+        "better half",
         "hous",
         "episod hous photo",
-        "hous photo",
-        "better half",
-        "hous hous",
-        "better",
-        "hous hugh"
+        "hous photo"
       ],
       "common": [
         "23",
@@ -73,8 +75,8 @@
       ],
       "dates_start": 1327242867,
       "dates_end": 1327644038,
-      "likes_avg": 1222,
-      "likes_stdev": 2248,
+      "likes_avg": 1221,
+      "likes_stdev": 2247,
       "comments_avg": 110,
       "comments_stdev": 151,
       "shares_avg": 77,
@@ -83,16 +85,16 @@
     {
       "number": 2,
       "important": [
-        "photo",
+        "hous seri",
+        "timelin photo",
+        "enter",
+        "timelin",
+        "wrap",
         "wrap parti",
         "adam",
         "parti",
-        "hous seri",
-        "hous",
-        "timelin",
-        "wrap",
-        "timelin photo",
-        "enter"
+        "photo",
+        "hous"
       ],
       "common": [
         "bit",
@@ -146,8 +148,8 @@
       ],
       "dates_start": 1328841030,
       "dates_end": 1350368203,
-      "likes_avg": 4501,
-      "likes_stdev": 2113,
+      "likes_avg": 4500,
+      "likes_stdev": 2112,
       "comments_avg": 271,
       "comments_stdev": 150,
       "shares_avg": 338,
@@ -157,15 +159,15 @@
       "number": 3,
       "important": [
         "wilson",
-        "leonard",
-        "star",
-        "dr",
-        "timelin",
-        "tonight",
         "timelin photo",
+        "timelin",
         "guest",
+        "leonard",
+        "robert",
+        "tonight",
+        "star",
         "guest star",
-        "robert"
+        "dr"
       ],
       "common": [
         "episode",
@@ -233,16 +235,16 @@
     {
       "number": 4,
       "important": [
-        "episod",
-        "adam",
-        "episod hous",
-        "last night",
         "hous",
+        "night",
+        "like",
+        "episod hous",
+        "adam",
         "watch",
         "last",
-        "favorit",
-        "like",
-        "night"
+        "last night",
+        "episod",
+        "favorit"
       ],
       "common": [
         "comments",
@@ -300,8 +302,8 @@
       ],
       "dates_start": 1328368785,
       "dates_end": 1334218916,
-      "likes_avg": 6069,
-      "likes_stdev": 3802,
+      "likes_avg": 6068,
+      "likes_stdev": 3801,
       "comments_avg": 732,
       "comments_stdev": 424,
       "shares_avg": 52,
@@ -310,16 +312,16 @@
     {
       "number": 5,
       "important": [
-        "photo",
-        "episod",
-        "episod hous",
-        "hold",
-        "tonight",
-        "hous photo",
         "hous hous",
         "encor",
+        "check",
+        "episod hous",
         "hold episod",
-        "check"
+        "hold",
+        "photo",
+        "episod",
+        "hous photo",
+        "tonight"
       ],
       "common": [
         "7c",
@@ -381,7 +383,7 @@
       ],
       "dates_start": 1335136681,
       "dates_end": 1342591336,
-      "likes_avg": 5611,
+      "likes_avg": 5609,
       "likes_stdev": 2556,
       "comments_avg": 263,
       "comments_stdev": 119,
@@ -391,16 +393,16 @@
     {
       "number": 6,
       "important": [
-        "photo",
-        "adam",
-        "make",
-        "dr hous",
-        "dr",
-        "hous",
-        "timelin",
-        "watch",
         "timelin photo",
-        "day"
+        "timelin",
+        "dr hous",
+        "adam",
+        "watch",
+        "make",
+        "photo",
+        "hous",
+        "day",
+        "dr"
       ],
       "common": [
         "comebacks",
@@ -462,26 +464,26 @@
       ],
       "dates_start": 1405029564,
       "dates_end": 1483150812,
-      "likes_avg": 66359,
-      "likes_stdev": 90117,
-      "comments_avg": 1260,
-      "comments_stdev": 1000,
+      "likes_avg": 66361,
+      "likes_stdev": 90106,
+      "comments_avg": 1261,
+      "comments_stdev": 999,
       "shares_avg": 6273,
-      "shares_stdev": 9041
+      "shares_stdev": 9040
     },
     {
       "number": 7,
       "important": [
         "wilson",
-        "episod hous photo hold",
-        "hous hous hugh",
-        "hold",
-        "hous",
-        "hous photo",
         "hous hous",
+        "hous hous hugh",
+        "hous hugh",
+        "hous",
         "hold episod",
+        "hold",
+        "episod hous photo hold",
         "episod hous photo",
-        "hous hugh"
+        "hous photo"
       ],
       "common": [
         "13",
@@ -557,16 +559,16 @@
     {
       "number": 8,
       "important": [
-        "photo",
-        "episod",
-        "seri",
-        "hous seri",
         "hous seri final",
+        "hous seri",
+        "seri final",
+        "timelin photo",
         "timelin",
         "final",
-        "tonight",
-        "seri final",
-        "timelin photo"
+        "photo",
+        "seri",
+        "episod",
+        "tonight"
       ],
       "common": [
         "finale",
@@ -632,26 +634,26 @@
       ],
       "dates_start": 1334396580,
       "dates_end": 1339586301,
-      "likes_avg": 10491,
-      "likes_stdev": 15912,
-      "comments_avg": 671,
+      "likes_avg": 10489,
+      "likes_stdev": 15909,
+      "comments_avg": 670,
       "comments_stdev": 789,
-      "shares_avg": 797,
-      "shares_stdev": 1435
+      "shares_avg": 798,
+      "shares_stdev": 1436
     },
     {
       "number": 9,
       "important": [
-        "photo",
-        "adam",
-        "hous fan",
         "fan",
         "timelin",
-        "hous",
-        "know",
-        "take",
         "timelin photo",
-        "ultim"
+        "take",
+        "hous fan",
+        "know",
+        "ultim",
+        "adam",
+        "photo",
+        "hous"
       ],
       "common": [
         "fan",
@@ -717,8 +719,8 @@
       ],
       "dates_start": 1315914918,
       "dates_end": 1373777229,
-      "likes_avg": 8479,
-      "likes_stdev": 19859,
+      "likes_avg": 8478,
+      "likes_stdev": 19858,
       "comments_avg": 291,
       "comments_stdev": 392,
       "shares_avg": 384,
@@ -727,16 +729,16 @@
     {
       "number": 10,
       "important": [
-        "photo",
-        "adam",
-        "season",
-        "dr",
         "one",
         "timelin",
-        "hous",
+        "timelin photo",
+        "adam",
         "dr gregori",
         "last",
-        "timelin photo"
+        "photo",
+        "hous",
+        "season",
+        "dr"
       ],
       "common": [
         "dr",
@@ -802,26 +804,26 @@
       ],
       "dates_start": 1315676375,
       "dates_end": 1370991049,
-      "likes_avg": 10634,
-      "likes_stdev": 24688,
+      "likes_avg": 10632,
+      "likes_stdev": 24686,
       "comments_avg": 394,
       "comments_stdev": 376,
       "shares_avg": 786,
-      "shares_stdev": 2323
+      "shares_stdev": 2324
     },
     {
       "number": 11,
       "important": [
-        "photo",
-        "adam",
-        "jess spencer",
-        "jess",
-        "dr",
         "timelin",
-        "tonight",
-        "chase",
         "timelin photo",
-        "catch"
+        "jess",
+        "adam",
+        "photo",
+        "chase",
+        "jess spencer",
+        "tonight",
+        "catch",
+        "dr"
       ],
       "common": [
         "chase",
@@ -887,8 +889,8 @@
       ],
       "dates_start": 1321150182,
       "dates_end": 1366723462,
-      "likes_avg": 12575,
-      "likes_stdev": 18879,
+      "likes_avg": 12574,
+      "likes_stdev": 18878,
       "comments_avg": 453,
       "comments_stdev": 409,
       "shares_avg": 349,
@@ -897,16 +899,16 @@
     {
       "number": 12,
       "important": [
+        "behind scene",
         "behind",
-        "behind scene photo",
-        "execut",
         "david shore",
         "shore",
-        "twohour swan",
         "david",
         "die hous",
-        "behind scene",
-        "scene"
+        "behind scene photo",
+        "twohour swan",
+        "scene",
+        "execut"
       ],
       "common": [
         "aired",
@@ -986,16 +988,16 @@
     {
       "number": 13,
       "important": [
+        "post",
         "come",
-        "episod",
-        "adam",
         "play",
         "episod hous",
+        "adam",
         "hous md",
-        "hous",
         "show",
-        "post",
-        "critic"
+        "critic",
+        "hous",
+        "episod"
       ],
       "common": [
         "cases",
@@ -1077,8 +1079,8 @@
       ],
       "dates_start": 1322558666,
       "dates_end": 1390531909,
-      "likes_avg": 7549,
-      "likes_stdev": 5160,
+      "likes_avg": 7548,
+      "likes_stdev": 5159,
       "comments_avg": 650,
       "comments_stdev": 1020,
       "shares_avg": 704,
@@ -1087,16 +1089,16 @@
     {
       "number": 14,
       "important": [
+        "charlyn",
+        "guest",
+        "treat",
         "photo air",
         "park",
-        "treat",
-        "episod hous photo",
-        "guest",
-        "episod hous photo air",
-        "charlyn",
         "star",
         "guest star",
-        "park charlyn"
+        "park charlyn",
+        "episod hous photo",
+        "episod hous photo air"
       ],
       "common": [
         "aired",
@@ -1196,16 +1198,16 @@
     {
       "number": 15,
       "important": [
+        "die hous seri final photo",
+        "die",
+        "hous seri final",
+        "twohour",
+        "songeverybodi",
+        "die hous",
+        "twohour swan",
         "jess spencer",
         "jess",
-        "twohour",
-        "hous seri final",
-        "songeverybodi",
-        "gueststar",
-        "twohour swan",
-        "die hous",
-        "die",
-        "die hous seri final photo"
+        "gueststar"
       ],
       "common": [
         "dies",
@@ -1309,16 +1311,16 @@
     {
       "number": 16,
       "important": [
-        "help",
-        "photo air",
         "wilson",
-        "hous hous hugh",
-        "hous",
-        "hous photo",
         "hous hous",
-        "episod hous photo air",
+        "hous hous hugh",
+        "hous hugh",
+        "hous photo",
+        "photo air",
+        "hous",
+        "help",
         "episod hous photo",
-        "hous hugh"
+        "episod hous photo air"
       ],
       "common": [
         "aired",
@@ -1412,8 +1414,8 @@
       ],
       "dates_start": 1329187753,
       "dates_end": 1334450787,
-      "likes_avg": 470,
-      "likes_stdev": 367,
+      "likes_avg": 469,
+      "likes_stdev": 366,
       "comments_avg": 44,
       "comments_stdev": 32,
       "shares_avg": 54,
@@ -1422,11 +1424,11 @@
     {
       "number": 17,
       "important": [
+        "timelin photo",
         "come",
-        "photo",
-        "adam",
         "timelin",
-        "timelin photo"
+        "adam",
+        "photo"
       ],
       "common": [
         "bit",
@@ -1532,26 +1534,26 @@
       ],
       "dates_start": 1396246061,
       "dates_end": 1452787073,
-      "likes_avg": 100922,
-      "likes_stdev": 66956,
+      "likes_avg": 100915,
+      "likes_stdev": 66943,
       "comments_avg": 1290,
       "comments_stdev": 909,
       "shares_avg": 11661,
-      "shares_stdev": 9960
+      "shares_stdev": 9959
     },
     {
       "number": 18,
       "important": [
-        "wrap parti",
-        "arriv",
-        "seri",
         "hous seri",
-        "hous seri wrap",
-        "angel ca cr",
-        "angel ca cr frank",
-        "cast",
         "angel ca",
-        "parti"
+        "cast",
+        "wrap parti",
+        "hous seri wrap",
+        "parti",
+        "angel ca cr frank",
+        "seri",
+        "arriv",
+        "angel ca cr"
       ],
       "common": [
         "house",
@@ -1667,15 +1669,15 @@
     {
       "number": 19,
       "important": [
+        "take",
+        "air mon",
         "tonight hous",
-        "allnew episod hous",
-        "air mon catch allnew",
         "mon",
         "hold",
-        "air mon catch",
-        "air mon",
-        "take",
+        "air mon catch allnew",
         "hous preview",
+        "air mon catch",
+        "allnew episod hous",
         "allnew episod hous mon"
       ],
       "common": [
@@ -1810,9 +1812,9 @@
       ],
       "dates_start": 1328490533,
       "dates_end": 1334963456,
-      "likes_avg": 5442,
-      "likes_stdev": 4420,
-      "comments_avg": 276,
+      "likes_avg": 5441,
+      "likes_stdev": 4419,
+      "comments_avg": 275,
       "comments_stdev": 298,
       "shares_avg": 179,
       "shares_stdev": 260
@@ -1820,16 +1822,16 @@
     {
       "number": 20,
       "important": [
-        "photo",
-        "adam",
-        "play",
+        "work",
+        "timelin photo",
         "timelin",
+        "play",
+        "adam",
+        "photo",
+        "star",
         "hous",
         "look",
-        "timelin photo",
-        "work",
-        "favorit",
-        "star"
+        "favorit"
       ],
       "common": [
         "bit ly",
@@ -1963,12 +1965,12 @@
       ],
       "dates_start": 1352251985,
       "dates_end": 1434083818,
-      "likes_avg": 77093,
-      "likes_stdev": 80226,
+      "likes_avg": 77087,
+      "likes_stdev": 80217,
       "comments_avg": 957,
       "comments_stdev": 825,
-      "shares_avg": 7608,
-      "shares_stdev": 13599
+      "shares_avg": 7617,
+      "shares_stdev": 13607
     }
   ]
 }

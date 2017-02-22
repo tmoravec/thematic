@@ -1,106 +1,31 @@
 {
   "pagename": "Cristiano",
+  "page_name_displayed": "Cristiano Ronaldo",
   "globalstats": {
-    "messages": 1408,
-    "likes_avg": 627943,
-    "likes_stdev": 716487,
-    "comments_avg": 11044,
-    "comments_stdev": 12491,
-    "shares_avg": 12508,
-    "shares_stdev": 39226,
+    "fan_count": 119871849,
+    "messages": 1418,
+    "likes_avg": 628049,
+    "likes_stdev": 725012,
+    "comments_avg": 10882,
+    "comments_stdev": 11463,
+    "shares_avg": 11997,
+    "shares_stdev": 38292,
     "graph_uri": "clusters/Cristiano.png"
   },
   "clusters": [
     {
       "number": 1,
       "important": [
-        "get readi",
-        "dinner",
-        "photo",
-        "ad",
-        "timelin",
-        "readi",
-        "time",
-        "spend",
-        "time timelin",
-        "free"
-      ],
-      "common": [
-        "dinner",
-        "dinner time",
-        "dinner time timeline",
-        "dinner time timeline photos",
-        "photos",
-        "time",
-        "time timeline",
-        "time timeline photos",
-        "timeline",
-        "timeline photos"
-      ],
-      "messages": [
-        [
-          "Breakfast time in my spot\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83c\uddf5\ud83c\uddf9 Timeline Photos",
-          1482403565
-        ],
-        [
-          "Free time \u270c\ud83c\udffc\ufe0f\ud83d\udd1d Timeline Photos",
-          1472486701
-        ],
-        [
-          "Spend time with my 2 loves\u2764\ufe0f\u2600\ufe0f\u270c\ufe0f\ud83d\udc4c Timeline Photos",
-          1471266859
-        ],
-        [
-          "Ice cream time \u2600\ufe0f\ud83d\udc4c\ud83c\udffc Timeline Photos",
-          1470578555
-        ],
-        [
-          "Lunch time \ud83d\udc4d\ud83c\udffc\ud83d\udc4c\ud83c\udffc Timeline Photos",
-          1469728641
-        ],
-        [
-          "Dinner time Timeline Photos",
-          1443375451
-        ],
-        [
-          "Here\u2019s a sneak peak of me getting ready for the TV ad of #cristianoronaldolegacy. I had a great time! Timeline Photos",
-          1442925785
-        ],
-        [
-          "Relaxing time. Timeline Photos",
-          1401299315
-        ],
-        [
-          "Dinner time. Timeline Photos",
-          1395434550
-        ],
-        [
-          "Viva Ronaldo winners were in Lisbon for Portugal x Israel. Thanks a lot Emilie Berg and Mohammed Abdelhadi for your support! Hope you had a great time. Timeline Photos",
-          1382016796
-        ]
-      ],
-      "dates_start": 1407914701,
-      "dates_end": 1478388542,
-      "likes_avg": 1346698,
-      "likes_stdev": 786553,
-      "comments_avg": 19363,
-      "comments_stdev": 21668,
-      "shares_avg": 12668,
-      "shares_stdev": 14959
-    },
-    {
-      "number": 2,
-      "important": [
-        "pes",
-        "cristiano",
-        "celebr",
-        "celebr present",
-        "score",
-        "follow",
         "alert",
+        "cristiano",
+        "follow",
+        "goal",
+        "pes",
         "present",
         "present pes",
-        "goal"
+        "celebr present",
+        "celebr",
+        "score"
       ],
       "common": [
         "2012",
@@ -158,26 +83,26 @@
       ],
       "dates_start": 1329616971,
       "dates_end": 1336645431,
-      "likes_avg": 41205,
-      "likes_stdev": 13576,
-      "comments_avg": 3618,
-      "comments_stdev": 1758,
-      "shares_avg": 2786,
+      "likes_avg": 41196,
+      "likes_stdev": 13574,
+      "comments_avg": 3617,
+      "comments_stdev": 1757,
+      "shares_avg": 2784,
       "shares_stdev": 1648
     },
     {
-      "number": 3,
+      "number": 2,
       "important": [
-        "predict",
-        "result",
         "blog predict",
-        "network",
-        "place",
-        "blog",
         "instant",
+        "predict",
+        "place",
+        "result",
+        "network",
+        "blog",
+        "sport",
         "sportlobst",
-        "connect",
-        "sport"
+        "connect"
       ],
       "common": [
         "breaking news",
@@ -235,26 +160,26 @@
       ],
       "dates_start": 1407794163,
       "dates_end": 1412962426,
-      "likes_avg": 91584,
-      "likes_stdev": 21557,
-      "comments_avg": 3646,
+      "likes_avg": 91563,
+      "likes_stdev": 21552,
+      "comments_avg": 3644,
       "comments_stdev": 1271,
-      "shares_avg": 589,
+      "shares_avg": 588,
       "shares_stdev": 335
     },
     {
-      "number": 4,
+      "number": 3,
       "important": [
-        "unscriptd",
-        "cristiano",
-        "ronaldo",
-        "exclus",
         "cristiano ronaldo",
-        "ad",
-        "moment",
-        "son",
         "train",
-        "cristiano ronaldo exclus"
+        "moment",
+        "ronaldo",
+        "unscriptd",
+        "cristiano ronaldo exclus",
+        "cristiano",
+        "exclus",
+        "son",
+        "ad"
       ],
       "common": [
         "cristiano",
@@ -316,26 +241,26 @@
       ],
       "dates_start": 1452151750,
       "dates_end": 1458025536,
-      "likes_avg": 283043,
-      "likes_stdev": 189815,
-      "comments_avg": 8601,
-      "comments_stdev": 7603,
+      "likes_avg": 282939,
+      "likes_stdev": 189762,
+      "comments_avg": 8597,
+      "comments_stdev": 7600,
       "shares_avg": 12,
       "shares_stdev": 11
     },
     {
-      "number": 5,
+      "number": 4,
       "important": [
-        "happi",
-        "boy timelin",
-        "photo",
-        "thank",
-        "ad",
-        "timelin",
-        "player",
         "best",
+        "player",
+        "thank",
+        "photo",
         "win",
-        "boy"
+        "timelin",
+        "boy",
+        "ad",
+        "happi",
+        "boy timelin"
       ],
       "common": [
         "boys",
@@ -401,24 +326,24 @@
       ],
       "dates_start": 1465966705,
       "dates_end": 1478450028,
-      "likes_avg": 1237090,
-      "likes_stdev": 392829,
-      "comments_avg": 11360,
-      "comments_stdev": 6014,
-      "shares_avg": 11501,
-      "shares_stdev": 11133
+      "likes_avg": 1236938,
+      "likes_stdev": 392872,
+      "comments_avg": 11354,
+      "comments_stdev": 6012,
+      "shares_avg": 11503,
+      "shares_stdev": 11142
     },
     {
-      "number": 6,
+      "number": 5,
       "important": [
-        "happi",
-        "good",
-        "photo",
-        "ad",
-        "great",
-        "timelin",
         "morn",
-        "world"
+        "photo",
+        "great",
+        "world",
+        "timelin",
+        "good",
+        "ad",
+        "happi"
       ],
       "common": [
         "good",
@@ -488,26 +413,119 @@
       ],
       "dates_start": 1414465585,
       "dates_end": 1479743797,
-      "likes_avg": 1842091,
-      "likes_stdev": 758065,
-      "comments_avg": 31941,
-      "comments_stdev": 17872,
-      "shares_avg": 16079,
-      "shares_stdev": 9906
+      "likes_avg": 1935153,
+      "likes_stdev": 692802,
+      "comments_avg": 33338,
+      "comments_stdev": 17039,
+      "shares_avg": 17308,
+      "shares_stdev": 9667
+    },
+    {
+      "number": 6,
+      "important": [
+        "madeiraisland",
+        "onli",
+        "madeira",
+        "experi",
+        "visit",
+        "fun",
+        "around",
+        "nice",
+        "island",
+        "spend"
+      ],
+      "common": [
+        "exploremadeira",
+        "island",
+        "madeira",
+        "madeiraallyear",
+        "madeiraislands",
+        "photos",
+        "timeline",
+        "timeline photos",
+        "visit",
+        "visit madeira"
+      ],
+      "messages": [
+        [
+          "It\u2019s Christmas\u2026 am I the only one who gets homesick at this time of the year?! \nIt will be so nice to spend some days in my Island, Madeira, and experience all the fun and joy, typically felt around there!!!\n#discovermadeira #madeiraislands #madeiraisland #madeiraallyear  \n#christmasinmadeira #islandlife #christmastime #christmastraditions \nVisit Madeira\n\nSee more: https://goo.gl/xqOra5 Timeline Photos",
+          1482577201
+        ],
+        [
+          "It\u00b4s my turn to support my \u201cteam\u201d! Help us make Madeira win World\u00b4s Leading Destination 2016. Vote here http://bit.ly/29Ds2x2\n\n#madeiraislands #madeiraisland #exploremadeira#madeiraallyear #travelawards #discovermadeira #vote #world #CR7 Visit Madeira Timeline Photos",
+          1475938802
+        ],
+        [
+          "Madeira did it again! \nGold for my homeland as Europe\u2019s Leading Island Destination. That\u2019s my Madeira!\n@visitmadeiraofficial\n#hometown #proud #myisland #madeiraislands #gold #europe #sea #amazing #experiences #nature #exploremadeira #visitmadeira #madeiraisgold #discovermadeira Timeline Photos",
+          1473417422
+        ],
+        [
+          "Madeira Island is pretty awesome, don\u2019t you think guys?\n#madeiraislands #exploremadeira #visitmadeira #madeiraisgold #sea #hometown #myisland #amazing #experiences Madeira Island",
+          1471683600
+        ],
+        [
+          "It's always good come back home\u2026 I was really missing #Madeira\n\n#madeiraislands #exploremadeira #tourism #travel #visitmadeira #madeiraisgold #homeland #myisland Visit Madeira With and average temperature of 18\u00baC to 22\u00baC, Madeira's sea is perfect for Snorkeling, Scuba Diving (with dolphins, turtles and manta rays), whale watching, sailing, surfing, windsurfing, stand up paddling and canoeing, amongst other possibilities. And for those who love fishing, there's a lot to be said, but we'll stick to two simple words: \"blue\" and \"marlin\".\n\nFor more infromation: http://www.exploremadeira.pt\n\n#madeiraislands #madeiraisland #exploremadeira #madeiraallyear #travelawards #vote #europe #travel #adventure #landscape #madeira #nature #portugal",
+          1469713073
+        ],
+        [
+          "Obrigado Visit Madeira pelo apoio \ud83d\udc4d\ud83c\udffc Visit Madeira RONALDO, you are our island!\nMADEIRA is always with you and with our National Team!\n\nCristiano Ronaldo Sele\u00e7\u00f5es de Portugal \n#madeiraislands #madeiraisland #exploremadeira #madeiraallyear #travelawards #vote #europe #Portugal #Euro2016 #1de11milh\u00f5es #For\u00e7aPortugal #Somos11milh\u00f5es #selecaonacional #CR7\n\nPhoto - Sele\u00e7\u00e3o de Portugal",
+          1467457790
+        ],
+        [
+          "Love fireworks and music? In my #Madeira, the Atlantic Festival combines them both.  \nEach saturday of June, Funchal bay hosts an international fireworks competion. \nSo, why wait for New Year\u2019s Eve?  \n \nVisit Madeira\n#madeira #madeiraislands #madeiraisgold #madeiraallyear #cr7 #visitmadeira #exploremadeira #discovermadeira Timeline Photos",
+          1464959977
+        ],
+        [
+          "Another hat-trick this week?? This time for my Island!!\nIn 2013 and 2014 Madeira was Europe\u2019s Leading Island Destination and this year we are again nominated! Vote for Madeira hat-trick!\nhttp://bit.ly/1UXUrk2\n#madeiraislands #madeiraisland #exploremadeira #madeiraallyear #travelawards #vote #europe #hattrick\n#CR7 Visit Madeira Timeline Photos",
+          1461317931
+        ],
+        [
+          "Arriving to my home island #Madeira on a cruise ship is a unique experience!  The view of Funchal bay with the hills above it\u2019s an image you will never forget!\n#madeiraislands #exploremadeira\n#madeiraallyear #madeiraisgold Timeline Photos",
+          1457963642
+        ],
+        [
+          "I wish I was in my #Madeira right now, with 21\u00baC of temperature in January!\nMadeira is Gold! The Worlds\u2019s Leading Island Destination.\n \nVisit Madeira\n#madeiraislands\n#madeiraallyear\n#madeiraisgold Timeline Photos",
+          1453128361
+        ],
+        [
+          "#madeira is gold.\nFor me that has always been official. \nMadeira, World\u2019s Leading Island Destination.\nVisit Madeira #visitmadeira #madeira\u00e9ouro #madeiraisgold Timeline Photos",
+          1450105871
+        ],
+        [
+          "With your help, my Madeira can become the World\u2019s Leading Island Destination 2015.  \nVote for Madeira Island until November 8th \u2013 Please follow the link:\nhttp://www.worldtravelawards.com/award-worlds-leading-island-destination-2015 Mobile Uploads",
+          1445170187
+        ],
+        [
+          "You can explore my island #MadeiraIslands by Walking, Diving, Canyoning and many other activities. Get ready for the adventure and #exploremadeira \n\nTurismo da Madeira / Madeira Tourism\n#madeira\n#madeiranaturefestival\n#visitmadeira Timeline Photos",
+          1444213389
+        ],
+        [
+          "Madeira, my homeland -  the 6th Best Island in the whole world and 2nd in Europe. Why? Visit and discover by yourself. Turismo da Madeira / Madeira Tourism #visitmadeira #madeiraIslands Timeline Photos",
+          1441099769
+        ]
+      ],
+      "dates_start": 1448783125,
+      "dates_end": 1473895019,
+      "likes_avg": 209577,
+      "likes_stdev": 99484,
+      "comments_avg": 2734,
+      "comments_stdev": 1156,
+      "shares_avg": 2305,
+      "shares_stdev": 2066
     },
     {
       "number": 7,
       "important": [
-        "collect",
-        "photo",
-        "love",
-        "ad",
-        "new",
         "im",
-        "timelin",
+        "watch",
+        "new",
+        "love",
+        "photo",
         "great",
         "win",
-        "watch"
+        "timelin",
+        "ad",
+        "collect"
       ],
       "common": [
         "kika",
@@ -563,10 +581,6 @@
           1396527525
         ],
         [
-          "Love to fish. Have you ever tried it? Timeline Photos",
-          1373613553
-        ],
-        [
           "Loved the Jacob & Co. cocktail gala in Monaco last week. Had a lovely time. Jacob & Co cocktail gala",
           1373379772
         ],
@@ -587,129 +601,133 @@
           1352129505
         ]
       ],
-      "dates_start": 1375592785,
-      "dates_end": 1466443358,
-      "likes_avg": 1037191,
-      "likes_stdev": 1209583,
-      "comments_avg": 16306,
-      "comments_stdev": 18201,
-      "shares_avg": 19361,
-      "shares_stdev": 38584
+      "dates_start": 1378998506,
+      "dates_end": 1469358240,
+      "likes_avg": 1051499,
+      "likes_stdev": 1247424,
+      "comments_avg": 15287,
+      "comments_stdev": 18345,
+      "shares_avg": 19365,
+      "shares_stdev": 39829
     },
     {
       "number": 8,
       "important": [
-        "madeiraisland",
-        "experi",
-        "madeira",
+        "last night",
+        "ronaldo",
+        "ronaldo film",
+        "much",
+        "last",
+        "amaz",
         "fun",
-        "onli",
-        "nice",
-        "spend",
-        "around",
-        "island",
-        "visit"
+        "check",
+        "film",
+        "ad"
       ],
       "common": [
-        "europe",
-        "exploremadeira",
-        "island",
-        "madeira",
-        "madeiraislands",
+        "com",
+        "film",
         "photos",
+        "premiere",
+        "ronaldo",
+        "ronaldo film",
+        "ronaldofilm",
         "timeline",
         "timeline photos",
-        "visit",
-        "visit madeira"
+        "www"
       ],
       "messages": [
         [
-          "It\u2019s Christmas\u2026 am I the only one who gets homesick at this time of the year?! \nIt will be so nice to spend some days in my Island, Madeira, and experience all the fun and joy, typically felt around there!!!\n#discovermadeira #madeiraislands #madeiraisland #madeiraallyear  \n#christmasinmadeira #islandlife #christmastime #christmastraditions \nVisit Madeira\n\nSee more: https://goo.gl/xqOra5 Timeline Photos",
-          1482577201
+          "Unleashed my inner lion while filming with PokerStars \ud83d\udd25\ud83d\udcaa #BeatTheClock PokerStars - Beat The Clock",
+          1479229200
         ],
         [
-          "It\u00b4s my turn to support my \u201cteam\u201d! Help us make Madeira win World\u00b4s Leading Destination 2016. Vote here http://bit.ly/29Ds2x2\n\n#madeiraislands #madeiraisland #exploremadeira#madeiraallyear #travelawards #discovermadeira #vote #world #CR7 Visit Madeira Timeline Photos",
-          1475938802
+          "Last night was amazing and I had much fun! Check out some photos of  #ronaldofilm Premiere Ronaldo Film Premiere",
+          1447170713
         ],
         [
-          "Madeira did it again! \nGold for my homeland as Europe\u2019s Leading Island Destination. That\u2019s my Madeira!\n@visitmadeiraofficial\n#hometown #proud #myisland #madeiraislands #gold #europe #sea #amazing #experiences #nature #exploremadeira #visitmadeira #madeiraisgold #discovermadeira Timeline Photos",
-          1473417422
+          "Ronaldo film is out now! I have #nothingtohide thanks to Clear\nwww.clearparis.com Timeline Photos",
+          1447158434
         ],
         [
-          "Madeira Island is pretty awesome, don\u2019t you think guys?\n#madeiraislands #exploremadeira #visitmadeira #madeiraisgold #sea #hometown #myisland #amazing #experiences Madeira Island",
-          1471683600
+          "What a great night! It's wonderful to share this moment with so great people. Ronaldo film turned out amazing. Did you guys like it? #ronaldofilm Timeline Photos",
+          1447111176
         ],
         [
-          "It's always good come back home\u2026 I was really missing #Madeira\n\n#madeiraislands #exploremadeira #tourism #travel #visitmadeira #madeiraisgold #homeland #myisland Visit Madeira With and average temperature of 18\u00baC to 22\u00baC, Madeira's sea is perfect for Snorkeling, Scuba Diving (with dolphins, turtles and manta rays), whale watching, sailing, surfing, windsurfing, stand up paddling and canoeing, amongst other possibilities. And for those who love fishing, there's a lot to be said, but we'll stick to two simple words: \"blue\" and \"marlin\".\n\nFor more infromation: http://www.exploremadeira.pt\n\n#madeiraislands #madeiraisland #exploremadeira #madeiraallyear #travelawards #vote #europe #travel #adventure #landscape #madeira #nature #portugal",
-          1469713073
+          "Take your seats and enjoy @Ronaldo film! You can watch it in itunes here: http://www.itunes.com/ronaldo Timeline Photos",
+          1447092713
         ],
         [
-          "Obrigado Visit Madeira pelo apoio \ud83d\udc4d\ud83c\udffc Visit Madeira RONALDO, you are our island!\nMADEIRA is always with you and with our National Team!\n\nCristiano Ronaldo Sele\u00e7\u00f5es de Portugal \n#madeiraislands #madeiraisland #exploremadeira #madeiraallyear #travelawards #vote #europe #Portugal #Euro2016 #1de11milh\u00f5es #For\u00e7aPortugal #Somos11milh\u00f5es #selecaonacional #CR7\n\nPhoto - Sele\u00e7\u00e3o de Portugal",
-          1467457790
+          "Check out the highlights of the red carpet of Ronaldo Film Premiere. #ronaldofilm Ronaldo \u2013 World Premiere Red Carpet Highlights",
+          1447092301
         ],
         [
-          "Love fireworks and music? In my #Madeira, the Atlantic Festival combines them both.  \nEach saturday of June, Funchal bay hosts an international fireworks competion. \nSo, why wait for New Year\u2019s Eve?  \n \nVisit Madeira\n#madeira #madeiraislands #madeiraisgold #madeiraallyear #cr7 #visitmadeira #exploremadeira #discovermadeira Timeline Photos",
-          1464959977
+          "How thrilling to walk in the red carpet before Ronaldo film. Great feelings! #ronaldofilm Timeline Photos",
+          1447089894
         ],
         [
-          "Another hat-trick this week?? This time for my Island!!\nIn 2013 and 2014 Madeira was Europe\u2019s Leading Island Destination and this year we are again nominated! Vote for Madeira hat-trick!\nhttp://bit.ly/1UXUrk2\n#madeiraislands #madeiraisland #exploremadeira #madeiraallyear #travelawards #vote #europe #hattrick\n#CR7 Visit Madeira Timeline Photos",
-          1461317931
+          "Today is a very exciting day, the Premiere of my film Ronaldo. Looking forward for tonight! #ronaldofilm\nhttp://www.unscriptd.com/raw/football-soccer-cristiano-ronaldo-m487129/ Excited for Ronaldo Film Premiere  ",
+          1447084773
         ],
         [
-          "Arriving to my home island #Madeira on a cruise ship is a unique experience!  The view of Funchal bay with the hills above it\u2019s an image you will never forget!\n#madeiraislands #exploremadeira\n#madeiraallyear #madeiraisgold Timeline Photos",
-          1457963642
+          "Today is the day. I'm here in London and my film Ronaldo will be revealed to the world tonight! #ronaldofilm Timeline Photos",
+          1447068118
         ],
         [
-          "I wish I was in my #Madeira right now, with 21\u00baC of temperature in January!\nMadeira is Gold! The Worlds\u2019s Leading Island Destination.\n \nVisit Madeira\n#madeiraislands\n#madeiraallyear\n#madeiraisgold Timeline Photos",
-          1453128361
+          "I want to see all of my fans around the world watching Ronaldo Film today. Let me know on Facebook by picking Watching Ronaldo film and you'll get an icon of me in your post. #ronaldofilm Timeline Photos",
+          1447063153
         ],
         [
-          "#madeira is gold.\nFor me that has always been official. \nMadeira, World\u2019s Leading Island Destination.\nVisit Madeira #visitmadeira #madeira\u00e9ouro #madeiraisgold Timeline Photos",
-          1450105871
+          "I always wanted to be a football player and it all started in Andorinha. You can know all the story in Ronaldo film, released on November 9. #ronaldofilm",
+          1446920037
         ],
         [
-          "First session in my new @niketraining CR7 Madeira edition free trainer 3.0. Available now in Europe on nike.com/niketraining Timeline Photos",
-          1446911421
+          "The day of the Ballon D\u2019or is very intense. In Ronaldo film you can watch never seen footage of that day. On November 9 you can see #ronaldofilm",
+          1446898081
         ],
         [
-          "With your help, my Madeira can become the World\u2019s Leading Island Destination 2015.  \nVote for Madeira Island until November 8th \u2013 Please follow the link:\nhttp://www.worldtravelawards.com/award-worlds-leading-island-destination-2015 Mobile Uploads",
-          1445170187
+          "Hello everyone. I am so excited to be talking to you all as my official film Ronaldo opens all over the world on Monday November 9. I feel so proud and happy about this film, as it was a great opportunity for me to show you, the fans, how I really am. Know more at www.ronaldothefilm.com/ Ronaldo film",
+          1446830329
         ],
         [
-          "You can explore my island #MadeiraIslands by Walking, Diving, Canyoning and many other activities. Get ready for the adventure and #exploremadeira \n\nTurismo da Madeira / Madeira Tourism\n#madeira\n#madeiranaturefestival\n#visitmadeira Timeline Photos",
-          1444213389
+          "Injuries are also a part of an athlete life. And having the people you love by your side is very important to recover. Know more in Ronaldo film, released on November 9. #ronaldofilm",
+          1446817650
         ],
         [
-          "Madeira, my homeland -  the 6th Best Island in the whole world and 2nd in Europe. Why? Visit and discover by yourself. Turismo da Madeira / Madeira Tourism #visitmadeira #madeiraIslands Timeline Photos",
-          1441099769
+          "Join me and watch the film in cinemas on Monday 9th . Visit www.ronaldothefilm.com for details. #ronaldofilm",
+          1446638416
         ],
         [
-          "Due to several requests the Museu CR7 just lunched a small online shop for those that can't come to Madeira. For now only available for Europe. Enjoy Please Log In",
-          1394213024
+          "Have a question for me? Post a video with your question on Instagram with the hashtags #askronaldo and #ronaldofilm and I might answer it at my Film Premiere on November 9.\nCheck out www.ronaldothefilm.com for details of how you can watch the film with exclusive content in cinemas, or on DVD and digitally. Timeline Photos",
+          1446541908
+        ],
+        [
+          "Check out the trailer for my film! In cinemas worldwide Nov 9. Visit www.ronaldothefilm.com for more information.",
+          1443438625
         ]
       ],
-      "dates_start": 1436077794,
-      "dates_end": 1476406137,
-      "likes_avg": 203326,
-      "likes_stdev": 102001,
-      "comments_avg": 2784,
-      "comments_stdev": 1168,
-      "shares_avg": 2278,
-      "shares_stdev": 2043
+      "dates_start": 1440972694,
+      "dates_end": 1456350308,
+      "likes_avg": 403031,
+      "likes_stdev": 283184,
+      "comments_avg": 7815,
+      "comments_stdev": 9636,
+      "shares_avg": 17507,
+      "shares_stdev": 38812
     },
     {
       "number": 9,
       "important": [
+        "sacoor",
         "brother",
-        "collect",
-        "photo",
         "moment",
-        "timelin",
         "whi",
         "amaz",
+        "photo",
         "inspir",
+        "timelin",
         "believ",
-        "sacoor"
+        "collect"
       ],
       "common": [
         "brothers",
@@ -789,6 +807,10 @@
           1427880035
         ],
         [
+          "Commitment, dedication, hard work and drive to succeed are some of the values that I share with SACOOR BROTHERS",
+          1426255659
+        ],
+        [
           "Hi guys, here's a sneak peek of the new SACOOR BROTHERS Spring/Summer Collection. Every detail counts and this is what makes us unique. #PerfectMatch Timeline Photos",
           1424361333
         ],
@@ -797,28 +819,28 @@
           1418983416
         ]
       ],
-      "dates_start": 1432428956,
-      "dates_end": 1471911457,
-      "likes_avg": 557627,
-      "likes_stdev": 553318,
-      "comments_avg": 7920,
-      "comments_stdev": 5602,
-      "shares_avg": 6387,
-      "shares_stdev": 6129
+      "dates_start": 1430739128,
+      "dates_end": 1470873439,
+      "likes_avg": 550647,
+      "likes_stdev": 539149,
+      "comments_avg": 8197,
+      "comments_stdev": 5580,
+      "shares_avg": 7005,
+      "shares_stdev": 6489
     },
     {
       "number": 10,
       "important": [
-        "store",
-        "hey",
-        "collect",
-        "today",
-        "new",
-        "hope",
-        "hey guy",
-        "soon",
         "guy",
-        "enjoy"
+        "new",
+        "collect",
+        "hey guy",
+        "hey",
+        "today",
+        "hope",
+        "soon",
+        "enjoy",
+        "store"
       ],
       "common": [
         "com",
@@ -916,143 +938,26 @@
       ],
       "dates_start": 1369359033,
       "dates_end": 1418100370,
-      "likes_avg": 593591,
-      "likes_stdev": 749541,
-      "comments_avg": 13539,
-      "comments_stdev": 12201,
-      "shares_avg": 10788,
-      "shares_stdev": 9289
+      "likes_avg": 593431,
+      "likes_stdev": 749320,
+      "comments_avg": 13535,
+      "comments_stdev": 12196,
+      "shares_avg": 10780,
+      "shares_stdev": 9281
     },
     {
       "number": 11,
       "important": [
-        "tag",
-        "think",
-        "tag heuer",
-        "photo",
-        "choos",
-        "celebr",
-        "ad",
-        "timelin",
-        "heuer",
-        "dontcrackunderpressur"
-      ],
-      "common": [
-        "button",
-        "dontcrackunderpressure",
-        "heuer",
-        "jenson",
-        "jenson button",
-        "photos",
-        "tag",
-        "tag heuer",
-        "timeline",
-        "timeline photos"
-      ],
-      "messages": [
-        [
-          "\ud83e\udd14 thinking TAG Heuer Timeline Photos",
-          1486667088
-        ],
-        [
-          "The end of the year is approaching, time to celebrate its success!! Which TAG Heuer timepiece should I choose? Sporty or elegant? #DontCrackUnderPressure Timeline Photos",
-          1483038000
-        ],
-        [
-          "To celebrate the end of 2016, TAG Heuer asked me to prove how I didn't crack under pressure. #DontCrackUnderPressure",
-          1482858000
-        ],
-        [
-          "Thank you Jean-Claude Biver and TAG Heuer for your kind words and the great presents ! #dontcrackunderpressure",
-          1481972519
-        ],
-        [
-          "Time to focus on the new season with my TAG Heuer timepiece. #DontCrackUnderPressure Timeline Photos",
-          1471622750
-        ],
-        [
-          "Relax\u270c\ufe0f TAG Heuer Timeline Photos",
-          1470178800
-        ],
-        [
-          "Time to focus. Counting down the hours with my TAG Heuer. See you on Sunday on the field. #dontcrackunderpressure Timeline Photos",
-          1467992235
-        ],
-        [
-          "Time to relax and bring out my TAG Heuer Carrera MikrotourbillonS, the world's fastest Tourbillon watch, to fuel me up before the big match!\n#DontCrackUnderPressure Timeline Photos",
-          1467212401
-        ],
-        [
-          "Time to train, more games yet to come  #DontCrackUnderPressure TAG Heuer Timeline Photos",
-          1466003401
-        ],
-        [
-          "I'm proud to have my TAG Heuer Special edition! #DontCrackUnderPressure http://tag.hr/baselworld Timeline Photos",
-          1426777941
-        ],
-        [
-          "Welcome Jeremy Lin to the TAG Heuer team. #DontCrackUnderPressure http://youtu.be/VeiNHmiGq-E TAG Heuer | Jeremy Lin challenged by Maria Sharapova, Cristiano Ronaldo and Jean-Claude Biver Pro basketball player Jeremy Lin join the TAG Heuer familly as new ambassador of the brand. Maria Sharapova, WTA World N\u00b02, Cristiano Ronaldo aka CR7, 3 time...",
-          1426532830
-        ],
-        [
-          "Challenge yourself and #dontcrackunderpressure\n\n TAG Heuer | Don't Crack Under Pressure For more than 150 years, TAG Heuer has faced down every challenge, and then pushed past it. By defying the time-honored conventions of Swiss watchmaking, it ...",
-          1411045381
-        ],
-        [
-          "Check out what happened when I joined Jenson Button in the track. #DontCrackUnderPressure TAG Heuer\n\n TAG Heuer | Ronaldo and Button Don't Crack Under Pressure ! You wouldn\u2019t believe what we saw yesterday on a race track near Madrid: Cristiano Ronaldo and Jenson Button dribbling, passing and shooting footballs\u2026 from b...",
-          1409834825
-        ],
-        [
-          "Great day at the track! #DontCrackUnderPressure Jenson Button TAG Heuer Untitled Album",
-          1409582465
-        ],
-        [
-          "How fun shooting balls on the track with Jenson Button #DontCrackUnderPressure TAG Heuer  Cristiano Ronaldo shooting balls on the track with Jenson Button How fun shooting balls on the track with @jensonbutton #DontCrackUnderPressure @tagheuer",
-          1409580693
-        ],
-        [
-          "Speedy ride on the track with Jenson Button #DontCrackUnderPressure TAG Heuer Cristiano Ronaldo in the track with Jenson Button Speedy ride on the track with @JensonButton #DontCrackUnderPressure @tagheuer",
-          1409580133
-        ],
-        [
-          "Let\u2019s go for some laps Jenson Button #DontCrackUnderPressure TAG Heuer Timeline Photos",
-          1409568463
-        ],
-        [
-          "Getting ready for some speed with Jenson Button #DontCrackUnderPressure TAG Heuer Timeline Photos",
-          1409567460
-        ],
-        [
-          "Behind the scenes of the TAG Heuer Shooting, guess which model I chose? \n Behind the Scenes with TAG Heuer & Ronaldo: the start of a successful relationship The first-ever TAG Heuer photo shoot with its newest Ambassador, Cristiano Ronaldo, in Madrid, was a relaxed affair: an easy-going encounter between a man (w...",
-          1401347086
-        ],
-        [
-          "Check out the gift I got from TAG Heuer. This TAG Heuer Carrera really suits me! What do you think? Timeline Photos",
-          1398679215
-        ]
-      ],
-      "dates_start": 1407062718,
-      "dates_end": 1472901450,
-      "likes_avg": 557052,
-      "likes_stdev": 456519,
-      "comments_avg": 8035,
-      "comments_stdev": 7544,
-      "shares_avg": 6809,
-      "shares_stdev": 5799
-    },
-    {
-      "number": 12,
-      "important": [
-        "good",
-        "photo",
-        "ad",
-        "great",
-        "fragranc",
-        "timelin",
         "last night",
         "big",
+        "fragranc",
+        "photo",
+        "great",
+        "night",
+        "timelin",
         "news",
-        "night"
+        "good",
+        "ad"
       ],
       "common": [
         "great",
@@ -1154,26 +1059,147 @@
       ],
       "dates_start": 1373494652,
       "dates_end": 1440940385,
-      "likes_avg": 801672,
-      "likes_stdev": 839499,
-      "comments_avg": 12706,
-      "comments_stdev": 8251,
-      "shares_avg": 8147,
-      "shares_stdev": 5658
+      "likes_avg": 801429,
+      "likes_stdev": 839198,
+      "comments_avg": 12702,
+      "comments_stdev": 8248,
+      "shares_avg": 8143,
+      "shares_stdev": 5655
+    },
+    {
+      "number": 12,
+      "important": [
+        "time timelin",
+        "great time",
+        "love",
+        "photo",
+        "free",
+        "great",
+        "time",
+        "timelin",
+        "spend",
+        "ad"
+      ],
+      "common": [
+        "great",
+        "great time",
+        "photos",
+        "spend",
+        "spend time",
+        "time",
+        "time timeline",
+        "time timeline photos",
+        "timeline",
+        "timeline photos"
+      ],
+      "messages": [
+        [
+          "Breakfast time in my spot\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83c\uddf5\ud83c\uddf9 Timeline Photos",
+          1482403565
+        ],
+        [
+          "Spending time with my love \ud83d\ude0d Timeline Photos",
+          1482329399
+        ],
+        [
+          "Free time \u270c\ud83c\udffc\ufe0f\ud83d\udd1d Timeline Photos",
+          1472486701
+        ],
+        [
+          "Spend time with my 2 loves\u2764\ufe0f\u2600\ufe0f\u270c\ufe0f\ud83d\udc4c Timeline Photos",
+          1471266859
+        ],
+        [
+          "Ice cream time \u2600\ufe0f\ud83d\udc4c\ud83c\udffc Timeline Photos",
+          1470578555
+        ],
+        [
+          "Lunch time \ud83d\udc4d\ud83c\udffc\ud83d\udc4c\ud83c\udffc Timeline Photos",
+          1469728641
+        ],
+        [
+          "Spend time with my little man \ud83d\udc8b\u2764\ufe0f\ud83d\udc4c\ud83c\udffc\ud83d\udd1d Timeline Photos",
+          1468831117
+        ],
+        [
+          "Spend time with my tanned man\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\ud83d\udd1d\ud83d\udc40\ud83c\uddf5\ud83c\uddf9 Timeline Photos",
+          1468591828
+        ],
+        [
+          "Spending great time with my bros!! \ud83d\udc4c\ud83d\udd1d\u270c\ufe0f Timeline Photos",
+          1450206948
+        ],
+        [
+          "Dinner time Timeline Photos",
+          1443375451
+        ],
+        [
+          "Relaxing time! Guess who's peeking\u2049\ufe0f Timeline Photos",
+          1443111832
+        ],
+        [
+          "Here\u2019s a sneak peak of me getting ready for the TV ad of #cristianoronaldolegacy. I had a great time! Timeline Photos",
+          1442925785
+        ],
+        [
+          "Spending excellent time with my son. Enjoying last days of summer",
+          1441957515
+        ],
+        [
+          "It's nearly time...",
+          1441706003
+        ],
+        [
+          "This time of the year, it\u2019s even more special to think about my home country. Christmas is a great time to be in Portugal with its nice people, good food and good moments. http://bit.ly/1vhxh9i Timeline Photos",
+          1418911302
+        ],
+        [
+          "Happy to spend Children's Day with my son. Timeline Photos",
+          1401644471
+        ],
+        [
+          "Relaxing time. Timeline Photos",
+          1401299315
+        ],
+        [
+          "Dinner time. Timeline Photos",
+          1395434550
+        ],
+        [
+          "Viva Ronaldo winners were in Lisbon for Portugal x Israel. Thanks a lot Emilie Berg and Mohammed Abdelhadi for your support! Hope you had a great time. Timeline Photos",
+          1382016796
+        ],
+        [
+          "Had a good time training with my colleagues today. Timeline Photos",
+          1369231745
+        ],
+        [
+          "Be bold. Be decisive. Don\u2019t get left behind. \nMy Time is Now: http://bit.ly/JefE55 #makeitcount NIKE FOOTBALL: MY TIME IS NOW (SUBTITLES AVAILABLE) Search the film for hidden tunnels: https://www.youtube.com/nikefootball The next wave are here. Neymar, M'Vila, G\u00f6tze. Hungry to break through. Unafraid to ...",
+          1337347708
+        ]
+      ],
+      "dates_start": 1396211110,
+      "dates_end": 1475730421,
+      "likes_avg": 1342906,
+      "likes_stdev": 1056180,
+      "comments_avg": 18795,
+      "comments_stdev": 19867,
+      "shares_avg": 13768,
+      "shares_stdev": 15206
     },
     {
       "number": 13,
       "important": [
-        "happi",
-        "proud",
-        "post",
-        "veri",
         "photo cristiano ronaldo",
+        "veri",
+        "proud",
+        "hotel",
+        "post",
         "photo cristiano",
-        "veri proud",
-        "open",
         "cristiano ronaldo post",
-        "hotel"
+        "open",
+        "veri proud",
+        "happi"
       ],
       "common": [
         "cristiano",
@@ -1287,26 +1313,159 @@
       ],
       "dates_start": 1403304703,
       "dates_end": 1444485228,
-      "likes_avg": 1056574,
-      "likes_stdev": 459344,
-      "comments_avg": 17844,
-      "comments_stdev": 10669,
-      "shares_avg": 22582,
-      "shares_stdev": 20666
+      "likes_avg": 1056276,
+      "likes_stdev": 459225,
+      "comments_avg": 17837,
+      "comments_stdev": 10666,
+      "shares_avg": 22569,
+      "shares_stdev": 20656
     },
     {
       "number": 14,
       "important": [
+        "tag heuer",
+        "friend",
+        "amaz",
+        "tag",
+        "look",
+        "perfect",
+        "ive",
+        "heuer",
+        "like",
+        "dontcrackunderpressur"
+      ],
+      "common": [
+        "button",
+        "dontcrackunderpressure",
+        "heuer",
+        "jenson",
+        "photos",
+        "tag",
+        "tag heuer",
+        "timeline",
+        "timeline photos",
+        "track"
+      ],
+      "messages": [
+        [
+          "Looking for your new ambassador, TAG Heuer Jean-Claude Biver ?\nSeems like I've found someone who perfectly fits the #DontCrackUnderPressure spirit, my great friend and amazing singer J Balvin Timeline Photos",
+          1486911622
+        ],
+        [
+          "\ud83e\udd14 thinking TAG Heuer Timeline Photos",
+          1486667088
+        ],
+        [
+          "The end of the year is approaching, time to celebrate its success!! Which TAG Heuer timepiece should I choose? Sporty or elegant? #DontCrackUnderPressure Timeline Photos",
+          1483038000
+        ],
+        [
+          "To celebrate the end of 2016, TAG Heuer asked me to prove how I didn't crack under pressure. #DontCrackUnderPressure",
+          1482858000
+        ],
+        [
+          "Just unboxed my new gift from TAG Heuer. A unique Tourbillon watch full of diamonds, especially for me. Thank you to my friend Jean-Claude Biver, you know me too well! #DontCrackUnderPressure",
+          1482480030
+        ],
+        [
+          "Thank you Jean-Claude Biver and TAG Heuer for your kind words and the great presents ! #dontcrackunderpressure",
+          1481972519
+        ],
+        [
+          "Thanks @TAGHEUER @jcbiver for this kind gift. The new rose gold Heuer 01 is amazing #dontcrackunderpressure Timeline Photos",
+          1472882379
+        ],
+        [
+          "Time to focus on the new season with my TAG Heuer timepiece. #DontCrackUnderPressure Timeline Photos",
+          1471622750
+        ],
+        [
+          "Relax\u270c\ufe0f TAG Heuer Timeline Photos",
+          1470178800
+        ],
+        [
+          "Time to focus. Counting down the hours with my TAG Heuer. See you on Sunday on the field. #dontcrackunderpressure Timeline Photos",
+          1467992235
+        ],
+        [
+          "Time to relax and bring out my TAG Heuer Carrera MikrotourbillonS, the world's fastest Tourbillon watch, to fuel me up before the big match!\n#DontCrackUnderPressure Timeline Photos",
+          1467212401
+        ],
+        [
+          "Time to train, more games yet to come  #DontCrackUnderPressure TAG Heuer Timeline Photos",
+          1466003401
+        ],
+        [
+          "What a special day! Feeling so fortunate to receive this lovely gift from Cristiano. So grateful to be the inspiration behind this #tagheuerconnected watch-face designed by my son! #connectedtoeternity #dontcrackunderpressure TAG Heuer",
+          1452786197
+        ],
+        [
+          "I'm proud to have my TAG Heuer Special edition! #DontCrackUnderPressure http://tag.hr/baselworld Timeline Photos",
+          1426777941
+        ],
+        [
+          "Welcome Jeremy Lin to the TAG Heuer team. #DontCrackUnderPressure http://youtu.be/VeiNHmiGq-E TAG Heuer | Jeremy Lin challenged by Maria Sharapova, Cristiano Ronaldo and Jean-Claude Biver Pro basketball player Jeremy Lin join the TAG Heuer familly as new ambassador of the brand. Maria Sharapova, WTA World N\u00b02, Cristiano Ronaldo aka CR7, 3 time...",
+          1426532830
+        ],
+        [
+          "Challenge yourself and #dontcrackunderpressure\n\n TAG Heuer | Don't Crack Under Pressure For more than 150 years, TAG Heuer has faced down every challenge, and then pushed past it. By defying the time-honored conventions of Swiss watchmaking, it ...",
+          1411045381
+        ],
+        [
+          "Check out what happened when I joined Jenson Button in the track. #DontCrackUnderPressure TAG Heuer\n\n TAG Heuer | Ronaldo and Button Don't Crack Under Pressure ! You wouldn\u2019t believe what we saw yesterday on a race track near Madrid: Cristiano Ronaldo and Jenson Button dribbling, passing and shooting footballs\u2026 from b...",
+          1409834825
+        ],
+        [
+          "Great day at the track! #DontCrackUnderPressure Jenson Button TAG Heuer Untitled Album",
+          1409582465
+        ],
+        [
+          "How fun shooting balls on the track with Jenson Button #DontCrackUnderPressure TAG Heuer  Cristiano Ronaldo shooting balls on the track with Jenson Button How fun shooting balls on the track with @jensonbutton #DontCrackUnderPressure @tagheuer",
+          1409580693
+        ],
+        [
+          "Speedy ride on the track with Jenson Button #DontCrackUnderPressure TAG Heuer Cristiano Ronaldo in the track with Jenson Button Speedy ride on the track with @JensonButton #DontCrackUnderPressure @tagheuer",
+          1409580133
+        ],
+        [
+          "Let\u2019s go for some laps Jenson Button #DontCrackUnderPressure TAG Heuer Timeline Photos",
+          1409568463
+        ],
+        [
+          "Getting ready for some speed with Jenson Button #DontCrackUnderPressure TAG Heuer Timeline Photos",
+          1409567460
+        ],
+        [
+          "Behind the scenes of the TAG Heuer Shooting, guess which model I chose? \n Behind the Scenes with TAG Heuer & Ronaldo: the start of a successful relationship The first-ever TAG Heuer photo shoot with its newest Ambassador, Cristiano Ronaldo, in Madrid, was a relaxed affair: an easy-going encounter between a man (w...",
+          1401347086
+        ],
+        [
+          "Check out the gift I got from TAG Heuer. This TAG Heuer Carrera really suits me! What do you think? Timeline Photos",
+          1398679215
+        ]
+      ],
+      "dates_start": 1412592595,
+      "dates_end": 1478632564,
+      "likes_avg": 570321,
+      "likes_stdev": 439351,
+      "comments_avg": 7809,
+      "comments_stdev": 7057,
+      "shares_avg": 7359,
+      "shares_stdev": 5826
+    },
+    {
+      "number": 15,
+      "important": [
         "trophi",
-        "anoth",
-        "hala madrid timelin",
         "hala",
-        "happi",
         "done",
-        "well done",
+        "hala madrid timelin",
         "well",
-        "win",
-        "madrid timelin"
+        "team",
+        "well done",
+        "madrid timelin",
+        "happi",
+        "anoth"
       ],
       "common": [
         "hala",
@@ -1440,187 +1599,26 @@
       ],
       "dates_start": 1354438361,
       "dates_end": 1418080149,
-      "likes_avg": 415912,
-      "likes_stdev": 241722,
-      "comments_avg": 12016,
-      "comments_stdev": 7371,
-      "shares_avg": 11975,
-      "shares_stdev": 9555
-    },
-    {
-      "number": 15,
-      "important": [
-        "behind",
-        "fragranc",
-        "new",
-        "ad",
-        "enter",
-        "want",
-        "privat",
-        "shoot",
-        "behind scene",
-        "see"
-      ],
-      "common": [
-        "behind",
-        "behind scenes",
-        "check",
-        "com",
-        "film",
-        "ronaldo",
-        "ronaldo film",
-        "ronaldofilm",
-        "scenes",
-        "www"
-      ],
-      "messages": [
-        [
-          "Behind the scenes of the campaign shoot for my new fragrance The Private Edition! Want to see unreleased images from the shoot? \nEnter password Neroli to enter http://bit.ly/2gcMBTr",
-          1481713296
-        ],
-        [
-          "Unleashed my inner lion while filming with PokerStars \ud83d\udd25\ud83d\udcaa #BeatTheClock PokerStars - Beat The Clock",
-          1479229200
-        ],
-        [
-          "Check out my new CR7Footwear film #behind the Scenes FW16 collection. I hope you enjoy it. www.cr7footwear.com",
-          1478194071
-        ],
-        [
-          "Take a sneak peak behind the scenes on the set of my fragrance ad #CristianoRonaldoLegacy - see more at https://www.cristianoronaldofragrances.com/",
-          1450693973
-        ],
-        [
-          "Check out the behind the scenes of my FW15 CR7Footwear campaign! www.cr7footwear.com",
-          1448891889
-        ],
-        [
-          "Last night was amazing and I had much fun! Check out some photos of  #ronaldofilm Premiere Ronaldo Film Premiere",
-          1447170713
-        ],
-        [
-          "Ronaldo film is out now! I have #nothingtohide thanks to Clear\nwww.clearparis.com Timeline Photos",
-          1447158434
-        ],
-        [
-          "What a great night! It's wonderful to share this moment with so great people. Ronaldo film turned out amazing. Did you guys like it? #ronaldofilm Timeline Photos",
-          1447111176
-        ],
-        [
-          "Take your seats and enjoy @Ronaldo film! You can watch it in itunes here: http://www.itunes.com/ronaldo Timeline Photos",
-          1447092713
-        ],
-        [
-          "Check out the highlights of the red carpet of Ronaldo Film Premiere. #ronaldofilm Ronaldo \u2013 World Premiere Red Carpet Highlights",
-          1447092301
-        ],
-        [
-          "How thrilling to walk in the red carpet before Ronaldo film. Great feelings! #ronaldofilm Timeline Photos",
-          1447089894
-        ],
-        [
-          "Today is a very exciting day, the Premiere of my film Ronaldo. Looking forward for tonight! #ronaldofilm\nhttp://www.unscriptd.com/raw/football-soccer-cristiano-ronaldo-m487129/ Excited for Ronaldo Film Premiere  ",
-          1447084773
-        ],
-        [
-          "Today is the day. I'm here in London and my film Ronaldo will be revealed to the world tonight! #ronaldofilm Timeline Photos",
-          1447068118
-        ],
-        [
-          "I want to see all of my fans around the world watching Ronaldo Film today. Let me know on Facebook by picking Watching Ronaldo film and you'll get an icon of me in your post. #ronaldofilm Timeline Photos",
-          1447063153
-        ],
-        [
-          "I always wanted to be a football player and it all started in Andorinha. You can know all the story in Ronaldo film, released on November 9. #ronaldofilm",
-          1446920037
-        ],
-        [
-          "The day of the Ballon D\u2019or is very intense. In Ronaldo film you can watch never seen footage of that day. On November 9 you can see #ronaldofilm",
-          1446898081
-        ],
-        [
-          "Hello everyone. I am so excited to be talking to you all as my official film Ronaldo opens all over the world on Monday November 9. I feel so proud and happy about this film, as it was a great opportunity for me to show you, the fans, how I really am. Know more at www.ronaldothefilm.com/ Ronaldo film",
-          1446830329
-        ],
-        [
-          "Injuries are also a part of an athlete life. And having the people you love by your side is very important to recover. Know more in Ronaldo film, released on November 9. #ronaldofilm",
-          1446817650
-        ],
-        [
-          "Join me and watch the film in cinemas on Monday 9th . Visit www.ronaldothefilm.com for details. #ronaldofilm",
-          1446638416
-        ],
-        [
-          "Have a question for me? Post a video with your question on Instagram with the hashtags #askronaldo and #ronaldofilm and I might answer it at my Film Premiere on November 9.\nCheck out www.ronaldothefilm.com for details of how you can watch the film with exclusive content in cinemas, or on DVD and digitally. Timeline Photos",
-          1446541908
-        ],
-        [
-          "If you can't see my only official film Ronaldo in cinemas, you can own it on DVD, Blu-ray or Digital HD from November 9 which includes deleted scenes like this funny moment with my son :)! Now everyone can have a real look behind the scenes. Order now through: http://www.ronaldothefilm.com",
-          1444825537
-        ],
-        [
-          "Do you know what I think about my perfume #cristianoronaldolegacy? To see the full behind the scenes go to www.cristianoronaldofragrances.com",
-          1444141916
-        ],
-        [
-          "Check out the trailer for my film! In cinemas worldwide Nov 9. Visit www.ronaldothefilm.com for more information.",
-          1443438625
-        ],
-        [
-          "Here\u2019s a look behind the scenes of my CR7 Shirts campaign shoot, wearing one of my favourite pieces. Do you like it? Timeline Photos",
-          1416837762
-        ],
-        [
-          "Here\u2019s an exclusive behind the scenes look at my Rankin X Ronaldo for #CR7Underwear shoot. Hope you all like the new collection! Check it out on www.CR7Underwear.com",
-          1408028423
-        ],
-        [
-          "Got #NothingtoHide? Prove it! Check out #exclusive behind the scenes shots from my latest #CLEARHair commercial  Ronaldo & CLEAR Anti-Dandruff Shampoo: Behind The Scenes Catch the making of CLEAR's new commercial starring world-renowned footballer Cristiano Ronaldo! Learn more about CLEAR's unique anti-dandruff formula at Cle...",
-          1405930434
-        ],
-        [
-          "I had so much fun shooting and singing with Anselmo Ralph. Check out what happened behind the scenes:\n\n Agora vou ao BESA - Making of Veja os bastidores das filmagens da Campanha BESA. O banco de quem quer mais. www.queromais.besa.ao",
-          1402759188
-        ],
-        [
-          "How fun it was to be part of this new commercial. I had a wonderful time with all the team involved. Check out what happened behind the scenes. \n BES Vantagem CR100 - Making Of Veja os bastidores das filmagens da Campanha BES Vantagem CR100 que juntou o \u00fatil ao rent\u00e1vel com o Ronaldo e a Dona In\u00e9rcia. www.bes.pt/cr100",
-          1400500666
-        ],
-        [
-          "My #CR7underwear line is now available to buy! Check it out at www.cr7underwear.com. You can also watch the exclusive behind the scenes of my #CR7underwear shoot here. Behind The Scenes [CR7 Underwear] Check out what happened at the photo shoot for the new CR7 Underwear collection. It has been developed in collaboration with world-famous football player Cri...",
-          1383319724
-        ],
-        [
-          "Ckeck out more photos of the Meet&Greet. Pro Evolution Soccer Check out our Behind the Scenes Album!",
-          1359479472
-        ],
-        [
-          "Take a look at the behind the scenes of the last commercial I did for my bank, BES. I hope you enjoy it. Invest in yourself. BES RONALDO MAKING OF \"UMA MUDAN\u00c7A NA VIDA\" ENGLISH VERSION The behind the scenes of BES campaign with Cristiano Ronaldo: BES Saving Solutions, Solutions for Change Watch what happened in Funchal, Lisbon, Manchester a...",
-          1334835982
-        ]
-      ],
-      "dates_start": 1403259330,
-      "dates_end": 1466895369,
-      "likes_avg": 294884,
-      "likes_stdev": 274141,
-      "comments_avg": 6396,
-      "comments_stdev": 7635,
-      "shares_avg": 11638,
-      "shares_stdev": 29603
+      "likes_avg": 415860,
+      "likes_stdev": 241736,
+      "comments_avg": 12012,
+      "comments_stdev": 7368,
+      "shares_avg": 11968,
+      "shares_stdev": 9550
     },
     {
       "number": 16,
       "important": [
         "great win",
-        "photo",
-        "halamadrid",
-        "tonight",
-        "leagu",
         "feel",
-        "ad",
+        "halamadrid",
         "champion",
+        "tonight",
+        "champion leagu",
+        "photo",
+        "leagu",
         "timelin",
-        "champion leagu"
+        "ad"
       ],
       "common": [
         "champions",
@@ -1786,26 +1784,26 @@
       ],
       "dates_start": 1357586426,
       "dates_end": 1423634058,
-      "likes_avg": 447311,
-      "likes_stdev": 368768,
-      "comments_avg": 10472,
-      "comments_stdev": 5447,
-      "shares_avg": 10595,
-      "shares_stdev": 7898
+      "likes_avg": 447190,
+      "likes_stdev": 368653,
+      "comments_avg": 10467,
+      "comments_stdev": 5445,
+      "shares_avg": 10589,
+      "shares_stdev": 7895
     },
     {
       "number": 17,
       "important": [
-        "la",
-        "content",
-        "de",
-        "photo",
+        "por",
         "got",
-        "ad",
-        "timelin",
+        "photo",
+        "que",
+        "de",
+        "la",
         "want",
-        "train",
-        "por"
+        "content",
+        "timelin",
+        "ad"
       ],
       "common": [
         "de",
@@ -1820,6 +1818,10 @@
         "todos"
       ],
       "messages": [
+        [
+          "A verdade \u00e9 esta, eu gosto de me rodear do que h\u00e1 de melhor no mundo, como a TV do @MEO. Descubra aqui porqu\u00ea www.meo.pt Timeline Photos",
+          1487264401
+        ],
         [
           "You got La Silver? I got La Gold. Want to argue? \ud83d\ude0e #am97 #gold Timeline Photos",
           1486213208
@@ -1851,6 +1853,10 @@
         [
           "Muito emocionado e comovido pela homenagem de hoje. Obrigado Sporting Clube de Portugal por este momento bonito na minha vida\u2764\ufe0f\u2764\ufe0f\ud83d\udd1d\ud83d\udc4c Timeline Photos",
           1479854400
+        ],
+        [
+          "Me and my mom, together for the first time in a TV commercial. Merry Christmas by MEO\n\nEu e a minha m\u00e3e pela primeira vez juntos num an\u00fancio!! Feliz MEO Natal :)",
+          1479142905
         ],
         [
           "Es un honor recibir nuevamente el trofeo Alfredo di Stefano. Gracias a todos! \ud83d\udc4d\ud83d\udd1d Timeline Photos",
@@ -1885,6 +1891,10 @@
           1458044124
         ],
         [
+          "Hey guys. We finished another training session and the team is confident. All the support and good vibes are very important. Tomorrow is decisive. #for\u00e7aportugal\nhttp://www.unscriptd.com/raw/football-soccer-cristiano-ronaldo-m732551 Portuguese National Team \u00a0",
+          1444242959
+        ],
+        [
           "Parab\u00e9ns aos campe\u00f5es da Selec\u00e7\u00e3o Nacional de Futebol de Praia! Enorme orgulho para Portugal! Mobile Uploads",
           1437340396
         ],
@@ -1913,8 +1923,12 @@
           1402909643
         ],
         [
-          "Do you want to see me singing with Anselmo Ralph? Check out my new campaign for BESA.  Vou ao BESA O Banco de quem quer mais. Cristiano Ronaldo e Anselmo Ralph querem sempre mais. \u00c9 por isso que est\u00e3o no BESA. www.queromais.besa.ao",
-          1402232619
+          "What a great first training session and day yesterday. AA: Campinas, 12 de junho Canal Oficial da Federa\u00e7\u00e3o Portuguesa de Futebol",
+          1402652275
+        ],
+        [
+          "What a wonderful and warming reception we\u00b4re having in Campinas. Thank you everyone #for\u00e7aportugal Sele\u00e7\u00f5es de Portugal Sele\u00e7\u00f5es de Portugal O primeiro treino da Sele\u00e7\u00e3o Nacional em Campinas ficou marcado por uma enorme manifesta\u00e7\u00e3o de apoio e entusiasmo por parte dos adeptos brasileiros, a quem a Equipa das Quinas fez quest\u00e3o de agradecer.\n\nThe Brazilian fans of the Portuguese National Team showed their support and enthusiasm during the first training session in Campinas",
+          1402585832
         ],
         [
           "Todos juntos fazemos a diferen\u00e7a. Vamos ajudar o meu amigo e colega Bruno Concei\u00e7\u00e3o nesta fase dif\u00edcil. Amanh\u00e3, os Bombeiros de S\u00e3o Jo\u00e3o da Madeira v\u00e3o realizar uma recolha de medula \u00f3ssea. A ajuda de todos \u00e9 fundamental!",
@@ -1997,28 +2011,28 @@
           1339483326
         ]
       ],
-      "dates_start": 1362111309,
-      "dates_end": 1467104943,
-      "likes_avg": 386950,
-      "likes_stdev": 378986,
-      "comments_avg": 10236,
-      "comments_stdev": 9733,
-      "shares_avg": 8479,
-      "shares_stdev": 10188
+      "dates_start": 1365557754,
+      "dates_end": 1470126134,
+      "likes_avg": 375388,
+      "likes_stdev": 368646,
+      "comments_avg": 10073,
+      "comments_stdev": 9623,
+      "shares_avg": 8304,
+      "shares_stdev": 9889
     },
     {
       "number": 18,
       "important": [
-        "madrid",
-        "tonight",
+        "junto",
         "thank support",
         "thank",
-        "ad",
         "real",
         "amaz",
-        "junto",
-        "real madrid",
-        "support"
+        "tonight",
+        "support",
+        "madrid",
+        "ad",
+        "real madrid"
       ],
       "common": [
         "great",
@@ -2228,26 +2242,263 @@
       ],
       "dates_start": 1342462087,
       "dates_end": 1421471123,
-      "likes_avg": 396505,
-      "likes_stdev": 492636,
-      "comments_avg": 11559,
-      "comments_stdev": 11187,
-      "shares_avg": 17716,
-      "shares_stdev": 29422
+      "likes_avg": 396516,
+      "likes_stdev": 492397,
+      "comments_avg": 11539,
+      "comments_stdev": 11196,
+      "shares_avg": 17634,
+      "shares_stdev": 29448
     },
     {
       "number": 19,
       "important": [
-        "lead",
-        "for\u00e7aportug",
-        "mobil",
-        "fli",
-        "mobil upload",
+        "latest",
+        "campaign",
+        "detail",
+        "launch",
+        "check",
+        "set",
+        "fun",
+        "underwear",
         "ad",
-        "great",
+        "collect"
+      ],
+      "common": [
+        "behind scenes",
+        "campaign",
+        "check",
+        "collection",
+        "com",
+        "cr7",
+        "cr7underwear",
+        "new",
+        "scenes",
+        "www"
+      ],
+      "messages": [
+        [
+          "Having some fun on the set of my latest CR7 Underwear campaign! Check it out! www.CR7Underwear.com",
+          1487014200
+        ],
+        [
+          "It's all about the detail! My new CR7 Underwear collection and campaign launches TODAY! www.CR7Underwear.com Timeline Photos",
+          1487003064
+        ],
+        [
+          "I can rise to any challenge Dwyane Wade gives me. Tell him who you think won? #raiseit \ud83d\udcaf\ud83d\ude02 \nwww.nowraiseit.com",
+          1484821800
+        ],
+        [
+          "Behind the scenes of the campaign shoot for my new fragrance The Private Edition! Want to see unreleased images from the shoot? \nEnter password Neroli to enter http://bit.ly/2gcMBTr",
+          1481713296
+        ],
+        [
+          "Check out my new CR7Footwear film #behind the Scenes FW16 collection. I hope you enjoy it. www.cr7footwear.com",
+          1478194071
+        ],
+        [
+          "Step into the spotlight with my latest @CR7Underwear collection \ufffd",
+          1473091200
+        ],
+        [
+          "Another shot from my latest CR7 Underwear campaign! Check the range out on cr7underwear.com Timeline Photos",
+          1471881814
+        ],
+        [
+          "Stepping into the spotlight for CR7 Underwear FW16 Now available on CR7Underwear.com #CR7Underwear",
+          1471272991
+        ],
+        [
+          "NO DAYS OFF. Step by step \ud83d\udcaa\ud83c\udffd\ud83d\udcaa\ud83c\udffd\ud83d\udcaa\ud83c\udffd No days off",
+          1471104000
+        ],
+        [
+          "In the spotlight for my latest CR7 Underwear campaign, launching today. Check out my new styles on CR7Underwear.com #CR7Underwear Timeline Photos",
+          1470902818
+        ],
+        [
+          "Check out our power moves! Get DOUBLE FRESHNESS with #CLEARMEN. #TRUECHAMPION #CLEARNODANDRUFF #CLEARPOWERMOVE",
+          1469021225
+        ],
+        [
+          "Check out the fashion Video of my SS16 CR7Footwear campaign. #cr7footwear |cr7footwear.com",
+          1461339387
+        ],
+        [
+          "Such a fun day shooting my Colour Splash campaign for CR7 Underwear #CR7Underwear Timeline Photos",
+          1455200195
+        ],
+        [
+          "Take a sneak peak behind the scenes on the set of my fragrance ad #CristianoRonaldoLegacy - see more at https://www.cristianoronaldofragrances.com/",
+          1450693973
+        ],
+        [
+          "One of my favourite pieces from the X-mas collection. Check out www.CR7underwear.com to see all of our new styles. CR7 X-mas collection",
+          1449240380
+        ],
+        [
+          "Check out the behind the scenes of my FW15 CR7Footwear campaign! www.cr7footwear.com",
+          1448891889
+        ],
+        [
+          "Here it is! FW15 CR7Footwear campaign. Check out my new styles on www.cr7footwear.com Timeline Photos",
+          1445946071
+        ],
+        [
+          "If you can't see my only official film Ronaldo in cinemas, you can own it on DVD, Blu-ray or Digital HD from November 9 which includes deleted scenes like this funny moment with my son :)! Now everyone can have a real look behind the scenes. Order now through: http://www.ronaldothefilm.com",
+          1444825537
+        ],
+        [
+          "Do you know what I think about my perfume #cristianoronaldolegacy? To see the full behind the scenes go to www.cristianoronaldofragrances.com",
+          1444141916
+        ],
+        [
+          "One of my favourite CR7 Shirts for Autumn/Winter. Check out www.CR7Shirts.com to see all of our new styles! Timeline Photos",
+          1441114463
+        ],
+        [
+          "Check out my new favourite DJ. DJ Cristianinho",
+          1440759590
+        ],
+        [
+          "Celebrating the launch of my Autumn/Winter CR7 Shirts collection! See the new styles on www.CR7Shirts.com Autumn/Winter CR7 Shirts collection",
+          1440075034
+        ],
+        [
+          "Hope you liked my 4th CR7 Underwear campaign! Here\u2019s a sneak peek of the shoot! New styles on www.CR7underwear.com now! 4th cr7underwear campaign",
+          1439987059
+        ],
+        [
+          "Here\u2019s an exclusive image from my latest CR7 Underwear shoot! Love the new collection- check it out now on www.CR7underwear.com Timeline Photos",
+          1438938023
+        ],
+        [
+          "People are going to think that I\u2019m crazy!\n#LIVELIFELOUD\nClick here to check out my new brand at ebay.com/roc",
+          1438623448
+        ],
+        [
+          "Step out in style with #CR7Footwear! One of my favourite pairs in the collection. www.cr7footwear.com Timeline Photos",
+          1437554550
+        ],
+        [
+          "Happy to share with you some new images from my CR7 Shirts campaign! I hope you like it. Mobile Uploads",
+          1424888254
+        ],
+        [
+          "Sportlobster has a brand new look. What do you think? http://bit.ly/1xrrcL0 Sportlobster",
+          1419348569
+        ],
+        [
+          "Here are some of my favourite pieces from my CR7 collection! Check it out! www.cr7underwear.com www.cr7shirts.com Timeline Photos",
+          1419264232
+        ],
+        [
+          "Wanna know what I think about my new CR7 Shirts collection? Check out. www.cr7shirts.com",
+          1418312163
+        ],
+        [
+          "Pleased to share my CR7 Shirts campaign with you all. Hope you love the collection as much as I do! http://www.cr7shirts.com/ Timeline Photos",
+          1417442443
+        ],
+        [
+          "Here\u2019s a look behind the scenes of my CR7 Shirts campaign shoot, wearing one of my favourite pieces. Do you like it? Timeline Photos",
+          1416837762
+        ],
+        [
+          "Here\u2019s an exclusive behind the scenes look at my Rankin X Ronaldo for #CR7Underwear shoot. Hope you all like the new collection! Check it out on www.CR7Underwear.com",
+          1408028423
+        ],
+        [
+          "Check out my new Rankin X Ronaldo for #CR7Underwear film! I\u2019m wearing my favourite style from the new collection, available at www.CR7Underwear.com now!",
+          1407415698
+        ],
+        [
+          "Got #NothingtoHide? Prove it! Check out #exclusive behind the scenes shots from my latest #CLEARHair commercial  Ronaldo & CLEAR Anti-Dandruff Shampoo: Behind The Scenes Catch the making of CLEAR's new commercial starring world-renowned footballer Cristiano Ronaldo! Learn more about CLEAR's unique anti-dandruff formula at Cle...",
+          1405930434
+        ],
+        [
+          "I had so much fun shooting and singing with Anselmo Ralph. Check out what happened behind the scenes:\n\n Agora vou ao BESA - Making of Veja os bastidores das filmagens da Campanha BESA. O banco de quem quer mais. www.queromais.besa.ao",
+          1402759188
+        ],
+        [
+          "Do you want to see me singing with Anselmo Ralph? Check out my new campaign for BESA.  Vou ao BESA O Banco de quem quer mais. Cristiano Ronaldo e Anselmo Ralph querem sempre mais. \u00c9 por isso que est\u00e3o no BESA. www.queromais.besa.ao",
+          1402232619
+        ],
+        [
+          "How fun it was to be part of this new commercial. I had a wonderful time with all the team involved. Check out what happened behind the scenes. \n BES Vantagem CR100 - Making Of Veja os bastidores das filmagens da Campanha BES Vantagem CR100 que juntou o \u00fatil ao rent\u00e1vel com o Ronaldo e a Dona In\u00e9rcia. www.bes.pt/cr100",
+          1400500666
+        ],
+        [
+          "Check out Museu CR7 online store http://museucr7store.com",
+          1394216245
+        ],
+        [
+          "My #CR7underwear line is now available to buy! Check it out at www.cr7underwear.com. You can also watch the exclusive behind the scenes of my #CR7underwear shoot here. Behind The Scenes [CR7 Underwear] Check out what happened at the photo shoot for the new CR7 Underwear collection. It has been developed in collaboration with world-famous football player Cri...",
+          1383319724
+        ],
+        [
+          "You can now check out the full #CR7underwear collection at www.CR7underwear.com. Here\u2019s one of my favourite designs. Timeline Photos",
+          1383236779
+        ],
+        [
+          "Excited about my new Nike Football #CR7 collection. Check it out.\nEurope: http://go.nike.com/2hinjnl \nUS: http://go.nike.com/01ovbc8c CR7 Collection",
+          1382331752
+        ],
+        [
+          "My new underwear collection is the result of a fantastic co-operation between New York-based designer Richard Chai, the Danish Underwear manufacturer JBS and myself. I can\u2019t wait to show it to you all. See more at www.cr7underwear.com  #CR7 #cristiano #jbs #richardchai Timeline Photos",
+          1379592530
+        ],
+        [
+          "Check out the behind the scenes video from the set of the new Jacob & Co. Watch ad campaign featuring yours truly! I had a great time. Jacob & Co 2013 Campaign with Cristiano Ronaldo http://www.jacobandco.com",
+          1366633665
+        ],
+        [
+          "Pre-order: Europe: http://gonike.me/CR7 \u2013 U.S.: http://gonike.me/CR7us What do you think of my new Summer Collection?",
+          1364571370
+        ],
+        [
+          "Ckeck out more photos of the Meet&Greet. Pro Evolution Soccer Check out our Behind the Scenes Album!",
+          1359479472
+        ],
+        [
+          "Yesterday, with your support, we got an important win. Step by step we are closer to the final. Thank you. \n\nSee more from Cristiano Ronaldo: http://say.ly/nOo4VOE WhoSay Broadcast Photos",
+          1357830037
+        ],
+        [
+          "I really think that nikefootball did a great work with my new collection. What do you guys think? Nike Football Love to win. Hate to lose. Cristiano Ronaldo shows his performance and personality with the new CR7 Collection.\n\nGet the CR7 Collection:\nEurope:\nhttp://gonike.me/NikeCR7CollectionEU\n\nUS:\nhttp://go.nike.com/NikeCR7CollectionUS",
+          1352387959
+        ],
+        [
+          "Great day in the studio with Pepe Do you like the music?\n\nhttp://bit.ly/SBIJaH Nike Football: Cristiano Ronaldo: CR7 Collection Cristiano Ronaldo and Pepe take a break from football to focus on a different passion. See how they stepped up in the studio. To explore the collection check...",
+          1352308326
+        ],
+        [
+          "Take a look at the behind the scenes of the last commercial I did for my bank, BES. I hope you enjoy it. Invest in yourself. BES RONALDO MAKING OF \"UMA MUDAN\u00c7A NA VIDA\" ENGLISH VERSION The behind the scenes of BES campaign with Cristiano Ronaldo: BES Saving Solutions, Solutions for Change Watch what happened in Funchal, Lisbon, Manchester a...",
+          1334835982
+        ]
+      ],
+      "dates_start": 1384911738,
+      "dates_end": 1466170513,
+      "likes_avg": 309661,
+      "likes_stdev": 359133,
+      "comments_avg": 8773,
+      "comments_stdev": 16697,
+      "shares_avg": 29264,
+      "shares_stdev": 153313
+    },
+    {
+      "number": 20,
+      "important": [
+        "fli",
         "work",
+        "lead",
+        "mobil upload",
+        "great",
+        "for\u00e7aportug",
         "style",
-        "upload"
+        "upload",
+        "ad",
+        "mobil"
       ],
       "common": [
         "com",
@@ -2481,38 +2732,38 @@
       ],
       "dates_start": 1401356094,
       "dates_end": 1438967007,
-      "likes_avg": 1347301,
-      "likes_stdev": 860385,
-      "comments_avg": 21418,
-      "comments_stdev": 13343,
-      "shares_avg": 17547,
-      "shares_stdev": 15636
+      "likes_avg": 1346921,
+      "likes_stdev": 860149,
+      "comments_avg": 21405,
+      "comments_stdev": 13336,
+      "shares_avg": 17539,
+      "shares_stdev": 15630
     },
     {
-      "number": 20,
+      "number": 21,
       "important": [
-        "friend",
-        "cristiano",
-        "tag",
-        "ronaldo",
-        "download free",
-        "game",
         "cristiano ronaldo",
+        "game",
+        "ronaldo",
+        "would",
+        "friend",
+        "tag",
+        "cristiano",
         "around world",
         "ad",
-        "would"
+        "download free"
       ],
       "common": [
-        "bit ly",
+        "app",
         "cristiano",
         "cristiano ronaldo",
+        "download",
         "free",
         "http",
-        "http bit",
-        "http bit ly",
-        "ly",
         "photos",
-        "ronaldo"
+        "ronaldo",
+        "timeline",
+        "timeline photos"
       ],
       "messages": [
         [
@@ -2540,6 +2791,10 @@
           1477551878
         ],
         [
+          "Congratulations Hanna, your photo was pretty cool!\nDo you want to have the photo of the month? Download CR7Selfie app, be creative and you could be the selected one.\nFor more info go to CR7Selfie Facebook tab or  www.cr7selfie.com\nNow with new features Timeline Photos",
+          1475766000
+        ],
+        [
           "Wow! More than 5 million downloads of my mobile game! Thank you!\nDownload Kick'n'Run here for free: http://bit.ly/KicknRun Timeline Photos",
           1475247180
         ],
@@ -2548,16 +2803,16 @@
           1473331828
         ],
         [
+          "I challenge my Fans!!\nDownload my CR7Selfie app, be creative and your photo could be the \u201cfan\u201d photo of the month.\n\nMore info on CR7selfie Tab or http://www.cr7selfie.com/ Timeline Photos",
+          1473259500
+        ],
+        [
           "Hey guys! Have you played my new mobile game? It\u2019s called Cristiano Ronaldo: Kick'n'Run and I think that it\u2019s pretty cool! You can play the game here: http://bit.ly/KicknRun Cristiano Ronaldo: Kick'n'Run",
           1467034416
         ],
         [
           "The only person better than me at my own game is Cristiano Junior!\nDownload it for free here to see if you can beat us: http://bit.ly/GETsuperstars Timeline Photos",
           1459011607
-        ],
-        [
-          "#SaveSyriasChildren like 5 years old Ayman* who loves playing football as much as Cristiano Junior.  http://bit.ly/1nhusVN Timeline Photos",
-          1457874724
         ],
         [
           "Your favourite keyboard is now available for iOS. Download it here: http://apple.co/1UdECBS Timeline Photos",
@@ -2576,8 +2831,16 @@
           1447153365
         ],
         [
+          "First session in my new @niketraining CR7 Madeira edition free trainer 3.0. Available now in Europe on nike.com/niketraining Timeline Photos",
+          1446911421
+        ],
+        [
           "Who remembers this guy? Brings me back some childhood memories. Now you can play the game \u201cRonaldo&Hugo: Superstar Skaters\u201d. Available for iOS and Android http://bit.ly/GETsuperstars Timeline Photos",
           1433428980
+        ],
+        [
+          "Good news about my CR7 Underwear. Microfiber fabric is now available, making it very comfortable, light and soft. Hope you like it! Timeline Photos",
+          1428587146
         ],
         [
           "Great moment with the Emirates crew last week in Dubai. Emirates Emirates crewfie with Cristiano Ronaldo. #AllTimeGreats",
@@ -2620,16 +2883,12 @@
           1394546429
         ],
         [
-          "I\u2019ve been associated with BES for the last 10 years, a successful partnership. Banco Esp\u00edrito Santo. 10 years with Cristiano Ronaldo Over the last 10 years, Cristiano Ronaldo has changed a lot. But he didn't change his bank.",
-          1393838979
+          "Due to several requests the Museu CR7 just lunched a small online shop for those that can't come to Madeira. For now only available for Europe. Enjoy Please Log In",
+          1394213024
         ],
         [
           "Hey guys, The GAME by Ronaldo is now available for Android and iOS. \r\n \r\nDownload the apps and keep an eye on your Player career, manage your Team, schedule matches and update the results right from the field - or at the bus stop, over lunch\u2026 Your GAME happens everywhere!\r\n \r\nGet either the Android app http://bit.ly/TheGAMEAndroid or the iOS app http://bit.ly/TheGAMEiOS Timeline Photos",
           1390910399
-        ],
-        [
-          "69 goals. 8 hat-tricks. 41 wins. But that was last year. #justdoit",
-          1389708158
         ],
         [
           "Great fans lead to great moments. Thank you!  #BallondOr2013 Cristiano Ronaldo and Ballon D'Or 2013",
@@ -2652,12 +2911,16 @@
           1365163206
         ],
         [
+          "Have you tried my Mac app? Go to the Mac OS X app store and download it so you don\u2019t miss any of my Facebook posts and Tweets. https://itunes.apple.com/gb/app/ronaldo/id585979565?mt=12 Timeline Photos",
+          1360936789
+        ],
+        [
           "Has anyone else been watching the Africa Cup of Nations? Some great matches so far! I just downloaded the FREE AFCON 2013 app to watch highlights from the games. Check it out.  \r\n\r\nDownload it for FREE here on iOS - http://bit.ly/10JHVnj\r\n\r\nOr FREE here on Android - http://bit.ly/WYQqZe Timeline Photos",
           1359138726
         ],
         [
-          "If you love to play football, stay tuned! This year I'm launching a world championship where YOU and your friends will play Cristiano Ronaldo Football Championship",
-          1358777009
+          "Hi guys, don't miss any of my Facebook posts! To get all of the latest information go to the Mac OS X app store and download my new app. You will get all of my news delivered imediatly via Apple's new notification system. https://itunes.apple.com/gb/app/ronaldo/id585979565?mt=12 Timeline Photos",
+          1358940728
         ],
         [
           "Who's watching the Africa Cup of Nations? Download this FREE app to keep up with all the latest...\n\nFREE here on iOS - http://bit.ly/10JHVnj\nFREE here on Android - http://bit.ly/WYQqZe Orange AFCON, SOUTH AFRICA 2013 Get Orange AFCON, SOUTH AFRICA 2013 on the App Store. See screenshots and ratings, and read customer reviews.",
@@ -2668,20 +2931,12 @@
           1354371783
         ],
         [
-          "Thank you for the messages that you sent in the past days. I'm feeling better and hope to be back 100% asap. \n\nSee more from Cristiano Ronaldo: http://say.ly/qud4zFG WhoSay Broadcast Photos",
-          1352827061
-        ],
-        [
           "Say hello to Himanshu Yadav and all my friends from India. I will come shortly with more news. \nMeanwhile don't forget to add me on Instagram. Just search for @cristiano \n\nSee more from Cristiano Ronaldo: http://say.ly/hkC4voT WhoSay Broadcast Photos",
           1351883754
         ],
         [
           "Lot of friends from Turkey. Thank you Cihat & Elif for your photo.\n\nSee more from Cristiano Ronaldo: http://say.ly/QnL4ukf WhoSay Broadcast Photos",
           1351707173
-        ],
-        [
-          "Thank you for all the photos that I received in the last days. You are the best!  Here's one from Pedro\n\nSee more from Cristiano Ronaldo: http://say.ly/rdo4ugb WhoSay Broadcast Photos",
-          1351702204
         ],
         [
           "Jacob & Co. surprised me with this great watch. Thank you! Cristiano Ronaldo's Photo Jacob & Co. surprised me with this great watch. Thank you!",
@@ -2712,8 +2967,16 @@
           1338475755
         ],
         [
+          "My Castrol EDGE Facebook event where you, the fans, can challenge me in a LIVE test is starting very soon! So sign up to my #RonaldoLIVE app now and watch the test - will you be one of the fans chosen to challenge me?\n \nwww.ronaldolive.com/enter #ronaldoLive Register now for #RonaldoLIVE for the chance to take on Cristiano Ronaldo in a live challenge on Facebook.",
+          1337257795
+        ],
+        [
           "I put up several new exclusive pics in my free app, Cristiano Ronaldo. You can download it on iPhone, iPad, or Android - http://road.ie/Cristiano Timeline Photos",
           1337181522
+        ],
+        [
+          "Thanks to Castrol EDGE, on Thursday at 5pm (CET) you will be able to test me in a LIVE challenge on Facebook!  Balls will be fired from above me and you can pick the goal I have to score in. I\u2019ve never done anything like this with my fans before, so make sure you go to the #RonaldoLIVE app and sign up now! #ronaldoLive Register now for #RonaldoLIVE for the chance to take on Cristiano Ronaldo in a live challenge on Facebook.",
+          1337087162
         ],
         [
           "I would like to dedicate my goal to my friend Nuhazet. For\u00c3\u00a7a. Cristiano Ronaldo's Photo I would like to dedicate my goal to my friend Nuhazet. For\u00c3\u00a7a.",
@@ -2722,6 +2985,10 @@
         [
           "Never played CRonaldo Freestyle before? To celebrate all of Cristiano Ronaldo's season achievements, the FreeStyle team just released an Android FREEMIUM version! Download the game on Google Play (http://bit.ly/KUO0om) \n\nFor all iPhone fans the full game will be FREE for the next 24 only! So hurry up and get it now! (http://bit.ly/CRonaldo_Freestyle ) Cristiano Ronaldo FREE Style - Android Apps on Google Play Play as Cristiano Ronaldo in Freestyle Battles around the world! Think you\u2019ve got what it take to freestyle with the best? Experience the rush of pulling off amazing t...",
           1336741673
+        ],
+        [
+          "Congratulations to Dontae \"dontaelsprince\", a huge fan of mine who won this signed jersey from my free app. http://road.ie/Cristiano Timeline Photos",
+          1336223738
         ],
         [
           "Who wants a signed Real Madrid jersey from me? Get my free app \"Cristiano Ronaldo\" on iPhone or Android, and I will randomly select a person in the top ten of the Top Users category. Will it be you? http://road.ie/Cristiano \n\n(Official rules: http://bit.ly/Hsfimi) Timeline Photos",
@@ -2772,31 +3039,31 @@
           1326385802
         ]
       ],
-      "dates_start": 1334604286,
-      "dates_end": 1438872332,
-      "likes_avg": 219561,
-      "likes_stdev": 337777,
-      "comments_avg": 6014,
-      "comments_stdev": 8540,
-      "shares_avg": 7112,
-      "shares_stdev": 18510
+      "dates_start": 1334584137,
+      "dates_end": 1441760185,
+      "likes_avg": 194732,
+      "likes_stdev": 282585,
+      "comments_avg": 4913,
+      "comments_stdev": 5483,
+      "shares_avg": 5252,
+      "shares_stdev": 15530
     },
     {
-      "number": 21,
+      "number": 22,
       "important": [
-        "mercuri",
+        "seen",
         "nike footbal",
-        "photo",
+        "new",
         "wear",
-        "today",
-        "ad",
-        "timelin",
+        "photo",
         "boot",
-        "nike",
-        "footbal"
+        "timelin",
+        "mercuri",
+        "tri",
+        "ad"
       ],
       "common": [
-        "app",
+        "com",
         "football",
         "http",
         "mercurial",
@@ -2809,8 +3076,20 @@
       ],
       "messages": [
         [
+          "Have you seen the new update of CR7Selfie? Now you can have a selfie with me and the Ballon D\u2019or!\nTry it now \u270c\ud83d\udcf7  #CR7Selfie #FanWithACause Timeline Photos",
+          1487091777
+        ],
+        [
           "Honoured to wear my CR7 #Mercurial Vit\u00f3rias boots today \ud83d\ude4c\ud83c\udffc\ud83c\udfc6 Nike Football Timeline Photos",
           1483773845
+        ],
+        [
+          "New beast\ud83d\udc4d Timeline Photos",
+          1482927433
+        ],
+        [
+          "Flip on the first try, Dwyane Wade. Don\u2019t start what you can\u2019t finish. \ud83d\udcaf\ud83d\ude02 #raiseit www.nowraiseit.com",
+          1481046894
         ],
         [
           "\u2705 Day 1 complete. Watch today\u2019s story as I train fast for El Cl\u00e1sico \u26a1\u26a1\u26a1 #StrikeSeries \ud83d\udd0e\ud83d\udc49 Nike.com/CR7",
@@ -2847,6 +3126,14 @@
         [
           "\ud83d\udcaa Extra effort.\n\u2705 Extra reward.\n\ud83c\udfc6 #StrikeSeries\n\nSpeed up with Nike Football's Modern uniform of fast:\nnike.com/football Timeline Photos",
           1477573740
+        ],
+        [
+          "New member \ud83d\udc15 Timeline Photos",
+          1474817004
+        ],
+        [
+          "Discover my new favourite spot in Lisbon! \nPestana CR7 Lisboa #TimeToWin | www.pestanacr7.com Timeline Photos",
+          1474383939
         ],
         [
           "Great to be back to full team training! \ud83d\udcaa\u26bd \ud83c\udfc3\ud83d\udca8\nTrain fast with Nike Football's Strike Series, the modern uniform of speed: http://gonike.me/TrainFast_CR7 Timeline Photos",
@@ -2947,6 +3234,10 @@
         [
           "Can\u2019t wait to lace up my new boots! Thanks @NikeFootball! \ud83d\udc8e \ud83d\udc8e Love that they are inspired by my journey to become a professional footballer \ud83d\udcaa\ud83d\udc4c \nGet your boots exclusively in the Nike Football App on March 20th. \ud83d\udcf2 http://gonike.me/Football_App\nNike Mercurial Timeline Photos",
           1458309575
+        ],
+        [
+          "Wow! Thanks Nike for letting me be the first athlete in the world to try the new HyperAdapt 1.0 #nike2016 #nikeinnovation Nike innovation - Nike 2016",
+          1458151178
         ],
         [
           "Excited to wear my special edition #Mercurial 324K Gold Boots again tonight! \ud83c\udfc6\u26bd\ud83d\udc4c\n\nThey\u2019ll be available on January 7th, exclusively in the Nike Football app. Be quick, they\u2019ll sell out fast! \ud83d\ude09 http://gonike.me/Football_App Timeline Photos",
@@ -3057,6 +3348,14 @@
           1382293760
         ],
         [
+          "Love to fish. Have you ever tried it? Timeline Photos",
+          1373613553
+        ],
+        [
+          "New York, New York with Irina Shayk Timeline Photos",
+          1371658674
+        ],
+        [
           "Be fast. Be Mercurial. \r\n\r\nPre-order: Europe: http://gonike.me/CR7 or U.S.: http://gonike.me/CR7us Timeline Photos",
           1365434513
         ],
@@ -3081,8 +3380,8 @@
           1358416945
         ],
         [
-          "Great day in the studio with Pepe Do you like the music?\n\nhttp://bit.ly/SBIJaH Nike Football: Cristiano Ronaldo: CR7 Collection Cristiano Ronaldo and Pepe take a break from football to focus on a different passion. See how they stepped up in the studio. To explore the collection check...",
-          1352308326
+          "My good friend Pepe joined me at my Nike Football shoot Timeline Photos",
+          1352546818
         ],
         [
           "Here are my new exclusive CR7 Collection Nike Football boots. What do you think? Timeline Photos",
@@ -3109,17 +3408,17 @@
           1332169139
         ]
       ],
-      "dates_start": 1384484370,
-      "dates_end": 1476101931,
-      "likes_avg": 382441,
-      "likes_stdev": 380020,
-      "comments_avg": 7006,
-      "comments_stdev": 8003,
-      "shares_avg": 13916,
-      "shares_stdev": 27049
+      "dates_start": 1386066222,
+      "dates_end": 1478413663,
+      "likes_avg": 416101,
+      "likes_stdev": 413076,
+      "comments_avg": 7921,
+      "comments_stdev": 8941,
+      "shares_avg": 13909,
+      "shares_stdev": 25898
     },
     {
-      "number": 22,
+      "number": 23,
       "important": [
         "timelin",
         "ad",
@@ -3138,6 +3437,18 @@
         "training timeline photos"
       ],
       "messages": [
+        [
+          "\ud83c\udfe1\ud83d\ude0e\u2600\ufe0f Timeline Photos",
+          1487677829
+        ],
+        [
+          "\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c Timeline Photos",
+          1487526461
+        ],
+        [
+          "\ud83d\udc4d Timeline Photos",
+          1487232955
+        ],
         [
           "\ud83d\udc4c Timeline Photos",
           1486642362
@@ -3181,10 +3492,6 @@
         [
           "\ud83c\udfc3\ud83c\udffc Timeline Photos",
           1483626552
-        ],
-        [
-          "\ud83d\udc4d Timeline Photos",
-          1482701131
         ],
         [
           "\ud83c\uddf5\ud83c\uddf9 Timeline Photos",
@@ -3659,57 +3966,69 @@
           1351006051
         ]
       ],
-      "dates_start": 1434361224,
-      "dates_end": 1487430858,
-      "likes_avg": 1428423,
-      "likes_stdev": 829365,
-      "comments_avg": 15902,
-      "comments_stdev": 12462,
-      "shares_avg": 13820,
-      "shares_stdev": 16292
+      "dates_start": 1434770093,
+      "dates_end": 1487899929,
+      "likes_avg": 1426988,
+      "likes_stdev": 828819,
+      "comments_avg": 15994,
+      "comments_stdev": 12558,
+      "shares_avg": 13918,
+      "shares_stdev": 16278
     },
     {
-      "number": 23,
+      "number": 24,
       "important": [
-        "challeng",
-        "give",
-        "trophi",
-        "think",
-        "team",
-        "ad",
-        "player",
-        "best",
-        "ani",
-        "world"
+        "cristiano ronaldo",
+        "ronaldo",
+        "day",
+        "sign",
+        "fragranc",
+        "love",
+        "cristiano",
+        "check",
+        "chanc win",
+        "chanc"
       ],
       "common": [
         "com",
-        "cr7",
+        "cristiano",
         "http",
         "new",
         "photos",
         "ronaldo",
-        "team",
         "timeline",
         "timeline photos",
+        "win",
         "www"
       ],
       "messages": [
+        [
+          "Spread the love by offering a Cristiano Ronaldo fragrance this Valentine\u2019s day! \nYou can be in a chance to win your own SIGNED Cristiano Ronaldo Fragrances\n\nCheck out my website www.cristianoronaldofragrances.com Timeline Photos",
+          1486746002
+        ],
         [
           "Crash and burn Dwyane Wade. \u26bd\ud83d\udcaf #raiseit www.nowraiseit.com",
           1485795671
         ],
         [
-          "I can rise to any challenge Dwyane Wade gives me. Tell him who you think won? #raiseit \ud83d\udcaf\ud83d\ude02 \nwww.nowraiseit.com",
-          1484821800
+          "Thanks for the support of Chinese fans. Glad to be the \u61c2\u7403\u5e1d(All Football) 2016 best player. Timeline Photos",
+          1485288072
         ],
         [
           "You don\u2019t lift the trophy for best player in the world without your team. #JustDoIt Timeline Photos",
           1484031864
         ],
         [
+          "Delighted to win the first The Best FIFA award. \n2016 was a dream year and it wouldn't be possible without my teammates, coaches and also you who supported me every day. Thank you so much everyone! Timeline Photos",
+          1483989363
+        ],
+        [
           "\"Fui pobre pero mi tesoro tiene nombre y eres t\u00fa\" #Acurrucate \n\nThis is the new song of my sister Katia Aveiro and DKB. Learn the moves and share it! DKB - Acurrucate ft. Katia Aveiro - YouTube DKB (Dkuba) shared a video",
           1483704905
+        ],
+        [
+          "Happy to be in the UEFA.com Team of the Year for the 11th time! Thanks to all the fans who voted! #TOTY Timeline Photos",
+          1483638441
         ],
         [
           "Start your New Year with a new fragrance! Luxurious and sophisticated, The Private Edition is perfect addition to your grooming routine http://bit.ly/2gcMBTr Timeline Photos",
@@ -3728,68 +4047,16 @@
           1483088400
         ],
         [
-          "New beast\ud83d\udc4d Timeline Photos",
-          1482927433
-        ],
-        [
-          "Just unboxed my new gift from TAG Heuer. A unique Tourbillon watch full of diamonds, especially for me. Thank you to my friend Jean-Claude Biver, you know me too well! #DontCrackUnderPressure",
-          1482480030
-        ],
-        [
-          "Getting into the spirit of the season with SACOOR BROTHERS! \nWe are celebrating this magical season with elegance and style to look your best for your special occasions. \nShop www.sacoorbrothers.com for the best styles for you and your gift list! Timeline Photos",
-          1482253200
-        ],
-        [
-          "After so much demand, I've decided to open the doors to my online members club for the next week! \nYou'll be able to see all of the videos of us creating The Private Edition fragrance as well as lots of exclusive images! \nhttp://bit.ly/2gcMBTr",
-          1482148800
-        ],
-        [
           "Dwyane Wade, Happy Holidays. This one is just for you \u26c4\ud83d\ude4c\ud83c\udfc6#raiseit www.nowraiseit.com",
           1481871955
-        ],
-        [
-          "So happy and glad to win. Thanks Real Madrid and Portugal National team.amazing year. Simmmmmmm\ud83d\udcaa\ud83c\udffd\ud83d\udcaa\ud83c\udffd\ud83d\udcaa\ud83c\udffd\ud83d\udcaa\ud83c\udffd Timeline Photos",
-          1481571000
         ],
         [
           "Creating The Private Edition scent and having fun with my team! See the full video on my online member's club. \nUse this link  http://bit.ly/2gcMBTr & password Basil - limited entry so be quick!!",
           1481212801
         ],
         [
-          "Flip on the first try, Dwyane Wade. Don\u2019t start what you can\u2019t finish. \ud83d\udcaf\ud83d\ude02 #raiseit www.nowraiseit.com",
-          1481046894
-        ],
-        [
-          "I wanted to make sure that every element of The Private Edition fragrance is personal to me. \nWant to know why I chose blue and copper for the bottle? Be a part of my private members club! \nUse password Vanilla at http://bit.ly/2gcMBTr",
-          1480953600
-        ],
-        [
-          "To celebrate the launch of my new fragrance, I have created my own online members club! \nThe first to go to http://bit.ly/2gcMBTr and use password Amber to see exclusive footage of us deciding the name!",
-          1480600800
-        ],
-        [
-          "Very excited to introduce my brand new fragrance tomorrow! \nTo celebrate, I am launching an online private members club. Stay tuned if you want to be part of it! Timeline Photos",
-          1480503601
-        ],
-        [
           "Open your eyes Dwyane Wade - this is how I wake up \ud83d\ude48 #raiseit\n\nwww.nowraiseit.com",
           1479969259
-        ],
-        [
-          "Honoured to debut my new boots tonight, back where it all started. \ud83d\ude4c CR7 Discovery \ud83d\udc49 Nike.com/CR7",
-          1479801600
-        ],
-        [
-          "A men\u2019s daily essentials #CLEARMEN #Mercurial #Ad Timeline Photos",
-          1479711601
-        ],
-        [
-          "Top\ud83d\udc4dwell done team\u26bd\ufe0f\u26bd\ufe0f\u26bd\ufe0f Timeline Photos",
-          1479600089
-        ],
-        [
-          "Me and my mom, together for the first time in a TV commercial. Merry Christmas by MEO\n\nEu e a minha m\u00e3e pela primeira vez juntos num an\u00fancio!! Feliz MEO Natal :)",
-          1479142905
         ],
         [
           "My sports cars just got jealous \ud83c\udfce\ud83d\udca5 #Mercurial\nNew wheels at Nike.com/CR7 Timeline Photos",
@@ -3800,10 +4067,6 @@
           1478019605
         ],
         [
-          "To stay fresh throughout a match, I use CLEAR #ad Timeline Photos",
-          1477669567
-        ],
-        [
           "Help me kick breast cancer. Visit CR7blankets.com save 15% with promo code Pink7 and Elite Team will donate to Breast Cancer Research with every blanket you buy. Timeline Photos",
           1476982415
         ],
@@ -3812,88 +4075,20 @@
           1476457269
         ],
         [
+          "Gracias/Grazie to the readers of Marca and Gazzetta dello Sport for this award. Wouldn't have been possible without my team mates. Thank you all! Timeline Photos",
+          1476388869
+        ],
+        [
           "Happy to share with you my exclusive fashion video and interview for @DSECTIONMAGAZINE. See the full video at www.dsection.media",
           1476357693
-        ],
-        [
-          "Two games 6 points\ud83d\udc4d\ud83c\udffc well done team \ud83c\uddf5\ud83c\uddf9\ud83d\udc4c\ud83c\udffc Timeline Photos",
-          1476128772
-        ],
-        [
-          "Happy to score my first poker for Portugal\n\u26bd\ufe0f\u26bd\ufe0f\u26bd\ufe0f\u26bd\ufe0f\ud83c\uddf5\ud83c\uddf9 Timeline Photos",
-          1475869077
-        ],
-        [
-          "Congratulations Hanna, your photo was pretty cool!\nDo you want to have the photo of the month? Download CR7Selfie app, be creative and you could be the selected one.\nFor more info go to CR7Selfie Facebook tab or  www.cr7selfie.com\nNow with new features Timeline Photos",
-          1475766000
         ],
         [
           "Come join my team! Visit CR7blankets.com, shop my exclusive CR7 line of luxury blankets and enter to win an autographed mini blanket. They\u2019re the biggest, softest, most comfortable blankets ever! Timeline Photos",
           1475161201
         ],
         [
-          "New member \ud83d\udc15 Timeline Photos",
-          1474817004
-        ],
-        [
-          "Discover my new favourite spot in Lisbon! \nPestana CR7 Lisboa #TimeToWin | www.pestanacr7.com Timeline Photos",
-          1474383939
-        ],
-        [
-          "I challenge my Fans!!\nDownload my CR7Selfie app, be creative and your photo could be the \u201cfan\u201d photo of the month.\n\nMore info on CR7selfie Tab or http://www.cr7selfie.com/ Timeline Photos",
-          1473259500
-        ],
-        [
-          "Step into the spotlight with my latest @CR7Underwear collection \ufffd",
-          1473091200
-        ],
-        [
-          "Thanks @TAGHEUER @jcbiver for this kind gift. The new rose gold Heuer 01 is amazing #dontcrackunderpressure Timeline Photos",
-          1472882379
-        ],
-        [
-          "@nubiasmartphone\u2019s Z11 does not believe in limitations. It believes that to be a champion you must #DreamWithoutBoundaries\n\nwww.nubia.com/en/events/ifa2016/ Timeline Photos",
-          1472792793
-        ],
-        [
           "Thanks to the Dubai Health Authority, the Thai Red Cross, Abbott  and many more around the world for motivating people to donate blood and plasma.\nBE THE 1 is global\u2026Let\u2019s go for more!\u261d\ud83d\udd1d\u261d\ud83d\udd1d BE THE 1 Donor BE THE 1 is connecting the world. Check out the inspiring success from the BE THE 1 teams around the world.\n\nGet global\u2026Act local! #BETHE1Donor",
           1472641164
-        ],
-        [
-          "Feeling good \ud83d\udc4d lets go \ud83d\udcaa\ud83c\udffc Timeline Photos",
-          1472224937
-        ],
-        [
-          "Very happy and proud to win such a special award. Thank you to my team mates from Real Madrid and Portugal! \u270c\ud83c\udffc\ufe0f\ud83d\udd1d\ud83d\udc4d\ud83c\udffc Timeline Photos",
-          1472141696
-        ],
-        [
-          "Another shot from my latest CR7 Underwear campaign! Check the range out on cr7underwear.com Timeline Photos",
-          1471881814
-        ],
-        [
-          "Stepping into the spotlight for CR7 Underwear FW16 Now available on CR7Underwear.com #CR7Underwear",
-          1471272991
-        ],
-        [
-          "Morning run \ud83d\udc4d Timeline Photos",
-          1471255771
-        ],
-        [
-          "NO DAYS OFF. Step by step \ud83d\udcaa\ud83c\udffd\ud83d\udcaa\ud83c\udffd\ud83d\udcaa\ud83c\udffd No days off",
-          1471104000
-        ],
-        [
-          "The need for blood never takes a vacation. Use #BETHE1Donor and post a picture when you donate.  I can\u2019t wait to show you the hard work from the BE THE 1 team. Soon\u2026\u261d\ud83c\udffc\u261d\ud83c\udffc Timeline Photos",
-          1470927600
-        ],
-        [
-          "In the spotlight for my latest CR7 Underwear campaign, launching today. Check out my new styles on CR7Underwear.com #CR7Underwear Timeline Photos",
-          1470902818
-        ],
-        [
-          "Slow run \ud83d\udc4d\ud83c\udffc Timeline Photos",
-          1470484709
         ],
         [
           "Are you ready to spend some time with me? \ud83d\udc4d \ud83d\udcf8 \nI have great news coming your way. Stay tuned! Coming on 9th August",
@@ -3912,28 +4107,8 @@
           1469109990
         ],
         [
-          "Check out our power moves! Get DOUBLE FRESHNESS with #CLEARMEN. #TRUECHAMPION #CLEARNODANDRUFF #CLEARPOWERMOVE",
-          1469021225
-        ],
-        [
           "\ud83d\udd1d",
           1468478218
-        ],
-        [
-          "When a team and nation believe, anything is possible.\n#SparkBrilliance #justdoit Timeline Photos",
-          1468394871
-        ],
-        [
-          "One moment can change everything. Never give up. Make them believe. \u26bd##SparkBrilliance #JustDoIt",
-          1468218600
-        ],
-        [
-          "Proud of my team. Proud of my country. Make them believe. #JustDoIt Timeline Photos",
-          1468184919
-        ],
-        [
-          "When you believe you achieve \u270c\ud83d\udc4d\ud83d\udd1d\u26bd\ufe0f Timeline Photos",
-          1467323632
         ],
         [
           "You are a click away to find out my new favorite shopping website! Raise your game at www.sacoorbrothers.com #SACOORBROTHERS Timeline Photos",
@@ -3942,6 +4117,10 @@
         [
           "Want to get your hands on one of my signed Cristiano Ronaldo Legacy Fragrances?\nTo find out more go to www.cristianoronaldofragrances.com! \nT&Cs apply Timeline Photos",
           1466066558
+        ],
+        [
+          "Great support thanks \u270c\ud83c\udffc\ufe0f Timeline Photos",
+          1465935651
         ],
         [
           "June 14th is World Blood Donor Day. Check out why I donate BE THE 1 Donor and share your inspiring story.  \nBE THE 1! BE THE 1 Donor June 14th is World Blood Donor Day. To all donors around the world,  THANK YOU!\n\nCheck out what inspires Cristiano Ronaldo to donate. What inspires you? BE THE 1!",
@@ -3976,48 +4155,12 @@
           1464004472
         ],
         [
-          "In my new commercial I'm in the central square of Tel-Aviv. Get ready neshamot it's gonna be HOT! HOT championship season HOT championship season with a good dozen good series and most successful in the country and the world",
-          1463407135
-        ],
-        [
-          "Check out the fashion Video of my SS16 CR7Footwear campaign. #cr7footwear |cr7footwear.com",
-          1461339387
-        ],
-        [
           "I am delighted to announce that I have become the official ambassador of XTrade, one of the world\u2019s leading trading platforms. We both strive to be the best performers in our fields. Come and join me! http://goo.gl/UAnsrM #TradelikeaLegend #XTrade Timeline Photos",
           1459780209
         ],
         [
-          "Great to be with my Portuguese NT team mates! Timeline Photos",
-          1458834000
-        ],
-        [
-          "Engineered Speed. \nNovo Equipamento Principal de Portugal 2016. #SparkBrilliance\nhttp://go.nike.com/FPFKits\nNike Football  Jo\u00e3o M\u00e1rio  William Carvalho  Andr\u00e9 Gomes  Ricardo Quaresma  Sele\u00e7\u00f5es de Portugal Timeline Photos",
-          1458244030
-        ],
-        [
-          "Wow! Thanks Nike for letting me be the first athlete in the world to try the new HyperAdapt 1.0 #nike2016 #nikeinnovation Nike innovation - Nike 2016",
-          1458151178
-        ],
-        [
           "Want to see what it's like to be me? My new video with Ronaldo - ROC Live Life Loud comes out March 14th!",
           1457715726
-        ],
-        [
-          "Exclusively at #WorldDutyFreeES, my new fragrance #CristianoRonaldoLegacy Timeline Photos",
-          1457636152
-        ],
-        [
-          "Here with our friends from #WorldDutyFreeES, celebrating the launch of my new fragrance #CristianoRonaldoLegacy at Madrid airport! Timeline Photos",
-          1457016202
-        ],
-        [
-          "Really proud to be the 1st athlete with 200 million social media followers. A big thank you to all my fans! \u2764\ufe0f\ud83d\udc4c\ud83d\ude18\ud83d\udd1d\ud83d\ude0d\ud83d\ude3b\ud83d\udc8b Timeline Photos",
-          1456324851
-        ],
-        [
-          "Our bodies are a blank canvas and underwear is the first thing we put on, so why not start the day well and add a splash of colour to your life! CR7 Underwear #CR7Underwear Timeline Photos",
-          1455634688
         ],
         [
           "There are rumors that I'm going to be a star in Israel. Not in soccer... In a HOT commercial\nhttps://youtu.be/YZgVn6cEXGY 200Mb internet - Faster than Ronaldo",
@@ -4040,16 +4183,20 @@
           1454091452
         ],
         [
-          "What a special day! Feeling so fortunate to receive this lovely gift from Cristiano. So grateful to be the inspiration behind this #tagheuerconnected watch-face designed by my son! #connectedtoeternity #dontcrackunderpressure TAG Heuer",
-          1452786197
-        ],
-        [
           "Most kids in Haiti don\u2019t make it past the 5th grade and are destined to menial labor, exploitation, and live on the street. \nLet\u2019s join Aid Still Required and help now.  Let\u2019s give Haiti\u2019s children hope for a future.  \nhttp://www.aidstillrequired.org/ASRhaiti2016 Timeline Photos",
           1452692768
         ],
         [
           "Wonderful team! \ud83d\udd1d\ud83d\udc4c\u26bd\ufe0f\ud83d\udc4d Timeline Photos",
           1452540721
+        ],
+        [
+          "Happy to be a winner of FIFA FifPro world XI award 2015! #BallondOr Timeline Photos",
+          1452537851
+        ],
+        [
+          "Quero desejar-vos o melhor Natal do mundo e partilhar com todos o meu primeiro an\u00fancio para o MEO, em Portugal. Boas festas!\n\nI wish you the best Christmas in the world and I want to share with you my first commercial for MEO, in Portugal. Happy Holidays!\n\nwww.meo.pt",
+          1450888539
         ],
         [
           "Want to win a pair of signed CR7Footwear shoes for Christmas? Go to www.CR7Footwear.com!",
@@ -4064,36 +4211,12 @@
           1449413452
         ],
         [
-          "One of my favourite pieces from the X-mas collection. Check out www.CR7underwear.com to see all of our new styles. CR7 X-mas collection",
-          1449240380
-        ],
-        [
           "Want to see what I've been up to for the holidays? \n\nCheck out this teaser for my upcoming video and go to www.roclivelifeloud.com to find out where you can buy my ROC by Monster headphones! ROC by Monster headphones",
           1449154680
         ],
         [
-          "Round of sixteen! Here we go #realmadrid Timeline Photos",
-          1448491888
-        ],
-        [
-          "Starting to read the book of my friend Jose Semedo. Timeline Photos",
-          1448294064
-        ],
-        [
           "#CR7Drive fuels my workouts and enhances hydration to keep me at the top of my game. Drive your active lifestyle with my new sports drink developed with Herbalife24\nLearn more at www.Herbalife24.com/CR7Drive Timeline Photos",
           1447930801
-        ],
-        [
-          "All the warmth and coverage I need this season. nike.com/techbook #techpack Timeline Photos",
-          1446739136
-        ],
-        [
-          "Well done team!! \ud83d\udc4f\u26bd\ufe0f\nEnhorabuena Nacho!! \ud83d\udd1d\ud83d\udc4c Timeline Photos",
-          1446588454
-        ],
-        [
-          "Here it is! FW15 CR7Footwear campaign. Check out my new styles on www.cr7footwear.com Timeline Photos",
-          1445946071
         ],
         [
           "Right now, near you, someone needs blood. Not just any blood, a perfect match. That\u2019s why I donate.  Join me in a global movement and donate blood now.  You could save a life. BE THE 1 Donor BE THE 1 Donor Did you know that 1 blood donation can save up to 3 lives?\n\nJoin Cristiano Ronaldo in a global movement and donate now. You could save a life.",
@@ -4102,10 +4225,6 @@
         [
           "Can\u2019t make it to the cinema? Pre-order my new official documentary, with exclusive bonus content on DVD, Blu-ray or Digital HD from November 9: www.ronaldothefilm.com \ud83c\udfa5\ud83c\udfac#ronaldofilm Mobile Uploads",
           1445325103
-        ],
-        [
-          "Never too early to prepare for a season with warm fleece and breathable insulation. nike.com/techbook #techpack Timeline Photos",
-          1444979863
         ],
         [
           "What a special moment in my professional life! Winning four Golden Boots it\u2019s a privilege for me and I\u2019ll keep challenging myself because I wanna do better everytime and I wanna keep chasing for more records. I have to thank everyone in Real Madrid that made this possible and we wanna keep winning more titles and more trophies. Thank you everyone. Mobile Uploads",
@@ -4124,32 +4243,8 @@
           1442829645
         ],
         [
-          "Check out the ad for my brand new fragrance Cristiano Ronaldo Legacy. You can view the full version here FIRST before anyone else www.cristianoronaldofragrances.com\n #cristianoronaldolegacy",
-          1441824512
-        ],
-        [
           "Introducing my debut fragrance for men - Cristiano Ronaldo Legacy - find out more here www.cristianoronaldofragrances.com",
           1441821326
-        ],
-        [
-          "One of my favourite CR7 Shirts for Autumn/Winter. Check out www.CR7Shirts.com to see all of our new styles! Timeline Photos",
-          1441114463
-        ],
-        [
-          "Team Portugal spirit\u26bd\ufe0f\u26bd\ufe0f\u26bd\ufe0f Timeline Photos",
-          1441035952
-        ],
-        [
-          "Bike recovery starts Timeline Photos",
-          1440948546
-        ],
-        [
-          "Check out my new favourite DJ. DJ Cristianinho",
-          1440759590
-        ],
-        [
-          "Celebrating the launch of my Autumn/Winter CR7 Shirts collection! See the new styles on www.CR7Shirts.com Autumn/Winter CR7 Shirts collection",
-          1440075034
         ],
         [
           "Nutrition. Dedication. Drive.    \nWatch my new interview series with Herbalife to learn how I strive to be the best. #CR7Drive Cristiano Ronaldo: The Interview: Part II | Herbalife Cristiano Ronaldo: The Interview: Part II CR7 elevates his game with elite nutrition Soccer champion Cristiano Ronaldo talks about how when he was young, he ...",
@@ -4158,18 +4253,6 @@
         [
           "Have a nice Sunday everyone! Sunday in the lake. \u00a0",
           1439119564
-        ],
-        [
-          "Here\u2019s an exclusive image from my latest CR7 Underwear shoot! Love the new collection- check it out now on www.CR7underwear.com Timeline Photos",
-          1438938023
-        ],
-        [
-          "People are going to think that I\u2019m crazy!\n#LIVELIFELOUD\nClick here to check out my new brand at ebay.com/roc",
-          1438623448
-        ],
-        [
-          "Step out in style with #CR7Footwear! One of my favourite pairs in the collection. www.cr7footwear.com Timeline Photos",
-          1437554550
         ],
         [
           "Down in Australia and ran out of Herbalife24 #RebuildStrength...found a Herbalife \nnutrition club and they took great care of me. Thanks, guys! No matter where in the world, Herbalife's got my back. Timeline Photos",
@@ -4184,32 +4267,12 @@
           1432717241
         ],
         [
-          "Nice time to have my favourite hand.\n7\u2665 7\u2663\n#fullhouse #CR7 #poker Timeline Photos",
-          1430664929
-        ],
-        [
-          "Go for gold with my exclusive #CR7Footwear Gold Edition- truly beautiful, individually numbered and limited edition www.CR7Footwear.com\n#Cerciguibenefit Timeline Photos",
-          1429534682
-        ],
-        [
-          "Good news about my CR7 Underwear. Microfiber fabric is now available, making it very comfortable, light and soft. Hope you like it! Timeline Photos",
-          1428587146
-        ],
-        [
-          "O nosso braz\u00e3o. As nossas cores. O nosso orgulho.\nCom que nome vais apoiar-nos? P\u00f5e o teu nome na nova camisola da Sele\u00e7\u00e3o. http://go.nike.com/60kafg8\n\nOur badge. Our colours. Our pride.\nWhat name are you going to support us with? Put your name on the new national team jersey. http://go.nike.com/60kafg8 Timeline Photos",
-          1427213085
-        ],
-        [
           "El Clasico weekend. Make your prediction ahead of the game on Sportlobster now. #halamadrid http://bit.ly/1bfpQtN Timeline Photos",
           1426860697
         ],
         [
           "Can\u2019t wait to show you how much fun I had\u2026 #CheckItOut at www.cr7footwear.com",
           1425066882
-        ],
-        [
-          "Happy to share with you some new images from my CR7 Shirts campaign! I hope you like it. Mobile Uploads",
-          1424888254
         ],
         [
           "The team has reached its goal. Another important win in the competition. #halamadrid #UCL Timeline Photos",
@@ -4220,40 +4283,24 @@
           1424101572
         ],
         [
-          "Very proud to be nominated for Laureus Sportsman of the Year. #LWSA15",
-          1423652244
-        ],
-        [
-          "Ya est\u00e1 a la venta en Espa\u00f1a La Clave Mendes el libro donde pueden conocer mejor mi grande amigo Jorge Mendes \u00a1No os lo perd\u00e1is! Y a partir de hoy, Jorge Mendes 'O Agente Especial' tambi\u00e9n en Portugal. Timeline Photos",
-          1421436018
-        ],
-        [
-          "It\u2019s an unforgettable moment in my life to win the Ballon d\u2019Or for the third time! I feel extremely happy and proud to receive this award and I want to keep challenging myself everyday. I have to thank my family, all the people who support me and also to my colleagues of Real Madrid and Portuguese National team that make me a better player every day. #ballondor2014 Timeline Photos",
-          1421092102
-        ],
-        [
           "This holiday season, I give thanks for what I have and am reminded of those who aren\u2019t so fortunate. Let\u2019s make this new year a little brighter for kids in need around the world.  Let\u2019s all help Save the Children. http://bit.ly/1qRf6sb Timeline Photos",
           1420012456
         ],
         [
-          "Sportlobster has a brand new look. What do you think? http://bit.ly/1xrrcL0 Sportlobster",
-          1419348569
+          "Very proud to receive the Globe Soccer Best Player of the Year award and the Fan's Favourite Player award. It's very rewarding to feel the fans amazing devotion and affection! Thank you all. Mobile Uploads",
+          1419890687
         ],
         [
-          "Here are some of my favourite pieces from my CR7 collection! Check it out! www.cr7underwear.com www.cr7shirts.com Timeline Photos",
-          1419264232
-        ],
-        [
-          "Wanna know what I think about my new CR7 Shirts collection? Check out. www.cr7shirts.com",
-          1418312163
+          "Hi guys, I was just nominated for Globe Soccer Fan\u2019s Favorite Player of The Year Award. You can vote until December 29th with the official Globe Soccer Mobile Apps for iOS (http://bit.ly/GlobeSocceriOS) and Android (http://bit.ly/GlobeSoccerAndroid). Timeline Photos",
+          1418721914
         ],
         [
           "I had the pleasure and privilege to get to know Nelson Mandela in 2010. Madiba will always remain in my heart and his legacy is an inspiration for all. The Global Watch anti-racism summit in Johannesburg, is a Nelson Mandela legacy initative for a non-racial, peaceful and prosperous world. The football community has to say it out loud: racism has no place in our game, in sports or in life. Timeline Photos",
           1417785936
         ],
         [
-          "Pleased to share my CR7 Shirts campaign with you all. Hope you love the collection as much as I do! http://www.cr7shirts.com/ Timeline Photos",
-          1417442443
+          "I feel honored to win the World\u2019s Top Goalscorer 2013 award by the International Federation of Football History and Statistics. Thank you all. Timeline Photos",
+          1417710899
         ],
         [
           "Have you entered the Sportlobster competition yet? I\u2019ll follow back the most creative. Check out these great pics:  http://bit.ly/KissTheShirt Timeline Photos",
@@ -4276,8 +4323,16 @@
           1415218558
         ],
         [
+          "So happy to celebrate the 1 year anniversary of my #CR7Underwear this weekend! Timeline Photos",
+          1415011378
+        ],
+        [
           "Round 3 of The GAME by Ronaldo is live and we\u2019ll be flying the Best Team of the Year to Dubai for the Globe Soccer Awards \u2014 an international stage of football stars\n \nRound 3 ends December 7, 2014.\nStart competing now at https://gamebyronaldo.com Timeline Photos",
           1414746081
+        ],
+        [
+          "Thank you all for your support last night. Show your passion and join Emirates in their #helloclasico photo contest to win a trip to Dubai. Click here for more info: https://contests.iconosquare.com/share/en/helloclasico Timeline Photos",
+          1414327170
         ],
         [
           "Thanks Facebook for the infographic. #100million Sports on Facebook Cristiano Ronaldo has reached 100 million fans on Facebook, making him the most-liked athlete on the platform. To celebrate this milestone, Facebook created an infographic that showcases some key stats about Ronaldo\u2019s fans.",
@@ -4288,16 +4343,8 @@
           1413296121
         ],
         [
-          "Happy and proud to wear my #CR7underwear on the cover of Men's Health in 60 countries all over the world! Timeline Photos",
-          1412766929
-        ],
-        [
           "Think you've got the best 5-a-side Team around? Join Round 3 of The GAME by Ronaldo competition and BE that Team!\n\nSign up at http://gamebyronaldo.com Timeline Photos",
           1411650546
-        ],
-        [
-          "We have the winner! Well done Anna Carolina De Mello. Follow me on Sportlobster and look out http://lnk.to/SportlobsterAppInstall Timeline Photos",
-          1409928221
         ],
         [
           "Sportlobster have hidden a signed Portugal shirt somewhere in London. Later today I will give clues on www.sportlobster.com so you can find it. Head to my profile to find the clues #FindMyCR7shirt Timeline Photos",
@@ -4316,16 +4363,20 @@
           1409130220
         ],
         [
+          "Share your enthusiasm for the new season with millions of other fans on Viva Ronaldo For Android: http://bit.ly/1lhBhoQ and iOS http://bit.ly/1y4x5vF Timeline Photos",
+          1408622167
+        ],
+        [
           "Happy to take part of it #ALS #Icebucketchallenge @JMC_Foundation http://youtu.be/3vu01fYhEpc Cristiano Ronaldo #Icebucketchallenge Happy to take part of it #ALS #Icebucketchallenge @JMC_Foundation",
           1408289653
         ],
         [
-          "All set for the UEFA Super Cup final today #RealMadridSevilla #halamadrid Timeline Photos",
-          1407839736
+          "Support your team by becoming a blogging correspondent on Sportlobster this season. Timeline Photos",
+          1408002488
         ],
         [
-          "Check out my new Rankin X Ronaldo for #CR7Underwear film! I\u2019m wearing my favourite style from the new collection, available at www.CR7Underwear.com now!",
-          1407415698
+          "All set for the UEFA Super Cup final today #RealMadridSevilla #halamadrid Timeline Photos",
+          1407839736
         ],
         [
           "Thank you everybody for your likes on Facebook and Instagram. We are now at 500,000 so here it is! Exclusive behind the scenes from my new #CR7underwear campaign launching next week. Stay tuned! Timeline Photos",
@@ -4336,12 +4387,20 @@
           1406385921
         ],
         [
+          "Thanks everyone who voted and made it possible for me to win the ESPY award for Best International Athlete.",
+          1405595990
+        ],
+        [
           "Sportlobster is running a cool football competition. Post your photos on www.sportlobster.com & win my signed shirt. Timeline Photos",
           1405147112
         ],
         [
           "Thank you to everyone who shared how they are driven to perfection.  There were many great #CR7DriventoPerfection submissions, but this was my favorite!  Don't ever lose your drive @david_alexi, you never know where it will take you.  Herbalife Cristiano Ronaldo #CR7DrivenToPerfection ! Herbalife!",
           1404399665
+        ],
+        [
+          "Starting the holidays playing with the sun in this landscape. Thank you for the support during all season. Timeline Photos",
+          1404384380
         ],
         [
           "The second Topwinner who will fly to the Final in Rio is Anna Marcus. Congratulations! Find out more about other TOPWIN amazing games and prizes! www.topwingames.com Timeline Photos",
@@ -4364,28 +4423,16 @@
           1402831331
         ],
         [
-          "The official video of the Portuguese national team\u2019s song, performed by Kika and produced by RedOne, has been released. Check it out! Novo videoclip oficial \"Vai Portugal!\" O Videoclip oficial da musica da Sele\u00e7\u00e3o Nacional para o Campeonato do Mundo, cantada por Kika (www.facebook.com/kikafans), produzida por RedOne. e dispon\u00edve...",
-          1402654154
-        ],
-        [
-          "Insane first half against the aliens! Hey Falcao, we'll show them how we PLAY football! Game-on #GALAXY11! \nhttp://bit.ly/1tYkndc Timeline Photos",
-          1402565763
+          "With my brothers Santi Rubirosa Jr y Euro, big things this year, \"Don't \u20acxpect Nothing\". Timeline Photos",
+          1402582114
         ],
         [
           "I\u2019m in Brazil. 2 lucky people can come here to the Final. Wanna be one of them? Visit here: http://goo.gl/3ZYbdO and qualify for 4 team shirts signed by me. Timeline Photos",
           1402498858
         ],
         [
-          "Check out the blog I wrote on Sportlobster, a personal message to my fans ahead of Brazil. Hope you like it!  Portugal in Brazil: a team for a nation It's an enourmous pride to represent and to captain the Portuguese National Team....",
-          1401962150
-        ],
-        [
           "I\u2019m driven to perfection. Are you? Show me how you work to perfect your game by uploading a 15-second video or photo tagged #CR7DrivenToPerfection.  I\u2019ll choose my favorite and share it on my Facebook page. Learn more: http://bit.ly/1jQH8d6  CR7: Driven to Perfection. Fueled by Herbalife Cristiano Ronaldo is driven to perfection. Watch the Portuguese soccer legend show off his skills and demonstrate how he pushes for perfection at all times. ...",
           1401889658
-        ],
-        [
-          "Leaving Portugal to prepare for the World Cup in Brazil. With open arms to the World, let\u2019s go Team, let\u2019s go Portugal!  http://bit.ly/1u7IXdm Timeline Photos",
-          1401710471
         ],
         [
           "Hey guys, check out the new cool wallpapers on my website. http://www.cristianoronaldo.com/downloads-wallpapers  Wallpapers - Downloads - Cristiano Ronaldo Official Website Welcome to my new Official Website. Access unique content, also from fans and use the \u201cfanwall\u201d feature to share your best photos, videos and text. by branditnext.com",
@@ -4400,10 +4447,6 @@
           1401450093
         ],
         [
-          "Here is the official song of the Portuguese National Team for the World Cup, performed by Kika. So uplifting!  M\u00fasica oficial da Sele\u00e7\u00e3o Nacional Canal Oficial da Federa\u00e7\u00e3o Portuguesa de Futebol",
-          1401384905
-        ],
-        [
           "Today, the Sun publishes an interview with me that I never gave. So its content is pure fiction.",
           1401375256
         ],
@@ -4412,8 +4455,8 @@
           1401191312
         ],
         [
-          "Let's go team #APorLaD\u00e9cima! Timeline Photos",
-          1400869718
+          "In the biggest game against our closest rivals, there is only one option. #riskeverything Timeline Photos",
+          1400836453
         ],
         [
           "Would you like to fly on a private jet to the final in Rio de Janeiro, Brazil? Soon TOPWIN will surprise you! Pre-register now: www.topwingames.com and get the chance to win a Team Shirt signed by me. Timeline Photos",
@@ -4422,10 +4465,6 @@
         [
           "Hi guys, to celebrate the Lisbon final Viva Ronaldo is giving away 2 shirts autographed by me! Check www.vivaronaldo.com/Lisbon2014 for details. Good luck! #APorLaDecima Timeline Photos",
           1400421760
-        ],
-        [
-          "Proud to be an ambassador for Sportlobster! Football is my lobster - #WhatsYourLobster? Tell me yours here http://lnk.to/98p3q Timeline Photos",
-          1400311801
         ],
         [
           "Soon you will know how it feels to be a winner! Pre-register now: http://www.topwingames.com and get the chance to win a Team Shirt signed by me. Timeline Photos",
@@ -4452,10 +4491,6 @@
           1398241918
         ],
         [
-          "First title of the season. #FinalCopa #Champions Timeline Photos",
-          1397681823
-        ],
-        [
           "Have you seen the fan portrait of Paula in my #CR7emag? Maybe I will choose you for the next issue. Check it out. Fans",
           1397134831
         ],
@@ -4466,10 +4501,6 @@
         [
           "Hi guys, Round One of  The GAME by Ronaldo is running until May 1st, so there's still time to enter the competition. Take the challenge, join at http://gamebyronaldo.com The GAME by Ronaldo The biggest football competition ever!",
           1396603611
-        ],
-        [
-          "June 10 is Portugal National Day. The National Team will be facing Ireland at MetLife Stadium. Come support us. http://www.ticketmaster.com/event/00004C66D2E1D84F Timeline Photos",
-          1396278333
         ],
         [
           "It was great to meet one of my fans from Canada on Sunday. Thanks for entering my #CR7Underwear competition Dane! Good luck with your football. To those of you who didn\u2019t win, stay tuned for more #CR7Underwear competitions coming up in the future and check the range out at www.CR7Underwear.com Timeline Photos",
@@ -4500,20 +4531,16 @@
           1394438540
         ],
         [
-          "Check out Museu CR7 online store http://museucr7store.com",
-          1394216245
-        ],
-        [
           "Take a look at this \u201cSport doesn\u2019t care\u201d video. Sport makes no distinctions.\n What's Your Problem? Sport Doesn't Care - Sochi 2014 Paralympic Winter Games Sochi 2014 Paralympic Winter Games. Sport doesn't care about abilities or disabilities. Sport makes no distinctions. All that matters is that you give your b...",
           1394127540
         ],
         [
-          "What a night! A great result leads us one step closer to the next stage.  http://bit.ly/1ezVwnJ  Mobio INsider Mobio INsider",
-          1393506954
+          "I\u2019ve been associated with BES for the last 10 years, a successful partnership. Banco Esp\u00edrito Santo. 10 years with Cristiano Ronaldo Over the last 10 years, Cristiano Ronaldo has changed a lot. But he didn't change his bank.",
+          1393838979
         ],
         [
-          "Well done, team! Hala Madrid!  Mobio INsider Mobio INsider",
-          1393092608
+          "What a night! A great result leads us one step closer to the next stage.  http://bit.ly/1ezVwnJ  Mobio INsider Mobio INsider",
+          1393506954
         ],
         [
           "Thank you for all the posts you shared on the Fanwall on my new website. They are really great! Keep sharing your texts, photos and videos here: http://www.cristianoronaldo.com/fanwall  Cristiano Ronaldo Official Website",
@@ -4524,6 +4551,10 @@
           1392722585
         ],
         [
+          "Hey guys, your participation on Cheer Ronaldo's Happy Birthday event was fantastic! Here is my favourite among the many great photos and videos. Congratulations Olya and thank you everyone for your support!\n Viva Ronaldo - The Cristiano Ronaldo Social Network Join Cristiano Ronaldo in his social network! This is your chance to meet Ronaldo in a once-in-a-lifetime experience!",
+          1392050351
+        ],
+        [
           "Hey you, football players!\n \nIs your Team already signed up for the most exciting football competition of the moment? No? What are you waiting for?\n\nCheck out the video below, sign up on http://www.gamebyronaldo.com and let\u2019s make some great matches people. How far are you willing to go?",
           1391955657
         ],
@@ -4532,12 +4563,28 @@
           1391174771
         ],
         [
+          "Hello guys. Go to http://www.cheerronaldo.com and share your photos and videos on Viva Ronaldo. I\u2019ll pick my favourite one from the Top 20 and share it on my Facebook and Twitter. Timeline Photos",
+          1390843452
+        ],
+        [
           "Round One is NOW OPEN to everyone!\r\n \r\nYou can now schedule Real Football Games and challenge other Teams on the Matches section of http://www.gamebyronaldo.com. Compete for Points and move up the Ranking.\r\n\r\nLet the GAMES begin! Timeline Photos",
           1390746412
         ],
         [
-          "Very proud to win the Ballon d\u2019Or for the second time, it means so much to me! I thank my teammates from Real Madrid and Portuguese National Team. It wouldn\u2019t be possible without them. Timeline Photos",
-          1389638987
+          "69 goals. 8 hat-tricks. 41 wins. But that was last year. #justdoit",
+          1389708158
+        ],
+        [
+          "Happy to win the Globe Soccer Award for Best Player of the Year. Thanks for voting in me. Globe Soccer Award",
+          1388250293
+        ],
+        [
+          "Hey guys, I was just nominated for Globe Soccer Fan\u2019s Favorite Player Award.\r\nYou can vote until December 28th with the official Globe Soccer Mobile Apps for iOS (http://bit.ly/GlobeSocceriOS) and Android (http://bit.ly/GlobeSoccerAndroid). Timeline Photos",
+          1387460796
+        ],
+        [
+          "Hey guys. Christmas season is open on Viva Ronaldo! You can now share some great gifts with your friends and me in the new #VivaRonaldo update http://bit.ly/12DqFT3 Timeline Photos",
+          1387301662
         ],
         [
           "Have you all entered my #CR7underwear competition yet? You could win some of my favourite pieces from the range! Visit www.CR7underwear.com to enter #CR7underwear #Ronaldo #fashion #design #JBS #RichardChai Timeline Photos",
@@ -4552,6 +4599,10 @@
           1386956053
         ],
         [
+          "Viva Ronaldo is where my true fans belong. My community where I can be closer to all of you. It's been great to feel your outstanding support, you're the best fans in the world. www.vivaronaldo.com Timeline Photos",
+          1386864186
+        ],
+        [
           "Don\u2019t forget to visit www.cr7underwear.com to get the chance to win some of my favourite pieces. Cristiano Ronaldo I hope you all love my CR7 Underwear collection as much as I do! As an early Xmas present, I\u2019m giving you the chance to win some of my favourite pieces from the collection. To enter, visit  www.CR7underwear.com now! #CR7underwear #Ronaldo #fashion #design #JBS #RichardChai",
           1386858034
         ],
@@ -4564,24 +4615,24 @@
           1386253791
         ],
         [
-          "Well done, team! Timeline Photos",
-          1385638194
+          "Hey guys, it\u2019s an honour and a privilege to receive the award of Liga de F\u00fatbol Professional Most Valuable Player of 2012/13. Thanks for the support. Timeline Photos",
+          1386063658
+        ],
+        [
+          "Hello guys. I\u2019m very happy to win the trophy Alfredo di St\u00e9fano again this year. Thanks everyone! Timeline Photos",
+          1385994086
         ],
         [
           "Guillermo, Miguel, Jorge and V\u00edtor are an inspiration and a clear proof that it\u2019s worth fighting. It was a privilege to meet these brave kids. Being a bone marrow donor only involves collecting blood, nothing else - a simple gesture that can save a life. I've done it and would do it again. It doesn\u2019t cost anything and can give hope to those who need it most. Because leukemia exists and does not choose gender, age or race. Untitled Album",
           1385122066
         ],
         [
-          "Obrigado #Portugal! O vosso apoio foi indescrit\u00edvel! Voc\u00eas s\u00e3o a for\u00e7a que nos faz acreditar!\nThanks #Portugal! Your support was indescribable. You gave us the strenght that makes us believe! World Cup Play Off",
-          1384953393
-        ],
-        [
-          "Tonight we must be fearless. 1, 2, 3 PORTUGAL PORTUGAL PORTUGAL Timeline Photos",
-          1384876954
-        ],
-        [
           "Hey guys, XXS - Portuguese Association for the Support of Premature Babies is asking the help of all European citizens to join forces and lift voices to raise awareness on the needs of premature babies.\n  \nLet\u2019s all help stand up for better treatment and care of premature babies all over Europe.\nhttp://www.enemenemini.eu/\n \nXXS Babies need you! ene, mene, mini: Welcome Page",
           1384703840
+        ],
+        [
+          "Sami Khedira, I wish you all the best for your recovery. You're a fighter and we wait for your fast return. The World Cup is waiting for you. Timeline Photos",
+          1384605642
         ],
         [
           "Want to see me play a match?\r\n\r\nRound One for The GAME starts November 20.\r\nThe winning team will be flying from anywhere in the world to see me play live!\r\n\r\nRegister your team and get ready for the competition: http://bit.ly/TheGAME Timeline Photos",
@@ -4596,20 +4647,8 @@
           1383490543
         ],
         [
-          "You can now check out the full #CR7underwear collection at www.CR7underwear.com. Here\u2019s one of my favourite designs. Timeline Photos",
-          1383236779
-        ],
-        [
-          "I was proud to see this image from the #CR7underwear campaign displayed in one of Madrid\u2019s most famous landmarks today. Timeline Photos",
-          1383224361
-        ],
-        [
           "This video shows clearly the respect and consideration that FIFA has for me, for my club and my country. Much is explained now. I wish Mr. Blatter health and a long life, with the certainty that he will continue to witness, as he deserves, the successes of his favourite teams and players. Sepp Blatter | Ronaldo vs Messi | Oxford Union Sepp Blatter gives his opinions on Cristiano Ronaldo and Lionel Messi. SUBSCRIBE for more speakers \u25ba http://is.gd/OxfordUnion STAY CONNECTED: Facebook @ http...",
           1383063430
-        ],
-        [
-          "Excited about my new Nike Football #CR7 collection. Check it out.\nEurope: http://go.nike.com/2hinjnl \nUS: http://go.nike.com/01ovbc8c CR7 Collection",
-          1382331752
         ],
         [
           "Do you think football has limits? I don\u2019t think so. Stay tuned! Timeline Photos",
@@ -4628,16 +4667,8 @@
           1380542426
         ],
         [
-          "Do you want to hear more about my new underwear collection from designer Richard Chai? Then take a look here or see more at www.cr7underwear.com #CR7 #cristiano #jbs #richardchai Interview with Richard Chai",
-          1380169260
-        ],
-        [
           "Great Wins Are Built On Great Teams.\r\n \r\nThis October, you\u2019d better have a great team too.\r\nThe GAME is the global 5-a-side football competition you don\u2019t want to miss.\r\n \r\nFollow The GAME by Ronaldo Timeline Photos",
           1379678599
-        ],
-        [
-          "My new underwear collection is the result of a fantastic co-operation between New York-based designer Richard Chai, the Danish Underwear manufacturer JBS and myself. I can\u2019t wait to show it to you all. See more at www.cr7underwear.com  #CR7 #cristiano #jbs #richardchai Timeline Photos",
-          1379592530
         ],
         [
           "This October, I will launch the ultimate football competition for every team around the globe to join.\r\n\r\nImagine yourself going head to head with the whole world.\r\nIt\u2019s all about real passion, real talent, real football.\r\n\r\nDare to be challenged!\r\nStep up and follow The GAME by Ronaldo Timeline Photos",
@@ -4648,16 +4679,20 @@
           1378992809
         ],
         [
-          "Congratulations to Felipe Hernandez from Tenerife, who won the KICK-OFF Photo Challenge!\r\nA pair of my own Signed Boots is going your way, Felipe!\r\n \r\nAnd this is really just the start! Stay up to date on: The GAME by Ronaldo Timeline Photos",
-          1378731516
-        ],
-        [
           "For each one of you. We are 60 million",
           1377952667
         ],
         [
+          "Here are some stats from last game. Once again thanks for all the support on #VivaRonaldo http://www.vivaronaldo.com Timeline Photos",
+          1377614164
+        ],
+        [
           "The GAME by Ronaldo\n\nKICK-OFF Photo Challenge\n\nAre you a football player ?\nDo you have your own football photos to share ?\n\nI want to see them!\n\nGrab you camera and enter to win: www.bit.ly/KickOffPhotoChallenge Timeline Photos",
           1377231060
+        ],
+        [
+          "Yesterday we kicked off the new season with a win! Thank you all for your great support on #VivaRonaldo www.vivaronaldo.com Timeline Photos",
+          1376924264
         ],
         [
           "Would you like to meet me, watch one of my matches from VIP seats, or win autographed memorabilia among many other great prizes? Join me on #VivaRonaldo, and be part of my official community! www.vivaronaldo.com Timeline Photos",
@@ -4668,48 +4703,44 @@
           1376661168
         ],
         [
-          "Look who I run into yesterday! It's Shaquille O'Neal! Timeline Photos",
-          1375710282
-        ],
-        [
           "Giving away some autographs with Pepe Timeline Photos",
           1375708792
+        ],
+        [
+          "Hello Lyon. Timeline Photos",
+          1374670200
         ],
         [
           "Talking nutrition with Herbalife scientist, John Heiss #SportsNutrition Timeline Photos",
           1374150277
         ],
         [
-          "New York, New York with Irina Shayk Timeline Photos",
-          1371658674
-        ],
-        [
-          "Here we go to Geneve. Timeline Photos",
-          1370787193
-        ],
-        [
-          "Tomorrow there\u2019s a great match for Portugal. All together let\u2019s make this country proud. www.vivaronaldo.com Timeline Photos",
-          1370531024
-        ],
-        [
           "Happy to be part of Team Herbalife - nutrition for a better life :) Timeline Photos",
           1370437402
+        ],
+        [
+          "Thank you all for supporting me on another La Liga season! Congratulations to the Viva Ronaldo winners! www.vivaronaldo.com Timeline Photos",
+          1370175840
         ],
         [
           "Tomorrow is the last game of the season. Let\u2019s finish it big! Don\u2019t forget to sign in at www.vivaronaldo.com. Timeline Photos",
           1370001695
         ],
         [
-          "So proud to win a Social Star Award for Most Popular Sportsperson! Big thanks to my fans, you made it happen! Timeline Photos",
-          1369744251
+          "Thanks for supporting my team yesterday. Congratulations to the Viva Ronaldo winners. www.vivaronaldo.com Timeline Photos",
+          1369655875
+        ],
+        [
+          "So, you think you know me better than anyone else? Prove it on the Viva Ronaldo iOS app at http://bit.ly/12DqFT3! Viva Ronaldo Get Viva Ronaldo on the App Store. See screenshots and ratings, and read customer reviews.",
+          1369490267
         ],
         [
           "Don\u2019t forget to sign in at www.vivaronaldo.com. Let\u2019s play as one against Real Sociedad! Timeline Photos",
           1369403878
         ],
         [
-          "I\u2019m so proud of my sister Katia Aveiro and her new musical project. Katia feat Wildboyz - Boom Sem Parar Katia feat Wildboyz - Boom Sem Parar (Produced By RedOne)",
-          1368192592
+          "Thank you so much for the incredible support you gave me yesterday. You were all great, but I must praise our first official Viva Ronaldo Matchday Winners. Thank you all!\r\n\r\nTogether we are stronger! www.vivaronaldo.com Timeline Photos",
+          1368881853
         ],
         [
           "Having an excellent japanese dinner with Irina Shayk. Even with the new statements of a certain woman who says being contacted by message from me, which is obviously a lie, nothing or nobody disturbs us. There's an ongoing lawsuit in which the judge will give me reason for sure. I wanna thank everyone who believes in me and not in this woman that just wants fame at my expense. Timeline Photos",
@@ -4720,28 +4751,16 @@
           1367096836
         ],
         [
-          "Check out the behind the scenes video from the set of the new Jacob & Co. Watch ad campaign featuring yours truly! I had a great time. Jacob & Co 2013 Campaign with Cristiano Ronaldo http://www.jacobandco.com",
-          1366633665
-        ],
-        [
           "My friends at KONAMI have a new Facebook game! Become a manager in PES Association Football and lead your team to victory! If you are lucky you might even get me in your squad! Click on the link to play now: http://www.facebook.com/pesassociationfootball Pro Evolution Soccer Still haven't tried PES Association Football? Become the manager of your own team and use real tactics and real players to lead your club to victory! Click here now and start playing! http://www.facebook.com/pesassociationfootball",
           1366295211
-        ],
-        [
-          "Pre-order: Europe: http://gonike.me/CR7 \u2013 U.S.: http://gonike.me/CR7us What do you think of my new Summer Collection?",
-          1364571370
         ],
         [
           "Soon, I will be closer to all of you!\nTogether we are stronger. Together we will win.\n\nwww.vivaronaldo.com Be Ready",
           1364396265
         ],
         [
-          "Have you tried my Mac app? Go to the Mac OS X app store and download it so you don\u2019t miss any of my Facebook posts and Tweets. https://itunes.apple.com/gb/app/ronaldo/id585979565?mt=12 Timeline Photos",
-          1360936789
-        ],
-        [
-          "What a great day! Nice to celebrate my birthday with the portuguese National Team. Instagram Photos",
-          1360094819
+          "Thank you for another award, the Trofeo Di St\u00e9fano. Timeline Photos",
+          1363630664
         ],
         [
           "Watch me train with the PES fans. PES 2013 |   WARM UP SESSION WITH CRISTIANO RONALDO",
@@ -4756,16 +4775,8 @@
           1359133221
         ],
         [
-          "Hi guys, don't miss any of my Facebook posts! To get all of the latest information go to the Mac OS X app store and download my new app. You will get all of my news delivered imediatly via Apple's new notification system. https://itunes.apple.com/gb/app/ronaldo/id585979565?mt=12 Timeline Photos",
-          1358940728
-        ],
-        [
           "Stefani, one of my top fans and winner of my recent twitter contest got this autographed photo. Do you like it? \r\nAnyone of my fans can get its own! Visit my page on MyStarAutograph and personalize yours: http://bit.ly/CR7_MSAFB Timeline Photos",
           1358521241
-        ],
-        [
-          "Yesterday, with your support, we got an important win. Step by step we are closer to the final. Thank you. \n\nSee more from Cristiano Ronaldo: http://say.ly/nOo4VOE WhoSay Broadcast Photos",
-          1357830037
         ],
         [
           "I wish you all a Happy New Year!",
@@ -4776,20 +4787,12 @@
           1356349351
         ],
         [
-          "As captain of the National Team, I know my colleague Raul Meireles very well and I'm sure he's not capable of doing what he's accused of. I give him all my support and sympathy.",
-          1356117383
-        ],
-        [
           "Want to watch a match in my own VIP-box in Madrid? \r\nEnter the Pro Evolution Soccer Xmas competition now on: \r\nhttp://www.cr7.konami-pes2013.com/ Timeline Photos",
           1355992589
         ],
         [
           "For Christmas, give away emotions with a customized autographed photo! http://bit.ly/CR7_MSAFB\r\nWith MyStarAutograph, choose a photo, write your personal message in my own handwriting and enjoy it! Timeline Photos",
           1355934754
-        ],
-        [
-          "WIN a trip to Madrid including a personal football training session with me! Daily runner up prizes include signed shirts, boots and VIP tickets to one of my matches!\nClick:  http://www.cr7.konami-pes2013.com/pesxmas/  to join!\nPresented by Pro Evolution Soccer",
-          1355844282
         ],
         [
           "Thanks to my friends from MyStarAutograph, you can now get customized photos with my autograph and sign them for whom you want. Which one do you like most?\r\nhttp://bit.ly/CR7_MyStarAutograph_FB Timeline Photos",
@@ -4800,12 +4803,12 @@
           1354957090
         ],
         [
-          "Hi guys, DANCE (RED), SAVE LIVES album presented by Ti\u00ebsto is out  featuring some of the biggest names in dance music! Proceeds go to fight AIDS in Africa. Check it out and help.. DANCE (RED), SAVE LIVES for World AIDS Day. December 1st is World AIDS Day. Let's DANCE (RED), SAVE LIVES with Ti\u00ebsto, Avicii, Martin Solveig, Laidback Luke, Tommy Trash, Bingo Players & the biggest names in dance music to fight AIDS! Buy the album. Watch the livestream.",
-          1354196078
+          "I'm proud with another nomination to this award. Thank you all for the support Cristiano Ronaldo, Andres Iniesta and Lionel Messi are the three nominees for the FIFA Ballon d\u2019Or 2 Cristiano Ronaldo, Andres Iniesta and Lionel Messi have been announced as the final three contenders for the FIFA Ballon d'Or, while Marta, Alex Morgan and Abby Wambach are in the running for the women's prize.",
+          1354212029
         ],
         [
-          "I really think that nikefootball did a great work with my new collection. What do you guys think? Nike Football Love to win. Hate to lose. Cristiano Ronaldo shows his performance and personality with the new CR7 Collection.\n\nGet the CR7 Collection:\nEurope:\nhttp://gonike.me/NikeCR7CollectionEU\n\nUS:\nhttp://go.nike.com/NikeCR7CollectionUS",
-          1352387959
+          "Hi guys, DANCE (RED), SAVE LIVES album presented by Ti\u00ebsto is out  featuring some of the biggest names in dance music! Proceeds go to fight AIDS in Africa. Check it out and help.. DANCE (RED), SAVE LIVES for World AIDS Day. December 1st is World AIDS Day. Let's DANCE (RED), SAVE LIVES with Ti\u00ebsto, Avicii, Martin Solveig, Laidback Luke, Tommy Trash, Bingo Players & the biggest names in dance music to fight AIDS! Buy the album. Watch the livestream.",
+          1354196078
         ],
         [
           "Do you have Instagram? Search for @cristiano and stay tuned for more photos.",
@@ -4820,12 +4823,16 @@
           1350720501
         ],
         [
+          "I am as proud to wear the Portugal jersey for the 100th time as I was the first time. It is always an honour to represent my country. Thank you for your support, hopefully we will share another victory, tonight. Timeline Photos",
+          1350399694
+        ],
+        [
           "Reaching 50.000.000 likes is unbelievable ...I want to thank you, you you, you and everyone who have been supporting me all these years. I really want us to keep sharing all the good moments together - and the best is still to come.  THANK YOU ALL",
           1350308661
         ],
         [
-          "Finally PES 2013 is available! I've been enjoying playing it! Check out the new TV ad I did with them in Madrid, we had so much fun! \n\nHow do you like the game so far?\n\nhttp://bit.ly/SizcJp PES 2013 90\" TV Ad featuring Cristiano Ronaldo https://www.konami-pes2013.com/buy-now/",
-          1348320479
+          "Here we are again... today false news were published about my vacations based on a picture that was taken some years ago in the US. Unfortunately some press don't investigate their  sources and go ahead publishing lies joining people that are not in the photo and confusing dates.",
+          1345649364
         ],
         [
           "I was very proud to be the Castrol EDGE Rankings top performing Real Madrid player last season.  Hopefully I can help the team again in 2012/2013!\r\n\r\nCheck out http://www.castrolfootball.com/?page=rankings for more about the Rankings as it returns for the new season! Timeline Photos",
@@ -4834,6 +4841,14 @@
         [
           "The new PES 2013 trailer coming straight from Gamescom!\nI heard the game is coming end of September - click \"Like\" if you can't wait like myself! New PES 2013 gamescom trailer released! Coming straight from the show floors of gamescom, we present you the latest addition to our PES 2013 trailers. Check out the trailer below. If you are",
           1345118325
+        ],
+        [
+          "It's an honor to be again nominated for Best Player Award. Thank you to all of you for supporting me. Iniesta, Messi, Ronaldo up for Best Player Award \u2013 UEFA.com Spain-based trio Andr\u00e9s Iniesta, Lionel Messi and Cristiano Ronaldo are in contention to receive the UEFA Best Player in Europe Award on 30 August following the announcement of the shortlist.",
+          1344967577
+        ],
+        [
+          "Just received this video. Have you seen it? Be great! Nike: Find Your Greatness. Greatness isn't reserved for the chosen few in one special city, it can also be found in London, Ohio, and London, Norway, and East London, South Africa, and...",
+          1344614138
         ],
         [
           "Finally the PES 2013 demo is available worldwide! Can't wait to play - who's with me? PES 2013 Demo Announcement Official Demo available globally for PS3, Xbox 360 and PC! For more information follow us at: www.konami-pes2013.com www.facebook.com/pes www.twitter.com/Jon...",
@@ -4856,8 +4871,8 @@
           1341836517
         ],
         [
-          "Estamos prontos! Somos Portugal! Timeline Photos",
-          1340270207
+          "I'm enjoying my vacations and just been informed that I've been nominated for the ESPYS awards. It's not my first time but it's always a pleasure to be part of such a shortlist. 2012 ESPYS - July 2012 ESPN Vote now for the best athletes and moments of the year and celebrate the year in sports LIVE Wednesday, July 11 9PM/ET on ESPN.",
+          1341242713
         ],
         [
           "For\u00e7a Portugal! Pepe, Bruno and I are here with the team bus. Timeline Photos",
@@ -4868,10 +4883,6 @@
           1339003495
         ],
         [
-          "Very proud of 2012 #SocialStarAward #starcount. Big thx to all of you for making me the most #popular sportsperson on earth\n starcount \u2605 Sportsperson Chart - Discover the biggest social media stars",
-          1338555584
-        ],
-        [
           "Nice new Video on PES 2013 where I am also featured! Check it out! [NEW & OFFICIAL] PES 2013 Producer Interview and feature presentation [E3 2012] HD See new gameplay footage and watch an interview with our lead developer Kei Masuda in this new PES 2013 video. PES 2013 Lead Developer Kei Masuda gives you m...",
           1338551909
         ],
@@ -4880,28 +4891,28 @@
           1338123949
         ],
         [
-          "My Castrol EDGE Facebook event where you, the fans, can challenge me in a LIVE test is starting very soon! So sign up to my #RonaldoLIVE app now and watch the test - will you be one of the fans chosen to challenge me?\n \nwww.ronaldolive.com/enter #ronaldoLive Register now for #RonaldoLIVE for the chance to take on Cristiano Ronaldo in a live challenge on Facebook.",
-          1337257795
-        ],
-        [
-          "Thanks to Castrol EDGE, on Thursday at 5pm (CET) you will be able to test me in a LIVE challenge on Facebook!  Balls will be fired from above me and you can pick the goal I have to score in. I\u2019ve never done anything like this with my fans before, so make sure you go to the #RonaldoLIVE app and sign up now! #ronaldoLive Register now for #RonaldoLIVE for the chance to take on Cristiano Ronaldo in a live challenge on Facebook.",
-          1337087162
-        ],
-        [
           "The Ronaldo Tested To The Limit won the Best International Sports Marketing Campaign recently.  Check it out and download it for free here: iTunes - Podcasts - Ronaldo Tested To The Limit Presented By Castrol EDGE by Castrol EDGE Download past episodes or subscribe to future episodes for free from Ronaldo Tested To The Limit Presented By Castrol EDGE by Castrol EDGE on the iTunes Store.",
           1336639547
         ],
         [
-          "Congratulations to Dontae \"dontaelsprince\", a huge fan of mine who won this signed jersey from my free app. http://road.ie/Cristiano Timeline Photos",
-          1336223738
+          "Good to have friends everywhere. Thank you Manchester United Manchester United United legend Cristiano Ronaldo wins the Spanish league title with Real Madrid. Viva Ronaldo!",
+          1336145447
         ],
         [
           "Campeones !!!!",
           1335990102
         ],
         [
+          "Thank You all for the support! We have lot to win and we are focused on that objective. Hala Madrid!",
+          1335464049
+        ],
+        [
           "Check out the exciting new announcement of PES 2013! PES2013 Debut Trailer Make sure to follow us at: http://www.konami-pes2013.com http://www.facebook.com/PES http://www.twitter.com/jonmurphy_PES http://www.youtube.com/officialPES",
           1335279852
+        ],
+        [
+          "Mission accomplished. Thank you for the support today on our win against Barcelona. Cristiano Ronaldo's Photo Mission accomplished. Thank you for the support today on our win against Barcelona.",
+          1335038363
         ],
         [
           "Have you seen this yet?  Pro Evolution Soccer Curtains up for PES 2013 - Watch the new Teaser Video starring Cristiano Ronaldo!",
@@ -4932,14 +4943,14 @@
           1325429674
         ]
       ],
-      "dates_start": 1369389128,
-      "dates_end": 1460245649,
-      "likes_avg": 372073,
-      "likes_stdev": 458128,
-      "comments_avg": 8823,
-      "comments_stdev": 13544,
-      "shares_avg": 13538,
-      "shares_stdev": 65108
+      "dates_start": 1360592819,
+      "dates_end": 1448249512,
+      "likes_avg": 302367,
+      "likes_stdev": 362569,
+      "comments_avg": 7381,
+      "comments_stdev": 6708,
+      "shares_avg": 8041,
+      "shares_stdev": 11848
     }
   ]
 }

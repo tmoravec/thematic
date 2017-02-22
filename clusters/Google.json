@@ -1,97 +1,30 @@
 {
   "pagename": "Google",
+  "page_name_displayed": "Google",
   "globalstats": {
-    "messages": 808,
-    "likes_avg": 2524,
-    "likes_stdev": 5241,
-    "comments_avg": 405,
-    "comments_stdev": 963,
-    "shares_avg": 457,
-    "shares_stdev": 2182,
+    "fan_count": 21830502,
+    "messages": 811,
+    "likes_avg": 2538,
+    "likes_stdev": 5089,
+    "comments_avg": 392,
+    "comments_stdev": 869,
+    "shares_avg": 386,
+    "shares_stdev": 1162,
     "graph_uri": "clusters/Google.png"
   },
   "clusters": [
     {
       "number": 1,
       "important": [
-        "experi",
-        "virtual",
-        "get",
-        "new",
-        "timelin",
-        "googl",
-        "new googl",
-        "chrome",
-        "way",
-        "photo"
-      ],
-      "common": [
-        "chrome",
-        "chrome experiment",
-        "experiment",
-        "gl",
-        "goo",
-        "google",
-        "google chrome",
-        "http",
-        "new",
-        "web"
-      ],
-      "messages": [
-        [
-          "Kick, dribble and shoot your way to virtual soccer stardom in a new Google Chrome Experiment, \u201cKick with Chrome.\u201d Get your football fever on at g.co/KickWithChrome Timeline Photos",
-          1403260801
-        ],
-        [
-          "Get to know the Rubik\u2019s Cube from a few new angles with Chrome Cube Lab, a series of +Google Chrome Experiments by designers and technologists that reinterpret Rubik\u2019s puzzle for the web. https://chrome.com/cubelab Timeline Photos",
-          1400511601
-        ],
-        [
-          "Start your creative engines. Build anything you can imagine using trillions of LEGO\u00ae bricks and the web in a new Google Chrome Experiment, Build with Chrome: http://goo.gl/cL41g3 Build: A Chrome Experiment with LEGO\u00ae Build with Chrome brings the world's biggest LEGO set to the web. Start building at www.buildwithchrome.com.",
-          1390924590
-        ],
-        [
-          "From Rivendell to the Lonely Mountain, share in the Dwarves' adventure and face down the Dragon Smaug in \"A Journey to Middle-earth,\" a Google Chrome Experiment for all fans of The Hobbit. http://goo.gl/pKG2t8 The Hobbit: The Desolation of Smaug Explore the world of #TheHobbit The Desolation of Smaug with A Journey Through Middle-earth, a Chrome Experiment.",
-          1386855388
-        ],
-        [
-          "Looking for someone to share in an adventure...explore Middle-earth in a new Google Chrome experiment: http://goo.gl/TheHobbit. More info: http://goo.gl/p7GmNA Journey through Middle-earth, a Chrome Experiment Take a journey through Middle-earth in the latest Chrome Experiment. Start your adventure: goo.gl/TheHobbit.",
-          1384970291
-        ],
-        [
-          "A new Google Chrome Experiment visualizes the stars in our galaxy using modern browser technology. Start exploring our stellar neighborhood at http://g.co/100000stars. 100,000 Stars An interactive 3D visualization of the stellar neighborhood, including over 100,000 nearby stars. Created for the Google Chrome web browser.",
-          1353441987
-        ],
-        [
-          "Check out \"The Bravest Man in the Universe,\" a new interactive music video made for Chrome on your phone.\n\nTo listen and play, visit http://goo.gl/EVTS8 on a mobile browser or just head to http://m.chromeexperiments.com. Bravest Man in the Universe - Mobile Chrome Experiment Teaser Teaser video for the Bravest Man in the Universe mobile Chrome Experiement",
-          1343414166
-        ],
-        [
-          "Check out the Chrome Web Lab where you can get creative with five awesome experiments:\n\nhttp://www.chromeweblab.com/ Web Lab (beta) Enter Web Lab, a series of interactive Chrome Experiments made by Google that bring the extraordinary workings of the internet to life. A first-of-its-kind w...",
-          1343158389
-        ]
-      ],
-      "dates_start": 1352327730,
-      "dates_end": 1399306572,
-      "likes_avg": 990,
-      "likes_stdev": 604,
-      "comments_avg": 223,
-      "comments_stdev": 204,
-      "shares_avg": 261,
-      "shares_stdev": 314
-    },
-    {
-      "number": 2,
-      "important": [
-        "behind",
-        "go",
         "world",
-        "nation",
+        "behind",
         "nation park",
-        "park",
         "video",
+        "go",
         "access",
         "explor",
+        "park",
+        "nation",
         "journey"
       ],
       "common": [
@@ -142,168 +75,26 @@
       ],
       "dates_start": 1472287539,
       "dates_end": 1472963312,
-      "likes_avg": 7800,
-      "likes_stdev": 14133,
+      "likes_avg": 7798,
+      "likes_stdev": 14129,
       "comments_avg": 613,
       "comments_stdev": 1114,
-      "shares_avg": 3719,
-      "shares_stdev": 6368
+      "shares_avg": 3718,
+      "shares_stdev": 6366
     },
     {
-      "number": 3,
+      "number": 2,
       "important": [
-        "sinc",
-        "launch",
-        "pride",
-        "experi",
-        "virtual",
-        "bring",
-        "could",
-        "realiti",
-        "life",
-        "watch"
-      ],
-      "common": [
-        "cardboard",
-        "experience",
-        "google",
-        "love",
-        "pride",
-        "pride parades",
-        "prideforeveryone",
-        "reality",
-        "virtual",
-        "virtual reality"
-      ],
-      "messages": [
-        [
-          "#prideforeveryone, no matter where you are. Watch how Cardboard brings pride parades to life for Colombian youth \u2192 https://youtu.be/NtETTH1VmH8 Celebrating Virtual Pride in Bogot\u00e0, Colombia #prideforeveryone Earlier this year, we launched #prideforeveryone, a virtual reality Pride experience that anyone, anywhere could experience. Since then, we\u2019ve sent Google Ca...",
-          1481749580
-        ],
-        [
-          "This year we delivered Google Cardboard to LGBT organizations around the world to bring #prideforeveryone. Watch how the Fundacion Sergio Urrego is using virtual reality to give youth across Colombia the opportunity to experience global pride parades \u2192 goo.gl/944UHB Celebrating Virtual Pride in Bogot\u00e0, Colombia #prideforeveryone",
-          1481664975
-        ],
-        [
-          "Pride is a time to celebrate who you are and who you love. Yet around the world many LGBTQ people are unable to express themselves freely. #prideforeveryone is a virtual reality experience that helps bring Pride to those who cannot march: g.co/prideforeveryone Be who you are. Love who you love. #prideforeveryone",
-          1467142830
-        ],
-        [
-          "Hundreds of Googlers are marching in SF and NY #Pride parades today. But no matter where you are today, you can experience Pride with #prideforeveryone \u2192 g.co/prideforeveryone #prideforeveryone",
-          1466954240
-        ],
-        [
-          "We made a special Google Cardboard viewer to celebrate #prideforeveryone. We\u2019re sending them around the world\u2014giving people a way to experience #pride, no matter where they are. g.co/prideforeveryone #prideforeveryone Cardboard",
-          1466852428
-        ],
-        [
-          "Googlers from 25 countries have been marching in their local Pride parades, celebrating and documenting the global LGBTQ community. Now anyone can experience #prideforeveryone in 360 degrees, with virtual reality and Google Cardboard \u2192 g.co/go/pride2016 #prideforeveryone",
-          1466780923
-        ],
-        [
-          "Pride is a time to celebrate who you are and who you love. Yet around the world many LGBTQ people are unable to express themselves freely. That\u2019s why we created #prideforeveryone\u2014a virtual reality experience that helps bring Pride to those who cannot march: google.com/prideforeveryone. Be who you are. Love who you love. #prideforeveryone",
-          1466718187
-        ],
-        [
-          "Show your Pride no matter where you are. Join NYC Pride, Mashable, and LGBT advocates and allies across the country as we celebrate our progress and envision the road ahead. Tune into the #Pridecast, live from the NYC Pride March at 12:30 pm ET today at youtube.com/mashable Timeline Photos",
-          1404051635
-        ]
-      ],
-      "dates_start": 1439690339,
-      "dates_end": 1485788359,
-      "likes_avg": 2686,
-      "likes_stdev": 4254,
-      "comments_avg": 262,
-      "comments_stdev": 221,
-      "shares_avg": 1022,
-      "shares_stdev": 2351
-    },
-    {
-      "number": 4,
-      "important": [
-        "creat",
-        "world",
-        "glass",
-        "two",
-        "day",
-        "behind",
-        "explor",
-        "watch",
-        "meet",
-        "stori"
-      ],
-      "common": [
-        "alex",
-        "explorer",
-        "explorer story",
-        "glass",
-        "glass explorer",
-        "google",
-        "google glass",
-        "guru",
-        "meet",
-        "story"
-      ],
-      "messages": [
-        [
-          "Two words: pureed leprechaun. Watch as Google Glass Explorer and co-founder of Los Angeles' legendary Kogi BBQ truck creates a special recipe for St. Patrick's Day #throughglass: http://goo.gl/FW6qNl Google Glass Explorer Story: Roy Choi Meet Roy Choi. He's a Glass Explorer, co-founder of Kogi BBQ, and the world famous chef behind the gourmet food truck movement. Step into the kitchen with Ro...",
-          1394895601
-        ],
-        [
-          "Our latest Google Glass Explorer is building Glassware that he hopes will help firefighters in the field. Watch his story: Explorer Story: Patrick Jackson [through Google Glass] Meet Patrick Jackson. He's a Google Glass Explorer, developer and firefighter from Rocky Mount, North Carolina. Patrick is building Glassware that he hopes c...",
-          1390327953
-        ],
-        [
-          "Meet Young Guru\u2014Glass Explorer, DJ, producer and audio engineer who has helped shape the sound of artists like Jay-Z, Rihanna and Beyonc\u00e9. You may notice Guru is using a few new Google Glass features we've been working on\u2014access to Google Play Music and All Access, and special stereo earbuds made just for Glass. Join Guru on the hunt for sound inspiration in Los Angeles in our video, and learn more about music coming to Glass at google.com/glass. Explorer Story: Young Guru [through Google Glass] Meet Young Guru. He's a Glass Explorer, acclaimed DJ, producer and audio engineer who has helped shape the sound of music legends including Jay-Z, Rihanna, a...",
-          1384275601
-        ],
-        [
-          "\"Double, double toil and trouble; fire burn, and caldron bubble!\" Choose what ingredients enter our witch\u2019s boiling pot on today\u2019s Halloween doodle and see what spooky concoctions you can cook up. Once you\u2019ve stirred up some mischief, don\u2019t forget to click the magnifying glass for some more Halloween fun: www.google.com \n\n#GoogleHalloween Timeline Photos",
-          1383220823
-        ],
-        [
-          "From Fairbanks to Fargo, Houston to Honolulu, Google Glass Explorers across the United States have been doing amazing things with Glass. Take a look at all 50 states #throughglass. Explorer Story: 50 States [through Google Glass] From Fairbanks to Fargo, Houston to Honolulu, Glass Explorers across the country have been doing amazing things. Join us on a quick tour of some of our Explo...",
-          1382994524
-        ],
-        [
-          "See Google Glass in Vogue's #TheSeptemberIssue: http://goo.gl/6eot1T Vogue Our futuristic view of fashion in #TheSeptemberIssue would not be complete without Google Glass: http://bit.ly/14iUI69",
-          1377113991
-        ],
-        [
-          "Meet Alex Blaszczuk: Glass Explorer, law student, and owner of a 20lb cat. In the fall of 2011, a car accident en route to a celebratory camping trip left Alex paralyzed from the chest down, unable to use her hands. Last month, Alex finally made it camping and shared her story #throughglass. \n\nTo learn more about Alex and her adventures with Glass, visit: alexbtrust.org \n\nThis entire film was shot through Glass. Explorer Story: Alex Blaszczuk [through Google Glass] Meet Alex Blaszczuk: Glass Explorer, law student, and owner of a 20lb cat. In the fall of 2011, a car accident en route to a celebratory camping trip left Al...",
-          1375883842
-        ],
-        [
-          "Meet pro WTA tennis player and Glass Explorer Bethanie Mattek-Sands as she prepares for Wimbledon. She\u2019s been using Glass to organize her busy life off the court, and get a new perspective on her game.   \n\nThis film was shot entirely through Glass. #glassexplorers  #wta Explorer Story: Bethanie Mattek-Sands [through Glass] Meet pro tennis player and Glass Explorer Bethanie Mattek-Sands as she prepares for Wimbledon. She's been using Google Glass to organize her busy life off th...",
-          1372098285
-        ],
-        [
-          "Join physics teacher and Glass Explorer Andrew Vanden Heuvel as he takes a classroom on a virtual field trip into the Large Hadron Collider through Glass. Explorer Story: Andrew Vanden Heuvel [through Glass] Join us as physics teacher/Glass Explorer Andrew Vanden Heuvel takes a classroom on a virtual field trip into the Large Hadron Collider. Learn more about And...",
-          1367880445
-        ]
-      ],
-      "dates_start": 1372852810,
-      "dates_end": 1389078537,
-      "likes_avg": 927,
-      "likes_stdev": 599,
-      "comments_avg": 236,
-      "comments_stdev": 126,
-      "shares_avg": 132,
-      "shares_stdev": 94
-    },
-    {
-      "number": 5,
-      "important": [
-        "okgoogl",
-        "ani",
-        "stop",
-        "ask",
-        "search",
+        "even",
         "answer",
         "access",
-        "question",
-        "even",
-        "small"
+        "search",
+        "ask",
+        "stop",
+        "ani",
+        "small",
+        "okgoogl",
+        "question"
       ],
       "common": [
         "2015",
@@ -365,18 +156,18 @@
       "shares_stdev": 127
     },
     {
-      "number": 6,
+      "number": 3,
       "important": [
-        "give",
-        "yearinsearch timelin",
-        "us",
         "trend",
-        "star",
-        "yearinsearch",
-        "timelin",
-        "access",
+        "yearinsearch timelin",
         "data",
-        "photo"
+        "yearinsearch",
+        "access",
+        "photo",
+        "us",
+        "give",
+        "timelin",
+        "star"
       ],
       "common": [
         "2014",
@@ -442,18 +233,18 @@
       "shares_stdev": 52
     },
     {
-      "number": 7,
+      "number": 4,
       "important": [
-        "announc",
-        "tour",
-        "googl",
-        "timelin",
         "googl scienc",
         "big",
-        "access",
         "live",
-        "scienc",
-        "photo"
+        "access",
+        "announc",
+        "googl",
+        "tour",
+        "timelin",
+        "photo",
+        "scienc"
       ],
       "common": [
         "2014",
@@ -512,39 +303,43 @@
       "dates_start": 1356679755,
       "dates_end": 1425646804,
       "likes_avg": 1078,
-      "likes_stdev": 766,
-      "comments_avg": 727,
-      "comments_stdev": 1676,
+      "likes_stdev": 765,
+      "comments_avg": 726,
+      "comments_stdev": 1674,
       "shares_avg": 162,
       "shares_stdev": 201
     },
     {
-      "number": 8,
+      "number": 5,
       "important": [
-        "doodl googl",
-        "doodl",
-        "googl photo",
-        "join",
         "play",
+        "internet",
+        "join",
         "game",
-        "googl",
+        "lo",
         "access",
-        "googl doodl",
-        "lo"
+        "doodl",
+        "googl",
+        "get",
+        "glass"
       ],
       "common": [
+        "behind",
         "co",
         "co go",
         "games",
         "go",
         "google",
-        "learn",
         "lo",
         "nat",
         "nat lo",
-        "photos"
+        "works"
       ],
       "messages": [
+        [
+          "These tiny strands of glass do what? Get the skinny on how fiber optic cables light up the internet with Nat & Lo \u2192 g.co/go/NLFiber Nat & Lo - Fiber Optics",
+          1487359346
+        ],
         [
           "G is for Google... and games. From dinosaurs to Doodles to drawing, join Nat & Lo for the lowdown on what to play \u2192 https://goo.gl/1q1f1f Nat & Lo: 5 Google Games",
           1485464349
@@ -590,113 +385,28 @@
           1464870332
         ]
       ],
-      "dates_start": 1469176937,
-      "dates_end": 1482011436,
-      "likes_avg": 662,
-      "likes_stdev": 151,
-      "comments_avg": 150,
-      "comments_stdev": 94,
-      "shares_avg": 80,
-      "shares_stdev": 32
+      "dates_start": 1469623141,
+      "dates_end": 1483526091,
+      "likes_avg": 654,
+      "likes_stdev": 148,
+      "comments_avg": 147,
+      "comments_stdev": 90,
+      "shares_avg": 78,
+      "shares_stdev": 31
     },
     {
-      "number": 9,
+      "number": 6,
       "important": [
-        "design",
-        "madebygoogl",
-        "insid",
-        "devic",
-        "phone",
-        "readi",
-        "googl",
-        "access",
-        "first",
-        "meet"
-      ],
-      "common": [
-        "gl",
-        "goo",
-        "goo gl",
-        "google",
-        "internet",
-        "nest",
-        "phone",
-        "protect",
-        "speak2tweet",
-        "tweet"
-      ],
-      "messages": [
-        [
-          "Tributes by you. Phone by Google. \ud83d\udc9c #Pixel Tributes by you. Phone by Google.",
-          1486955757
-        ],
-        [
-          "Meet #Pixel \u2014 the first phone designed inside and out by Google. #madebygoogle Pixel, Phone by Google",
-          1475594012
-        ],
-        [
-          "Ready, set, #Tango. The first Tango-enabled device is here to make your phone even smarter. https://goo.gl/9qSX3B Brothers_Twitter_v01 (1).mp4",
-          1465496972
-        ],
-        [
-          "Two new Nexus phones, Chromecast updates, the Pixel C tablet, and Android Marshmallow coming to a device near you. Read all about it \u2192 http://goo.gl/klbhET Timeline Photos",
-          1443540461
-        ],
-        [
-          "Phone guts! Check out what\u2019s inside your phone and learn what all the stuff does in the newest #NatandLo episode \u2192 g.co/go/NLphone",
-          1439225031
-        ],
-        [
-          "Want to turn your phone into an instant text translator? Watch this #NatandLo episode and find out how \u2192 g.co/go/NLtranslate",
-          1438285401
-        ],
-        [
-          "To wrap up our #hurricaneprep posts this week, the Google Crisis Response team wanted to share some gadgets which can be helpful during a crisis:\n> A waterproof case can help protect your phone during floods and heavy rains: goo.gl/Hrb87M\n> A solar powered battery charger helps keep your phone\u2019s battery alive - mobile networks are more resilient than power lines: goo.gl/wTjsIF\n> A cell phone signal booster gives you a greater chance of connecting to an operational cell tower: goo.gl/rzZm57 Timeline Photos",
-          1401378748
-        ],
-        [
-          "Now you can just ask a quick question on your Android phone to find last-minute hotel and restaurant reservations,  and filter by price, neighborhood and more. Timeline Photos",
-          1398441928
-        ],
-        [
-          "Meet Nest Protect, the first smoke and carbon monoxide alarm that won't drive you crazy. Backed by Google Ventures, Nest is turning unloved home products into simple, beautiful, and thoughtful things: http://nest.com/#meet-the-nest-protect http://www.wired.com/business/2013/10/nest-smoke-detector/ The $129 Nest Protect, launching this fall, is a handsome white square with rounded corners and an op-arty sunflower pattern. When smoke or carbon monoxide reaches a government-specified level of peril, the device performs like every other alarm. But what sets Nest Protect apart is its vocal warning...",
-          1381250199
-        ],
-        [
-          "Internet access has been completely cut off in Syria in the past few hours. Mobile phones and landlines may not be working properly either. But those who still have a phone connection can still use Speak2Tweet by leaving a voicemail on one of these international phone numbers (+90 212 339 1447 or +30 21 1 198 2716 or +39 06 62207294 or +1 650 419 4196). Press 1 to leave a voicemail and # when you\u2019re done, and the service will tweet the message. No Internet connection is required, and people can listen to the messages by dialing the same phone numbers or going to twitter.com/speak2tweet. Speak To Tweet (speak2tweet) on Twitter The latest from Speak To Tweet (@speak2tweet). Click the link in each tweet to hear a voice tweet. Call +902123391447 or +302111982716 or +390662207294 or +16504194196. Press 1 to tweet, 2 to hear tweets",
-          1367957197
-        ],
-        [
-          "Did Santa get you a new phone or tablet? Deck out your device with these 5 must-have apps: http://goo.gl/zFydd New Devices",
-          1356654780
-        ],
-        [
-          "A little less than two years ago, when Internet access was cut off in Egypt, we worked with Twitter to launch Speak2Tweet, giving the ability for anyone to tweet using just a voice connection. \r\n\r\nIn the last day, Internet access has been completely cut off in Syria. Unfortunately we are hearing reports that mobile phones and landlines aren\u2019t working properly either. But those who might be lucky enough to have a voice connection can still use Speak2Tweet by simply leaving a voicemail on one of these international phone numbers (+90 212 339 1447 or +30 21 1 198 2716 or +39 06 62207294 or +1 650 419 4196), and the service will tweet the message. No Internet connection is required, and people can listen to the messages by dialing the same phone numbers or going to twitter.com/speak2tweet. Timeline Photos",
-          1354258162
-        ]
-      ],
-      "dates_start": 1372532920,
-      "dates_end": 1462306854,
-      "likes_avg": 5538,
-      "likes_stdev": 12367,
-      "comments_avg": 1379,
-      "comments_stdev": 3349,
-      "shares_avg": 4161,
-      "shares_stdev": 12721
-    },
-    {
-      "number": 10,
-      "important": [
-        "first",
-        "happi birthday",
-        "translat",
-        "googl",
-        "say",
-        "happi",
-        "use",
         "birthday",
+        "use",
         "googl translat",
-        "access"
+        "happi",
+        "happi birthday",
+        "first",
+        "access",
+        "say",
+        "googl",
+        "translat"
       ],
       "common": [
         "birthday",
@@ -767,25 +477,25 @@
       "dates_start": 1368427345,
       "dates_end": 1430155491,
       "likes_avg": 3172,
-      "likes_stdev": 4139,
+      "likes_stdev": 4138,
       "comments_avg": 1506,
-      "comments_stdev": 4072,
+      "comments_stdev": 4071,
       "shares_avg": 279,
       "shares_stdev": 383
     },
     {
-      "number": 11,
+      "number": 7,
       "important": [
-        "help",
-        "right",
-        "find",
-        "translat",
-        "learn",
-        "say",
         "use",
+        "right",
         "googl translat",
         "data",
-        "meet"
+        "meet",
+        "say",
+        "help",
+        "find",
+        "translat",
+        "learn"
       ],
       "common": [
         "gl",
@@ -867,215 +577,25 @@
       "shares_stdev": 380
     },
     {
-      "number": 12,
+      "number": 8,
       "important": [
-        "googl app",
-        "local",
-        "music",
-        "play",
-        "find",
-        "ask",
-        "app",
-        "ask googl",
-        "get",
-        "answer"
-      ],
-      "common": [
-        "app",
-        "ask",
-        "ask google",
-        "ask google app",
-        "goo",
-        "google",
-        "google app",
-        "http",
-        "http goo gl",
-        "right"
-      ],
-      "messages": [
-        [
-          "Try it \u2192 g.co/googleapp Ask the Google app. Get answers, play music, find local recommendations and more.",
-          1418417911
-        ],
-        [
-          "Ever wonder what\u2019s inside a coconut? Like, REALLY inside? Next time you crack one open, ask Google for nutritional information like \u201cOk Google, how much sugar is in a coconut?\u201d You can even compare two foods side by side.",
-          1412614288
-        ],
-        [
-          "Whether you\u2019re using them to count or type, give your fingers a break -- ask the Google app to do the math.",
-          1412188390
-        ],
-        [
-          "Picking up a new language can be tricky. Ask the Google app for help.",
-          1412020052
-        ],
-        [
-          "Ask the Google app about the weather. It\u2019s like having an on-call meteorologist in your pocket.",
-          1411668660
-        ],
-        [
-          "Looking for a last minute summer adventure? Open the Google app and ask, \u201cOk Google, where\u2019s the nearest beach?\u201d Timeline Photos",
-          1410023521
-        ],
-        [
-          "Ever wonder how your favorite summer party accessories work? Just ask the Google app. Timeline Photos",
-          1409331118
-        ],
-        [
-          "Want to go where everybody knows your name? Don\u2019t let them remember you for shorting the bartender. Ask the Google app if you need help after a few rounds: \u201cHow much is the tip on a $27 bill?\u201d \n\nGet the app for iOS: http://g.co/googleapp Timeline Photos",
-          1408651409
-        ],
-        [
-          "Summer storms around the corner? Ask the Google app if you need an umbrella this weekend. On iOS at http://goo.gl/vXVzF or Android at http://goo.gl/gZ5VHV.",
-          1406232000
-        ],
-        [
-          "The Court of Justice of the European Union says there\u2019s a \u201cright to be forgotten\u201d online. We\u2019ve asked a group of outside experts to help advise us on the issue and they want to hear from you: How should we balance this right with the public\u2019s right to know?  Advisory Council \u2013 Google Advisory Council A recent ruling by the Court of Justice of the European Union found that European law gives people the right to ask search engines like Google to remove results for queries that include their name.",
-          1405080512
-        ],
-        [
-          "You can find companies\u2019 customer service numbers on the web, but why poke around? Just ask the Google app -- you\u2019ll be on hold in no time. On iOS at http://goo.gl/vXVzF or Android at http://goo.gl/gZ5VHV.",
-          1405014300
-        ],
-        [
-          "Need a recipe for Sunday brunch? Just ask Google, \u201cHow do I make banana cinnamon French toast?\u201d and see recommendations from culinary experts by opening their apps from the search results page.",
-          1402843825
-        ],
-        [
-          "There's a whole galaxy of information out there. Just ask Google to \"compare Callisto vs. moon\" (or \"apples vs. oranges\") for a side-by-side look at how the two entities compare.",
-          1402074023
-        ],
-        [
-          "Get answers before you even ask with Google Now, now available on iPad and iPhone.   \n\nDownload the app here: http://goo.gl/D9e1A Google Now for iPhone and iPad Introducing Google Now for iOS. Just the right information, at just the right time, before you even ask. Weather, traffic, transit schedules, even the latest...",
-          1367263224
-        ]
-      ],
-      "dates_start": 1394411697,
-      "dates_end": 1417505907,
-      "likes_avg": 895,
-      "likes_stdev": 274,
-      "comments_avg": 264,
-      "comments_stdev": 199,
-      "shares_avg": 84,
-      "shares_stdev": 46
-    },
-    {
-      "number": 13,
-      "important": [
-        "one",
-        "today",
-        "wonder",
-        "match",
-        "timelin",
-        "back",
-        "turn",
-        "worldcup",
-        "access",
-        "photo"
-      ],
-      "common": [
-        "google",
-        "match",
-        "photos",
-        "search",
-        "timeline",
-        "timeline photos",
-        "today",
-        "worldcup",
-        "worldcup timeline",
-        "worldcup timeline photos"
-      ],
-      "messages": [
-        [
-          "That wrong turn back at Mars was totally worth it. #WorldCup Timeline Photos",
-          1404933940
-        ],
-        [
-          "Germany has one message for the #WorldCup final\u2014Guten Tag! Timeline Photos",
-          1404862607
-        ],
-        [
-          "It\u2019s a battle for South America in today\u2019s #WorldCup match. Timeline Photos",
-          1403964245
-        ],
-        [
-          "No wonder he's jumping for joy.  #GoogleTrends #worldcup Timeline Photos",
-          1403390123
-        ],
-        [
-          "Ask Rooney and you shall receive. #GoogleTrends #WorldCup Timeline Photos",
-          1403218421
-        ],
-        [
-          "Paul the Octopus makes an appearance in our #WorldCup doodle today. Which box do you think he will choose? Timeline Photos",
-          1403014209
-        ],
-        [
-          "It\u2019s a #WorldCup match between eagles and every goal gets an egg in the nest. Timeline Photos",
-          1402952614
-        ],
-        [
-          "\u201cNous voudrions aller voir un match de football.\u201d Search interest in France\u2019s #WorldCup team doubled that of searches for tennis stars Tsonga, Gasquet and Monfils together. #GoogleTrends google.com/worldcup Timeline Photos",
-          1402850913
-        ],
-        [
-          "#ENG and #ITA take the pitch today for a #WorldCup rumble in the jungle. Timeline Photos",
-          1402780501
-        ],
-        [
-          "Tap into #WorldCup game cards on Google Now for detailed game & player stats, plus related articles about each match. goo.gl/4OwgqZ Timeline Photos",
-          1402747330
-        ],
-        [
-          "\"La Furia Roja\" takes on the \"Oranje\" in a rematch of last year\u2019s #WorldCup final. Who do you think will come out on top today? Timeline Photos",
-          1402681109
-        ],
-        [
-          "Forget sleeves. Brazilians are wearing their pride on their hands. #GoogleTrends #WorldCup Timeline Photos",
-          1402584170
-        ],
-        [
-          "Ready to eat, drink and dream about football? The #WorldCup is finally here. Timeline Photos",
-          1402575981
-        ],
-        [
-          "Not on a flight to Brazil for the #WorldCup? Google Now has you covered. In Google Now, select \u201cYes\u201d when asked if you\u2019re \"interested in match updates for the World Cup teams? You\u2019ll get the latest match scores and schedules, and you can tap each card for in-depth info. Get Google Now in your Google Search app on Android goo.gl/gZ5VHV, or on iPhone and iPad goo.gl/vXVzF Timeline Photos",
-          1402502532
-        ],
-        [
-          "The #WorldCup kicks off next week and #GoogleSearch has you covered with match schedules, group information and more. Starting today, search for the [world cup], and you\u2019ll see the upcoming daily match schedule. When the matches begin, a simple search for [world cup] or your favorite team will give you live scores, team rosters, and major plays.",
-          1402063685
-        ]
-      ],
-      "dates_start": 1402335098,
-      "dates_end": 1403947885,
-      "likes_avg": 1211,
-      "likes_stdev": 809,
-      "comments_avg": 85,
-      "comments_stdev": 34,
-      "shares_avg": 59,
-      "shares_stdev": 37
-    },
-    {
-      "number": 14,
-      "important": [
-        "celebr",
-        "lot",
-        "today",
-        "start",
+        "world",
+        "game",
+        "featur",
         "googledoodl",
-        "happi",
-        "timelin",
-        "access",
-        "intern",
-        "photo"
+        "doodl",
+        "googl doodl",
+        "today",
+        "way",
+        "love",
+        "onli"
       ],
       "common": [
         "gl",
         "goo",
         "goo gl",
         "googledoodle",
-        "https goo gl",
+        "https",
         "photos",
         "timeline",
         "timeline photos",
@@ -1083,6 +603,10 @@
         "today googledoodle"
       ],
       "messages": [
+        [
+          "Featuring the world's only scaly mammal, roll your way to romance with today's #GoogleDoodle game, #PangolinLove \u2192 google.com \ud83d\udc95 Google Doodle - Pangolin Love",
+          1487000477
+        ],
         [
           "To start #BlackHistoryMonth, today's #GoogleDoodle celebrates internationally acclaimed sculptor Edmonia Lewis \u2192 https://goo.gl/JvX7qN Timeline Photos",
           1485966782
@@ -1142,239 +666,231 @@
         [
           "The Loch Ness Monster is hiding in plain sight today. #GoogleDoodle Timeline Photos",
           1429638673
+        ]
+      ],
+      "dates_start": 1463049638,
+      "dates_end": 1489648474,
+      "likes_avg": 931,
+      "likes_stdev": 304,
+      "comments_avg": 146,
+      "comments_stdev": 47,
+      "shares_avg": 110,
+      "shares_stdev": 64
+    },
+    {
+      "number": 9,
+      "important": [
+        "wonder",
+        "back",
+        "access",
+        "today",
+        "worldcup",
+        "one",
+        "match",
+        "timelin",
+        "photo",
+        "turn"
+      ],
+      "common": [
+        "google",
+        "match",
+        "photos",
+        "search",
+        "timeline",
+        "timeline photos",
+        "today",
+        "worldcup",
+        "worldcup timeline",
+        "worldcup timeline photos"
+      ],
+      "messages": [
+        [
+          "That wrong turn back at Mars was totally worth it. #WorldCup Timeline Photos",
+          1404933940
+        ],
+        [
+          "Germany has one message for the #WorldCup final\u2014Guten Tag! Timeline Photos",
+          1404862607
+        ],
+        [
+          "It\u2019s a battle for South America in today\u2019s #WorldCup match. Timeline Photos",
+          1403964245
+        ],
+        [
+          "No wonder he's jumping for joy.  #GoogleTrends #worldcup Timeline Photos",
+          1403390123
+        ],
+        [
+          "Ask Rooney and you shall receive. #GoogleTrends #WorldCup Timeline Photos",
+          1403218421
+        ],
+        [
+          "Paul the Octopus makes an appearance in our #WorldCup doodle today. Which box do you think he will choose? Timeline Photos",
+          1403014209
+        ],
+        [
+          "It\u2019s a #WorldCup match between eagles and every goal gets an egg in the nest. Timeline Photos",
+          1402952614
+        ],
+        [
+          "\u201cNous voudrions aller voir un match de football.\u201d Search interest in France\u2019s #WorldCup team doubled that of searches for tennis stars Tsonga, Gasquet and Monfils together. #GoogleTrends google.com/worldcup Timeline Photos",
+          1402850913
+        ],
+        [
+          "#ENG and #ITA take the pitch today for a #WorldCup rumble in the jungle. Timeline Photos",
+          1402780501
+        ],
+        [
+          "Tap into #WorldCup game cards on Google Now for detailed game & player stats, plus related articles about each match. goo.gl/4OwgqZ Timeline Photos",
+          1402747330
+        ],
+        [
+          "\"La Furia Roja\" takes on the \"Oranje\" in a rematch of last year\u2019s #WorldCup final. Who do you think will come out on top today? Timeline Photos",
+          1402681109
         ],
         [
           "Yes, we\u2019ll take a little samba with our #WorldCup opening ceremony. Keep your eyes peeled for anything special that happens during the event... we\u2019re looking for #GoogleDoodles inspiration. Timeline Photos",
           1402607092
+        ],
+        [
+          "Forget sleeves. Brazilians are wearing their pride on their hands. #GoogleTrends #WorldCup Timeline Photos",
+          1402584170
+        ],
+        [
+          "Ready to eat, drink and dream about football? The #WorldCup is finally here. Timeline Photos",
+          1402575981
+        ],
+        [
+          "Not on a flight to Brazil for the #WorldCup? Google Now has you covered. In Google Now, select \u201cYes\u201d when asked if you\u2019re \"interested in match updates for the World Cup teams? You\u2019ll get the latest match scores and schedules, and you can tap each card for in-depth info. Get Google Now in your Google Search app on Android goo.gl/gZ5VHV, or on iPhone and iPad goo.gl/vXVzF Timeline Photos",
+          1402502532
+        ],
+        [
+          "The #WorldCup kicks off next week and #GoogleSearch has you covered with match schedules, group information and more. Starting today, search for the [world cup], and you\u2019ll see the upcoming daily match schedule. When the matches begin, a simple search for [world cup] or your favorite team will give you live scores, team rosters, and major plays.",
+          1402063685
         ]
       ],
-      "dates_start": 1449123848,
-      "dates_end": 1493025091,
-      "likes_avg": 987,
-      "likes_stdev": 353,
-      "comments_avg": 144,
-      "comments_stdev": 47,
-      "shares_avg": 106,
-      "shares_stdev": 65
+      "dates_start": 1402316661,
+      "dates_end": 1403899522,
+      "likes_avg": 1242,
+      "likes_stdev": 793,
+      "comments_avg": 86,
+      "comments_stdev": 33,
+      "shares_avg": 61,
+      "shares_stdev": 36
     },
     {
-      "number": 15,
+      "number": 10,
       "important": [
-        "today",
-        "access",
-        "inform",
-        "secur",
-        "day",
-        "keep",
-        "take",
-        "onlin",
-        "internet",
-        "safe"
-      ],
-      "common": [
-        "account",
-        "checkup",
-        "gl",
-        "goo",
-        "goo gl",
-        "https",
-        "https goo",
-        "https goo gl",
-        "security",
-        "take"
-      ],
-      "messages": [
-        [
-          "Today\u2019s #SaferInternetDay! Keep your information safe online by taking a two-minute Security Checkup \u2192 https://goo.gl/fxMVjj Safer Internet Day",
-          1486486661
-        ],
-        [
-          "Check that the apps connected to your account are ones you use and trust. Take the Security Checkup now. https://goo.gl/gRjdP1 Security Checkup Word Game",
-          1477499524
-        ],
-        [
-          "Make sure the devices signed in to your account are ones you use. Take the Security Checkup now. https://goo.gl/YL7HnV Security Check Up",
-          1476893496
-        ],
-        [
-          "Easily access your account if you\u2019re ever locked out. Take the Security Checkup to set your recovery info \u2192 https://goo.gl/9aQcb3 Security Checkup - Backup Plan",
-          1476292633
-        ],
-        [
-          "Searched for yourself lately? Now when you do, you\u2019ll find a shortcut to My Account, where you can manage your data and account security all in one place. Sign in and give it a try: www.google.com GGL_ProfileData_FB.mov",
-          1465825353
-        ],
-        [
-          "Lost your phone? We can help. Go to My Account and we\u2019ll walk you through everything you need to find your phone and secure your account and data. Check it out: https://goo.gl/ykDdrl LostDevice_FB.mov",
-          1464785735
-        ],
-        [
-          "Take your spring cleaning online with 10 simple privacy and security tips \u2192 https://goo.gl/URDh1W Take your spring cleaning online",
-          1459265761
-        ],
-        [
-          "We build security into everything we do. Learn how our services like Search, Mail, and Drive keep your information secure. https://goo.gl/mmzevD We build security into everything we do",
-          1458077710
-        ],
-        [
-          "This Valentine\u2019s Day, make sure all your online accounts feel the love. Give them strong and unique passwords to help keep them secure.  https://goo.gl/pDQep6 Give your online accounts some love",
-          1455383122
-        ],
-        [
-          "Location data can improve your map searches, commute routes, and more. Manage this and other settings at My Account \u2192 https://goo.gl/4aJBDv",
-          1446748184
-        ],
-        [
-          "A little warning makes a big difference. We\u2019ll send an alert if we detect suspicious activity in your account. Go to My Account to customize how you receive Notifications. https://goo.gl/1xqSP7",
-          1436453209
-        ],
-        [
-          "You control your content. You can download your documents, emails, photos, and more at My Account \u2192 https://goo.gl/sHlKy6",
-          1435600797
-        ],
-        [
-          "If your password is 12345, you\u2019re not alone. Visit My Account to create a stronger password and check out your security settings \u2192 https://goo.gl/kJAXL2",
-          1433779747
-        ],
-        [
-          "Introducing My Account. Take control of your data, protect your privacy, and customize how Google works for you \u2014 all in one place. Go to goo.gl/vays2s",
-          1433156939
-        ],
-        [
-          "If you\u2019re sending confidential information by mail, you wouldn\u2019t put it in a postcard. Find out how secure your email is in a new section of our Transparency Report: g.co/saferemail. Safer email",
-          1401820405
-        ],
-        [
-          "October is National Cyber Security Awareness Month. All month long, we\u2019ll be sharing tips to keep you safe online.  \n\nWant to know if a website is safe? Look for the \u201cS\u201d\u2014especially when entering passwords and credit card numbers. Web addresses that start with https:// are safer than those that start with http://. The \u201cS\u201d stands for secure and it means your connection is encrypted. http://g.co/fhns \n\n#staysafe #ncsam Timeline Photos",
-          1380621635
-        ]
-      ],
-      "dates_start": 1421650309,
-      "dates_end": 1476936054,
-      "likes_avg": 1238,
-      "likes_stdev": 565,
-      "comments_avg": 370,
-      "comments_stdev": 230,
-      "shares_avg": 311,
-      "shares_stdev": 384
-    },
-    {
-      "number": 16,
-      "important": [
-        "experi",
-        "art",
-        "access",
-        "day",
-        "new",
-        "googl",
+        "launch",
+        "pride",
+        "sinc",
         "realiti",
-        "new googl",
-        "de",
-        "cultur"
+        "experi",
+        "could",
+        "life",
+        "virtual",
+        "bring",
+        "watch"
       ],
       "common": [
-        "art",
-        "arts",
-        "culture",
-        "de",
-        "gl",
-        "goo",
+        "chrome",
+        "chrome experiment",
+        "experience",
+        "experiment",
         "goo gl",
         "google",
-        "google arts culture",
-        "new"
+        "http",
+        "pride",
+        "prideforeveryone",
+        "virtual"
       ],
       "messages": [
         [
-          "Experience Day of the Dead traditions in a new Google Arts & Culture exhibition: goo.gl/ulZczW #VivoDiaDeMuertos Google Dia de Los Muertos",
-          1478023570
+          "#prideforeveryone, no matter where you are. Watch how Cardboard brings pride parades to life for Colombian youth \u2192 https://youtu.be/NtETTH1VmH8 Celebrating Virtual Pride in Bogot\u00e0, Colombia #prideforeveryone Earlier this year, we launched #prideforeveryone, a virtual reality Pride experience that anyone, anywhere could experience. Since then, we\u2019ve sent Google Ca...",
+          1481749580
         ],
         [
-          "Explore millions of years of natural history and come face to face with dinosaurs in virtual reality, now on Google Arts & Culture \u2192 g.co/naturalhistory #PreviouslyonEarth Natural History on Google Arts & Culture",
-          1473776982
+          "This year we delivered Google Cardboard to LGBT organizations around the world to bring #prideforeveryone. Watch how the Fundacion Sergio Urrego is using virtual reality to give youth across Colombia the opportunity to experience global pride parades \u2192 goo.gl/944UHB Celebrating Virtual Pride in Bogot\u00e0, Colombia #prideforeveryone",
+          1481664975
         ],
         [
-          "Rio\u2019s favelas are bustling with creative people and businesses, and filled with arts and music. We\u2019re going #BeyondTheMap to share some remarkable stories from this overlooked side of Rio \u2192 g.co/beyondthemap Beyond the Map, Rio de Janeiro - Introduction",
-          1470151451
+          "Pride is a time to celebrate who you are and who you love. Yet around the world many LGBTQ people are unable to express themselves freely. #prideforeveryone is a virtual reality experience that helps bring Pride to those who cannot march: g.co/prideforeveryone Be who you are. Love who you love. #prideforeveryone",
+          1467142830
         ],
         [
-          "As the world\u2019s eyes turn to Rio de Janeiro, explore the Marvelous City from every angle with Google Arts & Culture \u2192 g.co/riodejaneiro #RioWithGoogle Timeline Photos",
-          1469799033
+          "Hundreds of Googlers are marching in SF and NY #Pride parades today. But no matter where you are today, you can experience Pride with #prideforeveryone \u2192 g.co/prideforeveryone #prideforeveryone",
+          1466954240
         ],
         [
-          "Immerse yourself in art, history and world wonders with the new Google Arts & Culture app and website. With powerful new tools, you can search for art by color, keyword or time \u2192 https://goo.gl/n8OIdi Meet Google Arts & Culture",
-          1468938049
+          "We made a special Google Cardboard viewer to celebrate #prideforeveryone. We\u2019re sending them around the world\u2014giving people a way to experience #pride, no matter where they are. g.co/prideforeveryone #prideforeveryone Cardboard",
+          1466852428
         ],
         [
-          "From crayons to\u2026 Kandinsky. Kids challenge art experts to #NameThatArt in a new YouTube series for @Google Arts & Culture \u2192 https://goo.gl/o8S8Yq NTA_SIZZLE_CUT_FINALWC.mov",
-          1466010106
+          "Googlers from 25 countries have been marching in their local Pride parades, celebrating and documenting the global LGBTQ community. Now anyone can experience #prideforeveryone in 360 degrees, with virtual reality and Google Cardboard \u2192 g.co/go/pride2016 #prideforeveryone",
+          1466780923
         ],
         [
-          "Street art doesn\u2019t last forever, but you can see it before it disappears. Explore more than 10,000 images from around the world and learn the stories behind them on the Art Project, powered by Google.  \u2192 g.co/streetart #StreetArtProject",
-          1426597226
+          "Pride is a time to celebrate who you are and who you love. Yet around the world many LGBTQ people are unable to express themselves freely. That\u2019s why we created #prideforeveryone\u2014a virtual reality experience that helps bring Pride to those who cannot march: google.com/prideforeveryone. Be who you are. Love who you love. #prideforeveryone",
+          1466718187
         ],
         [
-          "Imagine exploring 5,000 years worth of Chinese art, all in one place, without leaving home. Thanks to the Art Project, powered by Google., you can do just that. Starting today, you can explore 1400 new items and 48 exhibitions on Chinese art and history and get to know one of the world\u2019s oldest civilizations. There\u2019s a lot to see\u2014so now might be a great time to start: http://goo.gl/o4EhZF Timeline Photos",
-          1409860802
+          "Show your Pride no matter where you are. Join NYC Pride, Mashable, and LGBT advocates and allies across the country as we celebrate our progress and envision the road ahead. Tune into the #Pridecast, live from the NYC Pride March at 12:30 pm ET today at youtube.com/mashable Timeline Photos",
+          1404051635
         ],
         [
-          "Today, in a Hangout on Air, Pope Francis joined students around the world to talk about a new education initiative he\u2019s sponsoring called Scholas. The Scholas Occurrentes project uses the Internet and Google tools to connect schools across the globe. \n\nWatch (and practice your Spanish) here: http://www.youtube.com/watch?v=lal12wXkao8 El Papa Francisco se conecta con chicos del mundo por el lanzamiento de la Plataforma de Scholas El Papa Francisco se conecta con chicos del mundo por el lanzamiento de la Plataforma de Scholas",
-          1409850482
+          "Kick, dribble and shoot your way to virtual soccer stardom in a new Google Chrome Experiment, \u201cKick with Chrome.\u201d Get your football fever on at g.co/KickWithChrome Timeline Photos",
+          1403260801
         ],
         [
-          "We are celebrating Edward Hopper\u2019s birthday (he would have turned 132 today!) by visiting one of the most recognizable paintings in American art, \"Nighthawks.\" Dive into this carefully constructed composition and get a sense of the emotions Hopper depicts thanks to the Art Institute of Chicago via the Google Art Project: http://goo.gl/hL6Nce #GCI Nighthawks - Edward Hopper - Google Cultural Institute Edward Hopper stated that Nighthawks was inspired by \"a restaurant on New York's Greenwich Avenue where two streets meet,\" but the image, with its carefully constructed composition and lack of narrative, has a timeless quality that transcends its particular locale. The painting depicts a brightly li\u2026",
-          1406073381
+          "Get to know the Rubik\u2019s Cube from a few new angles with Chrome Cube Lab, a series of +Google Chrome Experiments by designers and technologists that reinterpret Rubik\u2019s puzzle for the web. https://chrome.com/cubelab Timeline Photos",
+          1400511601
         ],
         [
-          "To commemorate #DDay70, the Google Cultural Institute is sharing 5 new exhibits from museums in the U.S., U.K. and France: goo.gl/0w1wtd. Timeline Photos",
-          1402058122
+          "Start your creative engines. Build anything you can imagine using trillions of LEGO\u00ae bricks and the web in a new Google Chrome Experiment, Build with Chrome: http://goo.gl/cL41g3 Build: A Chrome Experiment with LEGO\u00ae Build with Chrome brings the world's biggest LEGO set to the web. Start building at www.buildwithchrome.com.",
+          1390924590
         ],
         [
-          "Julie de Muer uses Google to map the streets of #Marseille in a new way, collecting voices, sounds and stories to bring her city to life. Let her introduce you to local fishmongers and spice-sellers: http://g.co/nightwalk Julie de Muer, Conteuse Urbaine Julie de Muer parcourt les rues de Marseille afin de raconter l'Histoire de la ville au travers des sons, des voix et des histoires qu'elle recueille. Partez...",
-          1396544401
+          "From Rivendell to the Lonely Mountain, share in the Dwarves' adventure and face down the Dragon Smaug in \"A Journey to Middle-earth,\" a Google Chrome Experiment for all fans of The Hobbit. http://goo.gl/pKG2t8 The Hobbit: The Desolation of Smaug Explore the world of #TheHobbit The Desolation of Smaug with A Journey Through Middle-earth, a Chrome Experiment.",
+          1386855388
         ],
         [
-          "Tour the Palais Garnier in Paris and see Marc Chagall's magnificent ceiling in ultra high-resolution on the Google Cultural Institute: http://goo.gl/ce1wjX Timeline Photos",
-          1396285142
+          "Looking for someone to share in an adventure...explore Middle-earth in a new Google Chrome experiment: http://goo.gl/TheHobbit. More info: http://goo.gl/p7GmNA Journey through Middle-earth, a Chrome Experiment Take a journey through Middle-earth in the latest Chrome Experiment. Start your adventure: goo.gl/TheHobbit.",
+          1384970291
         ],
         [
-          "Cu\u00e1l es la definici\u00f3n de \u2026? If you use Google with Spanish settings, you can easily ask for definitions in Spanish. More info (en espa\u00f1ol): http://goo.gl/3LLqUr Timeline Photos",
-          1395849600
+          "A new Google Chrome Experiment visualizes the stars in our galaxy using modern browser technology. Start exploring our stellar neighborhood at http://g.co/100000stars. 100,000 Stars An interactive 3D visualization of the stellar neighborhood, including over 100,000 nearby stars. Created for the Google Chrome web browser.",
+          1353441987
         ],
         [
-          "Armement des toboggans... V\u00e9rification de la porte oppos\u00e9e... Envolez-vous avec Laurent!\n\nLaurent Aigon a toujours \u00e9t\u00e9 fascin\u00e9 par les avions. Ne pouvant devenir pilote de ligne, il a d\u00e9cid\u00e9 de construire lui-m\u00eame un simulateur de vol chez lui, dans sa maison de Lacanau. Il aura fallu \u00e0 cet autodidacte plus de 6000 pi\u00e8ces et de longues heures de recherche sur Google pour parvenir a r\u00e9aliser son r\u00eave. #GoogleStories Laurent Aigon: voler, \u00e0 sa mani\u00e8re Laurent Aigon est un passionn\u00e9 d'aviation qui a construit lui-m\u00eame un simulateur de vol dans sa maison de Lacanau.",
-          1383908401
+          "Check out \"The Bravest Man in the Universe,\" a new interactive music video made for Chrome on your phone.\n\nTo listen and play, visit http://goo.gl/EVTS8 on a mobile browser or just head to http://m.chromeexperiments.com. Bravest Man in the Universe - Mobile Chrome Experiment Teaser Teaser video for the Bravest Man in the Universe mobile Chrome Experiement",
+          1343414166
         ],
         [
-          "Visit google.com today and be transported to a moonlit night in Paris, set to Claude Debussy's classic piece \"Clair de Lune.\" This animated doodle celebrates the French composer, who would have been 151 years old today. Timeline Photos",
-          1377185215
-        ],
-        [
-          "We\u2019re celebrating the 52nd birthday of Brasilia with a Doodle on Brazil\u2019s homepage drawn by Oscar Niemeyer, the architect who designed many of its buildings. His great works, such as Brasilia\u2019s Cathedral, the Kubitschek Memorial and the Three Powers Square are some of the monuments that make the city a UNESCO World Heritage site.\n\nGoogle est\u00e1 celebrando hoje o 52\u00ba anivers\u00e1rio de Brasilia com um Doodle criado a partir dos desenhos originais de Oscar Niemeyer. Suas grandes obras, como a  Catedral de Bras\u00edlia, o Memorial Juscelino Kubitschek ou a Pra\u00e7a dos Tr\u00eas Poderes s\u00e3o alguns dos monumentos que fizeram a cidade ser considerada Patrim\u00f4nio da Mundial da Humanidade pela Unesco. Timeline Photos",
-          1335020689
+          "Check out the Chrome Web Lab where you can get creative with five awesome experiments:\n\nhttp://www.chromeweblab.com/ Web Lab (beta) Enter Web Lab, a series of interactive Chrome Experiments made by Google that bring the extraordinary workings of the internet to life. A first-of-its-kind w...",
+          1343158389
         ]
       ],
-      "dates_start": 1380548908,
-      "dates_end": 1462501992,
-      "likes_avg": 1419,
-      "likes_stdev": 2263,
-      "comments_avg": 331,
-      "comments_stdev": 456,
-      "shares_avg": 222,
-      "shares_stdev": 262
+      "dates_start": 1369979447,
+      "dates_end": 1468577054,
+      "likes_avg": 1838,
+      "likes_stdev": 3155,
+      "comments_avg": 243,
+      "comments_stdev": 214,
+      "shares_avg": 641,
+      "shares_stdev": 1719
     },
     {
-      "number": 17,
+      "number": 11,
       "important": [
-        "good",
-        "fan",
-        "timelin",
-        "googletrend",
-        "access",
         "think",
-        "googletrend timelin",
+        "googletrend",
         "head",
         "meet",
+        "access",
+        "good",
+        "googletrend timelin",
+        "fan",
+        "timelin",
         "photo"
       ],
       "common": [
@@ -1473,18 +989,18 @@
       "shares_stdev": 34
     },
     {
-      "number": 18,
+      "number": 12,
       "important": [
-        "android",
-        "find",
-        "app",
         "could",
-        "ask",
         "googl search",
-        "io",
+        "android",
         "search",
-        "ask googl",
-        "googl search app"
+        "find",
+        "ask",
+        "googl search app",
+        "io",
+        "app",
+        "ask googl"
       ],
       "common": [
         "app",
@@ -1586,131 +1102,18 @@
       "shares_stdev": 118
     },
     {
-      "number": 19,
-      "important": [
-        "moment",
-        "befor",
-        "look",
-        "yearinsearch",
-        "back",
-        "let",
-        "search",
-        "take",
-        "year",
-        "access"
-      ],
-      "common": [
-        "2014",
-        "com",
-        "google",
-        "google com",
-        "http",
-        "search",
-        "searched",
-        "world",
-        "year",
-        "zeitgeist"
-      ],
-      "messages": [
-        [
-          "Before we ring in 2017, let\u2019s take a look back through the moments that defined 2016. #YearInSearch g.co/2016 Year In Search 2016",
-          1483202666
-        ],
-        [
-          "Creatures big and small had us captivated in 2016 with puppies, three-toed sloths, and more searched at all-time high this year. #YearInSearch g.co/2016 Creatures - #YearInSearch 2016",
-          1483040434
-        ],
-        [
-          "As 2016 draws to a close, let\u2019s take a look back through the moments that defined it. #YearInSearch g.co/2016 Year In Search 2016",
-          1482769429
-        ],
-        [
-          "Kickboxing was a big hit after the Rousey vs. Holm fight. #YearInSearch  http://goo.gl/Z06xCK How do I learn to kickbox?",
-          1451409707
-        ],
-        [
-          "Ok Google, how big are polar bears? http://goo.gl/RcjL0q Timeline Photos",
-          1425064594
-        ],
-        [
-          "In 2014 we searched trillions of times. Take a little look at a big #YearInSearch g.co/2014 Discover the top searches made in 2014 with Google\u2019s Year in Search What we search for says a lot about us. Explore the stories of 2014 through the searches made around the world. http://www.google.com/2014",
-          1420052574
-        ],
-        [
-          "Many moments of hope this #YearInSearch: We searched more for \u201cmh370 found\u201d than \u201cmh370 lost.\u201d Watch the film: g.co/2014 Timeline Photos",
-          1419182102
-        ],
-        [
-          "A little look at a big #YearInSearch, LEGO style: We\u2019ve recreated some of 2014\u2019s most memorable moments\u2013brick by brick\u2013and we\u2019ll share them with you from now until the end of the year.\n\nSee more Year in Search moments: g.co/2014 Timeline Photos",
-          1419095781
-        ],
-        [
-          "Today we\u2019re launching our annual Year In Search, a look back at the searches, questions and moments that defined 2014. \n\nWatch the film, explore the site and relive the year along the way. www.google.com/2014 Discover the top searches made in 2014 with Google\u2019s Year in Search What we search for says a lot about us. Explore the stories of 2014 through the searches made around the world at the http://www.google.com/2014.",
-          1418736730
-        ],
-        [
-          "From the stars to the selfie seen around the world, here are the top searches and questions from #GoogleSearch at the #Oscars: Timeline Photos",
-          1393822177
-        ],
-        [
-          "\"It always seems impossible until it\u2019s done.\" -Nelson Mandela\n\nGood luck in whatever you're searching for this year. Search on. \n\n#Zeitgeist2013 Google Zeitgeist | Here's to 2013 Zeitgeist 2013 http://www.google.com/zeitgeist #zeitgeist2013 Discover what the world searched for with Google's year in review. Music: \"Feels Like Coming Ho...",
-          1388595601
-        ],
-        [
-          "What did the world search for this year? Remember the moments of 2013 with us.\n\n#Zeitgeist2013 Google Zeitgeist | Here's to 2013 Zeitgeist 2013 http://www.google.com/zeitgeist #zeitgeist2013 Discover what the world searched for with Google's year in review. Music: \"Feels Like Coming Ho...",
-          1388505601
-        ],
-        [
-          "Looking for a new start in the new year? Get inspired by the top workout searches in #Zeitgeist2013: http://goo.gl/tW4u0a  #DIGDEEP Timeline Photos",
-          1388437201
-        ],
-        [
-          "How many times can the world get saved in one top 10 list? Add them up on #Zeitgeist2013\u2019s top searched movies: http://goo.gl/QcDXDs Timeline Photos",
-          1388347202
-        ],
-        [
-          "From a new pope to a new prince, let's remember the biggest moments of this year with #Zeitgeist2013. Google Zeitgeist: Here's to 2013 Here's to 2013. Discover what the world searched for with Google's year-end Zeitgeist: http://www.google.com/zeitgeist Music: \"Feels Like Coming Home\" by Jet...",
-          1387301401
-        ],
-        [
-          "#TBT: Ten years ago Britney, Harry and Neo topped our annual Google Zeitgeist for most popular search terms. What will this year be remembered for? Timeline Photos",
-          1386884690
-        ],
-        [
-          "Happy New Year! Watch and remember the most searched for moments of 2012. \n\nhttp://www.google.com/zeitgeist/2012/resolutions/ Zeitgeist 2012: Year In Review See how the world searched with Google's 2012 Zeitgeist: http://www.google.com/zeitgeist Music: \"All I Want\" by Kodaline Video production by Whirled Creative",
-          1356997956
-        ],
-        [
-          "Another unforgettable year. Watch and remember the biggest moment of 2012 in our 12th annual year-end Zeitgeist: http://google.com/zeitgeist/2012 Zeitgeist 2012: Year In Review See how the world searched with Google's 2012 Zeitgeist: http://google.com/zeitgeist Music: \"All I Want\" by Kodaline Produced by Whirled Creative",
-          1355313253
-        ],
-        [
-          "Unsure about your polling place for the big election tomorrow? Search for [where do I vote] and enter your address for a ballot summary and the details. Timeline Photos",
-          1352128377
-        ]
-      ],
-      "dates_start": 1369817166,
-      "dates_end": 1450065725,
-      "likes_avg": 1607,
-      "likes_stdev": 1475,
-      "comments_avg": 233,
-      "comments_stdev": 202,
-      "shares_avg": 439,
-      "shares_stdev": 638
-    },
-    {
-      "number": 20,
+      "number": 13,
       "important": [
         "santa",
-        "come",
-        "work",
-        "take",
-        "holiday",
-        "visit",
-        "access",
         "watch",
+        "come",
+        "holiday",
+        "work",
+        "access",
         "call",
-        "get"
+        "visit",
+        "get",
+        "take"
       ],
       "common": [
         "gl",
@@ -1816,26 +1219,155 @@
       ],
       "dates_start": 1374725220,
       "dates_end": 1457874935,
-      "likes_avg": 2217,
-      "likes_stdev": 4175,
+      "likes_avg": 2218,
+      "likes_stdev": 4173,
       "comments_avg": 188,
       "comments_stdev": 188,
       "shares_avg": 264,
-      "shares_stdev": 374
+      "shares_stdev": 373
     },
     {
-      "number": 21,
+      "number": 14,
       "important": [
-        "moment",
-        "map",
-        "citi",
-        "check",
-        "googl",
-        "timelin",
+        "internet",
+        "secur",
+        "inform",
         "access",
+        "today",
+        "quick",
+        "safe",
+        "keep",
+        "day",
+        "take"
+      ],
+      "common": [
+        "account",
+        "data",
+        "gl",
+        "goo",
+        "goo gl",
+        "https",
+        "https goo",
+        "https goo gl",
+        "privacy",
+        "security"
+      ],
+      "messages": [
+        [
+          "Today\u2019s #SaferInternetDay! Keep your information safe online by taking a two-minute Security Checkup \u2192 https://goo.gl/fxMVjj Safer Internet Day",
+          1486486661
+        ],
+        [
+          "It's #DataPrivacyDay. Choose which privacy settings are right for you with a quick Privacy Checkup \u2192 https://goo.gl/O3cQzi Data Privacy Day",
+          1485627257
+        ],
+        [
+          "Check that the apps connected to your account are ones you use and trust. Take the Security Checkup now. https://goo.gl/gRjdP1 Security Checkup Word Game",
+          1477499524
+        ],
+        [
+          "Make sure the devices signed in to your account are ones you use. Take the Security Checkup now. https://goo.gl/YL7HnV Security Check Up",
+          1476893496
+        ],
+        [
+          "Easily access your account if you\u2019re ever locked out. Take the Security Checkup to set your recovery info \u2192 https://goo.gl/9aQcb3 Security Checkup - Backup Plan",
+          1476292633
+        ],
+        [
+          "Data helps YouTube suggest the right videos for you. And, we keep your data private and safe: Learn how: https://goo.gl/E86x9K YouTube Data",
+          1472731237
+        ],
+        [
+          "Data helps Google Search find the right answers for you. Learn how we keep your data private and safe: https://goo.gl/gAvaUA Meet Data: Search",
+          1470939433
+        ],
+        [
+          "Every day, data in Google Maps works for you. Learn how we keep it private and safe: https://goo.gl/Ph5SLa Meet Data - Google Maps",
+          1469712723
+        ],
+        [
+          "Every day, data makes our services work better for you. Now there\u2019s a new place to review and control your Information: My Activity. http://goo.gl/P2rlxT My Activity",
+          1469047930
+        ],
+        [
+          "Every day, data makes our services work better for you. Learn how we keep it private and safe -- and put you in control: https://goo.gl/KsjgLc Your Data",
+          1468843261
+        ],
+        [
+          "Searched for yourself lately? Now when you do, you\u2019ll find a shortcut to My Account, where you can manage your data and account security all in one place. Sign in and give it a try: www.google.com GGL_ProfileData_FB.mov",
+          1465825353
+        ],
+        [
+          "Lost your phone? We can help. Go to My Account and we\u2019ll walk you through everything you need to find your phone and secure your account and data. Check it out: https://goo.gl/ykDdrl LostDevice_FB.mov",
+          1464785735
+        ],
+        [
+          "Take your spring cleaning online with 10 simple privacy and security tips \u2192 https://goo.gl/URDh1W Take your spring cleaning online",
+          1459265761
+        ],
+        [
+          "We build security into everything we do. Learn how our services like Search, Mail, and Drive keep your information secure. https://goo.gl/mmzevD We build security into everything we do",
+          1458077710
+        ],
+        [
+          "This Valentine\u2019s Day, make sure all your online accounts feel the love. Give them strong and unique passwords to help keep them secure.  https://goo.gl/pDQep6 Give your online accounts some love",
+          1455383122
+        ],
+        [
+          "Location data can improve your map searches, commute routes, and more. Manage this and other settings at My Account \u2192 https://goo.gl/4aJBDv",
+          1446748184
+        ],
+        [
+          "A little warning makes a big difference. We\u2019ll send an alert if we detect suspicious activity in your account. Go to My Account to customize how you receive Notifications. https://goo.gl/1xqSP7",
+          1436453209
+        ],
+        [
+          "You control your content. You can download your documents, emails, photos, and more at My Account \u2192 https://goo.gl/sHlKy6",
+          1435600797
+        ],
+        [
+          "Take control of your Google privacy settings with a quick Privacy Checkup. Take a few minutes to make sure your privacy settings are right for you \u2192 https://goo.gl/8DtxTk",
+          1434637819
+        ],
+        [
+          "If your password is 12345, you\u2019re not alone. Visit My Account to create a stronger password and check out your security settings \u2192 https://goo.gl/kJAXL2",
+          1433779747
+        ],
+        [
+          "Introducing My Account. Take control of your data, protect your privacy, and customize how Google works for you \u2014 all in one place. Go to goo.gl/vays2s",
+          1433156939
+        ],
+        [
+          "If you\u2019re sending confidential information by mail, you wouldn\u2019t put it in a postcard. Find out how secure your email is in a new section of our Transparency Report: g.co/saferemail. Safer email",
+          1401820405
+        ],
+        [
+          "October is National Cyber Security Awareness Month. All month long, we\u2019ll be sharing tips to keep you safe online.  \n\nWant to know if a website is safe? Look for the \u201cS\u201d\u2014especially when entering passwords and credit card numbers. Web addresses that start with https:// are safer than those that start with http://. The \u201cS\u201d stands for secure and it means your connection is encrypted. http://g.co/fhns \n\n#staysafe #ncsam Timeline Photos",
+          1380621635
+        ]
+      ],
+      "dates_start": 1429023842,
+      "dates_end": 1480561424,
+      "likes_avg": 1131,
+      "likes_stdev": 504,
+      "comments_avg": 317,
+      "comments_stdev": 212,
+      "shares_avg": 247,
+      "shares_stdev": 335
+    },
+    {
+      "number": 15,
+      "important": [
+        "imageri",
+        "let",
+        "map",
+        "android",
+        "meet",
+        "explor",
         "googl map",
+        "kid",
         "get",
-        "photo"
+        "app"
       ],
       "common": [
         "gl",
@@ -1847,9 +1379,17 @@
         "http goo",
         "http goo gl",
         "maps",
-        "world"
+        "new"
       ],
       "messages": [
+        [
+          "Meet #Verne, the hero of a new app built with 3D Google Maps imagery that lets kids explore the lakes and peaks of the Himalayas. Get Verne: The Himalayas on Android \u2192 g.co/verne Verne: The Himalayas",
+          1470236437
+        ],
+        [
+          "\ud83c\udfb5 Come fly with me, let's fly, let's fly away \ud83c\udfb5  Get your virtual wings on and soar over Hong Kong\u2019s skyline with new 3D aerial imagery on Google Maps \u2708 \u2192 goo.gl/khPCJd Timeline Photos",
+          1445297821
+        ],
         [
           "Your Friday moment of Zen: Dive into Brazil's gorgeous waters with Google Maps g.co/go/brazil Timeline Photos",
           1426892390
@@ -1869,6 +1409,10 @@
         [
           "Navigating your world just got a little easier with the updated Google Maps on iPhone \u2192 http://goo.gl/4oENi and Android \u2192 http://goo.gl/QFS6KV. Google Maps Traveler. Adventurer. Wanderer. \n\nEnable the explorer in you with the latest update to #GoogleMaps on iPhone \u2192 http://goo.gl/4oENi and Android \u2192 http://goo.gl/QFS6KV.",
           1399562681
+        ],
+        [
+          "In Inuit poetry, the polar bear is known as \u201cthe ever-wandering one.\u201d Starting today you can wander alongside these amazing animals with new imagery of the Canadian tundra in Google Maps: http://g.co/polarbear\n\n#PolarBearDay Timeline Photos",
+          1393514328
         ],
         [
           "Create your own Street View experiences to share the places you love with the world on Google Maps: http://goo.gl/atIQ3J Google Maps Introducing a new feature in our #Views community that lets you easily connect your photo spheres to create 360\u00ba virtual tours of the places you love, then share them with the world on Google Maps. \n\nSee how and learn more at http://goo.gl/atIQ3J",
@@ -1899,10 +1443,6 @@
           1355411705
         ],
         [
-          "U.S. Marine Sgt. Winston Fiore completed a 5,000-mile walk across Asia, guided by Google Maps, to raise funds for children with cleft palates. Here's a short video of his journey: http://goo.gl/VP8AL Google Maps Armed with sturdy boots, a 20-pound vest carrying essentials and an Android phone with Google Maps, U.S. Marine Sgt. Winston Fiore set off last October on a 5,000-mile trek across Southeast Asia to raise money and awareness for children with cleft palates\u2014a mission he dubbed The Smile Trek (http://smiletrek.org) \r\n\r\nIn the last year, he has walked (yes, walked!) across nine borders, using Google Maps to find accurate and easy-to-use walking directions everywhere he went, whether it was through remote villages, down tiny dirt roads, or across rice paddies. \r\n\r\nGet a glimpse of Winston\u2019s amazing story here: http://youtu.be/qbvnml6Z1H0",
-          1353364737
-        ],
-        [
           "Have a great weekend! Google Maps Its Friday. Relax. Monkey around. \r\n\r\n(#streetviewscene: Snow monkeys in Jigokudani Monkey Park, Japan http://goo.gl/maps/GdZ4V)",
           1351281517
         ],
@@ -1913,10 +1453,6 @@
         [
           "Today, many beloved features of Google Maps have extended to more people and places around the world, from new Street View imagery of 150 university campuses worldwide to voice guided, turn-by-turn directions throughout India. In keeping with this Geo momentum, biking directions and Google Map Maker are now available in New Zealand too! These improvements are part of our ongoing effort to build the best map we can -- one that\u2019s comprehensive, accurate and easy for you to use. \n\nLearn more about these and other exciting Google Maps updates here: http://goo.gl/w99ip Hello World \u2013 Google Maps Discover a map to explore the world. View photos, get directions, find local places and share what you know \u2014 all in one map, across many devices.",
           1346868923
-        ],
-        [
-          "Whether you're visiting the National Air and Space Museum, the American Museum of Natural History or one of 20+ other U.S. museums this summer, with indoor maps and walking directions in Google Maps for Android you can plan your route from exhibit to exhibit, identifying points of interest along the way, including between floors. Timeline Photos",
-          1341931006
         ],
         [
           "Just announced at I/O: You can now save and use select maps from more than 150 countries on Google Maps for Android when you\u2019re not connected to the internet. You can even find and orient yourself by enabling GPS and using My Location and the compass. Go Offline with Google Maps for Android http://maps.google.com/android You can now save and use certain maps on Google Maps for Android when you're not connected to the internet. You can even find ...",
@@ -1943,322 +1479,28 @@
           1326392243
         ]
       ],
-      "dates_start": 1334887687,
-      "dates_end": 1393594298,
-      "likes_avg": 2082,
-      "likes_stdev": 1451,
-      "comments_avg": 658,
-      "comments_stdev": 954,
-      "shares_avg": 415,
-      "shares_stdev": 489
+      "dates_start": 1336302546,
+      "dates_end": 1412972093,
+      "likes_avg": 2074,
+      "likes_stdev": 1484,
+      "comments_avg": 625,
+      "comments_stdev": 941,
+      "shares_avg": 414,
+      "shares_stdev": 481
     },
     {
-      "number": 22,
+      "number": 16,
       "important": [
-        "featur",
-        "one",
-        "collabor",
-        "art",
-        "homepag",
-        "creativ",
-        "googl",
-        "access",
-        "artist",
-        "explor"
-      ],
-      "common": [
-        "doodle",
-        "doodle google",
-        "gl",
-        "goo",
-        "goo gl",
-        "google",
-        "photos",
-        "timeline",
-        "timeline photos",
-        "year"
-      ],
-      "messages": [
-        [
-          "We collaborated with 60+ artists to replace the paintbrush with #TiltBrush for immersive VR art. Explore our Artist in Residence program: tiltbrush.com/air Google Tilt Brush Artist in Residence",
-          1483545281
-        ],
-        [
-          "Time's running out to submit your art for #Doodle4Google! One K-12 artist will have their creative vision featured on the Google homepage. https://goo.gl/tsBdZJ Timeline Photos",
-          1480436173
-        ],
-        [
-          "K-12 students, let\u2019s see those #Doodle4Google creations! Only one week left to submit your Doodle for a chance to end up on the Google homepage. More info: https://goo.gl/qmBWtR Timeline Photos",
-          1480089362
-        ],
-        [
-          "Only 4 weeks left to enter the #Doodle4Google contest! Show us your vision of the future, and your art could be featured on our homepage: https://goo.gl/02TyX4 hover_ball_1280x720_10_21 (1).mp4",
-          1478276809
-        ],
-        [
-          "Voter registration deadlines are coming up. Find out how to register in your state \u2192 g.co/elections/register Timeline Photos",
-          1476215143
-        ],
-        [
-          "Calling all K-12 students! You're invited to the 2016 #Doodle4Google contest. Show us what you see for the future, and we may feature your art on the Google homepage. Enter here: https://goo.gl/mnMn6p Doodle 4 Google",
-          1475676033
-        ],
-        [
-          "Your vote matters. But with deadlines and methods varying by state, registering can be tricky. Search Google and get state-by-state voter registration information to ensure your voice can be heard \u2192 https://goo.gl/jyVuJY Timeline Photos",
-          1469038124
-        ],
-        [
-          "This year's Doodle 4 Google is open for imagination! \n\nIf you know a budding artist, their artwork could be featured on the Google homepage. They could also win a $30,000 scholarship and $50,000 tech grant for their school. Learn more: http://goo.gl/eLxZ30",
-          1446067517
-        ],
-        [
-          "\u201cL\u00e1 Fh\u00e9ile P\u00e1draig Sona Daoibh!\u201d \u2013 that\u2019s Happy St. Patrick\u2019s Day in Gaelic for those of you who don\u2019t know. Our doodle for the greenest holiday of the year is brought to you by guest Irish artist Eamonn O'Neill. Timeline Photos",
-          1426609120
-        ],
-        [
-          "We're celebrating the new year with a doodle created by guest artist Cindy Suen. Timeline Photos",
-          1420139265
-        ],
-        [
-          "American nun and artist Corita Kent said it best with her quote, \u201cTo understand is to stand under which is to look up to which is a good way to understand.\u201d Kent gained popularity in the 1960s and 1970s with her artwork that featured messages of love and peace. Today, we mark her 96th birthday. Timeline Photos",
-          1416501982
-        ],
-        [
-          "The Iron Curtain divided Europe for many years and kept the world locked in a \u201cCold War\u201d. Today, we are commemorating the brave people who tore down the wall and paved the way for a more united world with a special Doodle. Find out what values have shaped the generation born after the Fall of the Wall. #DEUTSCHLAND25.  http://goo.gl/2PcvAY \n\nWith courtesy of the German Federal Archive, this Doodle features unique archive photos from 1989. (http://www.bundesarchiv.de/index.html.en): https://g.co/doodle/vc7ect Timeline Photos",
-          1415552401
-        ],
-        [
-          "Time to stretch out those muscles. For 86 years, people in Japan have started out their days with a short calisthenics routine. Today the Google Doodle is doing the same. goo.gl/TPWjdU 86th Anniversary of Japanese Radio Calisthenics Doodle For 86 years, people in Japan have started out their days with this short calisthenics routine that\u2019s broadcasted on Japanese national television. Our Google...",
-          1414795198
-        ],
-        [
-          "Werewolves, witches and zombies\u2013all things dark and creepy come out on Halloween night..and our homepage. This year, six guest artists unleashed their favorite monsters on our doodle. Refresh your page to see them all. Have a happy and safe Halloween! Photos from Google's post",
-          1414772732
-        ],
-        [
-          "Today marks the start of National Preparedness Month and being prepared is just as important as knowing what to do in a crisis. Here are 12 ways the web can help when bad weather strikes: http://goo.gl/awWF9N Timeline Photos",
-          1409688899
-        ],
-        [
-          "In 1956, trailblazing American athlete Althea Gibson won a Grand Slam title at the French Open. The next year, she won at Wimbledon and took home the title at the US Open (then known as the US Nationals). Gibson wasn\u2019t just the first person of color to win these prestigious championships \u2014 she was often the first black person to ever play them. Today, on what would have been her 87th birthday, we\u2019re celebrating Gibson\u2019s accomplishments and legacy with a homepage doodle in her honor. Timeline Photos",
-          1408983415
-        ],
-        [
-          "Happy Independence Day, America. Get out there and do your thing. youtu.be/zNucQdwXH9A  #starsandstripesforever  July 4th 2014 Google Doodle A young musician finds his place in the band. Music: \"Stars and Stripes Forever\" by John Philip Sousa as performed by \"The President's Own\" United States Mar...",
-          1404477001
-        ],
-        [
-          "Congratulations to this year's Doodle 4 Google winners, who hung out with us at the Googleplex for a day earlier this week. Look out for the winning doodle on google.com June 9! Timeline Photos",
-          1400941760
-        ],
-        [
-          "Last chance to vote for your favorite young artists for this year's #Doodle4Google. Voting closes tonight: http://www.doodle4google.com Doodle 4 Google Before there was an airplane, there were doodles of cool flying machines. And before there was a submarine, there were doodles of magical underwater sea explorers. Since the beginning of time, ideas big and small, practical and playful, have started out as doodles. One talented young artist (grades\u2026",
-          1399654038
-        ],
-        [
-          "Meet this year\u2019s Doodle 4 Google state winners, and vote for your favorite: www.doodle4google.com Doodle 4 Google Doodle 4 Google 50 state winners are here! Vote now for the Doodle you want to see on the Google homepage.",
-          1398790800
-        ],
-        [
-          "Let love and friendship reign! Our doodle for St. Patrick's Day features a traditional Irish Claddagh ring. Timeline Photos",
-          1395068670
-        ],
-        [
-          "Students, fire up your imagination and put pen (or marker, or crayon, or pencil, or paintbrush) to paper. There's just one month left to create an amazing doodle for this year's Doodle 4 Google: http://goo.gl/QsRbMU Doodle 4 Google Before there was an airplane, there were doodles of cool flying machines. And before there was a submarine, there were doodles of magical underwater sea explorers. Since the beginning of time, ideas big and small, practical and playful, have started out as doodles. And we\u2019re ready for more. One tale...",
-          1392994800
-        ],
-        [
-          "Since the beginning of time, ideas big and small have started out as doodles. Now we're ready to see the next one! Our Doodle 4 Google competition is now open and we're asking K-12 students to let their imaginations run free in response to the theme \"If I could invent one thing to make the world a better place...\" Learn more: http://goo.gl/VvsWE5 Doodle 4 Google Before there was an airplane, there were doodles of cool flying machines. And before there was a submarine, there were doodles of magical underwater sea explorers. Since the beginning of time, ideas big and small, practical and playful, have started out as doodles. And we\u2019re ready for more. One tale...",
-          1391531128
-        ],
-        [
-          "Only 30 days left for students K-12 to submit their artwork for the US Doodle 4 Google competition. Check out our interactive map to see which states are leading with the most submissions in our 30-day \"Race to the Finish\" competition. To boost your state's ranking, submit your doodle and spread the word to students and teachers in your state.\n\nVisit www.google.com/doodle4google to explore the map and download entry forms.",
-          1361481462
-        ],
-        [
-          "Read or listen to this inspirational KQED perspective from 16y/o artist Gabriela Lindley: http://goo.gl/ku4gg \n\nIf you know a young artist, invite them to participate in this year's Doodle 4 Google contest. Learn more at www.google.com/doodle4google This Is My Heaven | KQED Art is where young Gabriela Lindley turns to find joy and creativity.",
-          1330472175
-        ]
-      ],
-      "dates_start": 1384108682,
-      "dates_end": 1463235260,
-      "likes_avg": 1076,
-      "likes_stdev": 985,
-      "comments_avg": 231,
-      "comments_stdev": 149,
-      "shares_avg": 118,
-      "shares_stdev": 88
-    },
-    {
-      "number": 23,
-      "important": [
-        "android",
-        "tour",
-        "futur",
-        "past",
-        "io",
-        "googl",
-        "access",
-        "trip",
-        "meet",
-        "photo"
-      ],
-      "common": [
-        "android",
-        "app",
-        "gl",
-        "goo",
-        "goo gl",
-        "google",
-        "ios",
-        "photos",
-        "timeline",
-        "timeline photos"
-      ],
-      "messages": [
-        [
-          "Photos from the past, meet scanner of the future. #PhotoScan is here for Android + iOS. g.co/PhotoScan Google PhotoScan",
-          1479238477
-        ],
-        [
-          "Introducing Google Trips, a new app that\u2019s like a personalized tour guide in your pocket, available now on Android and iOS \u2192 https://goo.gl/31et6e Google Trips",
-          1474295974
-        ],
-        [
-          "Introducing Google Duo: a fast, fun, one-tap video calling app for Android and iOS that brings you face-to-face with everyone you care about \u2192 https://goo.gl/QqTj6b Google Duo",
-          1471355121
-        ],
-        [
-          "Today in our Mountain View backyard we kicked off Google I/O, our annual developer conference. Catch up on all the announcements from this morning's keynote, including the Google assistant, Allo, Duo, Android N, VR and Firebase \u2192 https://goo.gl/QFWX27 #IO16 Evolving Google",
-          1463591960
-        ],
-        [
-          "We're deeply saddened by the recent violence in Brussels and Turkey. To help, we're offering free calls via Hangouts to Belgium and Turkey, as well as info in search for people in Brussels. \n\nFind Hangouts on Android \u2192 https://goo.gl/75u3GM and iOS \u2192 https://goo.gl/FDOfq Timeline Photos",
-          1458684811
-        ],
-        [
-          "Watch your language -- literally. The latest update for Android Wear has Google Translate built in. Learn how it works \u2192 http://goo.gl/fHRkwf",
-          1440086382
-        ],
-        [
-          "Get the app \u2192 g.co/googleapp Timeline Photos",
-          1419022807
-        ],
-        [
-          "The Googleplex got a little bit sweeter today! To mark the launch of Android 5.0, Lollipop, we unveiled a new Android statue, a tradition that dates back to the launch of Android 1.5, Cupcake. Instagram google's photo on Instagram",
-          1413393362
-        ],
-        [
-          "Introducing Android 5.0, Lollipop, and the latest Nexus devices: Nexus 9, Nexus 6 and Nexus Player \u2192 http://goo.gl/vTJfMq Android: Be together. Not the same.",
-          1413385331
-        ],
-        [
-          "If a picture\u2019s worth 1,000 words, a 360\u00b0 panorama from iOS Photo Sphere is worth a gazillion. Get the app: http://goo.gl/dVbb0B Timeline Photos",
-          1408548935
-        ],
-        [
-          "Slice it, dice it, put it in a cobbler. For National Peach Month, anyway you cut it the Google app can help. Try this on the #GoogleSearch app on Android: Timeline Photos",
-          1408479900
-        ],
-        [
-          "Stay safe as you hike this summer\u2014 The Google App can help you stick to your trails g.co/googleapp Timeline Photos",
-          1407442206
-        ],
-        [
-          "We can\u2019t promise to end arguments with the kids, but at least Google\u2019s got your back. Try this on the #GoogleSearch app on Android: goo.gl/gZ5VHV Timeline Photos",
-          1407269403
-        ],
-        [
-          "Kids like poking through cool photos\u2014and you can teach them something along the way. Get the Google app on iOS at http://goo.gl/vXVzF Timeline Photos",
-          1406839334
-        ],
-        [
-          "If it ain\u2019t baroque, don\u2019t fix it. But if it is, you can tell Google\u2026 and it\u2019ll correct itself. Works on the Google app for iOS (http://goo.gl/vXVzF) and Android (http://goo.gl/gZ5VHV).",
-          1404832809
-        ],
-        [
-          "Spending your July 4th outside? Get local weather conditions with the Google app on iOS and Android goo.gl/4OwgqZ. Timeline Photos",
-          1404501166
-        ],
-        [
-          "The big announcements from this morning\u2019s Google I/O Keynote: Android on more screens near you -- in your car, in your living room, even on your wrist. youtu.be/d36cIFCJvQs  Android coming to a screen near you Soon powering screens of all sizes, across watches, phones, tablets, TV and cars. Learn more at http://www.android.com/",
-          1403715871
-        ],
-        [
-          "We\u2019re continuing our #hurricaneprep week with tips on how technology can help in times of crisis. Here are a few Android apps which can help you be prepared: goo.gl/aFuUuj Timeline Photos",
-          1401295185
-        ],
-        [
-          "Hurricane season in the North Atlantic starts soon. To help you stay prepared, we're sharing a few tips on how technology can help keep you safe during a disaster. First up\u2014get Google Now on your Android or iOS device to receive a Public Alert card with critical, authoritative information to help you stay safe in a crisis. http://goo.gl/r16iIk Timeline Photos",
-          1401226132
-        ],
-        [
-          "Google Now on iOS now helps you keep up with favorite topics or subjects you\u2019ve been researching\u2014from travel destinations to news stories. Timeline Photos",
-          1400166001
-        ],
-        [
-          "Find mouthwatering inspiration for National Grilled Cheese Day by tapping the mic on the #GoogleSearch app and saying \"Show me pictures of gourmet grilled cheese.\" Share your favorite grilled cheese recipe below! Timeline Photos",
-          1397313001
-        ],
-        [
-          "Keep forgetting to file your taxes? Set a reminder with the #GoogleSearch app by saying \u201cOK Google, remind me to file my taxes\u201d so you don\u2019t miss the deadline. Timeline Photos",
-          1396987149
-        ],
-        [
-          "With the latest update to the #GoogleSearch app for Android, Google Now will send you a notification if you\u2019re likely to hit a traffic incident along your drive: goo.gl/idgt3y. Has Google Now ever saved you from getting stuck? Timeline Photos",
-          1395763201
-        ],
-        [
-          "You love making your grandma\u2019s marinara recipe, but you always forget to pick up the anchovy paste. Here\u2019s a fix\u2014in the latest #GoogleSearch app, you can set a reminder like \u201cOk Google, remind me to get anchovy paste when I get to Safeway,\" and Google Now will remind you as you walk into ANY Safeway (no need to set a specific location anymore). In the U.S. on Android for now: goo.gl/idgt3y. Timeline Photos",
-          1395424801
-        ],
-        [
-          "Android is coming soon to wearables, starting with watches. Learn more: http://goo.gl/82RHsF Android Wear: Information that moves with you Introducing Android Wear. Useful information when you need it most - at a glance or in a word.",
-          1395155653
-        ],
-        [
-          "Your kid is only in seventh grade and already you\u2019re having trouble helping her prepare for her geometry test? Just ask the #GoogleSearch app to \u201ccalculate the volume of a cone\u201d\u2014and a host of other geometry-related questions\u2014and salvage your reputation as world\u2019s smartest parent. (Turn your phone sideways to see the diagram.) Timeline Photos",
-          1394722800
-        ],
-        [
-          "If you always feel stressed on Sunday evenings, you're not alone. Get prepped for the week ahead with the #GoogleSearch app. Ask \"What's on my schedule for tomorrow?\" to see your appointments for the next day, then \"Wake me up at 7:30 tomorrow morning\" to set an alarm at the time you need. And if you're normally a night owl, try \"Remind me to go to bed at 10:00 tonight\" to help get you rested and on the right track Monday morning. Timeline Photos",
-          1393192801
-        ],
-        [
-          "If you missed the Westminster Dog Show, here are a few pics you can sink your canines into\u2014pull up your smartphone\u2019s #GoogleSearch app and say, \u201cShow me pictures of\u2026\n\n... labradoodles smiling.\u201d\n... dogs underwater.\u201d\n... pug shaming.\u201d\n... border collies with frisbees.\u201d\n... owners that look like their dogs.\u201d\n... puppy litters.\u201d\n\nWhich is your favorite? Are you find any other fun ones?",
-          1392228000
-        ],
-        [
-          "We've named our latest Android operating system after one of our favorite treats. Learn more and sign-up for release updates at www.android.com/kitkat KitKat Android KitKat \u2013 coming soon.",
-          1378229923
-        ],
-        [
-          "In case you didn't hear about it earlier this week, we just launched Chrome for Android Beta.  Now you can browse the web from your Android with the speed of Chrome.  Read more: http://goo.gl/LeXSW Official Google Blog: Introducing Chrome for Android",
-          1328887227
-        ]
-      ],
-      "dates_start": 1380964898,
-      "dates_end": 1442720149,
-      "likes_avg": 2116,
-      "likes_stdev": 3967,
-      "comments_avg": 244,
-      "comments_stdev": 192,
-      "shares_avg": 353,
-      "shares_stdev": 665
-    },
-    {
-      "number": 24,
-      "important": [
-        "countri",
-        "chang",
         "join",
-        "street",
-        "street view",
-        "view",
         "yearinsearch",
-        "search",
+        "chang",
         "access",
-        "ever"
+        "street view",
+        "search",
+        "ever",
+        "view",
+        "countri",
+        "street"
       ],
       "common": [
         "gl",
@@ -2284,10 +1526,6 @@
         [
           "Google Sheets and Refinery29  brought together two illustrators to create a mural in a spreadsheet without ever meeting. See how their work went from Sheets to the streets of Brooklyn \u2192 g.co/sheets/art #madewithGoogleSheets #R29collabs From Sheets to the streets",
           1469019986
-        ],
-        [
-          "The Easter Rising of 1916 has defined Irish history. One hundred years on, join Colin Farrell on the streets of Dublin: dublinrising.withgoogle.com Dublin Rising",
-          1458194407
         ],
         [
           "We hope you\u2019re just as excited about the Year of the Monkey as we are!  So excited, we\u2019ve been hunting around Street View for monkey sightings. Here are a few we found so far...want to help us find more 'Monkeys of StreetView'? #monkeyview goo.gl/8LhqMe Monkeys of StreetView",
@@ -2398,28 +1636,28 @@
           1332429556
         ]
       ],
-      "dates_start": 1366121413,
-      "dates_end": 1446239033,
-      "likes_avg": 1922,
-      "likes_stdev": 2492,
-      "comments_avg": 285,
-      "comments_stdev": 224,
-      "shares_avg": 364,
-      "shares_stdev": 522
+      "dates_start": 1364886211,
+      "dates_end": 1444006623,
+      "likes_avg": 1920,
+      "likes_stdev": 2529,
+      "comments_avg": 276,
+      "comments_stdev": 222,
+      "shares_avg": 367,
+      "shares_stdev": 530
     },
     {
-      "number": 25,
+      "number": 17,
       "important": [
-        "celebr",
-        "peopl",
-        "help",
         "world",
-        "new",
-        "includ",
         "use",
         "women",
+        "celebr",
+        "help",
+        "peopl",
         "introduc",
-        "day"
+        "includ",
+        "day",
+        "new"
       ],
       "common": [
         "day",
@@ -2585,7 +1823,7 @@
       ],
       "dates_start": 1358476693,
       "dates_end": 1439069947,
-      "likes_avg": 3957,
+      "likes_avg": 3956,
       "likes_stdev": 5046,
       "comments_avg": 585,
       "comments_stdev": 764,
@@ -2593,18 +1831,18 @@
       "shares_stdev": 474
     },
     {
-      "number": 26,
+      "number": 18,
       "important": [
-        "celebr",
-        "would",
-        "googl",
-        "timelin",
-        "includ",
-        "mark",
-        "access",
         "birthday",
+        "celebr",
+        "access",
+        "mark",
+        "googl",
+        "includ",
         "day",
-        "photo"
+        "timelin",
+        "photo",
+        "would"
       ],
       "common": [
         "birthday",
@@ -2770,40 +2008,265 @@
       ],
       "dates_start": 1327308593,
       "dates_end": 1386653708,
-      "likes_avg": 7990,
-      "likes_stdev": 11772,
+      "likes_avg": 7988,
+      "likes_stdev": 11770,
       "comments_avg": 895,
       "comments_stdev": 887,
       "shares_avg": 693,
       "shares_stdev": 832
     },
     {
-      "number": 27,
+      "number": 19,
       "important": [
-        "need",
-        "got",
-        "cover",
-        "googl search",
-        "googl",
-        "search",
+        "trip",
+        "android",
+        "meet",
         "access",
-        "vote",
-        "know",
-        "day"
+        "futur",
+        "googl",
+        "tour",
+        "io",
+        "photo",
+        "past"
       ],
       "common": [
+        "android",
+        "app",
+        "ask",
+        "gl",
+        "goo",
+        "goo gl",
         "google",
-        "http",
-        "inside search",
-        "know",
         "photos",
-        "power",
-        "power searching",
-        "search",
-        "searching",
-        "trends"
+        "timeline",
+        "timeline photos"
       ],
       "messages": [
+        [
+          "Photos from the past, meet scanner of the future. #PhotoScan is here for Android + iOS. g.co/PhotoScan Google PhotoScan",
+          1479238477
+        ],
+        [
+          "Introducing Google Trips, a new app that\u2019s like a personalized tour guide in your pocket, available now on Android and iOS \u2192 https://goo.gl/31et6e Google Trips",
+          1474295974
+        ],
+        [
+          "Introducing Google Duo: a fast, fun, one-tap video calling app for Android and iOS that brings you face-to-face with everyone you care about \u2192 https://goo.gl/QqTj6b Google Duo",
+          1471355121
+        ],
+        [
+          "Today in our Mountain View backyard we kicked off Google I/O, our annual developer conference. Catch up on all the announcements from this morning's keynote, including the Google assistant, Allo, Duo, Android N, VR and Firebase \u2192 https://goo.gl/QFWX27 #IO16 Evolving Google",
+          1463591960
+        ],
+        [
+          "We're deeply saddened by the recent violence in Brussels and Turkey. To help, we're offering free calls via Hangouts to Belgium and Turkey, as well as info in search for people in Brussels. \n\nFind Hangouts on Android \u2192 https://goo.gl/75u3GM and iOS \u2192 https://goo.gl/FDOfq Timeline Photos",
+          1458684811
+        ],
+        [
+          "Watch your language -- literally. The latest update for Android Wear has Google Translate built in. Learn how it works \u2192 http://goo.gl/fHRkwf",
+          1440086382
+        ],
+        [
+          "Get the app \u2192 g.co/googleapp Timeline Photos",
+          1419022807
+        ],
+        [
+          "Try it \u2192 g.co/googleapp Ask the Google app. Get answers, play music, find local recommendations and more.",
+          1418417911
+        ],
+        [
+          "The Googleplex got a little bit sweeter today! To mark the launch of Android 5.0, Lollipop, we unveiled a new Android statue, a tradition that dates back to the launch of Android 1.5, Cupcake. Instagram google's photo on Instagram",
+          1413393362
+        ],
+        [
+          "Introducing Android 5.0, Lollipop, and the latest Nexus devices: Nexus 9, Nexus 6 and Nexus Player \u2192 http://goo.gl/vTJfMq Android: Be together. Not the same.",
+          1413385331
+        ],
+        [
+          "Ever wonder what\u2019s inside a coconut? Like, REALLY inside? Next time you crack one open, ask Google for nutritional information like \u201cOk Google, how much sugar is in a coconut?\u201d You can even compare two foods side by side.",
+          1412614288
+        ],
+        [
+          "Whether you\u2019re using them to count or type, give your fingers a break -- ask the Google app to do the math.",
+          1412188390
+        ],
+        [
+          "Picking up a new language can be tricky. Ask the Google app for help.",
+          1412020052
+        ],
+        [
+          "Ask the Google app about the weather. It\u2019s like having an on-call meteorologist in your pocket.",
+          1411668660
+        ],
+        [
+          "Looking for a last minute summer adventure? Open the Google app and ask, \u201cOk Google, where\u2019s the nearest beach?\u201d Timeline Photos",
+          1410023521
+        ],
+        [
+          "Ever wonder how your favorite summer party accessories work? Just ask the Google app. Timeline Photos",
+          1409331118
+        ],
+        [
+          "Want to go where everybody knows your name? Don\u2019t let them remember you for shorting the bartender. Ask the Google app if you need help after a few rounds: \u201cHow much is the tip on a $27 bill?\u201d \n\nGet the app for iOS: http://g.co/googleapp Timeline Photos",
+          1408651409
+        ],
+        [
+          "If a picture\u2019s worth 1,000 words, a 360\u00b0 panorama from iOS Photo Sphere is worth a gazillion. Get the app: http://goo.gl/dVbb0B Timeline Photos",
+          1408548935
+        ],
+        [
+          "Slice it, dice it, put it in a cobbler. For National Peach Month, anyway you cut it the Google app can help. Try this on the #GoogleSearch app on Android: Timeline Photos",
+          1408479900
+        ],
+        [
+          "Stay safe as you hike this summer\u2014 The Google App can help you stick to your trails g.co/googleapp Timeline Photos",
+          1407442206
+        ],
+        [
+          "We can\u2019t promise to end arguments with the kids, but at least Google\u2019s got your back. Try this on the #GoogleSearch app on Android: goo.gl/gZ5VHV Timeline Photos",
+          1407269403
+        ],
+        [
+          "Kids like poking through cool photos\u2014and you can teach them something along the way. Get the Google app on iOS at http://goo.gl/vXVzF Timeline Photos",
+          1406839334
+        ],
+        [
+          "Summer storms around the corner? Ask the Google app if you need an umbrella this weekend. On iOS at http://goo.gl/vXVzF or Android at http://goo.gl/gZ5VHV.",
+          1406232000
+        ],
+        [
+          "The Court of Justice of the European Union says there\u2019s a \u201cright to be forgotten\u201d online. We\u2019ve asked a group of outside experts to help advise us on the issue and they want to hear from you: How should we balance this right with the public\u2019s right to know?  Advisory Council \u2013 Google Advisory Council A recent ruling by the Court of Justice of the European Union found that European law gives people the right to ask search engines like Google to remove results for queries that include their name.",
+          1405080512
+        ],
+        [
+          "You can find companies\u2019 customer service numbers on the web, but why poke around? Just ask the Google app -- you\u2019ll be on hold in no time. On iOS at http://goo.gl/vXVzF or Android at http://goo.gl/gZ5VHV.",
+          1405014300
+        ],
+        [
+          "If it ain\u2019t baroque, don\u2019t fix it. But if it is, you can tell Google\u2026 and it\u2019ll correct itself. Works on the Google app for iOS (http://goo.gl/vXVzF) and Android (http://goo.gl/gZ5VHV).",
+          1404832809
+        ],
+        [
+          "Spending your July 4th outside? Get local weather conditions with the Google app on iOS and Android goo.gl/4OwgqZ. Timeline Photos",
+          1404501166
+        ],
+        [
+          "The big announcements from this morning\u2019s Google I/O Keynote: Android on more screens near you -- in your car, in your living room, even on your wrist. youtu.be/d36cIFCJvQs  Android coming to a screen near you Soon powering screens of all sizes, across watches, phones, tablets, TV and cars. Learn more at http://www.android.com/",
+          1403715871
+        ],
+        [
+          "Need a recipe for Sunday brunch? Just ask Google, \u201cHow do I make banana cinnamon French toast?\u201d and see recommendations from culinary experts by opening their apps from the search results page.",
+          1402843825
+        ],
+        [
+          "There's a whole galaxy of information out there. Just ask Google to \"compare Callisto vs. moon\" (or \"apples vs. oranges\") for a side-by-side look at how the two entities compare.",
+          1402074023
+        ],
+        [
+          "We\u2019re continuing our #hurricaneprep week with tips on how technology can help in times of crisis. Here are a few Android apps which can help you be prepared: goo.gl/aFuUuj Timeline Photos",
+          1401295185
+        ],
+        [
+          "Hurricane season in the North Atlantic starts soon. To help you stay prepared, we're sharing a few tips on how technology can help keep you safe during a disaster. First up\u2014get Google Now on your Android or iOS device to receive a Public Alert card with critical, authoritative information to help you stay safe in a crisis. http://goo.gl/r16iIk Timeline Photos",
+          1401226132
+        ],
+        [
+          "Google Now on iOS now helps you keep up with favorite topics or subjects you\u2019ve been researching\u2014from travel destinations to news stories. Timeline Photos",
+          1400166001
+        ],
+        [
+          "Find mouthwatering inspiration for National Grilled Cheese Day by tapping the mic on the #GoogleSearch app and saying \"Show me pictures of gourmet grilled cheese.\" Share your favorite grilled cheese recipe below! Timeline Photos",
+          1397313001
+        ],
+        [
+          "Keep forgetting to file your taxes? Set a reminder with the #GoogleSearch app by saying \u201cOK Google, remind me to file my taxes\u201d so you don\u2019t miss the deadline. Timeline Photos",
+          1396987149
+        ],
+        [
+          "With the latest update to the #GoogleSearch app for Android, Google Now will send you a notification if you\u2019re likely to hit a traffic incident along your drive: goo.gl/idgt3y. Has Google Now ever saved you from getting stuck? Timeline Photos",
+          1395763201
+        ],
+        [
+          "You love making your grandma\u2019s marinara recipe, but you always forget to pick up the anchovy paste. Here\u2019s a fix\u2014in the latest #GoogleSearch app, you can set a reminder like \u201cOk Google, remind me to get anchovy paste when I get to Safeway,\" and Google Now will remind you as you walk into ANY Safeway (no need to set a specific location anymore). In the U.S. on Android for now: goo.gl/idgt3y. Timeline Photos",
+          1395424801
+        ],
+        [
+          "Android is coming soon to wearables, starting with watches. Learn more: http://goo.gl/82RHsF Android Wear: Information that moves with you Introducing Android Wear. Useful information when you need it most - at a glance or in a word.",
+          1395155653
+        ],
+        [
+          "Your kid is only in seventh grade and already you\u2019re having trouble helping her prepare for her geometry test? Just ask the #GoogleSearch app to \u201ccalculate the volume of a cone\u201d\u2014and a host of other geometry-related questions\u2014and salvage your reputation as world\u2019s smartest parent. (Turn your phone sideways to see the diagram.) Timeline Photos",
+          1394722800
+        ],
+        [
+          "If you always feel stressed on Sunday evenings, you're not alone. Get prepped for the week ahead with the #GoogleSearch app. Ask \"What's on my schedule for tomorrow?\" to see your appointments for the next day, then \"Wake me up at 7:30 tomorrow morning\" to set an alarm at the time you need. And if you're normally a night owl, try \"Remind me to go to bed at 10:00 tonight\" to help get you rested and on the right track Monday morning. Timeline Photos",
+          1393192801
+        ],
+        [
+          "If you missed the Westminster Dog Show, here are a few pics you can sink your canines into\u2014pull up your smartphone\u2019s #GoogleSearch app and say, \u201cShow me pictures of\u2026\n\n... labradoodles smiling.\u201d\n... dogs underwater.\u201d\n... pug shaming.\u201d\n... border collies with frisbees.\u201d\n... owners that look like their dogs.\u201d\n... puppy litters.\u201d\n\nWhich is your favorite? Are you find any other fun ones?",
+          1392228000
+        ],
+        [
+          "We've named our latest Android operating system after one of our favorite treats. Learn more and sign-up for release updates at www.android.com/kitkat KitKat Android KitKat \u2013 coming soon.",
+          1378229923
+        ],
+        [
+          "Get answers before you even ask with Google Now, now available on iPad and iPhone.   \n\nDownload the app here: http://goo.gl/D9e1A Google Now for iPhone and iPad Introducing Google Now for iOS. Just the right information, at just the right time, before you even ask. Weather, traffic, transit schedules, even the latest...",
+          1367263224
+        ],
+        [
+          "In case you didn't hear about it earlier this week, we just launched Chrome for Android Beta.  Now you can browse the web from your Android with the speed of Chrome.  Read more: http://goo.gl/LeXSW Official Google Blog: Introducing Chrome for Android",
+          1328887227
+        ]
+      ],
+      "dates_start": 1383512927,
+      "dates_end": 1436427934,
+      "likes_avg": 1728,
+      "likes_stdev": 3328,
+      "comments_avg": 250,
+      "comments_stdev": 195,
+      "shares_avg": 267,
+      "shares_stdev": 564
+    },
+    {
+      "number": 20,
+      "important": [
+        "let",
+        "yearinsearch",
+        "moment",
+        "back",
+        "look",
+        "access",
+        "befor",
+        "search",
+        "year",
+        "take"
+      ],
+      "common": [
+        "com",
+        "google",
+        "google com",
+        "http",
+        "photos",
+        "search",
+        "timeline",
+        "timeline photos",
+        "world",
+        "year"
+      ],
+      "messages": [
+        [
+          "Before we ring in 2017, let\u2019s take a look back through the moments that defined 2016. #YearInSearch g.co/2016 Year In Search 2016",
+          1483202666
+        ],
+        [
+          "Creatures big and small had us captivated in 2016 with puppies, three-toed sloths, and more searched at all-time high this year. #YearInSearch g.co/2016 Creatures - #YearInSearch 2016",
+          1483040434
+        ],
+        [
+          "As 2016 draws to a close, let\u2019s take a look back through the moments that defined it. #YearInSearch g.co/2016 Year In Search 2016",
+          1482769429
+        ],
         [
           "Everything you need to know about #ElectionDay \u2014 from where to vote to who\u2019s on your ballot, we\u2019ve got you covered. g.co/elections/howtovote Google Search - Election Day",
           1478543034
@@ -2833,6 +2296,10 @@
           1466424040
         ],
         [
+          "Kickboxing was a big hit after the Rousey vs. Holm fight. #YearInSearch  http://goo.gl/Z06xCK How do I learn to kickbox?",
+          1451409707
+        ],
+        [
           "The questions we asked in 2015 revealed who we are. See what the world wanted to know. #YearInSearch Year in Search: 2015",
           1450249451
         ],
@@ -2845,8 +2312,28 @@
           1426885213
         ],
         [
+          "Ok Google, how big are polar bears? http://goo.gl/RcjL0q Timeline Photos",
+          1425064594
+        ],
+        [
           "What say you about the #Oscars this Sunday? Here\u2019s what the trends charts had to say about the upcoming awards show and other hot topics from this past week: http://goo.gl/rKZoNV Timeline Photos",
           1424465250
+        ],
+        [
+          "In 2014 we searched trillions of times. Take a little look at a big #YearInSearch g.co/2014 Discover the top searches made in 2014 with Google\u2019s Year in Search What we search for says a lot about us. Explore the stories of 2014 through the searches made around the world. http://www.google.com/2014",
+          1420052574
+        ],
+        [
+          "Many moments of hope this #YearInSearch: We searched more for \u201cmh370 found\u201d than \u201cmh370 lost.\u201d Watch the film: g.co/2014 Timeline Photos",
+          1419182102
+        ],
+        [
+          "A little look at a big #YearInSearch, LEGO style: We\u2019ve recreated some of 2014\u2019s most memorable moments\u2013brick by brick\u2013and we\u2019ll share them with you from now until the end of the year.\n\nSee more Year in Search moments: g.co/2014 Timeline Photos",
+          1419095781
+        ],
+        [
+          "Today we\u2019re launching our annual Year In Search, a look back at the searches, questions and moments that defined 2014. \n\nWatch the film, explore the site and relive the year along the way. www.google.com/2014 Discover the top searches made in 2014 with Google\u2019s Year in Search What we search for says a lot about us. Explore the stories of 2014 through the searches made around the world at the http://www.google.com/2014.",
+          1418736730
         ],
         [
           "https://www.google.com/trends/2014/ Google's cover photo",
@@ -2855,6 +2342,10 @@
         [
           "Are you ready for the World Series? See which team is getting the most action on search in each state with this interactive map: http://goo.gl/dGk7ZN Google Trends: Giants vs. Royals In anticipation of the World Series, featuring the Kansas City Royals and the San Francisco Giants, Google Trends has created a map that compares how search volume differed for the competing teams. Blue states indicate a higher search volume for the Royals, and Orange states indicate a higher search\u2026",
           1413920769
+        ],
+        [
+          "We've gone camel crazy! To capture #StreetView imagery of United Arab Emirates' vast Liwa desert (and minimize disruptions to the environment), we put our Trekker on top of a camel g.co/go/liwa Timeline Photos",
+          1412969362
         ],
         [
           "These nominees are already winners as searchers get ready for next week's Emmy Awards. Check back Monday night for real-time Google Trends from the show. Timeline Photos",
@@ -2889,8 +2380,36 @@
           1395081933
         ],
         [
+          "From the stars to the selfie seen around the world, here are the top searches and questions from #GoogleSearch at the #Oscars: Timeline Photos",
+          1393822177
+        ],
+        [
           "Your r\u00e9sum\u00e9 is all about you, but that doesn\u2019t always make it easy to know where to start when it comes to creating one. Let Google help: search for [resumes], and then click \u201cImages\u201d at the top. You\u2019ll see lots of popular, well-designed r\u00e9sum\u00e9 formats you can follow, from classic single page designs to modern and nontraditional options. If you\u2019re in the market for a particular job and looking for specific examples\u2014say, an elementary school teacher\u2014try searching for [elementary school teacher resumes]. Timeline Photos",
           1393603201
+        ],
+        [
+          "\"It always seems impossible until it\u2019s done.\" -Nelson Mandela\n\nGood luck in whatever you're searching for this year. Search on. \n\n#Zeitgeist2013 Google Zeitgeist | Here's to 2013 Zeitgeist 2013 http://www.google.com/zeitgeist #zeitgeist2013 Discover what the world searched for with Google's year in review. Music: \"Feels Like Coming Ho...",
+          1388595601
+        ],
+        [
+          "What did the world search for this year? Remember the moments of 2013 with us.\n\n#Zeitgeist2013 Google Zeitgeist | Here's to 2013 Zeitgeist 2013 http://www.google.com/zeitgeist #zeitgeist2013 Discover what the world searched for with Google's year in review. Music: \"Feels Like Coming Ho...",
+          1388505601
+        ],
+        [
+          "Looking for a new start in the new year? Get inspired by the top workout searches in #Zeitgeist2013: http://goo.gl/tW4u0a  #DIGDEEP Timeline Photos",
+          1388437201
+        ],
+        [
+          "How many times can the world get saved in one top 10 list? Add them up on #Zeitgeist2013\u2019s top searched movies: http://goo.gl/QcDXDs Timeline Photos",
+          1388347202
+        ],
+        [
+          "From a new pope to a new prince, let's remember the biggest moments of this year with #Zeitgeist2013. Google Zeitgeist: Here's to 2013 Here's to 2013. Discover what the world searched for with Google's year-end Zeitgeist: http://www.google.com/zeitgeist Music: \"Feels Like Coming Home\" by Jet...",
+          1387301401
+        ],
+        [
+          "#TBT: Ten years ago Britney, Harry and Neo topped our annual Google Zeitgeist for most popular search terms. What will this year be remembered for? Timeline Photos",
+          1386884690
         ],
         [
           "Be careful what you search for\u2014you never know what you might find. #GoogleHalloween",
@@ -2911,6 +2430,18 @@
         [
           "Registration for our new Advanced Power Searching with Google course is now open. Sign up at http://goo.gl/vPiDb to sharpen your research skills and learn advanced Google search techniques. Class begins on January 23.\n\nNot sure if you\u2019re ready for Advanced Power Searching? Brush up on your search skills with our first Power Searching with Google course at http://goo.gl/rAEzz. Advanced Power Searching Register now to sharpen your research skills and strengthen your use of advanced Google search techniques to answer complex questions. Throughout this course you\u2019ll also:",
           1357836382
+        ],
+        [
+          "Happy New Year! Watch and remember the most searched for moments of 2012. \n\nhttp://www.google.com/zeitgeist/2012/resolutions/ Zeitgeist 2012: Year In Review See how the world searched with Google's 2012 Zeitgeist: http://www.google.com/zeitgeist Music: \"All I Want\" by Kodaline Video production by Whirled Creative",
+          1356997956
+        ],
+        [
+          "Another unforgettable year. Watch and remember the biggest moment of 2012 in our 12th annual year-end Zeitgeist: http://google.com/zeitgeist/2012 Zeitgeist 2012: Year In Review See how the world searched with Google's 2012 Zeitgeist: http://google.com/zeitgeist Music: \"All I Want\" by Kodaline Produced by Whirled Creative",
+          1355313253
+        ],
+        [
+          "Unsure about your polling place for the big election tomorrow? Search for [where do I vote] and enter your address for a ballot summary and the details. Timeline Photos",
+          1352128377
         ],
         [
           "Happy Halloween! We recommend you sneak in a search for some horror movies while you go about your ghoulish day. Let us know what you find. ;) Timeline Photos",
@@ -2957,27 +2488,27 @@
           1325782447
         ]
       ],
-      "dates_start": 1349962831,
-      "dates_end": 1445226874,
-      "likes_avg": 1779,
-      "likes_stdev": 3056,
-      "comments_avg": 272,
-      "comments_stdev": 395,
-      "shares_avg": 488,
-      "shares_stdev": 1822
+      "dates_start": 1356635305,
+      "dates_end": 1447173703,
+      "likes_avg": 1824,
+      "likes_stdev": 2725,
+      "comments_avg": 263,
+      "comments_stdev": 342,
+      "shares_avg": 480,
+      "shares_stdev": 1520
     },
     {
-      "number": 28,
+      "number": 21,
       "important": [
+        "stand",
+        "right",
+        "power",
         "feel",
-        "madebygoogl",
-        "park",
-        "googledoodl",
-        "someth",
-        "readi",
-        "new",
-        "timelin",
         "access",
+        "googledoodl",
+        "took",
+        "site",
+        "timelin",
         "photo"
       ],
       "common": [
@@ -2987,8 +2518,8 @@
         "google",
         "http",
         "http goo",
+        "http goo gl",
         "photos",
-        "something",
         "timeline",
         "timeline photos"
       ],
@@ -2996,6 +2527,34 @@
         [
           "\"If you have the feeling that something is wrong, don't be afraid to speak up.\" - Fred Korematsu #GoogleDoodle https://goo.gl/cwlcBC Timeline Photos",
           1485794906
+        ],
+        [
+          "To fight bad ads, sites and scammers, we took down 1.7 billion ads that violated our advertising policies in 2016 \u2192 https://goo.gl/dMdTAz How We Fought Bad Ads",
+          1485364457
+        ],
+        [
+          "We all have the power to stand up for the rights of others. #HumanRightsDay Timeline Photos",
+          1481388566
+        ],
+        [
+          "Magical things are happening in #GoogleAllo. Cast a spell with the new Fantastic Beasts sticker pack we conjured with Warner Brothers. https://goo.gl/UQlQyb Fantastic Beasts/Allo",
+          1479335827
+        ],
+        [
+          "What a day for a Google #Daydream. Simple, high-quality virtual reality: adventures await \u2192 goo.gl/M63oFz #madebygoogle Google Daydream View",
+          1478803756
+        ],
+        [
+          "Meet the Live Case collection from designer Jeremy Scott, featuring his cast of J\u2019Emoji he created for his collaboration. g.co/JeremyScott #madebygoogle Jeremy Scott - Live Case",
+          1478799804
+        ],
+        [
+          "This golden retriever named Google (!) taught us a lot about pet photography at a #GooglePhotos workshop in our S\u00e3o Paulo office. It\u2019s safe to say we\u2019ve found our spirit animal. \ud83d\udc36 Timeline Photos",
+          1476202985
+        ],
+        [
+          "Say hello to the #madebygoogle family \u2192 http://google.com/madeby Timeline Photos",
+          1475597395
         ],
         [
           "Hey NYC \u2014 something new is on the horizon at Pier 1, Brooklyn Bridge Park. #madebygoogle Timeline Photos",
@@ -3010,8 +2569,48 @@
           1474741648
         ],
         [
+          "October is coming. #madebygoogle google.com/tenfour October 4th",
+          1474324513
+        ],
+        [
+          "From acrobats to art cars, explore #io16 After Hours in 360\u00b0. #IO16 After Hours in 360 degrees",
+          1464118326
+        ],
+        [
+          "Watch Live: Solar-powered plane Solar Impulse is landing in California soon. Follow its flight across the Pacific \u2192 http://www.solarimpulse.com/sitv #futureisclean Timeline Photos",
+          1461444902
+        ],
+        [
+          "238,900 miles stand between the moon and the 16 teams competing in the Google Lunar XPRIZE. See their journey in #GLXPMoonShot, now on YouTube \u2192 https://goo.gl/ERGcG7 Timeline Photos",
+          1458748953
+        ],
+        [
+          "The Easter Rising of 1916 has defined Irish history. One hundred years on, join Colin Farrell on the streets of Dublin: dublinrising.withgoogle.com Dublin Rising",
+          1458194407
+        ],
+        [
+          "Say hello in over 100 languages. #GoogleTranslate http://goo.gl/lxCmx9 Say hello!",
+          1458059554
+        ],
+        [
+          "After DeepBlue beat Kasparov in 1997, we heard that it could be a hundred years before a computer beat humans at Go. Tune in to see #AlphaGo, our machine learning system, play Lee Sedol, the global Go champion, in a best-of-five match. Starts March 8 at 8pm Pacific Time / March 9 at 1pm Korea Standard Time \u2192 goo.gl/O2c480 AlphaGo plays Lee Sedol",
+          1457397032
+        ],
+        [
+          "It\u2019s the witching hour. Grab your brooms and play #GlobalCandyCup in our Halloween #GoogleDoodle \u2192 google.com Timeline Photos",
+          1446176341
+        ],
+        [
+          "Missing this 10 hour livestream from a cat cafe in Osaka would be a CATastrophe! What\u2019s this \ud83d\udc08 thinking? \u2192 goo.gl/hCmmll #nekoatsume Timeline Photos",
+          1442292183
+        ],
+        [
           "Any guesses on who\u2019s going on a horse-drawn sleigh ride across this frozen lake in northern Mongolia? \u2192 goo.gl/2EbMG3 Timeline Photos",
           1437619085
+        ],
+        [
+          "The rainbow pride flag stands for a lot. Today, we stand for more. #LoveWins https://goo.gl/QQZFfn",
+          1435344981
         ],
         [
           "Spring is in full bloom and summer is approaching...must be May Day! Timeline Photos",
@@ -3030,8 +2629,20 @@
           1424390162
         ],
         [
+          "2014 was the year of the horse, this year belongs to the goat. Happy Lunar New Year everyone! Timeline Photos",
+          1424361406
+        ],
+        [
+          "What world do you dream of? Travel through poet Langston Hughes\u2019 vision of a better place and his poem \u201cI Dream a World\u201d in our doodle for his 113th birthday. http://youtu.be/W-OU-mY11nE Timeline Photos",
+          1422811672
+        ],
+        [
           "Ok Google, what are fireworks made of? Timeline Photos",
           1420070842
+        ],
+        [
+          "Here\u2019s a toast to 2014, a year of Flappy Bird, ice bucket challenges and cometary landings. Timeline Photos",
+          1420060888
         ],
         [
           "Ok Google, what are the seven principles of Kwanzaa? Timeline Photos",
@@ -3046,6 +2657,10 @@
           1419456423
         ],
         [
+          "He's run for president, started a PAC, invented a word, been an ice cream flavor and had his portrait in the National Gallery. It's only right Stephen Colbert would come to Google Maps too: http://goo.gl/l61TYD Timeline Photos",
+          1418935806
+        ],
+        [
           "He may have missed out on the presidential pardon, but at least this turkey is safe on our homepage. Happy Thanksgiving everyone! Timeline Photos",
           1417086001
         ],
@@ -3054,8 +2669,20 @@
           1415825830
         ],
         [
+          "We\u2019ve always been proud of doing things differently at Google. So, today, Spirit Day, we\u2019re proud to go purple to stand with those who have been bullied because of how they look, who they love, what they stand for, or for simply being different. Timeline Photos",
+          1413459190
+        ],
+        [
           "More than 25 satellites launched into space have been named Sputnik. Greetings, fellow travelers. Timeline Photos",
           1412365418
+        ],
+        [
+          "Though searches for the word \u201cselfie\u201d didn\u2019t peak until March of 2014, the first-ever selfie was taken quite a bit earlier\u2026 Timeline Photos",
+          1412114455
+        ],
+        [
+          "Today our cake has 16 candles (plus one to grow on)! Timeline Photos",
+          1411830763
         ],
         [
           "But does a donut-shaped cloud weigh the same as a kale-shaped cloud? Timeline Photos",
@@ -3082,277 +2709,8 @@
           1410207714
         ],
         [
-          "What\u2019s at the intersection of something musical and something with wings? Find out in today\u2019s doodle, which is modeled as a Venn Diagram for its creator John Venn\u2019s 180th birthday. Timeline Photos",
-          1407164416
-        ],
-        [
-          "#AreYouReady for some football? ... Oops... \"Ok Google, define soccer\" Timeline Photos",
-          1404243098
-        ],
-        [
-          "Have you ever used Google to seem #slightlysuperhuman? Timeline Photos",
-          1400857330
-        ],
-        [
-          "Ever out-navigated your cabbie? #slightlysuperhuman Timeline Photos",
-          1400256001
-        ],
-        [
-          "Has Google helped you feel #slightlysuperhuman in the kitchen? Timeline Photos",
-          1399995001
-        ],
-        [
-          "Parents\u2014have you had any proud moments of feeling #slightlysuperhuman? Timeline Photos",
-          1399662000
-        ],
-        [
-          "Has Google ever given you a #slightlysuperhuman moment? Timeline Photos",
-          1399408518
-        ],
-        [
-          "Has Google ever made you feel #slightlysuperhuman? Timeline Photos",
-          1398956401
-        ],
-        [
-          "Explore the ancient temples of Cambodia's Angkor Wat\u2014the largest religious monument in the world\u2014with #StreetView: http://goo.gl/m0cpC3 Timeline Photos",
-          1396532076
-        ],
-        [
-          "The Internet is awesome for creativity and we\u2019re fighting to keep it that way: http://goo.gl/j9OC9e Timeline Photos",
-          1390338000
-        ],
-        [
-          "Student storytellers with some CS savvy are wanted for the 2014 round of Google Journalism Fellowships, a 10-week summer program working with some amazing nonprofits in the news space. Learn more and apply: http://goo.gl/u9J5tK Timeline Photos",
-          1385488333
-        ],
-        [
-          "Al Gore, Eric Schmidt and industry experts are gathered to discuss the environmental impacts and benefits of the Internet. Tune in to the live stream of our \"How green is the Internet?\" summit: www.youtube.com/googlegreen Timeline Photos",
-          1370529000
-        ],
-        [
-          "Die Entscheidung ist gefallen: Das umstrittene Leistungsschutzrecht wurde trotz massiver Kritik auch vom Deutschen Bundesrat verabschiedet. Doch der Einsatz von fast 300.000 Netzverteidigern und mehr als 11 Millionen Besuchern unserer Informationsseiten hat sich gelohnt: Das nach intensiver Debatte mehrfach ge\u00e4nderte Gesetz stellt das gesamte Konzept eines Leistungsschutzrechtes f\u00fcr Presseverlage grunds\u00e4tzlich in Frage. Danke f\u00fcr Eure Unterst\u00fctzung! http://goo.gl/kqZEu Timeline Photos",
-          1363964298
-        ],
-        [
-          "Trotz massiver Kritik von allen Seiten hat der Deutsche Bundestag heute ein #Leistungsschutzrecht verabschiedet. Suchergebnisse in bew\u00e4hrter Form sollen zwar weiterhin nicht erfasst werden, doch das Gesetz bleibt sch\u00e4dlich f\u00fcr Nutzer und kleine Unternehmen. Jetzt liegt es am Bundesrat, einen dauerhaften Schaden f\u00fcr das Internet in Deutschland zu verhindern. Danke f\u00fcr Eure Unterst\u00fctzung! http://goo.gl/kqZEu Timeline Photos",
-          1362387601
-        ],
-        [
-          "\u201eMit der gleichen Logik k\u00f6nnte ein Restaurantbesitzer von Taxifahrern Geld verlangen, die ihm G\u00e4ste bringen.\u201c So treffend fasste Mario Sixtus die absurde Idee des geplanten #leistungsschutzrechts  f\u00fcr Presseverlage zusammen. Beteiligt Euch weiter an der Debatte zum #lsr, ob im Taxi oder anderswo! http://goo.gl/kqZEu Timeline Photos",
-          1361350800
-        ],
-        [
-          "Mehr als 200.000 Netzverteidiger \u2013 und immer mehr Experten melden sich zunehmend kritisch zu Wort. Die Debatte um das Leistungsschutzrecht geht in die n\u00e4chste Phase. Mach' mit. Misch' Dich ein. Verteidige Dein Netz: http://goo.gl/kqZEu Timeline Photos",
-          1360569601
-        ],
-        [
-          "The Space Shuttle Endeavour just flew over our headquarters in Mountain View, California.  It was a great excuse to step away from our desks and grab a cool photo! Timeline Photos",
-          1348245053
-        ],
-        [
-          "Already saw today's javelin Doodle? You may want to look again, there's something new roving above the audience. Timeline Photos",
-          1344283640
-        ]
-      ],
-      "dates_start": 1376343142,
-      "dates_end": 1440767953,
-      "likes_avg": 3911,
-      "likes_stdev": 6947,
-      "comments_avg": 515,
-      "comments_stdev": 557,
-      "shares_avg": 423,
-      "shares_stdev": 920
-    },
-    {
-      "number": 29,
-      "important": [
-        "stand",
-        "site",
-        "app",
-        "play",
-        "power",
-        "new",
-        "kid",
-        "access",
-        "took",
-        "stori"
-      ],
-      "common": [
-        "gl",
-        "goo",
-        "goo gl",
-        "google",
-        "http",
-        "http goo",
-        "http goo gl",
-        "photos",
-        "timeline",
-        "timeline photos"
-      ],
-      "messages": [
-        [
-          "To fight bad ads, sites and scammers, we took down 1.7 billion ads that violated our advertising policies in 2016 \u2192 https://goo.gl/dMdTAz How We Fought Bad Ads",
-          1485364457
-        ],
-        [
-          "Lights. Camera. Play! With the new Toontastic 3D app, kids of all ages can draw, animate and narrate their own stories \u2192 goo.gl/4vbavV Toontastic 3D",
-          1484240568
-        ],
-        [
-          "We all have the power to stand up for the rights of others. #HumanRightsDay Timeline Photos",
-          1481388566
-        ],
-        [
-          "Enjoy this buffet of bad haircuts all year long with the PhotoScan app \u2192 g.co/PhotoScan. Happy #ThanksScanning! ThanksScanning - PhotoScan",
-          1479922993
-        ],
-        [
-          "Magical things are happening in #GoogleAllo. Cast a spell with the new Fantastic Beasts sticker pack we conjured with Warner Brothers. https://goo.gl/UQlQyb Fantastic Beasts/Allo",
-          1479335827
-        ],
-        [
-          "What a day for a Google #Daydream. Simple, high-quality virtual reality: adventures await \u2192 goo.gl/M63oFz #madebygoogle Google Daydream View",
-          1478803756
-        ],
-        [
-          "Meet the Live Case collection from designer Jeremy Scott, featuring his cast of J\u2019Emoji he created for his collaboration. g.co/JeremyScott #madebygoogle Jeremy Scott - Live Case",
-          1478799804
-        ],
-        [
-          "This golden retriever named Google (!) taught us a lot about pet photography at a #GooglePhotos workshop in our S\u00e3o Paulo office. It\u2019s safe to say we\u2019ve found our spirit animal. \ud83d\udc36 Timeline Photos",
-          1476202985
-        ],
-        [
-          "#ItTakesATeacher to prepare the leaders of tomorrow. Celebrate them on #WorldTeachersDay by sharing a story about your favorite teacher or what teachers mean to you. g.co/ItTakesATeacher It Takes A Teacher",
-          1475687896
-        ],
-        [
-          "Say hello to the #madebygoogle family \u2192 http://google.com/madeby Timeline Photos",
-          1475597395
-        ],
-        [
-          "Change is #MadewithCode. Meet the women making the world a better place with code \u2192 https://goo.gl/XiHAfX Change is Made with Code",
-          1475257614
-        ],
-        [
-          "October is coming. #madebygoogle google.com/tenfour October 4th",
-          1474324513
-        ],
-        [
-          "Meet #Verne, the hero of a new app built with 3D Google Maps imagery that lets kids explore the lakes and peaks of the Himalayas. Get Verne: The Himalayas on Android \u2192 g.co/verne Verne: The Himalayas",
-          1470236437
-        ],
-        [
-          "Starting today, any teacher can take their students on 200+ virtual reality field trips to Antarctica, the ancient ruins of Machu Picchu and more with Expeditions. Bon voyage! g.co/expeditions Expeditions",
-          1467049702
-        ],
-        [
-          "Blocks have long taught children about physics and math, but what if blocks could also help kids learn how to code? Project Bloks takes coding off the screen and puts it into the hands of kids \u2192 g.co/projectbloks Timeline Photos",
-          1467033098
-        ],
-        [
-          "Watch Live: Solar-powered plane Solar Impulse is landing in California soon. Follow its flight across the Pacific \u2192 http://www.solarimpulse.com/sitv #futureisclean Timeline Photos",
-          1461444902
-        ],
-        [
-          "238,900 miles stand between the moon and the 16 teams competing in the Google Lunar XPRIZE. See their journey in #GLXPMoonShot, now on YouTube \u2192 https://goo.gl/ERGcG7 Timeline Photos",
-          1458748953
-        ],
-        [
-          "Say hello in over 100 languages. #GoogleTranslate http://goo.gl/lxCmx9 Say hello!",
-          1458059554
-        ],
-        [
-          "After DeepBlue beat Kasparov in 1997, we heard that it could be a hundred years before a computer beat humans at Go. Tune in to see #AlphaGo, our machine learning system, play Lee Sedol, the global Go champion, in a best-of-five match. Starts March 8 at 8pm Pacific Time / March 9 at 1pm Korea Standard Time \u2192 goo.gl/O2c480 AlphaGo plays Lee Sedol",
-          1457397032
-        ],
-        [
-          "Our love of Star Wars started a long time ago, in a galaxy far, far away... https://goo.gl/EYh1RQ Awaken the Force",
-          1448263126
-        ],
-        [
-          "\ud83c\udfb5 Come fly with me, let's fly, let's fly away \ud83c\udfb5  Get your virtual wings on and soar over Hong Kong\u2019s skyline with new 3D aerial imagery on Google Maps \u2708 \u2192 goo.gl/khPCJd Timeline Photos",
-          1445297821
-        ],
-        [
-          "Missing this 10 hour livestream from a cat cafe in Osaka would be a CATastrophe! What\u2019s this \ud83d\udc08 thinking? \u2192 goo.gl/hCmmll #nekoatsume Timeline Photos",
-          1442292183
-        ],
-        [
-          "We\u2019ve changed a lot over the last 17 years, and today we\u2019re changing things up again... g.co/evolve",
-          1441116538
-        ],
-        [
-          "Not all kitchens were made for cooking. The Design Kitchen is Google[x]'s rapid prototyping, hardware, and machining shop. Peek inside with #NatandLo \u2192 g.co/go/NLgooglex Head into the Google Design Kitchen",
-          1437410152
-        ],
-        [
-          "Even a light breeze is part of a long journey. Did it start as a tropical storm? A high-plains gust? Maybe both...",
-          1437161989
-        ],
-        [
-          "The rainbow pride flag stands for a lot. Today, we stand for more. #LoveWins https://goo.gl/QQZFfn",
-          1435344981
-        ],
-        [
-          "Teachers, Doodle 4 Google is back in 2015! Register your school today: http://www.google.com.au/doodle4google  \n\nMore info: http://goo.gl/vCW6E3 Timeline Photos",
-          1433444410
-        ],
-        [
-          "It\u2019s an APP! ...with the power to explore more than 400 characters from the Star Wars Universe. #Maythe4thBeWithYou",
-          1430755992
-        ],
-        [
-          "We're always looking ahead, but sometimes it's important to reflect. Change your perspective at http://com.google. Timeline Photos",
-          1427854613
-        ],
-        [
-          "2014 was the year of the horse, this year belongs to the goat. Happy Lunar New Year everyone! Timeline Photos",
-          1424361406
-        ],
-        [
-          "What world do you dream of? Travel through poet Langston Hughes\u2019 vision of a better place and his poem \u201cI Dream a World\u201d in our doodle for his 113th birthday. http://youtu.be/W-OU-mY11nE Timeline Photos",
-          1422811672
-        ],
-        [
-          "Here\u2019s a toast to 2014, a year of Flappy Bird, ice bucket challenges and cometary landings. Timeline Photos",
-          1420060888
-        ],
-        [
-          "\u2018Tis the season for giving and good cheer! g.co/happyholidays #HolidaySpirit Timeline Photos",
-          1419001296
-        ],
-        [
-          "He's run for president, started a PAC, invented a word, been an ice cream flavor and had his portrait in the National Gallery. It's only right Stephen Colbert would come to Google Maps too: http://goo.gl/l61TYD Timeline Photos",
-          1418935806
-        ],
-        [
-          "American astronomer Annie Jump Cannon spent her life studying the night sky. Today our homepage in the U.S. is gazing at the stars Cannon loved so much for her 151st birthday. A pioneer in astronomy, Cannon developed the Harvard Classification Scheme with Edward C. Pickering, which organized and categorized stars based on their temperatures. Timeline Photos",
-          1418312869
-        ],
-        [
-          "We\u2019ve always been proud of doing things differently at Google. So, today, Spirit Day, we\u2019re proud to go purple to stand with those who have been bullied because of how they look, who they love, what they stand for, or for simply being different. Timeline Photos",
-          1413459190
-        ],
-        [
-          "We've gone camel crazy! To capture #StreetView imagery of United Arab Emirates' vast Liwa desert (and minimize disruptions to the environment), we put our Trekker on top of a camel g.co/go/liwa Timeline Photos",
-          1412969362
-        ],
-        [
-          "Though searches for the word \u201cselfie\u201d didn\u2019t peak until March of 2014, the first-ever selfie was taken quite a bit earlier\u2026 Timeline Photos",
-          1412114455
-        ],
-        [
-          "Today our cake has 16 candles (plus one to grow on)! Timeline Photos",
-          1411830763
-        ],
-        [
           "Saying bye to summer can be hard. Homework can be even harder. Lucky for you, Google can help. Say \u201cOk Google\u201d and ask Google about historical events, math problems and much more. Talk or type to get ASAP answers for your questions \u2192 http://goo.gl/iJ2RGV Timeline Photos",
           1409167721
-        ],
-        [
-          "This back-to-school season, Google Shopping Express is joining forces with Operation Backpack to give backpacks filled with supplies to Bay Area kids in need. Give a backpack to a child in need in the Bay Area http://www.google.com/express http://www.voa.org/support-operation-backpack This back-to-school season, Google Shopping Express is proud to work with Operati...",
-          1408394449
         ],
         [
           "ICYMI: Larry and Sergey accept the Ice Bucket Challenge.  Ice Bucket Challenge accepted by Larry & Sergey \"Yesterday Sergey and I took on the #IceBucketChallenge in aid of ALS. We'll both be donating to help #StrikeOutALS at http://www.alsa.org/donate/.\" -Larry",
@@ -3363,6 +2721,10 @@
           1407768621
         ],
         [
+          "What\u2019s at the intersection of something musical and something with wings? Find out in today\u2019s doodle, which is modeled as a Venn Diagram for its creator John Venn\u2019s 180th birthday. Timeline Photos",
+          1407164416
+        ],
+        [
           "So long to the 2014 #WorldCup! But before you go, click on the flags in today\u2019s doodle to see the top ten searches from each competing country. Timeline Photos",
           1405279292
         ],
@@ -3371,16 +2733,20 @@
           1404905771
         ],
         [
-          "From music to design to social good, things we love are #madewithcode. Let's inspire the next generation of girl coders to get involved. Learn more: http://goo.gl/rZUGy2",
-          1403177400
+          "#AreYouReady for some football? ... Oops... \"Ok Google, define soccer\" Timeline Photos",
+          1404243098
         ],
         [
           "How would 11-year old Audrey Zhang of New York make the world a better place? Audrey, our 2014 Doodle 4 Google winner, drew the fantastical water purifier on our homepage today: http://goo.gl/leIhSA Timeline Photos",
           1402322936
         ],
         [
-          "The next stop on the road to a self-driving car: prototype vehicles that are designed to operate safely on their own\u2014no steering wheel, no pedals. http://goo.gl/0YMiVq Timeline Photos",
-          1401235677
+          "To commemorate #DDay70, the Google Cultural Institute is sharing 5 new exhibits from museums in the U.S., U.K. and France: goo.gl/0w1wtd. Timeline Photos",
+          1402058122
+        ],
+        [
+          "Have you ever used Google to seem #slightlysuperhuman? Timeline Photos",
+          1400857330
         ],
         [
           "Recently we asked nonprofits in the San Francisco Bay Area: what can we do to make the Bay Area an even better place to live? Now it\u2019s time for you to vote for the ideas that inspire you: http://g.co/bayareachallenge\n\n #googleimpactchallenge Timeline Photos",
@@ -3395,24 +2761,48 @@
           1400517224
         ],
         [
+          "Ever out-navigated your cabbie? #slightlysuperhuman Timeline Photos",
+          1400256001
+        ],
+        [
+          "Has Google helped you feel #slightlysuperhuman in the kitchen? Timeline Photos",
+          1399995001
+        ],
+        [
           "Missed Celta Vigo\u2019s defeat of Real Madrid yesterday? Now you can watch video highlights of the latest La Liga matches in Google Search: http://goo.gl/ifwsQQ Timeline Photos",
           1399914001
+        ],
+        [
+          "Parents\u2014have you had any proud moments of feeling #slightlysuperhuman? Timeline Photos",
+          1399662000
         ],
         [
           "Missed Russell Westbrook\u2019s triple-double against the Clippers last night? No worries\u2014now you can watch video recaps of the latest NBA games in Google Search: http://goo.gl/6uXDz9 Timeline Photos",
           1399582997
         ],
         [
-          "This Teacher Appreciation Day, we\u2019d like to say thank you to all the teachers who took our imaginations to the moon and back. #TeacherAppreciationWeek  To The Moon Thank you to the millions of passionate teachers who inspire curiosity in their classrooms...lesson after lesson, unit after unit, year after year. We're for...",
-          1399420836
+          "Has Google ever given you a #slightlysuperhuman moment? Timeline Photos",
+          1399408518
         ],
         [
           "Search on and see what you find\u2014the Force is strong today. #MayThe4thBeWithYou Timeline Photos",
           1399212001
         ],
         [
+          "Has Google ever made you feel #slightlysuperhuman? Timeline Photos",
+          1398956401
+        ],
+        [
           "The Civil Rights Act turns 50 this year and we\u2019re proud to join the LBJ Library and Presidents Obama, Bush, Clinton and Carter in celebrating how far we\u2019ve come as a nation at the Civil Rights Summit. Learn the story of how the law came to be thanks to the Google Cultural Institute and the National Archives http://goo.gl/a08E1f\n The Civil Rights Act of 1964 - Google Cultural Institute Fifty years ago, President Lyndon B. Johnson signed the most sweeping civil rights legislation since Reconstruction.  It  prohibited discrimination in public places, provided for the integration of schools and other public facilities, and made employment discrimination illegal. ",
           1396978944
+        ],
+        [
+          "Explore the ancient temples of Cambodia's Angkor Wat\u2014the largest religious monument in the world\u2014with #StreetView: http://goo.gl/m0cpC3 Timeline Photos",
+          1396532076
+        ],
+        [
+          "Tour the Palais Garnier in Paris and see Marc Chagall's magnificent ceiling in ultra high-resolution on the Google Cultural Institute: http://goo.gl/ce1wjX Timeline Photos",
+          1396285142
         ],
         [
           "Crisp weather, gorgeous foliage... that can only mean one thing: fall has arrived in the Southern Hemisphere! Timeline Photos",
@@ -3427,12 +2817,16 @@
           1394290801
         ],
         [
-          "In Inuit poetry, the polar bear is known as \u201cthe ever-wandering one.\u201d Starting today you can wander alongside these amazing animals with new imagery of the Canadian tundra in Google Maps: http://g.co/polarbear\n\n#PolarBearDay Timeline Photos",
-          1393514328
+          "Whew... what a week. Whether you've got something to celebrate or cry over, make quick happy hour plans by asking the #GoogleSearch app on your phone: \u201cWhat are the best bars in Portland?\u201d (or wherever you call home). You'll see top-rated dives, lounges, and cocktail spots in your area, and you can tap through for directions and hours. Timeline Photos",
+          1393010227
         ],
         [
           "We\u2019re standing up with the web on #thedaywefightback to call for reform to government surveillance. Join us and speak up: call your member of Congress, or sign a petition if you\u2019re outside the U.S. http://goo.gl/aAZlLn Timeline Photos",
           1392130800
+        ],
+        [
+          "The Internet is awesome for creativity and we\u2019re fighting to keep it that way: http://goo.gl/j9OC9e Timeline Photos",
+          1390338000
         ],
         [
           "Happy New Year! Wishing you all the best for a wonderful 2014. Timeline Photos",
@@ -3447,16 +2841,16 @@
           1387283793
         ],
         [
-          "'Tis the season. Unwrap a brighter future for a kid, a classroom or even a polar bear: http://goo.gl/fMnvu9\r\n\r\n #12DaysOfGiving #Google Timeline Photos",
-          1386956218
-        ],
-        [
           "The Great Online Shopping Festival is back in India and it's bigger and better than ever before. From 11th-13th December, go to www.gosf.in and get access to the best deals offered online. #GOSF Launching on 11.12.13. | Join us on 11th, 12th and 13th December for incredible discounts | GOSF... Coming soon \u2013 India's biggest discount online shopping event on 11th, 12th and 13th December 2013, brought to you by Google. Remember to put 11/12/13 in your diary!",
           1386734400
         ],
         [
           "Doesn\u2019t the stuff you keep online deserve the same protection as the stuff you keep offline? Under a law called ECPA, government agencies in the U.S. can see what you\u2019ve written and stored online without a warrant. Sign this petition to the White House and tell the government to get a warrant! http://goo.gl/oXw47d Timeline Photos",
           1386264096
+        ],
+        [
+          "Student storytellers with some CS savvy are wanted for the 2014 round of Google Journalism Fellowships, a 10-week summer program working with some amazing nonprofits in the news space. Learn more and apply: http://goo.gl/u9J5tK Timeline Photos",
+          1385488333
         ],
         [
           "Fifty years ago an alien known as \u201cthe Doctor\u201d landed on Earth in a time-traveling blue British police box called a TARDIS. Since the Time Lord\u2019s arrival, he\u2019s challenged some of the most dangerous creatures in the universe, regenerated 11 times, and developed into an icon of British pop culture. Visit www.google.com today to pick your Doctor, track down the lost Google logo and help us celebrate 50 years of \u201cDoctor Who\u201d! Timeline Photos",
@@ -3479,12 +2873,28 @@
           1370881858
         ],
         [
-          "Jewglers (Jewish Googlers) held their annual Chanukah party last night and lit up their not-so-traditional, but very Googley, lava lamp menorah. Happy Chanukah! Timeline Photos",
-          1355421886
+          "Al Gore, Eric Schmidt and industry experts are gathered to discuss the environmental impacts and benefits of the Internet. Tune in to the live stream of our \"How green is the Internet?\" summit: www.youtube.com/googlegreen Timeline Photos",
+          1370529000
         ],
         [
-          "Do you know any friends or family in education? For this holiday season, we\u2019re partnering with DonorsChoose.org, an online charity, to provide teachers the opportunity to request Chromebooks at a special discounted price. If you\u2019re a full-time public school teacher, you can register a project on the http://DonorChoose.org website, where anyone can make a donation to support their classroom.\n\nhttp://googleblog.blogspot.com/2012/12/chromebooks-for-classrooms-99-for_10.html Chromebooks for classrooms: $99 for the holidays  | Official Google Blog",
-          1355158981
+          "Die Entscheidung ist gefallen: Das umstrittene Leistungsschutzrecht wurde trotz massiver Kritik auch vom Deutschen Bundesrat verabschiedet. Doch der Einsatz von fast 300.000 Netzverteidigern und mehr als 11 Millionen Besuchern unserer Informationsseiten hat sich gelohnt: Das nach intensiver Debatte mehrfach ge\u00e4nderte Gesetz stellt das gesamte Konzept eines Leistungsschutzrechtes f\u00fcr Presseverlage grunds\u00e4tzlich in Frage. Danke f\u00fcr Eure Unterst\u00fctzung! http://goo.gl/kqZEu Timeline Photos",
+          1363964298
+        ],
+        [
+          "Trotz massiver Kritik von allen Seiten hat der Deutsche Bundestag heute ein #Leistungsschutzrecht verabschiedet. Suchergebnisse in bew\u00e4hrter Form sollen zwar weiterhin nicht erfasst werden, doch das Gesetz bleibt sch\u00e4dlich f\u00fcr Nutzer und kleine Unternehmen. Jetzt liegt es am Bundesrat, einen dauerhaften Schaden f\u00fcr das Internet in Deutschland zu verhindern. Danke f\u00fcr Eure Unterst\u00fctzung! http://goo.gl/kqZEu Timeline Photos",
+          1362387601
+        ],
+        [
+          "\u201eMit der gleichen Logik k\u00f6nnte ein Restaurantbesitzer von Taxifahrern Geld verlangen, die ihm G\u00e4ste bringen.\u201c So treffend fasste Mario Sixtus die absurde Idee des geplanten #leistungsschutzrechts  f\u00fcr Presseverlage zusammen. Beteiligt Euch weiter an der Debatte zum #lsr, ob im Taxi oder anderswo! http://goo.gl/kqZEu Timeline Photos",
+          1361350800
+        ],
+        [
+          "Mehr als 200.000 Netzverteidiger \u2013 und immer mehr Experten melden sich zunehmend kritisch zu Wort. Die Debatte um das Leistungsschutzrecht geht in die n\u00e4chste Phase. Mach' mit. Misch' Dich ein. Verteidige Dein Netz: http://goo.gl/kqZEu Timeline Photos",
+          1360569601
+        ],
+        [
+          "Jewglers (Jewish Googlers) held their annual Chanukah party last night and lit up their not-so-traditional, but very Googley, lava lamp menorah. Happy Chanukah! Timeline Photos",
+          1355421886
         ],
         [
           "Celebrating 161 years since Moby Dick's first publishing. Read or re-read the classic tale at http://goo.gl/Z7L0Q Timeline Photos",
@@ -3495,8 +2905,12 @@
           1348684845
         ],
         [
-          "Child prodigy, concert pianist, composer, teacher, and mother of 8 \u2013 happy 193rd, to the amazing Clara Schumann. Timeline Photos",
-          1347572295
+          "The Space Shuttle Endeavour just flew over our headquarters in Mountain View, California.  It was a great excuse to step away from our desks and grab a cool photo! Timeline Photos",
+          1348245053
+        ],
+        [
+          "Already saw today's javelin Doodle? You may want to look again, there's something new roving above the audience. Timeline Photos",
+          1344283640
         ],
         [
           "London Calling! Explore teams, see the most popular searches, and visit London... all with the click of a mouse: http://google.co.uk/olympics\r\n\r\nThen share what this event means to you and we'll support your country through our cover photo. Timeline Photos",
@@ -3515,6 +2929,10 @@
           1332947670
         ],
         [
+          "Every second, one hour of video is uploaded to YouTube. Learn more: http://goo.gl/q6FPE YouTube - One Hour Per Second Every second, one hour of video is uploaded to YouTube. That's 24 hours every 24 seconds... or a decade every single day. Discover more time-bending stats at...",
+          1327363120
+        ],
+        [
           "\u606d\u559c\u53d1\u8d22\uff01Happy Chinese New Year! Timeline Photos",
           1327345910
         ],
@@ -3523,14 +2941,14 @@
           1325445534
         ]
       ],
-      "dates_start": 1371575533,
-      "dates_end": 1455780515,
-      "likes_avg": 2508,
-      "likes_stdev": 3875,
-      "comments_avg": 291,
-      "comments_stdev": 372,
-      "shares_avg": 428,
-      "shares_stdev": 1000
+      "dates_start": 1368510572,
+      "dates_end": 1446840523,
+      "likes_avg": 2894,
+      "likes_stdev": 4918,
+      "comments_avg": 354,
+      "comments_stdev": 408,
+      "shares_avg": 362,
+      "shares_stdev": 663
     }
   ]
 }

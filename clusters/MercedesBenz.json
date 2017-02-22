@@ -1,29 +1,253 @@
 {
   "pagename": "MercedesBenz",
+  "page_name_displayed": "Mercedes-Benz",
   "globalstats": {
-    "messages": 1885,
-    "likes_avg": 10989,
-    "likes_stdev": 15213,
-    "comments_avg": 134,
-    "comments_stdev": 293,
-    "shares_avg": 1117,
-    "shares_stdev": 1759,
+    "fan_count": 20633355,
+    "messages": 1934,
+    "likes_avg": 10187,
+    "likes_stdev": 14680,
+    "comments_avg": 124,
+    "comments_stdev": 274,
+    "shares_avg": 1120,
+    "shares_stdev": 2089,
     "graph_uri": "clusters/MercedesBenz.png"
   },
   "clusters": [
     {
       "number": 1,
       "important": [
-        "winter",
-        "track",
-        "event",
-        "mercedesbenz drive event",
-        "keep",
-        "latest",
-        "master",
-        "collect",
+        "timelin photo",
+        "weekend",
+        "mercedesbenz mix",
+        "mercedesbenz mix tape",
+        "ahead",
+        "mix",
+        "enjoy",
+        "tape",
+        "two",
+        "download"
+      ],
+      "common": [
+        "benz",
+        "benz mixed",
+        "benz mixed tape",
+        "http",
+        "mercedes",
+        "mercedes benz",
+        "mercedes benz mixed",
+        "mixed",
+        "mixed tape",
+        "tape"
+      ],
+      "messages": [
+        [
+          "Weekend ahead, so relax and enjoy these two exclusive Mercedes-Benz Mixed Tape downloads! http://mb4.me/maximilianheckerembassylights Timeline Photos",
+          1431731101
+        ],
+        [
+          "The Mercedes-Benz Mixed Tape compilation #61 is out now and ready for your listening pleasure. Discover 10 light-hearted and uplifting tracks for springtime cruising! Mixed Tape Compilation #61. Mixed Tape Compilation #61 is a light hearted and uplifting selection of 10 fresh tracks, spanning the whole range of the musical spectrum.",
+          1430175601
+        ],
+        [
+          "It's time for our #MusicMonday with two exclusive Mercedes-Benz Mixed Tape downloads by Mocky and Champs. Hurry, the downloads are limited to 500! http://mb4.me/mockychamps Timeline Photos",
+          1427105740
+        ],
+        [
+          "Is it too late to take a look back at 2014? Certainly not! Enjoy a special edition compilation with the best tracks of the Mercedes-Benz Mixed Tape in 2014. This also marks the premiere of the compilation's new format: as of March 2nd it will be released as a mix every 8 weeks with free downloads made available throughout the weeks. http://benz.me/Best-of-Mixed-Tape-2014 Photos from Mercedes-Benz's post",
+          1422406800
+        ],
+        [
+          "Get prepared for the weekend by grabbing the all-new Mercedes-Benz Mixed Tape #59, a free download compilation featuring 10 tracks of up-and-coming artist for your listening pleasure! Enjoy! \n\n\u25ba\u25ba http://mixedtape.mb4.me/Mixed-Tape-59/\n\nCover art by Alex Diamond | The Alex Diamond Mining Company. Timeline Photos",
+          1415322001
+        ],
+        [
+          "Happy 10th anniversary Mercedes-Benz Mixed Tape! Download your free copy now: http://benz.me/MixedTape57/ Timeline Photos",
+          1403452801
+        ],
+        [
+          "Lose yourself to dance this #MusicMonday with a visit to Moogfest 2014 alongside mb! Magazine and Mercedes-Benz Mixed Tape. Get perspectives on the future of sound with YACHT, Giorgio Moroder, no regular play and more: http://youtu.be/xHYe1JE4C2M Timeline Photos",
+          1402905600
+        ],
+        [
+          "Fresh beats for your listening pleasure! The new Mercedes-Benz Mixed Tape #56 is out now, so download for free and pump up the volume! Cover art by MCW - Marc C Woehr.\nhttp://benz.me/Mixed_Tape_56/ Timeline Photos",
+          1397170801
+        ],
+        [
+          "New York based artist Jon Burgerman designed the cover for our Mercedes-Benz Mixed Tape #54. \n\nHere's a little chat with him about art and music: http://benz.me/MixedTape_JonBurgerman/ Photos from Mercedes-Benz's post",
+          1389551060
+        ],
+        [
+          "Need some new music for the weekend? Why don't you download the all new Mercedes-Benz Mixed Tape #54? 10 tracks by exciting newcomer artists and cover art by Jon Burgerman. Turn up the volume and enjoy! \r\n\r\n\u27a4 http://benz.me/MixedTape54 Timeline Photos",
+          1385112557
+        ],
+        [
+          "Between art and street art: meet Kid Acne, cover artist of the Mercedes-Benz Mixed Tape #51. \r\n\r\nRead the interview on mb! Magazine and don't forget to download your #free #MixedTape #compilation!\r\nhttp://mb4.me/MixedTape_KidAcne/ Timeline Photos",
+          1372870800
+        ],
+        [
+          "Good news: the latest Mercedes-Benz Mixed Tape compilation is out now and waits up with 10 tracks by exciting newcomers. \r\n\r\nSo get your free download copy and crank up the volume!\r\nhttp://www.mercedes-benz.com/mixedtapecompilation Timeline Photos",
+          1370532337
+        ],
+        [
+          "Yet another great milestone this week: Mercedes-Benz Mixed Tape has just released its 50th free download compilation featuring 10 great tracks and artwork by Darcel Disappoints. So download it now and enjoy the selection! \r\n\r\nhttp://www.mercedes-benz.com/mixedtapecompilation Timeline Photos",
+          1365679188
+        ],
+        [
+          "Dedicated to the fast, furious and fantastic A 45 AMG, our latest Mixed Tape compilation \"(The) Amplified A\" is out now with some striking sounds for the road!\n\nGet your free download of our brand new mp3 compilation in just one click: http://www.mercedes-benz.com/mixedtapecompilation and learn more about the A 45 AMG on www.mercedes-amg.com/a45 Timeline Photos",
+          1360779161
+        ],
+        [
+          "Mercedes-Benz Mixed Tape \"Prime Choices\" is out now! Get your free download of this prime selection of stunning songs by emerging artists from all corners of the world: http://bit.ly/MT_Prime_Choices Mercedes-Benz Photos",
+          1349788378
+        ],
+        [
+          "Check out the latest mp3 compilation \"Rising Stars\" from our colleagues at the Mercedes-Benz Mixed Tape team - as always, free of charge and loaded with 10 brand new songs: http://bit.ly/mixed_tape Timeline Photos",
+          1344950414
+        ]
+      ],
+      "dates_start": 1363831919,
+      "dates_end": 1419859873,
+      "likes_avg": 4508,
+      "likes_stdev": 2628,
+      "comments_avg": 41,
+      "comments_stdev": 54,
+      "shares_avg": 132,
+      "shares_stdev": 115
+    },
+    {
+      "number": 2,
+      "important": [
+        "instagram",
+        "best instagram",
+        "make sure",
+        "channel",
+        "enjoy",
+        "favorit",
+        "sure",
+        "could",
+        "make sure follow",
+        "follow mercedesbenz"
+      ],
+      "common": [
+        "best",
+        "best instagram",
+        "channel",
+        "com",
+        "http",
+        "instagram",
+        "instagram com",
+        "mercedes",
+        "mercedesbenz",
+        "selection"
+      ],
+      "messages": [
+        [
+          "It's best of Instagram time. Enjoy this week's favorite pictures and make sure you follow Mercedes-Benz on Instagram > http://instagram.com/MercedesBenz. Add #MBFanPhoto and you could score a prominent feature on our channels! Photos from Mercedes-Benz's post",
+          1444545180
+        ],
+        [
+          "A continued selection of the greatest Mercedes-AMG pictures of their Instagram channel. Don't forget to follow and share your #AMG shots with them! httpa//instagram.com/mercedesamg:::http://instagram.com/mercedesamg Best of Instagram @mercedesamg",
+          1444401345
+        ],
+        [
+          "Enjoy our selection of the week's most liked Instagram shots. And while you're at it, why don't you head on over to Instagram and 'like' our channel or send us your best Mercedes-Benz shot via #MBFanPhoto to be featured on said channel? And for more inspirational pics head over to http://mb4.me/MBInstagram Weekly Instagram Bliss",
+          1443368918
+        ],
+        [
+          "Weekly Instagram bliss coming straight at you! Don't forget to use #MBFanPhoto for a chance to have your best Mercedes-Benz shot featured on our Instagram channel. Photos from Mercedes-Benz's post",
+          1439647740
+        ],
+        [
+          "Dark and dangerous or with popping colors - how do you like your Mercedes-AMG best? Discover more on Instagram and make sure to follow: https://instagram.com/mercedesamg/ Photos from Mercedes-Benz's post",
+          1433360460
+        ],
+        [
+          "A selection of the greatest Mercedes-Benz USA pictures of their Instagram channel. Don't forget to follow and share your best shots with them! http://instagram.com/mbusa Best of @MBUSA Instagram",
+          1422517989
+        ],
+        [
+          "Every year, we fall for fall.\nThat\u2019s why we want to see your autumnal #mbClassic photos. Upload your best shots and tag them with #mbAutumn, and the best pictures will be featured across our channels online! Timeline Photos",
+          1414060680
+        ],
+        [
+          "Enjoy a selection of wonderful shots from Mercedes-Benz USA's Instagram channel, all created during their latest #MBPhotoPass. And don't forget to follow! http://instagram.com/mbusa Best of @mbusa - #MBPhotoPass",
+          1408005503
+        ],
+        [
+          "Here is this week's selection of the most beloved pictures on our Instagram channel. Don't forget to follow us on http://instagram.com/mercedesbenz Best of Instagram",
+          1399224374
+        ],
+        [
+          "This week's selection of our best Instagram shots. Make sure to follow our channel for any on-going #mbshootouts and contribute your best shots by using #mbfanphoto! http://www.instagram.com/MercedesBenz Attitude is... - Best of Instagram",
+          1387138295
+        ],
+        [
+          "This week's selection of our best Instagram shots. Make sure to follow our channel and contribute your best shots by using #mbfanphoto! http://www.instagram.com/MercedesBenz Shine of the Star - Best of Instagram",
+          1384716344
+        ],
+        [
+          "At this year's #IAA, #MercedesBenz features the biggest #Instagram wall - and you can be part of it by hashtagging your best Mercedes-Benz shots on Instagram with #mbcariaa. Take a look at this great, first selection! http://instagram.com/mercedesbenz Best of #MBCARIAA",
+          1379610351
+        ],
+        [
+          "A selection of the most popular Instagram photos. Don't forget, if you want to send us your photos, use #mbfanphoto on#Instagram! http://www.instagram.com/mercedesbenz Here's to colors... - Best of Instagram",
+          1376197968
+        ],
+        [
+          "You appreciate #MercedesBenz and we appreciate all of your beautiful photos of our vehicles! This is why we show a selection of fan photos from Instagram right here. If you want to contribute, make sure to use #mbfanphoto! http://instagram.com/mercedesbenz #mbfanphoto on Instagram",
+          1375332960
+        ],
+        [
+          "A selection of the most popular Instagram photos. Don't forget, if you want to send us your photos, use #mbfanphoto on #Instagram! http://www.instagram.com/mercedesbenz Here's to Performance... - Best of Instagram",
+          1374987401
+        ],
+        [
+          "A selection of some of the most beloved #Instagram photos. If you want to contribute to our Instagram channel, make sure to use #mbfanphoto! http://instagram.com/mercedesbenz Love for the Star - Best of Instagram",
+          1372012534
+        ],
+        [
+          "We present our latest selection of the most beloved pictures on our Instagram channel. Don't forget to follow us on http://instagram.com/mercedesbenz Best of Instagram",
+          1370197405
+        ],
+        [
+          "Here's this week's selection of the most beloved Instagram pictures. Big thank you to Jan ( auto-geil.de ) and Jens ( rad-ab.com ), the two automotive bloggers who have been in charge for our Instagram throughout the whole month of March. To check out their whole work, follow us on http://www.instagram.com/MercedesBenz Best of Instagram",
+          1364113278
+        ],
+        [
+          "We present our latest selection of the most beloved pictures on our Instagram channel. Don't forget to follow us onhttp://instagram.com/mercedesbenz The roar of the engine - Best of Instagram",
+          1363521328
+        ],
+        [
+          "http://instagr.am/p/RpvMTgzcJY/ Best of Instagram",
+          1352624648
+        ],
+        [
+          "http://instagram.com/p/RIAxGXzcKp/\n\nImpression of the Mercedes-Benz & Friends Stella Appassionata. Best of Instagram",
+          1351324939
+        ]
+      ],
+      "dates_start": 1364157638,
+      "dates_end": 1426405184,
+      "likes_avg": 6249,
+      "likes_stdev": 8958,
+      "comments_avg": 81,
+      "comments_stdev": 63,
+      "shares_avg": 5536,
+      "shares_stdev": 7116
+    },
+    {
+      "number": 3,
+      "important": [
+        "europ",
+        "via mercedesbenz",
+        "control",
         "drive event",
-        "drive"
+        "mercedesbenz drive event",
+        "game",
+        "invit",
+        "life",
+        "steer",
+        "track"
       ],
       "common": [
         "benz",
@@ -39,12 +263,28 @@
       ],
       "messages": [
         [
+          "Swapping the controller for a steering wheel and the couch for a leather seat \u2013 Bandai Namco Entertainment Europe invited journalists to our frozen lake in Sorsele to experience the upcoming Project CARS 2 in both virtual AND real life. The track is featured in the game!\nFind out more at projectcarsgame.com\nvia Mercedes-Benz Driving Events",
+          1487437260
+        ],
+        [
+          "Snow, gravel, sand, ice and crushed rock all in the confines of just six kilometres: here, in a quarry near Kitzb\u00fchel, is one of the most demanding off-road courses in the world.\nUntil March 5, you can enjoy all that at the Offroad Experiences in Kitzb\u00fchel and Lech \u2013 some of them are even free of charge.\nBooking and more information for Kitzb\u00fchel: +43 (0) 699 1120 2103. For Lech : +43 (0) 681 2066 1249.\n\nLearn more: http://mb4.me/GClassOffroad Timeline Photos",
+          1486314007
+        ],
+        [
           "The Mercedes-Benz Driving Events Winter Season 2015/16 is underway. Improve your driving skills, master risky situations on icy tracks and collect memories that will last a lifetime. Check out Mercedes-Benz Driving Events and keep up-to-date on the latest offers. Photos from Mercedes-Benz's post",
           1444203720
         ],
         [
           "Combine the iconic Mercedes-Benz G-Class with the thrill of an off-road experience as presented by Mercedes-Benz Driving Events and pure driving joy will ensue! Mercedes-Benz Driving Events Graz is calling. The Mercedes-Benz Driving Events G-Class Experience invites you to the place where this epitome of the off-roader is born.\n\nCome to the wild side: http://benz.me/Austria_Experience",
           1436977998
+        ],
+        [
+          "There's a lot to be said about the Mercedes-Benz Driving Events off-road training in Kitzb\u00fchel. But sometimes it's even better to let images do the talking.\nTo learn more about this training, go to http://benz.me/Offroad-Winter_Kitzbuehel/. Off-Road Training Kitzb\u00fchel",
+          1422245100
+        ],
+        [
+          "Offroad action ahead: From 27 December 2014 through 22 February 2015 the Mercedes-Benz Driving Events in Kitzb\u00fchel take place every day (except new year) from 10am to 6pm. Experience the Mercedes-Benz off-road vehicles in their natural environment: the perfect alternative to crowded slopes. Kitzb\u00fchel Offroad Event",
+          1418086800
         ],
         [
           "Practice with the DTM pros! Together with the Mercedes-Benz Motorsport drivers Christian Vietoris and Robert Wickens, Mercedes-Benz Driving Events gives you the opportunity to correct your driving techniques bend by bend. \n\nGet all information on the trainings, dates and prices right here: http://benz.me/MBDrivingEvents_OnroadSummerTraining/ Timeline Photos",
@@ -69,6 +309,14 @@
         [
           "Mercedes-Benz Driving Events. Onroad.\n\nThe winter season has come to an end with the last trainings in Sweden and Austria in early March. More than 700 participants have steered current Mercedes-Benz vehicles over the ice in Saalfelden (Austria) and in Sorsele (Sweden). But it's only a short break for the Driving Events team since summer season starts in April and preparations are in full action! Photos from Mercedes-Benz's post",
           1395018000
+        ],
+        [
+          "To learn more go to www.mercedes-benz-events.com. Off-Road Adventures in South America",
+          1393751232
+        ],
+        [
+          "Shaky bridges, muddy roads, heavy rains and snow fall - the participants of the South America Off-Road Driving Event have conquered a number of challenges and were rewarded with stunningly beautiful countrysides and a large diversity of fauna. To learn more go to www.mercedes-benz-events.com. Off-Road Adventures in South America",
+          1392718638
         ],
         [
           "The first Mercedes-Benz Driving Events tour group in 2014 is currently on a memorable trip through Uruguay, Argentina, Brazil, Bolivia, Peru and Chile leading them over loamy jungle slopes, main roads or lonely paths through the stunning mountain scenery of the Andes. Want to join the trip? Get all details here: www.mercedes-benz-events.com Ocean to Ocean in 36 Days.",
@@ -127,28 +375,28 @@
           1334428522
         ]
       ],
-      "dates_start": 1357960930,
-      "dates_end": 1412398710,
-      "likes_avg": 7053,
-      "likes_stdev": 8371,
-      "comments_avg": 86,
-      "comments_stdev": 135,
-      "shares_avg": 968,
-      "shares_stdev": 1012
+      "dates_start": 1359374558,
+      "dates_end": 1431661805,
+      "likes_avg": 7093,
+      "likes_stdev": 7803,
+      "comments_avg": 80,
+      "comments_stdev": 121,
+      "shares_avg": 894,
+      "shares_stdev": 916
     },
     {
-      "number": 2,
+      "number": 4,
       "important": [
-        "mercedesamg",
         "debut",
         "driver",
-        "make",
-        "learn",
-        "dtm",
         "short",
         "question",
-        "accord",
-        "three"
+        "dtm",
+        "learn",
+        "make",
+        "three",
+        "mercedesamg",
+        "accord"
       ],
       "common": [
         "amg",
@@ -294,26 +542,199 @@
       ],
       "dates_start": 1378087165,
       "dates_end": 1442529685,
-      "likes_avg": 5386,
-      "likes_stdev": 7398,
+      "likes_avg": 5408,
+      "likes_stdev": 7384,
       "comments_avg": 38,
-      "comments_stdev": 73,
+      "comments_stdev": 72,
       "shares_avg": 350,
-      "shares_stdev": 773
+      "shares_stdev": 772
     },
     {
-      "number": 3,
+      "number": 5,
+      "important": [
+        "stand",
+        "auto",
+        "gt",
+        "mercedesamg gt",
+        "photographi",
+        "matter",
+        "courtesi",
+        "mercedesamg",
+        "cooper",
+        "photo courtesi"
+      ],
+      "common": [
+        "auto",
+        "courtesy",
+        "mbshootout",
+        "mercedes",
+        "photo",
+        "photo courtesy",
+        "photography",
+        "photos",
+        "timeline",
+        "timeline photos"
+      ],
+      "messages": [
+        [
+          "And here's to a vehicle that stands out no matter what: the Mercedes-AMG GT. \n\nPhoto courtesy of Peter Mosoni | Photography in cooperation with Pappas Auto. Timeline Photos",
+          1432681441
+        ],
+        [
+          "Can you name the model?\n\nPhoto courtesy of Peter Mosoni | Photography with Pappas Auto. Timeline Photos",
+          1429770604
+        ],
+        [
+          "Straight off the pages of a fairytale. \n\nThe CLA shot by Eirik Aadde Photography on Senja, the \"Fairytale Island\". Timeline Photos",
+          1429660804
+        ],
+        [
+          "Here's some music to kick off the week: today's Mercedes-Benz Mixed Tapedownloads bring Tropics & Sea Change. http://mixedtape.mb4.me/Rapture_Squares\n\nPhoto courtesy of Instagram user @loertsch. Timeline Photos",
+          1429484405
+        ],
+        [
+          "Moonlight drowns out all but the brightest stars, they say. \n\nPhoto courtesy of Eirik Aadde Photography in cooperation with Motor-Trade Trondheim. Timeline Photos",
+          1428132909
+        ],
+        [
+          "Today's #tbt brings classic beauty in form of the Mercedes 250 S. \n\nPhoto courtesy of Peter Mosoni | Photography. Timeline Photos",
+          1426791605
+        ],
+        [
+          "You, an empty road and... which Mercedes-Benz model?\n\nPhoto courtesy of Jan Gleitsmann. Timeline Photos",
+          1422010801
+        ],
+        [
+          "Everybody set for the festive season? \nPhoto courtesy of marioroman pictures. Timeline Photos",
+          1419108932
+        ],
+        [
+          "The holiday season is a time to relax and indulge in well-deserved off-time. To capture this very spirit, photographers Stefan Bischoff and Patrick Paparella took the CLS and CLA out to German seaside resort Heiligendamm and the majestic Grand Hotel Heiligendamm. If this doesn't set the mood for the holidays, what will?\n\nPhotos courtesy of Patrick Paparella Photography and Spiegelschlag Photography. 'Tis the Season!",
+          1419068932
+        ],
+        [
+          "Back or front?\n\nPhoto courtesy of teymur madjderey's icedsoul photography. Timeline Photos",
+          1413500401
+        ],
+        [
+          "Leading the way: Mercedes-Benz is the world's most valuable premium automobile brand according to Interbrand's recent \"Best of Global Brands 2014\" ranking. Thank you for all the love!\n\nPhoto of the S-Class Coup\u00e9 interior courtesy of Easton Chang Photography. Timeline Photos",
+          1412895601
+        ],
+        [
+          "Photos courtesy of 'Die Raumpiloten' | www.dieraumpiloten.de. Allg\u00e4u-Orient-Rallye 2014 - Die Raumpiloten",
+          1400056230
+        ],
+        [
+          "The man who has no imagination has no wings.\n- Muhammad Ali\n\nPhoto courtesy of Auto-Focused. Timeline Photos",
+          1399308233
+        ],
+        [
+          "Photos courtesy of Dejan Sokolovski Photography #mbshootout Sweden: @dejjisch",
+          1399108588
+        ],
+        [
+          "Photos courtesy of Patrick Paparella Photography #mbshootout Essen - Patrick Paprella",
+          1396118021
+        ],
+        [
+          "Photo courtesy of marioroman pictures #mbshootout Hamburg: @marioroman",
+          1394908864
+        ],
+        [
+          "The Stars are shining even brighter tonight as we are celebrating over 13 million Mercedes-Benz fans right here on Facebook. Thank you for making this such a great community! #thebest\n\nPhoto courtesy of Frederic Schlosser Photography. Timeline Photos",
+          1392575628
+        ],
+        [
+          "Photos courtesy of Auto-Focused 1957 300 SL Roadster Strawberry Red",
+          1392500159
+        ],
+        [
+          "Photo by Auto-Focused Arizona Concours d\u2019Elegance",
+          1392202780
+        ],
+        [
+          "This 1957 300 SL Roadster is the winner of the Arizona Concours d'Elegance. What's your current favorite classic Mercedes-Benz?\n\nPhoto: Auto-Focused Timeline Photos",
+          1391594731
+        ],
+        [
+          "Photo courtesy of https://www.facebook.com/jan.gleitsmann\nRead his article [German only]: http://benz.me/Auto-Geil_MBRT14/ #mbrt14: Jan Gleitsmann",
+          1390040307
+        ],
+        [
+          "Photo courtesy of Spiegelschlag Photography #mbshootout Hamburg: @zweikommaacht",
+          1388829416
+        ],
+        [
+          "Photo courtesy of Andrew Link Photography #mbshootout New York: @andrewlink",
+          1388265971
+        ],
+        [
+          "Photos courtesy of marioroman pictures #mbshootout Kitzb\u00fchel: @marioroman",
+          1387652396
+        ],
+        [
+          "All photos courtesy of Jan Gleitsmann | http://www.auto-geil.de #mbshootout Essen: Jan Gleitsmann",
+          1386432243
+        ],
+        [
+          "Photos courtesy of http://blog.daimler.de/ Black Sea Circle Rallye",
+          1384847160
+        ],
+        [
+          "Photo courtesy of K\u00d6LN FORMAT #mbshootout Kitzb\u00fchel: @koelnformat",
+          1384629797
+        ],
+        [
+          "Picture courtesy of teymur madjderey's icedsoul photography #mbshootout Kitzb\u00fchel: @teymur",
+          1383983625
+        ],
+        [
+          "In the beginning it was all black and white.\r\n- Maureen O'Hara\r\n\r\n[Mercedes-Benz CLA shot by Bas Fransen Car Photography.] Timeline Photos",
+          1383418802
+        ],
+        [
+          "Dull November brings the blast,\nThen the leaves are whirling fast.\n- Sara Coleridge\n\n[Photo courtesy of Johannes Schl\u00f6rb | powered by  Avis Deutschland] Timeline Photos",
+          1383289202
+        ],
+        [
+          "Like an animal on the prowl, ready to pounce. \r\nThe #C63 #AMG #BlackSeries courtesy of Bas Fransen Car Photography. Timeline Photos",
+          1381208385
+        ],
+        [
+          "Each year in August, an enthusiastic crowd of classic car devotees come together in #PebbleBeach, California, for a celebration of elegance in its purest form: the Concours d\u2019Elegance. http://benz.me/Pebble-Beach-2013/\r\n\r\n[Photo courtesy of Auto-Focused] Timeline Photos",
+          1380301201
+        ],
+        [
+          "SLR at Yas Marina Circuit. Abu dhabi UAE\r\n\r\ncheck out our photography http://www.facebook.com/avantgarde.ae",
+          1348428722
+        ],
+        [
+          "By Gold's Photographie :) <3",
+          1347453462
+        ]
+      ],
+      "dates_start": 1377174917,
+      "dates_end": 1419310985,
+      "likes_avg": 11331,
+      "likes_stdev": 15028,
+      "comments_avg": 106,
+      "comments_stdev": 155,
+      "shares_avg": 899,
+      "shares_stdev": 1299
+    },
+    {
+      "number": 6,
       "important": [
         "year",
+        "site",
         "achtzig",
-        "year mercedesbenz",
         "mercedesbenz motorsport",
+        "great",
+        "honor",
         "bring",
         "mbshootout",
-        "exhibit",
         "motorsport",
-        "site",
-        "honor"
+        "exhibit"
       ],
       "common": [
         "benz",
@@ -468,39 +889,43 @@
       "dates_start": 1381902702,
       "dates_end": 1389468335,
       "likes_avg": 5180,
-      "likes_stdev": 5644,
+      "likes_stdev": 5643,
       "comments_avg": 47,
       "comments_stdev": 55,
       "shares_avg": 591,
-      "shares_stdev": 839
+      "shares_stdev": 838
     },
     {
-      "number": 4,
+      "number": 7,
       "important": [
-        "emiss gkm timelin",
-        "even",
-        "consumpt km emiss gkm",
+        "effici",
+        "consumpt",
         "combin fuel consumpt km emiss",
-        "km emiss gkm",
-        "behind",
-        "wheel",
-        "consumpt km emiss gkm timelin",
-        "gclass",
-        "know"
+        "emiss combin gkm",
+        "power",
+        "dynam",
+        "km emiss combin",
+        "km",
+        "combin",
+        "combin fuel consumpt km"
       ],
       "common": [
+        "100",
         "100 km",
-        "100 km co2",
-        "100 km co2 emission",
         "class",
+        "combined",
         "consumption",
-        "fuel consumption",
         "http",
         "http mb4",
         "km",
+        "km http",
         "mb4"
       ],
       "messages": [
+        [
+          "Efficient and dynamic.\n\n\ud83d\udcf7 Patrick Pross for #MBsocialcar\n\n[Mercedes-Benz S 500 e | Combined fuel consumption: 2.8 l/100 km | CO\u2082 emissions combined: 65 g/km | Power consumption weighted: 15.5 kWh/100 km | http://mb4.me/efficiency_statement] Photos from Mercedes-Benz's post",
+          1487521140
+        ],
         [
           "The G-Class defies forces of nature \u2014 even gravity. Get behind the wheel of a vehicle that knows no limits.\nhttp://benz.me/Mercedes-Benz-G-Class\n\n[Mercedes-Benz G 350 d I Combined fuel consumption: 9.9 l/100 km | CO2 emission: 261 g/km |  http://mb4.me/EfficiencyStatement] Timeline Photos",
           1444604581
@@ -642,217 +1067,213 @@
           1377190605
         ]
       ],
-      "dates_start": 1389198173,
-      "dates_end": 1412631177,
-      "likes_avg": 6472,
-      "likes_stdev": 7341,
-      "comments_avg": 93,
-      "comments_stdev": 156,
-      "shares_avg": 1350,
-      "shares_stdev": 1580
+      "dates_start": 1384989348,
+      "dates_end": 1421651472,
+      "likes_avg": 7289,
+      "likes_stdev": 8705,
+      "comments_avg": 100,
+      "comments_stdev": 159,
+      "shares_avg": 1347,
+      "shares_stdev": 1558
     },
     {
-      "number": 5,
+      "number": 8,
       "important": [
-        "sl",
-        "see",
-        "desert",
-        "still",
-        "tbt",
-        "goe",
-        "action",
-        "meet",
-        "today",
-        "beauti"
+        "gt combin fuel consumpt emiss",
+        "gt",
+        "mercedesamg gt",
+        "inspir",
+        "gkm photo",
+        "gkm photo mercedesbenz post",
+        "mercedesamg",
+        "race",
+        "mercedesamg gt combin",
+        "breathtak"
       ],
       "common": [
-        "300",
-        "300 sl",
+        "amg",
+        "amg gt",
         "benz",
-        "car",
+        "combined",
+        "gt",
+        "http",
+        "km",
         "mercedes",
-        "mercedes benz",
-        "photos",
-        "sl",
-        "timeline",
-        "timeline photos"
+        "mercedes amg",
+        "mercedes amg gt"
       ],
       "messages": [
         [
-          "Today's #tbt goes out to the 1980 500 SL Rallye, a beauty that still makes our hearts beat faster when we see it in action. http://benz.me/Hot-Ride_500SL 500 SL Rallye meets Californian Desert",
-          1438247393
+          "Mercedes-AMG and Cigarette Racing presented the Cigarette Racing Team 50\u2019 Marauder AMG boat inspired by the breathtaking Mercedes-AMG GT R. Awe-inspiring, isn't it?\n\nRead all about it here: http://mb4.me/Marauder\n\n[Mercedes-AMG GT R | Combined fuel consumption: 11.4 l/100km | CO2 emission combined: 259 g/km | http://mb4.me/efficiency_statement] Photos from Mercedes-Benz's post",
+          1487750078
         ],
         [
-          "Mercedes-Benz SL. A true head-turner. #tbt Timeline Photos",
-          1435249920
+          "Mercedes-AMG and Cigarette Racing teamed up again this year to continue to set new benchmarks and push the limits of performance by presenting the Cigarette Racing Team 50\u2019 Marauder AMG boat inspired by the breathtaking Mercedes-AMG GT R. \n\nMore about the GT R: http://mb4.me/AMG_GT_R\n\n[Mercedes-AMG GT R | Combined fuel consumption: 11.4 l/100km | CO2 emission combined: 259 g/km | http://mb4.me/efficiency_statement] Photos from Mercedes-Benz's post",
+          1487293201
         ],
         [
-          "dream car #globalstarmotors",
-          1425185306
+          "The Mercedes-Benz-AMG GT Roadster\u2026 built to be wild. Take another epic drive with Peter Fonda in Mercedes\u2019 Super Bowl ad, directed by the Coen Brothers. https://youtu.be/BvHFM8c7cPM Mercedes-AMG GT Roadster Commercial \"Easy Driver\" \u2013 Directed by The Coen... Riding on the open road with Steppenwolf's \"Born to be Wild\" playing in your head. How do you make this experience any better? Hint: The legendary...",
+          1486398621
         ],
         [
-          "Close your eyes and imagine your dream car: what are the features that define your dream car? \r\n\r\nLeave a comment to let us know! Timeline Photos",
-          1368704336
+          "Sporting action on unfamiliar terrain. \nNico Rosberg and Martin Kaymer swapped jobs for a day: http://mb4.me/NicoVsMartin\n\n[Mercedes-AMG GT S | Combined fuel consumption: 9.6-9.4 l/100 km | CO2 emission: 224-219 g/km | http://mb4.me/EfficiencyStatement] Photos from Mercedes-Benz's post",
+          1442642280
         ],
         [
-          "\u201cIf we are facing in the right direction, all we have to do is keep on walking.\u201d - Buddhist Proverb\r\n\r\nThanks to marioroman pictures for this wonderful shot of the SL 63 AMG! Timeline Photos",
-          1361300400
+          "The IAA 2015 opened its doors. With over 70 vehicles, more than 9,000 square metres of exhibition space and many world premieres, Mercedes-Benz welcomes you at the world's largest motor show in Frankfurt, Germany. We hope you are as excited as MERCEDES AMG PETRONAS race driver Nico Rosberg is, as he prepares for this event at HUGO BOSS. #MBIAA15\n\n[Mercedes-AMG GT S | Combined fuel consumption: 9.6-9.4 l/100 km | CO2 emission: 224-219 g/km | http://mb4.me/EfficiencyStatement] Time for the 2015 IAA \u2013 Nico Rosberg X AMG GT S.",
+          1442466694
         ],
         [
-          "Mercedes-Benz Advent Calendar\r\n\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2610\u2610\u2610\r\n\r\nThis 1957 300 SL with its very unique car paint was delivered to Adrian Conan Doyle, son of Sir Arthur Conan Doyle. The car is now privately owned and has been meticulously restored. Timeline Photos",
-          1356083221
+          "Mercedes-AMG is going beyond adrenaline with MV Agusta Motor SpA. Stay tuned! \n\n[Mercedes-AMG GT | Combined fuel consumption 9.3 l/100 km | CO2-emission combined: 216 g/km | http://mb4.me/EfficiencyStatement] Timeline Photos",
+          1442159161
         ],
         [
-          "Mercedes-Benz Advent Calendar\r\n\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2610\u2610\u2610\u2610\u2610\r\n\r\nWhile the 300 SL was offered as a coup\u00e9 with the typical gullwing doors from 1954 to 1957, it was also offered as a roadster from 1957 to 1963. The model shown in the picture is one of 6 pilot vehicles. Timeline Photos",
-          1355909285
+          "Join our hero, the Mercedes-AMG GT, on a magical journey through light and shadow on a quest to find the most beloved stars at Germany's scenic Europa-Park.\n\n[Combined fuel consumption: 9.6-9.4 l/100 km | combined CO2-emission: 224-219 g/km | http://mb4.me/EfficiencyStatement]",
+          1440306001
         ],
         [
-          "Mercedes-Benz Advent Calendar\r\n\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2610\u2610\u2610\u2610\u2610\u2610\r\n\r\nThe 1957 300 SL was based on the 1952 race car and featured the legendary gullwings - for construction reasons, by the way: the height of the tubular frame didn't allow for conventional doors. Timeline Photos",
-          1355821402
+          "Mercedes-AMG is setting a further landmark in the brand history: the new C 63 Coup\u00e9 is the next step on the way to yet more technical and visual distinctiveness. Get a first glimpse of the sportiest C-Class ever. \n\n[Combined fuel consumption: 8.9-8.6 l/100 km | combined CO2-emission: 209-200 g/km | http://mb4.me/EfficiencyStatement] Mercedes-AMG C 63 Coup\u00e9",
+          1440046800
         ],
         [
-          "Mercedes-Benz Advent Calendar\r\n\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2610\u2610\u2610\u2610\u2610\u2610\u2610\r\n\r\nThis 500 SL Rallye was built four times and only used for test purposes at the Bandama Rallye in 1980 as well as for unofficial uses at the German Rallye Championship in 1982/83. Timeline Photos",
-          1355733393
+          "This intriguing coup\u00e9 is the third member of the C-Class family. Both athletic and sporty, the clear yet sensual design lines have progressive touches. Technically and visually distinctive, Mercedes-AMG is showing the way forward for the performance brand with the Mercedes-AMG C 63 Coup\u00e9. Stay tuned for more!\n\n[Combined fuel consumption: 8.9-8.6 l/100 km | combined CO2-emission: 209-200 g/km | http://mb4.me/EfficiencyStatement] Timeline Photos",
+          1439996402
         ],
         [
-          "Mercedes-Benz Advent Calendar\r\n\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\r\n\r\nAs a special model of the 300 SL Roadster, this 300 SLS was designed for the American Sportscar Championship in 1958. Timeline Photos",
-          1355651236
+          "Are you ready for a first look at the Mercedes-AMG C-Class Coup\u00e9? Fasten your seatbelt, you're in for a treat. Stay tuned!\n\n[Combined fuel consumption: 8.9-8.6 l/100 km | combined CO2-emission: 209-200 g/km | http://mb4.me/EfficiencyStatement] First Look: Mercedes-AMG C 63 S",
+          1439874000
         ],
         [
-          "Mercedes-Benz Advent Calendar\r\n\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\r\n\r\nThis 190 SL Coup\u00e9 is the original and unrestored car of David R. Scott, the seventh man on the moon. The model was a huge favorite on the US market: 25,881 vehicles were produced between 1955 and 1963 - a majority of which went to the USA. Timeline Photos",
-          1355568218
+          "Hybrid by Nature. Mercedes-Benz presents the new Fashion Campaign for Spring/Summer 2016. Masterminded by legendary French fashion editor and stylist Carlyne Cerf De Dudzeele it stars Dutch supermodel Doutzen Kroes alongside the new GLC Plug-In Hybrid. http://benz.me/Hybrid-By-Nature\n\n[Mercedes-Benz GLC 350 e 4MATIC | Combined fuel consumption: 2.6 l/100 km | Power consumption weighted: 20 kWh/100km | CO2 emission: 60 g/km | http://mb4.me/EfficiencyStatement] Timeline Photos",
+          1434972822
         ],
         [
-          "Mercedes-Benz Advent Calendar\r\n\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\r\n\r\nWhile the 300 SL was offered as a coup\u00e9 with gullwing doors from 1954 to 1957, it existed as a roadster from 1957 to 1963. Timeline Photos",
-          1355478324
+          "We've all been very excited ever since the Mercedes-AMG GT has been introduced last year. But what did it take to bring this powerhouse to the streets? A look back. http://benz.me/No-Mercy Timeline Photos",
+          1433720161
         ],
         [
-          "Mercedes-Benz Advent Calendar\r\n\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\r\n\r\nIn 2001 the SL 500 continued the long tradition of the SL roadsters, providing dynamic driving experience and high driving safety. The model here shown is a pilot model. Timeline Photos",
-          1355425211
+          "Unfortunately it's not a #F1 weekend, so here's a little something instead: with the Mercedes-AMG GT S through the \u201cGr\u00fcne H\u00f6lle\u201d. http://benz.me/AMGGTS_Gruene-Hoelle\n \n[Mercedes-AMG GT S | Combined fuel consumption: 9.6-9.4 l/100km | CO2 emission: 224-219 g/km | http://mb4.me/EfficiencyStatement] Photos from Mercedes-Benz's post",
+          1429917300
         ],
         [
-          "Mercedes-Benz Advent Calendar\r\n\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\r\n\r\nTraditionally the Mercedes-Benz rally cars were based on the serial vehicles. In the case of the 1964 230 SL, a certain compromise was found between the 190 SL and the 300 SL: neither a hard-line roadster, nor a gentle boulevard sports car, it was a comfortable touring car with high performance and ideal driving safety. Timeline Photos",
-          1355304875
+          "High-end on two wheels: the high-performance mountainbike ROTWILD GT S was developed by ROTWILD Bikes in cooperation with Mercedes-AMG. http://benz.me/ROTWILDxAMG Photos from Mercedes-Benz's post",
+          1429052220
         ],
         [
-          "Mercedes-Benz Advent Calendar\r\n\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\r\n\r\nAlong with the 230 SL and 250 SL, this 1968 280 SL is generally called one of the \"Pagoda SL\" vehicles. It had a 2.8 liter engine that was previously only used for luxury class saloon cars, coup\u00e9s and cabriolets. Timeline Photos",
-          1355221693
+          "Here's a suggestion for you.\nWant to see more of the Mercedes-AMG GT? This way: http://benz.me/Mercedes-AMG-GT_Highlights Timeline Photos",
+          1428769921
         ],
         [
-          "Mercedes-Benz Advent Calendar\r\n\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\r\n\r\nThe difference between the 280 SLC and the 450 SLC is only for the true connoisseur to tell: while the 280 SLC Coup\u00e9 offers the smaller serial tire equipment, the 450 SLC is characterized by an unimposing front spoiler at the lower end of the fairing. Timeline Photos",
-          1355127312
+          "We really don't want to take away from your Sunday's precious #QualityTime. So we'll make this quick: a speedy video with one special moment to savor. \r\n\r\n[Mercedes-AMG GT S | Combined fuel consumption: 9.6-9.4 l/100km | CO2 emission: 224-219 g/km | http://mb4.me/EfficiencyStatement] Quick View x Mercedes-AMG GT",
+          1427637605
         ],
         [
-          "Mercedes-Benz Advent Calendar\r\n\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\r\n\r\nBased on the 1952 race car, the 1955 300 SL Coup\u00e9 was the first true sports car developed by Mercedes-Benz after the war and it - of course - featured the legendary gullwings. Timeline Photos",
-          1354874807
+          "Have you already set up your Mercedes-AMG GT S in Driveclub? If not, better hurry because there's a new feature in town: the first Mercedes-AMG themed multiplayer playlist. Start your engines now! #doublefame \r\n\r\n[Mercedes-AMG GT S | Combined fuel consumption: 9.6-9.4 l/100km | CO2 emission: 224-219 g/km | http://amg4.me/Efficiency-Statement] Mercedes-AMG GT S x DRIVECLUB",
+          1427357700
         ],
         [
-          "Mercedes-Benz Advent Calendar\r\n\u2612\u2612\u2612\u2612\u2612\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\r\n\r\nThe SLS AMG Roadster: while this super sports car doesn't have the gullwings of the coup\u00e9 version, the soft top opens and retracts in 11 seconds and at a speed of up to 50 km/h. Timeline Photos",
-          1354698042
+          "Make some noise! Mike D and the Mercedes-AMG GT go road tripping and INTERSECTION MAGAZIN Deutschland kindly shared the story with us. \n\nPhotos courtesy of Tim Adler Photography.\nFind out more about the Mercedes-AMG GT: http://benz.me/Mercedes-AMG_GT Photos from Mercedes-Benz's post",
+          1424502002
         ],
         [
-          "Mercedes-Benz Advent Calendar\r\n\u2612\u2612\u2612\u2612\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\r\n\r\nThe SL 55 AMG was first introduced in 2001, the highest performing R 230 model back then and thus the perfect Safety Car for the Formula 1 season 2001. Timeline Photos",
-          1354613443
+          "The car you dreamed of as a child has just been overtaken. \r\nThe Mercedes-AMG GT. Handcrafted by Racers.\r\n\r\n[Mercedes-AMG GT | Combined fuel consumption: 9.6-9.3 l/100km | CO2 emission: 224-216 g/km | http://mb4.me/EfficiencyStatement] Dream car. The Mercedes-AMG GT.",
+          1422615601
         ],
         [
-          "Mercedes-Benz Advent Calendar\n\u2612\u2612\u2612\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\n\nThe SL 65 AMG Black Series premiered in 2008 and was limited to 350 vehicles. In order to further enhance the road handling, a rear spoiler can be extended up to 12cm at a speed of over 120 km/h. Timeline Photos",
-          1354527009
+          "Cigarette Racing and Mercedes-AMG join forces for the fifth consecutive year to launch their latest development at the Miami International Boat Show beginning on February 12, 2015. The two legendary brands will unite once again to present the Mercedes-AMG GT S and the Cigarette Racing 50 Marauder GT S Concept.\n\n[Mercedes-AMG GT S | Fuel consumption combined: 9.6-9.4 l/100km | CO2 emission: 224-219 g/km | http://mb4.me/EfficiencyStatement] Timeline Photos",
+          1422450301
         ],
         [
-          "Mercedes-Benz Advent Calendar\r\n\u2612\u2612\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\r\n\r\nWhen it comes to safety in Formula 1, Mercedes-Benz has always been the top choice. In the racing season of 2008 a modified SL 63 AMG was used as safety car to ensure the race's safety in case of accidents, bad weather or other dangerous situations. Timeline Photos",
-          1354439533
+          "Such a tease.\n\nThe Mercedes-AMG GT shot by Peter Mosoni | Photography in cooperation with Pappas Auto. Photos from Mercedes-Benz's post",
+          1422104402
         ],
         [
-          "Mercedes-Benz Advent Calendar\r\n\u2612\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\r\n\r\nSince 1954 \"SL\" stands for elegance, sporty driving and innovative technology. The 2012 SL 500 follows this tradition and offers a unique combination of sportiness and comfort. Timeline Photos",
-          1354353491
+          "David Coulthard + Mercedes-AMG GT: you do the maths. Or let's let Red Bulletin do it. Just sit back and watch. #beyondtheordinary\n\u25ba http://benz.me/DC-meets-GT DC meets GT",
+          1421564400
         ],
         [
-          "After attending to a few matters of wear and tear on the body, our Classic Center in Irvine, CA brought this 1960 300 SL Roadster back to a factory correct appearance. Buffed and polished, it\u2019s now ready for the classic rally circuit.\n\nYou can find more information about this vehicle here: http://mbenz.us/XzKbOg The 300 SL Roadster - your next dream car?",
-          1351764169
+          "\u201cChampions of Fashion\u201c, the new #mbFashion Autumn/Winter 2015 campaign, sees the unlikely team of Lewis Hamilton, Nico Rosberg, model Dree Hemingway, the iconic C 111 and the new Mercedes-AMG GT. A clash of worlds and decades that come together in one piece of artistic photography. \u25ba http://benz.me/Champions-of-Fashion/\n \n[Mercedes-AMG GT | Combined fuel consumption: 9.6-9.3 l/100 km | CO2 emission: 224-216 g/km | http://mb4.me/EfficiencyStatement] Timeline Photos",
+          1418046061
         ],
         [
-          "The 2012 Pebble Beach Tour d'Elegance was led by a 1960 300 SL Roadster and its latest successor, the 2013 SL63 AMG. Despite the 50 years between them, their shared racing heritage was clear to everyone present, both\nvisually and audibly.\n\nYou can find more information about this vehicle here: http://mbenz.us/XzKbOg\n\nSL 63 AMG\n\nFuel consumption, NEDC combined: 9.9 l/100 km\nCO2 emission: 231 g/km* The 300 SL Roadster - your next dream car?",
-          1351764169
+          "Get your limited time purchase Mercedes-AMG GT in CSR Racing as part of #AppsforRED by App Store & (RED). Burn Rubber. Save Lives.",
+          1417428238
         ],
         [
-          "A small sample of the extensive restoration given this Roadster lies under the hood where you\u2019ll find a fully detailed and resealed engine, rebuilt oil and injection pumps, refurbished auxiliary fuel pump, as well as new fuel lines and oil pipes and hoses. This is all in addition to a rebuilt steering box, replaced u-joints and brake lines, re-cored radiator and much more.\n\nYou can find more information about this vehicle here: http://mbenz.us/XzKbOg The 300 SL Roadster - your next dream car?",
-          1351764169
+          "Gorden Wagener, Vice President Design Daimler AG, talks about the powerful design of the latest family member of Mercedes-Benz sportscars: the Mercedes-AMG GT. The Design of the new Mercedes-AMG GT",
+          1415062800
         ],
         [
-          "Sir Stirling Moss, the legend himself, behind the wheel of this very 300 SL Roadster, the legend itself. Taken at the 2012 Pebble Beach Tour\nd\u00b9Elegance, Sir Stirling lead a parade of classics around the Monterey\nPeninsula.\n\nYou can find more information about this vehicle here: http://mbenz.us/XzKbOg The 300 SL Roadster - your next dream car?",
-          1351764169
+          "It's finally here! Driveclub, the new racing game exclusive to the PlayStation 4, hits the stores this week and features a total of six exciting Mercedes-AMG models - including the brand-new Mercedes-AMG GT, of course! So get your controllers started! PlayStation 4 DRIVECLUB",
+          1412809200
         ],
         [
-          "After attending to a few matters of wear and tear on the body, our Classic Center in Irvine, CA brought this 1960 300 SL Roadster back to a factory correct appearance. Buffed and polished, it\u2019s now ready for the classic rally circuit.\n\nIf you were in La Quinta, CA in early October, you may have even seen this Roadster in person. There for the Gullwing Group convention, it cut quite a dashing figure.\n\nYou can find more information about this vehicle here: http://mbenz.us/XzKbOg The 300 SL Roadster - your next dream car?",
-          1351764169
+          "++ EXPERT TALK LIVE FROM PARIS ++ Tune in to learn more right here: http://www.mb4.me/MB_Live/ \n\n\u25ba Mercedes-AMG GT: 5.45/3.45 p.m. (CEST/GMT)\n\u25ba Alternative Drives: 6.15/4.15 p.m. (CEST/GMT)\n\n[Mercedes-AMG GT | Combined fuel consumption: 9.6-9.3 l/100km | CO2 emission: 224-216 g/km | http://mb4.me/EfficiencyStatement] Timeline Photos",
+          1412256601
         ],
         [
-          "300 SL Coup\u00e9 1955 Mercedes-Benz drawings by Masao Kozu",
-          1349874305
+          "Two minutes of pure Mercedes-AMG GT power at the \"Circuit of the Americas\". What more could you ask for?\n\n[Mercedes-AMG GT | Combined fuel consumption: 9.6-9.3 l/100km | CO2 emission: 224-216 g/km | http://mb4.me/EfficiencyStatement] The new Mercedes-AMG GT at the \"Circuit of the Americas\" Handcrafted by Racers. Learn more: www.mercedes-amg.com/AMGGT Join the conversation: www.facebook.com/mercedesamg [Mercedes-AMG GT | Combined fuel consumptio...",
+          1411083301
         ],
         [
-          "Mercedes SL - www.snabshod.com",
-          1348945549
+          "Driving dynamics and comfort on long journeys. Racetrack performance and everyday practicality. The new Mercedes-AMG GT delivers on all counts.\n\nDiscover more: http://benz.me/Mercedes-AMG_GT/\n\n[Mercedes-AMG GT | Combined fuel consumption: 9.6-9.3 l/100km | CO2 emission: 224-216 g/km | http://mb4.me/EfficiencyStatement] Photos from Mercedes-Benz's post",
+          1410964501
         ],
         [
-          "1956 Mercedes-Benz 300 SL Gullwing (File Number: 13414)\r\nhttp://www.creativefilmcars.com/vehicle-search-top-detail.asp?intVehicleIndex=4264",
-          1348845005
+          "Get together, win together! Create a club, invite friends, & win a Playstation\u00ae4 with Driveclub featuring the all-new Mercedes-AMG GT! http://benz.me/Journey-of-Stars/\n\n[Mercedes-AMG GT | Combined fuel consumption: 9.6-9.3 l/100km | CO2 emission: 224-216 g/km | http://mb4.me/EfficiencyStatement] Journey of Stars",
+          1410654601
         ],
         [
-          "Seething beauty. \r\n\r\nSL. Aesthete, athlete. \r\n\r\nMore @ http://www.facebook.com/pages/Every-thing-high-sooooooo-high/227788867304176?ref=tn_tnmn",
-          1348671450
+          "When the Mercedes-AMG GT was unveiled on Wednesday, Cool Hunting had already had a chance to see the car without its camouflage during its final testings at the Bonneville Speedway in Utah. \n\nWatch the video right here: http://benz.me/Cool-Hunting_Mercedes-AMG_GT/\n\n[Mercedes-AMG GT | Combined fuel consumption: 9.6-9.3 l/100 km | CO2 emission: 224-216 g/km | http://mb4.me/EfficiencyStatement] Photos from Mercedes-Benz's post",
+          1410487500
         ],
         [
-          "[Hong] \n \nMercedes-Benz SL with AMG Sport Package + BRABUS.. \n<3  9tro - Archives [Hong] \r\n \r\nBRABUS releases their new kit for the Mercedes-Benz SL with sport package AMG.. \r\n<3",
-          1347674254
+          "It's finally here: The new Mercedes-AMG GT!  The second sports car entirely developed in house by Mercedes-AMG presents itself with a front mid-engine concept with transaxle and intelligent aluminium lightweight construction. The first sports car engine with internally mounted turbochargers ('hot inside V') and dry sump lubrication is configured in two output ratings: as a GT with 340 kW (462 hp) and as a GT S with 375 kW (510 hp).\n\nCan you hear the roar?\n\n[Mercedes-AMG GT | Combined fuel consumption: 9.6-9.3 l/100 km | CO2 emission: 224-216 g/km | http://mb4.me/EfficiencyStatement] The new Mercedes-AMG GT",
+          1410282440
         ],
         [
-          "Brabus SL AMG with  520 pk!",
-          1347439177
+          "It's just 5 days away. The new Mercedes-AMG GT breaks its cover at the world-premiere on Tuesday, and news has broken that AMG's newest superstar will join its other brethren in the world of Driveclub on the 8th of October. Can't wait to see the new supercar in the flesh? Here's an exclusive sneak peek. Photos from Mercedes-Benz's post",
+          1409900957
         ],
         [
-          "Brabus SL AMG",
-          1347439143
+          "Mercedes-Benz gives insides into the testing of the new Mercedes-AMG GT. 50 test drivers pushed the 462 to 510 hp sports cars to their limits during the past 32 months. Stay tuned and see more at its world premiere on September 9, 2014.",
+          1409455800
         ],
         [
-          "Thanks to your many comments on yesterday's post, here are your top 3 SL models in one handy graphic, which - by the way - is just the right size to be your next cover photo if you love the Mercedes-Benz SL! Timeline Photos",
-          1347374850
+          "\u201cDriving Performance\u201d, the new issue of the AMG Magazine, provides you dynamics, power and design made in Affalterbach, Germany. Across a total of 112 pages, it depicts the fascinating world of the AMG brand. With the Mercedes-AMG GT, the ever-growing model lineup gives rise to an absolute highlight. The issue begins with an impressive photo gallery of a camouflaged Mercedes-AMG GT during a test drive in Barcelona.\n \nEnjoy the dynamic and visually colorful mixture of topics from our Driving Performance Magazine here: http://benz.me/AMGMagazine/ Timeline Photos",
+          1402469636
         ],
         [
-          "To answer yesterday\u2019s quiz question: The Mercedes-Benz 230 SL was nicknamed \u2018Pagoda\u2018.\r\n\r\nWhich is your favorite SL? Timeline Photos",
-          1347275006
+          "The race \u2013 and the thrill \u2013 is earned in the curves. \n\nThis is what you get. The Mercedes-AMG GT. Mercedes-AMG GT",
+          1400605200
         ],
         [
-          "SL 65 AMG",
-          1332277923
-        ],
-        [
-          "To personalize my SL 65 AMG, I would _______ Timeline Photos",
-          1332250865
+          "Audi R8 GT Spyder VS Mercedes SLS Roadster",
+          1348317575
         ]
       ],
-      "dates_start": 1335845218,
-      "dates_end": 1381228792,
-      "likes_avg": 15205,
-      "likes_stdev": 14965,
-      "comments_avg": 292,
-      "comments_stdev": 426,
-      "shares_avg": 1584,
-      "shares_stdev": 1685
+      "dates_start": 1401589136,
+      "dates_end": 1451028273,
+      "likes_avg": 13982,
+      "likes_stdev": 12181,
+      "comments_avg": 200,
+      "comments_stdev": 433,
+      "shares_avg": 1298,
+      "shares_stdev": 2198
     },
     {
-      "number": 6,
+      "number": 9,
       "important": [
-        "amg fuel",
-        "amg fuel consumpt",
-        "emiss combin gkm",
+        "combin emiss combin gkm",
         "amg",
+        "emiss combin gkm",
+        "combin emiss combin",
+        "consumpt combin emiss",
+        "amg fuel",
         "amg fuel consumpt combin",
         "gla",
-        "consumpt combin emiss",
-        "combin emiss combin",
-        "combin emiss combin gkm",
-        "combin"
+        "combin",
+        "amg fuel consumpt"
       ],
       "common": [
         "100km",
@@ -1034,35 +1455,35 @@
       ],
       "dates_start": 1370837723,
       "dates_end": 1384344812,
-      "likes_avg": 19453,
-      "likes_stdev": 15053,
+      "likes_avg": 19448,
+      "likes_stdev": 15048,
       "comments_avg": 295,
-      "comments_stdev": 718,
-      "shares_avg": 2000,
-      "shares_stdev": 1681
+      "comments_stdev": 717,
+      "shares_avg": 1999,
+      "shares_stdev": 1680
     },
     {
-      "number": 7,
+      "number": 10,
       "important": [
-        "brake",
-        "shoot brake",
-        "provid",
-        "full",
         "vehicl",
-        "german",
-        "appli german market onli new",
-        "cls shoot",
         "cls",
-        "shoot"
+        "german",
+        "provid",
+        "shoot brake",
+        "shoot",
+        "combin gkm data",
+        "brake",
+        "appli german market onli new",
+        "cls shoot"
       ],
       "common": [
+        "accordance german regulation",
         "co2",
         "combined",
         "consumption",
         "fuel",
         "fuel consumption",
         "german",
-        "german regulation",
         "km",
         "new",
         "provided"
@@ -1077,11 +1498,11 @@
           1345215315
         ],
         [
-          "A-Roadshow in Zurich. \n\nFuel consumption combined: 6.4-3.8 l/100 km, CO2 emissions combined: 148-98 (g/km). The data do not relate to an individual vehicle and do not form part of the offer; they are provided solely for the purposes of comparison between different types of vehicles. The figures are provided in accordance with the German regulation \"PKW-EnVKV\" and apply to the German market only.\n\nFor more information on the new A-Class visithttp://a-class.mercedes-benz.com/ A-Roadshow Europe 2012",
+          "A-Roadshow in at the ATP Bastad. \n\nFuel consumption combined: 6.4-3.8 l/100 km, CO2 emissions combined: 148-98 (g/km). The data do not relate to an individual vehicle and do not form part of the offer; they are provided solely for the purposes of comparison between different types of vehicles. The figures are provided in accordance with the German regulation \"PKW-EnVKV\" and apply to the German market only.\n\nFor more information on the new A-Class visithttp://a-class.mercedes-benz.com/ A-Roadshow Europe 2012",
           1343401499
         ],
         [
-          "A-Roadshow in at the ATP Bastad. \n\nFuel consumption combined: 6.4-3.8 l/100 km, CO2 emissions combined: 148-98 (g/km). The data do not relate to an individual vehicle and do not form part of the offer; they are provided solely for the purposes of comparison between different types of vehicles. The figures are provided in accordance with the German regulation \"PKW-EnVKV\" and apply to the German market only.\n\nFor more information on the new A-Class visithttp://a-class.mercedes-benz.com/ A-Roadshow Europe 2012",
+          "A-Roadshow in Zurich. \n\nFuel consumption combined: 6.4-3.8 l/100 km, CO2 emissions combined: 148-98 (g/km). The data do not relate to an individual vehicle and do not form part of the offer; they are provided solely for the purposes of comparison between different types of vehicles. The figures are provided in accordance with the German regulation \"PKW-EnVKV\" and apply to the German market only.\n\nFor more information on the new A-Class visithttp://a-class.mercedes-benz.com/ A-Roadshow Europe 2012",
           1343401499
         ],
         [
@@ -1161,19 +1582,15 @@
           1333892836
         ],
         [
-          "Dr. Joachim Schmidt, Executive Vice President Mercedes-Benz Cars Sales & Marketing, presents the new generation GLK at the Mercedes-Benz press conference in New York.\n\nGL 350 CDI BLUETEC. Fuel consumption combined: 8.0-7.4 l/100 km, CO2 emissions combined: 209-192 (g/km). The data do not relate to an individual vehicle and do not form part of the offer; they are provided solely for the purposes of comparison between different types of vehicles. The figures are provided in accordance with the German regulation \"PKW-EnVKV\" and apply to the German market only. New York International Auto Show 2012",
-          1333819503
-        ],
-        [
           "Dr. Joachim Schmidt, Executive Vice President Mercedes-Benz Cars Sales & Marketing, presents the new generation GLK at the Mercedes-Benz press conference in New York.\n\nSL 65 AMG. Combined fuel consumption: 11.6 l/100 km. CO2 emissions: 270 g/km.\n\nGLK 250 BlueTEC 4MATIC. Combined fuel consumption: 6.1 l/100 km. CO2 emissions: 159 g/km.\n\nGL 350 CDI BLUETEC. Fuel consumption combined: 8.0-7.4 l/100 km, CO2 emissions combined: 209-192 (g/km). \nThe data do not relate to an individual vehicle and do not form part of the offer; they are provided solely for the purposes of comparison between different types of vehicles. The figures are provided in accordance with the German regulation \"PKW-EnVKV\" and apply to the German market only. New York International Auto Show 2012",
           1333819503
         ],
         [
-          "Mercedes-Benz at the New York International Auto Show 2012 (NYIAS)\n\n\nDr. Joachim Schmidt, Executive Vice President Mercedes-Benz Cars Sales & Marketing, presents the new generation GLK at the Mercedes-Benz press conference in New York.\n\nGLK 250 BlueTEC 4MATIC. Combined fuel consumption: 6.1 l/100 km. CO2 emissions: 159 g/km. The data do not relate to an individual vehicle and do not form part of the offer; they are provided solely for the purposes of comparison between different types of vehicles. The figures are provided in accordance with the German regulation \u201cPKW-EnVKV\u201d and apply to the German market only. New York International Auto Show 2012",
+          "Mercedes-Benz at the New York International Auto Show 2012 (NYIAS)\n\nOla K\u00e4llenius, CEO of Mercedes-AMG GmbH, presents the new SL 65 AMG at the Mercedes-Benz press conference in New York.\n\nSL 65 AMG. Combined fuel consumption: 11.6 l/100 km. CO2 emissions: 270 g/km. The data do not relate to an individual vehicle and do not form part of the offer; they are provided solely for the purposes of comparison between different types of vehicles. The figures are provided in accordance with the German regulation \u201cPKW-EnVKV\u201d and apply to the German market only. New York International Auto Show 2012",
           1333819502
         ],
         [
-          "Mercedes-Benz at the New York International Auto Show 2012 (NYIAS)\n\nOla K\u00e4llenius, CEO of Mercedes-AMG GmbH, presents the new SL 65 AMG at the Mercedes-Benz press conference in New York.\n\nSL 65 AMG. Combined fuel consumption: 11.6 l/100 km. CO2 emissions: 270 g/km. The data do not relate to an individual vehicle and do not form part of the offer; they are provided solely for the purposes of comparison between different types of vehicles. The figures are provided in accordance with the German regulation \u201cPKW-EnVKV\u201d and apply to the German market only. New York International Auto Show 2012",
+          "Mercedes-Benz at the New York International Auto Show 2012 (NYIAS)\n\n\nDr. Joachim Schmidt, Executive Vice President Mercedes-Benz Cars Sales & Marketing, presents the new generation GLK at the Mercedes-Benz press conference in New York.\n\nGLK 250 BlueTEC 4MATIC. Combined fuel consumption: 6.1 l/100 km. CO2 emissions: 159 g/km. The data do not relate to an individual vehicle and do not form part of the offer; they are provided solely for the purposes of comparison between different types of vehicles. The figures are provided in accordance with the German regulation \u201cPKW-EnVKV\u201d and apply to the German market only. New York International Auto Show 2012",
           1333819502
         ],
         [
@@ -1189,12 +1606,16 @@
           1332340701
         ],
         [
+          "Mercedes-Benz at the Geneva International Motor Show 2012\r\n\r\nDr. Thomas Weber, Member of the Board of Daimler AG, responsible for Group Research and Mercedes-Benz Cars Development, at the presentation of the E 300 BlueTEC HYBRID in Geneva. \r\n\r\nCombined fuel consumption: 4.2l/100km\r\nCombined CO2 emission: 109 (g/km)\r\n\r\nThe data do not relate to an individual vehicle and do not form part of the offer; they are provided solely for the purposes of comparison between different types of vehicles. The figures are provided in accordance with the German regulation \u201cPKW-EnVKV\u201d and apply to the German market only. Mercedes-Benz Highlights from the Geneva Motor Show 2012",
+          1331052033
+        ],
+        [
           "Mercedes-Benz at the Geneva International Motor Show 2012\r\nDr. Joachim Schmidt, Executive Vice President Mercedes-Benz Cars Sales & Marketing, at the presentation of the new SL in Geneva. \r\n\r\nCombined fuel consumption: 9.2-6.8l/100km\r\nCombined CO2 emission: 214-159 (g/km)\r\n\r\nThe data do not relate to an individual vehicle and do not form part of the offer; they are provided solely for the purposes of comparison between different types of vehicles. The figures are provided in accordance with the German regulation \u201cPKW-EnVKV\u201d and apply to the German market only. Mercedes-Benz Highlights from the Geneva Motor Show 2012",
           1331052033
         ],
         [
-          "Mercedes-Benz at the Geneva International Motor Show 2012\r\n\r\nDr. Thomas Weber, Member of the Board of Daimler AG, responsible for Group Research and Mercedes-Benz Cars Development, at the presentation of the E 300 BlueTEC HYBRID in Geneva. \r\n\r\nCombined fuel consumption: 4.2l/100km\r\nCombined CO2 emission: 109 (g/km)\r\n\r\nThe data do not relate to an individual vehicle and do not form part of the offer; they are provided solely for the purposes of comparison between different types of vehicles. The figures are provided in accordance with the German regulation \u201cPKW-EnVKV\u201d and apply to the German market only. Mercedes-Benz Highlights from the Geneva Motor Show 2012",
-          1331052033
+          "C 250 CDI 4MATIC BlueEFFICIENCY Estate\r\n\r\nFuel consumption combined: 5.5 l/100 km\r\nCO2 emission: 147 g/km\r\n\r\nThe data do not relate to an individual vehicle and do not form part of the offer; they are provided solely for the purposes of comparison between different types of vehicles. The figures are provided in accordance with the German regulation \"PKW-EnVKV\" and apply to the German market only. 4MATIC Live Driving Experience by Mercedes-Benz France",
+          1330190193
         ],
         [
           "CLS 350 CDI 4MATIC BlueEFFICIENCY Coup\u00e9\r\n\r\nFuel consumption combined: 6.7 l/100 km\r\nCO2 emission: 177 g/km\r\n\r\nThe data do not relate to an individual vehicle and do not form part of the offer; they are provided solely for the purposes of comparison between different types of vehicles. The figures are provided in accordance with the German regulation \"PKW-EnVKV\" and apply to the German market only. 4MATIC Live Driving Experience by Mercedes-Benz France",
@@ -1205,15 +1626,11 @@
           1330190193
         ],
         [
-          "C 250 CDI 4MATIC BlueEFFICIENCY Estate\r\n\r\nFuel consumption combined: 5.5 l/100 km\r\nCO2 emission: 147 g/km\r\n\r\nThe data do not relate to an individual vehicle and do not form part of the offer; they are provided solely for the purposes of comparison between different types of vehicles. The figures are provided in accordance with the German regulation \"PKW-EnVKV\" and apply to the German market only. 4MATIC Live Driving Experience by Mercedes-Benz France",
-          1330190193
-        ],
-        [
-          "CLS 350 CDI 4MATIC BlueEFFICIENCY Coup\u00e9\r\nFuel consumption combined: 6.7 l/100 km\r\nCO2 emission: 177 g/km\r\n\r\nS 350 BlueTEC 4MATIC \r\nFuel consumption combined: 7.3 l/100 km\r\nCO2 emission: 193 g/km\r\n\r\nC 250 CDI 4MATIC BlueEFFICIENCY Estate\r\nFuel consumption combined: 5.5 l/100 km\r\nCO2 emission: 147 g/km\r\n\r\nGLK 350 CDI 4MATIC\r\nFuel consumption combined: 8.0 l/100 km\r\nCO2 emission: 209 g/km\r\n\r\nThe data do not relate to an individual vehicle and do not form part of the offer; they are provided solely for the purposes of comparison between different types of vehicles. The figures are provided in accordance with the German regulation \"PKW-EnVKV\" and apply to the German market only. 4MATIC Live Driving Experience by Mercedes-Benz France",
+          "S 350 BlueTEC 4MATIC \r\n\r\nFuel consumption combined: 7.3 l/100 km\r\nCO2 emission: 193 g/km\r\n\r\nThe data do not relate to an individual vehicle and do not form part of the offer; they are provided solely for the purposes of comparison between different types of vehicles. The figures are provided in accordance with the German regulation \"PKW-EnVKV\" and apply to the German market only. 4MATIC Live Driving Experience by Mercedes-Benz France",
           1330190192
         ],
         [
-          "S 350 BlueTEC 4MATIC \r\n\r\nFuel consumption combined: 7.3 l/100 km\r\nCO2 emission: 193 g/km\r\n\r\nThe data do not relate to an individual vehicle and do not form part of the offer; they are provided solely for the purposes of comparison between different types of vehicles. The figures are provided in accordance with the German regulation \"PKW-EnVKV\" and apply to the German market only. 4MATIC Live Driving Experience by Mercedes-Benz France",
+          "CLS 350 CDI 4MATIC BlueEFFICIENCY Coup\u00e9\r\nFuel consumption combined: 6.7 l/100 km\r\nCO2 emission: 177 g/km\r\n\r\nS 350 BlueTEC 4MATIC \r\nFuel consumption combined: 7.3 l/100 km\r\nCO2 emission: 193 g/km\r\n\r\nC 250 CDI 4MATIC BlueEFFICIENCY Estate\r\nFuel consumption combined: 5.5 l/100 km\r\nCO2 emission: 147 g/km\r\n\r\nGLK 350 CDI 4MATIC\r\nFuel consumption combined: 8.0 l/100 km\r\nCO2 emission: 209 g/km\r\n\r\nThe data do not relate to an individual vehicle and do not form part of the offer; they are provided solely for the purposes of comparison between different types of vehicles. The figures are provided in accordance with the German regulation \"PKW-EnVKV\" and apply to the German market only. 4MATIC Live Driving Experience by Mercedes-Benz France",
           1330190192
         ],
         [
@@ -1225,6 +1642,10 @@
           1326990528
         ],
         [
+          "SL 500. Combined fuel consumption: 9.2-9.1l/100km\nCombined CO2 emission: 214-212 (g/km)\nThe data do not relate to an individual vehicle and do not form part of the offer; they are provided solely for the purposes of comparison between different types of vehicles. The figures are provided in accordance with the German regulation \u201cPKW-EnVKV\u201d and apply to the German market only. Mercedes-Benz Highlights at the NAIAS 2012",
+          1326219155
+        ],
+        [
           "Mercedes-Benz New Year's Reception 2012; Pre-Evening Show & Press Conference Premiere of the new SL. Combined fuel consumption: 9.2-6.8l/100km\nCombined CO2 emission: 214-159 (g/km)\nThe data do not relate to an individual vehicle and do not form part of the offer; they are provided solely for the purposes of comparison between different types of vehicles. The figures are provided in accordance with the German regulation \u201cPKW-EnVKV\u201d and apply to the German market only. SL World Premiere at the NAIAS 2012",
           1326125533
         ],
@@ -1233,28 +1654,28 @@
           1326125531
         ]
       ],
-      "dates_start": 1330256927,
-      "dates_end": 1341773756,
-      "likes_avg": 1458,
-      "likes_stdev": 832,
-      "comments_avg": 67,
-      "comments_stdev": 58,
-      "shares_avg": 284,
-      "shares_stdev": 340
+      "dates_start": 1329884550,
+      "dates_end": 1341775384,
+      "likes_avg": 1589,
+      "likes_stdev": 1263,
+      "comments_avg": 73,
+      "comments_stdev": 79,
+      "shares_avg": 265,
+      "shares_stdev": 290
     },
     {
-      "number": 8,
+      "number": 11,
       "important": [
-        "classic",
-        "mercedesbenz classic",
-        "la",
-        "accord",
-        "al",
+        "benz",
         "mill",
+        "al",
         "via",
+        "slr",
         "mercedesbenz",
-        "merced",
-        "miglia"
+        "la",
+        "miglia",
+        "accord",
+        "mercedesbenz classic"
       ],
       "common": [
         "benz",
@@ -1269,6 +1690,10 @@
         "slr club"
       ],
       "messages": [
+        [
+          "McLaren\u66fe\u57282011\u5e74\u7684\u6642\u5019\uff0c\u63a8\u51fa \"McLaren\u7248\u672c\" \u7684SLR McLaren\u5916\u89c0\u5347\u7d1a\u5957\u4ef6\u3002\u5168\u7403\u9650\u91cf25\u7d44\uff0c\u552e\u50f9\u5927\u7d04\u65b0\u53f0\u5e63$500\u842c\u4e0a\u4e0b\u3002\n\n\u5927\u5bb6\u89ba\u5f97\u9019 \"McLaren\u5fc3\u76ee\u4e2d\u7684SLR\" \u5982\u4f55\u5462\uff1f\n\nMcLaren, Mercedes-Benz\n#SLR #MSO #McLaren #Benz \u5168\u7403\u9650\u91cf25\u7d44\u7684Mercedes-Benz SLR MSO Edition\u7279\u6b8a\u5ba2\u88fd\u7248\uff0c\u9019\u624d\u662fMcLaren\u5fc3\u76ee\u4e2d\u8a72\u6709\u7684\u6a23\u5b50\uff01 @ Hsiang\u8dd1\u8eca\u90e8\u843d\u683c \u96d6\u7136M-Benz SLR\u662f\u8f1b\u8fd1\u4e4e\u5b8c\u7f8e\u7684\u8d85\u7d1a\u8dd1\u8eca\uff0c\u4f46\u5728McLaren\u773c\u88e1\u537b\u9084\u662f\u5c11\u4e86\u4e00\u9ede\u9ede\u5473\u9053\u70ba\u6b64\uff0cMcLaren\u5ba2\u88fd\u5316\u90e8\u9580\u63a8\u51faSLR MSO Edition\u7279\u6b8a\u5ba2\u88fd\u7248\uff0c\u4e00\u8f1bSLR\u61c9\u8a72\u6709\u7684\u6a23\u5b50 Merc",
+          1487584153
+        ],
         [
           "Mercedes-Benz: 10 vetture al via della Mille Miglia 2017 | Mercedes-Benz Italia Mercedes: 10 vetture al via della Mille Miglia 2017 La Mille Miglia, la corsa pi\u00f9 bella del mondo, compie 90 anni e Mercedes-Benz Classic, oltre a rievocare le sue leggendarie vittorie e i momenti pi\u00f9 entusiasmati passati alla storia, nella prossima edizione, in programma dal 18 al 21 maggio, si riconfermer\u00e0 nuovamente sponsor della gara, portando su...",
           1486470477
@@ -1300,10 +1725,6 @@
         [
           "Join the Red Arrow on Italy's roads for the re-encatment of the legendary Mille Miglia. From May 14-17 you can precede the contenders as a tribute to the historic event. http://www.mercedesbenztribute.1000miglia.it/ #MBmille Timeline Photos",
           1430156100
-        ],
-        [
-          "What would you say if you could be part of the Mille Miglia 2015 and drive through Italy on the tire tracks of motorsports legends? Turns out you can. Take part in our competition and win a starting place for the 1,000 miles of Brescia. http://mb4.me/Win-MilleMiglia Timeline Photos",
-          1428660322
         ],
         [
           "Six days and hundreds of kilometers of SLR fascination from the Provence to Barcelona. What a wonderful drive! Why not accompany the SLR. CLUB members on their way through dream-like sceneries on the \u201cSLR. Tour du Soleil\u201d. \n\nKeep up to date with our diary on tumblr! http://mercedesbenz.tumblr.com/ Photos from Mercedes-Benz's post",
@@ -1366,10 +1787,6 @@
           1370843616
         ],
         [
-          "There's a Transform-ation Primed to take place over at Western Star Trucks. Any idea what it could be 4? \r\n\r\nhttp://mb4.me/T4 Timeline Photos",
-          1369934905
-        ],
-        [
           "Mercedes-Benz Reporter Amanda Stretton with first-hand impressions of the Mille Miglia 2013 and an exclusive behind the scenes look at the legendary 1,000 mile race:  http://mb4.me/MilleMiglia2013/ Timeline Photos",
           1369853471
         ],
@@ -1414,10 +1831,6 @@
           1349340739
         ],
         [
-          "SLR at Yas Marina Circuit. Abu dhabi UAE\r\n\r\ncheck out our photography http://www.facebook.com/avantgarde.ae",
-          1348428722
-        ],
-        [
           "SLR Stirling Moss meeting",
           1347976885
         ],
@@ -1442,28 +1855,28 @@
           1331655138
         ]
       ],
-      "dates_start": 1351881723,
-      "dates_end": 1420948570,
-      "likes_avg": 8235,
-      "likes_stdev": 16324,
-      "comments_avg": 109,
-      "comments_stdev": 323,
-      "shares_avg": 1455,
-      "shares_stdev": 3139
+      "dates_start": 1351665790,
+      "dates_end": 1426695747,
+      "likes_avg": 7724,
+      "likes_stdev": 16040,
+      "comments_avg": 101,
+      "comments_stdev": 325,
+      "shares_avg": 1402,
+      "shares_stdev": 3161
     },
     {
-      "number": 9,
+      "number": 12,
       "important": [
-        "brake",
-        "dem",
-        "bei",
-        "assist",
-        "mit",
         "den",
-        "daimler",
-        "auf",
-        "die",
-        "im"
+        "auto",
+        "mercedesbenz",
+        "der",
+        "und",
+        "das",
+        "dem",
+        "accord",
+        "gla",
+        "auf"
       ],
       "common": [
         "benz",
@@ -1479,8 +1892,16 @@
       ],
       "messages": [
         [
-          "#Daimler Active Brake Assist 4 im Einsatz\n\nSeit Jahresbeginn sind die ersten Lkw von Mercedes-Benz mit dem neuen #Fahrerassistenzsystem Active Brake Assist 4 bei den Kunden im Einsatz. Daimler hatte das System auf der #IAA Nutzfahrzeuge 2016 vorgestellt.\n\n#ActiveBrakeAssist4 #IAANutzfahrzeuge #Assistenzsystem Daimler: Active Brake Assist 4 im Einsatz Seit Jahresbeginn sind die ersten Mercedes-Lkw mit dem neuen Fahrerassistenzsystem Active Brake Assist 4 (ABA 4) bei den Kunden im Einsatz.",
-          1486715465
+          "Blickfang. \nNeuer Mercedes-Benz GLA feiert \u00d6sterreich-Premiere auf den Automessen in den Landeshauptst\u00e4dten. Und das nur wenige Tage nach dem Automobilsalon in Genf.\nDanke an Mercedes-Benz \u00d6sterreich. \n\nRetterwerk auf der Tiroler Fr\u00fchjahrsmesse\nPappas auf dem Linzer Autofr\u00fchling\nPappas auf der Automesse Salzburg\nWittwar auf der Auto Emotion Graz Mercedes-Benz GLA-Klasse | Neuwagen | Pappas Gruppe",
+          1487677616
+        ],
+        [
+          "Dieses Luxusspielzeug von Mercedes-Benz und Maybach ist nur in sehr begrenzter Anzahl erh\u00e4ltlich. Mercedes-Maybach G 650 Landaulet: Mit dem Gel\u00e4ndewagen auf Luxus-Safari  ",
+          1487182624
+        ],
+        [
+          "Der zur IAA - Internationale Automobil-Ausstellung 2016 vorgestellte vollelektrische Verteiler-Lkw der Daimler AG soll bereits in diesem Jahr bei ersten Kunden in den Einsatz gehen. Mercedes-Benz will die eTrucks als 18- und 26-Tonner sowie in verschiedenen Konfigurationen als K\u00fchler und Trockfrachtkoffer sowie Pritsche anbieten. Elektromobilit\u00e4t: Daimler E-Truck soll fr\u00fcher kommen Der zur IAA vorgestellte vollelektrische Verteiler-Lkw soll bereits in diesem Jahr bei ersten Kunden in den Einsatz gehen - als 18- und 26-Tonner sowie in verschiedenen Konfigurationen als K\u00fchler und Trockfrachtkoffer sowie Pritsche....",
+          1487156734
         ],
         [
           "Wusstet Ihr schon?! \nDer Gouvernator begiebt sich auf leise Sohlen!\n \nArnold Schwarzenegger lie\u00df sich von der Kitzb\u00fchler Firma Kreisel Elektric ein Einzelst\u00fcck von Mercedes-Benz anfertigen.\n\nAuf Basis einer G-Klasse 350d \u2013 hier wurde der Verbrennungsmotor vollst\u00e4ndig entfernt und durch mehrere E-Motoren ersetzt. Die Maschine soll 490PS, eine Sprintzeit von 5,6sek. haben und Topspeed von 180km/h erreichen! \n\nArni scheint einen Faible f\u00fcr Macho-Autos mit \u00d6koantrieb zu haben.\n_________________________________________\n\nArni's G-Klasse bleibt erst einmal ein Einzelst\u00fcck \u2013 mit einem gewaltigen Promi-Faktor als Aush\u00e4ngeschild f\u00fcr die \u00f6sterreichische Technik. Kraftstoffverbrauchsangaben und Emissionswerte liegen aktuell nicht vor.\n\nQuelle: http://www.kfz-betrieb.vogel.de/elektro-g-klasse-einzelstueck-fuer-arnold-schwarzenegger-a-575915/?cmp=nl-125&uuid=4AF9D6F7-8BFA-4237-986B-F2EA31FFD076 Photos from Auto Senger Gruppe's post",
@@ -1667,28 +2088,526 @@
           1337611201
         ]
       ],
-      "dates_start": 1365169015,
-      "dates_end": 1430701049,
-      "likes_avg": 2362,
-      "likes_stdev": 3835,
-      "comments_avg": 38,
-      "comments_stdev": 47,
-      "shares_avg": 234,
-      "shares_stdev": 329
+      "dates_start": 1364924016,
+      "dates_end": 1438269781,
+      "likes_avg": 2267,
+      "likes_stdev": 3783,
+      "comments_avg": 37,
+      "comments_stdev": 46,
+      "shares_avg": 224,
+      "shares_stdev": 325
     },
     {
-      "number": 10,
+      "number": 13,
       "important": [
-        "brand",
-        "brand ambassador",
-        "golf",
-        "championship",
-        "ride",
-        "ambassador",
-        "consumpt emiss gkm timelin",
+        "motor",
+        "mercedesbenz amg",
+        "amg",
+        "mercedesbenz",
+        "es",
+        "la",
+        "se",
+        "accord",
+        "de",
+        "class"
+      ],
+      "common": [
+        "amg",
+        "benz",
+        "classe",
+        "de",
+        "di",
+        "en",
+        "la",
+        "mercedes",
+        "mercedes benz",
+        "que"
+      ],
+      "messages": [
+        [
+          "No es \"La Masclet\u00e0\", es el motor del Mercedes-Benz AMG GTS pidiendo salir a rodar contigo.",
+          1487690715
+        ],
+        [
+          "Automa\u00e7\u00e3o do come\u00e7o ao fim... \u00c9 assim que se constr\u00f3i uma Mercedes-Benz Classe A com rob\u00f4s da KUKA Robotics.\nA automa\u00e7\u00e3o industrial guia os padr\u00f5es para uma nova revolu\u00e7\u00e3o industrial, a chamada Ind\u00fastria 4.0. Deixa sua opini\u00e3o para gente sobre esse processo de produ\u00e7\u00e3o fant\u00e1stico!\nVia: I-VP Linha de Produ\u00e7\u00e3o da Mercedes Classe A",
+          1487682626
+        ],
+        [
+          "#Mercedes Classe C: restyling in arrivo per il MY 2018 [FOTO SPIA] http://www.motorionline.com/2017/02/21/mercedes-classe-c-restyling-in-arrivo-per-il-my-2018-foto-spia/ | Mercedes-Benz Mercedes-Benz Italia Mercedes Classe C: restyling in arrivo per il MY 2018 [FOTO SPIA] Mercedes Classe C MY 2018 - A distanza di circa tre anni dalla presentazione ufficiale al Salone di Detroit del 2014, la Mercedes Classe C berlina si rif\u00e0 il trucco col classico restyling di met\u00e0 carriera con l'obiettivo di rinfrescare l'immagine di marca e di adattare il proprio design agli ultimi\u2026",
+          1487670745
+        ],
+        [
+          "No solo coches... Mercedes se une a Cigarette Racing para crear deportivos del agua como este 50 Marauder AMG de 3.100 caballos. Mercedes-Benz Mercedes-AMG Mercedes-Benz Espa\u00f1a Cigarette Racing Team Cigarette Racing 50'Marauder AMG. Una m\u00e1quina con 3.100 CV Lo han vuelto a hacer y esta vez para celebrar los 50 a\u00f1os de historia de Mercedes-AMG y los 10 de colaboraci\u00f3n entre el preparador de Affalterbach y Cigarette Racing. Esta m\u00e1quina tiene 3.100 CV de potencia.",
+          1487627485
+        ],
+        [
+          "\u272d As\u00ed es como Mercedes-Benz cre\u00f3 el primer anuncio en directo en Facebook Live y Youtube Mercedes-Benz crea el primer anuncio en directo para presentar sus autom\u00f3viles el\u00e9ctricos Mercedes-Benz cre\u00f3 un anuncio en tiempo real durante 12 horas seguidas que se emiti\u00f3 a trav\u00e9s de Facebook Live y Youtube. Un experimento que celebra el \u201caqu\u00ed y ahora\u201d, que defiende que hay cosas incre\u00edbles que suceden en el momento presente y que son irrepetibles. Y es que el \u201cahora\u201d nunca para de s...",
+          1487592331
+        ],
+        [
+          "Classic & Sports Car's favourite supercar of the 1950s is the unmistakable Mercedes-Benz 300SL! Is there a more iconic Benz than the Gullwing? #gwsupercars A Century Of Supercars: The 1950s",
+          1487584246
+        ],
+        [
+          "Afla cat de mult consuma Mercedes-Benz G63 AMG >> https://goo.gl/JrLwDT Afla cat de mult consuma Mercedes-Benz G63 AMG Orice pasionat auto din lume trebuie sa fi auzit macar o data in viata despre legendarele modele G \u2013 Class construite de cei de la Mercedes-Benz.",
+          1487489146
+        ],
+        [
+          "Thank you to everyone who came out to our very first Cars, Coffee & Technology event, it was a great success! We can't wait to see everyone next time!!\n\nFind Your Passion At Mercedes-Benz of Durham.\n\n#carsandcoffee #mercedesbenz #mercedes #benz #luxury #passion #style #love #fashion #class #german #Germanengineering #spoilyourself #justdoit #benzaddicts #mbusa #outdoors #sun #sky #durham #nc Mercedes-Benz Mercedes-Benz USA #like #love #follow Mercedes-Benz Oakville Mercedes-Benz Cars UK Mercedes-Benz Australia",
+          1487434779
+        ],
+        [
+          "Concept Mercedes-Benz de voiture autonome. Mobile Uploads",
+          1487360325
+        ],
+        [
+          "Ensimm\u00e4inen Suomessa valmistettu GLC-mallin Mercedes-Benz esiteltiin eilen Uudessakaupungissa. Hyv\u00e4 Suomi! \ud83c\uddeb\ud83c\uddee Juuri nyt: T\u00e4ss\u00e4 se on - ensimm\u00e4inen Suomessa valmistettu maasturi-Mersu IL-TV on paikalla, kun ensimm\u00e4inen Suomessa valmistettu GLC-mallin Mersu esitell\u00e4\u00e4n t\u00e4n\u00e4\u00e4n Uudessakaupungissa.",
+          1487333000
+        ],
+        [
+          "Las pruebas de clientes con los Mercedes-Benz Urban eTruck comenzar\u00e1n este a\u00f1o en Alemania. Se trata de los primeros camiones comerciales 100% el\u00e9ctricos del mundo. Photos from Mercedes-Benz Madrid's post",
+          1487331449
+        ],
+        [
+          "Este acesta cel mai interesant Mercedes-Benz SL? Noi credem ca da! Afla de ce! >> https://goo.gl/QPza9p Este acesta cel mai interesant Mercedes-Benz SL? Noi credem ca da! Afla de ce! L-am putut admira pentru prima data pe Coupetorino, o masina care are drept punct de pornire Mercedes-Benz SL-Class, in 2008. Ideea lansarii unei variante",
+          1487320099
+        ],
+        [
+          "Mercedes-Benz Classe E Cabrio MY 2018: pronta per il Salone di Ginevra [RENDERING] Mercedes Classe E Cabrio MY 2018: pronta per il Salone di Ginevra [RENDERING] Al Salone di Ginevra (9-19 marzo) la Mercedes caler\u00e0 i velli della nuova Classe E Cabrio, completando la line-up delle nuove generazioni dell'intera Classe E, con il ciclo di presentazione avviato con la berlina al Salone di Detroit 2016. Sar\u00e0 certamente evidente la parentela con tutte le altre vari...",
+          1487317499
+        ],
+        [
+          "Mercedes-Benz has ensured that those starry eyes twinkle even more and leave a lengthy trail of admiration behind.\nhttp://www.motoroids.com/reviews/new-mercedes-benz-e-class-350d-lwb-review-a-lot-of-s-in-an-e/ New Mercedes Benz E-Class 350d LWB Review: A lot of 'S' in an 'E' | Motoroids New 2017 Mercedes-Benz E-Class E350 CDI road test review in India along with images, price, specs, features and all you neer to know",
+          1487317105
+        ],
+        [
+          "Mercedes-Benz 190 AMG 3,2L\nBlack Cat Classic Car Garage\nMercedes-Benz\nMercedes-Benz Polska\nMercedes-AMG \nAMG\nMercedes Pozna\u0144 Club \nKlub Zabytkowych Mercedes\u00f3w Polska\n#mercedes #benz #mercedesamg #amg #mercedespolska #polska #poland #pozna\u0144 #Poznan #wtc #watchthiscar #amg190 #mercedespoznanclub #photoinsta #hot #classic #classiccar #classicmercedes Mercedes-Benz 190 AMG 3,2L",
+          1487262424
+        ],
+        [
+          "Esta renova\u00e7\u00e3o da gama mais alta da Mercedes-Benz dever\u00e1 acontecer toda no decorrer deste ano. Mercedes retoca S Cabrio e d\u00e1-lhe capacidades aut\u00f3nomas A Mercedes vai mexer este ano no seu topo de gama e as altera\u00e7\u00f5es ir\u00e3o estender-se aos tr\u00eas modelos, come\u00e7ando pela berlina mas chegando tamb\u00e9m ao coup\u00e9 e ao cabriolet da Classe S que aqui mostramos.",
+          1487235810
+        ],
+        [
+          "The current C Class Mercedes-Benz is in-complete if there is no hot model in it\u2019s range. For this, the guys at Stuttgart had fielded two C Segment sedans, the AMG C63 and the AMG C43.\nAudi has their S4 and RS4, BMW has their more muted 340i and mental M3. Mercedes needed one to fill this lower segment, since they only had a C63 model previously.\n\nThe C43 sits in the same playpen as the lesser Audi and BMW models, but do not be fooled though. The Merc\u2019s potent V6 twin-turbocharged engine is mated to a nine-speed transmission, driving all four wheels, makes this a very entertaining car, and wickedly nimble.\n\nMercedes-Benz Mercedes-Benz Financial Services Singapore Mercedes Benz @ Alexandra Mercedes-AMG Daimler Southeast Asia #Mercedes #Benz #Cclass #C43 #Singapore 4Matic #W205 Mercedes-Benz C43",
+          1487208018
+        ],
+        [
+          "Si la Clase G de Mercedes Benz ya era muy sonada por su popular Mercedes G63AMG 6x6, ahora llega este monumento al lujo y exclusividad, la Mercedes - Maybach G650 Landaulet, que tiene un motor V12 de 6.2L twin turbo de 630hp.\nEs tan exclusiva que solo se vender\u00e1n 99 unidades a las personas que tengan medio mill\u00f3n de euros de m\u00e1s. \nAlgo as\u00ed aproximadamente como 11 millones de pesos mexicanos. \n\u00bfUstedes qu\u00e9 opinan? Dejen sus comentarios, compartan y denle me gusta \ud83d\udc4d\ud83c\udffb\ud83d\ude98\n\nMercedes-Benz\n\nMercedes-Benz Autotab\n\nMercedes-Benz M\u00e9xico Photos from Auto y Piloto's post",
+          1487176206
+        ],
+        [
+          "W \u015brodku przypomina raczej limuzyn\u0119 ni\u017c SUV-a. Zobacz >>\n\nMercedes-Benz | #motoryzacja Nowy superluksusowy Mercedes Maybach Klasy G. Na razie powstanie tylko 99 samochod\u00f3w [GALERIA]",
+          1487165955
+        ],
+        [
+          "Dieter Zetsche, o patr\u00e3o da Daimler, chegou ao evento que se realizou no M\u00f3naco a bordo do concept el\u00e9ctrico da Mercedes-Benz! Mercedes Generation EQ brilhou na \u201cred carpet\u201d dos pr\u00e9mios Laureus Recorde-se que este Generation EQ servir\u00e1 de base para a cria\u00e7\u00e3o de um SUV totalmente el\u00e9ctrico e que ser\u00e1 o primeiro ve\u00edculo totalmente el\u00e9ctrico que a Mercedes pretende comercializar sob a nova submarca EQ.",
+          1487160964
+        ],
+        [
+          "Mercedes-Benz Classe A NEXT: una dimensione full optional introdotta da Eugenio Blasetti [INTERVISTA] Mercedes-Benz Italia Mercedes-Benz Classe A NEXT: una dimensione full optional introdotta da Eugenio Blasetti [INTERVISTA] \u201cSono semplicemente delle versioni full optional.\u201d Eugenio Blasetti, Press Relations Manager di Mercedes-Benz Italia, riassume attraverso questa espressione la natura NEXT delle diverse varianti di Classe A, ovvero gli allestimenti EXECUTIVE, SPORT e PREMIUM. Versioni che \u201cdanno pi\u00f9 dotazioni, le do...",
+          1486743852
+        ],
+        [
+          "El futuro crossover electrico de Mercedes ya est\u00e1 en la carretera. Lo descubrimos camuflado bajo la carrocer\u00eda de un GLC. Mercedes-Benz Mercedes-Benz Espa\u00f1a Mercedes EQ Crossover. El futuro crossover el\u00e9ctrico pasa por \u00e9l Hemos cogido a la marca alemana preparando el futuro Crossover de la familia Mercedes. Disfrazado con una carrocer\u00eda de GLC, el veh\u00edculo que veis en im\u00e1genes esta sirviendo de laboratorio a los ingenieros de la marca para las pr\u00f3ximos SUV el\u00e9ctricos con plataforma EVA (Electric Vehicle Architecture)",
+          1486671542
+        ],
+        [
+          "Arroganza pura! Che spettacolo la Mercedes-Benz Classe S coup\u00e9 by Prior-Design GmbH! Prior-Design Mercedes Classe S Coup\u00e8: signorile arroganza Prior-Design \u00e8 riuscita a mantenere le linee eleganti della coup\u00e9 di Stoccarda pur aggiungendo aggressivit\u00e0, sportivit\u00e0 e un po\u2019 di sana arroganza",
+          1486669443
+        ],
+        [
+          "Tal ha sido el revuelo levantado por el Mercedes-Benz X-Class en Reino Unido que all\u00ed ya se puede reservar por 1.000 libras. As\u00ed ser\u00e1n los primeros en tener este pick-up con estrella. Mercedes X-Class. Ya disponible en Reino Unido Tal ha sido el revuelo que el nuevo Mercedes X-Class ha levantado en Reino Unido que la firma de la estrella ya ha abierto la lista de espera para poder tener este funcional pick-up.",
+          1486535016
+        ],
+        [
+          "Al fin llega la #m\u00e1quina eterna de Mercedes-Benz y en abril aterriza en #Mendoza en Yacopini MB Mercedes Benz adelanta al nuevo G500 que ya llega a la Argentina: Conocelo Mercedes-Benz comenzar\u00e1 con la comercializaci\u00f3n del todo terreno G500 a partir de abril. Tambi\u00e9n hay m\u00e1s lanzamientos previstos para lo que resta del a\u00f1o.",
+          1486480024
+        ],
+        [
+          "Este familiar deportivo de Mercedes-AMG llega al mercado en junio \ud83d\udc47 Mercedes-Benz Mercedes-AMG E63 4Matic + Estate: Deportivo enmascarado Nueva versi\u00f3n AMG en carrocer\u00eda familiar preparada a tope",
+          1486465107
+        ],
+        [
+          "Mercedes-Benz #SL550 50th Anniversary Edition.\nPhoto by: Itzkirb|Photography\n\n#itzkirb #automotivephotographer #automotivephotography #itzkirbphotography #sanfrancisco #bayarea #photoshoot #carswithoutlimit #carlifestyle #Mercedes Itz|BMW & Mercedes",
+          1486432551
+        ],
+        [
+          "#Mercedes #AMG E 63 S Station Wagon: prestazioni da brivido per tutta la famiglia [VIDEO] | Mercedes-Benz Mercedes-AMG Mercedes-Benz Italia Mercedes AMG E 63 S Station Wagon: prestazioni da brivido per tutta la famiglia [VIDEO] Mercedes AMG E 63 S Station Wagon - Per le famiglie che vanno sempre di fretta, la casa della Stella a tre punte ha pensato di dar vita alla AMG E 63 S Station Wagon. Al di l\u00e0 delle numerose sigle presenti nel nome della \"supercar col portellone\" sono i numeri prestazionali a svelare il forte\u2026",
+          1486300592
+        ],
+        [
+          "Let's start October with a #TbT.\nThe Benz Spider from 1902 marked the transition from the classic motor car to the contemporary automobile with front engine. \nRead more about our October #mbClassic calendar sheet star here: http://benz.me/Benz_Spider Timeline Photos",
+          1443740581
+        ],
+        [
+          "Bonjour, cette \u00e9toile ne d'allume pas lors de la conduite et d'apr\u00e8s la publicit\u00e9 de Mercedes Benelux , rien de \u00e7a n'est mentionn\u00e9.... Disgusting :@",
+          1443250387
+        ],
+        [
+          "Camping with the Benz #weekend",
+          1433158900
+        ],
+        [
+          "Cavolo devo iscrivermi x imparare uno stile di guida x mercedes mi e stato consigliato da loro ecco x che si lesionato il tetto panoramico x come guido",
+          1427356783
+        ],
+        [
+          "Slk r172 questo e un difetto strutturale dove la serieta mercedes",
+          1426688089
+        ],
+        [
+          "asSLS\n\nhttps://www.facebook.com/MariusA.Photography/photos/a.400959969933242.106260.390587514303821/1021154427913790/?type=1&theater Marius A. Photography Dat ass.\n\n#Mercedes #Benz #SLS #AMG #matt #black #AS14 #D\u00fcsseldorf #Vapiano",
+          1426351682
+        ],
+        [
+          "Cool Hunting met Mercedes Motoring owner J. G. Francis to learn more about the art of preserving a Mercedes-Benz. Watch the whole piece at http://benz.me/CoolHunting-MercedesMotoring. Cool Hunting x Mercedes Motoring - Teaser",
+          1423184400
+        ],
+        [
+          "Idea for Mercedes",
+          1408735187
+        ],
+        [
+          "Love you Mercedes-Benz \n\nPrestige Mercedes Benz Prestige Mercedes Benz Prestige Mercedes Benz",
+          1363428163
+        ],
+        [
+          "mercedes perfect cold weather",
+          1356347756
+        ],
+        [
+          "foto tirada no sal\u00e3o do autom\u00f3vel em s\u00e3o paulo este ano...",
+          1355609129
+        ],
+        [
+          "2013 mercedes Cls63-AMG",
+          1355408406
+        ],
+        [
+          "Ol\u00e1 Se poderes, d\u00e1 um gosto a p\u00e1gina, agradecia preciso da vossa ajuda\r\nhttp://www.facebook.com/AbcDoRiso",
+          1348746718
+        ],
+        [
+          "esta es mi favorita, es una chulada de Mercedes-Benz! o no??",
+          1348365936
+        ],
+        [
+          "MERCEDES BENZ SLK by Station of designs",
+          1348339763
+        ],
+        [
+          "LOOK THIS MERCEDES .....GUARDALA CHE BELLA!\r\n\r\nSe vuoi seguire questa pagina passa il mouse su:\r\n\r\n http://www.facebook.com/pages/TEAM-BLACK-JACK-FANS-CLUB-/167608083292245?ref=stream , clicca su MI PIACE e iscriviti.. Grazie ! (Pagina Facebook del TEAM FERRARI BLACK JACK)",
+          1348258603
+        ],
+        [
+          "Se vuoi seguire questa pagina passa il mouse su:\r\n\r\n http://www.facebook.com/pages/TEAM-BLACK-JACK-FANS-CLUB-/167608083292245?ref=stream , clicca su MI PIACE e iscriviti.. Grazie ! (Pagina Facebook del TEAM FERRARI BLACK JACK)",
+          1348258467
+        ],
+        [
+          "Mercedes Benz C220 CDI custom made exhaust by www.maxiperformance.nl",
+          1347698128
+        ],
+        [
+          "quanti problemi mi ha dato la mercedes s 320...meglio una jaguar...............il marchese",
+          1347687621
+        ],
+        [
+          "Custom made exhaust by www.maxiperformance.nl\r\nMercedes Benz E350 CDI Coup\u00e9",
+          1347630882
+        ],
+        [
+          "The 1997 Mercedes Benz S500,always comes to mind every morning before I wake up.\nI prefer cars to women.",
+          1339130505
+        ],
+        [
+          "I love MERCEDES BENZ .........",
+          1332781619
+        ],
+        [
+          "Benz in Iran!!!!!!!!!!!!!!",
+          1332620181
+        ],
+        [
+          "Mercedes 220 S \" Heckflosse\" T\u00fcv und Au Neu, H-Kennzeichen,Baujahr 1961, Preis 15990,-\u20ac",
+          1331583856
+        ]
+      ],
+      "dates_start": 1372687552,
+      "dates_end": 1497490170,
+      "likes_avg": 309,
+      "likes_stdev": 1295,
+      "comments_avg": 3,
+      "comments_stdev": 14,
+      "shares_avg": 29,
+      "shares_stdev": 142
+    },
+    {
+      "number": 14,
+      "important": [
+        "amg",
+        "special",
+        "mb",
+        "mercedesbenz",
+        "sweden",
+        "mercedesamg",
+        "classic",
+        "wheel",
+        "accord",
+        "tradit"
+      ],
+      "common": [
+        "300",
+        "300 sl",
+        "benz",
+        "car",
+        "mercedes",
+        "mercedes benz",
+        "photos",
+        "sl",
+        "timeline",
+        "timeline photos"
+      ],
+      "messages": [
+        [
+          "Mercedes-Benz X Mercedes-AMG C126 - 500SEC Widebody A-M-G MB Lorinser Classic / special 11.000 members ;)",
+          1486576093
+        ],
+        [
+          "With \"Meals on Wheels\" in Sweden: YouTube Star Caroline MiLi Artiss explores the traditional kitchen of the country and fascinates with a delicious national speciality made in a kitchen on wheels: the #MercedesBenz Marco Polo. Convince yourself: http://mb4.me/MealsOnWheelsSweden Meals on Wheels in Sweden: Cooking inside the Marco Polo.",
+          1442188980
+        ],
+        [
+          "\u201cMeals on Wheels \u2013 Delicious insights by Marco Polo.\u201d First stop in Northern Portugal: Take part in a culinary journey with top chef Louis Tikaram and his kitchen on wheels \u2013 the new Mercedes- Benz Marco Polo. More information on http://mb4.me/MealsOnWheels #caravansalon Meals on Wheels \u2013 Cooking in the Marco Polo.",
+          1440659820
+        ],
+        [
+          "Today's #tbt goes out to the 1980 500 SL Rallye, a beauty that still makes our hearts beat faster when we see it in action. http://benz.me/Hot-Ride_500SL 500 SL Rallye meets Californian Desert",
+          1438247393
+        ],
+        [
+          "Mercedes-Benz SL. A true head-turner. #tbt Timeline Photos",
+          1435249920
+        ],
+        [
+          "dream car #globalstarmotors",
+          1425185306
+        ],
+        [
+          "copyright RICHARD KIENBERGER/foto-text.com Wings on Wheels",
+          1387887960
+        ],
+        [
+          "What's your style when it comes to wheels? Mercedes-AMG Are you a 5-twin spoke design kind of guy (or girl)? Or does the multi-spoke design define the way you cruise? We want to know what gets your wheels turning!",
+          1386675778
+        ],
+        [
+          "\"Beautiful things may be admired, if not loved.\"\r\n- L. Frank Baum\r\n\r\nFrom inside the workshop. Photo courtesy of the Mercedes-Benz Classic Center USA.\r\n\r\n#MercedesBenz #Classic #Quote Timeline Photos",
+          1372827601
+        ],
+        [
+          "Close your eyes and imagine your dream car: what are the features that define your dream car? \r\n\r\nLeave a comment to let us know! Timeline Photos",
+          1368704336
+        ],
+        [
+          "\u201cIf we are facing in the right direction, all we have to do is keep on walking.\u201d - Buddhist Proverb\r\n\r\nThanks to marioroman pictures for this wonderful shot of the SL 63 AMG! Timeline Photos",
+          1361300400
+        ],
+        [
+          "It\u2019s not every day that an automotive icon comes up for sale, but right now the Mercedes-Benz Classic Center USA in Irvine, CA is offering a pristine 1955 300 SL Coupe\u2014better known as the Gullwing. Fully restored, this award-winning vehicle is ready to be taken home and on to its next Concours D\u2019Elegance.\r\n\r\nFor a closer look at this beauty, check out this video: http://youtu.be/TeNRxpHRPLc Timeline Photos",
+          1360673858
+        ],
+        [
+          "This 300 SL Coup\u00e9 barn find is currently in the very capable hands of the Mercedes-Benz Classic Center USA. To follow the progress of this restoration, check out their Facebook page and stay posted! 300 SL restoration project",
+          1359199304
+        ],
+        [
+          "Mercedes-Benz Advent Calendar\r\n\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2610\u2610\u2610\r\n\r\nThis 1957 300 SL with its very unique car paint was delivered to Adrian Conan Doyle, son of Sir Arthur Conan Doyle. The car is now privately owned and has been meticulously restored. Timeline Photos",
+          1356083221
+        ],
+        [
+          "Mercedes-Benz Advent Calendar\r\n\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2610\u2610\u2610\u2610\u2610\r\n\r\nWhile the 300 SL was offered as a coup\u00e9 with the typical gullwing doors from 1954 to 1957, it was also offered as a roadster from 1957 to 1963. The model shown in the picture is one of 6 pilot vehicles. Timeline Photos",
+          1355909285
+        ],
+        [
+          "Mercedes-Benz Advent Calendar\r\n\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2610\u2610\u2610\u2610\u2610\u2610\r\n\r\nThe 1957 300 SL was based on the 1952 race car and featured the legendary gullwings - for construction reasons, by the way: the height of the tubular frame didn't allow for conventional doors. Timeline Photos",
+          1355821402
+        ],
+        [
+          "Mercedes-Benz Advent Calendar\r\n\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2610\u2610\u2610\u2610\u2610\u2610\u2610\r\n\r\nThis 500 SL Rallye was built four times and only used for test purposes at the Bandama Rallye in 1980 as well as for unofficial uses at the German Rallye Championship in 1982/83. Timeline Photos",
+          1355733393
+        ],
+        [
+          "Mercedes-Benz Advent Calendar\r\n\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\r\n\r\nAs a special model of the 300 SL Roadster, this 300 SLS was designed for the American Sportscar Championship in 1958. Timeline Photos",
+          1355651236
+        ],
+        [
+          "Mercedes-Benz Advent Calendar\r\n\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\r\n\r\nThis 190 SL Coup\u00e9 is the original and unrestored car of David R. Scott, the seventh man on the moon. The model was a huge favorite on the US market: 25,881 vehicles were produced between 1955 and 1963 - a majority of which went to the USA. Timeline Photos",
+          1355568218
+        ],
+        [
+          "Mercedes-Benz Advent Calendar\r\n\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\r\n\r\nWhile the 300 SL was offered as a coup\u00e9 with gullwing doors from 1954 to 1957, it existed as a roadster from 1957 to 1963. Timeline Photos",
+          1355478324
+        ],
+        [
+          "Mercedes-Benz Advent Calendar\r\n\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\r\n\r\nIn 2001 the SL 500 continued the long tradition of the SL roadsters, providing dynamic driving experience and high driving safety. The model here shown is a pilot model. Timeline Photos",
+          1355425211
+        ],
+        [
+          "Mercedes-Benz Advent Calendar\r\n\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\r\n\r\nTraditionally the Mercedes-Benz rally cars were based on the serial vehicles. In the case of the 1964 230 SL, a certain compromise was found between the 190 SL and the 300 SL: neither a hard-line roadster, nor a gentle boulevard sports car, it was a comfortable touring car with high performance and ideal driving safety. Timeline Photos",
+          1355304875
+        ],
+        [
+          "Mercedes-Benz Advent Calendar\r\n\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\r\n\r\nAlong with the 230 SL and 250 SL, this 1968 280 SL is generally called one of the \"Pagoda SL\" vehicles. It had a 2.8 liter engine that was previously only used for luxury class saloon cars, coup\u00e9s and cabriolets. Timeline Photos",
+          1355221693
+        ],
+        [
+          "Mercedes-Benz Advent Calendar\r\n\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\r\n\r\nThe difference between the 280 SLC and the 450 SLC is only for the true connoisseur to tell: while the 280 SLC Coup\u00e9 offers the smaller serial tire equipment, the 450 SLC is characterized by an unimposing front spoiler at the lower end of the fairing. Timeline Photos",
+          1355127312
+        ],
+        [
+          "Good news, The Mercedes-Benz M-Class receives the Golden Steering Wheel Award ! Mercedes-Benz Community The Mercedes-Benz M-Class receives the Golden Steering Wheel Award !",
+          1354983023
+        ],
+        [
+          "Mercedes-Benz Advent Calendar\r\n\u2612\u2612\u2612\u2612\u2612\u2612\u2612\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\r\n\r\nBased on the 1952 race car, the 1955 300 SL Coup\u00e9 was the first true sports car developed by Mercedes-Benz after the war and it - of course - featured the legendary gullwings. Timeline Photos",
+          1354874807
+        ],
+        [
+          "Mercedes-Benz Advent Calendar\r\n\u2612\u2612\u2612\u2612\u2612\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\r\n\r\nThe SLS AMG Roadster: while this super sports car doesn't have the gullwings of the coup\u00e9 version, the soft top opens and retracts in 11 seconds and at a speed of up to 50 km/h. Timeline Photos",
+          1354698042
+        ],
+        [
+          "Mercedes-Benz Advent Calendar\r\n\u2612\u2612\u2612\u2612\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\r\n\r\nThe SL 55 AMG was first introduced in 2001, the highest performing R 230 model back then and thus the perfect Safety Car for the Formula 1 season 2001. Timeline Photos",
+          1354613443
+        ],
+        [
+          "Mercedes-Benz Advent Calendar\n\u2612\u2612\u2612\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\n\nThe SL 65 AMG Black Series premiered in 2008 and was limited to 350 vehicles. In order to further enhance the road handling, a rear spoiler can be extended up to 12cm at a speed of over 120 km/h. Timeline Photos",
+          1354527009
+        ],
+        [
+          "Mercedes-Benz Advent Calendar\r\n\u2612\u2612\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\r\n\r\nWhen it comes to safety in Formula 1, Mercedes-Benz has always been the top choice. In the racing season of 2008 a modified SL 63 AMG was used as safety car to ensure the race's safety in case of accidents, bad weather or other dangerous situations. Timeline Photos",
+          1354439533
+        ],
+        [
+          "Mercedes-Benz Advent Calendar\r\n\u2612\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\u2610\r\n\r\nSince 1954 \"SL\" stands for elegance, sporty driving and innovative technology. The 2012 SL 500 follows this tradition and offers a unique combination of sportiness and comfort. Timeline Photos",
+          1354353491
+        ],
+        [
+          "http://instagr.am/p/RsEnGHTcI5/\n\nSL 63 AMG\n\nFuel consumption, NEDC combined: 9.9 l/100 km\nCO2 emission: 231 g/km* Best of Instagram",
+          1352624648
+        ],
+        [
+          "And here's strike #4: After receiving 3 awards at the Golden Classic Steering Wheel, the GL-Class has now been named the best SUV at the Golden Steering Wheel award. Thank you to the readers who have voted for Mercedes-Benz! Timeline Photos",
+          1352393910
+        ],
+        [
+          "Mercedes-Benz 300 S Cabriolet A (W 188 I series), 1952-1955. Golden Classic Steering Wheel",
+          1352305285
+        ],
+        [
+          "Mercedes-Benz 300 SL (model series W 194), year of construction 1952 Golden Classic Steering Wheel",
+          1352305285
+        ],
+        [
+          "Le Mans Classic, 6 to 8 July 2012. Mercedes-Benz Classic celebrates \u201e60 years of SL\u201c and the legendary double victory of the Mercedes-Benz 300 SL racing car (W 194, 1952) 60 years ago in Le Mans (14/15 June 1952). The photo shows the original W 194 with chassis number 0002, the oldest existing SL. Golden Classic Steering Wheel",
+          1352305285
+        ],
+        [
+          "The 2012 Pebble Beach Tour d'Elegance was led by a 1960 300 SL Roadster and its latest successor, the 2013 SL63 AMG. Despite the 50 years between them, their shared racing heritage was clear to everyone present, both\nvisually and audibly.\n\nYou can find more information about this vehicle here: http://mbenz.us/XzKbOg\n\nSL 63 AMG\n\nFuel consumption, NEDC combined: 9.9 l/100 km\nCO2 emission: 231 g/km* The 300 SL Roadster - your next dream car?",
+          1351764169
+        ],
+        [
+          "After attending to a few matters of wear and tear on the body, our Classic Center in Irvine, CA brought this 1960 300 SL Roadster back to a factory correct appearance. Buffed and polished, it\u2019s now ready for the classic rally circuit.\n\nIf you were in La Quinta, CA in early October, you may have even seen this Roadster in person. There for the Gullwing Group convention, it cut quite a dashing figure.\n\nYou can find more information about this vehicle here: http://mbenz.us/XzKbOg The 300 SL Roadster - your next dream car?",
+          1351764169
+        ],
+        [
+          "After attending to a few matters of wear and tear on the body, our Classic Center in Irvine, CA brought this 1960 300 SL Roadster back to a factory correct appearance. Buffed and polished, it\u2019s now ready for the classic rally circuit.\n\nYou can find more information about this vehicle here: http://mbenz.us/XzKbOg The 300 SL Roadster - your next dream car?",
+          1351764169
+        ],
+        [
+          "A small sample of the extensive restoration given this Roadster lies under the hood where you\u2019ll find a fully detailed and resealed engine, rebuilt oil and injection pumps, refurbished auxiliary fuel pump, as well as new fuel lines and oil pipes and hoses. This is all in addition to a rebuilt steering box, replaced u-joints and brake lines, re-cored radiator and much more.\n\nYou can find more information about this vehicle here: http://mbenz.us/XzKbOg The 300 SL Roadster - your next dream car?",
+          1351764169
+        ],
+        [
+          "Sir Stirling Moss, the legend himself, behind the wheel of this very 300 SL Roadster, the legend itself. Taken at the 2012 Pebble Beach Tour\nd\u00b9Elegance, Sir Stirling lead a parade of classics around the Monterey\nPeninsula.\n\nYou can find more information about this vehicle here: http://mbenz.us/XzKbOg The 300 SL Roadster - your next dream car?",
+          1351764169
+        ],
+        [
+          "300 SL Coup\u00e9 1955 Mercedes-Benz drawings by Masao Kozu",
+          1349874305
+        ],
+        [
+          "Mercedes SL - www.snabshod.com",
+          1348945549
+        ],
+        [
+          "1956 Mercedes-Benz 300 SL Gullwing (File Number: 13414)\r\nhttp://www.creativefilmcars.com/vehicle-search-top-detail.asp?intVehicleIndex=4264",
+          1348845005
+        ],
+        [
+          "Seething beauty. \r\n\r\nSL. Aesthete, athlete. \r\n\r\nMore @ http://www.facebook.com/pages/Every-thing-high-sooooooo-high/227788867304176?ref=tn_tnmn",
+          1348671450
+        ],
+        [
+          "2008 MBZ S550 AMG\r\nPanoramic Roof, Lorinser Body Kit & Exhaust\r\n22\" Staggered Modular Society Wheels",
+          1348333550
+        ],
+        [
+          "[Hong] \n \nMercedes-Benz SL with AMG Sport Package + BRABUS.. \n<3  9tro - Archives [Hong] \r\n \r\nBRABUS releases their new kit for the Mercedes-Benz SL with sport package AMG.. \r\n<3",
+          1347674254
+        ],
+        [
+          "Brabus SL AMG with  520 pk!",
+          1347439177
+        ],
+        [
+          "Brabus SL AMG",
+          1347439143
+        ],
+        [
+          "Thanks to your many comments on yesterday's post, here are your top 3 SL models in one handy graphic, which - by the way - is just the right size to be your next cover photo if you love the Mercedes-Benz SL! Timeline Photos",
+          1347374850
+        ],
+        [
+          "To answer yesterday\u2019s quiz question: The Mercedes-Benz 230 SL was nicknamed \u2018Pagoda\u2018.\r\n\r\nWhich is your favorite SL? Timeline Photos",
+          1347275006
+        ],
+        [
+          "SL 65 AMG",
+          1332277923
+        ],
+        [
+          "To personalize my SL 65 AMG, I would _______ Timeline Photos",
+          1332250865
+        ],
+        [
+          "Classic <3",
+          1331748271
+        ]
+      ],
+      "dates_start": 1333320788,
+      "dates_end": 1394756799,
+      "likes_avg": 13164,
+      "likes_stdev": 14690,
+      "comments_avg": 245,
+      "comments_stdev": 378,
+      "shares_avg": 1403,
+      "shares_stdev": 1621
+    },
+    {
+      "number": 15,
+      "important": [
+        "check mercedesbenz",
         "gle",
-        "follow mercedesbenz",
-        "behind scene"
+        "ambassador",
+        "golf",
+        "brand ambassador",
+        "ride",
+        "championship",
+        "behind scene",
+        "mercedesbenz golf",
+        "follow mercedesbenz"
       ],
       "common": [
         "100km",
@@ -1950,26 +2869,26 @@
       ],
       "dates_start": 1367614833,
       "dates_end": 1407136720,
-      "likes_avg": 15198,
-      "likes_stdev": 14117,
+      "likes_avg": 15195,
+      "likes_stdev": 14113,
       "comments_avg": 194,
       "comments_stdev": 279,
-      "shares_avg": 1908,
+      "shares_avg": 1907,
       "shares_stdev": 1687
     },
     {
-      "number": 11,
+      "number": 16,
       "important": [
-        "unveil",
-        "brand",
-        "fantast",
-        "thank",
-        "much",
-        "vehicl",
+        "instagram",
         "post",
-        "veri",
-        "merced",
-        "execut"
+        "highlight",
+        "photo mercedesbenz",
+        "collect",
+        "visit",
+        "mercedesbenz",
+        "mercedesbenz post",
+        "check",
+        "septemb"
       ],
       "common": [
         "benz",
@@ -1984,10 +2903,6 @@
         "post"
       ],
       "messages": [
-        [
-          "Unveiling our Brand New 51 Seat Executive Mercedes Tourismo! Thank you very much to all at Mercedes-Benz EvoBus GmbH for supplying such a fantastic vehicle Photos from Hearn's Coaches's post",
-          1486390820
-        ],
         [
           "Here is some dazzling Instagram eye-candy for you!\nCheck out this collection of September highlights and visit @mercedesbenz on Instagram for more! Photos from Mercedes-Benz's post",
           1443938400
@@ -2019,10 +2934,6 @@
         [
           "Eye candy made in Affalterbach, home to Mercedes-AMG. For more, check their Instagram account: https://instagram.com/mercedesamg/ Photos from Mercedes-Benz's post",
           1438275780
-        ],
-        [
-          "When you're set to explore Omani landscapes in a G 63 AMG 6x6, \"crazy\" is just one word to describe this adventure. Check out these fantastic images by GFWilliams Photographer!\nhttp://benz.me/GFWilliams_OmanAdventure Photos from Mercedes-Benz's post",
-          1438025215
         ],
         [
           "Happy birthday to Mike Horn! We're sending all the best wishes to our favorite explorer who's climbing the K2 right now. May he always be #DrivenToExplore and share his exciting adventures with us! http://benz.me/Insights-from-K2 Photos from Mercedes-Benz's post",
@@ -2061,6 +2972,10 @@
           1432595040
         ],
         [
+          "It's one of the #F1 season's most legendary circuits - it's going down in Monaco this weekend and you can follow all the live action on http://mercedes.me/racehubf1. #MonacoGP Photos from Mercedes-Benz's post",
+          1432335603
+        ],
+        [
           "The first Mercedes me Store has opened in Italy - a new and innovative location in Milan. Looks great, Mercedes-Benz Italia! #MeMilano\n\nRead more: http://benz.me/Mercedes-me_Milan [Italian] Photos from Mercedes-Benz's post",
           1431537120
         ],
@@ -2073,6 +2988,10 @@
           1430582701
         ],
         [
+          "High efficiency and outstanding handling both on the road and in terrain. Meet the new Mercedes-Benz GLE. http://benz.me/Mercedes-Benz_GLE Photos from Mercedes-Benz's post",
+          1430435820
+        ],
+        [
           "When passing the infamous \"Trail of the Dragon\" the motto of this year's Mercedes-Benz Roadtrip might become literal - \"Guarding the new GLE\". Read about today's journey from Knoxville to Charleston. http://benz.me/mbrt15_TailoftheDragon [Photos courtesy of Mercedes-Benz Passion Blog]\n\nAnd don't forget to add 'mercedes-snaps' on Snapchat to follow the trip live! #mbrt15 Photos from Mercedes-Benz's post",
           1427670000
         ],
@@ -2081,16 +3000,8 @@
           1427212801
         ],
         [
-          "In Miami, striking skyscrapers meet Caribbean improvisation. We set out to explore the US metropolis in a Mercedes-Benz CLA, trailing the Florida Keys all the way down to Key West.\r\n\r\nFor more urban exploration, check http://benz.me/Mercedes-Benz_Adventure. 48 Hours in Miami",
-          1427051400
-        ],
-        [
           "Lean back, relax and enjoy this selection of Instagram shots. You deserve it! Photos from Mercedes-Benz's post",
           1426698000
-        ],
-        [
-          "A fantastical miniature world: the settings that photographer Stephan Gar\u00e7on creates for Mercedes-Benz model cars blur the boundary between reality and fiction. http://benz.me/Stephan-Garcon Photos from Mercedes-Benz's post",
-          1426100401
         ],
         [
           "A fun day at the beach with the G 63 AMG 6x6. Such a playful thing. #ForEveryGround\n\nPhotos courtesy of Frederic Schlosser Photography. Photos from Mercedes-Benz's post",
@@ -2117,6 +3028,10 @@
           1422990000
         ],
         [
+          "Weathering the storm in a GLA: it was the week of the super storms but the duo behind The Editorialist went exploring Sydney from Bondi to Palm Beach. Read the 48-hours feature right here: http://benz.me/48-hrs-Sydney\n\nPhotos courtesy of The Editorialist. Photos from Mercedes-Benz's post",
+          1422925200
+        ],
+        [
           "Shortly before its official unveiling in Jerez on Sunday, the new F1 W06 Hybrid has completed a first day of running at Silverstone. More to come on Sunday! http://benz.me/F1-W06-Silverstone Photos from Mercedes-Benz's post",
           1422666000
         ],
@@ -2127,10 +3042,6 @@
         [
           "Now here's a vehicle that makes any Sunday drive truly remarkable: the  300 SL. \n\nLearn more about our classic cars at http://benz.me/Mercedes-Benz_Classic.\n\nPhotos courtesy of Mike Crawat Photography. Photos from Mercedes-Benz's post",
           1422216180
-        ],
-        [
-          "#ADayintheMBLife of Instagram user @razkrog: taking out the dogs for a magnificent walk on Vinalhaven off the coast of Maine. Oh, and also doing so with the E 63 AMG and a Mercedes-Benz G-Class. \n\nPhotos courtesy of @razkrog. Photos from Mercedes-Benz's post",
-          1421715600
         ],
         [
           "Our weekly bouquet of Instagram highlights for you! And don't forget to check http://www.mercedes-benz.com to learn more about our vehicles. Photos from Mercedes-Benz's post",
@@ -2149,6 +3060,10 @@
           1418112840
         ],
         [
+          "We'll just go ahead and call today's Instagram selection \"The Inside Job\". To learn more about Mercedes-Benz cars inside and out, go to http://benz.me/Mercedes-Benz_Passenger-Cars/ Photos from Mercedes-Benz's post",
+          1417345200
+        ],
+        [
           "When the brightest stars from our service teams come together for the Mercedes-Benz Global TechMasters for Cars 2014 competition, we all win. More than 12,000 employees took part to decide who's the best of the best in categories like \"Certified Service Advisor\", \"Maintenance Technician\" or \"Best Passenger Car Workshop Team\". Congratulations to all winners! Photos from Mercedes-Benz's post",
           1417028401
         ],
@@ -2161,24 +3076,32 @@
           1415086157
         ],
         [
+          "Today, Mercedes-Benz opened a Research & Development Center in Beijing/China with a clear focus on Chinese market needs. Around 500 highly qualified engineers and designers will be working at the new R&D facility. Photos from Mercedes-Benz's post",
+          1415041200
+        ],
+        [
           "Meanwhile, on http://instagram.com/mercedesbenz. Photos from Mercedes-Benz's post",
           1414323917
-        ],
-        [
-          "The next round of discovering Germany's Baden-W\u00fcrttemberg region in cooperation with Urlaubsland Baden-W\u00fcrttemberg and BW-jetzt set a culinary emphasis. \n\nSee what photographer @der_landgraf (Instagram handle) showed us on http://instagram.com/mercedesbenz. Photos from Mercedes-Benz's post",
-          1412874000
-        ],
-        [
-          "Gunther Holtorf has taken the concept of \"being on the road\" to the extreme: in his Mercedes-Benz G-Class \"Otto\" he and his wife have visited all 215 countries, covered 900,000 km and spent 26 years exploring the globe. Today, he made his final stop at the Brandenburg Gate in Berlin concluding this extraordinary world-record journey. Photos from Mercedes-Benz's post",
-          1412787600
         ],
         [
           "Pure elegance from the \"Legends of the Autobahn\" to the Mercedes-Benz 540 K Streamliner. This year's Pebble Beach Concours d'El\u00e9gance in review. http://benz.me/PebbleBeach_2014/ Photos from Mercedes-Benz's post",
           1409787001
         ],
         [
+          "The Classic Days Schloss Dyck 2014 have become popular with car enthusiasts and collectors from all over Europe. On the occasion of the anniversary year 2014 Mercedes-Benz Classic is displaying a thrilling chapter in its 120-year motorsport history with each of the unique, original vehicles. \n\nRead more: http://benz.me/ClassicDays_SchlossDyck_2014/ Photos from Mercedes-Benz's post",
+          1408035900
+        ],
+        [
           "Let's take a look at the five vehicles that were involved in the GTspirit.com Tour of The Alps earlier this year. Any favorites?\n\nRead more here: http://mb4.me/GTspirit_Tour_Alps_part2/ Photos from Mercedes-Benz's post",
           1407776700
+        ],
+        [
+          "Date your dream car with the Kitzb\u00fchel Summer Experience. From July 25 to August 31, 2014 you can experience Mercedes-Benz vehicles in the Alps and be blown away by both the idyllic scenery as well as the vehicles itself. \n\nFor more go to www.mercedes-benz-events.com. Photos from Mercedes-Benz's post",
+          1406955900
+        ],
+        [
+          "Guest author Axel Griesinger teamed up with Ellen Lohr at this year's Arlberg Classic Car Rally. Read his report right here: http://benz.me/Arlberg_Classic-Car-Rally_2014/\n\nTo read more by this author, check his blog: http://www.bigblogg.com/ Photos from Mercedes-Benz's post",
+          1406765100
         ],
         [
           "The sun is out and the outdoors are tempting you to pretend every single day is a vacation. Therefore Mercedes-AMG asked its Instagram followers to share their summer shots by using #AMGSummer. \n\nAnything to share? http://instagram.com/mercedesamg Photos from Mercedes-Benz's post",
@@ -2191,6 +3114,14 @@
         [
           "World Champions! Tonight a dream has come true for the German National Football team: Mercedes-Benz & Die Mannschaft - \"the next 'star' for Germany\". Congratulations! #DerVierteStern Photos from Mercedes-Benz's post",
           1405280320
+        ],
+        [
+          "For this year's Arlberg Classic, Ellen Lohr got behind the wheel of a 190 SLR. Read about her experience during the rally right here on the 'Daimler-Blog':  http://benz.me/Daimler-Blog_Arlberg-Classic/ [German] Photos from Mercedes-Benz's post",
+          1405209900
+        ],
+        [
+          "#GT6 fans listen up: The free game update for Sony PlayStation \u00ae3 including this year's Mercedes-Benz Central Display \u201c125 years of motorsport\u201d featuring iconic Mercedes-Benz cars in #Goodwood and a revised race track has been unveiled and is available for download now! Photos from Mercedes-Benz's post",
+          1403852401
         ],
         [
           "Here is another selection of our latest #MBShootout with the S 63 AMG Coup\u00e9 and HUGO BOSS in St. Tropez. Thanks GFWilliams Photographer for these beautiful shots! Photos from Mercedes-Benz's post",
@@ -2245,10 +3176,6 @@
           1393290000
         ],
         [
-          "What do those things have in common: the new Mercedes-Benz GLA, the lifestyle magazine GQ Deutschland, a Star Wars film set and the Tunisian desert? \n\nThe answer: an exciting and enthralling multimedia report. A GQ team was at the original set of \u201cStar Wars IV: A new hope\u201c to work on a photo production and capture the fascination of this wonderful country. Take a look!\n\nPhoto credits: Jan Friese | http://sternfahrt.gq-magazin.de/ Photos from Mercedes-Benz's post",
-          1392771601
-        ],
-        [
           "Don't we all love #TruckerTuesday? Most definitely! \n\nThe Actros SLT and Arocs SLT are the new Mercedes-Benz SLT heavy-haulage vehicle - the pinnacle of the Mercedes-Benz trucks range. Photos from Mercedes-Benz's post",
           1392150449
         ],
@@ -2261,6 +3188,10 @@
           1391734801
         ],
         [
+          "On the occasion of Facebook's 10th anniversary, we'd not only like to congratulate them. We'd also like to say #thankyou to all of you who are part of this great Mercedes-Benz community on this very platform. We're looking forward to the next ten years in #socialmedia!\n\nPhotos courtesy of Vossen Wheels Photos from Mercedes-Benz's post",
+          1391558401
+        ],
+        [
           "When your mind wanders from the road, Mercedes-Benz ATTENTION ASSIST is there to bring it back. As this commercial by Mercedes-Benz South Africa goes to show! http://youtu.be/VGXNA02_8Fw Photos from Mercedes-Benz's post",
           1390870800
         ],
@@ -2271,34 +3202,30 @@
         [
           "The pictures and videos of the Mercedes-Benz Freeride photo and video competition Kitzb\u00fchel are now up for vote! Which ones do you like best? \n\nTake a look and help the contestants to win: http://benz.me/Kitzbuehel-FreeRide-Photo-Competition/ Photos from Mercedes-Benz's post",
           1389434401
-        ],
-        [
-          "Stark, raw Scandanavian beauty? Check. A fleet of the finest Mercedes-Benz models known to man? That too. Enjoy this photo set from Mercedes-Benz & Friends' recent meetup in Sweden and learn more about the trip here: http://benz.me/MercedesBenzandFriends/ Mercedes-Benz & Friends 2013: Swedish Dream",
-          1381337904
         ]
       ],
-      "dates_start": 1399844164,
-      "dates_end": 1436579526,
-      "likes_avg": 25854,
-      "likes_stdev": 26038,
-      "comments_avg": 187,
-      "comments_stdev": 269,
-      "shares_avg": 1180,
-      "shares_stdev": 1156
+      "dates_start": 1400995769,
+      "dates_end": 1432894118,
+      "likes_avg": 25961,
+      "likes_stdev": 25577,
+      "comments_avg": 184,
+      "comments_stdev": 266,
+      "shares_avg": 1162,
+      "shares_stdev": 1152
     },
     {
-      "number": 12,
+      "number": 17,
       "important": [
-        "visit",
+        "join",
+        "know",
+        "formula one",
+        "formula",
+        "director",
+        "motorsport",
+        "engin",
         "petrona",
-        "champion",
-        "togeth",
-        "discov",
-        "stun",
-        "lewi",
-        "amg petrona",
-        "hamilton",
-        "model"
+        "creat",
+        "technic"
       ],
       "common": [
         "amg",
@@ -2313,6 +3240,10 @@
         "photos"
       ],
       "messages": [
+        [
+          "Formula One engineer James Allison will join the Mercedes-AMG Petronas Motorsport F1 team in the newly created role of Technical Director. Learn more about him. Get to know James Allison.",
+          1487466061
+        ],
         [
           "Together with top model Lena Perminova, reigning MERCEDES AMG PETRONAS F1 World Champion Lewis Hamilton discovers the stunning sights of Moscow. HUGO BOSS Lewis Hamilton visits Moscow.",
           1444750920
@@ -2362,20 +3293,12 @@
           1433545261
         ],
         [
-          "It's one of the #F1 season's most legendary circuits - it's going down in Monaco this weekend and you can follow all the live action on http://mercedes.me/racehubf1. #MonacoGP Photos from Mercedes-Benz's post",
-          1432335603
-        ],
-        [
           "\u201cMercedes is my home and I couldn\u2019t be happier to be staying here for another three years.\" \n\nToday, MERCEDES AMG PETRONAS has announced that the new contract with Lewis Hamilton has been finalized. http://benz.me/Lewis-Hamilton_Three-more-Years Timeline Photos",
           1432162801
         ],
         [
           "40th Formula One pole position for the Silver Arrows in Barcelona with yet another front row lockout! Congratulations to the entire team of MERCEDES AMG PETRONAS and best of luck for tomorrow's #SpanishGP. Follow all insights live on http://mercedes.me/racehubf1 Photos from Mercedes-Benz's post",
           1431193081
-        ],
-        [
-          "It's only one day to go until the Laureus World Sports Awards in Shanghai. Time to let Nico Rosberg introduce the Mercedes-Benz fundraising initiative #DriveForGood. Nico Rosberg for Laureus",
-          1429002371
         ],
         [
           "Lewis Hamilton takes P1 in Malaysia, Nico Rosberg will start from P3. Congratulations to the team of MERCEDES AMG PETRONAS - great job in torrential conditions! Mercedes-AMG Petronas Motorsport Lewis Hamilton takes pole for the #MalaysiaGP! Nico Rosberg P3! Thrilling session in torrential conditions - now that was tense! Great job everyone!",
@@ -2594,10 +3517,6 @@
           1368351000
         ],
         [
-          "While Nico Rosberg has launched the A-Class in Bahrain last weekend, the motor sports colleagues of Mercedes-Benz DTM have been cooking up something very special: \r\n\r\nWin a trip round the Hockenheim circuit in a DTM 'race taxi' with Nico Rosberg as your chauffeur. Simply write them an e-mail to let them know why they should pick you. \r\n\r\nTo learn more go to http://bit.ly/XSPieu! Timeline Photos",
-          1366746662
-        ],
-        [
           "The roar of engines, hot wheels on tarmac - the team of MERCEDES AMG PETRONAS gets your adrenaline pumping! Especially if you own a Grandstand Package with a chance to win a Meet & Greet with Lewis Hamilton and Nico Rosberg. Read all about it here: http://mb4.me/F1_Grandstand_Ticketbooklet/  \n\nAnd of course, congratulations to Lewis on winning a fantastic third place yesterday! Formula 1 Grandstand Package",
           1366048438
         ],
@@ -2626,28 +3545,28 @@
           1334515119
         ]
       ],
-      "dates_start": 1379878829,
-      "dates_end": 1430431886,
-      "likes_avg": 7875,
-      "likes_stdev": 8711,
+      "dates_start": 1379475244,
+      "dates_end": 1432669475,
+      "likes_avg": 7909,
+      "likes_stdev": 8816,
       "comments_avg": 87,
-      "comments_stdev": 160,
-      "shares_avg": 490,
-      "shares_stdev": 1113
+      "comments_stdev": 162,
+      "shares_avg": 498,
+      "shares_stdev": 1126
     },
     {
-      "number": 13,
+      "number": 18,
       "important": [
-        "imag",
-        "consumpt emiss",
-        "see",
-        "find",
-        "come",
-        "action",
+        "cabriolet",
+        "edit",
+        "combin km combin emiss",
+        "emiss gkm photo",
+        "km combin",
         "gkm photo mercedesbenz post",
-        "gkm photo",
-        "combin fuel consumpt emiss",
-        "combin"
+        "mercedesamg",
+        "combin km combin",
+        "combin emiss gkm photo",
+        "roadster"
       ],
       "common": [
         "amg",
@@ -2655,13 +3574,29 @@
         "combined",
         "consumption",
         "fuel",
+        "fuel consumption",
         "http",
         "km",
         "mercedes",
-        "mercedes amg",
         "mercedes benz"
       ],
       "messages": [
+        [
+          "50 Years of Driving Performance are the ideal occasion for Mercedes-AMG to add a couple of neat editions to its roster:\nThe Mercedes-AMG GT C Roadster Edition 50, Mercedes-AMG C 63 Cabriolet and C 63 S Cabriolet Ocean Blue Edition as well as the Mercedes-AMG C 43 4MATIC Coupe\u0301 and C 43 4MATIC Cabriolet Night Edition.\n\nLearn more: http://mb4.me/AMG_Editions_f\n\n[Fuel consumption combined: 11.4-7.8 l/100 km | Combined CO2 emissions: 259-178 g/km | http://benz.me/efficiency_statement] Photos from Mercedes-Benz's post",
+          1487714460
+        ],
+        [
+          "When the pet sounds are roaring extra sporty, it's our favorite beach boy: the Mercedes-AMG GT S.\n\n#MBPhotoPass via Mercedes-Benz USA\n\n\u25b6 http://mb4.me/AMG_GT_f\n\n[Mercedes-AMG GT S | Fuel consumption combined: 9.4 l/100 km | Combined CO2 emissions: 219 g/km | http://benz.me/efficiency_statement] Photos from Mercedes-Benz's post",
+          1487613605
+        ],
+        [
+          "Winter fashion tips with the Mercedes-Benz G-Class. Today: How to grow a snow beard.\n\n#MBPhotoPass: A Alden Wallace - Stills + Motion for Mercedes-Benz USA\n\n[Mercedes-AMG G 65 | Combined fuel consumption 17 l/100km | Combined CO2 emission 397 g/km | http://mb4.me/EfficiencyStatement] Photos from Mercedes-Benz's post",
+          1487406001
+        ],
+        [
+          "One look says it all. The Mercedes-Benz S-Class Coup\u00e9 combines perfectly proportions of a large sporty coup\u00e9 with high tech and modern luxury.\n\nThanks to Crossline Media and Feine Adressen!\n\nLearn more: http://mb4.me/SClassCoupe\n\n[Mercedes-Benz S 500 Coup\u00e9 | Combined fuel consumption 8.8-8.3 l/100km | Combined CO2 emissions 204-193 g/km | http://mb4.me/EfficiencyStatement] Mercedes-Benz S-Class Coup\u00e9.",
+          1487240558
+        ],
         [
           "#ProjectCARS2 is coming to PS4, Xbox & PC in late 2017. \nSee the first images of Mercedes in action and find out more at projectcarsgame.com.\n\n[Combined fuel consumption: 11.4\u20138.6 l/100km | CO2 emission combined: 259\u2013200 g/km | http://mb4.me/efficiency_statement] Photos from Mercedes-Benz's post",
           1486602000
@@ -2669,14 +3604,6 @@
         [
           "Black taxis with a large radiator grill and high roof are as much a part of the London cityscape as Big Ben, Westminster Abbey and the London Eye. The Mercedes-Benz Vito Taxi has been among the so-called \"black cabs\" since 2008. Now it has been completely renewed.\n\n(Fuel consumption combined: 6.5-6.0 l/100 km; CO2 emissions combined: 171-158 g/km) Photos from Mercedes-Benz's post",
           1486548002
-        ],
-        [
-          "The Mercedes-Benz-AMG GT Roadster\u2026 built to be wild. Take another epic drive with Peter Fonda in Mercedes\u2019 Super Bowl ad, directed by the Coen Brothers. https://youtu.be/BvHFM8c7cPM Mercedes-AMG GT Roadster Commercial \"Easy Driver\" \u2013 Directed by The Coen... Riding on the open road with Steppenwolf's \"Born to be Wild\" playing in your head. How do you make this experience any better? Hint: The legendary...",
-          1486398621
-        ],
-        [
-          "Wer hat sich heute die Nacht um die Ohren geschlagen? F\u00fcr alle, die es nicht gesehen haben ... hier der Super Bowl Werbespot von Mercedes-Benz. \n\nPS: Die New England Patriots haben das Spiel gewonnen \ud83c\udfc8;-)\ud83c\udfc8 Mercedes-AMG GT Roadster Commercial \"Easy Driver\" \u2013 Directed by The Coen Brothers Riding on the open road with Steppenwolf's \"Born to be Wild\" playing in your head. How do you make this experience any better? Hint: The legendary Peter Fond...",
-          1486363583
         ],
         [
           "Agility and sportiness.\nWelcome the latest Mercedes-AMG sports model: the Mercedes-Benz 450 GLE AMG. It is the third addition to the new line and an exciting way of entering the AMG performance world. But see yourself.\n\n[Mercedes-Benz GLE 450 AMG 4MATIC | Combined fuel consumption 8.6 l/100km | combined CO2 emission 199 g/km | http://mb4.me/EfficiencyStatement] Photos from Mercedes-Benz's post",
@@ -2691,20 +3618,8 @@
           1442876520
         ],
         [
-          "Sporting action on unfamiliar terrain. \nNico Rosberg and Martin Kaymer swapped jobs for a day: http://mb4.me/NicoVsMartin\n\n[Mercedes-AMG GT S | Combined fuel consumption: 9.6-9.4 l/100 km | CO2 emission: 224-219 g/km | http://mb4.me/EfficiencyStatement] Photos from Mercedes-Benz's post",
-          1442642280
-        ],
-        [
-          "The IAA 2015 opened its doors. With over 70 vehicles, more than 9,000 square metres of exhibition space and many world premieres, Mercedes-Benz welcomes you at the world's largest motor show in Frankfurt, Germany. We hope you are as excited as MERCEDES AMG PETRONAS race driver Nico Rosberg is, as he prepares for this event at HUGO BOSS. #MBIAA15\n\n[Mercedes-AMG GT S | Combined fuel consumption: 9.6-9.4 l/100 km | CO2 emission: 224-219 g/km | http://mb4.me/EfficiencyStatement] Time for the 2015 IAA \u2013 Nico Rosberg X AMG GT S.",
-          1442466694
-        ],
-        [
           "Picture-perfect paradise.\nTaking a roadtrip from Austria to Slovenia with the new Mercedes-AMG C 63 Estate guarantees impressions lasting a lifetime.\nhttp://mb4.me/Adriatic-adventures\n\nPhotos via Patrick Paparella Photography\n\n[Mercedes-AMG C 63 Estate | Combined fuel consumption 8.6-8.4 l/100 km | CO2-emission combined: 200-196 g/km | http://mb4.me/EfficiencyStatement] Photos from Mercedes-Benz's post",
           1442396166
-        ],
-        [
-          "Mercedes-AMG is going beyond adrenaline with MV Agusta Motor SpA. Stay tuned! \n\n[Mercedes-AMG GT | Combined fuel consumption 9.3 l/100 km | CO2-emission combined: 216 g/km | http://mb4.me/EfficiencyStatement] Timeline Photos",
-          1442159161
         ],
         [
           "May we introduce: the new Mercedes-AMG C 63 Coup\u00e9 Edition 1. The exclusive colour combination in designo Magno Selenite Grey with yellow film coating and black wheels with yellow painted rim flanges reflects the graphic design of the Frankfurt International Motor Show launch version of the Mercedes-AMG C 63 DTM racing coup\u00e9. \n\n[Mercedes-AMG C 63 Coup\u00e9 Edition 1 | Combined fuel consumption: 8.9-8.6 l/100km | CO2 emission: 209-200 g/km | http://mb4.me/EfficiencyStatement] Photos from Mercedes-Benz's post",
@@ -2719,16 +3634,8 @@
           1440889200
         ],
         [
-          "Join our hero, the Mercedes-AMG GT, on a magical journey through light and shadow on a quest to find the most beloved stars at Germany's scenic Europa-Park.\n\n[Combined fuel consumption: 9.6-9.4 l/100 km | combined CO2-emission: 224-219 g/km | http://mb4.me/EfficiencyStatement]",
-          1440306001
-        ],
-        [
           "Mercedes-Benz adds a Coup\u00e9 to its C-Class family. Athletic and sporty, the vivid, sensual design of the new Coup\u00e9 cuts a fine figure on the road and embodies modern luxury. http://benz.me/The-new-C-Class-Coupe\n\n[C 300/C 250 d | Fuel consumption combined: 6.8-6.3/4.4-4.2 l/100km | Combined CO2 emission: 157-146/116-109 g/km | http://mb4.me/EfficiencyStatement] The new C-Class Coup\u00e9",
           1439555370
-        ],
-        [
-          "Hybrid by Nature. Mercedes-Benz presents the new Fashion Campaign for Spring/Summer 2016. Masterminded by legendary French fashion editor and stylist Carlyne Cerf De Dudzeele it stars Dutch supermodel Doutzen Kroes alongside the new GLC Plug-In Hybrid. http://benz.me/Hybrid-By-Nature\n\n[Mercedes-Benz GLC 350 e 4MATIC | Combined fuel consumption: 2.6 l/100 km | Power consumption weighted: 20 kWh/100km | CO2 emission: 60 g/km | http://mb4.me/EfficiencyStatement] Timeline Photos",
-          1434972822
         ],
         [
           "Watch the Mercedes-AMG GLE 63 and Mercedes-AMG S 63 Coup\u00e9 co-star in our newest episode of \u201cStyle Profiles\u201d - an adrenaline-pumping scripted action short film directed by Ace Norton and featuring Taekwondo Olympic bronze medallist Paige McPherson and world champion martial artist Caitlin Dechelle. Created in collaboration with British Fashion Council.\n\n[Mercedes-AMG GLE 63 S Coup\u00e9/Mercedes-AMG S 63 Coup\u00e9 | Fuel consumption combined: 11.9/10.1 l/100km | CO2 emission: 278/237 g/km | http://mb4.me/EfficiencyStatement]",
@@ -2739,40 +3646,12 @@
           1434374721
         ],
         [
-          "We've all been very excited ever since the Mercedes-AMG GT has been introduced last year. But what did it take to bring this powerhouse to the streets? A look back. http://benz.me/No-Mercy Timeline Photos",
-          1433720161
-        ],
-        [
           "Is this for real \u2013 premium sedan levels of comfort and sports car performance with fuel economy of just 2.1 liters per 100 km? Oh, but it is. http://benz.me/Pure-Magic\n\n[C 350 e | Fuel consumption combined: 2.4\u20132.1 l/100km | combined CO\u2082 emissions: 54\u201348 g/km] Photos from Mercedes-Benz's post",
           1432854120
         ],
         [
           "Let's go camping with Mercedes-Benz Reporter Yasmine and the Marco Polo. Off to Portugal's seaside!\n\n[Marco Polo 220 CDI | Fuel consumption combined: 6.3 l/100km | CO2 emission: 164 g/km | http://mb4.me/EfficiencyStatement] Camping with the Marco Polo",
           1430205840
-        ],
-        [
-          "Unfortunately it's not a #F1 weekend, so here's a little something instead: with the Mercedes-AMG GT S through the \u201cGr\u00fcne H\u00f6lle\u201d. http://benz.me/AMGGTS_Gruene-Hoelle\n \n[Mercedes-AMG GT S | Combined fuel consumption: 9.6-9.4 l/100km | CO2 emission: 224-219 g/km | http://mb4.me/EfficiencyStatement] Photos from Mercedes-Benz's post",
-          1429917300
-        ],
-        [
-          "High-end on two wheels: the high-performance mountainbike ROTWILD GT S was developed by ROTWILD Bikes in cooperation with Mercedes-AMG. http://benz.me/ROTWILDxAMG Photos from Mercedes-Benz's post",
-          1429052220
-        ],
-        [
-          "Here's a suggestion for you.\nWant to see more of the Mercedes-AMG GT? This way: http://benz.me/Mercedes-AMG-GT_Highlights Timeline Photos",
-          1428769921
-        ],
-        [
-          "No F1 this weekend. But don't fret - here's some more information about the new Safety Car and its driver Bernd Mayl\u00e4nder. \n\nAnd to prepare for the next race, bookmark the brand-new race hub to follow up to the minute insights from the racetrack during the race. http://mercedes.me/racehub F1 Safety Car Mercedes-AMG GT",
-          1428040802
-        ],
-        [
-          "We really don't want to take away from your Sunday's precious #QualityTime. So we'll make this quick: a speedy video with one special moment to savor. \r\n\r\n[Mercedes-AMG GT S | Combined fuel consumption: 9.6-9.4 l/100km | CO2 emission: 224-219 g/km | http://mb4.me/EfficiencyStatement] Quick View x Mercedes-AMG GT",
-          1427637605
-        ],
-        [
-          "Have you already set up your Mercedes-AMG GT S in Driveclub? If not, better hurry because there's a new feature in town: the first Mercedes-AMG themed multiplayer playlist. Start your engines now! #doublefame \r\n\r\n[Mercedes-AMG GT S | Combined fuel consumption: 9.6-9.4 l/100km | CO2 emission: 224-219 g/km | http://amg4.me/Efficiency-Statement] Mercedes-AMG GT S x DRIVECLUB",
-          1427357700
         ],
         [
           "Skiing, snowboarding, hiking - the mountains offer a wide variety of outdoors entertainment. But the snowy and icy roads can be a challenge for drivers in the wintertime. Good thing the V-Class is here to ensure safety. http://benz.me/V-Class_Making-of\r\n\r\n[V 250 BlueTEC 4MATIC | Fuel consumption combined: 6.6 l/100 km | combined CO\u2082 emissions: 174 g/km | http://mb4.me/EfficiencyStatement] V-Class In The Snow",
@@ -2787,10 +3666,6 @@
           1425809787
         ],
         [
-          "The new Mercedes-AMG customer racing car where it looks best: on the racetrack. Indulge in some more Mercedes-AMG GT3 performance!\r\n\r\nTo learn more about the new racer, go to http://amg4.me/Mercedes-AMG_GT3. Mercedes-AMG GT3 on the track",
-          1425596401
-        ],
-        [
           "6.50 meters in length is just one sign of the special status of the Mercedes-Maybach Pullman that was just presented at the Geneva Motor Show. Mercedes-Maybach's second model assumes the top-of-the-range position, with vis-\u00e0-vis seating in the partitioned-off passenger compartment and high-end automotive luxury traditionally associated with Maybach.\n\n[Mercedes-Maybach Pullman | Fuel consumption combined: 12.9 l/100km | CO2 emission: 299 g/km | http://mb4.me/EfficiencyStatement] Photos from Mercedes-Benz's post",
           1425368700
         ],
@@ -2799,24 +3674,8 @@
           1424890802
         ],
         [
-          "Make some noise! Mike D and the Mercedes-AMG GT go road tripping and INTERSECTION MAGAZIN Deutschland kindly shared the story with us. \n\nPhotos courtesy of Tim Adler Photography.\nFind out more about the Mercedes-AMG GT: http://benz.me/Mercedes-AMG_GT Photos from Mercedes-Benz's post",
-          1424502002
-        ],
-        [
           "Unique drive comfort, tremendous pulling power and exquisite appointments. Meet the S 65 AMG Coup\u00e9.\n\n[S 65 AMG Coup\u00e9 | Fuel consumption combined: 11.9 l/100 km | Combined CO\u2082 emissions: 279 g/km | http://mb4.me/EfficiencyStatement] S 65 AMG Coup\u00e9",
           1423681200
-        ],
-        [
-          "The car you dreamed of as a child has just been overtaken. \r\nThe Mercedes-AMG GT. Handcrafted by Racers.\r\n\r\n[Mercedes-AMG GT | Combined fuel consumption: 9.6-9.3 l/100km | CO2 emission: 224-216 g/km | http://mb4.me/EfficiencyStatement] Dream car. The Mercedes-AMG GT.",
-          1422615601
-        ],
-        [
-          "Cigarette Racing and Mercedes-AMG join forces for the fifth consecutive year to launch their latest development at the Miami International Boat Show beginning on February 12, 2015. The two legendary brands will unite once again to present the Mercedes-AMG GT S and the Cigarette Racing 50 Marauder GT S Concept.\n\n[Mercedes-AMG GT S | Fuel consumption combined: 9.6-9.4 l/100km | CO2 emission: 224-219 g/km | http://mb4.me/EfficiencyStatement] Timeline Photos",
-          1422450301
-        ],
-        [
-          "Such a tease.\n\nThe Mercedes-AMG GT shot by Peter Mosoni | Photography in cooperation with Pappas Auto. Photos from Mercedes-Benz's post",
-          1422104402
         ],
         [
           "The GLE 450 AMG 4MATIC combines typical coup\u00e9 attributes, such as sportiness, dynamism and agility, with the confident presence, versatility and robustness of an SUV. Furthermore, it is the first representative of a new Mercedes-AMG product line: the AMG sports models.\n\n[GLE 450 AMG 4MATIC | Fuel consumption combined: 9.4-8.9 l/100km | CO2 emission: 219-209 g/km | http://mb4.me/EfficiencyStatement] GLE 450 AMG 4MATIC",
@@ -2827,16 +3686,12 @@
           1421823601
         ],
         [
-          "David Coulthard + Mercedes-AMG GT: you do the maths. Or let's let Red Bulletin do it. Just sit back and watch. #beyondtheordinary\n\u25ba http://benz.me/DC-meets-GT DC meets GT",
-          1421564400
-        ],
-        [
           "And here's another #NAIAS 2015 highlight for you: The C 450 AMG 4MATIC is the latest addition to the performance and sports car brand of Mercedes-Benz. The second AMG sports model combines a 270-kW (367-hp) 3.0-litre twin-turbo V6 engine with a permanent Performance all-wheel-drive system. Let's hear it roar!\n\n[C 450 AMG 4MATIC | Fuel consumption combined: 7.7-7.6 l/100km | CO2 emission: 180-178 g/km  | http://mb4.me/EfficiencyStatement] C 450 AMG 4MATIC",
           1421137213
         ],
         [
-          "\u201cChampions of Fashion\u201c, the new #mbFashion Autumn/Winter 2015 campaign, sees the unlikely team of Lewis Hamilton, Nico Rosberg, model Dree Hemingway, the iconic C 111 and the new Mercedes-AMG GT. A clash of worlds and decades that come together in one piece of artistic photography. \u25ba http://benz.me/Champions-of-Fashion/\n \n[Mercedes-AMG GT | Combined fuel consumption: 9.6-9.3 l/100 km | CO2 emission: 224-216 g/km | http://mb4.me/EfficiencyStatement] Timeline Photos",
-          1418046061
+          "Watch Daimler AG CEO Dr. Dieter Zetsche's keynote speech live from Las Vegas on Jan 5th, 8 pm (local, PST) / Jan 6, 4 am (GMT): http://www.mb4.me/MB_Live/ #mbCES Cover Photos",
+          1420439760
         ],
         [
           "The strictly limited World Championship 2014 Collector\u2019s Edition is an unforgettable memento for a memorable Formula 1 season with Lewis Hamilton and Nico Rosberg. And if these pictures are not enough, stay tuned - we'll have more in store for you next week! http://benz.me/World-Championship_Collectors-Edition/\n\n[SL 63 AMG | Fuel consumption combined: 9.9 l/100km | Combined CO2 emission: 231 g/km | http://mb4.me/EfficiencyStatement]",
@@ -2845,10 +3700,6 @@
         [
           "Thrilling accents. Extravagant design features. The CLA 45 AMG Shooting Brake is a performer inside and out, especially with this OrangeArt Edition. http://benz.me/CLA45AMG_OrangeArt/\n\n[CLA 45 AMG Shooting Brake | Fuel consumption combined: 6.9 l/100km | Combined CO2 emission: 161 g/km | http://mb4.me/EfficiencyStatement] Photos from Mercedes-Benz's post",
           1417654800
-        ],
-        [
-          "Get your limited time purchase Mercedes-AMG GT in CSR Racing as part of #AppsforRED by App Store & (RED). Burn Rubber. Save Lives.",
-          1417428238
         ],
         [
           "The new C-Class stands for sophisticated sportiness thanks to the newly developed chassis and the innovative light-weight design concept and creates a new level of driving pleasure.\n\n[C-Class | Fuel consumption combined: 5.8-4.0 l/100km | Combined CO2 emission: 135-103 g/km | http://mb4.me/EfficiencyStatement] The new C-Class",
@@ -2875,20 +3726,8 @@
           1415926800
         ],
         [
-          "Gorden Wagener, Vice President Design Daimler AG, talks about the powerful design of the latest family member of Mercedes-Benz sportscars: the Mercedes-AMG GT. The Design of the new Mercedes-AMG GT",
-          1415062800
-        ],
-        [
           "Come explore three special locations in London with Highsnobiety and the new CLS 220 BlueTEC! \n\n[CLS 220 BlueTEC | Fuel consumption combined: 4.7-4.6 l /100 km | combined CO2 emissions: 122 g/km | http://mb4.me/EfficiencyStatement] Highsnobiety x CLS 220 BlueTEC",
           1413414001
-        ],
-        [
-          "It's finally here! Driveclub, the new racing game exclusive to the PlayStation 4, hits the stores this week and features a total of six exciting Mercedes-AMG models - including the brand-new Mercedes-AMG GT, of course! So get your controllers started! PlayStation 4 DRIVECLUB",
-          1412809200
-        ],
-        [
-          "++ EXPERT TALK LIVE FROM PARIS ++ Tune in to learn more right here: http://www.mb4.me/MB_Live/ \n\n\u25ba Mercedes-AMG GT: 5.45/3.45 p.m. (CEST/GMT)\n\u25ba Alternative Drives: 6.15/4.15 p.m. (CEST/GMT)\n\n[Mercedes-AMG GT | Combined fuel consumption: 9.6-9.3 l/100km | CO2 emission: 224-216 g/km | http://mb4.me/EfficiencyStatement] Timeline Photos",
-          1412256601
         ],
         [
           "The next level of style & precision: today, HUGO BOSS and MERCEDES AMG PETRONAS have announced their #F1 partnership starting in 2015. Such a suiting match! \n\n[S 63 AMG Coup\u00e9 | Fuel consumption combined: 10.1 l/100 km | combined CO\u2082 emissions: 237 g/km | http://mb4.me/EfficiencyStatement] Timeline Photos",
@@ -2897,34 +3736,6 @@
         [
           "\u201cI'm so glad I live in a world where there are Octobers.\u201d\n- L.M. Montgomery\n\nSo are we, especially when we have this breath of fresh air as our October wallpaper download for you: http://benz.me/October_Wallpaper_Download/\n\n[CLS 63 AMG Shooting Brake | Fuel consumption combined: 10.6\u201310.1 l/100 km | combined CO\u2082 emissions: 248\u2013235 g/km | http://mb4.me/EfficiencyStatement] Timeline Photos",
           1412123401
-        ],
-        [
-          "Two minutes of pure Mercedes-AMG GT power at the \"Circuit of the Americas\". What more could you ask for?\n\n[Mercedes-AMG GT | Combined fuel consumption: 9.6-9.3 l/100km | CO2 emission: 224-216 g/km | http://mb4.me/EfficiencyStatement] The new Mercedes-AMG GT at the \"Circuit of the Americas\" Handcrafted by Racers. Learn more: www.mercedes-amg.com/AMGGT Join the conversation: www.facebook.com/mercedesamg [Mercedes-AMG GT | Combined fuel consumptio...",
-          1411083301
-        ],
-        [
-          "Driving dynamics and comfort on long journeys. Racetrack performance and everyday practicality. The new Mercedes-AMG GT delivers on all counts.\n\nDiscover more: http://benz.me/Mercedes-AMG_GT/\n\n[Mercedes-AMG GT | Combined fuel consumption: 9.6-9.3 l/100km | CO2 emission: 224-216 g/km | http://mb4.me/EfficiencyStatement] Photos from Mercedes-Benz's post",
-          1410964501
-        ],
-        [
-          "Get together, win together! Create a club, invite friends, & win a Playstation\u00ae4 with Driveclub featuring the all-new Mercedes-AMG GT! http://benz.me/Journey-of-Stars/\n\n[Mercedes-AMG GT | Combined fuel consumption: 9.6-9.3 l/100km | CO2 emission: 224-216 g/km | http://mb4.me/EfficiencyStatement] Journey of Stars",
-          1410654601
-        ],
-        [
-          "When the Mercedes-AMG GT was unveiled on Wednesday, Cool Hunting had already had a chance to see the car without its camouflage during its final testings at the Bonneville Speedway in Utah. \n\nWatch the video right here: http://benz.me/Cool-Hunting_Mercedes-AMG_GT/\n\n[Mercedes-AMG GT | Combined fuel consumption: 9.6-9.3 l/100 km | CO2 emission: 224-216 g/km | http://mb4.me/EfficiencyStatement] Photos from Mercedes-Benz's post",
-          1410487500
-        ],
-        [
-          "It's finally here: The new Mercedes-AMG GT!  The second sports car entirely developed in house by Mercedes-AMG presents itself with a front mid-engine concept with transaxle and intelligent aluminium lightweight construction. The first sports car engine with internally mounted turbochargers ('hot inside V') and dry sump lubrication is configured in two output ratings: as a GT with 340 kW (462 hp) and as a GT S with 375 kW (510 hp).\n\nCan you hear the roar?\n\n[Mercedes-AMG GT | Combined fuel consumption: 9.6-9.3 l/100 km | CO2 emission: 224-216 g/km | http://mb4.me/EfficiencyStatement] The new Mercedes-AMG GT",
-          1410282440
-        ],
-        [
-          "It's just 5 days away. The new Mercedes-AMG GT breaks its cover at the world-premiere on Tuesday, and news has broken that AMG's newest superstar will join its other brethren in the world of Driveclub on the 8th of October. Can't wait to see the new supercar in the flesh? Here's an exclusive sneak peek. Photos from Mercedes-Benz's post",
-          1409900957
-        ],
-        [
-          "Mercedes-Benz gives insides into the testing of the new Mercedes-AMG GT. 50 test drivers pushed the 462 to 510 hp sports cars to their limits during the past 32 months. Stay tuned and see more at its world premiere on September 9, 2014.",
-          1409455800
         ],
         [
           "This dashing looking C 63 AMG \"Austria Edition\" was revealed at the Vienna Auto Show as a cooperation between the AMG Performance Studio and Mercedes-Benz \u00d6sterreich. Limited to 10 vehicles only! More pictures on Mercedes-AMG.\n\n[C 63 AMG Coup\u00e9 | Combined fuel consumption: 12.0 l/100km | CO2 emission: 280 g/km | http://mb4.me/EfficiencyStatement] Photos from Mercedes-Benz's post",
@@ -2947,20 +3758,12 @@
           1403568000
         ],
         [
-          "\u201cDriving Performance\u201d, the new issue of the AMG Magazine, provides you dynamics, power and design made in Affalterbach, Germany. Across a total of 112 pages, it depicts the fascinating world of the AMG brand. With the Mercedes-AMG GT, the ever-growing model lineup gives rise to an absolute highlight. The issue begins with an impressive photo gallery of a camouflaged Mercedes-AMG GT during a test drive in Barcelona.\n \nEnjoy the dynamic and visually colorful mixture of topics from our Driving Performance Magazine here: http://benz.me/AMGMagazine/ Timeline Photos",
-          1402469636
-        ],
-        [
           "smart has asked its fans to help create an unusual special model - the smart BRABUS fan edition! Going through different voting phases, you can currently weigh in on your favorite rims for this model. Head over to their page to vote or go directly to www.smart-fan-edition.com to decide between silver, grey or white rims! \n\n[smart BRABUS | Fuel consumption combined: 5.2 l/100 km | CO2 emissions combined: 119 (g/km) | Efficiency Statement: http://bit.ly/1gSaHti] Photos from Mercedes-Benz's post",
           1401210000
         ],
         [
           "amfAR The Foundation for AIDS Research's 21st Annual Cinema Against AIDS in #Cannes yesterday night again turned out highly successfully with over 38 million dollars of auction proceeds for the foundation's benefit. The S 63 AMG Coup\u00e9 and a chance to customize the vehicle with Lewis Hamilton was sold for 300,000 euros. Congratulations to the highest bidder!\n\n[S 63 AMG Coup\u00e9 | Fuel consumption combined: 10.3 l/100 km | combined CO\u2082 emissions: 242 g/km | http://mb4.me/EfficiencyStatement] 21st Annual Cinema Against AIDS",
           1400857197
-        ],
-        [
-          "The race \u2013 and the thrill \u2013 is earned in the curves. \n\nThis is what you get. The Mercedes-AMG GT. Mercedes-AMG GT",
-          1400605200
         ],
         [
           "Sea, sun and Southern France! Join Highsnobiety for a dream drive with the GLA 45 AMG.\n\n\u25b6\ufe0e http://youtu.be/KTgAyouO9bA\n\n[GLA 45 AMG | Fuel consumption combined: 7.5 l/100 km | combined CO\u2082 emissions: 175 g/km | http://mb4.me/EfficiencyStatement] Photos from Mercedes-Benz's post",
@@ -3011,6 +3814,10 @@
           1368622836
         ],
         [
+          "What moves us tomorrow? \n\nDr. Dieter Zetsche, CEO of Daimler AG and Head of Mercedes-Benz Cars, explored mobility concepts, connectivity and autonomous driving today at the re:publica. As a supporting partner of one of Europe's biggest digital conferences, Daimler Business Innovation invites visitors to learn more about car2go and moovel. \n\nCheck out these impressions and come by if you happen to be in Berlin! Daimler at the re:publica 2013",
+          1367947698
+        ],
+        [
           "\u00a9 Josh Rubin.\n\nRead the full story here: http://www.coolhunting.com/design/mercedes-benz-cla250.php\n\nCLA 250. Fuel consumption combined: 6.2-6.1 l/100 km. CO2 emission combined: 144-142 (g/km). Cool Hunting with the CLA 250",
           1364635357
         ],
@@ -3027,15 +3834,15 @@
           1363889338
         ],
         [
-          "http://instagram.com/p/RNhfs4TcBS/\n\nMercedes-Benz G-Class.\nCombined fuel consumption: 17.0 - 11.02l/100km\nCombined CO2 emission: 397 - 295 (g/km)* Best of Instagram",
-          1351324939
-        ],
-        [
           "http://instagram.com/p/RPR4OFTcEv/\n\nMercedes-Benz G-Class.\nCombined fuel consumption: 17.0 - 11.02l/100km\nCombined CO2 emission: 397 - 295 (g/km)* Best of Instagram",
           1351324939
         ],
         [
-          "Watch \"Flow\" here: http://youtu.be/FH-vQi2NKVo\n\nFuel consumption combined: 6.4-3.8 l/100 km, CO2 emissions combined: 148-98 (g/km).* \n\nFor more information on the new A-Class visit http://a-class.mercedes-benz.com/ Vote for your favorite A-Class commercial",
+          "http://instagram.com/p/RNhfs4TcBS/\n\nMercedes-Benz G-Class.\nCombined fuel consumption: 17.0 - 11.02l/100km\nCombined CO2 emission: 397 - 295 (g/km)* Best of Instagram",
+          1351324939
+        ],
+        [
+          "Watch \"Performance\" here: http://youtu.be/SH05w3qbNQE\n\nFuel consumption combined: 6.4-3.8 l/100 km, CO2 emissions combined: 148-98 (g/km).* \n\nFor more information on the new A-Class visit http://a-class.mercedes-benz.com/ Vote for your favorite A-Class commercial",
           1351271536
         ],
         [
@@ -3043,7 +3850,7 @@
           1351271536
         ],
         [
-          "Watch \"Performance\" here: http://youtu.be/SH05w3qbNQE\n\nFuel consumption combined: 6.4-3.8 l/100 km, CO2 emissions combined: 148-98 (g/km).* \n\nFor more information on the new A-Class visit http://a-class.mercedes-benz.com/ Vote for your favorite A-Class commercial",
+          "Watch \"Flow\" here: http://youtu.be/FH-vQi2NKVo\n\nFuel consumption combined: 6.4-3.8 l/100 km, CO2 emissions combined: 148-98 (g/km).* \n\nFor more information on the new A-Class visit http://a-class.mercedes-benz.com/ Vote for your favorite A-Class commercial",
           1351271536
         ],
         [
@@ -3059,49 +3866,77 @@
           1350310858
         ],
         [
-          "https://www.facebook.com/55AMG Mercedes-AMG Enthusiasts The World's Best Hand Crafted Performance. Welcome to the Mercedes-AMG Enthusiasts. ",
-          1348396326
+          "Mercedes-Benz at the Mondial de l\u2019Automobile 2012 in Paris: Dr. Dieter Zetsche, Chairman of the Daimler Board of Management and Head of Mercedes-Benz Cars at the Mercedes-Benz SLS AMG Coup\u00e9 Electric Drive.\nCLS Shooting Brake.\nFuel consumption combined: 10.1-5.3 l/100 km, CO2 emissions combined: 235-139 (g/km)* Mercedes-Benz at the 2012 Paris Motor Show",
+          1348758255
+        ],
+        [
+          "Mercedes-Benz and smart at the Mondial de l\u2019Automobile 2012 in Paris: Dr. Joachim Schmidt, Executive Vice President Mercedes-Benz Cars Sales & Marketing, Prof. Dr. Thomas Weber, Member of the Board of Management of Daimler AG, Group Research and Mercedes-Benz Cars Development, Dr. Dieter Zetsche, Chairman of the Daimler Board of Management and Head of Mercedes-Benz Cars at the Mercedes-Benz SLS AMG Coup\u00e9 Electric Drive.\n\nCLS Shooting Brake.\nFuel consumption combined: 10.1-5.3 l/100 km, CO2 emissions combined: 235-139 (g/km)* Mercedes-Benz at the 2012 Paris Motor Show",
+          1348758250
+        ],
+        [
+          "Mercedes-Benz at the Mondial de l\u2019Automobile 2012 in Paris: Dr. Dieter Zetsche, Chairman of the Daimler Board of Management and Head of Mercedes-Benz Cars with the new CLS Shooting Brake.\n\nCLS Shooting Brake.\nFuel consumption combined: 10.1-5.3 l/100 km, CO2 emissions combined: 235-139 (g/km)* Mercedes-Benz at the 2012 Paris Motor Show",
+          1348758245
+        ],
+        [
+          "Mercedes-Benz at the Mondial de l\u2019Automobile 2012 in Paris: Prof. Dr. Thomas Weber, Member of the Board of Management of Daimler AG responsible for Group Research and Development Mercedes-Benz Cars, presenting the Concept B-Class Electric Drive and the B-Class Natural Gas Drive. Mercedes-Benz at the 2012 Paris Motor Show",
+          1348758239
+        ],
+        [
+          "Mercedes-Benz at the Mondial de l\u2019Automobile 2012 in Paris: Dr. Dieter Zetsche, Chairman of the Daimler Board of Management and Head of Mercedes-Benz Cars with the new A-Class.\r\n\r\nFuel consumption combined: 6.4-3.8 l/100 km, CO2 emissions combined: 148-98 (g/km).*\r\nFor more information on the new A-Class visit http://a-class.mercedes-benz.com/ Mercedes-Benz at the 2012 Paris Motor Show",
+          1348758234
+        ],
+        [
+          "Mercedes-Benz at the Mondial de l\u2019Automobile 2012 in Paris: Dr. Dieter Zetsche, Chairman of the Daimler Board of Management and Head of Mercedes-Benz Cars at the Mercedes-Benz press conference.\n\nFuel consumption combined: 6.4-3.8 l/100 km, CO2 emissions combined: 148-98 (g/km).*\nFor more information on the new A-Class visit http://a-class.mercedes-benz.com/ Mercedes-Benz at the 2012 Paris Motor Show",
+          1348758229
+        ],
+        [
+          "Mercedes-Benz and smart at the Mondial de l\u2019Automobile 2012 in Paris: Dr. Joachim Schmidt, Executive Vice President Mercedes-Benz Cars Sales & Marketing, Prof. Dr. Thomas Weber, Member of the Board of Management of Daimler AG, Group Research and Mercedes-Benz Cars Development, Dr. Dieter Zetsche, Chairman of the Daimler Board of Management and Head of Mercedes-Benz Cars, and Dr. Annette Winkler, Head of smart, presenting the Mercedes-Benz Concept B-Class Electric Drive, Mercedes-Benz SLS AMG Coup\u00e9 Electric Drive and the smart fortwo electric drive (from left to right). Mercedes-Benz at the 2012 Paris Motor Show",
+          1348758223
         ],
         [
           "Stay tuned for updates of this amazing trip right here: Mercedes-Benz Driving Events\n\nMercedes-Benz G-Class.\nCombined fuel consumption: 17.0 - 11.02l/100kmCombined CO2 emission: 397 - 295 (g/km)* Journey to the Roof of the World",
           1347795085
         ],
         [
+          "A-Roadshow in Frankfurt. \n\nFuel consumption combined: 6.4-3.8 l/100 km, CO2 emissions combined: 148-98 (g/km).*\nFor more information on the new A-Class visit http://a-class.mercedes-benz.com/ A-Roadshow Europe 2012",
+          1346337872
+        ],
+        [
           "A-Roadshow in Dresden. \n\nFuel consumption combined: 6.4-3.8 l/100 km, CO2 emissions combined: 148-98 (g/km).*\nFor more information on the new A-Class visit http://a-class.mercedes-benz.com/ A-Roadshow Europe 2012",
           1346337872
         ],
         [
-          "A-Roadshow in Frankfurt. \n\nFuel consumption combined: 6.4-3.8 l/100 km, CO2 emissions combined: 148-98 (g/km).*\nFor more information on the new A-Class visit http://a-class.mercedes-benz.com/ A-Roadshow Europe 2012",
-          1346337872
+          "Dr. Dieter Zetsche, Chairman of the Board of Management of Daimler AG and Head of Mercedes-Benz Cars, presenting the new SL on the eve of the NAIAS 2012 in Detroit at the Mercedes-Benz New Year's Reception. SL World Premiere at the NAIAS 2012",
+          1326125530
         ]
       ],
-      "dates_start": 1378213297,
-      "dates_end": 1441913976,
-      "likes_avg": 12744,
-      "likes_stdev": 11406,
-      "comments_avg": 165,
-      "comments_stdev": 296,
-      "shares_avg": 1285,
-      "shares_stdev": 1941
+      "dates_start": 1361139836,
+      "dates_end": 1441879889,
+      "likes_avg": 11576,
+      "likes_stdev": 10792,
+      "comments_avg": 145,
+      "comments_stdev": 182,
+      "shares_avg": 1155,
+      "shares_stdev": 1666
     },
     {
-      "number": 14,
+      "number": 19,
       "important": [
-        "photo",
-        "sls amg",
-        "go",
-        "amg gt",
-        "accord",
-        "gt",
-        "super",
-        "post",
-        "amg",
-        "sls amg gt"
+        "sport",
+        "hp",
+        "system",
+        "mercedesbenz amg",
+        "equip",
+        "fan",
+        "mercedesamg",
+        "maybach",
+        "deutschland",
+        "mercedesbenz car"
       ],
       "common": [
         "amg",
         "benz",
-        "combined",
+        "black",
         "http",
         "km",
         "mercedes",
@@ -3112,16 +3947,28 @@
       ],
       "messages": [
         [
-          "Zbulohet \u00e7mimi i Mercedes-Benzit fantastik AMG E63 super sportiv [foto]\n\nhttp://koha.net/?id=11&l=156186 Photos from Koha.net's post",
-          1486646267
+          "Mercedes-Benz S 63 AMG\n\nequipped with the RENNtech R1 Performance Package and full Exhaust-Upgrade\n\n716 HP | 826 LB-FT\n\n#R1\n- ECU Upgrade\n- Diverter Valve\n- High Flow Air Filters\n\n+ Stainless Steel Sport Mufflers w/Electronic Valve System\n+ Stainless Steel Downpipes w/200 Cell Catalytic Converters\n+Carbon Fiber Decklid Spoiler\n\n#rennteched\n\nhttp://renntechmercedes.com/index.php/products/mb/s/s-222/222-s63bt\n\nRENNtech Europe RENNtech Middle East Mercedes-AMG Petronas Motorsport Mercedes-AMG Mercedes-Benz Deutschland Mercedes-Benz Cars Middle East Mercedes-Benz Cars UK Mercedes-Benz USA Mercedes-Fans.de Mercedes-Benz Maybach Fans Mercedes Fans Mercedes-Benz Fans Mercedes Benz Fans Mercedes-Fans International RENNtech | S 63 AMG | Exhaust Mercedes-Benz S 63 AMG upgraded by RENNtech 716 HP | 826 LB-FT ECU Upgrade Diverter Valve High-Flow Air Filters Sport Mufflers w/Electronic Valve System Down...",
+          1487710677
+        ],
+        [
+          "\u4e0d\u77e5\u9053\u662f\u4e0d\u662f\u5c11\u4e86\u9dd7\u7ffc\uff0cSLS AMG Roadster\u4f3c\u4e4e\u5f88\u5c11\u898b\u554a\uff01\n\nMercedes-Benz, Mercedes-AMG, Mercedes-Benz Taiwan \u53f0\u7063\u8cd3\u58eb\n #Mercedes #Benz #SLS #AMG #Roadster Mercedes-Benz SLS AMG Roadster \u5c11\u4e86\u9dd7\u7ffc\u4e5f\u80fd\u8cbc\u5730\u98db\u884c@ Hsiang\u8dd1\u8eca\u90e8\u843d\u683c \u96d6\u7136\u5c11\u4e86\u7d93\u5178\u7684\u4e0a\u6380\u5f0f\u9dd7\u7ffc\u8eca\u9580\uff0cSLS AMG Roadster\u9084\u662f\u6709\u8457\u512a\u96c5\u53c8\u8ff7\u4eba\u7684\u6027\u611f\u66f2\u7dda\u958b\u7bf7\u5f8c\u4eab\u53d7\u8f15\u67d4\u7684\u5927\u81ea\u7136\u5fae\u98a8\uff0c\u4f34\u96a8\u8457V8\u5f15\u64ce\u7684\u6012\u543c\u8072\u6d6a\uff0c\u7d55\u5c0d\u662f\u4eba\u751f\u4e2d\u7684\u4e00\u5927\u4eab\u53d7 \u8207\u786c\u9802\u7248\u642d\u8f09\u76f8\u540c6.3\u5347V8\u5f15",
+          1487507285
+        ],
+        [
+          "Mercedes-Benz C 63 AMG Coupe Edition 1 upgraded by RENNtech\n\n621 HP | 677 LB-FT\n\nECU Upgrade\nStainless Steel Sport Mufflers w/Electronic Valve System\nStainless Steel Downpipes w/200 Cell Catalytic Converters\n\n#rennteched\n\nwww.rennntechmercedes.com\n\nMercedes-AMG Mercedes-Benz USA Mercedes-Benz Deutschland Mercedes-Benz Cars UK Mercedes-Benz Cars Middle East RENNtech Europe RENNtech Middle East Mercedes-Fans.de Mercedes Fans Mercedes-Benz Fans Mercedes-Fans International \u2022 Mercedes - fans \u2022 RENNtech | C 63 AMG Coupe | Exhaust Clip Mercedes-Benz C 63 AMG Coupe Edition 1 upgraded by RENNtech 621 HP | 677 LB-FT ECU Upgrade Stainless Steel Sport Mufflers w/Electronic Valve System Stainless...",
+          1487276529
+        ],
+        [
+          "NEW Case Study live now! Amazing transformation of Mercedes-Benz AMG GTS in 3MWrapsUK 1380 Satin Black! http://reforma-uk.com/case-study/mercedes-amg-gts-wrapped-in-satin-black/ Photos from Reforma UK's post",
+          1487156400
+        ],
+        [
+          "The RENNtech C63 AMG was due for a tire change. So what to do with the old ones?\nGood thing there is a parking-lot right outisde.\n\n- ECU Upgrade\n- Stainless Steel Sport Mufflers w/Electronic Valve System\n- Stainless Steel Downpipes w/200 Cell Catalytic Converters\n- BOV | Blow-Off Valve Adapters\n- Coilover Suspension Kit\n- Stage II Upgraded Turbochargers\n- Carbon Fiber Decklid Spoiler\n- 3D-Printed Prototype Rear Diffuser\n- RENNtech 10 SL wheels in Gunmetal Finish\n\nhttp://renntechmercedes.com/index.php/products/mb/c-class/c-205-2015-present/c-63-amg\n\nRENNtech Europe RENNtech Middle East Mercedes-Benz Mercedes-AMG Mercedes-Benz Deutschland Mercedes-AMG Petronas Motorsport Mercedes-Benz USA Mercedes-Benz of North Palm Beach Mercedes-Benz Cars Middle East Mercedes-Benz Cars UK Mercedes_Benz of Fan Mercedes-Benz Maybach Fans Mercedes-Fans.de Mercedes-Benz Fans Mercedes Fans Mercedes Benz Fans Mercedes-Fans International Mercedes Fans Schweiz \u2022 Mercedes - fans \u2022 \u2022 Mercedes - fans \u2022\n\nwww.gorenntech.com\nhttps://youtu.be/MFpDhVS7Lwc Tire Change Needed | RENNtech Parking-Lot Fun",
+          1486563834
         ],
         [
           "The doors go UP on our 2013 Mercedes-Benz SLS AMG GT. Photos from Cats Exotics's post",
           1486511845
-        ],
-        [
-          "Mercedes-Benz S63 AMG Forgiato Wheels\n\nCars.ro Photos from Cars.ro's post",
-          1486292641
         ],
         [
           "After more than one million kilometers in two years, the real-world trial of electric cars known as eMERGE has been completed followed by eMERGE2, which will see up to 200 Mercedes-Benz vehicles in various regions across Germany. http://benz.me/eMERGE2\n\n[B-Class electric drive | combined CO\u2082 emissions: 0 g/km | Power consumption weighted: 17.9-16.6 kWh/100 km | http://mb4.me/EfficiencyStatement] Timeline Photos",
@@ -3130,10 +3977,6 @@
         [
           "SLS AMG Cluster! Photo courtesy of: Striking Impressions",
           1427081515
-        ],
-        [
-          "The Concept V-ision e shows the development potential of a Mercedes van with Plug-in Hybrid technology. The car accelerates from 0 to 100 km/h in 6.1 seconds and has a range of 50 kilometers pure electric drive. #GIMS\r\n\r\nTo read more about the vehicles, visit http://mb4.me/MBcom_fb Highlights from Geneva: Concept V-ision e",
-          1425495603
         ],
         [
           "The spunky exhaust tells you that this is a new breed of AMG. WATCH AUTO CRITIC STEVE HAMMES REVIEW OF THE 2015 Mercedes-Benz GLA45 AMG.  http://testdrivenow.com/2015-mercedes-benz-gla45-amg-video-review/ 2015 Mercedes-Benz GLA45 AMG REVIEW Mercedes refers to their latest creation as an SUV and frankly, I\u2019m not sure how to label it.  But that question aside, it\u2019s not every day you get to drive a first ever Mercedes model much less its high-performance AMG variant.  Small, uniquely styled and ...",
@@ -3174,10 +4017,6 @@
         [
           "Are you a master of track? GRID Autosport, the new CODEMASTERS video game brings driving performance to your living room with the SL 65 AMG Black Series, C 63 AMG and SLS AMG Coup\u00e9 Black Series.\n\n[SL 65 AMG Black Series/C63 AMG/SLS AMG Coup\u00e9 Black Series | Fuel consumption combined: 11.6/12.0/13.7 l/100 km | combined CO2 emissions: 270/280/321 g/km | http://mb4.me/EfficiencyStatement] GRID Autosport",
           1404470100
-        ],
-        [
-          "Cult design with futuristic lighting system. 2015 MB CLS to arrive at dealerships this fall.\nhttp://testdrivenow.com/next-generation-mercedes-benz-cls-arrives-this-fall/ NEXT GENERATION MERCEDES-BENZ CLS ARRIVES THIS FALL The Mercedes-Benz CLS four-door Coupe has been extensively revised for 2015. This design icon now features a honed front section and a further upgraded interior that boasts lots of new, perfectly handcrafted details, combining contemporary luxury with ...",
-          1403199430
         ],
         [
           "\"DRIVE TOGETHER, WIN TOGETHER.\" #DRIVECLUB for #PlayStation 4 is confirmed for the 8th of October. Tag your gaming friends and share the new video featuring the SLS AMG Black Series! Find out more http://benz.me/PS_DRIVECLUB/. DRIVE TOGETHER, WIN TOGETHER.",
@@ -3324,6 +4163,10 @@
           1368803858
         ],
         [
+          "Love of beauty is taste. The creation of beauty is art.\n- Ralph Waldo Emerson\n\n[The SLS AMG Roadster shot by Spiegelschlag Photography.] Timeline Photos",
+          1367959860
+        ],
+        [
           "Besides the new CLA 45 AMG, Mercedes-Benz celebrates another world premier at the NYIAS 2013: The new B-Class Electric Drive. Not only does it combine a particularly dynamic driving experience with zero emissions but thanks to its connected services, it can be conveniently checked and configured via the internet! The new B-Class Electric Drive",
           1364411930
         ],
@@ -3356,6 +4199,10 @@
           1361574069
         ],
         [
+          "What's the most popular car in Europe? It's up to the avid users of Autoscout24.de - and you - to vote! Mercedes-Benz is represented with 5 models in the Internet Auto Award: the new A-Class, GL, SL, Citan and the SLS AMG Electric Drive as well as the smart for two electric drive. Cast your vote until March 15, 2013 for a chance to win the A 250 Sport. \nhttp://bit.ly/Internet_Auto_Award\n\n[Note: the voting is open for users from Austria, Belgium, France, Germany, Italy, the Netherlands, Spain and Switzerland.] Timeline Photos",
+          1360340881
+        ],
+        [
           "CLS 63 AMG 4MATIC S-Model\nCombined fuel consumption: 10.4l/100km\nCO2 emission: 243g/km* CLS 63 AMG as S-Model and with 4MATIC",
           1357898816
         ],
@@ -3376,15 +4223,15 @@
           1352467839
         ],
         [
+          "SLS AMG Roadster (R 197)\n\nCombined fuel consumption: 13.2l/100km\nCO2 emission: 308 g/km * Golden Classic Steering Wheel",
+          1352305285
+        ],
+        [
           "SLS AMG Roadster (R 197)\n\nSLS AMG Roadster\nCombined fuel consumption: 13.2l/100km\nCO2 emission: 308 g/km * Golden Classic Steering Wheel",
           1352305285
         ],
         [
           "SLS AMG Roadster (R 197) Golden Classic Steering Wheel",
-          1352305285
-        ],
-        [
-          "SLS AMG Roadster (R 197)\n\nCombined fuel consumption: 13.2l/100km\nCO2 emission: 308 g/km * Golden Classic Steering Wheel",
           1352305285
         ],
         [
@@ -3434,10 +4281,6 @@
         [
           "Kicherer CLS 63 AMG Yachting",
           1348318008
-        ],
-        [
-          "Audi R8 GT Spyder VS Mercedes SLS Roadster",
-          1348317575
         ],
         [
           "CL63 AMG",
@@ -3550,16 +4393,20 @@
         [
           "Mansory CLS 63!",
           1331446730
+        ],
+        [
+          "For the first time, German bloggers have voted on the \"Blogger Auto Awards\" and the SLS AMG Roadster has turned out to be the top cabrio. What are your favorite blogs? Timeline Photos",
+          1328372654
         ]
       ],
-      "dates_start": 1338491256,
-      "dates_end": 1403570609,
-      "likes_avg": 8710,
-      "likes_stdev": 15077,
-      "comments_avg": 111,
-      "comments_stdev": 233,
-      "shares_avg": 1331,
-      "shares_stdev": 2261
+      "dates_start": 1336111865,
+      "dates_end": 1410018032,
+      "likes_avg": 9244,
+      "likes_stdev": 15693,
+      "comments_avg": 121,
+      "comments_stdev": 242,
+      "shares_avg": 1392,
+      "shares_stdev": 2291
     }
   ]
 }

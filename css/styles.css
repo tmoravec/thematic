@@ -83,6 +83,10 @@ html{
     overflow: auto;
 }
 
+.globalstats-table-values {
+    text-align: right;
+}
+
 .graph {
 	/*max-width: 600px;*/
 	width: 96%;
@@ -133,6 +137,7 @@ html{
 .cluster-stats-values {
     margin-left: 20px;
 }
+
 
 .word {
     display: inline-block;

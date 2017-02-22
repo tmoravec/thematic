@@ -241,10 +241,11 @@ def clusterize(labels, likes, comments, shares, messages, tf, dates):
 
 
 def print_clusters(labels, likes, comments, shares, messages, tf, dates,
-                   vectorizer, orig_size, pagename):
+                   vectorizer, orig_size, pagename, fan_count, page_name_displayed):
 
-    # TODO: Turn to clusters sets first and order them by size?
+    # TODO: Add fan_count?
     globalstats = {
+                   'fan_count': fan_count,
                    'messages': orig_size,
                    'likes_avg': int(np.mean(likes)),
                    'likes_stdev': int(np.std(likes)),
@@ -292,6 +293,7 @@ def print_clusters(labels, likes, comments, shares, messages, tf, dates,
 
     result = {
               'pagename': pagename,
+              'page_name_displayed': page_name_displayed,
               'globalstats': globalstats,
               'clusters': clusters_print,
              }
@@ -354,6 +356,8 @@ def remove_noise_clusters(X, labels):
 
 
 def text_clustering(raw_data, pagename):
+    fan_count = raw_data['fan_count']
+    page_name_displayed = raw_data['name']
     likes, comments, shares, tf, messages, dates, vectorizer = text_features(raw_data)
     orig_size = len(messages)
 
@@ -388,7 +392,7 @@ def text_clustering(raw_data, pagename):
     print(time.ctime(), 'Drawing.')
     plot_clusters(X, labels, pagename)
     print(time.ctime(), 'Printing.')
-    print_clusters(labels, likes, comments, shares, messages, tf, dates, vectorizer, orig_size, pagename)
+    print_clusters(labels, likes, comments, shares, messages, tf, dates, vectorizer, orig_size, pagename, fan_count, page_name_displayed)
 
 
 def create_bag_of_centroids(wordlist, word_centroid_map):

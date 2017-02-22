@@ -27,7 +27,7 @@
         <div class="container">
 
             <div class="header">
-                <vue-header :pagename="pagename"></vue-header>
+                <vue-header :page_name_displayed="page_name_displayed"></vue-header>
             </div>
 
 
@@ -45,7 +45,7 @@
     <template id="vue-header">
 	<div class="header-wrapper">
 	    <div class="header-arrow material-icons" v-on:click="back">arrow_back</div>
-	    <div class="header-title">Analyzing {{ pagename }}</div>
+	    <div class="header-title">Analyzing {{ page_name_displayed }}</div>
 	</div>
     </template>
 
@@ -54,10 +54,13 @@
 	<div class="globalstats-wrapper cluster">
 	    <div class="globalstats-header cluster-title">Page statistics</div>
 	    <div class="globalstats-values cluster-stats">
-		<div>{{ globalstats.messages }} messages</div>
-		<div>Likes: {{ globalstats.likes_avg }} +- {{ globalstats.likes_stdev }},</div>
-		<div>Comments: {{ globalstats.comments_avg }} +- {{ globalstats.comments_stdev }},</div>
-		<div>Shares: {{ globalstats.shares_avg }} +- {{ globalstats.shares_stdev }}.</div>
+                <table>
+                    <tr><td>Messages:</td>  <td class="globalstats-table-values">{{ globalstats.messages }}</td>                                         </tr>
+                    <tr><td>Fans:</td>      <td class="globalstats-table-values">{{ globalstats.fan_count }}</td>                                        </tr>
+                    <tr><td>Likes:</td>     <td class="globalstats-table-values">{{ globalstats.likes_avg }} +- {{ globalstats.likes_stdev }}</td>       </tr>
+                    <tr><td>Comments:</td>  <td class="globalstats-table-values">{{ globalstats.comments_avg }} +- {{ globalstats.comments_stdev }}</td> </tr>
+                    <tr><td>Shares:</td>    <td class="globalstats-table-values">{{ globalstats.shares_avg }} +- {{ globalstats.shares_stdev }}</td>     </tr>
+                </table>
 	    </div>
 	    <div><span v-on:click="toggleGraph" class="toggle-text toggle-graph">{{ showGraph ? "[-] Hide" : "[+] Show" }} rough topics distribution.</span></div>
 	    <div v-if="showGraph"><img v-bind:src="globalstats.graph_uri" class="graph" /></div>

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import sys
 import json
 import requests
 import time
@@ -7,11 +8,8 @@ from pprint import pprint
 import pickle
 
 
-TOKEN = 'EAACEdEose0cBAHS1vQD35o3LZCn0GYr3fVo2Gbr1ZCZBRRzZArH5qGZBLmTFtTrPP9nHLn3HpZCJgsnSkoDMnawYupE85HkVPXEH9Ln7oV0m9MlB5ZAYZCrk7ZCsvZBFNgVvByGEj6cG6u9QFDhZBvm1Piq5kkd8nvrrVcZBdvgbpSnXOb4sIfL5ADa0BTqfYjBq84oZD'
-PAGE = 'vsem.cz'
-URL = 'https://graph.facebook.com/v2.8/' + PAGE + '?fields={}&access_token=' + TOKEN
-DIRECTORY = 'pages-' + PAGE
-FILE_NAME = DIRECTORY + '/page-{}.json'
+TOKEN = 'EAACEdEose0cBAKZB8B0FLKGxk2vRt57TH1JVPShwmD1jZByvw55y0i42IHhFBjKRXDX26Y8ybG53ZB4yF4Q3diGKaisqbd1NCnHmHi98NKfZC0kvRTBiXKZCVD5oZCm5iUMnQOVjk52eRE8nfmFbORoJvc7nfjgyFb5YlBPbgQ4JKTtjdMByqapqVjmMZAZAkScZD'
+URL = 'https://graph.facebook.com/v2.8/{}?fields={}&access_token=' + TOKEN
 
 
 def get_page(url, field_name):
@@ -52,7 +50,13 @@ def get_single_value(url, name):
 
 
 def main():
-    fan_count = get_single_value(URL.format('fan_count'), 'fan_count')
+    try:
+        pagename = sys.argv[1].split('.pkl')[0]
+    except IndexError:
+        pagename = 'psychologytoday'
+
+    fan_count = get_single_value(URL.format(pagename, 'fan_count'), 'fan_count')
+    name = get_single_value(URL.format(pagename, 'name'), 'name')
 
     queries = {
                'feed': 'feed{message,link,likes.limit(0).summary(true),comments.limit(0).summary(true),shares,description,name,created_time}',
@@ -69,7 +73,7 @@ def main():
     i = 0
     try:
         for k, v in queries.items():
-            next_url = URL.format(v)
+            next_url = URL.format(pagename, v)
             while '' != next_url:
                 content, next_url = get_page(next_url, k)
                 results[k] += content
@@ -81,8 +85,9 @@ def main():
         pass
 
     results['fan_count'] = fan_count
+    results['name'] = name
 
-    with open('{}.pkl'.format(PAGE), 'wb') as f:
+    with open('{}.pkl'.format(pagename), 'wb') as f:
         pickle.dump(results, f)
 
 

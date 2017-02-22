@@ -37,11 +37,11 @@ var intropage = Vue.component('intropage', {
 var pagelink = Vue.component('pagelink', {
 
     template: '#pagelink',
-    props: ['pagename'],
+    props: ['pageinfo'],
 
     methods: {
         loadPage: function() {
-            document.location.href = "page.html?page=" + this.pagename;
+            document.location.href = "page.html?page=" + this.pageinfo[1];
         }
     }
 });
@@ -52,7 +52,7 @@ var fbpage = Vue.component('fbpage', {
 
     data: function() {
         return {
-            pagename: '',
+            page_name_displayed: '',
             clusters: [],
             globalstats: []
         }
@@ -72,25 +72,25 @@ var fbpage = Vue.component('fbpage', {
                 data = resp.data;
             }
 
-            this.pagename =     data.pagename;
-            this.clusters =     data.clusters;
-            this.globalstats =  data.globalstats;
-            console.log('Successfully loaded data for page ' + this.pagename);
+            this.page_name_displayed =     data.page_name_displayed;
+            this.clusters =                data.clusters;
+            this.globalstats =             data.globalstats;
+            console.log('Successfully loaded data for page ' + this.page_name_displayed);
         });
     }
 });
 
 var header = Vue.component('vue-header', {
 
-	template: '#vue-header',
-    props: ['pagename'],
+    template: '#vue-header',
+    props: ['page_name_displayed'],
 
     data: function() {
-        return { pagename: '...'}
+        return { page_name_displayed: '...'}
     },
 
     created: function() {
-        this.pagename = '...';
+        this.page_name_displayed = '...';
     },
 
     methods: {

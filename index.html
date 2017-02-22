@@ -45,7 +45,7 @@
                         <div class="select-header">Select page:</div>
                         <div class="select-pages-wrapper">
                             <div v-for="i in pages">
-                                <pagelink :pagename="i"></pagelink>
+                                <pagelink :pageinfo="i"></pagelink>
                             </div>
                         </div>
                     </div>
@@ -60,7 +60,7 @@
 
     <template id="pagelink">
 
-        <div class="select-page" v-on:click="loadPage">{{ pagename }}</div>
+        <div class="select-page" v-on:click="loadPage">{{ pageinfo[0] }}</div>
 
     </template>
 

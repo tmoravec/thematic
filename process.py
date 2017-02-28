@@ -15,8 +15,6 @@ from nltk.corpus import stopwords
 
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from sklearn.cluster import AgglomerativeClustering
-from sklearn.cluster import MiniBatchKMeans
-from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score
 from sklearn.metrics import calinski_harabaz_score
 from sklearn.decomposition import TruncatedSVD
@@ -92,6 +90,7 @@ def vectorize(messages):
             break
 
     print(time.ctime(), 'Tfidf ignores {} terms.'.format(len(vectorizer.stop_words_)))
+    print(time.ctime(), 'Tfidf matrix shape:', features.shape)
 
     return features, vectorizer
 
@@ -199,7 +198,6 @@ def best_number_clusters(X):
 
         scores.append(silhouette_score(XI, labelsI))
 
-    print(time.ctime(), 'best_number_clusters scores:', scores)
     index = scores.index(max(scores))
     size = cluster_sizes[index]
 
@@ -345,7 +343,7 @@ def remove_noise_clusters(X, labels):
         if score_sil < last_score:
             break
 
-        print(time.ctime(), 'Last score:', last_score, ', removed cluster', i, ', current score:', score_sil)
+        print(time.ctime(), 'Last score: {:.4f}, removed cluster {}, current score: {:.4f}'.format(last_score, i, score_sil))
         last_score = score_sil
         last_indices = indices_to_keep
 
@@ -386,8 +384,8 @@ def text_clustering(raw_data, pagename):
     print('Cluster sizes:          ', len(np.bincount(labels)), np.bincount(labels))
 
     print(time.ctime()              , 'Starting to score.')
-    print('Calinski harabaz score: ', calinski_harabaz_score(X, labels))
-    print('Silhouette score:       ', silhouette_score(X, labels))
+    print('Calinski harabaz score: {:.4f}'.format(calinski_harabaz_score(X, labels)))
+    print('Silhouette score:       {:.4f}'.format(silhouette_score(X, labels)))
 
     print(time.ctime(), 'Drawing.')
     plot_clusters(X, labels, pagename)

@@ -35,8 +35,8 @@ def plot_2_arrays(a1, a2):
 
 
 def plot_clusters(features, labels, pagename):
-    tsne = TSNE(2)
-    d2 = tsne.fit_transform(features)
+    embedding = TSNE(2)
+    d2 = embedding.fit_transform(features)
 
     xs = [x[0] for x in d2]
     ys = [x[1] for x in d2]

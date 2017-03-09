@@ -42,8 +42,9 @@ def plot_clusters(features, labels, pagename):
     ys = [x[1] for x in d2]
 
     pyplot.scatter(xs, ys, c=labels, s=2, cmap='gist_ncar')
-    pyplot.xlabel('x')
-    pyplot.ylabel('y', rotation='horizontal')
+    #pyplot.xlabel('x')
+    #pyplot.ylabel('y', rotation='horizontal')
+    pyplot.axis('off')
     pyplot.savefig('{}/{}.png'.format(OUTPUT_DIRECTORY, pagename), format='png', dpi=300, bbox_inches='tight')
 
 

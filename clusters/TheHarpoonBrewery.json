@@ -16,16 +16,16 @@
     {
       "number": 1,
       "important": [
-        "owner",
-        "becom",
         "practic",
-        "employeeown",
+        "owner",
+        "meet",
         "benefit",
-        "fellow",
-        "system",
-        "contribut",
         "idea",
-        "meet"
+        "fellow",
+        "contribut",
+        "becom",
+        "system",
+        "employeeown"
       ],
       "common": [
         "brewery",
@@ -89,16 +89,16 @@
     {
       "number": 2,
       "important": [
-        "harpoon beer hall",
-        "close",
-        "pm",
-        "stay",
-        "visit",
+        "visit us",
         "befor",
+        "weather",
+        "harpoon beer hall",
+        "stay",
+        "close",
         "call",
         "today",
-        "weather",
-        "visit us"
+        "pm",
+        "visit"
       ],
       "common": [
         "boston",
@@ -170,16 +170,16 @@
     {
       "number": 3,
       "important": [
-        "day",
-        "time",
-        "winter",
-        "anyon",
-        "warmer",
-        "winter warmer",
+        "count",
         "hour",
-        "help",
+        "warmer",
+        "winter",
+        "time",
+        "day",
+        "anyon",
         "els",
-        "count"
+        "winter warmer",
+        "help"
       ],
       "common": [
         "happy",
@@ -251,16 +251,16 @@
     {
       "number": 4,
       "important": [
-        "info",
         "harpoon breweri",
-        "boston breweri",
-        "breweri post",
-        "love",
         "breweri",
+        "two",
+        "love",
+        "boston breweri",
         "windsor",
+        "info",
         "wed",
-        "love beer",
-        "two"
+        "breweri post",
+        "love beer"
       ],
       "common": [
         "brewery",
@@ -336,16 +336,16 @@
     {
       "number": 5,
       "important": [
+        "harpoon st pat",
         "fun",
         "harpoon st",
-        "compani",
-        "pat",
-        "stay",
-        "fest",
+        "use",
         "st pat",
+        "stay",
+        "compani",
         "red",
-        "harpoon st pat",
-        "use"
+        "fest",
+        "pat"
       ],
       "common": [
         "fest",
@@ -425,16 +425,16 @@
     {
       "number": 6,
       "important": [
-        "follow",
         "need",
         "group",
+        "fight hunger",
+        "follow",
         "harpoon point",
         "fight",
         "ride",
         "plan",
-        "fight hunger",
-        "point",
-        "nation"
+        "nation",
+        "point"
       ],
       "common": [
         "foodbank",
@@ -514,15 +514,15 @@
     {
       "number": 7,
       "important": [
-        "fridg",
+        "got",
+        "full",
         "adventur",
+        "pack",
+        "fridg",
         "fridg full",
         "first",
-        "full",
         "get",
-        "pack",
         "whos",
-        "got",
         "run"
       ],
       "common": [
@@ -603,16 +603,16 @@
     {
       "number": 8,
       "important": [
-        "rug",
-        "learn timelin",
-        "learn",
-        "maniac",
         "race",
-        "friend",
+        "learn",
         "maniac obstacl",
-        "obstacl",
+        "friend",
         "ever",
-        "thought"
+        "maniac",
+        "obstacl",
+        "learn timelin",
+        "thought",
+        "rug"
       ],
       "common": [
         "5k",
@@ -696,16 +696,16 @@
     {
       "number": 9,
       "important": [
-        "friday timelin",
-        "adventur",
-        "timelin",
-        "check",
+        "drink",
         "happi",
-        "timelin photo",
-        "photo",
+        "timelin",
+        "friday timelin",
         "friday",
+        "timelin photo",
+        "adventur",
         "friend",
-        "drink"
+        "photo",
+        "check"
       ],
       "common": [
         "friday",
@@ -789,16 +789,16 @@
     {
       "number": 10,
       "important": [
+        "count",
+        "instagram fan",
         "fan",
+        "friday",
+        "timelin photo",
         "last",
         "year",
         "photo",
-        "timelin photo",
-        "friday",
-        "instagram fan",
         "instagram",
-        "make",
-        "count"
+        "make"
       ],
       "common": [
         "cred",
@@ -886,16 +886,16 @@
     {
       "number": 11,
       "important": [
-        "last",
         "road",
+        "week",
+        "last",
+        "citi",
         "summer",
+        "awesom",
+        "tour",
         "squeez",
         "squeez summer",
-        "week",
-        "ufo",
-        "tour",
-        "citi",
-        "awesom"
+        "ufo"
       ],
       "common": [
         "com",
@@ -995,16 +995,16 @@
     {
       "number": 12,
       "important": [
+        "near timelin",
+        "near",
+        "find",
+        "us",
+        "ale",
         "new",
         "hop",
-        "near timelin",
-        "fresh",
-        "us",
-        "near",
-        "ale",
-        "weekend",
         "make",
-        "find"
+        "weekend",
+        "fresh"
       ],
       "common": [
         "find",
@@ -1113,14 +1113,14 @@
       "number": 13,
       "important": [
         "friday saturday",
-        "saturday",
-        "summer",
-        "join us",
-        "everyon",
         "friday",
         "local",
-        "celebr",
+        "everyon",
+        "saturday",
+        "summer",
         "thank",
+        "join us",
+        "celebr",
         "harpoonfest"
       ],
       "common": [
@@ -1233,15 +1233,15 @@
     {
       "number": 14,
       "important": [
-        "one",
-        "onli",
-        "free ship",
-        "free",
         "brew",
-        "friend",
-        "today",
+        "free ship",
         "plus",
+        "onli",
+        "friend",
         "ship",
+        "free",
+        "today",
+        "one",
         "vermont"
       ],
       "common": [
@@ -1358,16 +1358,16 @@
     {
       "number": 15,
       "important": [
-        "craft",
-        "happi",
-        "fest",
-        "craft beer",
-        "ticket",
-        "friday",
-        "pretzel",
-        "american",
         "tonight",
-        "happi friday"
+        "pretzel",
+        "happi",
+        "friday",
+        "happi friday",
+        "american",
+        "craft",
+        "ticket",
+        "craft beer",
+        "fest"
       ],
       "common": [
         "american",
@@ -1491,16 +1491,16 @@
     {
       "number": 16,
       "important": [
-        "new",
-        "introduc",
         "harpoon breweri",
-        "fresh",
+        "harpoon",
         "find",
+        "cover",
         "breweri cover",
         "ale",
-        "harpoon",
-        "cover",
-        "find harpoon"
+        "find harpoon",
+        "new",
+        "introduc",
+        "fresh"
       ],
       "common": [
         "brewery",
@@ -1624,16 +1624,16 @@
     {
       "number": 17,
       "important": [
-        "time",
-        "like",
-        "adventur",
-        "three",
-        "tell us",
-        "tell",
         "stori",
-        "beer",
+        "time",
         "enjoy",
-        "idea"
+        "three",
+        "adventur",
+        "idea",
+        "tell",
+        "beer",
+        "like",
+        "tell us"
       ],
       "common": [
         "beer",
@@ -1757,16 +1757,16 @@
     {
       "number": 18,
       "important": [
-        "day",
-        "adventur",
-        "timelin",
-        "cider",
-        "check",
-        "timelin photo",
-        "photo",
-        "friday",
         "drink",
-        "nation"
+        "timelin",
+        "friday",
+        "timelin photo",
+        "adventur",
+        "day",
+        "cider",
+        "photo",
+        "nation",
+        "check"
       ],
       "common": [
         "beer",
@@ -1890,16 +1890,16 @@
     {
       "number": 19,
       "important": [
+        "pretzel",
+        "harpoon beer",
         "harpoon beer hall",
+        "come",
         "best",
         "rais",
+        "beer hall",
         "special",
-        "harpoon beer",
-        "pretzel",
-        "come",
         "hall",
-        "tri",
-        "beer hall"
+        "tri"
       ],
       "common": [
         "beer",
@@ -2028,15 +2028,15 @@
       "number": 20,
       "important": [
         "recip timelin",
-        "new",
+        "timelin",
         "winter",
-        "win",
         "timelin photo",
         "recip",
+        "win",
         "ale",
-        "timelin",
-        "ufo",
-        "make"
+        "new",
+        "make",
+        "ufo"
       ],
       "common": [
         "http",
@@ -2164,16 +2164,16 @@
     {
       "number": 21,
       "important": [
-        "chanc win",
-        "show us",
-        "chanc",
-        "love",
         "happi",
-        "date",
-        "night",
         "harpoon",
+        "chanc win",
+        "love",
         "win",
-        "pictur"
+        "date",
+        "pictur",
+        "night",
+        "show us",
+        "chanc"
       ],
       "common": [
         "chance",
@@ -2305,16 +2305,16 @@
     {
       "number": 22,
       "important": [
-        "harpoon st patrick",
-        "patrick",
-        "three",
-        "right",
-        "tag",
-        "weekend timelin",
-        "friend",
         "pretzel",
+        "right",
+        "serv",
+        "three",
         "harpoon st patrick festiv",
-        "serv"
+        "friend",
+        "harpoon st patrick",
+        "weekend timelin",
+        "patrick",
+        "tag"
       ],
       "common": [
         "festival",
@@ -2452,14 +2452,14 @@
       "important": [
         "harpoon beer hall",
         "love",
-        "beer love",
         "life",
         "love beer love",
-        "hall",
+        "beer hall",
         "beer love life",
-        "love life",
         "love beer",
-        "beer hall"
+        "hall",
+        "love life",
+        "beer love"
       ],
       "common": [
         "beer",
@@ -2611,16 +2611,16 @@
     {
       "number": 24,
       "important": [
-        "adventur",
-        "harpoon octoberfest",
-        "timelin photo",
-        "octoberfest",
-        "cheer",
-        "photo",
-        "start",
+        "tonight",
         "harpoon",
         "timelin",
-        "tonight"
+        "timelin photo",
+        "adventur",
+        "start",
+        "photo",
+        "cheer",
+        "harpoon octoberfest",
+        "octoberfest"
       ],
       "common": [
         "brewery",
@@ -2816,16 +2816,16 @@
     {
       "number": 25,
       "important": [
-        "learn",
-        "seri",
         "mani",
-        "releas",
-        "keep",
-        "parti",
-        "barrel seri",
-        "barrel",
+        "behind",
         "inspir",
-        "behind"
+        "learn",
+        "releas",
+        "barrel",
+        "barrel seri",
+        "keep",
+        "seri",
+        "parti"
       ],
       "common": [
         "100",
@@ -3045,16 +3045,16 @@
     {
       "number": 26,
       "important": [
-        "shop",
-        "adventur",
-        "estor",
         "monday",
-        "timelin photo",
-        "photo",
-        "get",
-        "save",
         "harpoon",
-        "timelin"
+        "timelin",
+        "estor",
+        "save",
+        "timelin photo",
+        "adventur",
+        "shop",
+        "get",
+        "photo"
       ],
       "common": [
         "beer",
@@ -3290,16 +3290,16 @@
     {
       "number": 27,
       "important": [
+        "mobil",
         "adventur",
         "take",
-        "cheer",
-        "upload",
-        "ipa",
-        "mobil",
+        "find",
+        "better",
         "friend",
         "beer",
-        "better",
-        "find"
+        "upload",
+        "cheer",
+        "ipa"
       ],
       "common": [
         "beer",
@@ -3559,16 +3559,16 @@
     {
       "number": 28,
       "important": [
-        "like",
         "harpoon breweri",
-        "adventur",
-        "watch",
-        "check",
-        "breweri",
-        "prize",
-        "point",
         "harpoon",
-        "night"
+        "breweri",
+        "adventur",
+        "night",
+        "check",
+        "point",
+        "like",
+        "prize",
+        "watch"
       ],
       "common": [
         "beer",

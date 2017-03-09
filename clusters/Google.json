@@ -16,16 +16,16 @@
     {
       "number": 1,
       "important": [
-        "world",
-        "behind",
-        "nation park",
         "video",
-        "go",
-        "access",
+        "behind",
         "explor",
         "park",
         "nation",
-        "journey"
+        "world",
+        "access",
+        "journey",
+        "nation park",
+        "go"
       ],
       "common": [
         "co",
@@ -85,16 +85,16 @@
     {
       "number": 2,
       "important": [
-        "even",
-        "answer",
-        "access",
-        "search",
         "ask",
-        "stop",
         "ani",
         "small",
+        "question",
+        "even",
+        "access",
+        "search",
         "okgoogl",
-        "question"
+        "stop",
+        "answer"
       ],
       "common": [
         "2015",
@@ -158,16 +158,16 @@
     {
       "number": 3,
       "important": [
-        "trend",
         "yearinsearch timelin",
-        "data",
-        "yearinsearch",
-        "access",
-        "photo",
-        "us",
+        "trend",
         "give",
-        "timelin",
-        "star"
+        "photo",
+        "yearinsearch",
+        "star",
+        "us",
+        "access",
+        "data",
+        "timelin"
       ],
       "common": [
         "2014",
@@ -235,16 +235,16 @@
     {
       "number": 4,
       "important": [
-        "googl scienc",
-        "big",
         "live",
-        "access",
-        "announc",
-        "googl",
-        "tour",
-        "timelin",
+        "big",
         "photo",
-        "scienc"
+        "tour",
+        "scienc",
+        "announc",
+        "access",
+        "timelin",
+        "googl scienc",
+        "googl"
       ],
       "common": [
         "2014",
@@ -312,16 +312,16 @@
     {
       "number": 5,
       "important": [
-        "play",
-        "internet",
-        "join",
         "game",
+        "doodl",
         "lo",
         "access",
-        "doodl",
+        "play",
+        "join",
+        "internet",
+        "glass",
         "googl",
-        "get",
-        "glass"
+        "get"
       ],
       "common": [
         "behind",
@@ -398,15 +398,15 @@
       "number": 6,
       "important": [
         "birthday",
-        "use",
+        "translat",
+        "first",
         "googl translat",
         "happi",
-        "happi birthday",
-        "first",
-        "access",
         "say",
-        "googl",
-        "translat"
+        "access",
+        "use",
+        "happi birthday",
+        "googl"
       ],
       "common": [
         "birthday",
@@ -486,16 +486,16 @@
     {
       "number": 7,
       "important": [
-        "use",
         "right",
-        "googl translat",
-        "data",
-        "meet",
-        "say",
         "help",
-        "find",
         "translat",
-        "learn"
+        "find",
+        "meet",
+        "googl translat",
+        "say",
+        "learn",
+        "data",
+        "use"
       ],
       "common": [
         "gl",
@@ -579,16 +579,16 @@
     {
       "number": 8,
       "important": [
-        "world",
+        "love",
         "game",
+        "way",
+        "onli",
         "featur",
-        "googledoodl",
+        "world",
         "doodl",
         "googl doodl",
-        "today",
-        "way",
-        "love",
-        "onli"
+        "googledoodl",
+        "today"
       ],
       "common": [
         "gl",
@@ -681,15 +681,15 @@
       "number": 9,
       "important": [
         "wonder",
+        "worldcup",
+        "turn",
+        "photo",
+        "one",
+        "match",
         "back",
         "access",
         "today",
-        "worldcup",
-        "one",
-        "match",
-        "timelin",
-        "photo",
-        "turn"
+        "timelin"
       ],
       "common": [
         "google",
@@ -781,16 +781,16 @@
     {
       "number": 10,
       "important": [
-        "launch",
-        "pride",
         "sinc",
-        "realiti",
-        "experi",
+        "launch",
         "could",
+        "realiti",
+        "pride",
+        "watch",
         "life",
-        "virtual",
         "bring",
-        "watch"
+        "experi",
+        "virtual"
       ],
       "common": [
         "chrome",
@@ -882,16 +882,16 @@
     {
       "number": 11,
       "important": [
+        "fan",
         "think",
-        "googletrend",
-        "head",
+        "photo",
+        "googletrend timelin",
+        "good",
         "meet",
         "access",
-        "good",
-        "googletrend timelin",
-        "fan",
+        "googletrend",
         "timelin",
-        "photo"
+        "head"
       ],
       "common": [
         "gl",
@@ -991,14 +991,14 @@
     {
       "number": 12,
       "important": [
-        "could",
-        "googl search",
         "android",
-        "search",
-        "find",
         "ask",
         "googl search app",
         "io",
+        "find",
+        "could",
+        "googl search",
+        "search",
         "app",
         "ask googl"
       ],
@@ -1104,16 +1104,16 @@
     {
       "number": 13,
       "important": [
-        "santa",
-        "watch",
-        "come",
-        "holiday",
         "work",
+        "santa",
+        "holiday",
+        "come",
         "access",
-        "call",
+        "watch",
+        "take",
         "visit",
-        "get",
-        "take"
+        "call",
+        "get"
       ],
       "common": [
         "gl",
@@ -1229,16 +1229,16 @@
     {
       "number": 14,
       "important": [
-        "internet",
         "secur",
+        "keep",
+        "today",
         "inform",
         "access",
-        "today",
-        "quick",
-        "safe",
-        "keep",
         "day",
-        "take"
+        "quick",
+        "internet",
+        "take",
+        "safe"
       ],
       "common": [
         "account",
@@ -1358,16 +1358,16 @@
     {
       "number": 15,
       "important": [
+        "android",
+        "map",
+        "explor",
         "imageri",
         "let",
-        "map",
-        "android",
         "meet",
-        "explor",
         "googl map",
+        "app",
         "kid",
-        "get",
-        "app"
+        "get"
       ],
       "common": [
         "gl",
@@ -1491,16 +1491,16 @@
     {
       "number": 16,
       "important": [
-        "join",
-        "yearinsearch",
-        "chang",
-        "access",
-        "street view",
-        "search",
-        "ever",
-        "view",
         "countri",
-        "street"
+        "ever",
+        "street",
+        "view",
+        "yearinsearch",
+        "access",
+        "search",
+        "street view",
+        "join",
+        "chang"
       ],
       "common": [
         "gl",
@@ -1648,16 +1648,16 @@
     {
       "number": 17,
       "important": [
-        "world",
-        "use",
-        "women",
-        "celebr",
         "help",
+        "women",
+        "world",
         "peopl",
-        "introduc",
-        "includ",
+        "new",
         "day",
-        "new"
+        "includ",
+        "use",
+        "introduc",
+        "celebr"
       ],
       "common": [
         "day",
@@ -1834,15 +1834,15 @@
       "number": 18,
       "important": [
         "birthday",
-        "celebr",
-        "access",
-        "mark",
-        "googl",
-        "includ",
-        "day",
-        "timelin",
         "photo",
-        "would"
+        "would",
+        "mark",
+        "access",
+        "day",
+        "includ",
+        "timelin",
+        "celebr",
+        "googl"
       ],
       "common": [
         "birthday",
@@ -2018,16 +2018,16 @@
     {
       "number": 19,
       "important": [
-        "trip",
         "android",
-        "meet",
-        "access",
-        "futur",
-        "googl",
+        "photo",
         "tour",
         "io",
-        "photo",
-        "past"
+        "googl",
+        "meet",
+        "trip",
+        "access",
+        "past",
+        "futur"
       ],
       "common": [
         "android",
@@ -2231,15 +2231,15 @@
     {
       "number": 20,
       "important": [
-        "let",
-        "yearinsearch",
-        "moment",
-        "back",
         "look",
+        "year",
+        "moment",
+        "yearinsearch",
+        "back",
+        "search",
         "access",
         "befor",
-        "search",
-        "year",
+        "let",
         "take"
       ],
       "common": [
@@ -2500,16 +2500,16 @@
     {
       "number": 21,
       "important": [
-        "stand",
         "right",
         "power",
+        "site",
+        "photo",
+        "took",
+        "stand",
         "feel",
         "access",
         "googledoodl",
-        "took",
-        "site",
-        "timelin",
-        "photo"
+        "timelin"
       ],
       "common": [
         "gl",

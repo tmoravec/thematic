@@ -16,16 +16,16 @@
     {
       "number": 1,
       "important": [
-        "kancel\u00e1\u0159",
-        "\u0159\u00edzen\u00ed na",
         "hlavn\u00ed",
-        "v\u00fdb\u011brov\u00e9",
-        "na pozici",
         "\u0159\u00edzen\u00ed",
-        "v\u00fdb\u011brov\u00e9 \u0159\u00edzen\u00ed na",
+        "v\u00fdb\u011brov\u00e9",
+        "\u0159\u00edzen\u00ed na",
         "v\u00fdb\u011brov\u00e9 \u0159\u00edzen\u00ed",
+        "kancel\u00e1\u0159",
+        "v\u00fdb\u011brov\u00e9 \u0159\u00edzen\u00ed na",
         "hospod\u00e1\u0159sk\u00e9ho",
-        "pozici"
+        "pozici",
+        "na pozici"
       ],
       "common": [
         "na",
@@ -85,16 +85,16 @@
     {
       "number": 2,
       "important": [
-        "ond\u0159ejem",
-        "p\u0159\u00edznivkyn\u011b",
-        "t\u011b\u0161\u00edme se na",
-        "caf\u00e9",
-        "t\u011b\u0161\u00edme se",
-        "p\u0159edsedou strani zelen\u00fdch",
         "setk\u00e1n\u00ed",
         "li\u0161kou",
+        "p\u0159\u00edznivkyn\u011b",
+        "caf\u00e9",
+        "chcete",
+        "ond\u0159ejem",
         "zelen\u00e9 politiki",
-        "chcete"
+        "t\u011b\u0161\u00edme se",
+        "p\u0159edsedou strani zelen\u00fdch",
+        "t\u011b\u0161\u00edme se na"
       ],
       "common": [
         "li\u0161kou",
@@ -166,16 +166,16 @@
     {
       "number": 3,
       "important": [
-        "syst\u00e9mu",
-        "doba",
-        "politick\u00e9 spektrum",
-        "politick\u00e9ho",
-        "d\u016fle\u017eit\u00e1",
-        "transparentnost",
-        "spektrum",
         "n\u00ed",
+        "spektrum",
+        "politick\u00e9 spektrum",
+        "politick\u00e9 spektrum \u010desk\u00e1",
+        "d\u016fle\u017eit\u00e1",
+        "doba",
+        "transparentnost",
         "transparentn\u00ed",
-        "politick\u00e9 spektrum \u010desk\u00e1"
+        "syst\u00e9mu",
+        "politick\u00e9ho"
       ],
       "common": [
         "na",
@@ -251,16 +251,16 @@
     {
       "number": 4,
       "important": [
-        "studi",
-        "zelen\u00e9",
-        "\u010dssd",
-        "prost\u0159ed\u00ed",
-        "b\u00fdt",
-        "ukazuj",
-        "photo strana zelen\u00fdch post",
-        "zemanovi",
         "levn\u011bj\u0161\u00ed",
-        "spojen\u00ed"
+        "b\u00fdt",
+        "studi",
+        "photo strana zelen\u00fdch post",
+        "prost\u0159ed\u00ed",
+        "ukazuj",
+        "\u010dssd",
+        "zemanovi",
+        "spojen\u00ed",
+        "zelen\u00e9"
       ],
       "common": [
         "na",
@@ -338,14 +338,14 @@
       "important": [
         "denn\u011b ka\u017ed\u00fd",
         "b\u011bhem klimatick\u00e9",
-        "ka\u017ed\u00fd den",
-        "z\u00e1chranu",
-        "ka\u017ed\u00fd",
-        "konfer pa\u0159\u00ed\u017ei",
-        "klimatick\u00e9 konfer",
-        "klimatip",
         "d\u016fkaz \u017ee",
-        "d\u016fkaz"
+        "klimatip",
+        "d\u016fkaz",
+        "ka\u017ed\u00fd",
+        "klimatick\u00e9 konfer",
+        "konfer pa\u0159\u00ed\u017ei",
+        "z\u00e1chranu",
+        "ka\u017ed\u00fd den"
       ],
       "common": [
         "jako",
@@ -425,16 +425,16 @@
     {
       "number": 6,
       "important": [
-        "burs\u00edk",
-        "ministr \u017eivotn\u00edho",
-        "premi\u00e9ra",
-        "n\u00e1sleduj\u00edc\u00ed",
+        "host\u00e9",
         "b\u00fdval\u00fd ministr",
-        "v\u011bd",
-        "martin burs\u00edk",
         "\u010dervna",
+        "burs\u00edk",
+        "n\u00e1sleduj\u00edc\u00ed",
         "ministr \u017eivotn\u00edho prost\u0159ed\u00ed",
-        "host\u00e9"
+        "ministr \u017eivotn\u00edho",
+        "v\u011bd",
+        "premi\u00e9ra",
+        "martin burs\u00edk"
       ],
       "common": [
         "burs\u00edk",
@@ -518,16 +518,16 @@
     {
       "number": 7,
       "important": [
-        "nejd\u016fle\u017eit\u011bj\u0161\u00ed",
-        "ministryn\u011b",
-        "\u0161anci",
-        "velmi",
-        "ji",
-        "kdi",
-        "je nyn\u00ed",
-        "z\u00e1kon",
         "tom",
-        "nyn\u00ed"
+        "velmi",
+        "je nyn\u00ed",
+        "ji",
+        "nyn\u00ed",
+        "ministryn\u011b",
+        "kdi",
+        "\u0161anci",
+        "z\u00e1kon",
+        "nejd\u016fle\u017eit\u011bj\u0161\u00ed"
       ],
       "common": [
         "bydlen\u00ed",
@@ -619,15 +619,15 @@
     {
       "number": 8,
       "important": [
-        "\u010d\u00e1st",
-        "n\u00e1rodn\u00edch",
-        "n\u00e1rodn\u00ed parki",
-        "parki",
         "park\u016f",
+        "parki",
         "poslanc\u016f",
-        "n\u00e1rodn\u00ed",
+        "\u010d\u00e1st",
+        "n\u00e1rodn\u00ed parki",
+        "n\u00e1rodn\u00edch",
         "n\u00e1rodn\u00edch park\u016f",
         "v\u011bdci",
+        "n\u00e1rodn\u00ed",
         "republiki"
       ],
       "common": [
@@ -721,15 +721,15 @@
       "number": 9,
       "important": [
         "financov\u00e1n\u00ed politick\u00fdch",
-        "zelen\u00fd sen\u00e1tor v\u00e1clav l\u00e1ska",
-        "vystoup\u00ed",
-        "t\u00e9matem",
-        "zelen\u00fd sen\u00e1tor",
-        "financov\u00e1n\u00ed",
-        "druh\u00e9",
         "ot\u00e1zki v\u00e1clava",
         "moravc",
-        "u\u017e z\u00edtra"
+        "vystoup\u00ed",
+        "financov\u00e1n\u00ed",
+        "zelen\u00fd sen\u00e1tor",
+        "u\u017e z\u00edtra",
+        "zelen\u00fd sen\u00e1tor v\u00e1clav l\u00e1ska",
+        "druh\u00e9",
+        "t\u00e9matem"
       ],
       "common": [
         "moravce",
@@ -829,16 +829,16 @@
     {
       "number": 10,
       "important": [
-        "adventn\u00ed",
-        "adventn\u00ed kalend\u00e1\u0159 strani",
         "strani zelen\u00fdch",
-        "nov\u00e9",
-        "tak\u00e9",
+        "se n\u00e1m",
+        "adventn\u00ed",
         "kalend\u00e1\u0159",
         "adventn\u00ed kalend\u00e1\u0159",
-        "se n\u00e1m",
+        "adventn\u00ed kalend\u00e1\u0159 strani",
+        "nov\u00e9",
+        "tak\u00e9 na",
         "n\u00e1m",
-        "tak\u00e9 na"
+        "tak\u00e9"
       ],
       "common": [
         "adventn\u00ed",
@@ -942,16 +942,16 @@
     {
       "number": 11,
       "important": [
-        "r\u00e1da",
-        "nem\u00e1",
-        "skute\u010dn\u011b",
-        "jin\u00fdch",
-        "kdy\u017e se",
-        "matou\u0161",
-        "v\u017edi",
         "samoz\u0159ejm\u011b",
+        "v\u017edi",
         "hroz\u00ed",
-        "st\u00e1t\u016f"
+        "skute\u010dn\u011b",
+        "kdy\u017e se",
+        "r\u00e1da",
+        "jin\u00fdch",
+        "nem\u00e1",
+        "st\u00e1t\u016f",
+        "matou\u0161"
       ],
       "common": [
         "daniel",
@@ -1059,16 +1059,16 @@
     {
       "number": 12,
       "important": [
-        "jakub",
-        "dlouhodob\u00fd program",
         "schv\u00e1lili",
-        "odborn\u00edk\u016f",
+        "dlouhodob\u00fd program",
         "sjezd",
+        "odborn\u00edk\u016f",
+        "dlouhodob\u00fd",
+        "novou",
         "zelen\u00ed na",
         "na sjezdu",
         "p\u0159edstavili",
-        "dlouhodob\u00fd",
-        "novou"
+        "jakub"
       ],
       "common": [
         "dlouhodob\u00fd program",
@@ -1182,14 +1182,14 @@
       "important": [
         "na timelin",
         "mo\u017en\u00e1",
+        "kraje",
+        "se n\u00e1m",
+        "jest",
         "ano",
+        "koalic",
         "ot\u00e1zki",
         "\u010dten\u00ed",
-        "n\u011bjak\u00e9",
-        "se n\u00e1m",
-        "koalic",
-        "kraje",
-        "jest"
+        "n\u011bjak\u00e9"
       ],
       "common": [
         "bit",
@@ -1309,16 +1309,16 @@
     {
       "number": 14,
       "important": [
-        "je\u017e",
-        "z\u00e1sadn\u00ed",
         "\u017ee si",
-        "osobnost\u00ed",
-        "druh\u00e9",
-        "obec",
-        "vedl",
         "musej\u00ed",
+        "vedl",
+        "je\u017e",
+        "v\u00fdzkum",
+        "osobnost\u00ed",
+        "z\u00e1sadn\u00ed",
         "\u00farovni",
-        "v\u00fdzkum"
+        "druh\u00e9",
+        "obec"
       ],
       "common": [
         "00",
@@ -1443,15 +1443,15 @@
       "number": 15,
       "important": [
         "leto\u0161n\u00edho",
-        "pod\u00edvejt",
         "pragu",
-        "pride",
+        "pod\u00edvejt",
+        "pod\u00edvejt se na",
+        "pod\u00edvejt se",
+        "zelen\u00ed na",
         "fotki",
         "pragu pride",
-        "zelen\u00ed na",
-        "se na",
-        "pod\u00edvejt se na",
-        "pod\u00edvejt se"
+        "pride",
+        "se na"
       ],
       "common": [
         "coming",
@@ -1583,16 +1583,16 @@
     {
       "number": 16,
       "important": [
+        "politiku",
         "jsem se",
-        "monika hor\u00e1kov\u00e1",
         "mi",
         "jsem",
-        "zelen\u00fdch se",
+        "monika hor\u00e1kov\u00e1",
+        "m\u011bsto",
+        "\u017eeni",
         "monika",
         "hor\u00e1kov\u00e1",
-        "\u017eeni",
-        "m\u011bsto",
-        "politiku"
+        "zelen\u00fdch se"
       ],
       "common": [
         "hor\u00e1kov\u00e1",
@@ -1728,16 +1728,16 @@
     {
       "number": 17,
       "important": [
-        "va\u0161i",
-        "zelen\u00fdch",
-        "cover",
         "abi",
-        "v\u00fdzvu",
         "strana",
-        "strana zelen\u00fdch",
+        "cover",
+        "strana zelen\u00fdch cover",
+        "zelen\u00fdch",
         "podepsali",
         "photo",
-        "strana zelen\u00fdch cover"
+        "strana zelen\u00fdch",
+        "v\u00fdzvu",
+        "va\u0161i"
       ],
       "common": [
         "cover",
@@ -1877,15 +1877,15 @@
     {
       "number": 18,
       "important": [
-        "pouz",
-        "omezit",
-        "vznik\u00e1",
-        "v\u0161ichni",
         "situaci",
         "bojuj",
-        "smog",
+        "v\u0161ichni",
+        "omezit",
         "uhl\u00ed",
+        "vznik\u00e1",
         "pod\u00edvejt se",
+        "pouz",
+        "smog",
         "se jak"
       ],
       "common": [
@@ -2026,16 +2026,16 @@
     {
       "number": 19,
       "important": [
-        "voli\u010d",
-        "toho",
-        "nelz",
-        "p\u0159\u00edpad\u011b",
-        "evropsk\u00e9ho parlamentu",
-        "na\u0161ich",
-        "evropsk\u00e9ho",
-        "jako",
         "ani",
-        "parlamentu"
+        "p\u0159\u00edpad\u011b",
+        "voli\u010d",
+        "evropsk\u00e9ho parlamentu",
+        "parlamentu",
+        "nelz",
+        "na\u0161ich",
+        "jako",
+        "toho",
+        "evropsk\u00e9ho"
       ],
       "common": [
         "cz",
@@ -2179,16 +2179,16 @@
     {
       "number": 20,
       "important": [
+        "\u0161umava",
+        "park",
+        "sn\u011bmovn\u011b",
+        "ho",
+        "lesa",
+        "parku",
+        "na \u0161umav\u011b",
         "hospod\u00e1\u0159sk\u00e9ho",
         "tu",
-        "parku",
-        "ho",
-        "sn\u011bmovn\u011b",
-        "\u0161umav\u011b",
-        "park",
-        "na \u0161umav\u011b",
-        "lesa",
-        "\u0161umava"
+        "\u0161umav\u011b"
       ],
       "common": [
         "je",
@@ -2332,16 +2332,16 @@
     {
       "number": 21,
       "important": [
-        "ale \u017ee",
-        "n\u00e1m\u011bstek",
-        "kter\u00fd m\u00e1",
-        "starosti",
-        "pro\u010d je",
         "zelen\u00fdch michal",
-        "cesti",
-        "ministra",
         "komentuj",
-        "pr\u016fmyslu"
+        "starosti",
+        "ale \u017ee",
+        "kter\u00fd m\u00e1",
+        "cesti",
+        "pr\u016fmyslu",
+        "n\u00e1m\u011bstek",
+        "pro\u010d je",
+        "ministra"
       ],
       "common": [
         "berg",
@@ -2501,16 +2501,16 @@
     {
       "number": 22,
       "important": [
-        "v\u00fdrazn\u011b",
-        "sen\u00e1torka eli\u0161ka",
+        "spektrum",
+        "prezidenta",
+        "chceme abi",
         "iniciativ",
         "p\u0159esto",
-        "chceme abi",
-        "d\u011bkujem za podporu",
-        "kandid\u00e1ta",
         "lid\u00ed",
-        "prezidenta",
-        "spektrum"
+        "v\u00fdrazn\u011b",
+        "sen\u00e1torka eli\u0161ka",
+        "kandid\u00e1ta",
+        "d\u011bkujem za podporu"
       ],
       "common": [
         "ale",
@@ -2678,16 +2678,16 @@
     {
       "number": 23,
       "important": [
-        "fungov\u00e1n\u00ed",
-        "\u010de\u0161t\u00ed",
-        "\u0159\u00edk\u00e1 p\u0159edseda",
-        "evropsk\u00e9",
         "politici",
+        "fungov\u00e1n\u00ed",
+        "m\u016f\u017ee",
+        "evropsk\u00fd",
+        "kdy\u017e",
+        "\u0159\u00edk\u00e1 p\u0159edseda",
         "ovlivnit",
         "nikoliv",
-        "evropsk\u00fd",
-        "m\u016f\u017ee",
-        "kdy\u017e"
+        "\u010de\u0161t\u00ed",
+        "evropsk\u00e9"
       ],
       "common": [
         "li\u0161ka",
@@ -2855,16 +2855,16 @@
     {
       "number": 24,
       "important": [
-        "diskuzi",
-        "sen\u00e1tor v\u00e1clav",
-        "sen\u00e1t",
-        "hlas\u016f",
-        "kter\u00fdm",
-        "v\u016f\u010di",
-        "\u00fastavn\u00edch",
         "p\u0159ijal",
+        "kter\u00fdm",
+        "diskuzi",
+        "hlas\u016f",
+        "v\u016f\u010di",
         "sen\u00e1tor v\u00e1clav l\u00e1ska",
-        "prohl\u00e1\u0161en\u00ed"
+        "sen\u00e1tor v\u00e1clav",
+        "prohl\u00e1\u0161en\u00ed",
+        "\u00fastavn\u00edch",
+        "sen\u00e1t"
       ],
       "common": [
         "je",
@@ -3036,16 +3036,16 @@
     {
       "number": 25,
       "important": [
-        "jeho",
-        "andrej",
-        "jak\u00fdm",
-        "m\u00e9di\u00ed",
-        "\u010dt",
-        "slova",
-        "\u017e\u00e1d\u00e1",
         "babi\u0161",
         "pro n\u011b",
-        "andrej babi\u0161"
+        "andrej babi\u0161",
+        "slova",
+        "jak\u00fdm",
+        "\u010dt",
+        "andrej",
+        "\u017e\u00e1d\u00e1",
+        "m\u00e9di\u00ed",
+        "jeho"
       ],
       "common": [
         "babi\u0161",
@@ -3225,16 +3225,16 @@
     {
       "number": 26,
       "important": [
-        "zdroje",
-        "energi",
-        "pohledu",
-        "kam se",
-        "obnoviteln\u00e9 zdroje energi",
-        "zdroje energi",
-        "pr",
-        "obnoviteln\u00e9",
         "dohromadi",
-        "obnoviteln\u00e9 zdroje"
+        "obnoviteln\u00e9 zdroje",
+        "energi",
+        "zdroje",
+        "obnoviteln\u00e9 zdroje energi",
+        "pohledu",
+        "zdroje energi",
+        "kam se",
+        "pr",
+        "obnoviteln\u00e9"
       ],
       "common": [
         "elekt\u0159iny",
@@ -3426,16 +3426,16 @@
     {
       "number": 27,
       "important": [
-        "sni\u017eov\u00e1n\u00ed",
         "klimatu",
-        "boji",
-        "znamen\u00e1",
+        "dne\u0161n\u00edmu",
+        "uhl\u00ed",
+        "sni\u017eov\u00e1n\u00ed",
+        "boji proti",
         "t\u011b\u017ebi hn\u011bd\u00e9ho",
         "dozv\u00edt se",
-        "boji proti",
-        "uhl\u00ed",
-        "dne\u0161n\u00edmu",
-        "zm\u011bn\u011b"
+        "zm\u011bn\u011b",
+        "boji",
+        "znamen\u00e1"
       ],
       "common": [
         "je",
@@ -3679,16 +3679,16 @@
     {
       "number": 28,
       "important": [
-        "martina",
-        "dobu",
+        "jej\u00edm",
+        "by\u0165",
         "burs\u00edk",
+        "dobu",
+        "strani",
+        "martina",
+        "d\u016fvodi",
         "burs\u00edka",
         "strana zelen\u00fdch strana zelen\u00fdch hlavn\u00ed",
-        "strani",
-        "jej\u00edm",
-        "d\u016fvodi",
-        "spolupr\u00e1ci",
-        "by\u0165"
+        "spolupr\u00e1ci"
       ],
       "common": [
         "hlavn\u00ed",
@@ -3938,14 +3938,14 @@
       "important": [
         "od roku",
         "neziskov\u00e9",
+        "jej\u00edm",
         "vysok\u00e9",
+        "jsem",
         "d\u00e1le",
         "dr\u00e1palov\u00e1",
-        "vede",
-        "jsem",
         "jana",
-        "jej\u00ed",
-        "jej\u00edm"
+        "vede",
+        "jej\u00ed"
       ],
       "common": [
         "je",
@@ -4221,16 +4221,16 @@
     {
       "number": 30,
       "important": [
-        "zda",
-        "pot\u0159eba",
         "lidsk\u00e1",
         "jej",
-        "diskusi",
-        "je pot\u0159eba",
         "lidsk\u00e1 pr\u00e1va",
-        "ministra",
+        "pot\u0159eba",
+        "diskusi",
         "pro lidsk\u00e1",
-        "zru\u0161en\u00ed"
+        "je pot\u0159eba",
+        "zru\u0161en\u00ed",
+        "zda",
+        "ministra"
       ],
       "common": [
         "je",
@@ -4506,16 +4506,16 @@
     {
       "number": 31,
       "important": [
-        "adventn\u00ed",
+        "centrum",
+        "v\u00fdzkumu",
         "svobodn\u011bj\u0161\u00ed",
         "udr\u017eiteln\u011bj\u0161\u00ed",
-        "v\u00fdzkumu",
-        "na\u0161\u00ed zemi",
-        "solid\u00e1rn\u011bj\u0161\u00ed",
-        "p\u0159ejem v\u00e1m",
         "mohlo",
+        "adventn\u00ed",
         "v\u00fdzkum",
-        "centrum"
+        "p\u0159ejem v\u00e1m",
+        "solid\u00e1rn\u011bj\u0161\u00ed",
+        "na\u0161\u00ed zemi"
       ],
       "common": [
         "d\u011bkujeme",
@@ -4799,16 +4799,16 @@
     {
       "number": 32,
       "important": [
-        "jasn\u00fd",
-        "demonstrac",
-        "obyvatel",
         "dob\u011b kdi",
-        "smog",
         "republiku",
         "podm\u00ednek",
-        "m\u016f\u017ee b\u00fdt",
+        "obyvatel",
+        "jasn\u00fd",
+        "demonstrac",
         "m\u00edstech",
-        "kvalitu"
+        "smog",
+        "kvalitu",
+        "m\u016f\u017ee b\u00fdt"
       ],
       "common": [
         "cz",
@@ -5096,16 +5096,16 @@
     {
       "number": 33,
       "important": [
-        "jste",
-        "vy",
-        "zde",
-        "proti",
         "fond",
-        "korupci",
         "voleb",
+        "sen\u00e1to\u0159i",
+        "zde",
+        "jste",
+        "proti",
         "proti korupci",
-        "v\u00fdsledki",
-        "sen\u00e1to\u0159i"
+        "vy",
+        "korupci",
+        "v\u00fdsledki"
       ],
       "common": [
         "je",
@@ -5405,16 +5405,16 @@
     {
       "number": 34,
       "important": [
-        "p\u0159edseda strani zelen\u00fdch mat\u011bj",
-        "korun",
-        "byt\u016f",
-        "pra\u017esk\u00fd",
-        "rozvoj",
         "fond",
-        "bydlen\u00ed",
+        "korun",
+        "p\u0159edseda strani zelen\u00fdch mat\u011bj",
         "t\u011bch",
+        "rozvoj",
+        "byt\u016f",
+        "bydlen\u00ed",
+        "miliardi",
         "miliardi korun",
-        "miliardi"
+        "pra\u017esk\u00fd"
       ],
       "common": [
         "je",
@@ -5738,16 +5738,16 @@
     {
       "number": 35,
       "important": [
-        "tak se",
         "abi",
-        "budu",
-        "co je",
-        "pod\u00edvejt",
-        "z\u00edtra",
         "tomto",
+        "chv\u00edli",
+        "co je",
+        "budu",
+        "pod\u00edvejt",
+        "tak se",
         "na tomto",
         "nejd",
-        "chv\u00edli"
+        "z\u00edtra"
       ],
       "common": [
         "cz",
@@ -6079,15 +6079,15 @@
     {
       "number": 36,
       "important": [
-        "dopravi",
-        "mhd",
-        "hlavn\u00edm",
-        "petr",
-        "vypl\u00fdv\u00e1",
-        "nejv\u011bt\u0161\u00ed",
         "ve\u0159ejn\u00e9",
-        "nemus\u00ed",
+        "petr",
+        "mhd",
         "petr \u0161t\u011bp\u00e1nek",
+        "nemus\u00ed",
+        "vypl\u00fdv\u00e1",
+        "hlavn\u00edm",
+        "dopravi",
+        "nejv\u011bt\u0161\u00ed",
         "kvalitn\u00ed"
       ],
       "common": [
@@ -6508,16 +6508,16 @@
     {
       "number": 37,
       "important": [
-        "magistr\u00e1tu",
-        "hlavn\u00edm",
-        "kol\u00ednsk\u00e1",
-        "budovi",
         "m\u011bst\u011b",
-        "praha",
-        "petra",
         "pen\u011bz",
+        "magistr\u00e1tu",
+        "za\u010dn",
+        "budovi",
+        "petra",
         "krom\u011b",
-        "za\u010dn"
+        "praha",
+        "hlavn\u00edm",
+        "kol\u00ednsk\u00e1"
       ],
       "common": [
         "je",
@@ -6961,16 +6961,16 @@
     {
       "number": 38,
       "important": [
-        "pra\u017esk\u00e9ho",
-        "rizika",
-        "emis",
-        "centru",
         "domov",
-        "m\u011bstsk\u00e9 \u010d\u00e1sti",
-        "auta",
+        "pra\u017esk\u00e9ho",
         "m\u00edst",
-        "lidovkycz",
-        "radnic"
+        "auta",
+        "emis",
+        "m\u011bstsk\u00e9 \u010d\u00e1sti",
+        "centru",
+        "rizika",
+        "radnic",
+        "lidovkycz"
       ],
       "common": [
         "je",
@@ -7798,16 +7798,16 @@
     {
       "number": 39,
       "important": [
-        "n\u00e1rodn\u00edch",
-        "na\u0161\u00ed zem\u011b",
-        "pra\u017esk\u00fdch zelen\u00fdch",
         "shrom\u00e1\u017ed\u011bn\u00ed",
         "park\u016f",
-        "n\u00e1rodn\u00edch park\u016f",
+        "mat\u011bj stropnick\u00fd p\u0159edseda",
+        "n\u00e1rodn\u00edch",
         "zachov\u00e1n\u00ed",
+        "n\u00e1rodn\u00edch park\u016f",
+        "na\u0161\u00ed zem\u011b",
+        "pra\u017esk\u00fdch zelen\u00fdch",
         "bohatstv\u00ed",
-        "dne\u0161n\u00edm",
-        "mat\u011bj stropnick\u00fd p\u0159edseda"
+        "dne\u0161n\u00edm"
       ],
       "common": [
         "cz",

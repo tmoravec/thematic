@@ -16,16 +16,16 @@
     {
       "number": 1,
       "important": [
-        "prazdroj",
         "najdet",
-        "zde",
         "origin\u00e1ln\u00ed",
-        "abi",
-        "na",
-        "opravdu",
-        "d\u00e1rek",
         "kter\u00fd",
-        "radegast"
+        "d\u00e1rek",
+        "prazdroj",
+        "radegast",
+        "na",
+        "zde",
+        "opravdu",
+        "abi"
       ],
       "common": [
         "darujte",
@@ -70,15 +70,15 @@
       "number": 2,
       "important": [
         "karton",
-        "prohl\u00eddku",
-        "m\u00e1te",
+        "tak",
         "po",
-        "pivovaru",
+        "prohl\u00eddku pivovaru",
         "karton piva",
+        "prohl\u00eddku",
         "na prohl\u00eddku",
         "n\u00e1s",
-        "tak",
-        "prohl\u00eddku pivovaru"
+        "pivovaru",
+        "m\u00e1te"
       ],
       "common": [
         "na",
@@ -139,15 +139,15 @@
       "number": 3,
       "important": [
         "leto",
-        "plze\u0148sk\u00fd prazdroj",
-        "programu",
-        "prazdroj",
+        "prazdroj lidem",
         "lidem",
-        "pivovar",
-        "r\u00e1mci",
         "k\u010d",
+        "r\u00e1mci",
+        "pivovar",
+        "prazdroj",
         "radegast",
-        "prazdroj lidem"
+        "plze\u0148sk\u00fd prazdroj",
+        "programu"
       ],
       "common": [
         "lidem",
@@ -211,16 +211,16 @@
     {
       "number": 4,
       "important": [
-        "leto",
-        "master",
-        "\u010depuj",
-        "bartend",
+        "stal",
         "jak",
         "restaurac",
+        "master",
+        "leto",
+        "\u010depuj",
+        "bartend",
         "v\u00fd\u010depn\u00ed",
-        "\u017ee",
         "pilsner urquel master",
-        "stal"
+        "\u017ee"
       ],
       "common": [
         "bartender",
@@ -288,16 +288,16 @@
     {
       "number": 5,
       "important": [
-        "na v\u00e1s",
+        "sv\u00fdm",
         "se m\u016f\u017eete",
+        "prazdrojvisit",
+        "plze\u0148sk\u00e9ho pivovaru",
+        "\u010dek\u00e1",
         "d\u00e1rek",
         "nebo",
-        "\u010dek\u00e1",
-        "prazdrojvisit",
+        "na v\u00e1s",
         "v\u00e1s",
-        "sv\u00fdm",
-        "plze\u0148sk\u00e9ho",
-        "plze\u0148sk\u00e9ho pivovaru"
+        "plze\u0148sk\u00e9ho"
       ],
       "common": [
         "na",
@@ -365,16 +365,16 @@
     {
       "number": 6,
       "important": [
-        "ka\u017ed\u00fd",
-        "hod",
-        "si",
         "prazdroji",
-        "prazdroj",
         "prazdrojvisit",
-        "tento",
+        "hod",
+        "kdi",
         "n\u00e1dvo\u0159\u00ed",
         "cel\u00e9",
-        "kdi"
+        "tento",
+        "prazdroj",
+        "ka\u017ed\u00fd",
+        "si"
       ],
       "common": [
         "hodin",
@@ -442,16 +442,16 @@
     {
       "number": 7,
       "important": [
-        "sout\u011b\u017e",
-        "vyhr\u00e1v\u00e1",
-        "na\u0161ich",
-        "alkohol",
         "najdet",
+        "pod",
+        "sout\u011b\u017e",
+        "k\u010d",
+        "na\u0161ich",
+        "plze\u0148sk\u00e9ho prazdroj",
+        "vyhr\u00e1v\u00e1",
         "jen",
         "najdet na",
-        "k\u010d",
-        "plze\u0148sk\u00e9ho prazdroj",
-        "pod"
+        "alkohol"
       ],
       "common": [
         "alkohol",
@@ -523,16 +523,16 @@
     {
       "number": 8,
       "important": [
-        "hod",
         "se m\u016f\u017eete",
-        "sobotu",
         "t\u011b\u0161it",
         "prazdrojvisit",
-        "od hod",
-        "v\u00e1s",
         "tradi\u010dn\u00ed",
+        "hod",
+        "v\u017edi",
+        "od hod",
         "plzni",
-        "v\u017edi"
+        "v\u00e1s",
+        "sobotu"
       ],
       "common": [
         "10",
@@ -610,14 +610,14 @@
       "important": [
         "karton",
         "z\u00edsk\u00e1",
-        "pilsner urquel",
-        "piva",
-        "pivovaru",
         "pilsner",
+        "pilsner urquel",
+        "timelin",
         "abi",
         "karton piva",
-        "piva pilsner",
-        "timelin"
+        "pivovaru",
+        "piva",
+        "piva pilsner"
       ],
       "common": [
         "na",
@@ -701,16 +701,16 @@
     {
       "number": 10,
       "important": [
-        "tak\u00e9",
-        "ji\u017e",
-        "ale",
         "ro\u010dn\u00edk",
-        "na tel \u010d\u00edslo",
-        "jsou",
-        "je",
         "na tel",
         "projektu",
-        "akc"
+        "ale",
+        "ji\u017e",
+        "je",
+        "tak\u00e9",
+        "akc",
+        "jsou",
+        "na tel \u010d\u00edslo"
       ],
       "common": [
         "cz",
@@ -798,16 +798,16 @@
     {
       "number": 11,
       "important": [
-        "map\u011b",
-        "\u010depuj",
-        "le\u017e\u00e1k",
         "najdet",
-        "gambrinus",
-        "najdet na",
-        "na\u0161i",
+        "hospod\u00e1ch",
+        "\u010depuj",
+        "map\u011b",
         "kde se",
+        "najdet na",
+        "le\u017e\u00e1k",
         "kde",
-        "hospod\u00e1ch"
+        "na\u0161i",
+        "gambrinus"
       ],
       "common": [
         "http",
@@ -903,16 +903,16 @@
     {
       "number": 12,
       "important": [
+        "photo",
+        "timelin",
         "jako",
-        "zde timelin",
-        "alkohol",
+        "vy",
         "informac\u00ed",
         "v\u00edce",
+        "alkohol",
         "zde",
-        "photo",
-        "abi",
-        "timelin",
-        "vy"
+        "zde timelin",
+        "abi"
       ],
       "common": [
         "cz",
@@ -1008,16 +1008,16 @@
     {
       "number": 13,
       "important": [
-        "bude",
-        "plzn\u011b",
-        "plze\u0148sk\u00fd prazdroj",
+        "roce",
+        "podporu",
+        "k\u010d",
         "prazdroj",
+        "bude",
+        "plze\u0148sk\u00fd prazdroj",
         "plze\u0148sk\u00fd",
         "jsou",
-        "roce",
-        "abi",
-        "k\u010d",
-        "podporu"
+        "plzn\u011b",
+        "abi"
       ],
       "common": [
         "cz",
@@ -1121,16 +1121,16 @@
     {
       "number": 14,
       "important": [
-        "ji\u017e",
         "pilsnerurquel",
-        "pilsner urquel",
-        "leto\u0161n\u00ed",
-        "v\u00edce",
         "origin\u00e1ln\u00ed",
+        "pilsner urquel",
         "pilsner",
-        "na",
         "timelin",
-        "v\u00e1m"
+        "ji\u017e",
+        "v\u00edce",
+        "na",
+        "v\u00e1m",
+        "leto\u0161n\u00ed"
       ],
       "common": [
         "na",
@@ -1278,16 +1278,16 @@
     {
       "number": 15,
       "important": [
-        "\u010desk\u00e9ho piva",
-        "prvn\u00ed",
-        "n\u00e1\u0161",
-        "\u010desk\u00e9ho",
+        "tak",
         "roce",
-        "gambrinus",
         "b\u011bhem",
         "ur\u010dit\u011b",
+        "prvn\u00ed",
+        "\u010desk\u00e9ho",
         "jej",
-        "tak"
+        "n\u00e1\u0161",
+        "\u010desk\u00e9ho piva",
+        "gambrinus"
       ],
       "common": [
         "chmel",
@@ -1435,16 +1435,16 @@
     {
       "number": 16,
       "important": [
-        "pivu",
+        "prohl\u00eddki",
         "od hodin",
         "sobotu",
-        "prohl\u00eddki",
-        "velk\u00e9",
-        "nebo",
+        "speci\u00e1ln\u00ed",
         "hodin",
         "pivovar",
-        "pivovaru",
-        "speci\u00e1ln\u00ed"
+        "velk\u00e9",
+        "nebo",
+        "pivu",
+        "pivovaru"
       ],
       "common": [
         "cz",
@@ -1608,16 +1608,16 @@
     {
       "number": 17,
       "important": [
-        "ty",
-        "od",
-        "\u010depuj",
-        "plze\u0148sk\u00fd",
+        "tak",
         "restaurac",
-        "p\u0159ij\u010ft",
+        "\u010depuj",
+        "od",
         "sv\u00e9",
+        "p\u0159ij\u010ft",
         "na",
-        "abi",
-        "tak"
+        "plze\u0148sk\u00fd",
+        "ty",
+        "abi"
       ],
       "common": [
         "jak",

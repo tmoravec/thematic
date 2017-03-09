@@ -16,16 +16,16 @@
     {
       "number": 1,
       "important": [
-        "weekendwear",
-        "face androidwear",
-        "androidwear",
-        "timelin",
+        "weekendwear timelin",
         "androidwear weekendwear",
+        "androidwear",
+        "weekendwear",
+        "timelin",
         "photo",
         "face androidwear weekendwear",
-        "weekendwear timelin",
-        "watch",
-        "face"
+        "face androidwear",
+        "face",
+        "watch"
       ],
       "common": [
         "androidwear",
@@ -77,16 +77,16 @@
     {
       "number": 2,
       "important": [
-        "face weekendwear",
-        "weekendwear",
-        "access",
+        "face weekendwear timelin",
+        "weekendwear timelin",
         "androidwear",
         "timelin",
-        "face weekendwear timelin",
+        "weekendwear",
+        "access",
         "photo",
-        "weekendwear timelin",
-        "watch",
-        "face"
+        "face weekendwear",
+        "face",
+        "watch"
       ],
       "common": [
         "gl",
@@ -142,16 +142,16 @@
     {
       "number": 3,
       "important": [
-        "weekendwear",
+        "weekend",
+        "weekendwear timelin",
         "androidwear",
         "timelin",
-        "find",
+        "weekendwear",
         "androidwear watch",
         "photo",
-        "weekendwear timelin",
-        "watch",
-        "weekend",
-        "androidwear watch weekendwear"
+        "find",
+        "androidwear watch weekendwear",
+        "watch"
       ],
       "common": [
         "androidwear",
@@ -207,9 +207,9 @@
     {
       "number": 4,
       "important": [
-        "timelin",
+        "access",
         "photo",
-        "access"
+        "timelin"
       ],
       "common": [
         "happyhalloween",
@@ -273,16 +273,16 @@
     {
       "number": 5,
       "important": [
-        "access",
-        "timelin",
-        "day",
-        "photo",
         "everi",
-        "idea",
-        "treat",
-        "us",
         "show",
-        "celebr"
+        "celebr",
+        "us",
+        "timelin",
+        "access",
+        "idea",
+        "photo",
+        "day",
+        "treat"
       ],
       "common": [
         "dalking",
@@ -350,16 +350,16 @@
     {
       "number": 6,
       "important": [
-        "access",
-        "start today",
-        "say",
         "start",
-        "avail",
-        "androidauto",
+        "start today",
         "learn",
+        "avail",
+        "access",
         "today",
-        "googl",
-        "android"
+        "say",
+        "android",
+        "androidauto",
+        "googl"
       ],
       "common": [
         "gl",
@@ -427,16 +427,16 @@
     {
       "number": 7,
       "important": [
-        "access",
-        "thing",
-        "androidwear",
+        "go",
         "timelin",
+        "thing",
+        "happi",
+        "come",
+        "access",
+        "good",
         "say",
         "photo",
-        "happi",
-        "good",
-        "go",
-        "come"
+        "androidwear"
       ],
       "common": [
         "4thofjuly",
@@ -512,16 +512,16 @@
     {
       "number": 8,
       "important": [
+        "nameandroidn",
         "move",
+        "parti",
         "access",
+        "help",
         "say",
         "find",
         "ask",
-        "parti",
-        "watch",
-        "help",
-        "nameandroidn",
-        "introduc"
+        "introduc",
+        "watch"
       ],
       "common": [
         "android",
@@ -601,16 +601,16 @@
     {
       "number": 9,
       "important": [
-        "notthesam timelin",
-        "launch",
-        "access",
         "togeth notthesam",
+        "togeth",
         "happi",
-        "watch",
+        "learn",
+        "launch",
+        "notthesam timelin",
+        "access",
         "notthesam",
         "around",
-        "learn",
-        "togeth"
+        "watch"
       ],
       "common": [
         "android",
@@ -690,16 +690,16 @@
     {
       "number": 10,
       "important": [
-        "look",
+        "easier",
+        "take",
         "androidwear timelin",
+        "timelin",
         "access",
         "keep",
-        "never",
-        "androidwear",
-        "timelin",
         "photo",
-        "take",
-        "easier"
+        "never",
+        "look",
+        "androidwear"
       ],
       "common": [
         "androidwear",
@@ -787,16 +787,16 @@
     {
       "number": 11,
       "important": [
-        "access",
-        "play",
-        "introduc",
         "googl play",
-        "use",
-        "androidauto",
+        "play",
+        "access",
         "make",
-        "googl",
+        "use",
         "android",
-        "music"
+        "introduc",
+        "androidauto",
+        "music",
+        "googl"
       ],
       "common": [
         "gl",
@@ -904,16 +904,16 @@
     {
       "number": 12,
       "important": [
-        "easi",
         "androidpay",
-        "access",
-        "tap pay",
         "timelin",
         "pay",
-        "photo",
+        "easi",
+        "tap pay",
+        "access",
         "android pay",
-        "tap",
-        "make"
+        "make",
+        "photo",
+        "tap"
       ],
       "common": [
         "androidpay",
@@ -1021,16 +1021,16 @@
     {
       "number": 13,
       "important": [
-        "weekendwear",
-        "access",
-        "week",
-        "keep",
-        "androidwear",
-        "timelin",
-        "like",
-        "photo",
         "weekendwear timelin",
-        "wrist"
+        "timelin",
+        "weekendwear",
+        "week",
+        "access",
+        "like",
+        "wrist",
+        "keep",
+        "photo",
+        "androidwear"
       ],
       "common": [
         "androidwear",
@@ -1142,16 +1142,16 @@
     {
       "number": 14,
       "important": [
-        "get",
+        "season",
         "androidpay",
-        "access",
-        "use androidpay",
         "timelin",
-        "photo",
-        "use",
-        "around",
+        "use androidpay",
         "world",
-        "season"
+        "access",
+        "use",
+        "photo",
+        "around",
+        "get"
       ],
       "common": [
         "androidpay",
@@ -1268,15 +1268,15 @@
       "number": 15,
       "important": [
         "get",
-        "access",
-        "face androidwear",
         "androidwear",
         "timelin",
-        "photo",
-        "watch",
         "name",
+        "world",
+        "access",
+        "photo",
+        "face androidwear",
         "face",
-        "world"
+        "watch"
       ],
       "common": [
         "androidwear",
@@ -1396,16 +1396,16 @@
     {
       "number": 16,
       "important": [
-        "devic",
-        "access",
-        "ask",
-        "android devic",
-        "home",
         "back",
+        "home",
         "phone",
-        "ever",
         "safe",
-        "android"
+        "ever",
+        "access",
+        "devic",
+        "android",
+        "ask",
+        "android devic"
       ],
       "common": [
         "android",
@@ -1661,16 +1661,16 @@
     {
       "number": 17,
       "important": [
-        "access",
-        "come",
+        "sweet",
         "check",
+        "sure",
         "timelin",
         "androidtv",
+        "come",
+        "access",
         "photo",
-        "androideverywher",
-        "sweet",
         "android",
-        "sure"
+        "androideverywher"
       ],
       "common": [
         "android",

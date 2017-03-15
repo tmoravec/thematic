@@ -4,184 +4,38 @@
   "globalstats": {
     "fan_count": 62305,
     "messages": 466,
-    "likes_avg": 242,
-    "likes_stdev": 840,
-    "comments_avg": 21,
-    "comments_stdev": 52,
-    "shares_avg": 39,
-    "shares_stdev": 153,
+    "likes_avg": 211,
+    "likes_stdev": 616,
+    "comments_avg": 17,
+    "comments_stdev": 39,
+    "shares_avg": 31,
+    "shares_stdev": 66,
     "graph_uri": "clusters/Gambrinus.cz.png"
   },
   "clusters": [
     {
       "number": 1,
       "important": [
-        "je",
-        "posledn\u00ed",
-        "jenom",
-        "za",
-        "svou",
-        "m\u016f\u017ee\u0161",
-        "d\u00e1t",
-        "hospodu",
-        "dnes",
-        "si"
-      ],
-      "common": [
-        "cz",
-        "gambrinus",
-        "hledej",
-        "na",
-        "photos",
-        "timeline",
-        "timeline photos",
-        "www",
-        "www gambrinus",
-        "www gambrinus cz"
-      ],
-      "messages": [
-        [
-          "Dnes je posledn\u00ed \u00fater\u00fd, kdy si m\u016f\u017ee\u0161 d\u00e1t Gambrinus jenom za 20K\u010d. Tak\u017ee s chut\u00ed do toho! Svou hospodu hledej na www.gambrinus.cz ;) Timeline Photos",
-          1385460904
-        ],
-        [
-          "Zavolej kamar\u00e1d\u016fm, Gambrinus dneska stoj\u00ed zase jenom 20K\u010d! Svou hospodu hledej na www.gambrinus.cz ;) Timeline Photos",
-          1384856105
-        ],
-        [
-          "Pl\u00e1n na ve\u010der je jasn\u00fd - jdeme na pivo! Gambrinus dneska toti\u017e stoj\u00ed zase jenom 20K\u010d. Hledej svou hospodu na www.gambrinus.cz ;) Timeline Photos",
-          1384251303
-        ],
-        [
-          "Co m\u016f\u017ee\u0161 objednat dnes, neodkl\u00e1dej na z\u00edt\u0159ek! Zvl\u00e1\u0161\u0165, kdy\u017e \u00fatern\u00ed Gambrinus stoj\u00ed jenom 20K\u010d. Hledej svou hospodu na www.gambrinus.cz ;) Timeline Photos",
-          1383646503
-        ],
-        [
-          "Na z\u00edt\u0159ek si toho rad\u0161i moc nedomlouvej! Je \u00fater\u00fd, tak\u017ee Gambrinus stoj\u00ed zase jenom 20K\u010d. Hledej svou hospodu na www.gambrinus.cz ;) Timeline Photos",
-          1383060384
-        ],
-        [
-          "Dneska ve\u010der rovnou do hospody! Gambrinus toti\u017e zase stoj\u00ed jenom 20K\u010d. Hledej svou hospodu na www.gambrinus.cz ;-) Timeline Photos",
-          1381824906
-        ],
-        [
-          "Je \u00fater\u00fd, tak\u017ee ve vybran\u00fdch hospod\u00e1ch najde\u0161 Gambrinus zase jenom za dvacku! Hledej svou hospodu na www.gambrinus.cz ;) Timeline Photos",
-          1381220105
-        ],
-        [
-          "Na podzim si v kalend\u00e1\u0159i zatrhni v\u0161echny \u00faterky a doma oznam, \u017ee program u\u017e m\u00e1\u0161 ;)  V \u0159\u00edjnu a listopadu si toti\u017e ve vybran\u00fdch hospod\u00e1ch m\u016f\u017ee\u0161 vychutnat Gambrinus za 20 K\u010d. Hledej svou hospodu na http://www.gambrinus.cz/cz/#/kam-na-pivo :) Timeline Photos",
-          1380636592
-        ]
-      ],
-      "dates_start": 1381479909,
-      "dates_end": 1384759290,
-      "likes_avg": 46,
-      "likes_stdev": 12,
-      "comments_avg": 4,
-      "comments_stdev": 1,
-      "shares_avg": 24,
-      "shares_stdev": 13
-    },
-    {
-      "number": 2,
-      "important": [
-        "je",
-        "vodn\u00ed",
-        "na",
-        "\u010das",
-        "gambrinusem",
-        "ale",
-        "je\u0161t\u011b",
-        "p\u0159ij\u010ft",
-        "u\u017e",
-        "se"
-      ],
-      "common": [
-        "com gambrinusochuceny app_298475993574642 timeline",
-        "com gambrinusochuceny app_298475993574642 timeline photos",
-        "facebook com gambrinusochuceny app_298475993574642 timeline",
-        "na",
-        "photos",
-        "se",
-        "vodn\u00ed",
-        "www",
-        "www facebook com gambrinusochuceny",
-        "www facebook com gambrinusochuceny app_298475993574642"
-      ],
-      "messages": [
-        [
-          "V\u00e1\u0161 program na dne\u0161ek je l\u00e1ze\u0148sk\u00fd... \r\nVodn\u00ed bal\u00f3nkov\u00e1 bitva ve \u017dlut\u00fdch l\u00e1zn\u00edch. Photos",
-          1342857602
-        ],
-        [
-          "Vodn\u00ed bal\u00f3nkov\u00e1 bitva u\u017e z\u00edtra!\r\nhttps://www.facebook.com/GambrinusOchuceny/app_298475993574642 Timeline Photos",
-          1342764904
-        ],
-        [
-          "Je\u0161t\u011b je \u010das se registrovat na Vodn\u00ed bal\u00f3nkovou bitvu s Ochucen\u00fdm ve \u017dlut\u00fdch l\u00e1zn\u00edch!\r\nhttps://www.facebook.com/GambrinusOchuceny/app_298475993574642 Timeline Photos",
-          1342609216
-        ],
-        [
-          "S Gambrinusem na p\u0159e\u0161t\u011bnick\u00fd Open Air a v sobotu na Vodn\u00ed bal\u00f3nkovou bitvu do \u017dlut\u00fdch l\u00e1zn\u00ed, p\u0159ij\u010fte si hodit!\r\nhttps://www.facebook.com/GambrinusOchuceny/app_298475993574642 Timeline Photos",
-          1342512225
-        ],
-        [
-          "Vodn\u00ed bal\u00f3nkov\u00e1 bitva s Gambrinusem Ochucen\u00fdm vypukne u\u017e tuto sobotu! Po\u010das\u00ed se ur\u010dit\u011b umoud\u0159\u00ed, tak si p\u0159ij\u010fte hodit vodn\u00ed bombu! Jestli se chcete vyhnout front\u011b u vchodu, registrujte se p\u0159edem na: https://www.facebook.com/GambrinusOchuceny/app_298475993574642 Timeline Photos",
-          1342424932
-        ],
-        [
-          "Nezapome\u0148te se registrovat na Vodn\u00ed bal\u00f3nkovou bitvu do \u017dlut\u00fdch l\u00e1zn\u00ed v Praze. U\u017e za p\u00e1r dn\u00ed, 21. 7., s Gambrinusem Ochucen\u00fdm, muzikou a spoustou bal\u00f3nk\u016f!\r\nhttps://www.facebook.com/GambrinusOchuceny/app_298475993574642 Timeline Photos",
-          1342166300
-        ],
-        [
-          "Tak jste se do\u010dkali... Vodn\u00ed bal\u00f3nkov\u00e1 bitva s Gambrinusem Ochucen\u00fdm 21. 7. ve \u017dlut\u00fdch l\u00e1zn\u00edch v Praze! Nezapome\u0148te se registrovat a pozvat kamar\u00e1dy: https://www.facebook.com/GambrinusOchuceny/app_298475993574642 Timeline Photos",
-          1341832892
-        ],
-        [
-          "Mrkn\u011bte se, jak to vypadalo na Vodn\u00ed bal\u00f3nkov\u00e9 bitv\u011b v Brn\u011b s Gambrinusem Ochucen\u00fdm! Gambrinus vodn\u00ed balonkov\u00e1 bitva - Brno 22/6 bitva",
-          1340699634
-        ],
-        [
-          "Chcete si u\u017e\u00edt dal\u0161\u00ed skv\u011blou akci s Gambrinusem, zasout\u011b\u017eit si o pivo na rok zdarma a osv\u011b\u017eit se opravdu po cel\u00e9m t\u011ble? :)\r\nPus\u0165te se s n\u00e1mi do Vodn\u00ed bal\u00f3nkov\u00e9 bitvy! Ta plze\u0148sk\u00e1 byla par\u00e1dn\u00ed, brn\u011bnsk\u00e1 vypukne u\u017e tento p\u00e1tek 22. 6. Do toho!\r\nhttps://www.facebook.com/GambrinusOchuceny/app_298475993574642 Timeline Photos",
-          1340208277
-        ],
-        [
-          "Osv\u011b\u017euj\u00edc\u00ed p\u00e1rty s ochucen\u00fdm pivkem Gambrinus u\u017e brzy p\u0159istane v Brn\u011b a Plzni, jdete do toho? Kdo vstoup\u00ed, neprohloup\u00ed: vzorky k ochutn\u00e1n\u00ed, vodn\u00ed bal\u00f3nkov\u00e1 bitva, vyhl\u00e1\u0161en\u00ed rekordu, koncert a Afterparty. Vzh\u016fru na osv\u011b\u017euj\u00edc\u00ed akci! https://www.facebook.com/GambrinusOchuceny/app_298475993574642 Timeline Photos",
-          1338211781
-        ]
-      ],
-      "dates_start": 1340212302,
-      "dates_end": 1343045250,
-      "likes_avg": 10,
-      "likes_stdev": 5,
-      "comments_avg": 0,
-      "comments_stdev": 0,
-      "shares_avg": 3,
-      "shares_stdev": 2
-    },
-    {
-      "number": 3,
-      "important": [
-        "ot\u00e1zku",
-        "l\u00edstki",
-        "koncert",
-        "na ot\u00e1zku",
-        "chcete",
-        "t\u0159i",
         "sledujt",
-        "gambrinusem",
+        "l\u00edstki",
+        "ot\u00e1zku",
+        "t\u0159i",
+        "dva",
         "p\u00e1tek",
-        "sestri"
+        "sestri",
+        "sta\u010d\u00ed",
+        "koncert",
+        "chcete"
       ],
       "common": [
+        "chcete",
+        "kapely",
+        "kapely t\u0159i",
+        "kapely t\u0159i sestry",
         "koncert",
-        "na",
-        "na ot\u00e1zku",
+        "l\u00edstk\u016f",
         "ot\u00e1zku",
-        "photos",
         "sestry",
-        "timeline",
-        "timeline photos",
         "t\u0159i",
         "t\u0159i sestry"
       ],
@@ -219,310 +73,140 @@
           1372327203
         ],
         [
-          "Exkluzivn\u00ed video z charitativn\u00edho koncertu T\u0159\u00ed sester. Taky si koncerty T\u0159\u00ed sester u\u017e\u00edv\u00e1te jako my? Exkluzivn\u00ed video z charitativn\u00edho kon... T\u0159i sestry odehr\u00e1ly 27.1. v pra\u017esk\u00e9 Akropoli charitativn\u00ed koncert podpo\u0159en\u00fd Gambrinusem. P\u0159in\u00e1\u0161\u00edme v\u00e1m exkluzivn\u00ed video sest\u0159ih z tohohle b\u00e1je\u010dn\u00e9ho koncertu.",
-          1360509324
-        ],
-        [
           "P\u0159ij\u010fte v ned\u011bli podpo\u0159it dobrou v\u011bc a T\u0159i sestry. Vyfo\u0165te se na koncert\u011b a po\u0161lete n\u00e1m svoje fotky. Timeline Photos",
           1359049516
         ]
       ],
-      "dates_start": 1373199828,
-      "dates_end": 1411007108,
-      "likes_avg": 16,
+      "dates_start": 1379066434,
+      "dates_end": 1412161423,
+      "likes_avg": 17,
       "likes_stdev": 9,
-      "comments_avg": 6,
+      "comments_avg": 7,
       "comments_stdev": 6,
-      "shares_avg": 4,
-      "shares_stdev": 4
+      "shares_avg": 2,
+      "shares_stdev": 2
     },
     {
-      "number": 4,
+      "number": 2,
       "important": [
-        "v\u00e1m",
-        "na podt\u00e1cku",
-        "na",
-        "vy",
-        "je tadi",
-        "kdy\u017e",
-        "jako",
-        "\u017ee",
-        "tadi",
-        "dal\u0161\u00ed"
+        "timelin",
+        "d\u00e1rki",
+        "gambrinus",
+        "hrajem",
+        "ka\u017ed\u00fd",
+        "den",
+        "ka\u017ed\u00fd den",
+        "tento",
+        "super",
+        "tak"
       ],
       "common": [
-        "d\u00edl",
-        "na",
-        "na podt\u00e1cku",
-        "petrem",
-        "petrem \u010dtvrtn\u00ed\u010dkem",
-        "pivo",
-        "podt\u00e1cku",
-        "se",
-        "www",
-        "\u010dtvrtn\u00ed\u010dkem"
-      ],
-      "messages": [
-        [
-          "Je tady dal\u0161\u00ed d\u00edl Na Podt\u00e1cku s Petrem \u010ctvrtn\u00ed\u010dkem! Tentokr\u00e1t si uk\u00e1\u017eeme, \u017ee i mu\u017ei maj\u00ed r\u00e1di Valent\u00fdna. A kdy\u017e se trochu sna\u017e\u00ed, um\u00ed vykouzlit romantiku jako \u0159emen! Na Podt\u00e1cku s P. \u010ctvrtn\u00ed\u010dkem: Valent\u00fdnsk\u00e1 romantika Tentokr\u00e1t v\u00e1m uk\u00e1\u017eeme, \u017ee i mu\u017ei maj\u00ed r\u00e1di Valent\u00fdna. A kdy\u017e se trochu sna\u017e\u00ed, um\u00ed vykouzlit romantiku jako \u0159emen! Na http://www.napodtacku.cz nav\u00edc m\u016f\u017eete vy...",
-          1391014801
-        ],
-        [
-          "U\u017eijte si dne\u0161n\u00ed posledn\u00ed den roku 2013 stejn\u011b jako si Petr \u010ctvrtn\u00ed\u010dek u\u017e\u00edv\u00e1 nat\u00e1\u010den\u00ed Na Podt\u00e1cku :-) PF2014 v\u0161em piva\u0159\u016fm. Na Podt\u00e1cku s P. \u010ctvrtn\u00ed\u010dkem: Silvestrovsk\u00fd bonus",
-          1388494333
-        ],
-        [
-          "M\u016f\u017ee v\u00e1m Petr \u010ctvrtn\u00ed\u010dek ud\u011blat ty nejv\u00edc sexy V\u00e1noce? To v\u00edte, \u017ee m\u016f\u017ee ;-) Chmel, je\u010dmen a voda to ve v\u00e1no\u010dn\u00edm speci\u00e1lu Na Podt\u00e1cku p\u011bkn\u011b rozto\u010d\u00ed. Ale bacha na man\u017eelky a p\u0159\u00edtelkyn\u011b za z\u00e1dy, tohle nen\u00ed pro jejich o\u010di! Na Podt\u00e1cku s P. \u010ctvrtn\u00ed\u010dkem: V\u00e1no\u010dn\u00ed speci\u00e1l Kr\u00e1sn\u00fd chmel, sv\u016fdn\u00fd je\u010dmen a nezkrotn\u00e1 voda v\u00e1m ve v\u00e1no\u010dn\u00edm speci\u00e1lu Na Podt\u00e1cku uk\u00e1\u017eou, \u017ee va\u0159en\u00ed piva m\u016f\u017ee b\u00fdt opravdu p\u011bkn\u00e1 pod\u00edvan\u00e1.",
-          1386329402
-        ],
-        [
-          "M\u00e1me tady dal\u0161\u00ed d\u00edl Na Podt\u00e1cku s Petrem \u010ctvrtn\u00ed\u010dkem! Tentokr\u00e1t se pod\u00edv\u00e1me, jak se va\u0159\u00ed prav\u00e9 \u010desk\u00e9 pivo! \nPS: Na konci je mo\u017en\u00e1 schovan\u00e1 sout\u011b\u017e. ;) Na Podt\u00e1cku s P. \u010ctvrtn\u00ed\u010dkem: Jak by va\u0159il pivo Jirka z Babic Jak se va\u0159\u00ed \u010desk\u00e9 pivo? Jirka z Babic to nevychytal, tak v\u00e1m to pov\u00ed Petr \u010ctvrtn\u00ed\u010dek. Sout\u011b\u017ete na www.napodtacku.cz o sud piva Gambrinus ka\u017ed\u00fd den a\u017e do 31.10.",
-          1382101200
-        ],
-        [
-          "Takovej pu\u0148\u0165a a pote\u0161\u00ed ;) U\u017e jste vid\u011bli nov\u00fd d\u00edl Na Podt\u00e1cku s Petrem \u010ctvrtn\u00ed\u010dkem a v\u00edte, jak se pozn\u00e1 \u010cesk\u00e9 pivo? Wall Photos",
-          1369841403
-        ],
-        [
-          "Jak se pozn\u00e1 \u010cesk\u00e9 pivo? Petr \u010ctvrtn\u00ed\u010dek v\u00e1m to Na Podt\u00e1cku vysv\u011btl\u00ed. U\u017e ch\u00e1pete? ;) Na Podt\u00e1cku s P. \u010ctvrtn\u00ed\u010dkem: V\u00fdslech \u010desk\u00e9ho piva Gambrinus p\u0159in\u00e1\u0161\u00ed t\u0159et\u00ed d\u00edl speci\u00e1ln\u00edho po\u0159adu pro piva\u0159e s Petrem \u010ctvrtn\u00ed\u010dkem Na Podt\u00e1cku. N\u00e1zorn\u011b n\u00e1m uk\u00e1\u017ee, jak se pozn\u00e1 \u010cesk\u00e9 pivo. Co v\u0161echno mus\u00ed spl\u0148o...",
-          1368788401
-        ],
-        [
-          "T\u011b\u0161\u00edte se na dal\u0161\u00ed d\u00edl Na Podt\u00e1cku s Petrem \u010ctvrtn\u00ed\u010dkem? Jestli ano, dejte Like ;) Wall Photos",
-          1368630008
-        ],
-        [
-          "\u017de by \u017eiv\u00e9 pivo postavilo na nohy i mrtv\u00e9ho? Co \u0159\u00edk\u00e1te na druh\u00fd d\u00edl po\u0159adu Na Podt\u00e1cku s Petrem \u010ctvrtn\u00ed\u010dkem? Na Podt\u00e1cku s P. \u010ctvrtn\u00ed\u010dkem: \u017div\u00e9 pivo Gambrinus p\u0159in\u00e1\u0161\u00ed druh\u00fd d\u00edl speci\u00e1ln\u00edho po\u0159adu pro piva\u0159e s Petrem \u010ctvrtn\u00ed\u010dkem Na Podt\u00e1cku. Tentokr\u00e1t o tom, co v\u0161e um\u00ed \u017eiv\u00e9 pivo Nepasterizovan\u00e9 G. Sledujte...",
-          1367584200
-        ],
-        [
-          "Vyhr\u00e1t sud piva? To jde jen se \u010ctvrtn\u00ed\u010dkem Na Podt\u00e1cku ;) Koukn\u011bte na video a sout\u011b\u017ete na www.napodtacku.cz Wall Photos",
-          1367243107
-        ],
-        [
-          "Prvn\u00ed d\u00edl Na Podt\u00e1cku, nov\u00e9ho pivn\u00edho po\u0159adu, je venku. A vy m\u016f\u017eete sout\u011b\u017eit a vyhr\u00e1t sud piva ;) Sta\u010d\u00ed po\u0159\u00e1dn\u011b koukat na video a pak j\u00edt na www.napodtacku.cz Na Podt\u00e1cku s P. \u010ctvrtn\u00ed\u010dkem: O \u010dem se chlapi bav\u00ed v hospod\u011b Nov\u00fd speci\u00e1ln\u00ed po\u0159ad pro piva\u0159e s Petrem \u010ctvrtn\u00ed\u010dkem p\u0159in\u00e1\u0161\u00ed Gambrinus. Tentokr\u00e1t o tom, o \u010dem se chlapi bav\u00ed v hospod\u011b. Nebo sp\u00ed\u0161 o \u010dem si na\u0161i \u0161\u00e9fov\u00e9, man\u017e...",
-          1366362002
-        ],
-        [
-          "Chcete vid\u011bt dal\u0161\u00ed \u010ctvrtn\u00ed\u010dkovy f\u00f3ry? Pus\u0165te si tyhle uk\u00e1zky, kter\u00fdmi l\u00e1k\u00e1 na z\u00edt\u0159ej\u0161\u00ed premi\u00e9ru nov\u00e9ho po\u0159adu Na Podt\u00e1cku na www.napodtacku.cz Sm\u011bjete se? Tak sd\u00edlejte. Na Podt\u00e1cku s P. \u010ctvrtn\u00ed\u010dkem - upout\u00e1vka \u010d. 1 Prvn\u00ed upout\u00e1vka po\u0159adu Na Podt\u00e1cku, kter\u00fd m\u016f\u017eete sledovat na www.napodtacku.cz Prvn\u00ed \u010desk\u00fd piva\u0159sk\u00fd po\u0159ad od Gambrinusu (www.facebook.com/Gambrinus.cz)",
-          1366293602
-        ],
-        [
-          "Nebudeme v\u00e1s d\u00e9le tr\u00e1pit. Nov\u00fd pivn\u00ed po\u0159ad Na Podt\u00e1cku bude moderovat Petr \u010ctvrtn\u00ed\u010dek. A nejen to ;) Prvn\u00ed d\u00edl bude za dva dny, ale vy, na\u0161i fanou\u0161ci, se na n\u011bj m\u016f\u017eete pod\u00edvat na www.facebook.com/Gambrinus.cz/app_505360962834248 u\u017e te\u010f. Sd\u00edlejte kamar\u00e1d\u016fm, a\u0165 se taky pobav\u00ed. Wall Photos",
-          1366200909
-        ]
-      ],
-      "dates_start": 1364693534,
-      "dates_end": 1383453693,
-      "likes_avg": 150,
-      "likes_stdev": 124,
-      "comments_avg": 9,
-      "comments_stdev": 9,
-      "shares_avg": 70,
-      "shares_stdev": 74
-    },
-    {
-      "number": 5,
-      "important": [
-        "l\u00edstki",
-        "na\u0161\u00ed",
-        "sout\u011b\u017e",
-        "bude",
-        "ceni",
-        "fotbalu",
-        "\u0161anci",
-        "z\u00e1pas",
-        "dal\u0161\u00ed",
-        "l\u00edstki na"
-      ],
-      "common": [
-        "l\u00edstky",
-        "l\u00edstky na",
-        "na",
-        "photos",
-        "pokud",
-        "se",
-        "timeline",
-        "timeline photos",
-        "vip",
-        "z\u00e1pas"
-      ],
-      "messages": [
-        [
-          "Takov\u00e9hle choreo vytvo\u0159il David Novotn\u00fd, velk\u00fd fanou\u0161ek fotbalu. A jak\u00e9 bude to tvoje? Vytvo\u0159 svoje vlastn\u00ed choreo a zapoj se do sout\u011b\u017ee o VIP l\u00edstky na z\u00e1pas \u010cesko-Turecko a o dal\u0161\u00ed ceny. Kdy naposledy jsi n\u011bco ud\u011blal pro \u010desk\u00fd n\u00e1ro\u010f\u00e1k? Te\u010f m\u00e1\u0161 \u0161anci! Vytvo\u0159 Choreo, oslav s na\u0161\u00ed reprezentac\u00ed postup v posledn\u00edm dom\u00e1c\u00edm z\u00e1pase a z\u00fa\u010dastni se sout\u011b\u017ee o VIP l\u00edstky na z\u00e1pas \u010cR-Turecko.",
-          1442411700
-        ],
-        [
-          "Fotbalisty \u010dek\u00e1 na EURO je\u0161t\u011b trnit\u00e1 cesta. Podpo\u0159te v posledn\u00edm dom\u00e1c\u00edm z\u00e1pase \u010deskou reprezentaci, kluci budou va\u0161i pomoc opravdu pot\u0159ebovat! Jste ochotn\u00ed ud\u011blat pro n\u00e1ro\u010f\u00e1k n\u011bco nav\u00edc?  \n \nVytvo\u0159 choreo pro z\u00e1pas s Tureckem a vyhraj 2 VIP l\u00edstky: www.gambrinus.cz/choreo",
-          1440489001
-        ],
-        [
-          "Nem\u00e1te l\u00edstky na z\u00e1pas s Islandem? Tak p\u0159ij\u010fte v ned\u011bli do na\u0161\u00ed fanz\u00f3ny na n\u00e1dvo\u0159\u00ed plze\u0148sk\u00e9ho pivovaru. Budeme z\u00e1pas sledovat na opravdu velik\u00e9m pl\u00e1tn\u011b a u\u017e v 18 hodin za\u010d\u00edn\u00e1 z\u00e1bavn\u00fd doprovodn\u00fd program. Vstup zdarma! Timeline Photos",
-          1415895670
-        ],
-        [
-          "V Tesku te\u010f za 5 piv Gambrinus Origin\u00e1l 10 m\u016f\u017eete vyhr\u00e1t l\u00edstky na z\u00e1pas Synot ligy nebo podepsan\u00fd dres! V\u00edce na www.gambrinus.cz/tesco. Timeline Photos",
-          1410962410
-        ],
-        [
-          "P\u0159\u00e1tel\u00e1ky sice dopadly v\u0161elijak, ale ta prav\u00e1 zkou\u0161ka p\u0159ijde v \u00fater\u00fd proti Nizozemc\u016fm. Pokud chcete na\u0161im fandit p\u0159\u00edmo na m\u00edst\u011b, odpov\u011bzte na ot\u00e1zku, kolikr\u00e1t se samostatn\u00e1 \u010cesk\u00e1 republika probojovala na fotbalov\u00e9 EURO? Ka\u017ed\u00e1 des\u00e1t\u00e1 spr\u00e1vn\u00e1 odpov\u011b\u010f z\u00edsk\u00e1v\u00e1 2 l\u00edstky na utk\u00e1n\u00ed \u010cR-Nizozemsko, celkem ocen\u00edme 10 v\u00fdherc\u016f. Timeline Photos",
-          1409834965
-        ],
-        [
-          "P\u0159in\u00e1\u0161\u00edme posledn\u00ed indicii, jej\u00ed\u017e rozlu\u0161t\u011bn\u00ed v\u00e1m zajist\u00ed VIP vstup na leto\u0161n\u00ed Ben\u00e1tskou! Pozn\u00e1te z obr\u00e1zkov\u00e9 indicie, o co se jedn\u00e1? Pokud si nev\u00edte rady, mrkn\u011bte na indicie, kter\u00e9 jsme v\u00e1m odhalili v uplynul\u00fdch dnech. A pokud u\u017e v\u00edte spr\u00e1vnou odpov\u011b\u010f, hlavn\u011b nenapov\u00eddejte, nepi\u0161te ji do mailu\u030a ani koment\u00e1\u0159\u016f\u030a, ale po\u0161lete n\u00e1m ji prost\u0159ednictv\u00edm zpr\u00e1vy tady na profilu. Vyhr\u00e1vaj\u00ed prvn\u00ed t\u0159i spr\u00e1vn\u00e9 odpov\u011bdi. Timeline Photos",
-          1405612800
-        ],
-        [
-          "Sout\u011b\u017e\u00edme o 3 \u00d7 2 VIP l\u00edstky na festival Ben\u00e1tsk\u00e1 noc (OFFICIAL)! Sou\u010d\u00e1st\u00ed je vstup do VIP z\u00f3ny a backstage a setk\u00e1n\u00ed s n\u011bkterou z kapel. Uh\u00e1dnete z indicie, o co se jedn\u00e1? Pokud jste si jist\u00ed spr\u00e1vnou odpov\u011bd\u00ed, po\u0161lete n\u00e1m ji prost\u0159ednictv\u00edm zpr\u00e1v tady na profilu. Pro t\u0159i nejrychlej\u0161\u00ed v\u00fdhra jist\u00e1! Timeline Photos",
-          1405526401
-        ],
-        [
-          "Dal\u0161\u00ed indicie je tady a s n\u00ed sout\u011b\u017e o 3 \u00d7 2 VIP l\u00edstky na Ben\u00e1tskou! a mo\u017enost pod\u00edvat se do backstage a setkat se s n\u011bkterou z kapel. Uh\u00e1dnete z obr\u00e1zkov\u00e9 n\u00e1pov\u011bdy, o co se jedn\u00e1? A pokud nev\u00edte, t\u0159eba v\u00e1m pom\u016f\u017ee v\u010derej\u0161\u00ed indicie, kterou naleznete v historii. A pokud naopak ji\u017e v\u00edte, po\u0161lete n\u00e1m odpov\u011b\u010f tady do zpr\u00e1v. T\u0159i nejrychlej\u0161\u00ed vyhr\u00e1vaj\u00ed! Timeline Photos",
-          1405440001
-        ],
-        [
-          "Sout\u011b\u017ete s n\u00e1mi o 3 \u00d7 2 VIP l\u00edstky na festival Ben\u00e1tsk\u00e1 noc (OFFICIAL)! Krom\u011b pohodl\u00ed VIP z\u00f3ny za\u017eijete taky festivalovou backstage a setk\u00e1te se s n\u011bkterou z kapel. Od te\u010f a\u017e do \u010dtvrtka v\u00e1m ka\u017ed\u00fd den uk\u00e1\u017eeme jednu indicii, kter\u00e1 v\u00e1m pom\u016f\u017ee ke spr\u00e1vn\u00e9 odpov\u011bdi. Pokud si budete jisti odpov\u011bd\u00ed, hlavn\u011b\u030c nenapov\u00eddejte, nepi\u0161te ji do mailu\u030a ani koment\u00e1\u0159\u016f\u030a, ale po\u0161lete n\u00e1m ji prost\u0159ednictv\u00edm zpr\u00e1v tady na Facebooku. T\u0159i nejrychlej\u0161\u00ed vyhr\u00e1vaj\u00ed. Timeline Photos",
-          1405353601
-        ],
-        [
-          "M\u00e1\u0161 chu\u0165 vyrazit v p\u00e1tek 15. listopadu do Olomouce na p\u0159\u00e1telsk\u00fd z\u00e1pas \u010cesko \u2013 Kanada? Cel\u00fd tento v\u00edkend m\u016f\u017ee\u0161 hr\u00e1t na www.gambrinusteam.cz o l\u00edstky pro 2! Timeline Photos",
-          1383922804
-        ],
-        [
-          "Krom\u011b Jam Rocku budeme i na dal\u0161\u00edch festivalech a vy si na www.gambrinusteam.cz m\u016f\u017eete koupit l\u00edstky na n\u011b. Nev\u00e1hejte a p\u0159ije\u010fte za n\u00e1mi na fes\u0165\u00e1k. Timeline Photos",
-          1372521604
-        ],
-        [
-          "Na str\u00e1nk\u00e1ch Gambrinus teamu nyn\u00ed hrajeme o l\u00edstky na dobro\u010dinn\u00fd koncert T\u0159\u00ed Sester v Praze! \r\nNev\u00e1hej a zkus \u0161t\u011bst\u00ed i ty! Timeline Photos",
-          1358935682
-        ],
-        [
-          "Jste z Plzn\u011b a okol\u00ed? Chcete spole\u010dn\u011b s fotbalov\u00fdmi reprezentanty uva\u0159it pivo Gambrinus a je\u0161t\u011b z\u00edskat l\u00edstky na z\u00e1pas \u010cR - Ma\u010farsko? Nyn\u00ed m\u00e1te jedine\u010dnou \u0161anci! SOUT\u011a\u017d: Sta\u0148te se sl\u00e1dkem po boku fotbalov\u00fdch reprezentant\u016f Potkejte p\u0159i va\u0159en\u00ed piva Milana Petr\u017eelu, Davida Limbersk\u00e9ho, Ji\u0159\u00edho \u0160tajnera, Theodora Gebre Selassieho a Davida Lafatu.",
-          1334907752
-        ]
-      ],
-      "dates_start": 1370335017,
-      "dates_end": 1428405657,
-      "likes_avg": 103,
-      "likes_stdev": 142,
-      "comments_avg": 25,
-      "comments_stdev": 53,
-      "shares_avg": 6,
-      "shares_stdev": 10
-    },
-    {
-      "number": 6,
-      "important": [
-        "jedno",
-        "mezi",
-        "na",
-        "byl",
-        "ale",
-        "co",
+        "den",
+        "gambrinus",
+        "gambrinus teamem",
+        "gambrinusteam",
+        "hrajeme",
         "nebo",
-        "dneska",
-        "m\u00e1me",
-        "si"
-      ],
-      "common": [
-        "co",
-        "dneska",
-        "na",
-        "photos",
-        "se",
-        "tak",
-        "timeline",
-        "timeline photos",
-        "wall",
-        "wall photos"
+        "super",
+        "teamem",
+        "www",
+        "www gambrinusteam"
       ],
       "messages": [
         [
-          "Ot\u00e1zka zn\u00ed: jdete dneska na jedno, nebo na dv\u011b? ;) Timeline Photos",
-          1385132408
+          "Nezme\u0161kej super \u0161anci se s Gambrinus teamem vybavit na zimn\u00ed sez\u00f3nu! Tento m\u011bs\u00edc hrajeme ka\u017ed\u00fd den o skv\u011bl\u00e9 d\u00e1rky K2, tak bu\u010f ve st\u0159ehu! Timeline Photos",
+          1351231231
         ],
         [
-          "V Gambrinus Fanlize m\u00e1me dneska 55 555 tren\u00e9r\u016f. T\u00edm jubilejn\u00edm byl Honza P., gratulujeme. Mo\u017en\u00e1 by si mezi v\u00e1mi mohla Viktorka vybrat n\u00e1stupce Pavla Vrby, co \u0159\u00edk\u00e1te :-) Timeline Photos",
-          1384972496
+          "Uz mate hudebni plany na leto? S Gambrinus teamem muzete vyrazit na super koncerty T\u0158I SESTRY GAMBRINUS TOUR 2012! Prvn\u00ed koncert je ji\u017e tuto sobotu! V e-shopu Gambrinus team jsme pro v\u00e1s vytvo\u0159ili novou sekci, tak ne\u010dekej a vym\u011b\u0148 si body za l\u00edstky pro dva! Timeline Photos",
+          1340166931
         ],
         [
-          "Tak co poznali jste v\u010dera, kdo bude pr\u016fvodcem prvn\u00edho \u010desk\u00e9ho video po\u0159adu o pivu? Ne? A co takhle? Wall Photos",
-          1366127107
+          "CHCES VE \u010cTVRTEK BYT U TOHO A PODPORIT V POLSKU CESKOU REPREZENTACI? Na www.gambrinusteam.cz hrajeme za kody z vicek Gambrinus o TRI LETECKE FOTBALOVE ZAJEZDY do Polska! Mas jedinecnou sanci, hrajeme dnes do pulnoci. Prvn\u00ed z\u00e1jezd pro 2 osoby m\u016f\u017ee\u0161 vyhr\u00e1t v denn\u00ed aukci, dal\u0161\u00ed dva z\u00e1jezdy pro 2 osoby pak ve h\u0159e Tref se a vyhraj za 30 bod\u016f! Sleduj web, v\u00fdhru nasad\u00edme b\u011bhem hodiny! Gambrinus team Sb\u00edrej k\u00f3dy ze sout\u011b\u017en\u00edch lahv\u00ed a plechovek piva Gambrinus a vyhr\u00e1vej po cel\u00fd rok! Zaregistruj se na www.gambrinusteam.cz a poje\u010f fandit \u010desk\u00e9 reprezentaci do Polska nebo hraj o dal\u0161\u00ed fotbalov\u00e9 superceny ka\u017ed\u00fd den!",
+          1340092353
         ],
         [
-          "Tak co mysl\u00edte, nastoup\u00ed dnes Rosick\u00fd? Dr\u017e\u00edme kluk\u016fm do Arm\u00e9nie palce. Wall Photos",
-          1364302810
+          "Dnes o p\u016flnoci jsme odstartovali novou letn\u00ed vlnu d\u00e1rk\u016f na www.gambrinusteam.cz! Hrajte s n\u00e1mi ka\u017ed\u00fd den t\u0159ebo o iPod nano 16 GB na super hodinkov\u00e9m p\u00e1sku! Timeline Photos",
+          1339919890
         ],
         [
-          "Tak co, d\u00e1me jim dneska? Wall Photos",
-          1363960810
+          "P\u0159ipom\u00edn\u00e1me, \u017ee st\u00e1le je\u0161t\u011b m\u00e1te \u0161anci z\u00edskat bonusov\u00e9 body do Gambrinus teamu, pokud se zaregistrujete s k\u00f3dem z tohoto videa.  Tak sm\u011ble do toho, a\u0165 v\u00e1m to nikdo nevyfoukne!!!\n\nhttp://www.youtube.com/watch?v=hc2bDSqtluM&feature=plcp Chce\u0161 bonusov\u00e9 body do Gambrinus teamu? Vyhr\u00e1vej super d\u00e1rky pro sebe nebo k\u00e1mo\u0161e s Gambrinus teamem - pokud se na http://www.gambrinusteam.cz zaregistruje\u0161 nebo p\u0159ihl\u00e1s\u00ed\u0161 s k\u00f3dem z tohoto videa a ...",
+          1337858857
         ],
         [
-          "David Lafata dnes poprv\u00e9 nastoup\u00ed proti Jablonci za Spartu. Co mysl\u00edte, tref\u00ed se v rud\u00e9m dresu i tentokr\u00e1t? Wall Photos",
-          1362932105
+          "Na takovy triky potrebujes lepsi brusle? Tak hraj s nami kazdou stredu a sobotu o brusle K2 nebo si kup super slevy do eshopu K2! Staci jen stat se clenem gambrinus teamu a hrat! Prejeme super leto!  http://www.youtube.com/watch?v=Mn4ld3Z_w9M Teem - Inline Skate - Urban Tricks And Stunts When London office workers go home for the weekend, the city turns into a veritable playground for Rollerbladers. Skating every surface in sight, these guys ...",
+          1336730725
         ],
         [
-          "P\u0159ejede dneska Plze\u0148 i Fenerbahce Istanbul? Kde budete fandit? Wall Photos",
-          1362661203
+          "M\u00e1me l\u00edstky na p\u0159\u00edpravn\u00fd z\u00e1pas \u010desk\u00e9 fotbalov\u00e9 reprezentace proti Ma\u010farsku, kter\u00fd se hraje u\u017e 1. 6. v Praze na Letn\u00e9! Pr\u00e1v\u011b te\u010f je m\u016f\u017ee\u0161 pro sebe a k\u00e1mo\u0161e vyhr\u00e1t v sout\u011b\u017ei za 30 bod\u016f na www.gambrinusteam.cz! Ka\u017ed\u00fd den hrajeme taky o 2 fotbalov\u00e9 z\u00e1jezdy do Polska pro dva nebo v t\u00fdmov\u00e9 aukci pro celou parti\u010dku. P\u0159idej se k nam a vyhraj za v\u00ed\u010dka z Gabrinusu z\u00e1\u017eitky, na kter\u00e9 nezapomene\u0161! Gambrinus team Sb\u00edrej k\u00f3dy ze sout\u011b\u017en\u00edch lahv\u00ed a plechovek piva Gambrinus a vyhr\u00e1vej po cel\u00fd rok! Zaregistruj se na www.gambrinusteam.cz a poje\u010f fandit \u010desk\u00e9 reprezentaci do Polska nebo hraj o dal\u0161\u00ed fotbalov\u00e9 superceny ka\u017ed\u00fd den!",
+          1336543131
         ],
         [
-          "Tak co, m\u00e1te p\u0159ed sez\u00f3nou nab\u011bh\u00e1no jako ligov\u00ed fotbalisti? Timeline Photos",
-          1361121316
+          "Az konce dubna rozdavame kazdy den Xbox 360 + kinect. Vyuzijte jedinecnou prilezitost na www.gambrinusteam.cz a zapojte se do aukce! Gambrinus team Hraj s Gambrinus teamem ka\u017ed\u00fd den o skv\u011bl\u00e9 ceny. Sb\u00edrej k\u00f3dy ze sout\u011b\u017en\u00edch lahv\u00ed a plechovek piva Gambrinus a vyhr\u00e1vej po cel\u00fd rok! V denn\u00ed aukci hrajeme denn\u011b o Xbox 360 + Kinect a v ned\u011bli p\u0159\u00edd\u00e1v\u00e1me i smartphone. M\u016f\u017ee\u0161 zkusit \u0161t\u011bst\u00ed a vysout\u011b\u017eit si za 30 bod\u016f brusle K2, d\u00e1rky od Horsefeathers nebo...",
+          1334164287
         ],
         [
-          "A co oslav\u00edme dneska? Jednozna\u010dn\u011b p\u00e1tek! Timeline Photos",
-          1350048033
+          "Kamosi, dejte body dohromady a nadelte si zazitek na prani! Kiting, paintball, golf, rafty nebo indoor skydiving? Snizili jsme na tyden vstupne do tymove aukce, za 5 bodu muzest hrat i ty a tvi kamosi o tenhle super zazitky pro celou particku. Vic najdes na www.gambrinusteam.cz\n Gambrinus team Hraj s Gambrinus teamem ka\u017ed\u00fd den o skv\u011bl\u00e9 ceny. Sb\u00edrej k\u00f3dy ze sout\u011b\u017en\u00edch lahv\u00ed a plechovek piva Gambrinus a vyhr\u00e1vej po cel\u00fd rok! V denn\u00ed aukci hrajeme denn\u011b o Xbox 360 + Kinect a v ned\u011bli p\u0159\u00edd\u00e1v\u00e1me i smartphone. M\u016f\u017ee\u0161 zkusit \u0161t\u011bst\u00ed a vysout\u011b\u017eit si za 30 bod\u016f brusle K2, d\u00e1rky od Horsefeathers nebo...",
+          1333308939
         ],
         [
-          "Pochlubte se, co m\u00e1te rad\u011bji :) Timeline Photos",
-          1344605327
+          "Tak kone\u010dn\u011b jaro! Chce to nov\u00e9 brusle nebo \u0161ortky? Osv\u011b\u017ete se Gambrinusem a za kody z pod v\u00ed\u010dek vyhrajte jarn\u00ed v\u00fdbavu do Va\u0161eho \u0161atn\u00edku! S Horsfeathers pr\u00e1v\u011b ted hrajeme o trendy \u0161ortky a odpoledne nasazujeme do hry i super K2 brusle za 5 000! Nev\u00e1hejte a zad\u00e1vejte sv\u00e9 k\u00f3dy! Smr\u0161\u0165 d\u00e1rk\u016f prob\u00edh\u00e1 na www.gambrinusteam.cz! Gambrinus team Hraj s Gambrinus teamem ka\u017ed\u00fd den o skv\u011bl\u00e9 ceny. Sb\u00edrej k\u00f3dy ze sout\u011b\u017en\u00edch lahv\u00ed a plechovek piva Gambrinus a vyhr\u00e1vej po cel\u00fd rok! V denn\u00ed aukci hrajeme denn\u011b o Xbox 360 + Kinect a v ned\u011bli p\u0159\u00edd\u00e1v\u00e1me i smartphone. M\u016f\u017ee\u0161 zkusit \u0161t\u011bst\u00ed a vysout\u011b\u017eit si za 30 bod\u016f brusle K2, d\u00e1rky od Horsefeathers nebo...",
+          1332926223
         ],
         [
-          "Co se stane 7.srpna 2012? Napi\u0161te n\u00e1m sv\u016fj tip... Timeline Photos",
-          1343995834
+          "Super bonus pro v\u0161echny rychl\u00edky - zaregistruj se nebo p\u0159ihlas na www.gambrinusteam.cz s k\u00f3dem, kter\u00fd najde\u0161 v tomhle videu - kdy\u017e bude\u0161 mezi nejrychlej\u0161\u00ed tis\u00edcovkou, m\u00e1\u0161 15 bonusov\u00fdch bod\u016f v kapse! Chce\u0161 bonusov\u00e9 body do Gambrinus teamu? Vyhr\u00e1vej super d\u00e1rky pro sebe nebo k\u00e1mo\u0161e s Gambrinus teamem - pokud se na www.gambrinusteam.cz zaregistruje\u0161 nebo p\u0159ihl\u00e1s\u00ed\u0161 s k\u00f3dem z tohoto videa a bude\u0161 m...",
+          1332845483
         ],
         [
-          "Koho dneska podpo\u0159\u00edte v duelu: After Hours, nebo UnderGaters? V p\u0159est\u00e1vk\u00e1ch nezapome\u0148te na prvn\u00ed kvalifikaci na Mistrovstv\u00ed \u010cR v dr\u017een\u00ed tupl\u00e1k\u016f na \u010das. V\u00edt\u011bz si odnese karton piva, ale hlavn\u011b postupuje do semifin\u00e1lov\u00fdch souboj\u016f na Pilsner Festu. Timeline Photos",
-          1340866429
+          "Dali jste si o vikendu nebo k obedu pivo Gambrinus? Mrknete pod vicko a hrajte s Gambrinus teamem o skv\u011bl\u00e9 ceny! V e-shopu rozdavame kazdy den skvele Gambrinus pivni a fotbalove darky! Nove pulltiry, podtacky, otvirak nebo je-libo listky na zapasy Gambrinus ligy? Sbirej kody z pod v\u00ed\u010dek sout\u011b\u017en\u00edch balen\u00ed a nad\u011bl si d\u00e1rky t\u0159eba hned! Gambrinus team Pozvi p\u0159\u00e1tele do t\u00fdmu! Pozvi do sv\u00e9ho t\u00fdmu v\u0161echny p\u0159\u00e1tele z Facebooku! Slo\u017ete svoje body, p\u0159iho\u010fte do t\u00fdmov\u00e9 aukce a hrajte o super ceny, kter\u00e9 si u\u017eijete spole\u010dn\u011b.",
+          1332790639
         ],
         [
-          "Excelentn\u00ed snowboardovou j\u00edzdu si m\u016f\u017eete vychutnat v \u010derstv\u00e9 sout\u011b\u017en\u00ed h\u0159e. Zvl\u00e1dnete sjet svah co nejrychleji a uko\u0159istit tak jednu z par\u00e1dn\u00edch cen?  ExcelentCZ eXcelent p\u0159in\u00e1\u0161\u00ed hudbu, sport, um\u011bn\u00ed, party. Pro ty, co se neboj\u00ed posouvat hranice. Pro ty, co jdou #posvyose.",
-          1330599846
+          "Kdy naposledy jsi vyrazil s k\u00e1mo\u0161ema na po\u0159\u00e1dnou party? S Gambrinus teamem m\u00e1\u0161 skv\u011blou p\u0159\u00edle\u017eitost vyhr\u00e1t pro sebe a sv\u00fdch 9 kamo\u0161\u016f party v pivovaru Gambrinus zdarma i s ubytov\u00e1n\u00edm v Plzni. Zapoj se do t\u00fdmov\u00e9 aukce na webu, pozvi k\u00e1mo\u0161e a p\u0159ihazujte spole\u010dn\u011b body do aukce! Kon\u010d\u00edme u\u017e za 7 dn\u00ed! Gambrinus team Hraj s Gambrinus teamem ka\u017ed\u00fd den o skv\u011bl\u00e9 ceny. Sb\u00edrej k\u00f3dy ze sout\u011b\u017en\u00edch lahv\u00ed a plechovek piva Gambrinus a vyhr\u00e1vej po cel\u00fd rok! V denn\u00ed aukci hrajeme denn\u011b o Xbox 360 + Kinect a v ned\u011bli p\u0159\u00edd\u00e1v\u00e1me i smartphone. M\u016f\u017ee\u0161 zkusit \u0161t\u011bst\u00ed a vysout\u011b\u017eit si za 30 bod\u016f brusle K2, d\u00e1rky od Horsefeathers nebo...",
+          1332621713
+        ],
+        [
+          "Vyu\u017eij \u0161anci vyhr\u00e1t s Gambrinus teamem skv\u011bl\u00fd smartphone! Aukce kon\u010d\u00ed o p\u016flnoci! Od p\u016flnoci hrajeme o Xbox 360 + Kinect. P\u0159ipoj se na www.gambrinusteam.cz a hraj denn\u011b o spoustu skv\u011bl\u00fdch cen pro sebe i sv\u00e9 k\u00e1mo\u0161e! Gambrinus team Pozvi p\u0159\u00e1tele do t\u00fdmu! Pozvi do sv\u00e9ho t\u00fdmu v\u0161echny p\u0159\u00e1tele z Facebooku! Slo\u017ete svoje body, p\u0159iho\u010fte do t\u00fdmov\u00e9 aukce a hrajte o super ceny, kter\u00e9 si u\u017eijete spole\u010dn\u011b.",
+          1332092219
+        ],
+        [
+          "Hraj denn\u011b o Xbox 360 + Kinect a spoustu dal\u0161\u00edch bomba cen jako inline brusle K2 nebo zna\u010dkov\u00e9 v\u011bci od Horsefeathers pro sebe nebo k\u00e1mo\u0161e. P\u0159ipoj se na www.gambrinusteam.cz a za\u010dni vyhr\u00e1vat! Gambrinus Vyhraj bomba d\u00e1rky od Gamb\u00e1\u010de pro sebe nebo k\u00e1mo\u0161e - p\u0159ipoj se na www.gambrinusteam.cz!",
+          1331810086
         ]
       ],
-      "dates_start": 1343022623,
-      "dates_end": 1374104411,
-      "likes_avg": 40,
-      "likes_stdev": 49,
-      "comments_avg": 10,
-      "comments_stdev": 12,
-      "shares_avg": 10,
-      "shares_stdev": 17
+      "dates_start": 1331383267,
+      "dates_end": 1341297093,
+      "likes_avg": 6,
+      "likes_stdev": 4,
+      "comments_avg": 4,
+      "comments_stdev": 5,
+      "shares_avg": 2,
+      "shares_stdev": 1
     },
     {
-      "number": 7,
+      "number": 3,
       "important": [
+        "tak\u00e9",
+        "nov\u00fd",
         "mezi",
-        "se na",
-        "dev\u00e1tou",
+        "gambrinus",
+        "zdarma",
         "wall",
         "pod\u00edvejt",
-        "zdarma",
-        "tak\u00e9",
+        "dev\u00e1tou",
         "dnes",
-        "nepasterizovan\u00e9 zdarma",
-        "si"
+        "nepasterizovan\u00e9 zdarma"
       ],
       "common": [
+        "dev\u00e1tou",
         "dnes",
         "mezi",
-        "na",
+        "nepasterizovaneg",
         "nepasterizovan\u00e9",
         "nepasterizovan\u00e9 zdarma",
-        "photos",
-        "si",
         "wall",
-        "wall photos",
+        "www",
+        "www nepasterizovaneg",
         "zdarma"
       ],
       "messages": [
@@ -593,333 +277,670 @@
       "shares_stdev": 1
     },
     {
-      "number": 8,
+      "number": 4,
       "important": [
-        "mezi",
-        "a\u0165",
-        "pozor",
+        "ale",
+        "vy",
+        "gambrinus",
+        "wall",
+        "gambrinusem",
+        "den",
+        "photo",
+        "dnes",
         "v\u00e1s",
-        "na\u0161i",
-        "le\u017e\u00e1k",
-        "pro v\u00e1s",
-        "n\u00e1\u0161",
-        "te\u010f",
-        "kdo"
+        "nezapome\u0148t"
       ],
       "common": [
-        "fanou\u0161ky",
-        "gambrinus",
-        "photos",
-        "pivo",
-        "pro",
-        "pro fanou\u0161ky",
-        "pro v\u00e1s",
-        "timeline",
-        "timeline photos",
-        "v\u00e1s"
-      ],
-      "messages": [
-        [
-          "Na\u0161i sl\u00e1dci um\u00ed v\u017edycky p\u0159ekvapit. Te\u010f pro v\u00e1s p\u0159ipravili skute\u010dn\u011b n\u011bco origin\u00e1ln\u00edho. Bu\u010fte mezi prvn\u00edmi, kdo n\u00e1\u0161 le\u017e\u00e1k ochutn\u00e1. \n\nD\u00e1vejte pozor, a\u0165 ho nepro\u0161vihnete.\n\nhttp://www.sladcinachmelu.cz/ Timeline Photos",
-          1430742601
-        ],
-        [
-          "Uh\u00e1dnete, co pro v\u00e1s chyst\u00e1me? ;) Timeline Photos",
-          1379581206
-        ],
-        [
-          "U\u017e z\u00edtra pro v\u00e1s spust\u00edme zbrusu novou sout\u011b\u017e s Nepasterizovan\u00fdm G - Bublinkom\u00e1nii!\nSlibujeme, \u017ee se m\u00e1te na co t\u011b\u0161it ;) Timeline Photos",
-          1378306817
-        ],
-        [
-          "M\u00e1me pro V\u00e1s super novinku! Nepasterizovan\u00e9 G u\u017e se skv\u00ed ve vybran\u00fdch hospod\u00e1ch (www.nepasterizovaneg.cz). Ide\u00e1ln\u00ed osv\u011b\u017een\u00ed po n\u00e1ro\u010dn\u00e9m p\u00e1tku, rychle vyrazte, a\u0165 si m\u016f\u017eete u\u017e\u00edt jeho sv\u011b\u017e\u00ed chu\u0165. Gambrinus Nepasterizovan\u00e9 G",
-          1362754733
-        ],
-        [
-          "Pro p\u0159ipomenut\u00ed v\u00fdsledk\u016f 17. kola Gambrinus ligy jsme pro v\u00e1s p\u0159ipravili grafiku. Kter\u00fd v\u00fdsledek v\u00e1s nejv\u00edce p\u0159ekvapil? Timeline Photos",
-          1361880665
-        ],
-        [
-          "Je p\u00e1tek, do konce pracovn\u00ed doby zb\u00fdv\u00e1 u\u017e jen chvilka a \u010das se vylo\u017een\u011b vle\u010de\u2026 A proto tu m\u00e1me pro v\u00e1s d\u00e1rek, u\u017eijte si ho! Timeline Photos",
-          1358514601
-        ],
-        [
-          "Gambrinus Excelent, trojit\u011b chmelen\u00fd br\u00e1\u0161ka G. origin\u00e1l, m\u00e1 pro v\u00e1s nev\u00eddanou hudebn\u00ed aplikaci. POPRV\u00c9 NA FACEBOOKU SI M\u016e\u017dETE SLO\u017dIT SONG a vytvo\u0159it k n\u011bmu light show a vizualizaci z vlastn\u00edch fotek. Je\u017e\u00ed\u0161ek tam p\u0159isp\u011bl iPhone 5, sluch\u00e1tky, gramofony a spoustou dal\u0161\u00edch cen..\u266a http://apps.facebook.com/excelent-song/ Timeline Photos",
-          1355322799
-        ],
-        [
-          "GambrinusTeam pro v\u00e1s p\u0159ipravil tis\u00edce litr\u016f piva! \r\nKupuj i ty na http://www.gambrinusteam.cz/eshop Timeline Photos",
-          1350370747
-        ],
-        [
-          "Na dne\u0161ek jsme si pro v\u00e1s p\u0159ipravili malou h\u00e1danku! Tak schv\u00e1ln\u011b, kdo se tref\u00ed jako prvn\u00ed? :) Timeline Photos",
-          1346167019
-        ],
-        [
-          "Varn\u00ed list V\u00e1rka pro Pilsner Fest 2012",
-          1343036281
-        ],
-        [
-          "Fotbalisti p\u0159ed m\u011bs\u00edcem zalo\u017eili v\u00e1rku piva pro fanou\u0161ky. Dnes v hotelu Praha ochutnali sv\u00e9 d\u00edlo a podepsali ceny, kter\u00e9 Gambrinus pl\u00e1nuje d\u00e1t do chystan\u00e9 sout\u011b\u017ee. Reprezentace ochutnala pivo pro fanou\u0161ky",
-          1338388606
-        ],
-        [
-          "Sout\u011b\u017e o par\u00e1dn\u00ed ceny je v pln\u00e9m proudu. Nav\u00edc m\u016f\u017eete pojmenovat nov\u00e9 pivo Gambrinus pro sportovn\u00ed fanou\u0161ky, kter\u00e9 se bude to\u010dit t\u0159eba na fotbalov\u00fdch stadionech. A dokonce se m\u016f\u017eete z\u00fa\u010dastnit akce, kde vyberete chu\u0165 nov\u00e9ho piva.  Pojmenuj pivo pro fanou\u0161ky! Pojmenuj pivo pro fanou\u0161ky a hraj o jednu z unik\u00e1tn\u00edch cen!",
-          1338222868
-        ],
-        [
-          "Chyst\u00e1me nov\u00e9 pivo a ty m\u00e1\u0161 \u0161anci mu d\u00e1t jm\u00e9no! Nav\u00edc m\u016f\u017ee\u0161 vyhr\u00e1t super fotbalov\u00e9 ceny a dokonce mo\u017enost zvolit chu\u0165 piva, kter\u00e9 bude ur\u010den\u00e9 pro sportovn\u00ed fanou\u0161ky. Tak co, jak\u00e9 jm\u00e9no vymysl\u00ed\u0161? Pojmenuj pivo pro fanou\u0161ky! Pojmenuj pivo pro fanou\u0161ky a hraj o jednu z unik\u00e1tn\u00edch cen!",
-          1337955380
-        ],
-        [
-          "Fanou\u0161ci s fotbalov\u00fdmi reprezentanty zalo\u017eili v\u00e1rku piva, kter\u00e1 bude hotov\u00e1 akor\u00e1t p\u0159ed mistrovstv\u00edm Evropy. Snad budeme m\u00edt b\u011bhem Eura hodn\u011b d\u016fvod\u016f k p\u0159\u00edpitk\u016fm. Reprezentanti va\u0159ili pivo Gambrinus pro fanou\u0161ky Reprezentanti Ji\u0159\u00ed \u0160tajner, Milan Petr\u017eela, David Limbersk\u00fd, Theodor Gebre Selassie a David Lafata va\u0159ili v Plzni pivo Gambrinus Origin\u00e1l 10\u00b0 pro fanou\u0161ky reprezentace.",
-          1335345274
-        ],
-        [
-          "Neriskujte \u0159idi\u010d\u00e1k, vyu\u017eijte novou alkula\u010dku Promile.info pro chytr\u00e9 telefony\nhttp://www.napivosrozumem.cz/mobilnialkulacka-promileinfo.html \n Alkula\u010dka Promile.info pro iPhone a Android - napivosrozumem.cz",
-          1326129112
-        ]
-      ],
-      "dates_start": 1331289830,
-      "dates_end": 1381072663,
-      "likes_avg": 38,
-      "likes_stdev": 47,
-      "comments_avg": 8,
-      "comments_stdev": 12,
-      "shares_avg": 6,
-      "shares_stdev": 6
-    },
-    {
-      "number": 9,
-      "important": [
-        "b\u00fdt",
-        "na",
-        "a\u017e",
-        "ka\u017ed\u00fd",
-        "ve\u010der",
-        "piva gambrinus",
-        "den",
         "co",
-        "dneska",
-        "dejt"
-      ],
-      "common": [
-        "cz",
         "den",
+        "dnes",
         "gambrinus",
-        "gambrinusteam cz",
-        "na",
-        "nebo",
-        "se",
-        "www",
-        "www gambrinusteam",
-        "za"
+        "mysl\u00edte",
+        "m\u016f\u017eete",
+        "tak",
+        "tak co",
+        "wall",
+        "www"
       ],
       "messages": [
         [
-          "Chlapi! Povinnost vol\u00e1! Dneska ve\u010der si dejte \u010derstv\u00fd tankov\u00fd Gamb\u00e1\u010d! Na Podt\u00e1cku s P. \u010ctvrtn\u00ed\u010dkem: Tankov\u00e9 pivo Dneska se pod\u00edv\u00e1me na ou\u0161ko tankov\u00e9mu pivu. Proto\u017ee tankov\u00fd Gamb\u00e1\u010d mus\u00ed b\u00fdt co? \u010cerstv\u00fd!\nA nezapome\u0148te, \u017ee na http://www.napodtacku.cz m\u016f\u017eete ka\u017ed\u00fd den a\u017e do 30.4. sout\u011b\u017eit o sud piva Gambrinus.",
-          1396011602
+          "Na Evropsk\u00fd den soused\u016f by si m\u011bli ka\u017ed\u00ed spr\u00e1vn\u00ed soused\u00e9 cinknout Gambrinusem! Jak vy vych\u00e1z\u00edte se sv\u00fdm sousedem? Wall Photos",
+          1369915205
         ],
         [
-          "P\u0159iprav se na fotbalovou st\u0159edu a utkej se o dvoudenn\u00ed leteck\u00fd z\u00e1jezd s \u010deskou reprezentac\u00ed na z\u00e1pas proti Bulharsku! Za 5 bod\u016f m\u016f\u017ee\u0161 m\u00edt 2. \u0159\u00edjna v sout\u011b\u017ei s Gambrinus teamem v\u00fdhru doma! Timeline Photos",
-          1380470414
+          "Nezapome\u0148te dnes pop\u0159\u00e1t ke dni matek, ka\u017ed\u00e1 maminka si zaslou\u017e\u00ed po\u0159\u00e1dn\u00fd Gambrinus za to, jak se o v\u00e1s starala. Wall Photos",
+          1368367211
+        ],
+        [
+          "V Nov\u00e9 Vsi v Teplic\u00edch m\u016f\u017eete m\u00edt dnes mezi sedmou a osmou par\u00e1dn\u00ed Rozhled s Nepasterizovan\u00fdm G zdarma od na\u0161ich hostesek. T\u0159eba dohl\u00e9dnete a\u017e na Slovenskou ;) Wall Photos",
+          1368189927
+        ],
+        [
+          "Na konci v\u00e1lky byl n\u00e1\u0161 pivovar t\u00e9m\u011b\u0159 zni\u010den americk\u00fdm n\u00e1letem, p\u0159esto v\u0161ak Plze\u0148 pot\u00e9 nad\u0161en\u011b v\u00edtala americk\u00e9 osvoboditele. P\u0159ipome\u0148te si s n\u00e1mi dne\u0161n\u00ed v\u00fdznamn\u00fd den nad sklenic\u00ed piva Gambrinus. Wall Photos",
+          1368021608
+        ],
+        [
+          "Na fotbal s Gambrinusem? Jestli se v\u00e1m nechce kupovat l\u00edstky, vyu\u017eijte mo\u017enosti koupit si lupeny za body na www.gambrinusteam.cz Na jak\u00fd z\u00e1pas se tohle kolo chyst\u00e1te? Wall Photos",
+          1366637406
+        ],
+        [
+          "Tak co poznali jste v\u010dera, kdo bude pr\u016fvodcem prvn\u00edho \u010desk\u00e9ho video po\u0159adu o pivu? Ne? A co takhle? Wall Photos",
+          1366127107
+        ],
+        [
+          "\u017de by n\u00e1\u0161 promo t\u00fdm fandil se\u0161\u00edvk\u00e1m v Plzni? Vypad\u00e1 to tak alespo\u0148 podle n\u00e1zvu pivnice, ve kter\u00e9 je dnes od osmi hodin najdete. Bl\u00edzko je Borsk\u00fd park a \u010cesk\u00e9 \u00fadol\u00ed. Vyhledat si pivnici m\u016f\u017eete t\u0159eba na www.nepasterizovaneG.cz. Wall Photos",
+          1364558475
+        ],
+        [
+          "Tak co mysl\u00edte, nastoup\u00ed dnes Rosick\u00fd? Dr\u017e\u00edme kluk\u016fm do Arm\u00e9nie palce. Wall Photos",
+          1364302810
+        ],
+        [
+          "Tak co, d\u00e1me jim dneska? Wall Photos",
+          1363960810
+        ],
+        [
+          "Moravsk\u00e9 derby Olomouc - Ostrava dnes ve\u010der v Gambrinus lize. Kdo d\u00e1 g\u00f3l, Ordo\u0161 nebo Baro\u0161? Wall Photos",
+          1363353306
         ],
         [
           "T\u011b\u0161\u00edte se na z\u00e1pas \u010cesko - D\u00e1nsko? Na www.gambrinusteam.cz m\u016f\u017eete ka\u017ed\u00fd den vyhr\u00e1t p\u00e1r vstupenek. Mysl\u00edte, \u017ee D\u00e1ny poraz\u00edme? Wall Photos",
           1363010409
         ],
         [
-          "Nezme\u0161kej super \u0161anci se s Gambrinus teamem vybavit na zimn\u00ed sez\u00f3nu! Tento m\u011bs\u00edc hrajeme ka\u017ed\u00fd den o skv\u011bl\u00e9 d\u00e1rky K2, tak bu\u010f ve st\u0159ehu! Timeline Photos",
-          1351231231
+          "David Lafata dnes poprv\u00e9 nastoup\u00ed proti Jablonci za Spartu. Co mysl\u00edte, tref\u00ed se v rud\u00e9m dresu i tentokr\u00e1t? Wall Photos",
+          1362932105
         ],
         [
-          "Uz mate hudebni plany na leto? S Gambrinus teamem muzete vyrazit na super koncerty T\u0158I SESTRY GAMBRINUS TOUR 2012! Prvn\u00ed koncert je ji\u017e tuto sobotu! V e-shopu Gambrinus team jsme pro v\u00e1s vytvo\u0159ili novou sekci, tak ne\u010dekej a vym\u011b\u0148 si body za l\u00edstky pro dva! Timeline Photos",
-          1340166931
-        ],
-        [
-          "CHCES VE \u010cTVRTEK BYT U TOHO A PODPORIT V POLSKU CESKOU REPREZENTACI? Na www.gambrinusteam.cz hrajeme za kody z vicek Gambrinus o TRI LETECKE FOTBALOVE ZAJEZDY do Polska! Mas jedinecnou sanci, hrajeme dnes do pulnoci. Prvn\u00ed z\u00e1jezd pro 2 osoby m\u016f\u017ee\u0161 vyhr\u00e1t v denn\u00ed aukci, dal\u0161\u00ed dva z\u00e1jezdy pro 2 osoby pak ve h\u0159e Tref se a vyhraj za 30 bod\u016f! Sleduj web, v\u00fdhru nasad\u00edme b\u011bhem hodiny! Gambrinus team Sb\u00edrej k\u00f3dy ze sout\u011b\u017en\u00edch lahv\u00ed a plechovek piva Gambrinus a vyhr\u00e1vej po cel\u00fd rok! Zaregistruj se na www.gambrinusteam.cz a poje\u010f fandit \u010desk\u00e9 reprezentaci do Polska nebo hraj o dal\u0161\u00ed fotbalov\u00e9 superceny ka\u017ed\u00fd den!",
-          1340092353
-        ],
-        [
-          "Dnes o p\u016flnoci jsme odstartovali novou letn\u00ed vlnu d\u00e1rk\u016f na www.gambrinusteam.cz! Hrajte s n\u00e1mi ka\u017ed\u00fd den t\u0159ebo o iPod nano 16 GB na super hodinkov\u00e9m p\u00e1sku! Timeline Photos",
-          1339919890
-        ],
-        [
-          "P\u0159ipom\u00edn\u00e1me, \u017ee st\u00e1le je\u0161t\u011b m\u00e1te \u0161anci z\u00edskat bonusov\u00e9 body do Gambrinus teamu, pokud se zaregistrujete s k\u00f3dem z tohoto videa.  Tak sm\u011ble do toho, a\u0165 v\u00e1m to nikdo nevyfoukne!!!\n\nhttp://www.youtube.com/watch?v=hc2bDSqtluM&feature=plcp Chce\u0161 bonusov\u00e9 body do Gambrinus teamu? Vyhr\u00e1vej super d\u00e1rky pro sebe nebo k\u00e1mo\u0161e s Gambrinus teamem - pokud se na http://www.gambrinusteam.cz zaregistruje\u0161 nebo p\u0159ihl\u00e1s\u00ed\u0161 s k\u00f3dem z tohoto videa a ...",
-          1337858857
-        ],
-        [
-          "M\u00e1me l\u00edstky na p\u0159\u00edpravn\u00fd z\u00e1pas \u010desk\u00e9 fotbalov\u00e9 reprezentace proti Ma\u010farsku, kter\u00fd se hraje u\u017e 1. 6. v Praze na Letn\u00e9! Pr\u00e1v\u011b te\u010f je m\u016f\u017ee\u0161 pro sebe a k\u00e1mo\u0161e vyhr\u00e1t v sout\u011b\u017ei za 30 bod\u016f na www.gambrinusteam.cz! Ka\u017ed\u00fd den hrajeme taky o 2 fotbalov\u00e9 z\u00e1jezdy do Polska pro dva nebo v t\u00fdmov\u00e9 aukci pro celou parti\u010dku. P\u0159idej se k nam a vyhraj za v\u00ed\u010dka z Gabrinusu z\u00e1\u017eitky, na kter\u00e9 nezapomene\u0161! Gambrinus team Sb\u00edrej k\u00f3dy ze sout\u011b\u017en\u00edch lahv\u00ed a plechovek piva Gambrinus a vyhr\u00e1vej po cel\u00fd rok! Zaregistruj se na www.gambrinusteam.cz a poje\u010f fandit \u010desk\u00e9 reprezentaci do Polska nebo hraj o dal\u0161\u00ed fotbalov\u00e9 superceny ka\u017ed\u00fd den!",
-          1336543131
-        ],
-        [
-          "Az konce dubna rozdavame kazdy den Xbox 360 + kinect. Vyuzijte jedinecnou prilezitost na www.gambrinusteam.cz a zapojte se do aukce! Gambrinus team Hraj s Gambrinus teamem ka\u017ed\u00fd den o skv\u011bl\u00e9 ceny. Sb\u00edrej k\u00f3dy ze sout\u011b\u017en\u00edch lahv\u00ed a plechovek piva Gambrinus a vyhr\u00e1vej po cel\u00fd rok! V denn\u00ed aukci hrajeme denn\u011b o Xbox 360 + Kinect a v ned\u011bli p\u0159\u00edd\u00e1v\u00e1me i smartphone. M\u016f\u017ee\u0161 zkusit \u0161t\u011bst\u00ed a vysout\u011b\u017eit si za 30 bod\u016f brusle K2, d\u00e1rky od Horsefeathers nebo...",
-          1334164287
-        ],
-        [
-          "Kamosi, dejte body dohromady a nadelte si zazitek na prani! Kiting, paintball, golf, rafty nebo indoor skydiving? Snizili jsme na tyden vstupne do tymove aukce, za 5 bodu muzest hrat i ty a tvi kamosi o tenhle super zazitky pro celou particku. Vic najdes na www.gambrinusteam.cz\n Gambrinus team Hraj s Gambrinus teamem ka\u017ed\u00fd den o skv\u011bl\u00e9 ceny. Sb\u00edrej k\u00f3dy ze sout\u011b\u017en\u00edch lahv\u00ed a plechovek piva Gambrinus a vyhr\u00e1vej po cel\u00fd rok! V denn\u00ed aukci hrajeme denn\u011b o Xbox 360 + Kinect a v ned\u011bli p\u0159\u00edd\u00e1v\u00e1me i smartphone. M\u016f\u017ee\u0161 zkusit \u0161t\u011bst\u00ed a vysout\u011b\u017eit si za 30 bod\u016f brusle K2, d\u00e1rky od Horsefeathers nebo...",
-          1333308939
-        ],
-        [
-          "Tak kone\u010dn\u011b jaro! Chce to nov\u00e9 brusle nebo \u0161ortky? Osv\u011b\u017ete se Gambrinusem a za kody z pod v\u00ed\u010dek vyhrajte jarn\u00ed v\u00fdbavu do Va\u0161eho \u0161atn\u00edku! S Horsfeathers pr\u00e1v\u011b ted hrajeme o trendy \u0161ortky a odpoledne nasazujeme do hry i super K2 brusle za 5 000! Nev\u00e1hejte a zad\u00e1vejte sv\u00e9 k\u00f3dy! Smr\u0161\u0165 d\u00e1rk\u016f prob\u00edh\u00e1 na www.gambrinusteam.cz! Gambrinus team Hraj s Gambrinus teamem ka\u017ed\u00fd den o skv\u011bl\u00e9 ceny. Sb\u00edrej k\u00f3dy ze sout\u011b\u017en\u00edch lahv\u00ed a plechovek piva Gambrinus a vyhr\u00e1vej po cel\u00fd rok! V denn\u00ed aukci hrajeme denn\u011b o Xbox 360 + Kinect a v ned\u011bli p\u0159\u00edd\u00e1v\u00e1me i smartphone. M\u016f\u017ee\u0161 zkusit \u0161t\u011bst\u00ed a vysout\u011b\u017eit si za 30 bod\u016f brusle K2, d\u00e1rky od Horsefeathers nebo...",
-          1332926223
-        ],
-        [
-          "Super bonus pro v\u0161echny rychl\u00edky - zaregistruj se nebo p\u0159ihlas na www.gambrinusteam.cz s k\u00f3dem, kter\u00fd najde\u0161 v tomhle videu - kdy\u017e bude\u0161 mezi nejrychlej\u0161\u00ed tis\u00edcovkou, m\u00e1\u0161 15 bonusov\u00fdch bod\u016f v kapse! Chce\u0161 bonusov\u00e9 body do Gambrinus teamu? Vyhr\u00e1vej super d\u00e1rky pro sebe nebo k\u00e1mo\u0161e s Gambrinus teamem - pokud se na www.gambrinusteam.cz zaregistruje\u0161 nebo p\u0159ihl\u00e1s\u00ed\u0161 s k\u00f3dem z tohoto videa a bude\u0161 m...",
-          1332845483
-        ],
-        [
-          "Dali jste si o vikendu nebo k obedu pivo Gambrinus? Mrknete pod vicko a hrajte s Gambrinus teamem o skv\u011bl\u00e9 ceny! V e-shopu rozdavame kazdy den skvele Gambrinus pivni a fotbalove darky! Nove pulltiry, podtacky, otvirak nebo je-libo listky na zapasy Gambrinus ligy? Sbirej kody z pod v\u00ed\u010dek sout\u011b\u017en\u00edch balen\u00ed a nad\u011bl si d\u00e1rky t\u0159eba hned! Gambrinus team Pozvi p\u0159\u00e1tele do t\u00fdmu! Pozvi do sv\u00e9ho t\u00fdmu v\u0161echny p\u0159\u00e1tele z Facebooku! Slo\u017ete svoje body, p\u0159iho\u010fte do t\u00fdmov\u00e9 aukce a hrajte o super ceny, kter\u00e9 si u\u017eijete spole\u010dn\u011b.",
-          1332790639
-        ],
-        [
-          "Kdy naposledy jsi vyrazil s k\u00e1mo\u0161ema na po\u0159\u00e1dnou party? S Gambrinus teamem m\u00e1\u0161 skv\u011blou p\u0159\u00edle\u017eitost vyhr\u00e1t pro sebe a sv\u00fdch 9 kamo\u0161\u016f party v pivovaru Gambrinus zdarma i s ubytov\u00e1n\u00edm v Plzni. Zapoj se do t\u00fdmov\u00e9 aukce na webu, pozvi k\u00e1mo\u0161e a p\u0159ihazujte spole\u010dn\u011b body do aukce! Kon\u010d\u00edme u\u017e za 7 dn\u00ed! Gambrinus team Hraj s Gambrinus teamem ka\u017ed\u00fd den o skv\u011bl\u00e9 ceny. Sb\u00edrej k\u00f3dy ze sout\u011b\u017en\u00edch lahv\u00ed a plechovek piva Gambrinus a vyhr\u00e1vej po cel\u00fd rok! V denn\u00ed aukci hrajeme denn\u011b o Xbox 360 + Kinect a v ned\u011bli p\u0159\u00edd\u00e1v\u00e1me i smartphone. M\u016f\u017ee\u0161 zkusit \u0161t\u011bst\u00ed a vysout\u011b\u017eit si za 30 bod\u016f brusle K2, d\u00e1rky od Horsefeathers nebo...",
-          1332621713
-        ],
-        [
-          "Vyu\u017eij \u0161anci vyhr\u00e1t s Gambrinus teamem skv\u011bl\u00fd smartphone! Aukce kon\u010d\u00ed o p\u016flnoci! Od p\u016flnoci hrajeme o Xbox 360 + Kinect. P\u0159ipoj se na www.gambrinusteam.cz a hraj denn\u011b o spoustu skv\u011bl\u00fdch cen pro sebe i sv\u00e9 k\u00e1mo\u0161e! Gambrinus team Pozvi p\u0159\u00e1tele do t\u00fdmu! Pozvi do sv\u00e9ho t\u00fdmu v\u0161echny p\u0159\u00e1tele z Facebooku! Slo\u017ete svoje body, p\u0159iho\u010fte do t\u00fdmov\u00e9 aukce a hrajte o super ceny, kter\u00e9 si u\u017eijete spole\u010dn\u011b.",
-          1332092219
+          "P\u0159ejede dneska Plze\u0148 i Fenerbahce Istanbul? Kde budete fandit? Wall Photos",
+          1362661203
         ]
       ],
-      "dates_start": 1326323065,
-      "dates_end": 1363183724,
-      "likes_avg": 18,
-      "likes_stdev": 43,
-      "comments_avg": 5,
+      "dates_start": 1363169694,
+      "dates_end": 1367913010,
+      "likes_avg": 21,
+      "likes_stdev": 17,
+      "comments_avg": 4,
+      "comments_stdev": 4,
+      "shares_avg": 5,
+      "shares_stdev": 5
+    },
+    {
+      "number": 5,
+      "important": [
+        "\u017ee",
+        "timelin",
+        "ale",
+        "tadi",
+        "gambrinusem",
+        "photo",
+        "kam",
+        "nezapome\u0148t",
+        "po",
+        "taki"
+      ],
+      "common": [
+        "app_298475993574642",
+        "bitva",
+        "facebook",
+        "gambrinusem",
+        "gambrinusochuceny app_298475993574642",
+        "vodn\u00ed",
+        "www",
+        "www facebook",
+        "www facebook gambrinusochuceny",
+        "www facebook gambrinusochuceny app_298475993574642"
+      ],
+      "messages": [
+        [
+          "Za\u010d\u00edn\u00e1 sn\u011b\u017eit, chyst\u00e1te se o v\u00edkendu taky na hory? Nezapome\u0148te, \u017ee u spr\u00e1vn\u00e9 sjezdovky nesm\u00ed chyb\u011bt \u00fatuln\u00e1 hosp\u016fdka s Gambrinusem, kam si po ly\u017eov\u00e1n\u00ed zajdete odpo\u010dinout! Timeline Photos",
+          1390494610
+        ],
+        [
+          "Nezapome\u0148te, \u017ee je\u0161t\u011b po\u0159\u00e1d b\u011b\u017e\u00ed Bublinkom\u00e1nie!\nSout\u011b\u017eit o be\u010dky Nepasterizovan\u00e9ho G m\u016f\u017eete p\u0159\u00edmo tady: \nhttps://www.facebook.com/Gambrinus.cz/app_524457547610569 Timeline Photos",
+          1381071605
+        ],
+        [
+          "U\u017e je to tady, Mikul\u00e1\u0161 se bl\u00ed\u017e\u00ed! Timeline Photos",
+          1354550000
+        ],
+        [
+          "V\u00e1\u0161 program na dne\u0161ek je l\u00e1ze\u0148sk\u00fd... \r\nVodn\u00ed bal\u00f3nkov\u00e1 bitva ve \u017dlut\u00fdch l\u00e1zn\u00edch. Photos",
+          1342857602
+        ],
+        [
+          "S Gambrinusem na p\u0159e\u0161t\u011bnick\u00fd Open Air a v sobotu na Vodn\u00ed bal\u00f3nkovou bitvu do \u017dlut\u00fdch l\u00e1zn\u00ed, p\u0159ij\u010fte si hodit!\r\nhttps://www.facebook.com/GambrinusOchuceny/app_298475993574642 Timeline Photos",
+          1342512225
+        ],
+        [
+          "Vodn\u00ed bal\u00f3nkov\u00e1 bitva s Gambrinusem Ochucen\u00fdm vypukne u\u017e tuto sobotu! Po\u010das\u00ed se ur\u010dit\u011b umoud\u0159\u00ed, tak si p\u0159ij\u010fte hodit vodn\u00ed bombu! Jestli se chcete vyhnout front\u011b u vchodu, registrujte se p\u0159edem na: https://www.facebook.com/GambrinusOchuceny/app_298475993574642 Timeline Photos",
+          1342424932
+        ],
+        [
+          "Nezapome\u0148te se registrovat na Vodn\u00ed bal\u00f3nkovou bitvu do \u017dlut\u00fdch l\u00e1zn\u00ed v Praze. U\u017e za p\u00e1r dn\u00ed, 21. 7., s Gambrinusem Ochucen\u00fdm, muzikou a spoustou bal\u00f3nk\u016f!\r\nhttps://www.facebook.com/GambrinusOchuceny/app_298475993574642 Timeline Photos",
+          1342166300
+        ],
+        [
+          "Tak jste se do\u010dkali... Vodn\u00ed bal\u00f3nkov\u00e1 bitva s Gambrinusem Ochucen\u00fdm 21. 7. ve \u017dlut\u00fdch l\u00e1zn\u00edch v Praze! Nezapome\u0148te se registrovat a pozvat kamar\u00e1dy: https://www.facebook.com/GambrinusOchuceny/app_298475993574642 Timeline Photos",
+          1341832892
+        ],
+        [
+          "Mrkn\u011bte se, jak to vypadalo na Vodn\u00ed bal\u00f3nkov\u00e9 bitv\u011b v Brn\u011b s Gambrinusem Ochucen\u00fdm! Gambrinus vodn\u00ed balonkov\u00e1 bitva - Brno 22/6 bitva",
+          1340699634
+        ],
+        [
+          "Chcete si u\u017e\u00edt dal\u0161\u00ed skv\u011blou akci s Gambrinusem, zasout\u011b\u017eit si o pivo na rok zdarma a osv\u011b\u017eit se opravdu po cel\u00e9m t\u011ble? :)\r\nPus\u0165te se s n\u00e1mi do Vodn\u00ed bal\u00f3nkov\u00e9 bitvy! Ta plze\u0148sk\u00e1 byla par\u00e1dn\u00ed, brn\u011bnsk\u00e1 vypukne u\u017e tento p\u00e1tek 22. 6. Do toho!\r\nhttps://www.facebook.com/GambrinusOchuceny/app_298475993574642 Timeline Photos",
+          1340208277
+        ],
+        [
+          "Gambrinus Ochucen\u00fd je po\u0159\u00e1dn\u00e1 pecka, mrkn\u011bte sami...\nNikdy nev\u00edte, odkud p\u0159ilet\u00ed, ale to osv\u011b\u017een\u00ed stoj\u00ed za to. Gambrinus Ochucen\u00fd - vodn\u00ed bal\u00f3nkov\u00e1 bitva",
+          1339485907
+        ],
+        [
+          "Osv\u011b\u017euj\u00edc\u00ed p\u00e1rty s ochucen\u00fdm pivkem Gambrinus u\u017e brzy p\u0159istane v Brn\u011b a Plzni, jdete do toho? Kdo vstoup\u00ed, neprohloup\u00ed: vzorky k ochutn\u00e1n\u00ed, vodn\u00ed bal\u00f3nkov\u00e1 bitva, vyhl\u00e1\u0161en\u00ed rekordu, koncert a Afterparty. Vzh\u016fru na osv\u011b\u017euj\u00edc\u00ed akci! https://www.facebook.com/GambrinusOchuceny/app_298475993574642 Timeline Photos",
+          1338211781
+        ]
+      ],
+      "dates_start": 1333002955,
+      "dates_end": 1366416338,
+      "likes_avg": 19,
+      "likes_stdev": 19,
+      "comments_avg": 2,
       "comments_stdev": 5,
-      "shares_avg": 11,
-      "shares_stdev": 36
+      "shares_avg": 5,
+      "shares_stdev": 4
+    },
+    {
+      "number": 6,
+      "important": [
+        "ned\u011bli",
+        "hospodu",
+        "najd\u011bt",
+        "nepasterizovan\u00fd gambrinus",
+        "fotbalu",
+        "d\u00e1t",
+        "hospod\u011b",
+        "super",
+        "nepasterizovan\u00fd",
+        "posledn\u00ed"
+      ],
+      "common": [
+        "fotbal",
+        "gambrinus",
+        "kte\u0159\u00ed",
+        "levn\u011bji",
+        "najd\u011bte",
+        "ned\u011bli",
+        "nejbli\u017e\u0161\u00ed",
+        "nepasterizovan\u00fd",
+        "nepasterizovan\u00fd gambrinus",
+        "www"
+      ],
+      "messages": [
+        [
+          "Posledn\u00ed leto\u0161n\u00ed ligov\u00e9 kolo a posledn\u00ed \u0161ance d\u00e1t si v ned\u011bli v hospod\u011b ke sledov\u00e1n\u00ed fotbalu Nepasterizovan\u00fd Gambrinus za super cenu. Kam na Fotbalovou ned\u011bli Najd\u011bte si nejbli\u017e\u0161\u00ed hospodu, kde si v ned\u011bli vychutn\u00e1te k ligov\u00e9mu fotbalu Nepasterizovan\u00fd Gambrinus o p\u011bt korun levn\u011bji.",
+          1417262705
+        ],
+        [
+          "Jak se po \u00fasp\u011b\u0161n\u00e9 kvalifikaci p\u0159edvedou reprezentanti v lize? Sledujte ned\u011bln\u00ed z\u00e1pasy v hospod\u011b a dejte si k nim Nepasterizovan\u00fd Gambrinus o 5 K\u010d levn\u011bji. Zapojen\u00e9 hospody Najd\u011bte si nejbli\u017e\u0161\u00ed hospodu, kde si v ned\u011bli vychutn\u00e1te k ligov\u00e9mu fotbalu Nepasterizovan\u00fd Gambrinus o p\u011bt korun levn\u011bji.",
+          1416582121
+        ],
+        [
+          "Zajd\u011bte si o v\u00edkendu s kamar\u00e1dy na Nepasterizovan\u00fd Gambrinus a za t\u0159i piva u n\u00e1s m\u00e1te d\u00e1rek. Najd\u011bte si nejbli\u017e\u0161\u00ed zapojenou hospodu na www.gambrinus.cz. Timeline Photos",
+          1416498360
+        ],
+        [
+          "I tuto ned\u011bli si m\u016f\u017eete k ligov\u00e9mu fotbalu vychutnat Nepasterizovan\u00fd Gambrinus o 5 K\u010d levn\u011bji. Najd\u011bte svou hospodu na www.gambrinus.cz/fotbal. Gambrinus Fotbalov\u00e9 ned\u011ble U\u017eij si fotbal, vychutnej si Gambrinus!",
+          1411650001
+        ],
+        [
+          "Dvac\u00e1t\u00e9 v\u00fdro\u010d\u00ed si zaslou\u017e\u00ed oslavu. A\u0165 jde o man\u017eelstv\u00ed nebo o fes\u0165\u00e1k. Tak vemte \u017eenu a dorazte v sobotu 23. 8. na dvacetiny Rock for People v \u010cesk\u00e9m Brod\u011b. Nepasterizovan\u00fd Gambrinus nebude chyb\u011bt. V\u00edce na: http://brod20.rockforpeople.cz Timeline Photos",
+          1408450167
+        ],
+        [
+          "Dostat b\u016fra ve fotbale je trapas. Ale kdy\u017e v\u00e1m ho d\u00e1me jako slevu na pivo, to u\u017e je jin\u00e1! V 700 hospod\u00e1ch si te\u010f m\u016f\u017eete v\u017edy b\u011bhem sledov\u00e1n\u00ed ned\u011bln\u00edho z\u00e1pasu vychutnat nejen fotbal, ale i Nepasterizovan\u00fd Gambrinus o 5 K\u010d levn\u011bji. Najd\u011bte si nejbli\u017e\u0161\u00ed hospodu na www.gambrinus.cz/fotbal. Gambrinus - U\u017eij si fotbal U\u017eij si fotbal, vychutnej si Gambrinus",
+          1407508201
+        ],
+        [
+          "P\u0159ip\u00edj\u00edme na zdrav\u00ed v\u0161em, kte\u0159\u00ed s Nepasterizovan\u00fdm Gambrinusem vyraz\u00ed nakopnout atmosf\u00e9ru na jedin\u00e9m Open Air koncertu Lucie v Plzni! St\u00e1le n\u011bkte\u0159\u00ed nem\u00e1te vstupenky? T\u0159i z v\u00e1s m\u016f\u017eou vyhr\u00e1t po dvou l\u00edstc\u00edch! \u0158ekn\u011bte n\u00e1m, od jak\u00e9 kapely a z jak\u00e9 p\u00edsni\u010dky je hudba v na\u0161\u00ed posledn\u00ed reklam\u011b! Prvn\u00ed, t\u0159et\u00ed a p\u00e1t\u00e1 spr\u00e1vn\u00e1 odpov\u011b\u010f vyhr\u00e1v\u00e1. Nepasterizovan\u00fd Gambrinus, pivo pln\u00e9 \u017eivota P\u0159ipijte nyn\u00ed ve v\u00edce hospod\u00e1ch v\u0161em, kte\u0159\u00ed v nich um\u00ed nakopnout atmosf\u00e9ru. Najd\u011bte tu va\u0161i nejbli\u017e\u0161\u00ed na http://www.NepasterizovaneG.cz a p\u0159ipijte si Gambrin...",
+          1402416019
+        ],
+        [
+          "Rozd\u00e1v\u00e1me \u0161estn\u00e1ct l\u00edstk\u016f na p\u0159\u00e1telsk\u00fd z\u00e1pas \u010cesko - Rakousko 3. \u010dervna v Olomouci! D\u00e1me je osmi v\u00fdherc\u016fm, kte\u0159\u00ed n\u00e1m spr\u00e1vn\u011b odpov\u00ed na ot\u00e1zku: V kolika hospod\u00e1ch si te\u010f m\u016f\u017eete n\u00e1\u0161 Nepasterizovan\u00fd Gambrinus objednat? Mo\u017enosti jsou: a) 1215 b) 2774 c) 5000 Jedem! :)",
+          1401282000
+        ],
+        [
+          "Pod\u00edvejte se jako prvn\u00ed na na\u0161i novou reklamu, kter\u00e1 oslavuje hospody, ve kter\u00fdch to \u017eije. D\u00edky a na zdrav\u00ed v\u0161em, kte\u0159\u00ed v na\u0161ich hospod\u00e1ch \u017eivot probouz\u00edte stejn\u011b jako Nepasterizovan\u00fd Gambrinus. Nepasterizovan\u00fd Gambrinus, pivo pln\u00e9 \u017eivota P\u0159ipijte nyn\u00ed ve v\u00edce hospod\u00e1ch v\u0161em, kte\u0159\u00ed v nich um\u00ed nakopnout atmosf\u00e9ru. Najd\u011bte tu va\u0161i nejbli\u017e\u0161\u00ed na http://www.NepasterizovaneG.cz a p\u0159ipijte si Gambrin...",
+          1399904115
+        ]
+      ],
+      "dates_start": 1402588037,
+      "dates_end": 1415535004,
+      "likes_avg": 68,
+      "likes_stdev": 38,
+      "comments_avg": 30,
+      "comments_stdev": 69,
+      "shares_avg": 13,
+      "shares_stdev": 15
+    },
+    {
+      "number": 7,
+      "important": [
+        "kdo",
+        "a\u0165",
+        "timelin",
+        "ale",
+        "pak",
+        "n\u00e1m",
+        "od",
+        "kdy\u017e",
+        "photo",
+        "ty"
+      ],
+      "common": [
+        "bude",
+        "byl",
+        "gambrinus",
+        "kdo",
+        "kdy\u017e",
+        "koh\u00e1k",
+        "n\u00e1m",
+        "n\u011b",
+        "sester",
+        "v\u00e1s"
+      ],
+      "messages": [
+        [
+          "\u0160pan\u011bl\u00e9 n\u00e1m trochu zabrnkali na nervy. Poj\u010fme spl\u00e1chnout pochybnosti a po\u0159\u00e1dn\u011b za\u0159v\u011bme, a\u0165 maj\u00ed Chorvati jasno, kdo se na n\u011b chyst\u00e1! #\u0159vijakolev Timeline Photos",
+          1465822373
+        ],
+        [
+          "N\u011bkter\u00e9 koment\u00e1\u0159e n\u00e1m d\u011blaj\u00ed radost, kdy\u017e je \u010dteme, jin\u00e9 pak kdy\u017e na n\u011b odpov\u00edd\u00e1me. Na ty, kdo maj\u00ed jasno.",
+          1437568200
+        ],
+        [
+          "Dle Va\u0161ich obcho\u010f\u00e1k\u016f se od z\u00e1\u0159\u00ed p\u0159estane vyr\u00e1b\u011bt sudov\u00e1 des\u00edtka? Pro\u010d , kdy\u017e je to nej\u017e\u00e1dan\u011bj\u0161\u00ed pivo?",
+          1433679214
+        ],
+        [
+          "Nejkr\u00e1sn\u011bj\u0161\u00ed pohled je, kdy\u017e dob\u0159e vychlazen\u00e1 plechovka Gamb\u00e1\u010de romanticky lad\u00ed s ve\u010dern\u00ed oblohou. Timeline Photos",
+          1398429008
+        ],
+        [
+          "Kdo m\u00e1 rad\u0161i \u010depovan\u00e9, d\u00e1 lajk, kdo lahv\u00e1\u010de, nap\u00ed\u0161e n\u00e1m pro\u010d! Timeline Photos",
+          1379343605
+        ],
+        [
+          "P\u0159ed \u010dty\u0159mi roky ozn\u00e1mil ukon\u010den\u00ed sv\u00e9 bohat\u00e9 kari\u00e9ry jeden z nejlep\u0161\u00edch \u010desk\u00fdch fotbalist\u016f historie a dr\u017eitel Zlat\u00e9ho m\u00ed\u010de. Pozn\u00e1te z obr\u00e1zku, kdo to byl? Timeline Photos",
+          1377529211
+        ],
+        [
+          "V Trutnov\u011b to st\u00e1lo za to a Gambrinus byl u toho!\nByli jste tam taky? Gambrinus Open Air Festival Trutnov 2013 st\u00e1l za to a Gambrinus byl u toho!",
+          1376927101
+        ],
+        [
+          "V Gambrinus Fanlize na www.fanliga.cz m\u016f\u017ee\u0161 ve sv\u00e9m t\u00fdmu ur\u010dovat, kdo bude kapit\u00e1n. Pod\u00edvej se, jak v\u00fdb\u011br kapit\u00e1na vy\u0159e\u0161il Jakub Koh\u00e1k. Koh\u00e1k srazil bobra Jakub Koh\u00e1k rozhodl, kdo bude kapit\u00e1nem v Gambrinus Fanlize. Pod\u00edvej se, kdo m\u00e1 zuby jako bobr a jestli vybral Koh\u00e1k dob\u0159e. Nebo si vyber s\u00e1m na www.fanliga....",
+          1373634001
+        ],
+        [
+          "Kdo je podle v\u00e1s nejv\u011bt\u0161\u00ed zimn\u00ed posila v Gambrinus lize? Timeline Photos",
+          1361368815
+        ],
+        [
+          "I kdy\u017e to s pitm nem\u00e1 nic spole\u010dn\u00fdho",
+          1361033874
+        ],
+        [
+          "Kompletn\u00ed v\u00fdt\u011b\u017eek z koncertu byl v\u011bnov\u00e1n dobro\u010dinn\u00e9mu fondu T\u0159\u00ed sester Exkluzivn\u00ed fotoalbum z dobro\u010dinn\u00e9ho koncertu T\u0159\u00ed sester",
+          1359313200
+        ],
+        [
+          "Kdo se boj\u00ed \u010derta, LIKE :) Timeline Photos",
+          1354698259
+        ],
+        [
+          "Kdo z V\u00e1s byl v sobotu na Vltav\u011b u P\u0159\u00edse\u010dn\u00e9? D\u00e1v\u00e1me palec nahoru odv\u00e1\u017elivc\u016fm, kte\u0159\u00ed i v dob\u011b men\u0161\u00ed povodn\u011b zav\u00edtaj\u00ed na to\u010den\u00fd Gambrinus :) D\u00edky Petrovi P. za fotku! Timeline Photos",
+          1343630339
+        ],
+        [
+          "Gambrinus z\u00edskal hned dv\u011b medaile na mezin\u00e1rodn\u00ed pivn\u00ed sout\u011b\u017ei v Melbourne! St\u0159\u00edbrn\u00fd byl Gambrinus Premium, Excelent byl ocen\u011bn bronzem. Mezi 1322 pivy z cel\u00e9ho sv\u011bta va\u0161e obl\u00edben\u00e9 G vynik\u00e1! Timeline Photos",
+          1337919602
+        ]
+      ],
+      "dates_start": 1346367746,
+      "dates_end": 1419474653,
+      "likes_avg": 156,
+      "likes_stdev": 276,
+      "comments_avg": 19,
+      "comments_stdev": 26,
+      "shares_avg": 18,
+      "shares_stdev": 20
+    },
+    {
+      "number": 8,
+      "important": [
+        "v\u00e1m",
+        "m\u00e1te",
+        "ale",
+        "tadi",
+        "pln\u00e9",
+        "hospod\u00e1ch",
+        "pivo",
+        "ji",
+        "na\u0161e",
+        "tak"
+      ],
+      "common": [
+        "chutn\u00e1",
+        "gambrinus",
+        "gambrinus chutn\u00e1",
+        "jsme",
+        "kde",
+        "m\u00e1te",
+        "photo",
+        "spoustu",
+        "tak",
+        "v\u00e1m"
+      ],
+      "messages": [
+        [
+          "No tak tady to m\u00e1te. Na\u0161e nov\u00e1 nepasterizovan\u00e1 12 - pivo pln\u00e9 chuti s p\u0159\u00edjemnou neulp\u00edvaj\u00edc\u00ed ho\u0159kost\u00ed. Na\u010depuj\u00ed v\u00e1m ji pouze v hospod\u00e1ch, tak zajd\u011bte a ochutnejte.",
+          1438599601
+        ],
+        [
+          "Koho z dne\u0161n\u00edch reprezentant\u016f u\u017e m\u00e1te doma? A kdo v\u00e1m chyb\u00ed do kompletn\u00ed jeden\u00e1ctky? Timeline Photos",
+          1416134756
+        ],
+        [
+          "Na zdrav\u00ed! A\u0165 n\u00e1m chutn\u00e1! M\u00e1te i vy n\u011bjak\u00fd obl\u00edben\u00fd p\u0159\u00edpitek? :)",
+          1388941201
+        ],
+        [
+          "BLESKOV\u00c1 SOUT\u011a\u017d!\nM\u00e1te svou obl\u00edbenou hospodu? \nNapi\u0161te n\u00e1m, kde v\u00e1m Gambrinus chutn\u00e1 nejv\u00edce a pro\u010d!\n\u010cty\u0159i nejlep\u0161\u00ed zd\u016fvodn\u011bn\u00ed n\u00e1le\u017eit\u011b odm\u011bn\u00edme. ;) Timeline Photos",
+          1382894103
+        ],
+        [
+          "Ve vybran\u00fdch hospod\u00e1ch se potk\u00e1v\u00e1te s na\u0161\u00edm promo t\u00fdmem a ochutn\u00e1vat zdarma Nepasterizovan\u00e9 G. Seznam nejbli\u017e\u0161\u00edch m\u011bst najdete v cover photo a na Zdi v\u00e1m v\u017edy p\u0159ineseme n\u00e1pov\u011bdu, kde n\u00e1s m\u00e1te v dan\u00e9m m\u011bst\u011b hledat. Gambrinus's cover photo",
+          1365072292
+        ],
+        [
+          "Tak co, m\u00e1te p\u0159ed sez\u00f3nou nab\u011bh\u00e1no jako ligov\u00ed fotbalisti? Timeline Photos",
+          1361121316
+        ],
+        [
+          "Se T\u0159emi sestrami jsme si v\u0161ichni za n\u011bkolik let u\u017eili spoustu z\u00e1bavy a to nejen na charitativn\u00edm koncert\u011b minul\u00fd v\u00edkend. M\u00e1te se \u010d\u00edm pochlubit z jejich koncert\u016f? ;) Gambrinus Kompletn\u00ed v\u00fdt\u011b\u017eek z koncertu byl v\u011bnov\u00e1n dobro\u010dinn\u00e9mu fondu T\u0159\u00ed sester",
+          1360161487
+        ],
+        [
+          "M\u00e1te taky n\u011bjak\u00e9 suprov\u00e9 fotky z koncert\u016f T\u0159\u00ed sester? Za svoji kari\u00e9ru jich odehr\u00e1li spoustu ;) Gambrinus",
+          1359555109
+        ],
+        [
+          "Pochlubte se, co m\u00e1te rad\u011bji :) Timeline Photos",
+          1344605327
+        ],
+        [
+          "Na \u017e\u00e1dost v\u00e1s fanou\u0161k\u016f si nyn\u00ed m\u016f\u017eete Gambrinus Limetka&Bezinka nebo \u0158\u00edzn\u00fd citr\u00f3n zakoupit v obchodech tak\u00e9 v lahv\u00edch. M\u00e1te radost?  :-) Timeline Photos",
+          1343631304
+        ],
+        [
+          "Jsme moc r\u00e1di, \u017ee v\u00e1m n\u00e1\u0161 ochucen\u00fd Gambrinus chutn\u00e1:) Od te\u010f se m\u016f\u017eete obl\u00edbenou variantou Limetka & Bezinka osv\u011b\u017eit tak\u00e9 ve sv\u00e9 obl\u00edben\u00e9 hospod\u011b nebo baru, m\u00e1te radost?;) U\u017eijte si kr\u00e1sn\u00fd slune\u010dn\u00fd den a nezapome\u0148te sledovat na\u0161i facebook str\u00e1nku http://www.facebook.com/GambrinusOchuceny, kde pro v\u00e1s p\u0159ipravujeme spoustu osv\u011b\u017euj\u00edc\u00edch z\u00e1\u017eitk\u016f. Timeline Photos",
+          1335954941
+        ]
+      ],
+      "dates_start": 1342118740,
+      "dates_end": 1402730612,
+      "likes_avg": 91,
+      "likes_stdev": 99,
+      "comments_avg": 17,
+      "comments_stdev": 19,
+      "shares_avg": 19,
+      "shares_stdev": 22
+    },
+    {
+      "number": 9,
+      "important": [
+        "timelin",
+        "ale",
+        "n\u00e1m",
+        "jedno",
+        "je\u0161t\u011b",
+        "den",
+        "photo",
+        "u\u017e",
+        "pivo",
+        "aukci"
+      ],
+      "common": [
+        "ale",
+        "den",
+        "jedno",
+        "nebo",
+        "pravou",
+        "pravou rukou hlavn\u011b",
+        "pravou rukou hlavn\u011b kdy\u017e",
+        "pravou rukou hlavn\u011b kdy\u017e chutn\u00e1",
+        "prav\u00e1ci",
+        "prav\u00e1ci koment\u00e1\u0159"
+      ],
+      "messages": [
+        [
+          "N\u011bkdo si je\u0161t\u011b nestihl sko\u010dit na jedno a p\u016flka jarn\u00ed v\u00e1rky u\u017e je pry\u010d. Honem to napravte, dokud p\u00edpa a hospodsk\u00fd d\u00e1v\u00e1.",
+          1432299601
+        ],
+        [
+          "Sobotn\u00ed proch\u00e1zka a jedno excelentn\u00ed za odm\u011bnu :)",
+          1428766729
+        ],
+        [
+          "V zim\u011b se stm\u00edv\u00e1 brzy. Jedno pivo n\u00e1m ale m\u016f\u017ee den doslova proz\u00e1\u0159it! Timeline Photos",
+          1386176408
+        ],
+        [
+          "Ot\u00e1zka zn\u00ed: jdete dneska na jedno, nebo na dv\u011b? ;) Timeline Photos",
+          1385132408
+        ],
+        [
+          "Je p\u00e1tek, to si \u0159\u00edk\u00e1 o jedno! Timeline Photos",
+          1380895205
+        ],
+        [
+          "Spr\u00e1vn\u00e1 parta chod\u00ed na jedno pravideln\u011b a p\u00e1tku t\u0159in\u00e1ct\u00e9ho se neboj\u00ed! \nJak \u010dasto se sch\u00e1z\u00edte vy? Timeline Photos",
+          1379080810
+        ],
+        [
+          "Dnes je den lev\u00e1k\u016f. Je jedno, jestli budete p\u00edt Gambrinus levou nebo pravou rukou, hlavn\u011b kdy\u017e chutn\u00e1. Prav\u00e1ci koment\u00e1\u0159, lev\u00e1ci like ;) Timeline Photos",
+          1376408704
+        ]
+      ],
+      "dates_start": 1373167948,
+      "dates_end": 1417906298,
+      "likes_avg": 88,
+      "likes_stdev": 60,
+      "comments_avg": 12,
+      "comments_stdev": 13,
+      "shares_avg": 21,
+      "shares_stdev": 14
     },
     {
       "number": 10,
       "important": [
-        "prvn\u00ed",
-        "najdet",
-        "\u017ee",
         "ale",
-        "le\u017e\u00e1k",
-        "chmel",
-        "te\u010f",
-        "gambrinus",
-        "nen\u00ed",
-        "se"
+        "pivovaru",
+        "na\u0161ich",
+        "n\u00e1s",
+        "ochutnat",
+        "ho",
+        "u\u017e",
+        "pivo",
+        "kam",
+        "jsme"
       ],
       "common": [
-        "chmel",
         "gambrinus",
-        "gambrinus prvn\u00ed",
-        "gambrinus prvn\u00ed chmel",
-        "le\u017e\u00e1k",
-        "na",
-        "prvn\u00ed",
-        "prvn\u00ed chmel",
-        "se",
-        "u\u017e"
+        "mo\u017en\u00e1",
+        "nezn\u00e1te",
+        "pivo",
+        "pivovaru",
+        "pivovaru gambrinus",
+        "plze\u0148sk\u00e9ho",
+        "polotmav\u00e9",
+        "tak",
+        "www"
       ],
       "messages": [
         [
-          "D\u011bs\u00edte se, \u017ee nestihnete ochutnat ten nej\u010derstv\u011bj\u0161\u00ed le\u017e\u00e1k z leto\u0161n\u00ed prvn\u00ed sklizn\u011b? Nen\u00ed \u010deho se b\u00e1t, limitovanou v\u00e1rku Gambrinus Prvn\u00ed chmel najdete pr\u00e1v\u011b te\u010f v restaurac\u00edch i obchodech: www.gambrinus.cz/r/prvnichmel. Timeline Photos",
-          1475758801
+          "U n\u00e1s v pivovaru jsme poprv\u00e9 uva\u0159ili polotmav\u00e9 pivo. U\u017e jste ho stihli ochutnat?",
+          1457689500
         ],
         [
-          "Sv\u00e1tek piva je tady! V \u017datci \u010derstv\u011b dozr\u00e1l prvn\u00ed chmel. Vychutnejte si slavnostn\u00ed v\u00e1rku v obchod\u011b i hospod\u011b. V\u00edce na www.gambrinus.cz/prvnichmel. Dozr\u00e1l \u010das na prvn\u00ed chmel!",
-          1474549310
+          "Z\u00e1soby nov\u00e9 polotmav\u00e9 dvan\u00e1ctky se rychle ten\u010d\u00ed, tak na ni rad\u011bji co nejrychleji vyrazte do jedn\u00e9 z na\u0161ich hospod. Limitovan\u00e1 v\u00e1rka polotmav\u00e9 dvan\u00e1ctky Poprv\u00e9 jsme v na\u0161em pivovaru uva\u0159ili polotmav\u00e9 pivo. Kam na n\u011bj vyraz\u00edte?",
+          1456995603
         ],
         [
-          "I tohle je Gambrinus. Dny \u010desk\u00e9ho piva zahajuje le\u017e\u00e1k z \u010derstv\u00e9 chmelov\u00e9 sklizn\u011b. U\u017e tento v\u00edkend v na\u0161ich hospod\u00e1ch!",
-          1442850601
+          "Nemus\u00edte p\u0159es p\u016fl republiky, abyste ochutnali pivo jako z pivovaru. Vychutnejte si n\u00e1\u0161 nefiltrovan\u00fd le\u017e\u00e1k, kter\u00fd v\u00e1m svou chut\u00ed tento z\u00e1\u017eitek vynahrad\u00ed. \n\nKam na n\u011bj: http://www.gambrinus.cz/hospody?selectMarker=type-3 Timeline Photos",
+          1453887000
         ],
         [
-          "N\u00e1zory bez ochutn\u00e1n\u00ed nebereme. Nepasterizovanou des\u00edtku u\u017e \u010depujeme t\u00e9m\u011b\u0159 ve v\u0161ech hospod\u00e1ch.",
-          1433263500
+          "Ochutnat pivo jako v pivovaru je nyn\u00ed je\u0161t\u011b jednodu\u0161\u0161\u00ed. Vychutnejte si plnou chu\u0165 na\u0161eho Nefiltrovan\u00e9ho le\u017e\u00e1ku Gambrinus! Kam na n\u011bj: http://www.gambrinus.cz/hospody?selectMarker=type-3 Timeline Photos",
+          1450109101
         ],
         [
-          "Ochutnejte pivo, jak\u00e9 jste je\u0161t\u011b nikdy nepili. P\u0159edstavujeme le\u017e\u00e1k Nov\u00fd Boh\u00e9m.",
-          1431603001
+          "V lednu roku 1982 chyb\u011blo m\u00e1lo k tomu, aby milovn\u00edci plze\u0148sk\u00e9ho piva v n\u00e1sleduj\u00edc\u00edch m\u011bs\u00edc\u00edch st\u00e1li na sv\u016fj obl\u00edben\u00fd Gambrinus tak dlouh\u00e9 fronty, jako b\u00fdvaly u zelin\u00e1\u0159\u016f na ban\u00e1ny. O nedostatek plze\u0148sk\u00e9ho piva na trhu se mohl postarat obrovsk\u00fd po\u017e\u00e1r, kter\u00fd vypukl ve sladovn\u011b. Pod\u00edvejte se na to, jak to tenkr\u00e1t dopadlo. Pivn\u00ed d\u011bjiny, jak je mo\u017en\u00e1 nezn\u00e1te - Po\u017e\u00e1r sladovny Gambrinus V roce 1982 sho\u0159ela v pivovaru p\u016fvodn\u00ed sladovna a hrozil tak nedostatek Gambrinusu. Chrab\u0159\u00ed hasi\u010di na\u0161t\u011bst\u00ed zachr\u00e1nili zbytek pivovaru a sladovnu jsme si pos...",
+          1375272002
         ],
         [
-          "Je\u0161t\u011b t\u00fdden do nara\u017een\u00ed. Le\u017e\u00e1k, jak\u00fd jste je\u0161t\u011b nepili. Limitovan\u00e1 jarn\u00ed v\u00e1rka ji\u017e brzy v na\u0161ich hospod\u00e1ch! U\u017e se to bl\u00ed\u017e\u00ed! Za chvilku nar\u00e1\u017e\u00edme... N\u011bco pro tebe chyst\u00e1me. Brzy se dozv\u00ed\u0161 v\u00edce.",
-          1431093001
+          "B\u011bhem 2. sv\u011btov\u00e9 v\u00e1lky byl pivovar t\u00e9m\u011b\u0159 zni\u010den. Neb\u00fdt tehdej\u0161\u00edho \u0159editele Franti\u0161ka Hlav\u00e1\u010dka, b\u016fh v\u00ed, jak by to dopadlo. Pod\u00edvejte se, jak to tenkr\u00e1t bylo. Pivn\u00ed d\u011bjiny, jak je mo\u017en\u00e1 nezn\u00e1te - Obnova pivovaru Gambrinus Pod\u00edvejte se s n\u00e1mi na r\u016fzn\u00e1 obdob\u00ed pivn\u00edch d\u011bjin tak, jak je mo\u017en\u00e1 nezn\u00e1te. V tomto videu se pod\u00edv\u00e1me,jak byl b\u011bhem 2. sv\u011btov\u00e9 v\u00e1lky pivovar Gambrinus t\u00e9m\u011b\u0159...",
+          1374420601
         ],
         [
-          "Piva\u0159i, st\u0159\u00edhejte metr. Bl\u00ed\u017e\u00ed se jarn\u00ed v\u00e1rka, kterou va\u0161e pivn\u00ed chu\u0165ov\u00e9 poh\u00e1rky je\u0161t\u011b neochutnaly. \n\nKdy naraz\u00edme nov\u00fd le\u017e\u00e1k se dozv\u00edte tady. U\u017e se to bl\u00ed\u017e\u00ed! Za chvilku nar\u00e1\u017e\u00edme... N\u011bco pro tebe chyst\u00e1me. Brzy se dozv\u00ed\u0161 v\u00edce.",
-          1428672901
+          "Dnes slav\u00edme 144 let pivovaru Gambrinus! D\u011bkujeme za Va\u0161i p\u0159\u00edze\u0148 :-) Pivn\u00ed d\u011bjiny, jak je mo\u017en\u00e1 nezn\u00e1te - 144. narozeniny pivovaru Gambrinus V hostinci U c\u00edsa\u0159e rakousk\u00e9ho se 25. 6. 1869 konala sch\u016fzka, kter\u00e9 se \u00fa\u010dastn\u00ed 20 Plze\u0148an\u016f, v\u011bt\u0161inou v\u00fdznamn\u00fdch podnikatel\u016f a pr\u00e1vn\u00edk\u016f. Jedn\u00edm z nich je i Em...",
+          1372189812
         ],
         [
-          "Tak komu jste v\u011bnovali d\u00e1rkovou lahev Gambrinus Prvn\u00ed Chmel? Nebo jste si tento le\u017e\u00e1k s \u010derstvou chmelovou v\u016fn\u00ed vychutnali sami? :-) Timeline Photos",
-          1414159201
+          "V Plzni jsme p\u0159iv\u00edtali 10.000 \u0160tamgasta a odm\u011bnili ho unik\u00e1tn\u00edm p\u016fllit\u0159\u00edkem, prohl\u00eddkou pivovaru a \u0161tamgastskou listinou. P\u0159ipij\u00edme na pohodov\u00fd v\u00edkend a dal\u0161\u00ed desetitis\u00edcovku \u0160tamgast\u016f! V\u00edce o \u0160tamgastech Gambrinusu na http://www.gambrinus.cz/stamgasti/ 10000. \u0160tamgast - Gambrinus",
+          1354900347
         ],
         [
-          "D\u00e1rkov\u00e1 lahev s podpisem sl\u00e1dka pro p\u011bt nejrychlej\u0161\u00edch spr\u00e1vn\u00fdch odpov\u011bd\u00ed! M\u00e1me pro v\u00e1s lahve z limitovan\u00e9 edice Gambrinus Prvn\u00ed Chmel podepsan\u00e9 na\u0161\u00edm sl\u00e1dkem Pavlem Z\u00edtkem. Z\u00edsk\u00e1 ji p\u011bt nejrychlej\u0161\u00edch odpov\u011bd\u00ed na ot\u00e1zku, ze kter\u00e9 \u017eateck\u00e9 chmelnice poch\u00e1z\u00ed \u010derstv\u00fd chmel, pou\u017eit\u00fd p\u0159i va\u0159en\u00ed t\u00e9to mimo\u0159\u00e1dn\u00e9 v\u00e1rky. Timeline Photos",
-          1413986401
+          "P\u0159ed kvalifika\u010dn\u00edm z\u00e1pasem s Maltou se fotbalist\u00e9 pod\u00edvali do plze\u0148sk\u00e9ho pivovaru a v Gambrinus Ar\u00e9n\u011b potr\u00e9novali penalty. Fotbalov\u00e1 reprezentace v pivovaru",
+          1350472416
         ],
         [
-          "Taky v\u00e1m chutnal n\u00e1\u0161 le\u017e\u00e1k Gambrinus Prvn\u00ed Chmel v hospod\u011b? Od z\u00edt\u0159ka si ho m\u016f\u017eete koupit dom\u016f v d\u00e1rkov\u00e9 lahvi! Jak lahev vypad\u00e1, a kde ji se\u017eenete, se dozv\u00edte ve videu. Gambrinus Prvn\u00ed Chmel v d\u00e1rkov\u00e9 lahvi",
-          1413900487
+          "\u010cesk\u00e1 fotbalov\u00e1 reprezentace na prohl\u00eddce plze\u0148sk\u00e9ho pivovaru. Fotbalov\u00ed reprezentanti v Plzni Ve st\u0159edu 10. \u0159\u00edjna, p\u0159ed kvalifika\u010dn\u00edm z\u00e1pasem s Maltou, se \u010desk\u00e1 fotbalov\u00e1 reprezentace pod\u00edvala do plze\u0148sk\u00e9ho pivovaru a n\u00e1v\u0161t\u011bvnick\u00e9ho centra Gambrinus.",
+          1349969345
         ],
         [
-          "Le\u017e\u00e1k Gambrinus Prvn\u00ed Chmel v\u00e1m fakt chutnal a u\u017e jen v n\u011bkolika hospod\u00e1ch najdete tuhle mimo\u0159\u00e1dnou v\u00e1rku na \u010depu. Ale u\u017e p\u0159\u00ed\u0161t\u00ed t\u00fdden budete m\u00edt \u0161anci si le\u017e\u00e1k z \u010derstv\u00e9ho chmele dop\u0159\u00e1t i doma. Timeline Photos",
-          1413380500
+          "P\u0159e\u010dt\u011bte si o tom, jak spr\u00e1v\u011b pe\u010dovat o pivo, a nahl\u00e9dn\u011bte do \u017eivota vrchn\u00edho sl\u00e1dka pivovaru Gambrinus \u2013 Jana Hlav\u00e1\u010dka a jeho rodiny. Photos",
+          1343300402
         ],
         [
-          "Je\u0161t\u011b po\u0159\u00e1d m\u016f\u017eete v hospod\u00e1ch ochutnat n\u00e1\u0161 mimo\u0159\u00e1dn\u00fd le\u017e\u00e1k z \u010derstv\u00e9ho chmele, Gambrinus Prvn\u00ed chmel. Ale pozor, z\u00e1soby se ten\u010d\u00ed a tenhle v\u00edkend m\u016f\u017ee b\u00fdt posledn\u00ed \u0161ance. Najd\u011bte si nejbli\u017e\u0161\u00ed hospodu na www.gambrinus.cz/prvnichmel. Timeline Photos",
-          1412344829
-        ],
-        [
-          "Mimo\u0159\u00e1dnou v\u00e1rku le\u017e\u00e1ku Gambrinus Prvn\u00ed chmel najdete u\u017e v sobotu ve v\u00edce ne\u017e dvou tis\u00edc\u00edch hospod\u00e1ch. Pod\u00edvejte se na cestu, kterou chmel urazil od kl\u00ed\u010dku a\u017e do va\u0161eho p\u016fllitru a najd\u011bte si nejbli\u017e\u0161\u00ed hospodu na www.gambrinus.cz/prvnichmel. Gambrinus Prvn\u00ed chmel (pln\u00e1 verze)",
-          1411714800
-        ],
-        [
-          "Oslavte Den \u010desk\u00e9ho piva a dejte si mimo\u0159\u00e1dnou v\u00e1rku le\u017e\u00e1ku Gambrinus z \u010derstv\u00e9ho chmele. M\u00e1 v\u00fdraznou chmelovou v\u016fni a je k dost\u00e1n\u00ed jen jednou za rok. T\u011b\u0161te se u\u017e p\u0159\u00ed\u0161t\u00ed v\u00edkend ve v\u00edce ne\u017e dvou tis\u00edc\u00edch hospod\u00e1ch. Timeline Photos",
-          1411304403
-        ],
-        [
-          "P\u0159\u00ed\u0161t\u00ed v\u00edkend je sv\u00e1tek v\u0161ech piva\u0159\u016f, Den \u010desk\u00e9ho piva. My jsme na oslavu uva\u0159ili mimo\u0159\u00e1dnou v\u00e1rku Gambrinusu a prvn\u00ed t\u0159i z v\u00e1s, kte\u0159\u00ed n\u00e1m do koment\u00e1\u0159\u016f nap\u00ed\u0161ou, jakou speci\u00e1ln\u00ed ingredienci jsme p\u0159idali, u n\u00e1s maj\u00ed sud piva. Timeline Photos",
-          1411045204
-        ],
-        [
-          "Sklize\u0148 prvn\u00edho leto\u0161n\u00edho chmele u\u017e za\u010dala a kvalitu \u017eateck\u00e9 odr\u016fdy \u201eSl\u00e1dek\u201c, pou\u017e\u00edvan\u00e9 v Gambrinusu, kontroluje s\u00e1m n\u00e1\u0161 sl\u00e1dek Pavel Z\u00edtek. \u00daroda se letos vyda\u0159ila, a proto chyst\u00e1me mimo\u0159\u00e1dnou v\u00e1rku, kterou u\u017e brzy ochutn\u00e1te v na\u0161ich hospod\u00e1ch. Timeline Photos",
-          1409315173
-        ],
-        [
-          "Kolik kamar\u00e1d\u016f jste u\u017e pozvali na nefiltrovan\u00fd le\u017e\u00e1k Gambrinus? Pravideln\u00e9 odm\u011bny za pos\u00edl\u00e1n\u00ed zaji\u0161t\u011bny! ;) https://www.facebook.com/Gambrinus.cz?sk=app_280923181946447",
-          1330363362
+          "Pozvi k\u00e1mo\u0161e na nefiltrovan\u00fd Gambrinus a vyhraj pivo na rok zdarma nebo p\u00e1rty v pivovaru Gambrinus! Hraje se na fb - https://apps.facebook.com/pozvanka-na-pivo/ - i na http://www.gambrinus.cz/pozvanka-na-pivo/ z\u00e1rove\u0148!",
+          1328870286
         ]
       ],
-      "dates_start": 1390768294,
-      "dates_end": 1451502937,
-      "likes_avg": 230,
-      "likes_stdev": 191,
-      "comments_avg": 29,
-      "comments_stdev": 25,
-      "shares_avg": 36,
-      "shares_stdev": 29
+      "dates_start": 1340836112,
+      "dates_end": 1437176623,
+      "likes_avg": 178,
+      "likes_stdev": 295,
+      "comments_avg": 9,
+      "comments_stdev": 11,
+      "shares_avg": 22,
+      "shares_stdev": 31
     },
     {
       "number": 11,
       "important": [
-        "a\u0165",
-        "super",
-        "plze\u0148",
-        "b\u011bhem",
-        "jsme",
-        "jako",
-        "ale",
-        "je\u0161t\u011b",
-        "gratulujem",
-        "se"
+        "timelin",
+        "m\u016f\u017ee\u0161",
+        "hospodu",
+        "gambrinus",
+        "jenom",
+        "dnes",
+        "hledej",
+        "d\u00e1t",
+        "svou",
+        "posledn\u00ed"
       ],
       "common": [
+        "gambrinus",
+        "hledej",
+        "hospodu",
+        "jenom",
+        "svou",
+        "svou hospodu",
+        "svou hospodu www",
+        "svou hospodu www gambrinus",
+        "www",
+        "www gambrinus"
+      ],
+      "messages": [
+        [
+          "Dnes je posledn\u00ed \u00fater\u00fd, kdy si m\u016f\u017ee\u0161 d\u00e1t Gambrinus jenom za 20K\u010d. Tak\u017ee s chut\u00ed do toho! Svou hospodu hledej na www.gambrinus.cz ;) Timeline Photos",
+          1385460904
+        ],
+        [
+          "Zavolej kamar\u00e1d\u016fm, Gambrinus dneska stoj\u00ed zase jenom 20K\u010d! Svou hospodu hledej na www.gambrinus.cz ;) Timeline Photos",
+          1384856105
+        ],
+        [
+          "Pl\u00e1n na ve\u010der je jasn\u00fd - jdeme na pivo! Gambrinus dneska toti\u017e stoj\u00ed zase jenom 20K\u010d. Hledej svou hospodu na www.gambrinus.cz ;) Timeline Photos",
+          1384251303
+        ],
+        [
+          "Co m\u016f\u017ee\u0161 objednat dnes, neodkl\u00e1dej na z\u00edt\u0159ek! Zvl\u00e1\u0161\u0165, kdy\u017e \u00fatern\u00ed Gambrinus stoj\u00ed jenom 20K\u010d. Hledej svou hospodu na www.gambrinus.cz ;) Timeline Photos",
+          1383646503
+        ],
+        [
+          "Na z\u00edt\u0159ek si toho rad\u0161i moc nedomlouvej! Je \u00fater\u00fd, tak\u017ee Gambrinus stoj\u00ed zase jenom 20K\u010d. Hledej svou hospodu na www.gambrinus.cz ;) Timeline Photos",
+          1383060384
+        ],
+        [
+          "Dneska ve\u010der rovnou do hospody! Gambrinus toti\u017e zase stoj\u00ed jenom 20K\u010d. Hledej svou hospodu na www.gambrinus.cz ;-) Timeline Photos",
+          1381824906
+        ],
+        [
+          "Je \u00fater\u00fd, tak\u017ee ve vybran\u00fdch hospod\u00e1ch najde\u0161 Gambrinus zase jenom za dvacku! Hledej svou hospodu na www.gambrinus.cz ;) Timeline Photos",
+          1381220105
+        ],
+        [
+          "Na podzim si v kalend\u00e1\u0159i zatrhni v\u0161echny \u00faterky a doma oznam, \u017ee program u\u017e m\u00e1\u0161 ;)  V \u0159\u00edjnu a listopadu si toti\u017e ve vybran\u00fdch hospod\u00e1ch m\u016f\u017ee\u0161 vychutnat Gambrinus za 20 K\u010d. Hledej svou hospodu na http://www.gambrinus.cz/cz/#/kam-na-pivo :) Timeline Photos",
+          1380636592
+        ]
+      ],
+      "dates_start": 1381479909,
+      "dates_end": 1384759290,
+      "likes_avg": 46,
+      "likes_stdev": 12,
+      "comments_avg": 4,
+      "comments_stdev": 1,
+      "shares_avg": 24,
+      "shares_stdev": 13
+    },
+    {
+      "number": 12,
+      "important": [
+        "timelin",
+        "ale",
+        "gambrinus",
+        "plze\u0148",
+        "ligi",
+        "photo",
+        "gambrinus ligi",
+        "tu",
+        "jsme",
+        "gratulujem"
+      ],
+      "common": [
+        "2012",
         "gambrinus",
         "gambrinus ligy",
         "gratulujeme",
         "jsme",
         "ligy",
-        "na",
-        "photos",
         "plze\u0148",
-        "se",
-        "timeline photos"
+        "viktoria",
+        "viktoria plze\u0148",
+        "\u017ee"
       ],
       "messages": [
         [
@@ -927,28 +948,16 @@
           1462040528
         ],
         [
-          "Gratulujeme kluk\u016fm k postupu do Francie, poj\u010fme se jim odm\u011bnit super choreem a par\u00e1dn\u00ed atmosf\u00e9rou v posledn\u00edm dom\u00e1c\u00edm z\u00e1pase s Tureckem, a\u0165 se jim do Holandska cestuje je\u0161t\u011b veseleji!",
-          1441635900
-        ],
-        [
-          "Za\u017eijte plze\u0148 ze v\u0161ech \u00fahl\u016f b\u011bhem sedmi dn\u00ed na festivalu \u017div\u00e1 ulice 2014! Nebudou chyb\u011bt jm\u00e9na jako Xavier Baumaxa, Ji\u0159\u00ed Schmitzer, Lenny, Old\u0159ich Kaiser nebo Lenka Dusilov\u00e1. A samoz\u0159ejm\u011b Gambrinus jako ofici\u00e1ln\u00ed partner! Od 11. do 17. srpna v Plzni. Kompletn\u00ed program na www.zivaulice.eu. Plze\u0148 ze v\u0161ech \u00fahl\u016f! Za\u017eijte Plze\u0148 ze v\u0161ech \u00fahl\u016f! P\u0159ije\u010fte na festival \u017div\u00e1 ulice 2014. Od 11. do 17.8. v historick\u00e9m centru. Sedm sc\u00e9n a sedm dn\u00ed. www.zivaulice.eu LENNY- Ji\u0159\u00ed Schmitzer\u2026",
-          1407501002
-        ],
-        [
           "A je tu st\u0159\u00edd\u00e1n\u00ed na fotbalov\u00e9m tr\u016fnu Gambrinus ligy! Gratulujeme do Prahy k titulu. Timeline Photos",
           1399222805
         ],
         [
-          "Spr\u00e1vn\u00fd Gamb\u00e1\u010d m\u00e1 p\u011bkn\u011b hustou p\u011bnu bez bublin, kter\u00e1 pad\u00e1 hezky pomalu. Honza Krop\u00e1\u010d z pra\u017esk\u00e9 restaurace Modr\u00e1 ryba ho um\u00ed takhle na\u010depovat, a proto letos vyhr\u00e1l na\u0161i sout\u011b\u017e Mistr v\u00fd\u010depn\u00ed. Gratulujeme! Timeline Photos",
-          1394812808
+          "Je tady posledn\u00ed leto\u0161n\u00ed kolo Gambrinus ligy a to je d\u016fvod otev\u0159\u00edt si pivko a p\u011bkn\u011b si z\u00e1pasy vychutnat ;) Kdo se k n\u00e1m p\u0159id\u00e1? Timeline Photos",
+          1385737210
         ],
         [
           "Viktorie Plze\u0148 vyhr\u00e1la nad Mariborem a postupuje do Ligy mistr\u016f!\r\nGratulujeme! Timeline Photos",
           1377721632
-        ],
-        [
-          "Plze\u0148 prost\u011b letos v\u00e1lela a tak se mohli fanou\u0161ci ve st\u0159edu t\u011b\u0161it hned ze dvou poh\u00e1r\u016f. Gratulujeme je\u0161t\u011b jednou. Gambrinus",
-          1372423118
         ],
         [
           "U\u017e v\u00edce jak t\u00fdden zn\u00e1me fotbalov\u00e9ho mistra Gambrinus ligy. Bylo to nap\u00ednav\u00e9 a\u017e do konce, o to v\u00edc si Plze\u0148\u00e1ci oslavy u\u017eili. Jsme d\u00edky nim hrd\u00ed na to, \u017ee jsme z Plzn\u011b a \u017ee jsme pivo \u010desk\u00e9ho fotbalu. Viktoria Plze\u0148 mistrem Gambrinus ligy 2012/2013 V posledn\u00edm kole Gambrinus ligy na h\u0159i\u0161ti Hradce Kr\u00e1lov\u00e9 vybojovala Viktoria Plze\u0148 titul. Pod\u00edvejte se na oslavy, kter\u00e9 vypukly po skon\u010den\u00ed z\u00e1pasu.",
@@ -975,16 +984,8 @@
           1367852409
         ],
         [
-          "Sakra to je sm\u016fla. Poj\u010fme je\u0161t\u011b Plze\u0148!!!",
-          1362681880
-        ],
-        [
           "K fotbalu pat\u0159\u00ed kr\u00e1sn\u00e9 d\u00edvky a k nov\u00e9 kr\u00e1sn\u00e9 trofeji Gambrinus ligy obzvl\u00e1\u0161\u0165. Tak kterou? ;) Wall Photos",
           1362324611
-        ],
-        [
-          "Takhle se slav\u00ed v Plzni ;) Gratulujeme. Te\u010f je\u0161t\u011b co ta Sparta? Timeline Photos",
-          1361480277
         ],
         [
           "\"J\u00e1 na n\u011bj ur\u010dit\u011b \u0161ahat nebudu. Je kr\u00e1snej, ale p\u0159eci jen my fotbalist\u00e9 jsme celkem pov\u011br\u010div\u00ed. Pokud by se n\u00e1m dostal po sezon\u011b do ruky kompletn\u00ed, pomazl\u00edm se s n\u00edm velmi r\u00e1d,\u201c vysv\u011btlil kapit\u00e1n Pavel Horv\u00e1th, pro\u010d trofej nevzal do rukou. Viktoria Plze\u0148 p\u0159evzala p\u016flpoh\u00e1r pro p\u016flmistra Gambrinus ligy",
@@ -995,40 +996,117 @@
           1345107159
         ]
       ],
-      "dates_start": 1351786891,
-      "dates_end": 1410309712,
-      "likes_avg": 252,
-      "likes_stdev": 718,
+      "dates_start": 1349653500,
+      "dates_end": 1404819063,
+      "likes_avg": 303,
+      "likes_stdev": 837,
       "comments_avg": 17,
-      "comments_stdev": 25,
-      "shares_avg": 23,
-      "shares_stdev": 42
+      "comments_stdev": 29,
+      "shares_avg": 28,
+      "shares_stdev": 48
     },
     {
-      "number": 12,
+      "number": 13,
       "important": [
-        "a\u017e",
-        "d\u011bkujem",
-        "byl",
-        "na\u0161e",
-        "kdy\u017e",
-        "jsme",
+        "timelin",
         "ale",
-        "v\u0161em",
         "n\u00e1m",
-        "kte\u0159\u00ed"
+        "chu\u0165",
+        "jste",
+        "pivn\u00ed",
+        "d\u011bkujem",
+        "piva",
+        "aukci",
+        "taki"
       ],
       "common": [
+        "ben\u00e1tsk\u00e9",
         "gambrinus",
+        "gambrinusem",
+        "jste",
+        "skv\u011blou",
+        "skv\u011blou muzikou ben\u00e1tsk\u00e9",
+        "u\u017eili",
+        "vypadal",
+        "vypadal v\u00edkend v\u00e1mi",
+        "v\u00edkend"
+      ],
+      "messages": [
+        [
+          "Pivn\u00ed test pravdy projel p\u011bt \u010desk\u00fdch m\u011bst. Jak to v\u0161echno dopadlo zjist\u00edte ve videu. D\u011bkujeme, \u017ee jste p\u0159i\u0161li a \u017ee jste nedali na n\u00e1lepku, ale na chu\u0165!",
+          1442238600
+        ],
+        [
+          "Ticho! Zd\u00e1lo se n\u00e1m, \u017ee sly\u0161\u00edme zvuk otv\u00edr\u00e1n\u00ed piva. Sly\u0161eli jste to taky? Timeline Photos",
+          1387213207
+        ],
+        [
+          "A takhle vypadal v\u00edkend s v\u00e1mi, Gambrinusem a skv\u011blou muzikou na Ben\u00e1tsk\u00e9 noci Gambrinus A takhle vypadal v\u00edkend s v\u00e1mi, Gambrinusem a skv\u011blou muzikou na Ben\u00e1tsk\u00e9 noci",
+          1375027201
+        ],
+        [
+          "V\u010dera jsme odstartovali Ben\u00e1tskou noc na Gambrinus stage. Jste tu s n\u00e1mi? Gambrinus A takhle vypadal v\u00edkend s v\u00e1mi, Gambrinusem a skv\u011blou muzikou na Ben\u00e1tsk\u00e9 noci",
+          1374840001
+        ],
+        [
+          "U\u017eili jste si festival JamRock tak, jako my? :) JamRock 2013 s Gambrinusem",
+          1372933478
+        ],
+        [
+          "V \u017eateck\u00fdch chmelnic\u00edch n\u00e1m to p\u011bkn\u011b roste! \u010cerven a \u010dervenec jsou velmi d\u016fle\u017eit\u00e9 m\u011bs\u00edce pro p\u0159\u00ed\u0161t\u00ed \u00farodu. Pou\u017e\u00edv\u00e1me \u017eateckou odr\u016fdu Sl\u00e1dek, kter\u00e1 d\u00e1v\u00e1 na\u0161emu pivu vyv\u00e1\u017eenou ho\u0159kost a p\u0159\u00edjemn\u00e9 aroma.  Dostali jste taky chu\u0165 na jedno? :-) Timeline Photos",
+          1372003205
+        ],
+        [
+          "Zapili jste v\u00edkend Gambrinusem? Gambrinus Nepasterizovan\u00e9 G",
+          1364140801
+        ],
+        [
+          "Jak jste si u\u017eili Ben\u00e1tskou noc s Gambrinusem? 20. ro\u010dn\u00edk m\u011bl na\u0161lapan\u00fd program... Gambrinus Jak jste si u\u017eili Ben\u00e1tky s t\u00edm prav\u00fdm pivem? Ozna\u010dte se na jubilejn\u00edm 20. ro\u010dn\u00edku!",
+          1343808145
+        ],
+        [
+          "Jak jste si u\u017eili Ben\u00e1tky s t\u00edm prav\u00fdm pivem? Ozna\u010dte se na jubilejn\u00edm 20. ro\u010dn\u00edku! Ben\u00e1tsk\u00e1 noc 2012",
+          1343408400
+        ],
+        [
+          "Zkusili jste si taky vyl\u00e9zt na takovou pomen\u0161\u00ed plechov\u010di\u010dku s Gambrinusem? Gambrinus",
+          1343374903
+        ]
+      ],
+      "dates_start": 1344192613,
+      "dates_end": 1399604974,
+      "likes_avg": 114,
+      "likes_stdev": 177,
+      "comments_avg": 17,
+      "comments_stdev": 41,
+      "shares_avg": 30,
+      "shares_stdev": 49
+    },
+    {
+      "number": 14,
+      "important": [
+        "timelin",
+        "ale",
         "kte\u0159\u00ed",
-        "na",
-        "nepasterizovan\u00fd",
-        "nepasterizovan\u00fd gambrinus",
-        "photos",
-        "si",
+        "byl",
+        "d\u011bkujem",
+        "v\u0161em",
+        "a\u017e",
+        "photo",
+        "na\u0161e",
+        "konc"
+      ],
+      "common": [
+        "choreo",
+        "d\u011bkujeme",
+        "d\u011bkujeme v\u0161em",
+        "jste",
+        "kte\u0159\u00ed",
+        "lucie",
         "v\u0161em",
         "v\u0161em kte\u0159\u00ed",
-        "www"
+        "www",
+        "youtube watch"
       ],
       "messages": [
         [
@@ -1044,48 +1122,20 @@
           1442917528
         ],
         [
-          "Posledn\u00ed leto\u0161n\u00ed ligov\u00e9 kolo a posledn\u00ed \u0161ance d\u00e1t si v ned\u011bli v hospod\u011b ke sledov\u00e1n\u00ed fotbalu Nepasterizovan\u00fd Gambrinus za super cenu. Kam na Fotbalovou ned\u011bli Najd\u011bte si nejbli\u017e\u0161\u00ed hospodu, kde si v ned\u011bli vychutn\u00e1te k ligov\u00e9mu fotbalu Nepasterizovan\u00fd Gambrinus o p\u011bt korun levn\u011bji.",
-          1417262705
+          "Takhle jsme se m\u011bli n\u00e1 Ben\u00e1tsk\u00e9, kde prob\u00edhala sout\u011b\u017e \u010depov\u00e1n\u00ed se sl\u00e1dky. V\u0161em d\u00edky za \u00fa\u010dast a zbyl\u00e9 fotky ji\u017e brzy! Ben\u00e1tsk\u00e1 2014",
+          1407736381
         ],
         [
-          "Jak se po \u00fasp\u011b\u0161n\u00e9 kvalifikaci p\u0159edvedou reprezentanti v lize? Sledujte ned\u011bln\u00ed z\u00e1pasy v hospod\u011b a dejte si k nim Nepasterizovan\u00fd Gambrinus o 5 K\u010d levn\u011bji. Zapojen\u00e9 hospody Najd\u011bte si nejbli\u017e\u0161\u00ed hospodu, kde si v ned\u011bli vychutn\u00e1te k ligov\u00e9mu fotbalu Nepasterizovan\u00fd Gambrinus o p\u011bt korun levn\u011bji.",
-          1416582121
-        ],
-        [
-          "Zajd\u011bte si o v\u00edkendu s kamar\u00e1dy na Nepasterizovan\u00fd Gambrinus a za t\u0159i piva u n\u00e1s m\u00e1te d\u00e1rek. Najd\u011bte si nejbli\u017e\u0161\u00ed zapojenou hospodu na www.gambrinus.cz. Timeline Photos",
-          1416498360
-        ],
-        [
-          "I tuto ned\u011bli si m\u016f\u017eete k ligov\u00e9mu fotbalu vychutnat Nepasterizovan\u00fd Gambrinus o 5 K\u010d levn\u011bji. Najd\u011bte svou hospodu na www.gambrinus.cz/fotbal. Gambrinus Fotbalov\u00e9 ned\u011ble U\u017eij si fotbal, vychutnej si Gambrinus!",
-          1411650001
-        ],
-        [
-          "Dvac\u00e1t\u00e9 v\u00fdro\u010d\u00ed si zaslou\u017e\u00ed oslavu. A\u0165 jde o man\u017eelstv\u00ed nebo o fes\u0165\u00e1k. Tak vemte \u017eenu a dorazte v sobotu 23. 8. na dvacetiny Rock for People v \u010cesk\u00e9m Brod\u011b. Nepasterizovan\u00fd Gambrinus nebude chyb\u011bt. V\u00edce na: http://brod20.rockforpeople.cz Timeline Photos",
-          1408450167
-        ],
-        [
-          "Dostat b\u016fra ve fotbale je trapas. Ale kdy\u017e v\u00e1m ho d\u00e1me jako slevu na pivo, to u\u017e je jin\u00e1! V 700 hospod\u00e1ch si te\u010f m\u016f\u017eete v\u017edy b\u011bhem sledov\u00e1n\u00ed ned\u011bln\u00edho z\u00e1pasu vychutnat nejen fotbal, ale i Nepasterizovan\u00fd Gambrinus o 5 K\u010d levn\u011bji. Najd\u011bte si nejbli\u017e\u0161\u00ed hospodu na www.gambrinus.cz/fotbal. Gambrinus - U\u017eij si fotbal U\u017eij si fotbal, vychutnej si Gambrinus",
-          1407508201
+          "Takhle jste to rozproudili minul\u00fd \u010dtvrtek na plze\u0148sk\u00e9m koncertu Lucie. D\u00edky v\u0161em z\u00fa\u010dastn\u011bn\u00fdm a t\u011b\u0161\u00edme se na dal\u0161\u00ed akci! Koncert Lucie 2014",
+          1404467596
         ],
         [
           "P\u0159ip\u00edj\u00edme v\u0161em, kte\u0159\u00ed um\u00ed zariskovat a ud\u011blat ve\u010der legend\u00e1rn\u00ed!\nhttps://www.youtube.com/watch?v=OJPxAhD98AY Timeline Photos",
           1403449221
         ],
         [
-          "P\u0159ip\u00edj\u00edme na zdrav\u00ed v\u0161em, kte\u0159\u00ed s Nepasterizovan\u00fdm Gambrinusem vyraz\u00ed nakopnout atmosf\u00e9ru na jedin\u00e9m Open Air koncertu Lucie v Plzni! St\u00e1le n\u011bkte\u0159\u00ed nem\u00e1te vstupenky? T\u0159i z v\u00e1s m\u016f\u017eou vyhr\u00e1t po dvou l\u00edstc\u00edch! \u0158ekn\u011bte n\u00e1m, od jak\u00e9 kapely a z jak\u00e9 p\u00edsni\u010dky je hudba v na\u0161\u00ed posledn\u00ed reklam\u011b! Prvn\u00ed, t\u0159et\u00ed a p\u00e1t\u00e1 spr\u00e1vn\u00e1 odpov\u011b\u010f vyhr\u00e1v\u00e1. Nepasterizovan\u00fd Gambrinus, pivo pln\u00e9 \u017eivota P\u0159ipijte nyn\u00ed ve v\u00edce hospod\u00e1ch v\u0161em, kte\u0159\u00ed v nich um\u00ed nakopnout atmosf\u00e9ru. Najd\u011bte tu va\u0161i nejbli\u017e\u0161\u00ed na http://www.NepasterizovaneG.cz a p\u0159ipijte si Gambrin...",
-          1402416019
-        ],
-        [
           "P\u0159ip\u00edj\u00edme v\u0161em, kte\u0159\u00ed um\u00ed postavit hospodu na nohy!\nhttps://www.youtube.com/watch?v=OJPxAhD98AY Timeline Photos",
           1402236018
-        ],
-        [
-          "Rozd\u00e1v\u00e1me \u0161estn\u00e1ct l\u00edstk\u016f na p\u0159\u00e1telsk\u00fd z\u00e1pas \u010cesko - Rakousko 3. \u010dervna v Olomouci! D\u00e1me je osmi v\u00fdherc\u016fm, kte\u0159\u00ed n\u00e1m spr\u00e1vn\u011b odpov\u00ed na ot\u00e1zku: V kolika hospod\u00e1ch si te\u010f m\u016f\u017eete n\u00e1\u0161 Nepasterizovan\u00fd Gambrinus objednat? Mo\u017enosti jsou: a) 1215 b) 2774 c) 5000 Jedem! :)",
-          1401282000
-        ],
-        [
-          "Pod\u00edvejte se jako prvn\u00ed na na\u0161i novou reklamu, kter\u00e1 oslavuje hospody, ve kter\u00fdch to \u017eije. D\u00edky a na zdrav\u00ed v\u0161em, kte\u0159\u00ed v na\u0161ich hospod\u00e1ch \u017eivot probouz\u00edte stejn\u011b jako Nepasterizovan\u00fd Gambrinus. Nepasterizovan\u00fd Gambrinus, pivo pln\u00e9 \u017eivota P\u0159ipijte nyn\u00ed ve v\u00edce hospod\u00e1ch v\u0161em, kte\u0159\u00ed v nich um\u00ed nakopnout atmosf\u00e9ru. Najd\u011bte tu va\u0161i nejbli\u017e\u0161\u00ed na http://www.NepasterizovaneG.cz a p\u0159ipijte si Gambrin...",
-          1399904115
         ],
         [
           "D\u011bkujeme za va\u0161i p\u0159\u00edze\u0148! Gambrinus's cover photo",
@@ -1104,69 +1154,125 @@
           1363294703
         ]
       ],
-      "dates_start": 1382384657,
-      "dates_end": 1432705816,
-      "likes_avg": 320,
-      "likes_stdev": 876,
-      "comments_avg": 32,
-      "comments_stdev": 82,
-      "shares_avg": 28,
-      "shares_stdev": 76
+      "dates_start": 1374445628,
+      "dates_end": 1437638835,
+      "likes_avg": 468,
+      "likes_stdev": 1095,
+      "comments_avg": 28,
+      "comments_stdev": 86,
+      "shares_avg": 35,
+      "shares_stdev": 96
     },
     {
-      "number": 13,
+      "number": 15,
       "important": [
-        "plze\u0148",
-        "na\u0161e",
-        "spole\u010dn\u011b",
-        "pod\u00edvejt",
-        "se jak",
-        "jak se",
-        "p\u0159ij\u010ft",
-        "kte\u0159\u00ed",
-        "se",
-        "pod\u00edvejt se"
+        "timelin",
+        "co",
+        "ale",
+        "vy",
+        "piv",
+        "photo",
+        "kdi",
+        "pivo",
+        "na\u0161i",
+        "ji"
       ],
       "common": [
+        "10",
+        "fanou\u0161ky",
         "gambrinus",
-        "jak",
-        "jak se",
-        "na",
+        "m\u016f\u017eete",
+        "origin\u00e1l",
         "piva",
         "piva gambrinus",
         "pivo",
         "pod\u00edvejte",
-        "pod\u00edvejte se",
-        "se"
+        "www"
       ],
       "messages": [
         [
-          "Pod\u00edvejte se, jak se pivovar Gambrinus a Viktoria Plze\u0148 spole\u010dn\u011b rozhodli pod\u011bkovat lidem, kte\u0159\u00ed d\u011blaj\u00ed na\u0161e m\u011bsto lep\u0161\u00edm m\u00edstem k \u017eivotu. P\u0159ij\u010fte podpo\u0159it netradi\u010dn\u00ed z\u00e1kladn\u00ed sestavu Viktorky, p\u0159ipijte plze\u0148sk\u00fdm hrdin\u016fm a p\u0159isp\u011bjte tak na zakoupen\u00ed monitoru vit\u00e1ln\u00edch funkc\u00ed pro m\u00edstn\u00ed nemocnici.",
-          1457533356
+          "Na jedn\u00e9 z nejv\u011bt\u0161\u00edch pivn\u00edch sout\u011b\u017e\u00ed na sv\u011bt\u011b - Australian International Beer Awards - ocenili na\u0161i nepasterizovanou 10 bronzovou medail\u00ed v kategorii piv plze\u0148sk\u00e9ho typu. A co vy, kdy jste naposledy vyrazili na pivo s medailistou? Timeline Photos",
+          1464690600
+        ],
+        [
+          "Uhasit \u017e\u00edze\u0148 rychlou des\u00edtkou je jedna v\u011bc, ale Gambrinus je i skv\u011bl\u00e1 dvan\u00e1ctka. Vychutnejte si ji u\u017e dnes. Timeline Photos",
+          1448463601
+        ],
+        [
+          "Gambrinus je Gambrinus",
+          1433632714
+        ],
+        [
+          "N\u00e1\u0161 sl\u00e1dek, Pavel Z\u00edtek, stoj\u00ed za kvalitou piva Gambrinus, ale zaj\u00edm\u00e1 se i o kvalitn\u00ed n\u00e1zory v diskuz\u00edch.\nPod\u00edvejte se, jak reagoval na n\u011bkter\u00e9 z va\u0161ich koment\u00e1\u0159\u016f.",
+          1433430000
         ],
         [
           "NOV\u00c9 VIDEO: Nev\u011b\u0159ili jste? Uv\u011b\u0159\u00edte.\nPod\u00edvejte se, jak jsme postavili pivovar Patron a prodali 18 000 piv.",
           1433334601
         ],
         [
-          "My \u0159\u00edk\u00e1me \"dopijem a p\u016fjdem\". Jak se to \u0159\u00edk\u00e1 u v\u00e1s? Timeline Photos",
-          1384448408
+          "Jsme n\u00e1rod pivn\u00edch znalc\u016f, nebo d\u00e1me na to, co si mysl\u00ed ostatn\u00ed? Koukn\u011bte se na video a pod\u011blte se s n\u00e1mi o va\u0161e n\u00e1zory!",
+          1433175478
+        ],
+        [
+          "\"David Bi\u010d\u00edk to n\u00e1dhern\u011b vychytal a Kuba Podan\u00fd to svoj\u00ed levi\u010dkou to\u010dil skv\u011ble.\" Takhle zhodnotil po\u010d\u00edn\u00e1n\u00ed hr\u00e1\u010d\u016f Sparty jeden z na\u0161ich sl\u00e1dk\u016f, kdy pod jeho veden\u00edm rozdali fanou\u0161k\u016fm 200 piv zdarma. Na podobn\u00e9 akce se sv\u00fdmi obl\u00edbenci se m\u016f\u017eou t\u011b\u0161it i fanou\u0161ci v dal\u0161\u00edch m\u011bstech.",
+          1429107600
+        ],
+        [
+          "Je\u0161t\u011b po\u0159\u00e1d m\u016f\u017eete v na\u0161em e-shopu z\u00edskat fotbalov\u00fd kalend\u00e1\u0159 Gambrinus zdarma. Sta\u010d\u00ed do pozn\u00e1mky k n\u00e1kupu nad 500 K\u010d napsat heslo \u201cGambrinus fand\u00ed fotbalu\u201c.\n\nUd\u011blejte radost piva\u0159i t\u0159eba d\u00e1rkov\u00fdm kamionem s tri\u010dkem, pen\u011b\u017eenkou a p\u016fllitrem s vyryt\u00fdm v\u011bnov\u00e1n\u00edm. D\u00e1rkov\u00fd bal\u00ed\u010dek kamion Gambrinus Stylov\u00fd bal\u00ed\u010dek pro piva\u0159e. \u010cerven\u00e9 tri\u010dko Gambrinus \"Jdu na jedno\", textiln\u00ed pen\u011b\u017eenka a 0,5l sklenice Gambrinus v d\u00e1rkov\u00e9 krabi\u010dce ve tvaru kamionu Gambrinus. Na sklenici v\u00e1m nav\u00edc vybrous\u00edme text dle p\u0159\u00e1n\u00ed.",
+          1418398204
+        ],
+        [
+          "V na\u0161em e-shopu te\u010f k n\u00e1kupu nad 500 K\u010d dostanete fotbalov\u00fd kalend\u00e1\u0159 Gambrinus zdarma. Sta\u010d\u00ed do pozn\u00e1mky k objedn\u00e1vce napsat heslo \u201cGambrinus fand\u00ed fotbalu\u201c.\n \nKomu by ud\u011blal radost t\u0159eba n\u00e1\u0161 historick\u00fd korbel nebo p\u016fllitr s vlastn\u00edm jm\u00e9nem? :-) Historick\u00fd korbel Gambrinus Historick\u00fd korbel Gambrinus o objemu 0,5l n\u011bmeck\u00e9ho typu je vyroben z poctiv\u00e9 kameniny. Proto v n\u011bm va\u0161e pivo vydr\u017e\u00ed d\u00e9le \u010derstv\u00e9 a dob\u0159e vychlazen\u00e9.",
+          1417187704
+        ],
+        [
+          "V Tesku te\u010f za 5 piv Gambrinus Origin\u00e1l 10 m\u016f\u017eete vyhr\u00e1t l\u00edstky na z\u00e1pas Synot ligy nebo podepsan\u00fd dres! V\u00edce na www.gambrinus.cz/tesco. Timeline Photos",
+          1410962410
+        ],
+        [
+          "Gambrinus fand\u00ed fotbalu s v\u00e1mi! Kupte si kalend\u00e1\u0159, a\u0165 v\u00edte, kdy j\u00edt fandit sv\u00e9mu t\u00fdmu! Fotbalov\u00fd kalend\u00e1\u0159 Gambrinus 2014/2015 N\u00e1st\u011bnn\u00fd kalend\u00e1\u0159 Gambrinus pro sezonu 2014/2015. Krom\u011b klasick\u00e9ho p\u0159ehledu dn\u016f pro jednotliv\u00e9 m\u011bs\u00edce, najdete v tomto p\u0159edev\u0161\u00edm p\u0159ehledn\u00fd rozpis v\u0161ec ...",
+          1409576400
+        ],
+        [
+          "I v Trutnov\u011b \u010dekala na n\u00e1v\u0161t\u011bvn\u00edky festivalu hospoda Gambrinus s Nepasterizovan\u00fdm \u010depovan\u00fdm hezky do skla. Na kvalitu dohl\u00ed\u017eel p\u0159\u00edmo na m\u00edst\u011b n\u00e1\u0161 sl\u00e1dek Pavel Z\u00edtek a n\u011bkter\u00fdm z\u00e1jemc\u016fm um\u011bn\u00ed spr\u00e1vn\u011b \u010depovat pivo osobn\u011b p\u0159edal. Trutnoff 2014",
+          1408544215
+        ],
+        [
+          "Tohle je n\u00e1\u0161 sl\u00e1dek Pavel Z\u00edtek, kter\u00fd stoj\u00ed za v\u00fdrobou piva Gambrinus. \u010cas od \u010dasu se ujme role a odpov\u00edd\u00e1 zde v koment\u00e1\u0159\u00edch na va\u0161e dotazy. Ned\u00e1vno n\u00e1m poslal tuto fotku, o kterou se s n\u00e1ma cht\u011bl pod\u011blit: \u201eTuhle kr\u00e1snou m\u00e1zku mi vyrobil \u0161tamgast Vyso\u010dansk\u00e9 hosp\u016fdky v Praze Ji\u0159\u00ed Ryant jako pod\u011bkov\u00e1n\u00ed za vynikaj\u00edc\u00ed pivo Gambrinus.\" Timeline Photos",
+          1403967682
+        ],
+        [
+          "Prvn\u00ed zm\u00ednka o v\u00fdrob\u011b piva v \u010cesku poch\u00e1z\u00ed z roku 993. V\u00edte, kde se vyr\u00e1b\u011blo?\nVyzkou\u0161ejte si n\u00e1\u0161 Velk\u00fd pivn\u00ed test a z\u00edskejte Certifik\u00e1t pivn\u00edho znalce ;)  Gambrinus - Prav\u00e1 chu\u0165 \u010desk\u00e9ho piva Otestuj sv\u00e9 znalosti o \u010desk\u00e9m pivu a z\u00edskej origin\u00e1ln\u00ed Certifik\u00e1t pivn\u00edho znalce. Dos\u00e1hne\u0161 na hodnost pivn\u00edho za\u010d\u00e1te\u010dn\u00edka nebo pivn\u00edho guru? Uka\u017e sv\u00fdm p\u0159\u00e1tel\u016fm, kdo tady pivu skute\u010dn\u011b rozum\u00ed!",
+          1385312402
+        ],
+        [
+          "POUZE PRO STAR\u0160\u00cd 18 LET. Otev\u0159en\u00ed hospody Origin\u00e1l 1869 Krav\u00edn v Praze",
+          1380205930
         ],
         [
           "To jste je\u0161t\u011b nevid\u011bli! Nasajte z\u00e1kulisn\u00ed atmosf\u00e9ru z nat\u00e1\u010den\u00ed spot\u016f pro Gambrinus Fanligu a vychutnejte si n\u011bkter\u00e9 z perli\u010dek Jakuba Koh\u00e1ka. Gambrinus Fanliga: video z nat\u00e1\u010den\u00ed Z video materi\u00e1lu z\u00edskan\u00e9ho b\u011bhem nat\u00e1\u010den\u00ed \u010dty\u0159 spot\u016f ke Gambrinus Fanlize vzniklo jedine\u010dn\u00e9 video - pr\u016f\u0159ez cel\u00fdm nat\u00e1\u010den\u00edm. Pod\u00edvejte se, jak se hlavn\u00ed prot...",
           1379588402
         ],
         [
+          "V\u00edte, \u010demu se v Mezopot\u00e1mii \u0159\u00edkalo ka\u0161? Ne? Tak se pod\u00edvejte na prvn\u00ed d\u00edl historie v\u00fdroby piva ;) Pivn\u00ed d\u011bjiny, jak je mo\u017en\u00e1 nezn\u00e1te - Vyn\u00e1lez piva V\u00edte, kde a jak vlastn\u011b vzniklo pivo a jeho p\u0159edch\u016fdci? Tak sledujte na\u0161i pivn\u00ed historii. Jsme tak\u00e9 na Facebooku: www.facebook.com/Gambrinus.cz",
+          1376236801
+        ],
+        [
           "Gambrinus se pil i v Americe - a to ji\u017e v 70. letech 19. stolet\u00ed. Pod\u00edvejte se na Karla s Mat\u011bjem, kte\u0159\u00ed u toho tenkr\u00e1t byli ;-) Pivn\u00ed d\u011bjiny, jak je mo\u017en\u00e1 nezn\u00e1te - Gambrinus poprv\u00e9 v Americe U\u017e v roce 1873 se Gambrinus pil i v Americe. Sledujte n\u00e1s na www.facebook.com/Gambrinus.cz",
           1375965071
         ],
         [
-          "V lednu roku 1982 chyb\u011blo m\u00e1lo k tomu, aby milovn\u00edci plze\u0148sk\u00e9ho piva v n\u00e1sleduj\u00edc\u00edch m\u011bs\u00edc\u00edch st\u00e1li na sv\u016fj obl\u00edben\u00fd Gambrinus tak dlouh\u00e9 fronty, jako b\u00fdvaly u zelin\u00e1\u0159\u016f na ban\u00e1ny. O nedostatek plze\u0148sk\u00e9ho piva na trhu se mohl postarat obrovsk\u00fd po\u017e\u00e1r, kter\u00fd vypukl ve sladovn\u011b. Pod\u00edvejte se na to, jak to tenkr\u00e1t dopadlo. Pivn\u00ed d\u011bjiny, jak je mo\u017en\u00e1 nezn\u00e1te - Po\u017e\u00e1r sladovny Gambrinus V roce 1982 sho\u0159ela v pivovaru p\u016fvodn\u00ed sladovna a hrozil tak nedostatek Gambrinusu. Chrab\u0159\u00ed hasi\u010di na\u0161t\u011bst\u00ed zachr\u00e1nili zbytek pivovaru a sladovnu jsme si pos...",
-          1375272002
+          "Pivo hr\u00e1lo roli i p\u0159i obl\u00e9h\u00e1n\u00ed Prahy \u0160v\u00e9dy v roce 1648. V\u00edte jakou :-)? Pivn\u00ed d\u011bjiny, jak je mo\u017en\u00e1 nezn\u00e1te - Obl\u00e9h\u00e1n\u00ed Prahy \u0160v\u00e9dy V roce 1648 pom\u00e1halo pivo zachr\u00e1nit Prahu p\u0159ed \u0160v\u00e9dy. Jak, to uvid\u00edte ve videu. Pivo m\u00e1 prost\u011b v d\u011bjin\u00e1ch \u010desk\u00fdch zem\u00ed nezastupiteln\u00e9 m\u00edsto. Sledujte n\u00e1s na ...",
+          1374667201
         ],
         [
-          "B\u011bhem 2. sv\u011btov\u00e9 v\u00e1lky byl pivovar t\u00e9m\u011b\u0159 zni\u010den. Neb\u00fdt tehdej\u0161\u00edho \u0159editele Franti\u0161ka Hlav\u00e1\u010dka, b\u016fh v\u00ed, jak by to dopadlo. Pod\u00edvejte se, jak to tenkr\u00e1t bylo. Pivn\u00ed d\u011bjiny, jak je mo\u017en\u00e1 nezn\u00e1te - Obnova pivovaru Gambrinus Pod\u00edvejte se s n\u00e1mi na r\u016fzn\u00e1 obdob\u00ed pivn\u00edch d\u011bjin tak, jak je mo\u017en\u00e1 nezn\u00e1te. V tomto videu se pod\u00edv\u00e1me,jak byl b\u011bhem 2. sv\u011btov\u00e9 v\u00e1lky pivovar Gambrinus t\u00e9m\u011b\u0159...",
-          1374420601
+          "Kdo p\u016fjde na h\u0159i\u0161t\u011b, to je ob\u010das p\u011bkn\u00e1 v\u011b\u0161t\u00edrna. A to jak v Gambrinus lize, tak v Gambrinus Fanlize na www.fanliga.cz V\u011b\u0161tec poslal na h\u0159i\u0161t\u011b Ladislava Krej\u010d\u00edho Kosti v\u011b\u0161tce Jakuba Koh\u00e1ka rozhodly! Na h\u0159i\u0161t\u011b p\u016fjde Ladislav Krej\u010d\u00ed a Jirka \u0160tajner s Pavlem Horv\u00e1them z\u016fstanou na lavi\u010dce. Rozhodly bohov\u00e9 spr\u00e1vn\u011b, nebo ra...",
+          1373976003
+        ],
+        [
+          "V Gambrinus Fanlize na www.fanliga.cz m\u016f\u017ee stejn\u011b jako v opravdov\u00e9m fotbale hr\u00e1t jen 11 hr\u00e1\u010d\u016f a tak n\u011bkdo mus\u00ed na lavi\u010dku n\u00e1hradn\u00edk\u016f. Jen\u017ee jak to ur\u010dit? \u0160tajny nebo Horvi? L\u00e1\u010fa Krej\u010d\u00ed hr\u00e1t nebude, ale postav\u00ed Jakub Koh\u00e1k Jirku \u0160tajnera nebo Pavla Horv\u00e1tha. Rozhodne jeho rozpo\u010d\u00edtadlo spr\u00e1vn\u011b? Jestli nesouhlas\u00ed\u0161, vyber s\u00e1m na www...",
+          1373815801
         ],
         [
           "Kdo by si dal taky? ;) Jak se va\u0159\u00ed Gambrinus - Konzumace Petr \u010ctvrtn\u00ed\u010dek v\u00e1s provedl cel\u00fdm procesem v\u00fdroby piva a te\u010f by si s v\u00e1mi taky jedno pivo dal. Sledujte n\u00e1s na Facebooku: www.facebook.com/Gambrinus.cz",
@@ -1197,16 +1303,40 @@
           1370533501
         ],
         [
+          "Na plze\u0148sk\u00e9m n\u00e1m\u011bst\u00ed vypukly v sobotu p\u0159ed p\u016flnoc\u00ed hlavn\u00ed oslavy. \u010cerstv\u00ed mist\u0159i si s fanou\u0161ky p\u0159ipili na dal\u0161\u00ed velk\u00fd \u00fasp\u011bch v historii klubu i m\u011bsta. A Gambrinus p\u0159ipravil piva k p\u0159\u00edpitku jako odm\u011bnu fanou\u0161k\u016fm za p\u0159\u00edze\u0148 a podporu. Oslava mistrovsk\u00e9ho titulu Viktorky s fanou\u0161ky",
+          1370159844
+        ],
+        [
           "Fotbalov\u00e1 reprezentace se p\u0159ipravuje na kl\u00ed\u010dov\u00fd duel kvalifikace MS 2014 s It\u00e1li\u00ed. Zaj\u00edm\u00e1 v\u00e1s, jak takov\u00e1 p\u0159\u00edprava vypad\u00e1? Jak ji vid\u00ed t\u0159eba Michal Kadlec nebo g\u00f3lman? Reprezenta\u010dn\u00ed tr\u00e9nink o\u010dima hr\u00e1\u010d\u016f Kameramanem se na chv\u00edli stal i Michal Kadlec, pod\u00edvejte se na unik\u00e1tn\u00ed z\u00e1b\u011bry z tr\u00e9ninku reprezentace.\n",
           1369934108
         ],
         [
-          "Nezapome\u0148te dnes pop\u0159\u00e1t ke dni matek, ka\u017ed\u00e1 maminka si zaslou\u017e\u00ed po\u0159\u00e1dn\u00fd Gambrinus za to, jak se o v\u00e1s starala. Wall Photos",
-          1368367211
+          "Jsme pivn\u00ed n\u00e1rod a nem\u00e1me video po\u0159ad speci\u00e1ln\u011b pro piva\u0159e? No je to norm\u00e1ln\u00ed? Gambrinus zachra\u0148uje situaci a na pomoc si pozval vtip\u00e1lka, kter\u00e9ho ur\u010dit\u011b zn\u00e1te. Pozn\u00e1te ho ale z t\u00e9to fotky? Wall Photos",
+          1366029910
+        ],
+        [
+          "M\u00e1me dal\u0161\u00ed fotky Mistr\u016f v\u00fd\u010depn\u00edch Gambrinusu. V\u00edt\u011bz\u016f je toti\u017e v\u00edce - v ka\u017ed\u00e9m ze \u0161esti region\u00e1ln\u00edch kol. Je t\u0159eba ocenit ty, kdo um\u011bj\u00ed pivo spr\u00e1vn\u011b nato\u010dit, je to tak? Gambrinus Mistr v\u00fd\u010depn\u00ed je sout\u011b\u017e pro v\u00fd\u010depn\u00ed piva Gambrinus, kte\u0159\u00ed sout\u011b\u017e\u00ed v um\u011bn\u00ed spr\u00e1vn\u011b \u010depovat Gambrinus a ve v\u011bdomostech o pivu a jeho historii.",
+          1365510601
         ],
         [
           "Fotbalov\u00e1 repre jako pivn\u00ed experti? Pod\u00edvejte se, co kluci \u0159\u00edkali na v\u00fdraznou chu\u0165 nov\u00e9ho Nepasterizovan\u00e9ho G. A v\u00edte, pro\u010d tomu \u0160m\u00edca rozum\u00ed nejv\u00edc? Fotbalov\u00e1 reprezentace ochutn\u00e1v\u00e1 Nepasterizovan\u00fd Gambrinus Kde m\u016f\u017eete ochutnat vy zjist\u00edte na www.nepasterizovaneG.cz",
           1363875302
+        ],
+        [
+          "Na\u0161li jsme toho nejlep\u0161\u00edho Mistra v\u00fd\u010depn\u00edho, kter\u00fd v\u00ed jak spr\u00e1vn\u011b na\u010depovat Gambrinus. Nejprve prok\u00e1zal sv\u00e9 znalosti piva a pak zvl\u00e1dl nejl\u00e9pe na\u010depovat b\u011bhem t\u0159\u00ed minut t\u0159i piva. Pogratulujte s n\u00e1mi Martinovi Bul\u00ed\u010dkovi z Pardubic! A nebo mysl\u00edte, \u017ee je Mistrem v\u00fd\u010depn\u00edm zrovna ten z va\u0161\u00ed hospody? Gambrinus Mistr v\u00fd\u010depn\u00ed je sout\u011b\u017e pro v\u00fd\u010depn\u00ed piva Gambrinus, kte\u0159\u00ed sout\u011b\u017e\u00ed v um\u011bn\u00ed spr\u00e1vn\u011b \u010depovat Gambrinus a ve v\u011bdomostech o pivu a jeho historii.",
+          1363528802
+        ],
+        [
+          "Exkluzivn\u00ed video z charitativn\u00edho koncertu T\u0159\u00ed sester. Taky si koncerty T\u0159\u00ed sester u\u017e\u00edv\u00e1te jako my? Exkluzivn\u00ed video z charitativn\u00edho kon... T\u0159i sestry odehr\u00e1ly 27.1. v pra\u017esk\u00e9 Akropoli charitativn\u00ed koncert podpo\u0159en\u00fd Gambrinusem. P\u0159in\u00e1\u0161\u00edme v\u00e1m exkluzivn\u00ed video sest\u0159ih z tohohle b\u00e1je\u010dn\u00e9ho koncertu.",
+          1360509324
+        ],
+        [
+          "Gambrinus Excelent, trojit\u011b chmelen\u00fd br\u00e1\u0161ka G. origin\u00e1l, m\u00e1 pro v\u00e1s nev\u00eddanou hudebn\u00ed aplikaci. POPRV\u00c9 NA FACEBOOKU SI M\u016e\u017dETE SLO\u017dIT SONG a vytvo\u0159it k n\u011bmu light show a vizualizaci z vlastn\u00edch fotek. Je\u017e\u00ed\u0161ek tam p\u0159isp\u011bl iPhone 5, sluch\u00e1tky, gramofony a spoustou dal\u0161\u00edch cen..\u266a http://apps.facebook.com/excelent-song/ Timeline Photos",
+          1355322799
+        ],
+        [
+          "Oslava plze\u0148sk\u00fdch piv Pilsner Fest 2012",
+          1346607892
         ],
         [
           "Prvn\u00edm t\u00fdmem, kter\u00fd vyst\u0159\u00edlel v leto\u0161n\u00ed Gambrinus lize pro sv\u00e9 fanou\u0161ky PIVO ZA B\u016eRA se stala SK Slavia Praha! Pod\u00edvejte se na fanou\u0161ky, kte\u0159\u00ed sv\u00e9mu t\u00fdmu radostn\u011b d\u011bkuj\u00ed! Nezapome\u0148te podpo\u0159it sv\u00e9 t\u00fdmy na stadionech, ji\u017e p\u0159\u00ed\u0161t\u00ed kolo se m\u016f\u017ee usm\u00e1t \u0161t\u011bst\u00ed i na v\u00e1s! Gambrinus -- Pivo za b\u016fra -- SK Slavia Praha vs. FC Zbrojovka Brno Prvn\u00edm t\u00fdmem, kter\u00fd pro sv\u00e9 fanou\u0161ky vyst\u0159\u00edlel pivo za b\u016fra, se stala SK Slavia Praha v z\u00e1pase proti FC Zbrojovka Brno. Nad\u0161en\u00ed fanou\u0161ci d\u011bkuj\u00ed sv\u00e9mu t\u00fdmu ne...",
@@ -1221,65 +1351,182 @@
           1342530150
         ],
         [
+          "Fotbalist\u00e9 si na Euru postupem do \u010dtvrtfin\u00e1le zajistili pivn\u00ed odm\u011bnu, ale rozhodli se ji v\u011bnovat fanou\u0161k\u016fm. Gambrinus tak\u00e9 fanou\u0161k\u016fm d\u011bkuje za podporu reprezentace a proto odm\u011bnu zdvojn\u00e1sob\u00ed. Na p\u0159\u00ed\u0161t\u00edm dom\u00e1c\u00edm z\u00e1pase \u010desk\u00e9ho n\u00e1ro\u010f\u00e1ku se tak m\u016f\u017eete t\u011b\u0161it na pivo zdarma;-) Timeline Photos",
+          1340369778
+        ],
+        [
+          "Chcete si vychutnat dne\u0161n\u00ed \u010dtvrtfin\u00e1le Eura na pl\u00e1tn\u011b a p\u0159\u00edmo s hr\u00e1\u010di plze\u0148sk\u00e9 Viktorky? Pak m\u00e1te jedine\u010dnou mo\u017enost v Plzni na N\u00e1m\u011bst\u00ed Republiky! Akce za\u010d\u00edn\u00e1 v 18:00 a krom\u011b setk\u00e1n\u00ed s plze\u0148sk\u00fdmi hr\u00e1\u010di si zde budete moci vychutnat pivo Gambrinus!",
+          1340272262
+        ],
+        [
+          "Fotbalisti p\u0159ed m\u011bs\u00edcem zalo\u017eili v\u00e1rku piva pro fanou\u0161ky. Dnes v hotelu Praha ochutnali sv\u00e9 d\u00edlo a podepsali ceny, kter\u00e9 Gambrinus pl\u00e1nuje d\u00e1t do chystan\u00e9 sout\u011b\u017ee. Reprezentace ochutnala pivo pro fanou\u0161ky",
+          1338388606
+        ],
+        [
+          "Sout\u011b\u017e o par\u00e1dn\u00ed ceny je v pln\u00e9m proudu. Nav\u00edc m\u016f\u017eete pojmenovat nov\u00e9 pivo Gambrinus pro sportovn\u00ed fanou\u0161ky, kter\u00e9 se bude to\u010dit t\u0159eba na fotbalov\u00fdch stadionech. A dokonce se m\u016f\u017eete z\u00fa\u010dastnit akce, kde vyberete chu\u0165 nov\u00e9ho piva.  Pojmenuj pivo pro fanou\u0161ky! Pojmenuj pivo pro fanou\u0161ky a hraj o jednu z unik\u00e1tn\u00edch cen!",
+          1338222868
+        ],
+        [
+          "Chyst\u00e1me nov\u00e9 pivo a ty m\u00e1\u0161 \u0161anci mu d\u00e1t jm\u00e9no! Nav\u00edc m\u016f\u017ee\u0161 vyhr\u00e1t super fotbalov\u00e9 ceny a dokonce mo\u017enost zvolit chu\u0165 piva, kter\u00e9 bude ur\u010den\u00e9 pro sportovn\u00ed fanou\u0161ky. Tak co, jak\u00e9 jm\u00e9no vymysl\u00ed\u0161? Pojmenuj pivo pro fanou\u0161ky! Pojmenuj pivo pro fanou\u0161ky a hraj o jednu z unik\u00e1tn\u00edch cen!",
+          1337955380
+        ],
+        [
           "M\u00e1te jedine\u010dnou \u0161anci jako prvn\u00ed vid\u011bt na\u0161\u00ed novou reklamu! P\u0159\u00edb\u011bh v\u00e1s zavede do roku 1869, kdy byl pivovar Gambrinus zalo\u017een 20 kamar\u00e1dy, d\u00edky kter\u00fdm si dnes m\u016f\u017eete vychutnat plnou chu\u0165 prav\u00e9ho \u010desk\u00e9ho piva Gambrinus Origin\u00e1l 10\u00b0. Reklamu m\u016f\u017eete od 19. kv\u011btna vid\u011bt i na va\u0161ich televizn\u00edch obrazovk\u00e1ch! Jak se v\u00e1m l\u00edb\u00ed? Gambrinus Origin\u00e1l 10\u00b0 reklama",
           1337343745
+        ],
+        [
+          "Nov\u00e1 des\u00edtka je tu! Gambrinus Origin\u00e1l 10\u00b0 m\u00e1 d\u00edky v\u011bt\u0161\u00edmu pod\u00edlu chmele i sladu pln\u011bj\u0161\u00ed chu\u0165. \nDejte si ho ve va\u0161\u00ed obl\u00edben\u00e9 Gambrinus hospod\u011b. Na zdrav\u00ed! \n\nhttp://www.gambrinus.cz/ Timeline Photos",
+          1336139501
+        ],
+        [
+          "Fanou\u0161ci s fotbalov\u00fdmi reprezentanty zalo\u017eili v\u00e1rku piva, kter\u00e1 bude hotov\u00e1 akor\u00e1t p\u0159ed mistrovstv\u00edm Evropy. Snad budeme m\u00edt b\u011bhem Eura hodn\u011b d\u016fvod\u016f k p\u0159\u00edpitk\u016fm. Reprezentanti va\u0159ili pivo Gambrinus pro fanou\u0161ky Reprezentanti Ji\u0159\u00ed \u0160tajner, Milan Petr\u017eela, David Limbersk\u00fd, Theodor Gebre Selassie a David Lafata va\u0159ili v Plzni pivo Gambrinus Origin\u00e1l 10\u00b0 pro fanou\u0161ky reprezentace.",
+          1335345274
+        ],
+        [
+          "Pos\u00edlejte pozv\u00e1nky na nefiltrovan\u00fd Gambrinus k\u00e1mo\u0161\u016fm a vyhr\u00e1vejte! Hrajeme na fb i na www.gambrinus.cz a body m\u016f\u017eete sb\u00edrat na obou m\u00edstech z\u00e1rove\u0148! Pozv\u00e1nka na pivo P\u0159\u00edznivci piva Gambrinus maj\u00ed a\u017e do jara op\u011bt mo\u017enost vychutnat si skute\u010dn\u00fd nefiltrovan\u00fd nepasterizovan\u00fd le\u017e\u00e1k Gambrinus. A proto\u017ee ka\u017ed\u00e9 dobr\u00e9 pivo nejl\u00edp chutn\u00e1 s partou kamar\u00e1d\u016f, p\u0159ipravili jsme speci\u00e1ln\u00ed pozv\u00e1nku na nefiltrovan\u00fd Gambrinus, se kterou m\u016f\u017ee\u0161 dokonce vyhr\u00e1t!",
+          1329405739
+        ],
+        [
+          "Gambrinus Sv\u011btl\u00fd si te\u010f m\u016f\u017eete nov\u011b dop\u0159\u00e1vat i na v\u00fdletech a v\u0161ude tam, kde ocen\u00edte snadnou manipulaci, nerozbitnost a hlavn\u011b n\u00edzkou v\u00e1hu PET l\u00e1hv\u00ed! Balen\u00ed piv Gambrinus / Pivo Gambrinus / Studio Gambrinus / Gambrinus.cz Gambrinus vy\u0161el vst\u0159\u00edc p\u0159\u00e1n\u00edm sv\u00fdch spot\u0159ebitel\u016f a roz\u0161\u00ed\u0159il nab\u00eddku balen\u00ed. Nyn\u00ed je nejprod\u00e1van\u011bj\u0161\u00ed \u010desk\u00e9 pivo Gambrinus Sv\u011btl\u00fd k dost\u00e1n\u00ed tak\u00e9 v 1,5litrov\u00e9 PET l\u00e1hvi.",
+          1328781594
+        ],
+        [
+          "I v nov\u00e9m roce s nezam\u011bnitelnou v\u016fn\u00ed \u010derstv\u00fdch pivovarsk\u00fdch kvasinek :) Na map\u011b si m\u016f\u017eete naj\u00edt nejbli\u017e\u0161\u00ed hospodu s nab\u00eddkou nefiltrovan\u00e9ho le\u017e\u00e1ku Gambrinus. Plat\u00ed ve vybran\u00fdch hospod\u00e1ch a to jen do konce b\u0159ezna 2012 nebo do vypit\u00ed z\u00e1sob. Nefiltrovan\u00e9 pivo / Studio Gambrinus / Gambrinus.cz Sekce nab\u00edz\u00ed informace o produktech zna\u010dky Gambrinus: druhy a slo\u017een\u00ed piv Gambrinus, uk\u00e1zky balen\u00ed, etiket aktu\u00e1ln\u00ed \u0159ady Gambrinus a technologick\u00fd postup v\u00fdroby piva. Najdete zde v\u0161echny TV a r\u00e1dio reklamy, logotypy ke sta\u017een\u00ed a info o prodejn\u00e1ch Cash & Carry \u010di fotbalov\u00fdch hospod\u00e1ch Gambrinus.",
+          1325782179
         ]
       ],
-      "dates_start": 1347927201,
-      "dates_end": 1400918090,
-      "likes_avg": 151,
-      "likes_stdev": 393,
-      "comments_avg": 20,
-      "comments_stdev": 55,
-      "shares_avg": 49,
-      "shares_stdev": 136
+      "dates_start": 1341157801,
+      "dates_end": 1410078162,
+      "likes_avg": 140,
+      "likes_stdev": 404,
+      "comments_avg": 16,
+      "comments_stdev": 43,
+      "shares_avg": 35,
+      "shares_stdev": 106
     },
     {
-      "number": 14,
+      "number": 16,
       "important": [
-        "na",
-        "pivo",
-        "kdy\u017e",
-        "chcete",
-        "hospodu",
-        "jako",
-        "ale",
-        "n\u00e1m",
-        "hospod\u00e1ch",
-        "sta\u010d\u00ed"
+        "\u017ee",
+        "timelin",
+        "le\u017e\u00e1k",
+        "chmel",
+        "najdet",
+        "gambrinus",
+        "nen\u00ed",
+        "prvn\u00ed chmel",
+        "prvn\u00ed",
+        "te\u010f"
       ],
       "common": [
-        "cz",
+        "chmel",
         "gambrinus",
-        "je",
-        "na",
-        "photos",
-        "pivo",
-        "se",
-        "si",
-        "timeline",
-        "timeline photos"
+        "gambrinus prvn\u00ed",
+        "gambrinus prvn\u00ed chmel",
+        "le\u017e\u00e1k",
+        "prvnichmel",
+        "prvn\u00ed",
+        "prvn\u00ed chmel",
+        "v\u00e1rku",
+        "www gambrinus prvnichmel"
       ],
       "messages": [
         [
-          "Chceme bezchybn\u011b na\u010depovan\u00e9 pivo. Pomozte n\u00e1m oto\u010dit pom\u011bry v hospod\u00e1ch a hodno\u0165te na www.gambrinus.cz/r/strazcivycepu! Timeline Photos",
-          1476270000
+          "D\u011bs\u00edte se, \u017ee nestihnete ochutnat ten nej\u010derstv\u011bj\u0161\u00ed le\u017e\u00e1k z leto\u0161n\u00ed prvn\u00ed sklizn\u011b? Nen\u00ed \u010deho se b\u00e1t, limitovanou v\u00e1rku Gambrinus Prvn\u00ed chmel najdete pr\u00e1v\u011b te\u010f v restaurac\u00edch i obchodech: www.gambrinus.cz/r/prvnichmel. Timeline Photos",
+          1475758801
         ],
         [
-          "Kdy\u017e chcete pivo jako z poh\u00e1dky a dostanete hrne\u010dku va\u0159, nemus\u00edte p\u011bnit. Sta\u010d\u00ed ohodnotit hospodu. #strazcivycepu\n\nwww.gambrinus.cz/strazcivycepu Timeline Photos",
-          1474462693
+          "Sv\u00e1tek piva je tady! V \u017datci \u010derstv\u011b dozr\u00e1l prvn\u00ed chmel. Vychutnejte si slavnostn\u00ed v\u00e1rku v obchod\u011b i hospod\u011b. V\u00edce na www.gambrinus.cz/prvnichmel. Dozr\u00e1l \u010das na prvn\u00ed chmel!",
+          1474549310
+        ],
+        [
+          "I tohle je Gambrinus! \u010cepovan\u00fd je \u010depovan\u00fd, ale limitovan\u00e1 v\u00e1rka le\u017e\u00e1ku Prvn\u00ed chmel v d\u00e1rkov\u00e9 lahvi za n\u00e1v\u0161t\u011bvu obchodu ur\u010dit\u011b stoj\u00ed! Timeline Photos",
+          1443782701
+        ],
+        [
+          "Tak komu jste v\u011bnovali d\u00e1rkovou lahev Gambrinus Prvn\u00ed Chmel? Nebo jste si tento le\u017e\u00e1k s \u010derstvou chmelovou v\u016fn\u00ed vychutnali sami? :-) Timeline Photos",
+          1414159201
+        ],
+        [
+          "D\u00e1rkov\u00e1 lahev s podpisem sl\u00e1dka pro p\u011bt nejrychlej\u0161\u00edch spr\u00e1vn\u00fdch odpov\u011bd\u00ed! M\u00e1me pro v\u00e1s lahve z limitovan\u00e9 edice Gambrinus Prvn\u00ed Chmel podepsan\u00e9 na\u0161\u00edm sl\u00e1dkem Pavlem Z\u00edtkem. Z\u00edsk\u00e1 ji p\u011bt nejrychlej\u0161\u00edch odpov\u011bd\u00ed na ot\u00e1zku, ze kter\u00e9 \u017eateck\u00e9 chmelnice poch\u00e1z\u00ed \u010derstv\u00fd chmel, pou\u017eit\u00fd p\u0159i va\u0159en\u00ed t\u00e9to mimo\u0159\u00e1dn\u00e9 v\u00e1rky. Timeline Photos",
+          1413986401
+        ],
+        [
+          "Taky v\u00e1m chutnal n\u00e1\u0161 le\u017e\u00e1k Gambrinus Prvn\u00ed Chmel v hospod\u011b? Od z\u00edt\u0159ka si ho m\u016f\u017eete koupit dom\u016f v d\u00e1rkov\u00e9 lahvi! Jak lahev vypad\u00e1, a kde ji se\u017eenete, se dozv\u00edte ve videu. Gambrinus Prvn\u00ed Chmel v d\u00e1rkov\u00e9 lahvi",
+          1413900487
+        ],
+        [
+          "Le\u017e\u00e1k Gambrinus Prvn\u00ed Chmel v\u00e1m fakt chutnal a u\u017e jen v n\u011bkolika hospod\u00e1ch najdete tuhle mimo\u0159\u00e1dnou v\u00e1rku na \u010depu. Ale u\u017e p\u0159\u00ed\u0161t\u00ed t\u00fdden budete m\u00edt \u0161anci si le\u017e\u00e1k z \u010derstv\u00e9ho chmele dop\u0159\u00e1t i doma. Timeline Photos",
+          1413380500
+        ],
+        [
+          "Je\u0161t\u011b po\u0159\u00e1d m\u016f\u017eete v hospod\u00e1ch ochutnat n\u00e1\u0161 mimo\u0159\u00e1dn\u00fd le\u017e\u00e1k z \u010derstv\u00e9ho chmele, Gambrinus Prvn\u00ed chmel. Ale pozor, z\u00e1soby se ten\u010d\u00ed a tenhle v\u00edkend m\u016f\u017ee b\u00fdt posledn\u00ed \u0161ance. Najd\u011bte si nejbli\u017e\u0161\u00ed hospodu na www.gambrinus.cz/prvnichmel. Timeline Photos",
+          1412344829
+        ],
+        [
+          "Mimo\u0159\u00e1dnou v\u00e1rku le\u017e\u00e1ku Gambrinus Prvn\u00ed chmel najdete u\u017e v sobotu ve v\u00edce ne\u017e dvou tis\u00edc\u00edch hospod\u00e1ch. Pod\u00edvejte se na cestu, kterou chmel urazil od kl\u00ed\u010dku a\u017e do va\u0161eho p\u016fllitru a najd\u011bte si nejbli\u017e\u0161\u00ed hospodu na www.gambrinus.cz/prvnichmel. Gambrinus Prvn\u00ed chmel (pln\u00e1 verze)",
+          1411714800
+        ]
+      ],
+      "dates_start": 1404672682,
+      "dates_end": 1456122213,
+      "likes_avg": 281,
+      "likes_stdev": 271,
+      "comments_avg": 32,
+      "comments_stdev": 27,
+      "shares_avg": 41,
+      "shares_stdev": 32
+    },
+    {
+      "number": 17,
+      "important": [
+        "timelin",
+        "ale",
+        "b\u00fdt",
+        "hospodi",
+        "kdy\u017e",
+        "photo",
+        "pivo",
+        "dejt",
+        "m\u00e1",
+        "spole\u010dn\u011b"
+      ],
+      "common": [
+        "ale",
+        "gambrinus",
+        "jsou",
+        "nebo",
+        "pivo",
+        "po",
+        "tu",
+        "vy",
+        "v\u00e1s",
+        "www"
+      ],
+      "messages": [
+        [
+          "Kdy\u017e pivo nevon\u00ed, nejsp\u00ed\u0161 m\u00e1 svoje mouchy. Poj\u010fme je spole\u010dn\u011b vychytat. Hodno\u0165te hospody na www.gambrinus.cz/r/strazcivycepu. Timeline Photos",
+          1475672401
         ],
         [
           "Sklenice je okno do du\u0161e v\u00fd\u010depn\u00edho. \u010cepuje u v\u00e1s v hospod\u011b pan v\u00fd\u010depn\u00ed, kter\u00fd v\u00ed, \u017ee sklenice mus\u00ed b\u00fdt mokr\u00e1 a vychlazen\u00e1? Nebo by zaslou\u017eil radu?\n \nDejte v\u011bd\u011bt Str\u00e1\u017ec\u016fm v\u00fd\u010depu!\nwww.gambrinus.cz/strazcivycepu Timeline Photos",
           1473240303
         ],
         [
-          "Nen\u00ed v\u011btr\u00e1k jako v\u011btr\u00e1k. Dejte n\u00e1m v\u011bd\u011bt, jak \u010depuj\u00ed pivo ve va\u0161\u00ed hospod\u011b! #strazcivycepu \n\nwww.gambrinus.cz/strazcivycepu Timeline Photos",
-          1472652901
+          "Vtipy o pivu jsou fajn, ale v\u0161eho s m\u00edrou. Nastal \u010das zam\u011b\u0159it se na kvalitu! 29. srpna vyr\u00e1\u017e\u00edme na obhl\u00eddku a vy n\u00e1s u toho m\u016f\u017eete sledovat na Stream.cz! #strazcivycepu Timeline Photos",
+          1471784401
         ],
         [
-          "\u0160pinav\u00e9 sklo? Praskl\u00e1 sklenice? Nen\u00ed n\u00e1m to jedno! Str\u00e1\u017eci v\u00fd\u010depu vyr\u00e1\u017e\u00ed na gener\u00e1ln\u00ed \u00faklid. Sledujte od 29. srpna na Stream.cz! #strazcivycepu Timeline Photos",
-          1472038201
+          "\u201eKdy\u017e pivo nem\u00e1 spr\u00e1vnou p\u011bnu, tak p\u011bn\u00edm. Vy\u0161um\u011bt to nenech\u00e1m\u201c, \u0159\u00edk\u00e1 Karel Hynek. U\u017e brzo vyraz\u00ed s kamerou na obhl\u00eddku a uk\u00e1\u017ee v\u00e1m ty nejv\u011bt\u0161\u00ed pivn\u00ed perly. #strazcivycepu Timeline Photos",
+          1471524301
+        ],
+        [
+          "Lvi se nevzd\u00e1vaj\u00ed! \u0158vali jsme a\u017e do konce a v\u00fdhru jsme Chorvatsku zaslou\u017een\u011b vyfoukli. Te\u010f p\u0159ek\u0159i\u010d\u00edme i Turecko! #\u0159vijakolev #nebu\u010fskeptik Timeline Photos",
+          1466179049
+        ],
+        [
+          "Dost bylo k\u0148our\u00e1n\u00ed po jedn\u00e9 por\u00e1\u017ece. Spole\u010dn\u011b po\u0161leme Chorvaty i pochybova\u010de ke dnu. A na to si p\u0159ipijeme! #\u0159vijakolev Timeline Photos",
+          1466078401
         ],
         [
           "Takov\u00fd \u0161pan\u011blsk\u00fd b\u00fdk je po\u0159\u00e1dn\u00e9 sousto, ale my si na tu porci v\u011b\u0159\u00edme! #\u0159vijakolev Timeline Photos",
@@ -1290,188 +1537,124 @@
           1465560001
         ],
         [
-          "Fotbalov\u00e9 mistrovstv\u00ed Evropy pr\u00e1v\u011b za\u010dalo a my stoj\u00edme za \u010deskou reprezentac\u00ed. Za\u0159v\u011bte stejn\u011b jako fotbalov\u00e1 legenda Karel Poborsk\u00fd, pomozte n\u00e1m p\u0159ek\u0159i\u010det v\u0161echny skeptiky a podpo\u0159te tak \u010desk\u00fd n\u00e1rodn\u00ed t\u00fdm! #\u0159vijakolev",
-          1465284600
+          "Jak pozn\u00e1te, \u017ee v\u00e1m v\u00fd\u010depn\u00ed p\u0159inese pivo v \u010dist\u00e9 a vychlazen\u00e9 sklenici? P\u0159esn\u011b podle krou\u017ek\u016f, kter\u00e9 tvo\u0159\u00ed kr\u00e1snou krajku na pivn\u00ed sklenici. Timeline Photos",
+          1455868801
+        ],
+        [
+          "Vydej se s kamar\u00e1dy na Nefiltrovan\u00fd le\u017e\u00e1k Gambrinus, kter\u00fd po sto\u010den\u00ed z na\u0161ich le\u017e\u00e1ck\u00fdch tank\u016f putuje ihned k v\u00e1m. Tankujeme ho \u2013 pardon, \u010depujeme, pouze v hospod\u00e1ch, kter\u00e9 mu v\u011bnuj\u00ed tu nejv\u011bt\u0161\u00ed p\u00e9\u010di - http://www.gambrinus.cz/hospody?selectMarker=type-3. Timeline Photos",
+          1450450805
         ],
         [
           "Des\u00edtku, nebo dvan\u00e1ctku? Jedno a nebo stihnu dv\u011b? To jsou dilemata, kter\u00e1 zn\u00e1 snad ka\u017ed\u00fd spr\u00e1vn\u00fd piva\u0159. Co ale ka\u017ed\u00fd piva\u0159 nezn\u00e1, je na\u0161e nov\u00e1 nepasterizovan\u00e1 dvan\u00e1ctka. Ochutnejte jednu nebo dv\u011b\u2026 Timeline Photos",
           1449594601
         ],
         [
-          "Uhasit \u017e\u00edze\u0148 rychlou des\u00edtkou je jedna v\u011bc, ale Gambrinus je i skv\u011bl\u00e1 dvan\u00e1ctka. Vychutnejte si ji u\u017e dnes. Timeline Photos",
-          1448463601
-        ],
-        [
-          "Va\u0159it pivo z \u010d\u00ednsk\u00e9ho chmele? To je jako pod\u00e1vat v restauraci mra\u017een\u00e9 potraviny.",
-          1444141800
-        ],
-        [
-          "I tohle je Gambrinus! \u010cepovan\u00fd je \u010depovan\u00fd, ale limitovan\u00e1 v\u00e1rka le\u017e\u00e1ku Prvn\u00ed chmel v d\u00e1rkov\u00e9 lahvi za n\u00e1v\u0161t\u011bvu obchodu ur\u010dit\u011b stoj\u00ed! Timeline Photos",
-          1443782701
-        ],
-        [
           "P\u0159eslazenou k\u00e1vu nebo studen\u00fd ob\u011bd v pr\u00e1ci ob\u010das p\u0159e\u017eijeme, ale kdy\u017e se jedn\u00e1 o va\u0159en\u00ed piva, stoj\u00edme si za sv\u00fdm!",
           1443526200
         ],
         [
-          "Nen\u00ed slu\u0161n\u00e9 nech\u00e1vat n\u011bkoho \u010dekat na odpov\u011b\u010f. My toto pravidlo ct\u00edme. Nedejte na \u0159e\u010di, ochutnejte a ud\u011blejte si vlastn\u00ed n\u00e1zor.",
-          1438256291
-        ],
-        [
-          "N\u011bkter\u00e9 koment\u00e1\u0159e n\u00e1m d\u011blaj\u00ed radost, kdy\u017e je \u010dteme, jin\u00e9 pak kdy\u017e na n\u011b odpov\u00edd\u00e1me. Na ty, kdo maj\u00ed jasno.",
-          1437568200
+          "V\u0161e je p\u0159ipraveno, Pivn\u00ed test pravdy vyr\u00e1\u017e\u00ed na cesty! U\u017e dnes se za t\u011bmito dve\u0159mi m\u016f\u017eete p\u0159esv\u011bd\u010dit o tom, zdali pivu opravdu rozum\u00edte. Kam s pivn\u00edm testem p\u0159ijedeme zjist\u00edte na http://www.gambrinus.cz/pivni-test-pravdy. Timeline Photos",
+          1441189801
         ],
         [
           "\u010c\u00ednsk\u00e9 suroviny?! Ale samoz\u0159ejm\u011b - a nejrad\u011bji s r\u00fd\u017e\u00ed.",
           1436796900
         ],
         [
-          "I v na\u0161\u00ed nov\u00e9 reklam\u011b jsme dodr\u017eovali fyzik\u00e1ln\u00ed z\u00e1kony: \u201eM\u00fdtus pono\u0159en\u00fd do pt\u00e1koviny je nadleh\u010dov\u00e1n silou, kter\u00e1 se rovn\u00e1 v\u00e1ze kapaliny hodinkami s vodotryskem vytla\u010den\u00e9.\"",
-          1436365801
+          "V\u011b\u0159\u00edte na europivo? Pak ur\u010dit\u011b v\u011b\u0159\u00edte i na jednoro\u017ece, sn\u011b\u017en\u00e9 mu\u017ee a tomu, \u017ee pivo roste na stromech. Na zdrav\u00ed! Timeline Photos",
+          1435761001
         ],
         [
-          "Na\u0161\u00ed vizitkou je dob\u0159e uva\u0159en\u00e9 pivo. \u010cist\u00e1 sklenice je vizitkou va\u0161eho v\u00fd\u010depn\u00edho. Souhlas\u00edte? Timeline Photos",
-          1433862001
+          "Fotbalist\u016fm u\u017e p\u0159\u00edprava na ligu b\u011b\u017e\u00ed, za\u010dn\u011bte se na sledov\u00e1n\u00ed z\u00e1pas\u016f u pivka chystat i vy! Seznam zapojen\u00fdch hospod a pravidla na www.gambrinus.cz. Timeline Photos",
+          1422891515
         ],
         [
-          "Dle Va\u0161ich obcho\u010f\u00e1k\u016f se od z\u00e1\u0159\u00ed p\u0159estane vyr\u00e1b\u011bt sudov\u00e1 des\u00edtka? Pro\u010d , kdy\u017e je to nej\u017e\u00e1dan\u011bj\u0161\u00ed pivo?",
-          1433679214
+          "Vyraz\u00edte v ned\u011bli fandit na stadion? Nezapome\u0148te si po skon\u010den\u00ed vyzvednout sb\u011bratelskou plechovku Gambrinusu. A pod\u011bkovat tren\u00e9ru Vrbovi, kter\u00fd pro v\u00e1s pivo zdarma vybojoval :-) Vrb\u016fv n\u00e1vrat do Plzn\u011b a pro fandy pivo zdarma. Moc se t\u011b\u0161\u00edm, \u0159\u00edk\u00e1 kou\u010d - iDNES.cz Fanf\u00e1ry, pros\u00edm! Tren\u00e9r fotbalov\u00e9 reprezentace Pavel Vrba v \u00fater\u00fd p\u0159ed ob\u011bdem p\u0159evzal \u0161ek na tis\u00edce piv. D\u00edky tomu, jak bravurn\u011b zvl\u00e1dl kvalifika\u010dn\u00ed dvojz\u00e1pas v Turecku a Kazachst\u00e1nu, vyhr\u00e1l s\u00e1zku s pivovarem Gambrinus. Ka\u017ed\u00fd dosp\u011bl\u00fd fanou\u0161ek, kter\u00fd po ned\u011bln\u00edm utk\u00e1n\u00ed s Islandem p\u016fjde z plze\u0148sk\u00e9ho s\u2026",
+          1415982600
         ],
         [
-          "Jsme n\u00e1rod pivn\u00edch znalc\u016f, nebo d\u00e1me na to, co si mysl\u00ed ostatn\u00ed? Koukn\u011bte se na video a pod\u011blte se s n\u00e1mi o va\u0161e n\u00e1zory!",
-          1433175478
+          "Sb\u00edrejte Gambrinus plechovky s karikaturami 11 fotbalist\u016f. Zn: Omezen\u011b! Timeline Photos",
+          1410782412
         ],
         [
-          "N\u011bkdo si je\u0161t\u011b nestihl sko\u010dit na jedno a p\u016flka jarn\u00ed v\u00e1rky u\u017e je pry\u010d. Honem to napravte, dokud p\u00edpa a hospodsk\u00fd d\u00e1v\u00e1.",
-          1432299601
-        ],
-        [
-          "Stejn\u011b jako p\u0159ed 70 lety do Plzn\u011b doraz\u00ed trocha Ameriky. Oslavte s n\u00e1mi v\u00fdro\u010d\u00ed osvobozen\u00ed mimo\u0159\u00e1dnou v\u00e1rkou le\u017e\u00e1ku Gambrinus s americk\u00fdm chmelem. Tato v\u00e1rka se bude \u010depovat ji\u017e od 1. 5. v n\u00e1v\u0161t\u011bvnick\u00e9m centru pivovaru Gambrinus.\n\nhttp://www.prazdrojvisit.cz/prohlidky/prohlidka-pivovaru-gambrinus/ Timeline Photos",
-          1430391604
-        ],
-        [
-          "Sobotn\u00ed proch\u00e1zka a jedno excelentn\u00ed za odm\u011bnu :)",
-          1428766729
-        ],
-        [
-          "Fotbalov\u00e9 ned\u011ble jedou d\u00e1l. Dejte si s chlapama v hospod\u011b 6 Gamb\u00e1\u010d\u016f a tipn\u011bte na v\u00fdsledek z\u00e1pasu. Za spr\u00e1vn\u00fd tip m\u016f\u017eete hned z\u00edskat jednu z cen pro fotbalov\u00e9 odborn\u00edky. Gambrinus Fotbalov\u00e9 ned\u011ble Najd\u011bte si nejbli\u017e\u0161\u00ed zapojenou hospodu.",
-          1425570514
-        ],
-        [
-          "Liga je zp\u00e1tky a fotbalov\u00e9 ned\u011ble taky. Dejte si s chlapama v hospod\u011b 6 Gamb\u00e1\u010d\u016f a tipn\u011bte na v\u00fdsledek z\u00e1pasu. Za spr\u00e1vn\u00fd tip m\u016f\u017eete hned z\u00edskat jednu z cen pro fotbalov\u00e9 odborn\u00edky. Timeline Photos",
-          1425051227
-        ],
-        [
-          "Je tady dal\u0161\u00ed fotbalov\u00e1 ned\u011ble! Seznam hospod najdete na www.gambrinus.cz/fotbal. Timeline Photos",
-          1408107633
-        ],
-        [
-          "Nov\u00e1 sezona je tady, tak uka\u017ete, \u017ee rozum\u00edte \u010desk\u00e9mu fotbalu! Sestavte si sv\u016fj t\u00fdm na www.fanliga.cz a vyhrajte z\u00e1pas s repre do ciziny. Gambrinus Fanliga",
-          1405774800
-        ],
-        [
-          "\u010cesk\u00fd chlap v\u00ed, \u017ee dobr\u00fd fotbal si \u010dlov\u011bk mus\u00ed vychutnat. Stejn\u011b jako dobr\u00e9 pivo. Ale vykl\u00e1dejte to t\u011bm amat\u00e9r\u016fm v Braz\u00edlii\u2026 U\u017eijte si \u010dtvrtfin\u00e1le od z\u00edt\u0159ka v n\u011bkter\u00e9 z na\u0161ich hospod, kde pivo rozhodn\u011b nikdo zakazovat nebude! http://www.gambrinus.cz/cz/fotbal/ Na MS je moc opil\u00fdch fanou\u0161k\u016f, FIFA zva\u017euje z\u00e1kaz prodeje piva - iDNES.cz Na mistrovstv\u00ed sv\u011bta u\u017e do\u0161lo k n\u011bkolika poty\u010dk\u00e1m fanou\u0161k\u016f. Sv\u011btov\u00e1 fotbalov\u00e1 federace FIFA kv\u016fli tomu uva\u017euje o budouc\u00edm z\u00e1kazu prodeje alkoholick\u00fdch n\u00e1poj\u016f na stadionech. P\u0159ed \u0161ampion\u00e1tem p\u0159itom p\u0159inutila Braz\u00edlii, aby pr\u00e1v\u011b tento z\u00e1kaz zru\u0161ila.",
-          1404399601
-        ],
-        [
-          "Nepasterizovan\u00fd Gambrinus zvl\u00e1dne o\u017eivit va\u0161i hospodu stejn\u011b jako ti nejlep\u0161\u00ed bl\u00e1zni a klauni. \u010c\u00edm se r\u00e1di bav\u00edte ve va\u0161\u00ed hospod\u011b? Timeline Photos",
-          1401033616
-        ],
-        [
-          "Nejkr\u00e1sn\u011bj\u0161\u00ed pohled je, kdy\u017e dob\u0159e vychlazen\u00e1 plechovka Gamb\u00e1\u010de romanticky lad\u00ed s ve\u010dern\u00ed oblohou. Timeline Photos",
-          1398429008
-        ],
-        [
-          "P\u00e1nov\u00e9, v pond\u011bl\u00ed se postar\u00e1me o to, aby n\u00e1m neuschly na\u0161e \u017eeny, ale p\u0159i pleten\u00ed poml\u00e1zky nesm\u00edme uschnout my. P\u011bkn\u00e9 Velikonoce! Timeline Photos",
-          1397764814
+          "Posledn\u00edch 24 hodin do spu\u0161t\u011bn\u00ed 1. kola Gambrinus Fanligy! Hned v prvn\u00edm kole jsou ve h\u0159e vstupenky na kvalifikaci proti Nizozemsku a 10 sud\u016f piva. Sestavte si sv\u016fj v\u00edt\u011bzn\u00fd t\u00fdm na www.fanliga.cz. Timeline Photos",
+          1406209804
         ],
         [
           "N\u011bkdo si k hust\u00e9 p\u011bn\u011b pom\u00e1h\u00e1 r\u016fzn\u00fdmi p\u0159\u00edsadami. Ale tahle \"smetana\" na Gambrinusu nic takov\u00e9ho nepot\u0159ebuje. Timeline Photos",
           1396876823
         ],
         [
-          "Kdo v\u00e1s nau\u010dil p\u00edt pivo? D\u011bda, t\u00e1ta, kamar\u00e1di?",
-          1389200400
+          "V ka\u017ed\u00e9m loku Gambrinusu je kousek Sl\u00e1dka. Ale nenechte se zm\u00e1st - n\u00e1\u0161 sl\u00e1dek se ve va\u0161em pivu samoz\u0159ejm\u011b nekoupe. Sl\u00e1dek se jmenuje chmelov\u00e1 odr\u016fda, kter\u00e1 d\u00e1v\u00e1 Gamb\u00e1\u010di tu spr\u00e1vn\u011b jemnou ho\u0159kost. Timeline Photos",
+          1395244214
         ],
         [
-          "V zim\u011b se stm\u00edv\u00e1 brzy. Jedno pivo n\u00e1m ale m\u016f\u017ee den doslova proz\u00e1\u0159it! Timeline Photos",
-          1386176408
+          "Dlouh\u00e9 zimn\u00ed ve\u010dery se daj\u00ed tr\u00e1vit r\u016fzn\u011b. \u010c\u00edm se v hospod\u011b bav\u00edte vy? :) Timeline Photos",
+          1389888009
+        ],
+        [
+          "V\u00e1noce jsou sv\u00e1tky klidu, m\u00edru... a piva? Timeline Photos",
+          1387968044
         ],
         [
           "O futra? O druh\u00e9 pivo? Nebo norm\u00e1ln\u011b otv\u00edr\u00e1kem? Jak\u00fd je v\u00e1\u0161 obl\u00edben\u00fd zp\u016fsob? ;) Timeline Photos",
           1385917210
         ],
         [
-          "Je tady posledn\u00ed leto\u0161n\u00ed kolo Gambrinus ligy a to je d\u016fvod otev\u0159\u00edt si pivko a p\u011bkn\u011b si z\u00e1pasy vychutnat ;) Kdo se k n\u00e1m p\u0159id\u00e1? Timeline Photos",
-          1385737210
-        ],
-        [
           "Kde se podle v\u00e1s pivo nejl\u00edp vychlad\u00ed? V ledni\u010dce nebo na sedm\u00e9m schodu? ;) Timeline Photos",
           1384707631
         ],
         [
-          "Pot\u0159ebujeme poradit! Pivo bez p\u011bny je jako:_______ \nCo byste doplnili? ;) Timeline Photos",
-          1383498010
+          "My \u0159\u00edk\u00e1me \"dopijem a p\u016fjdem\". Jak se to \u0159\u00edk\u00e1 u v\u00e1s? Timeline Photos",
+          1384448408
+        ],
+        [
+          "\u0158\u00edk\u00e1 se, \u017ee teprve pivo d\u011bl\u00e1 \u017e\u00edze\u0148 kr\u00e1snou. Souhlas\u00edte? :) Timeline Photos",
+          1384102814
+        ],
+        [
+          "\u0158\u00edk\u00e1 se, \u017ee \u010ce\u0161i jsou m\u00edrumilovn\u00fd n\u00e1rod. Miluj\u00ed toti\u017e spr\u00e1vnou m\u00edru. :) Timeline Photos",
+          1383843608
+        ],
+        [
+          "POZOR!\nGambrinus Team se lou\u010d\u00ed. Tak nev\u00e1hej a vyu\u017eij posledn\u00ed \u0161anci ulovit si v\u00fdhru do konce listopadu!\nhttp://www.gambrinusteam.cz/ Timeline Photos",
+          1383240603
         ],
         [
           "Z\u00edskej pivo na rok zdarma! \u0160anci m\u00e1\u0161 na www.fanliga.cz a\u017e do 16. kola! Timeline Photos",
           1382626808
         ],
         [
-          "Souboj pivn\u00edch metropol\u00ed je tady! Like v\u0161ichni kdo si mysl\u00ed, \u017ee je plze\u0148sk\u00e9 lep\u0161\u00ed, ne\u017e bavorsk\u00e9! Timeline Photos",
-          1382540408
+          "Uh\u00e1dnete, co pro v\u00e1s chyst\u00e1me? ;) Timeline Photos",
+          1379581206
         ],
         [
-          "Tak\u00e9 dnes nem\u016f\u017ee\u0161 naj\u00edt kamar\u00e1dy online na Facebooku? Z\u0159ejm\u011b \u0161li na Gambrinus za 20K\u010d, proto\u017ee je op\u011bt \u00fater\u00fd! Hospodu, kde kamar\u00e1dy najde\u0161, hledej na www.gambrinus.cz ;) Timeline Photos",
-          1382446803
+          "Nic v\u00e1m nezkaz\u00ed p\u00e1tek tak, jako zji\u0161t\u011bn\u00ed, \u017ee je teprve st\u0159eda! P\u00e1te\u010dn\u00ed Gambrinus toti\u017e chutn\u00e1 nejl\u00e9pe. :) Timeline Photos",
+          1379516403
         ],
         [
-          "Je p\u00e1tek, to si \u0159\u00edk\u00e1 o jedno! Timeline Photos",
-          1380895205
+          "A Vy? Jak tipujete odvetu? Timeline Photos",
+          1377154989
         ],
         [
-          "Spr\u00e1vn\u00fd hospodsk\u00fd m\u00e1 \u0159\u00edz, stejn\u011b jako jeho pivo. Jak\u00fd je ten v\u00e1\u0161? Timeline Photos",
-          1380812403
+          "Krom\u011b Jam Rocku budeme i na dal\u0161\u00edch festivalech a vy si na www.gambrinusteam.cz m\u016f\u017eete koupit l\u00edstky na n\u011b. Nev\u00e1hejte a p\u0159ije\u010fte za n\u00e1mi na fes\u0165\u00e1k. Timeline Photos",
+          1372521604
         ],
         [
-          "Kdo m\u00e1 rad\u0161i \u010depovan\u00e9, d\u00e1 lajk, kdo lahv\u00e1\u010de, nap\u00ed\u0161e n\u00e1m pro\u010d! Timeline Photos",
-          1379343605
+          "A\u017e do konce srpna m\u016f\u017eete p\u0159i natankov\u00e1n\u00ed u Agipu z\u00edskat d\u00e1rky od Gambrinusu. Ale pozor, pivo tankujete na doma, za volant nepat\u0159\u00ed ;) Wall Photos",
+          1370361607
         ],
         [
-          "Dnes je den lev\u00e1k\u016f. Je jedno, jestli budete p\u00edt Gambrinus levou nebo pravou rukou, hlavn\u011b kdy\u017e chutn\u00e1. Prav\u00e1ci koment\u00e1\u0159, lev\u00e1ci like ;) Timeline Photos",
-          1376408704
+          "Nebudeme v\u00e1s d\u00e9le tr\u00e1pit. Nov\u00fd pivn\u00ed po\u0159ad Na Podt\u00e1cku bude moderovat Petr \u010ctvrtn\u00ed\u010dek. A nejen to ;) Prvn\u00ed d\u00edl bude za dva dny, ale vy, na\u0161i fanou\u0161ci, se na n\u011bj m\u016f\u017eete pod\u00edvat na www.facebook.com/Gambrinus.cz/app_505360962834248 u\u017e te\u010f. Sd\u00edlejte kamar\u00e1d\u016fm, a\u0165 se taky pobav\u00ed. Wall Photos",
+          1366200909
         ],
         [
-          "Je\u0161t\u011b jedna p\u0159ipom\u00ednka festivalu JamRock, kter\u00fd jsme si u\u017eili spole\u010dn\u011b. Byli jste, nebo se chyst\u00e1te na jin\u00fd fes\u0165\u00e1k? Co t\u0159eba na Ben\u00e1tskou noc nebo S\u00e1zavafest, kde se op\u011bt budete moct potkat s Gambrinusem? Gambrinus na festivalu JamRock 2013 Gambrinus osv\u011b\u017e\u00ed na letn\u00edch festivalech. Byli jsme i na leto\u0161n\u00edm JamRocku. Sledujte n\u00e1s na www.facebook.com/Gambrinus.cz",
-          1374152402
+          "Pro p\u0159ipomenut\u00ed v\u00fdsledk\u016f 17. kola Gambrinus ligy jsme pro v\u00e1s p\u0159ipravili grafiku. Kter\u00fd v\u00fdsledek v\u00e1s nejv\u00edce p\u0159ekvapil? Timeline Photos",
+          1361880665
         ],
         [
-          "V Gambrinus Fanlize na www.fanliga.cz m\u016f\u017ee\u0161 ve sv\u00e9m t\u00fdmu ur\u010dovat, kdo bude kapit\u00e1n. Pod\u00edvej se, jak v\u00fdb\u011br kapit\u00e1na vy\u0159e\u0161il Jakub Koh\u00e1k. Koh\u00e1k srazil bobra Jakub Koh\u00e1k rozhodl, kdo bude kapit\u00e1nem v Gambrinus Fanlize. Pod\u00edvej se, kdo m\u00e1 zuby jako bobr a jestli vybral Koh\u00e1k dob\u0159e. Nebo si vyber s\u00e1m na www.fanliga....",
-          1373634001
-        ],
-        [
-          "Na plze\u0148sk\u00e9m n\u00e1m\u011bst\u00ed vypukly v sobotu p\u0159ed p\u016flnoc\u00ed hlavn\u00ed oslavy. \u010cerstv\u00ed mist\u0159i si s fanou\u0161ky p\u0159ipili na dal\u0161\u00ed velk\u00fd \u00fasp\u011bch v historii klubu i m\u011bsta. A Gambrinus p\u0159ipravil piva k p\u0159\u00edpitku jako odm\u011bnu fanou\u0161k\u016fm za p\u0159\u00edze\u0148 a podporu. Oslava mistrovsk\u00e9ho titulu Viktorky s fanou\u0161ky",
-          1370159844
-        ],
-        [
-          "Milujete pivo? Uka\u017ete n\u00e1m, jak to na prvn\u00edho m\u00e1je d\u00e1te Gambrinusu najevo. Po\u0161lete n\u00e1m fotky. Wall Photos",
-          1367402408
-        ],
-        [
-          "Jsme pivn\u00ed n\u00e1rod a nem\u00e1me video po\u0159ad speci\u00e1ln\u011b pro piva\u0159e? No je to norm\u00e1ln\u00ed? Gambrinus zachra\u0148uje situaci a na pomoc si pozval vtip\u00e1lka, kter\u00e9ho ur\u010dit\u011b zn\u00e1te. Pozn\u00e1te ho ale z t\u00e9to fotky? Wall Photos",
-          1366029910
-        ],
-        [
-          "Kdo je podle v\u00e1s nejv\u011bt\u0161\u00ed zimn\u00ed posila v Gambrinus lize? Timeline Photos",
-          1361368815
-        ],
-        [
-          "I kdy\u017e to s pitm nem\u00e1 nic spole\u010dn\u00fdho",
-          1361033874
-        ],
-        [
-          "Tak co, budete fandit nebo slav\u00edte Valent\u00fdn? Gambrinus samoz\u0159ejm\u011b nefand\u00ed jen Plzni, ale i Spart\u011b. Fand\u00edme spole\u010dn\u011b \u010desk\u00e9mu fotbalu! Timeline Photos",
-          1360860618
+          "Tuhle fotku n\u00e1m poslal Maykl Br\u016f\u017eek ze sv\u00e9ho 13-ti m\u011bs\u00ed\u010dn\u00edho cykloputov\u00e1n\u00ed po Ji\u017en\u00ed Americe. Narazil zde na hosp\u016fdku Gambrinus: \"Nach\u00e1z\u00ed se v br\u00e1n\u011b do Patagonie, mal\u00e9m m\u011bste\u010dku Bah\u00eda Blanca a jej\u00ed v\u00fdv\u011bsn\u00ed \u0161t\u00edt mus\u00ed zaujmout snad ka\u017ed\u00e9ho \u010desk\u00e9ho piva\u0159e, tedy i m\u011b :) Hospoda je to sice hezk\u00e1 s p\u0159\u00edjemn\u00fdm interi\u00e9rem a obsluhou, maj\u00ed tam v\u00fdb\u011br to\u010den\u00fdch i lahvov\u00fdch piv, ale na \u010desk\u00e9m Gambrinusu si tam nepochutn\u00e1te. Samoz\u0159ejm\u011b \u017ee jsem se po n\u011bm ptal, ale v\u016fbec ho neznaj\u00ed, i kdy\u017e hospoda vznikla pouh\u00fdch 20 let po zah\u00e1jen\u00ed provozu Prvn\u00edho plze\u0148sk\u00e9ho akciov\u00e9ho pivovaru v Plzni, tedy roku 1890!\" p\u00ed\u0161e Maykl. A my se pt\u00e1me, kde nejd\u00e1l od \u010ceska jste na Gambrinus narazili vy? Timeline Photos",
+          1361283318
         ],
         [
           "Hon\u00edte v takov\u00e9 zim\u011b bal\u00f3n, nebo rad\u011bji vyraz\u00edte ne ly\u017ee? Timeline Photos",
@@ -1482,6 +1665,22 @@
           1358951402
         ],
         [
+          "Je p\u00e1tek, do konce pracovn\u00ed doby zb\u00fdv\u00e1 u\u017e jen chvilka a \u010das se vylo\u017een\u011b vle\u010de\u2026 A proto tu m\u00e1me pro v\u00e1s d\u00e1rek, u\u017eijte si ho! Timeline Photos",
+          1358514601
+        ],
+        [
+          "Gambrinus slav\u00ed 25000 fanou\u0161k\u016f, na to se napijeme! Timeline Photos",
+          1358268834
+        ],
+        [
+          "V\u00e1no\u010dn\u011b novoro\u010dn\u00ed hra o sudy Gambrinus skon\u010dila, ji\u017e m\u00e1me v\u00fdherce v\u0161ech kol, kter\u00fdm srde\u010dn\u011b gratulujeme! Vy, kdo\u017e jste nevyhr\u00e1li, nesmutn\u011bte - p\u0159iprav\u00edme pro V\u00e1s dal\u0161\u00ed sout\u011b\u017ee :-)\r\n\r\nV\u00fdherci jsou vyv\u011b\u0161eni zde: http://on.fb.me/UJXYRd Timeline Photos",
+          1357742114
+        ],
+        [
+          "Posledn\u00ed \u0161ance sout\u011b\u017eit o sudy Gambrinus - v ned\u011bli vyhla\u0161ujeme v\u00edt\u011bze, je\u0161t\u011b to stihnete! Timeline Photos",
+          1357301400
+        ],
+        [
           "Je tu nov\u00fd rok a Gambrinus st\u00e1le nad\u011bluje. A\u017e do T\u0159\u00ed kr\u00e1l\u016f! Timeline Photos",
           1357137001
         ],
@@ -1490,16 +1689,36 @@
           1356958801
         ],
         [
-          "Kdo se boj\u00ed \u010derta, LIKE :) Timeline Photos",
-          1354698259
+          "Uf, sladk\u00e9 a tu\u010dn\u00e9 sv\u00e1tky jsou za n\u00e1mi, a te\u010f je t\u0159eba v\u0161e vysportovat, hur\u00e1 na ly\u017ee! Timeline Photos",
+          1356610800
         ],
         [
-          "U\u017e je to tady, Mikul\u00e1\u0161 se bl\u00ed\u017e\u00ed! Timeline Photos",
-          1354550000
+          "V\u00e1no\u010dn\u00ed \u010das je jak stvo\u0159en\u00fd k dobr\u00fdm skutk\u016fm. Dej si Gambrinus a pomoz t\u0159eba babi\u010dce :) Timeline Photos",
+          1355758201
+        ],
+        [
+          "\u017deny Movember podporuj\u00ed po sv\u00e9m. Kn\u00edr z p\u011bny pivka Gambrinus je toti\u017e lah\u016fdka! Jste i vy hrd\u00ed na sv\u016fj kn\u00edr? Nenechte si uj\u00edt posledn\u00ed Movember ve\u010d\u00edrky. Timeline Photos",
+          1354285632
+        ],
+        [
+          "Olomouc dnes sv\u00fdm fanou\u0161k\u016fm neud\u011blala radost. Po proh\u0159e 0:1 jim tak zvedly n\u00e1ladu alespo\u0148 vouchery na pivo za b\u016fra, kter\u00e9 rozd\u00e1valy hostesky. Timeline Photos",
+          1353267417
+        ],
+        [
+          "Fanou\u0161ci Sigmy Olomouc se v ned\u011bli mohou t\u011b\u0161it na pivo za b\u016fra! Ka\u017ed\u00fd n\u00e1v\u0161t\u011bvn\u00edk z\u00e1pasu star\u0161\u00ed osmn\u00e1cti let obdr\u017e\u00ed voucher, kter\u00fd bude platn\u00fd 24 hodin po utk\u00e1n\u00ed ve vybran\u00fdch restaura\u010dn\u00edch za\u0159\u00edzen\u00edch. Jejich seznam najdou fanou\u0161ci tak\u00e9 na voucheru. Timeline Photos",
+          1353080962
         ],
         [
           "Dnes je tu \u017e\u00edzniv\u00e9 \u00fater\u00fd naposledy! Pokud se v\u00e1m tato skv\u011bl\u00e1 akce l\u00edbila, dejte n\u00e1m LIKE! Timeline Photos",
           1351611606
+        ],
+        [
+          "Mal\u00e1 \u00fatern\u00ed lekce investov\u00e1n\u00ed :) Timeline Photos",
+          1350997519
+        ],
+        [
+          "GambrinusTeam pro v\u00e1s p\u0159ipravil tis\u00edce litr\u016f piva! \r\nKupuj i ty na http://www.gambrinusteam.cz/eshop Timeline Photos",
+          1350370747
         ],
         [
           "A je tu zase \u00fater\u00fd! \u010cas uk\u00e1zat, kdo u\u017e je velkej kluk a kdo je\u0161t\u011b po\u0159\u00e1d mal\u00fd pivo...:) Timeline Photos",
@@ -1510,6 +1729,18 @@
           1348571687
         ],
         [
+          "Chyst\u00e1te se dnes na z\u00e1pas Slavie s Teplicemi? Pak po vstupu na stadion obdr\u017e\u00edte voucher na pivo za b\u016fra. Platit bude po skon\u010den\u00ed utk\u00e1n\u00ed v okoln\u00edch restaurac\u00edch po dobu 24 hodin. Timeline Photos",
+          1348037027
+        ],
+        [
+          "Ji\u017e ve st\u0159edu se p\u0159\u00edznivci Slavie mohou t\u011b\u0161it na pivo za b\u016fra, kter\u00e9 je odm\u011bnou za p\u011bt g\u00f3l\u016f v s\u00edti Zbrojovky. Fand\u011bte sv\u00e9mu t\u00fdmu v Gambrinus lize a t\u0159eba se brzy do\u010dk\u00e1te i vy! Timeline Photos",
+          1347868134
+        ],
+        [
+          "Pe\u010dliv\u011b sledujeme v\u00fdvoj po\u010das\u00ed na dne\u0161n\u00ed ve\u010der a m\u00e1me skv\u011blou zpr\u00e1vu! Na zahajovac\u00ed koncery skupin J.A.R. a Rybi\u010dky 48 ji\u017e pr\u0161et nebude a dokonce n\u00e1m vysvitne i slun\u00ed\u010dko! Tak\u017ee pivka do ruky a v\u0161ichni p\u0159ed stage! Timeline Photos",
+          1346405199
+        ],
+        [
           "Deset dvacet, p\u0159ed hospodou za hospodou nikdo nesm\u00ed st\u00e1t! \u017d\u00edzniv\u00e9 \u00fater\u00fd T\u011b stejn\u011b najde! :D \r\n\r\nNa schov\u00e1vanou hrajeme i dnes v t\u011bchto restaurac\u00edch a hospod\u00e1ch: http://www.gambrinus.cz/akce/v-hospodach/ziznive-uterky/ Timeline Photos",
           1345549959
         ],
@@ -1518,34 +1749,135 @@
           1344946950
         ],
         [
-          "Gambrinus Ochucen\u00fd je po\u0159\u00e1dn\u00e1 pecka, mrkn\u011bte sami...\nNikdy nev\u00edte, odkud p\u0159ilet\u00ed, ale to osv\u011b\u017een\u00ed stoj\u00ed za to. Gambrinus Ochucen\u00fd - vodn\u00ed bal\u00f3nkov\u00e1 bitva",
-          1339485907
+          "P\u0159iznejte dnes kamar\u00e1d\u016fm, kde budete tr\u00e1vit sv\u016fj voln\u00fd \u010das! :) Napi\u0161te n\u00e1m, kam p\u016fjdete... \u017d\u00edzniv\u00e9 \u00faterky P\u0159ij\u010fte si do vybran\u00fdch restaurac\u00ed a hospod d\u00e1t velk\u00fd Gambrinus za cenu mal\u00e9ho! Jsou tradice, kter\u00e9 stoj\u00ed za to dodr\u017eovat!",
+          1344319499
         ],
         [
-          "\u0158\u00edkal jsem, \u017ee \u017eensk\u00fd p\u0159ed \u0159\u00edzen\u00edm transport\u00e9ru nemaj\u00ed p\u00edt. Ale pr\u00fd bez Gambrinusu to nechce jet rovn\u011b ..... :-))",
-          1336405654
+          "\u017d\u00edzniv\u00e9 \u00faterky jsou ji\u017e za dve\u0159mi! Ji\u017e z\u00edtra si ve vybran\u00fdch hospod\u00e1ch vychutn\u00e1te velk\u00fd Gambrinus za cenu mal\u00e9ho! Seznam zapojen\u00fdch provozoven najdete na: http://www.gambrinus.cz/zabava/akce/ziznive-uterky/ Timeline Photos",
+          1344242373
         ],
         [
-          "Nov\u00e1 des\u00edtka je tu! Gambrinus Origin\u00e1l 10\u00b0 m\u00e1 d\u00edky v\u011bt\u0161\u00edmu pod\u00edlu chmele i sladu pln\u011bj\u0161\u00ed chu\u0165. \nDejte si ho ve va\u0161\u00ed obl\u00edben\u00e9 Gambrinus hospod\u011b. Na zdrav\u00ed! \n\nhttp://www.gambrinus.cz/ Timeline Photos",
-          1336139501
+          "Je\u0161t\u011b je \u010das se registrovat na Vodn\u00ed bal\u00f3nkovou bitvu s Ochucen\u00fdm ve \u017dlut\u00fdch l\u00e1zn\u00edch!\r\nhttps://www.facebook.com/GambrinusOchuceny/app_298475993574642 Timeline Photos",
+          1342609216
         ],
         [
-          "Tak tenhle t\u00fdpek je tedy hodn\u011b st\u0159elenej:), ale brejle m\u00e1 p\u011bkn\u00fd, ne?\nhttp://youtu.be/A5Zt3NOKZyM Kontakt s UFO nav\u00e1z\u00e1n Denn\u011b v\u00e1m m\u016f\u017eou p\u0159ist\u00e1t d\u00e1rky t\u00e9m\u011b\u0159 bez varov\u00e1n\u00ed. Byl jsi taky vybr\u00e1n? Bu\u010f p\u0159ipraven a vyhr\u00e1vej cel\u00fd rok. P\u0159ipoj se na http://www.gambrinusteam.cz",
-          1335504660
+          "Vid\u00edte se na fotk\u00e1ch? R\u00e1di v\u00e1s pozn\u00e1me - ozna\u010dte se! Masters of Rock s Gambrinusem",
+          1342371600
         ],
         [
-          "Chcete v\u011bd\u011bt, jak\u00fd zp\u016fsob doru\u010dov\u00e1n\u00ed d\u00e1rk\u016f v\u00fdherc\u016fm zvolilo na\u0161e marketingov\u00e9 odd\u011blen\u00ed? Mrkn\u011bte na video, maj to fakt vychytan\u00fd:)!!!\n\nhttp://youtu.be/D9hVX5KB2UI Marketingov\u00e9 v\u00fdmysly Denn\u011b v\u00e1m m\u016f\u017eou p\u0159ist\u00e1t d\u00e1rky bez varov\u00e1n\u00ed. Vyhr\u00e1vej cel\u00fd rok. P\u0159ipoj se na http://www.gambrinusteam.cz",
-          1335367755
+          "Koho dneska podpo\u0159\u00edte v duelu: After Hours, nebo UnderGaters? V p\u0159est\u00e1vk\u00e1ch nezapome\u0148te na prvn\u00ed kvalifikaci na Mistrovstv\u00ed \u010cR v dr\u017een\u00ed tupl\u00e1k\u016f na \u010das. V\u00edt\u011bz si odnese karton piva, ale hlavn\u011b postupuje do semifin\u00e1lov\u00fdch souboj\u016f na Pilsner Festu. Timeline Photos",
+          1340866429
+        ],
+        [
+          "Gambrinus uvedl na trh nov\u00e9 \u017er\u00e1dlo pro psy, jen jsou po n\u011bm tak trochu hlu\u010dn\u00ed:) http://youtu.be/SgVThCx-LQw Pes se\u017eral telefon Norm\u00e1ln\u011b \u0161t\u011bkal a najednou se ze shora ozvalo \"\u0161\u016f\u016f\u016f\u016f\u016f\" a bylo! Te\u010f teda u\u017e moc ne\u0161t\u011bk\u00e1, zato ob\u010das zazvon\u00ed...",
+          1335607597
+        ],
+        [
+          "PHELPS VS XBOX360 KINECT http://www.youtube.com/watch?v=gE1VImsFAmw&feature=fvst\nMal\u00e1 ochutn\u00e1vka Xbox 360 + Kinect, o kter\u00fd s n\u00e1mi na m\u016f\u017eete je\u0161t\u011b do konce dubna hr\u00e1t denn\u011b na www.gambrinusteam.cz! \n Michael Phelps: Push the Limit - Xbox 360 Kinect - Debut Trailer (Subtitulado) La editora 505 Games ha anunciado hoy el primer juego nacido de su asociaci\u00f3n con Michael Phelps, nadador estadounidense ganador de 14 medallas de oro ol\u00edmpi...",
+          1335528243
+        ],
+        [
+          "CHCE\u0160 NA Z\u00cdT\u0158EJ\u0160\u00cd TURN\u00c9 WANASTOWEK DO PLZN\u011a?!! Gambrinusteam ma listky pro tebe a tvoje kamose! Sleduj www.gambrinusteam.cz, kde si budes moci od dnesniho odpoledne koupit 2 listky za 25 bodu! Listky vam predame pred akci zitra. Timeline Photos",
+          1333359099
+        ],
+        [
+          "Jeden, kter\u00fd si v nastal\u00e9 epidemii podobn\u00fdch vt\u00edpk\u016f prost\u011b nem\u016f\u017eeme odpustit :) Timeline Photos",
+          1329842231
         ]
       ],
-      "dates_start": 1356331989,
-      "dates_end": 1440158804,
-      "likes_avg": 562,
-      "likes_stdev": 1424,
-      "comments_avg": 38,
-      "comments_stdev": 74,
-      "shares_avg": 83,
-      "shares_stdev": 272
+      "dates_start": 1341242482,
+      "dates_end": 1427967619,
+      "likes_avg": 483,
+      "likes_stdev": 1003,
+      "comments_avg": 27,
+      "comments_stdev": 49,
+      "shares_avg": 53,
+      "shares_stdev": 73
+    },
+    {
+      "number": 18,
+      "important": [
+        "ve\u010der",
+        "b\u00fdt",
+        "co",
+        "ka\u017ed\u00fd",
+        "dneska",
+        "den",
+        "piva gambrinus",
+        "a\u017e",
+        "dejt",
+        "podt\u00e1cku \u010dtvrtn\u00ed\u010dkem"
+      ],
+      "common": [
+        "d\u00edl",
+        "napodtacku",
+        "petrem",
+        "petrem \u010dtvrtn\u00ed\u010dkem",
+        "pivo",
+        "podt\u00e1cku",
+        "podt\u00e1cku \u010dtvrtn\u00ed\u010dkem",
+        "www",
+        "www napodtacku",
+        "\u010dtvrtn\u00ed\u010dkem"
+      ],
+      "messages": [
+        [
+          "Chlapi! Povinnost vol\u00e1! Dneska ve\u010der si dejte \u010derstv\u00fd tankov\u00fd Gamb\u00e1\u010d! Na Podt\u00e1cku s P. \u010ctvrtn\u00ed\u010dkem: Tankov\u00e9 pivo Dneska se pod\u00edv\u00e1me na ou\u0161ko tankov\u00e9mu pivu. Proto\u017ee tankov\u00fd Gamb\u00e1\u010d mus\u00ed b\u00fdt co? \u010cerstv\u00fd!\nA nezapome\u0148te, \u017ee na http://www.napodtacku.cz m\u016f\u017eete ka\u017ed\u00fd den a\u017e do 30.4. sout\u011b\u017eit o sud piva Gambrinus.",
+          1396011602
+        ],
+        [
+          "Je tady dal\u0161\u00ed d\u00edl Na Podt\u00e1cku s Petrem \u010ctvrtn\u00ed\u010dkem! Tentokr\u00e1t si uk\u00e1\u017eeme, \u017ee i mu\u017ei maj\u00ed r\u00e1di Valent\u00fdna. A kdy\u017e se trochu sna\u017e\u00ed, um\u00ed vykouzlit romantiku jako \u0159emen! Na Podt\u00e1cku s P. \u010ctvrtn\u00ed\u010dkem: Valent\u00fdnsk\u00e1 romantika Tentokr\u00e1t v\u00e1m uk\u00e1\u017eeme, \u017ee i mu\u017ei maj\u00ed r\u00e1di Valent\u00fdna. A kdy\u017e se trochu sna\u017e\u00ed, um\u00ed vykouzlit romantiku jako \u0159emen! Na http://www.napodtacku.cz nav\u00edc m\u016f\u017eete vy...",
+          1391014801
+        ],
+        [
+          "U\u017eijte si dne\u0161n\u00ed posledn\u00ed den roku 2013 stejn\u011b jako si Petr \u010ctvrtn\u00ed\u010dek u\u017e\u00edv\u00e1 nat\u00e1\u010den\u00ed Na Podt\u00e1cku :-) PF2014 v\u0161em piva\u0159\u016fm. Na Podt\u00e1cku s P. \u010ctvrtn\u00ed\u010dkem: Silvestrovsk\u00fd bonus",
+          1388494333
+        ],
+        [
+          "M\u016f\u017ee v\u00e1m Petr \u010ctvrtn\u00ed\u010dek ud\u011blat ty nejv\u00edc sexy V\u00e1noce? To v\u00edte, \u017ee m\u016f\u017ee ;-) Chmel, je\u010dmen a voda to ve v\u00e1no\u010dn\u00edm speci\u00e1lu Na Podt\u00e1cku p\u011bkn\u011b rozto\u010d\u00ed. Ale bacha na man\u017eelky a p\u0159\u00edtelkyn\u011b za z\u00e1dy, tohle nen\u00ed pro jejich o\u010di! Na Podt\u00e1cku s P. \u010ctvrtn\u00ed\u010dkem: V\u00e1no\u010dn\u00ed speci\u00e1l Kr\u00e1sn\u00fd chmel, sv\u016fdn\u00fd je\u010dmen a nezkrotn\u00e1 voda v\u00e1m ve v\u00e1no\u010dn\u00edm speci\u00e1lu Na Podt\u00e1cku uk\u00e1\u017eou, \u017ee va\u0159en\u00ed piva m\u016f\u017ee b\u00fdt opravdu p\u011bkn\u00e1 pod\u00edvan\u00e1.",
+          1386329402
+        ],
+        [
+          "M\u00e1me tady dal\u0161\u00ed d\u00edl Na Podt\u00e1cku s Petrem \u010ctvrtn\u00ed\u010dkem! Tentokr\u00e1t se pod\u00edv\u00e1me, jak se va\u0159\u00ed prav\u00e9 \u010desk\u00e9 pivo! \nPS: Na konci je mo\u017en\u00e1 schovan\u00e1 sout\u011b\u017e. ;) Na Podt\u00e1cku s P. \u010ctvrtn\u00ed\u010dkem: Jak by va\u0159il pivo Jirka z Babic Jak se va\u0159\u00ed \u010desk\u00e9 pivo? Jirka z Babic to nevychytal, tak v\u00e1m to pov\u00ed Petr \u010ctvrtn\u00ed\u010dek. Sout\u011b\u017ete na www.napodtacku.cz o sud piva Gambrinus ka\u017ed\u00fd den a\u017e do 31.10.",
+          1382101200
+        ],
+        [
+          "Takovej pu\u0148\u0165a a pote\u0161\u00ed ;) U\u017e jste vid\u011bli nov\u00fd d\u00edl Na Podt\u00e1cku s Petrem \u010ctvrtn\u00ed\u010dkem a v\u00edte, jak se pozn\u00e1 \u010cesk\u00e9 pivo? Wall Photos",
+          1369841403
+        ],
+        [
+          "Jak se pozn\u00e1 \u010cesk\u00e9 pivo? Petr \u010ctvrtn\u00ed\u010dek v\u00e1m to Na Podt\u00e1cku vysv\u011btl\u00ed. U\u017e ch\u00e1pete? ;) Na Podt\u00e1cku s P. \u010ctvrtn\u00ed\u010dkem: V\u00fdslech \u010desk\u00e9ho piva Gambrinus p\u0159in\u00e1\u0161\u00ed t\u0159et\u00ed d\u00edl speci\u00e1ln\u00edho po\u0159adu pro piva\u0159e s Petrem \u010ctvrtn\u00ed\u010dkem Na Podt\u00e1cku. N\u00e1zorn\u011b n\u00e1m uk\u00e1\u017ee, jak se pozn\u00e1 \u010cesk\u00e9 pivo. Co v\u0161echno mus\u00ed spl\u0148o...",
+          1368788401
+        ],
+        [
+          "T\u011b\u0161\u00edte se na dal\u0161\u00ed d\u00edl Na Podt\u00e1cku s Petrem \u010ctvrtn\u00ed\u010dkem? Jestli ano, dejte Like ;) Wall Photos",
+          1368630008
+        ],
+        [
+          "\u017de by \u017eiv\u00e9 pivo postavilo na nohy i mrtv\u00e9ho? Co \u0159\u00edk\u00e1te na druh\u00fd d\u00edl po\u0159adu Na Podt\u00e1cku s Petrem \u010ctvrtn\u00ed\u010dkem? Na Podt\u00e1cku s P. \u010ctvrtn\u00ed\u010dkem: \u017div\u00e9 pivo Gambrinus p\u0159in\u00e1\u0161\u00ed druh\u00fd d\u00edl speci\u00e1ln\u00edho po\u0159adu pro piva\u0159e s Petrem \u010ctvrtn\u00ed\u010dkem Na Podt\u00e1cku. Tentokr\u00e1t o tom, co v\u0161e um\u00ed \u017eiv\u00e9 pivo Nepasterizovan\u00e9 G. Sledujte...",
+          1367584200
+        ],
+        [
+          "Vyhr\u00e1t sud piva? To jde jen se \u010ctvrtn\u00ed\u010dkem Na Podt\u00e1cku ;) Koukn\u011bte na video a sout\u011b\u017ete na www.napodtacku.cz Wall Photos",
+          1367243107
+        ],
+        [
+          "Prvn\u00ed d\u00edl Na Podt\u00e1cku, nov\u00e9ho pivn\u00edho po\u0159adu, je venku. A vy m\u016f\u017eete sout\u011b\u017eit a vyhr\u00e1t sud piva ;) Sta\u010d\u00ed po\u0159\u00e1dn\u011b koukat na video a pak j\u00edt na www.napodtacku.cz Na Podt\u00e1cku s P. \u010ctvrtn\u00ed\u010dkem: O \u010dem se chlapi bav\u00ed v hospod\u011b Nov\u00fd speci\u00e1ln\u00ed po\u0159ad pro piva\u0159e s Petrem \u010ctvrtn\u00ed\u010dkem p\u0159in\u00e1\u0161\u00ed Gambrinus. Tentokr\u00e1t o tom, o \u010dem se chlapi bav\u00ed v hospod\u011b. Nebo sp\u00ed\u0161 o \u010dem si na\u0161i \u0161\u00e9fov\u00e9, man\u017e...",
+          1366362002
+        ],
+        [
+          "Chcete vid\u011bt dal\u0161\u00ed \u010ctvrtn\u00ed\u010dkovy f\u00f3ry? Pus\u0165te si tyhle uk\u00e1zky, kter\u00fdmi l\u00e1k\u00e1 na z\u00edt\u0159ej\u0161\u00ed premi\u00e9ru nov\u00e9ho po\u0159adu Na Podt\u00e1cku na www.napodtacku.cz Sm\u011bjete se? Tak sd\u00edlejte. Na Podt\u00e1cku s P. \u010ctvrtn\u00ed\u010dkem - upout\u00e1vka \u010d. 1 Prvn\u00ed upout\u00e1vka po\u0159adu Na Podt\u00e1cku, kter\u00fd m\u016f\u017eete sledovat na www.napodtacku.cz Prvn\u00ed \u010desk\u00fd piva\u0159sk\u00fd po\u0159ad od Gambrinusu (www.facebook.com/Gambrinus.cz)",
+          1366293602
+        ]
+      ],
+      "dates_start": 1365752476,
+      "dates_end": 1387363200,
+      "likes_avg": 153,
+      "likes_stdev": 125,
+      "comments_avg": 9,
+      "comments_stdev": 10,
+      "shares_avg": 79,
+      "shares_stdev": 77
     }
   ]
 }

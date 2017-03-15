@@ -4,1019 +4,40 @@
   "globalstats": {
     "fan_count": 1991547,
     "messages": 519,
-    "likes_avg": 372,
-    "likes_stdev": 356,
-    "comments_avg": 55,
-    "comments_stdev": 40,
-    "shares_avg": 33,
-    "shares_stdev": 72,
+    "likes_avg": 456,
+    "likes_stdev": 905,
+    "comments_avg": 61,
+    "comments_stdev": 56,
+    "shares_avg": 49,
+    "shares_stdev": 204,
     "graph_uri": "clusters/AndroidOfficial.png"
   },
   "clusters": [
     {
       "number": 1,
       "important": [
-        "know",
-        "androidwear",
-        "like",
-        "differ",
-        "say",
         "access",
-        "androidtip",
-        "android",
-        "weather"
-      ],
-      "common": [
-        "bawk",
-        "like",
-        "petok",
-        "photos",
-        "say",
-        "someone",
-        "someone say",
-        "timeline",
-        "timeline photos",
-        "weather"
-      ],
-      "messages": [
-        [
-          "That\u2019s a wrap on not knowing what the weather is like. Just say, \u201c#OkGoogle, what\u2019s the weather?\u201d #Android 02.08_Android_WeatherScarf_FB.mp4",
-          1486753218
-        ],
-        [
-          "Caught in a pumpkin pie dilemma? Weigh the pros and cons by saying \u201cOk Google.\u201d #AndroidTip 11.22_Android_PumpkinPie_FB.mp4",
-          1479837641
-        ],
-        [
-          "Did someone say #TechieDay? Timeline Photos",
-          1475499603
-        ],
-        [
-          "Nothing says Fri-YAY like flowers. What\u2019s blooming on your #AndroidWear? https://goo.gl/XOhP1b Timeline Photos",
-          1469193303
-        ],
-        [
-          "Did someone say #LollipopDay? Don\u2019t mind if we do! \ud83c\udf6d Timeline Photos",
-          1437401133
-        ],
-        [
-          "Bawk bawk, petok-petok, caca-rac\u00e1 - we might say it differently, but the dance is universal #DanceLikeAChickenDay Timeline Photos",
-          1431604809
-        ]
-      ],
-      "dates_start": 1442237647,
-      "dates_end": 1484525587,
-      "likes_avg": 493,
-      "likes_stdev": 301,
-      "comments_avg": 64,
-      "comments_stdev": 65,
-      "shares_avg": 22,
-      "shares_stdev": 12
-    },
-    {
-      "number": 2,
-      "important": [
-        "androidwear watch weekendwear",
-        "phone",
-        "summer",
-        "androidwear watch",
-        "googlefit",
-        "celebr",
-        "run",
-        "access",
-        "new",
-        "fit"
-      ],
-      "common": [
-        "gl",
-        "goo",
-        "goo gl",
-        "googlefit",
-        "https goo gl",
-        "photos",
-        "step",
-        "timeline",
-        "timeline photos",
-        "track"
-      ],
-      "messages": [
-        [
-          "Step up your fitness this summer with new goals from #GoogleFit. https://goo.gl/DShrax 06.30_Android_GoogleFit.mp4",
-          1467128729
-        ],
-        [
-          "Celebrate #PiDay with a pi-shaped jog. #GoogleFit tracks all the important measurables. Timeline Photos",
-          1457978139
-        ],
-        [
-          "Phone armbands are so 2015. Now you can track your run with #GoogleFit using just your #AndroidWear watch. #WeekendWear https://goo.gl/edgfVZ Timeline Photos",
-          1452872769
-        ],
-        [
-          "Track every mile & moment on your way to breaking through your next plateau with the #GoogleFit update https://goo.gl/f4gAUc Timeline Photos",
-          1449088107
-        ],
-        [
-          "#GoogleFit\u2019s latest update lets you track everything from cardio to strength training, what you eat to how you rest, and coaches you every step of the way. http://goo.gl/DFq565 Timeline Photos",
-          1447950199
-        ],
-        [
-          "Leave the phone at home & track your run w/ RunKeeper & offline GPS on your Sony SmartWatch 3 #WeekendWear https://goo.gl/vmpW9r Timeline Photos",
-          1439570097
-        ],
-        [
-          "Step up your #fitness game. #GoogleFit now tracks your calories and distance, including basal metabolic rate http://goo.gl/xkJSGs Timeline Photos",
-          1431531383
-        ],
-        [
-          "Run, bike, walk, however you choose to sweat it out, #GoogleFit is now available on #Android devices to track it for you. http://goo.gl/RXcC3z Timeline Photos",
-          1414513895
-        ],
-        [
-          "Make every step count. With #AndroidWear you can keep track of your fitness with daily step count summaries sent right to your wrist. Timeline Photos",
-          1405429211
-        ]
-      ],
-      "dates_start": 1421573909,
-      "dates_end": 1459773318,
-      "likes_avg": 287,
-      "likes_stdev": 142,
-      "comments_avg": 56,
-      "comments_stdev": 32,
-      "shares_avg": 21,
-      "shares_stdev": 15
-    },
-    {
-      "number": 3,
-      "important": [
-        "celebr",
-        "day",
-        "friend",
-        "everi",
-        "show",
-        "us",
-        "show us",
-        "idea",
-        "access",
-        "treat"
-      ],
-      "common": [
-        "dalking",
-        "furry",
-        "happy",
-        "notthesame",
-        "photos",
-        "show",
-        "show us",
-        "timeline",
-        "timeline photos",
-        "us"
-      ],
-      "messages": [
-        [
-          "#TakeYourDogToWorkDay is a paws-itively genius idea. That\u2019s why we celebrate it every day. Show us your pups earning their treats. Timeline Photos",
-          1479229203
-        ],
-        [
-          "Finally, a day worth barking about. Show us your furry friend for #NationalDogDay. Timeline Photos",
-          1472219102
-        ],
-        [
-          "#IceCreamSandwichDay has us reminiscing. Do you remember this Easter Egg? Timeline Photos",
-          1470146406
-        ],
-        [
-          "Dancing + Walking = Dalking. Show us what you and your @AndroidWear got: whatsyourmove.com #WhatsYourMove 07.13_Android_WYM-Dalking.mp4",
-          1468422944
-        ],
-        [
-          "Who loves cupcakes? Us too. Happy #NationalCupcakeDay! Timeline Photos",
-          1450206024
-        ],
-        [
-          "Don't forget to show us your #LeapSecond! Here's how we spent ours #NotTheSame goo.gl/mLqrKC",
-          1435690823
-        ],
-        [
-          "Tomorrow we get a #LeapSecond. Use the 1 Second Everyday Android app to show us what you did with yours, and check out our online gallery at leapsecond2015.com to see the moments as they unfold goo.gl/Im0H6V #NotTheSame",
-          1435581437
-        ],
-        [
-          "Happy #TakeYourDogToWorkDay! We decided to bring our pal with us today. Show us your furry friend \ud83d\udc36 #Android Timeline Photos",
-          1435324714
-        ],
-        [
-          "Got an unlikely BFF, too? Show us with #AndroidBFFs. #NotTheSame #FriendsFureverFriday Timeline Photos",
-          1423264798
-        ],
-        [
-          "Happy #Thanksgiving to our friends in the U.S.! Timeline Photos",
-          1417116602
-        ]
-      ],
-      "dates_start": 1427504452,
-      "dates_end": 1469935957,
-      "likes_avg": 450,
-      "likes_stdev": 239,
-      "comments_avg": 55,
-      "comments_stdev": 30,
-      "shares_avg": 38,
-      "shares_stdev": 40
-    },
-    {
-      "number": 4,
-      "important": [
-        "year",
-        "go",
-        "android",
-        "access",
-        "good",
-        "happi",
-        "take"
-      ],
-      "common": [
-        "4thofjuly",
-        "good",
-        "happy",
-        "happy 4thofjuly",
-        "nationaldonutday timeline",
-        "nom",
-        "nom nom",
-        "photos",
-        "timeline",
-        "timeline photos"
-      ],
-      "messages": [
-        [
-          "Happy #4thOfJuly! 07.04_Android_4thofJuly.mp4",
-          1467637249
-        ],
-        [
-          "Nom nom nom. Happy #NationalDonutDay! Timeline Photos",
-          1464963391
-        ],
-        [
-          "Happy #JellyBeanDay!! Remember this? #FBF Timeline Photos",
-          1461339002
-        ],
-        [
-          "Happy #PandaDay! Timeline Photos",
-          1458142382
-        ],
-        [
-          "Happy #NationalFroyoDay! Timeline Photos",
-          1454769002
-        ],
-        [
-          "Happy #SpaceDay! Timeline Photos",
-          1430481618
-        ],
-        [
-          "Going green is good. Take our word for it. Happy #EarthDay! Timeline Photos",
-          1429712406
-        ],
-        [
-          "11 years of composing, replying, archiving, & spam-blocking goodness is no joke! Happy birthday Gmail! Timeline Photos",
-          1427899591
-        ],
-        [
-          "Wishing Ewe and yours happiness, health and good fortune! #LunarNewYear #YearoftheSheep Timeline Photos",
-          1424313679
-        ],
-        [
-          "Happy Halloween #Android :D",
-          1414616014
-        ],
-        [
-          "Happy #4thofJuly, America! Timeline Photos",
-          1404475203
-        ]
-      ],
-      "dates_start": 1418777278,
-      "dates_end": 1460922637,
-      "likes_avg": 845,
-      "likes_stdev": 578,
-      "comments_avg": 67,
-      "comments_stdev": 27,
-      "shares_avg": 45,
-      "shares_stdev": 26
-    },
-    {
-      "number": 5,
-      "important": [
-        "life",
-        "world",
-        "year",
-        "celebr",
-        "face androidwear",
-        "androidwear",
-        "face",
-        "access",
-        "watch",
-        "get"
-      ],
-      "common": [
-        "androidwear",
-        "gl",
-        "goo",
-        "goo gl",
-        "https",
-        "https goo",
-        "https goo gl",
-        "photos",
-        "timeline",
-        "watch"
-      ],
-      "messages": [
-        [
-          "The Willow watch face for #AndroidWear is out of this world \ud83d\udcab\u2728 Get it for yourself here: https://goo.gl/HqI7J1 Timeline Photos",
-          1485885602
-        ],
-        [
-          "It\u2019s the most wonderful \ud83d\udd52 of the year. Celebrate the season with the #SantaTracker watch face for your #AndroidWear. https://goo.gl/GIC50Y Timeline Photos",
-          1482422401
-        ],
-        [
-          "You sent in watch faces, and #AndroidWear, Paper Magazine & a panel of fashion experts picked 5 to bring to life. Time for you to find your favorite. https://goo.gl/D4vj0a 10.18_AndroidWear_PaperMag_FB.mp4",
-          1477320432
-        ],
-        [
-          "Embrace #Caturday with the Nap Cats watch face for #AndroidWear. #WeekendWear https://goo.gl/Sv6wFU Timeline Photos",
-          1465650006
-        ],
-        [
-          "Always know the right time to chat with the Timezone watch face for #AndroidWear. #WeekendWear https://goo.gl/dd8ECm Timeline Photos",
-          1456585205
-        ],
-        [
-          "Blast off! Feel like an explorer with the Space and Time watch face for #AndroidWear. #WeekendWear https://goo.gl/2s5emZ Timeline Photos",
-          1455901982
-        ],
-        [
-          "Never overcook the chicken again. Set and keep cooking times on your wrist with ustwo\u2122 Timer Watch Faces for #AndroidWear. #WeekendWear https://goo.gl/aLWIoY Timeline Photos",
-          1452288576
-        ],
-        [
-          "Set a fitness goal for the new year and keep time while you run with @ustwo Timer Watch Faces for #AndroidWear https://goo.gl/hNGYwu Timeline Photos",
-          1451755324
-        ],
-        [
-          "Watch out! This #Halloween watch face for #AndroidWear makes for some spooky #WeekendWear. https://goo.gl/GRtJ2i Timeline Photos",
-          1446215724
-        ],
-        [
-          "Sit back & relax with the Muji watch face for #AndroidWear https://goo.gl/fienrY #WeekendWear Timeline Photos",
-          1438950598
-        ],
-        [
-          "You\u2019ll always know when he\u2019ll be back with the Terminator Genisys watch face for #AndroidWear https://goo.gl/D4KTWP #WeekendWear Timeline Photos",
-          1437746417
-        ],
-        [
-          "Your watch, your style, your choice. Here's how to install new watch faces for #AndroidWear: http://goo.gl/ZbpXwr Timeline Photos",
-          1419007206
-        ]
-      ],
-      "dates_start": 1436972077,
-      "dates_end": 1474649500,
-      "likes_avg": 269,
-      "likes_stdev": 78,
-      "comments_avg": 47,
-      "comments_stdev": 18,
-      "shares_avg": 20,
-      "shares_stdev": 9
-    },
-    {
-      "number": 6,
-      "important": [
-        "parti",
-        "help",
-        "introduc",
-        "move",
-        "ask",
-        "nameandroidn",
-        "say",
-        "access",
-        "watch",
-        "find"
-      ],
-      "common": [
-        "android",
-        "android com",
-        "com",
-        "ideas",
-        "name",
-        "nameandroidn",
-        "names",
-        "naming",
-        "photos",
-        "timeline photos"
-      ],
-      "messages": [
-        [
-          "Sometimes I can't be found.\nYou might think it\u2019s because I moved or you misspelled my name.\nBut maybe you\u2019ll find a disco party.\n#Android404 10.26_Android_404_FB.mp4",
-          1477496874
-        ],
-        [
-          "We asked for your help to #NameAndroidN. Say hello to #AndroidNougat & watch the unveiling. #AndroidNReveal https://youtu.be/8xn9iq3lG_w",
-          1467318026
-        ],
-        [
-          "Introducing #AndroidNougat. Thank you, world, for all your sweet name ideas! #AndroidNReveal Timeline Photos",
-          1467295383
-        ],
-        [
-          "Thanks for your submissions. We\u2019ll reveal the new name in a few weeks! #NameAndroidN",
-          1465393178
-        ],
-        [
-          "\u2714\u2714\u2714 = \ud83d\udd25\ud83d\udd25\ud83d\udd25 #NameAndroidN \nandroid.com/N Timeline Photos",
-          1465231650
-        ],
-        [
-          "\u201cBrownie\u201d didn\u2019t make it very far. #NameAndroidN android.com/N Timeline Photos",
-          1464874711
-        ],
-        [
-          "Naming Tip #3: Vowels are so hot right now. #NameAndroidN\n\nSubmit your ideas for names at android.com/N",
-          1464707565
-        ],
-        [
-          "When submitting names, keep the Sweet Spot in mind. #NameAndroidN android.com/n Timeline Photos",
-          1464280530
-        ],
-        [
-          "Naming Tip #2: Try spelling it sdrawkcab. #NameAndroidN \n\nSubmit your ideas for names at android.com/n",
-          1464024821
-        ],
-        [
-          "Naming Tip #1: Say it with an accent. Submit your ideas for names at android.com/n. #NameAndroidN",
-          1463776291
-        ],
-        [
-          "See how the pros would #NameAndroidN. Then try for yourself at http://android.com/n",
-          1463587615
-        ],
-        [
-          "Go BTS of our new #AndroidMarshmallow sculpture + our tasty naming tradition g.co/go/NLandroidm #natandlo The Android Marshmallow Sculpture + Android\u2019s Tasty Naming Tradition - #NatAndLo Ep 5 How do the Android lawn sculptures get made? Why does Android name their releases after sweet, sugary foods? We attempt to find the answers to these Android ...",
-          1439825558
-        ]
-      ],
-      "dates_start": 1455852836,
-      "dates_end": 1472115864,
-      "likes_avg": 370,
-      "likes_stdev": 450,
-      "comments_avg": 114,
-      "comments_stdev": 69,
-      "shares_avg": 116,
-      "shares_stdev": 281
-    },
-    {
-      "number": 7,
-      "important": [
-        "season",
-        "app",
-        "pay",
-        "move",
-        "androidpay",
-        "ride",
-        "use androidpay",
-        "access",
-        "get",
-        "use"
-      ],
-      "common": [
-        "androidpay",
-        "gl",
-        "goo",
-        "goo gl",
-        "https",
-        "https goo",
-        "https goo gl",
-        "photos",
-        "use",
-        "use androidpay"
-      ],
-      "messages": [
-        [
-          "#1 priority during flu season: don\u2019t get sick. Avoid the unnecessary germs by using #AndroidPay at checkout. https://goo.gl/w8jwjf 01.27_AndroidPay_FluSeason.mp4",
-          1485799117
-        ],
-        [
-          "Move freely, breathe deeply, pay easily. You can now use #AndroidPay within the lululemon app. https://goo.gl/PDUsi9 Timeline Photos",
-          1481758255
-        ],
-        [
-          "Uber savings with Uber. Use #AndroidPay and promo code \u201cANDROID50\u201d in the Uber app to enjoy 50% off your next 5 rides: https://goo.gl/dZSIvh Timeline Photos",
-          1481581840
-        ],
-        [
-          "Is Jet.com your one-stop holiday shop? Use #AndroidPay to unlock a $10 credit when you spend over $50. https://goo.gl/nJSKmQ Timeline Photos",
-          1481050803
-        ],
-        [
-          "Don\u2019t let those last minute Thanksgiving errands get you in a bind. Use #AndroidPay in the Instacart app and enjoy free grocery delivery on orders over $35. https://goo.gl/xT3rp9 Timeline Photos",
-          1479834005
-        ],
-        [
-          "Enjoy a side of savings with your soup and sandwich. Use #AndroidPay in the Panera Bread app and enjoy a free \u201cYou Pick Two,\u201d now through 11/24. https://goo.gl/Gzy2R8 Timeline Photos",
-          1479326405
-        ],
-        [
-          "Don\u2019t miss out on this Doordash special. Use #AndroidPay & enjoy F-R-E-E delivery on orders over $15 through November. https://goo.gl/TjVofj Timeline Photos",
-          1478185208
-        ],
-        [
-          "The coffee is warm but your wallet is staying cool. It\u2019s the last Monday to enjoy a free cup of coffee from Caff\u00e8 Nero when you use MasterCard with #AndroidPay. https://goo.gl/6JeFxd Timeline Photos",
-          1477281602
-        ],
-        [
-          "Order\u2019s up! Use #AndroidPay with Grubhub and reap the benefits now through 10/31. https://goo.gl/6BRtVo Timeline Photos",
-          1476126005
-        ],
-        [
-          "You don't have to lift a finger to use #AndroidPay \u2013 not even to open the app. https://goo.gl/tLv9la 06.29_AndroidPay_JustTap.mp4",
-          1467378038
-        ],
-        [
-          "Now you can use #AndroidPay at stores islandwide for coffee, groceries, meals out and more! https://youtu.be/M0qp6xzVNK4",
-          1467079201
-        ],
-        [
-          "Hey Lyft riders! Get $10 off your next ride when you use #AndroidPay. \nhttps://blog.lyft.com/android-pay-1 Timeline Photos",
-          1461942653
-        ],
-        [
-          "Enter your info once, and use #AndroidPay to make payments across all your favorite apps: https://goo.gl/jn9cQD",
-          1453768323
-        ],
-        [
-          "You can now use #AndroidPay in your favorite apps Read more: http://goo.gl/2H8juR Timeline Photos",
-          1450201623
-        ]
-      ],
-      "dates_start": 1462263083,
-      "dates_end": 1483638785,
-      "likes_avg": 110,
-      "likes_stdev": 29,
-      "comments_avg": 25,
-      "comments_stdev": 15,
-      "shares_avg": 6,
-      "shares_stdev": 4
-    },
-    {
-      "number": 8,
-      "important": [
-        "around",
-        "happi",
-        "notthesam",
-        "launch",
-        "like",
-        "learn",
-        "access",
-        "watch",
-        "togeth",
-        "togeth notthesam"
-      ],
-      "common": [
-        "android",
-        "https",
-        "notthesame",
-        "notthesame timeline",
-        "notthesame timeline photos",
-        "photos",
-        "timeline",
-        "timeline photos",
-        "together",
-        "together notthesame"
-      ],
-      "messages": [
-        [
-          "For #PeaceDay, launch a paper plane and watch it soar around the \ud83c\udf0d. Be together. #NotTheSame Learn more: https://goo.gl/xPT1za 09.16_Android_PaperAirplanes_FB03.mp4",
-          1474471401
-        ],
-        [
-          "Happy #NationalBestFriendsDay! Be Together. #NotTheSame Timeline Photos",
-          1465399142
-        ],
-        [
-          "We\u2019d like to thank...everyone! Be Together. #NotTheSame",
-          1456716768
-        ],
-        [
-          "Rock, Paper and Scissors don\u2019t have much in common, but that won\u2019t stop them. Be Together. #NotTheSame https://youtu.be/UYxpX3N20qU Android: Rock, Paper, Scissors Rock, Paper and Scissors don't have much in common, but that won't stop them. Be Together. #NotTheSame Learn more at http://android.com and by following us o...",
-          1456712429
-        ],
-        [
-          "We made a monotone piano. And then we made an album with it. https://goo.gl/tHQ29y\n\nBe together. #NotTheSame Timeline Photos",
-          1456501286
-        ],
-        [
-          "Watch the making of \"Monotune\" to see how we made a one-note piano. Be together. #NotTheSame \nhttps://youtu.be/xwls25ooBmY Android: The Making of \"Monotune\" What happens when you take an 88-key piano and strip away all the notes but one? You get a one-of-a-kind \"Monotune\" piano. Check out how we made it and see t...",
-          1455714002
-        ],
-        [
-          "Happy New Year!  Be together. #notthesame",
-          1451599038
-        ],
-        [
-          "Meet the cast of \u201cFingerprints\u201d here. Life\u2019s more fun when we\u2019re together. #notthesame https://youtu.be/5HbDQQ5WlS8",
-          1450719780
-        ],
-        [
-          "Just like our fingerprints, we\u2019re all wonderfully unique on our own. But watch how much fun we have when we all come together. #notthesame https://goo.gl/tlKe55 Android: Fingerprints Like our fingerprints, we\u2019re all wonderfully unique on our own. But life\u2019s a lot more fun when we come together. Learn more at http://android.com and by foll...",
-          1450463363
-        ],
-        [
-          "#SummerSolstice = summer adventures. No matter what language you speak or who you meet along the way, \"Be Together. #NotTheSame.\" #googletranslate Android: 100 Billion Words Every day, more than 100 billion words are translated with Google Translate. So no matter where you are or what language you speak, you can \u201cBe Together. Not...",
-          1434890126
-        ],
-        [
-          "\u00a1Hola Barcelona! #androidMWC #MWC15 #NotTheSame Timeline Photos",
-          1425277131
-        ],
-        [
-          "Up top. Down low. To the side. Grab a friend and give them a high five. #NotTheSame Android: Handshake No matter how you shake it you can\u2019t do it alone. Be together. Not the same. Learn more at http://android.com. Discover more about Android by following us on...",
-          1424043816
-        ],
-        [
-          "Roses are red, violets are blue...or blue-ish purple, sometimes white, or multicolored. Happy #ValentinesDay. #NotTheSame Timeline Photos",
-          1423924844
-        ],
-        [
-          "Happy New Year from the whole #Android Family! Be together. #NotTheSame Timeline Photos",
-          1420056005
-        ],
-        [
-          "Ghoul, goblin, or zombie, \u201cwitch\u201d will you be this Halloween? #NotTheSame #HappyHalloween Timeline Photos",
-          1414776039
-        ]
-      ],
-      "dates_start": 1426177228,
-      "dates_end": 1461991461,
-      "likes_avg": 409,
-      "likes_stdev": 392,
-      "comments_avg": 53,
-      "comments_stdev": 33,
-      "shares_avg": 54,
-      "shares_stdev": 104
-    },
-    {
-      "number": 9,
-      "important": [
-        "want",
-        "androidwear watch",
-        "androideverywher",
-        "wear",
-        "androidwear",
-        "make",
-        "new",
-        "watch",
-        "right",
-        "power"
-      ],
-      "common": [
-        "android",
-        "android wear",
-        "androidwear",
-        "google",
-        "http",
-        "live",
-        "photos",
-        "timeline",
-        "timeline photos",
-        "wear"
-      ],
-      "messages": [
-        [
-          "Wear what you want right on your wrist. New Balance #RunIQ watches powered by #AndroidWear watches make a statement at #CES2017. #AndroidEverywhere Timeline Photos",
-          1483641595
-        ],
-        [
-          "Competition is in the air. Never miss cheering on your team with the calendar app on Android Wear. Timeline Photos",
-          1475327702
-        ],
-        [
-          "We\u2019re live! Tune in to the Google I/O live stream now for the latest #Android updates. events.google.com/io2016 #io16 Timeline Photos",
-          1463584034
-        ],
-        [
-          "Mark your\ud83d\uddd3! Tune in to the Google #io16 live stream tomorrow at 10am PT. events.google.com/io2016/ Timeline Photos",
-          1463504289
-        ],
-        [
-          "Introducing TAG Heuer Connected, the first luxury watch powered by #AndroidWear http://goo.gl/W4W8dO Timeline Photos",
-          1447082264
-        ],
-        [
-          "Day 1 of #io15 done! Make sure to tune in tomorrow to http://google.com/io for live sessions Photos from Android's post",
-          1432859820
-        ],
-        [
-          "#io15 is live now. Watch the #keynote live stream for all the latest #Android updates http://google.com/io Timeline Photos",
-          1432823581
-        ],
-        [
-          "Join us at #io15 by tuning in to the live stream at 9:30am PT tomorrow morning  google.com/io",
-          1432742413
-        ],
-        [
-          "Introducing limited edition cases for #Android. First up: Skrillex who sent a satellite to the stratosphere for the case\u2019s companion live wallpaper. Learn more and how he made the #SkrillexLiveCase: http://goo.gl/m4D92E Timeline Photos",
-          1432150881
-        ],
-        [
-          "Whether you tut, pop, rock or robot, you can find your style and wear what you want with #AndroidWear Android: Wear what you want (party on) Round or square: wear what you want with Android Wear. Be together. Not the same. Learn more at http://android.com/wear. Discover more about Android by follo...",
-          1426806167
-        ],
-        [
-          "Round or square: wear what you want with #AndroidWear. Be together. #NotTheSame Android: Wear what you want Round or square: wear what you want with Android Wear. Be together. Not the same. Learn more at android.com/wear Discover more about Android by following us ...",
-          1425913484
-        ],
-        [
-          "Elegantly styled and powered by #AndroidWear, the ASUS #ZenWatch is now available on Google Play. http://goo.gl/OpAOwd Timeline Photos",
-          1415985224
-        ],
-        [
-          "The Sony #SmartWatch3, powered by #AndroidWear, is made to fit your lifestyle. Get it now on Google Play: http://goo.gl/2anaFI Timeline Photos",
-          1415641303
-        ],
-        [
-          "Did you miss the news about #AndroidWear from I/O? Don\u2019t fret\u2013we\u2019ve got all the details in under two minutes, right here. Android Wear at Google I/O 2014 Catch everything you need to know about Android Wear from I/O 2014's keynote address, in just two minutes. Learn more about Android Wear at http://android.co...",
-          1404848749
-        ],
-        [
-          "LG G watch and Samsung Gear Live powered by #AndroidWear are now available for order on Google Play (http://goo.gl/AsfMt7). Get your watch today! Timeline Photos",
-          1404745207
-        ],
-        [
-          "Keep moving with #AndroidWear and get all the information you need for your day in an instant. Check out some of the things Android Wear can do for you. Timeline Photos",
-          1403883483
-        ],
-        [
-          "Android Wear lets you stay engaged with the people around you by quickly showing you relevant information at the right time, at a glance. The first two watches powered by #AndroidWear, the LG G Watch and the Samsung Gear Live, will be available to order later today. Learn more at android.com/wear Timeline Photos",
-          1403723231
-        ]
-      ],
-      "dates_start": 1408522483,
-      "dates_end": 1457979096,
-      "likes_avg": 357,
-      "likes_stdev": 142,
-      "comments_avg": 47,
-      "comments_stdev": 26,
-      "shares_avg": 31,
-      "shares_stdev": 13
-    },
-    {
-      "number": 10,
-      "important": [
-        "play",
-        "introduc",
-        "use",
-        "music",
-        "access",
-        "androidauto",
-        "make",
-        "googl",
-        "googl play",
-        "android"
-      ],
-      "common": [
-        "gl",
-        "goo",
-        "goo gl",
-        "google",
-        "google play",
-        "http",
-        "photos",
-        "play",
-        "timeline",
-        "timeline photos"
-      ],
-      "messages": [
-        [
-          "Rock out on #SundayFunday with Google Play Music and #Android. 02.12_AndroidTip_DJ_FB.mp4",
-          1487521826
-        ],
-        [
-          "Seamlessly make calls, listen to music, or navigate the road ahead with both the in-app and in-dash experience. How do you use #AndroidAuto? 01.10_AndroidAuto_CES_FB.mp4",
-          1484332620
-        ],
-        [
-          "Introduce the world of VR to your everyday photos. The Sprayscape camera app on Google Play is now available for Android. https://goo.gl/XNw3yz",
-          1476286392
-        ],
-        [
-          "Hello Saturday! Relax and enjoy the music by matching your music to your mood. #AndroidTip android.com/phones/tips 08.06_AndroidTip_MatchMood.mp4",
-          1470490221
-        ],
-        [
-          "#AndroidPay is now available in Singapore. Download from @Google Play, add your card and tap to pay at thousands of stores islandwide. http://goo.gl/96hyRC Timeline Photos",
-          1467055202
-        ],
-        [
-          "The jamstik digital smart guitar is now available for #AndroidTV. Download from Google Play https://goo.gl/xtEQa5 Timeline Photos",
-          1464364837
-        ],
-        [
-          "Your Spotify albums, songs and playlists are now available on #AndroidTV. Download from Google Play and start browsing from your living room: https://goo.gl/7d64YJ #io16 Timeline Photos",
-          1463601931
-        ],
-        [
-          "Now you can enjoy Showtime Networks on your #Android and #AndroidTV devices. Get a 30 day free trial from Google Play to catch the season premieres of Homeland and The Affair. Also check out HBO NOW, WWE Network and more now available. http://goo.gl/YlaHrY Timeline Photos",
-          1443718494
-        ],
-        [
-          "The #AndroidPay app is now available on Google Play. Download, add your cards, & tap to pay. https://goo.gl/hiw7wS Timeline Photos",
-          1442587339
-        ],
-        [
-          "Let\u2019s get this party started. Google Play Music now has free music for all https://goo.gl/vVgerB #PlayAllDay Timeline Photos",
-          1435332933
-        ],
-        [
-          "Happy 3rd birthday to our partner-in-content, Google Play! Timeline Photos",
-          1425578852
-        ],
-        [
-          "Coming to a TV near you: built-in gaming, Google Play movies & shows, voice search, and more with #AndroidTV. Check out more of the latest from #CES2015: http://goo.gl/t2A527 Timeline Photos",
-          1420573085
-        ],
-        [
-          "#Android U.S. exclusive: watch the current season of your favorite TV shows for free on the Hulu app on Google Play. http://goo.gl/tHl0sg Timeline Photos",
-          1418313326
-        ],
-        [
-          "Here's your chance: Last day to purchase an #AndroidWear device on Google Play and get a $50 Play credit in the U.S. #CyberMonday http://goo.gl/W35jFl Timeline Photos",
-          1417453221
-        ],
-        [
-          "Snag the #LGGWatch until Monday for over 50% off on Google Play in US, CAN & UK. #BlackFriday http://goo.gl/dFCP96 Timeline Photos",
-          1417189023
-        ],
-        [
-          "The LG G Watch R comes full circle, combining timeless design and information that moves with you. Now available on Google Play. #AndroidWear http://goo.gl/tFssFa Timeline Photos",
-          1415295597
-        ],
-        [
-          "Say hello to the days where your watch can tell you much more than time. Designed for life, the Sony #SmartWatch3 for #AndroidWear is now available at Verizon, and coming soon on Google Play. http://goo.gl/zXpzg9 Timeline Photos",
-          1414073793
-        ],
-        [
-          "Skip straight to your favorite chorus without even unlocking your phone, thanks to #GooglePlay Music: Just long press play or pause and select the second you want to hear. #AndroidTricks Timeline Photos",
-          1405599006
-        ]
-      ],
-      "dates_start": 1416065636,
-      "dates_end": 1469419662,
-      "likes_avg": 550,
-      "likes_stdev": 705,
-      "comments_avg": 69,
-      "comments_stdev": 41,
-      "shares_avg": 37,
-      "shares_stdev": 30
-    },
-    {
-      "number": 11,
-      "important": [
-        "app",
-        "way",
-        "use",
-        "friend",
-        "androidwear",
-        "learn",
-        "work",
-        "new",
-        "get",
-        "help"
-      ],
-      "common": [
-        "androidauto",
-        "gl",
-        "goo",
-        "goo gl",
-        "https goo",
-        "new",
-        "photos",
-        "timeline",
-        "timeline photos",
-        "today"
-      ],
-      "messages": [
-        [
-          "What\u2019s new about #AndroidWear 2.0? How about new ways to use apps, message friends, work out, and get help from your Google Assistant. Learn more: https://goo.gl/ZYQmqU Timeline Photos",
-          1486570411
-        ],
-        [
-          "You might not be able to control traffic, but you can minimize your distractions. Simplify your phone with #AndroidAuto during the holiday hustle and bustle. Timeline Photos",
-          1482505201
-        ],
-        [
-          "Starting today: Simply say 'Ok Google' to instantly access thousands of available voice commands with #AndroidAuto Learn More: https://goo.gl/8Rk66G Android Auto",
-          1481829265
-        ],
-        [
-          "Starting today: More ways to communicate, more fun! Express yourself in new ways with the #AndroidNougat update, featuring new emoji and GIFs that you can send directly from your keyboard.  https://goo.gl/QWuCqr 12.05_Emojis_skintones_FB.mp4",
-          1480964388
-        ],
-        [
-          "Places to go and people to see this holiday season. Limit the distractions with #AndroidAuto. Get the app: https://goo.gl/Huy2fC Timeline Photos",
-          1479913206
-        ],
-        [
-          "An #AndroidAuto update is now available in 30+ countries with new support for Facebook Messenger. Get the update: https://goo.gl/8Rk66G 11.16_Android_AutoGIF_FB.mp4",
-          1479336960
-        ],
-        [
-          "Starting today, #AndroidAuto works right on your phone screen, so you can use it in any car. Learn more: http://goo.gl/7ph9YJ \ufeff Timeline Photos",
-          1478533981
-        ],
-        [
-          "Have you hit the road with #AndroidAuto yet? Park your opinions in the new community group that\u2019s just for you. Join here: https://goo.gl/bYQYDD Timeline Photos",
-          1477337494
-        ],
-        [
-          "1 tap w/ #AndroidPay on your Verizon phone = 1GB of data. 3 taps =  2GB. Get started today: goo.gl/rIkwoD 05.04_Android_TapData.mp4",
-          1465491064
-        ],
-        [
-          "Watch as Googlers Nat and Lo take you inside the #AndroidAuto Lab :  g.co/go/NLauto",
-          1462898111
-        ],
-        [
-          "#MayThe4thBeWithYou, today. Timeline Photos",
-          1462364115
-        ],
-        [
-          "Full speed ahead. \ud83d\udca8 #AndroidAuto is now available in 18 new countries: \ud83c\udde6\ud83c\uddf7 \ud83c\udde6\ud83c\uddf9 \ud83c\udde7\ud83c\uddf4 \ud83c\udde7\ud83c\uddf7 \ud83c\udde8\ud83c\udded \ud83c\udde8\ud83c\uddf1 \ud83c\udde8\ud83c\uddf4 \ud83c\udde8\ud83c\uddf7 \ud83c\udde9\ud83c\uddf4 \ud83c\uddea\ud83c\udde8 \ud83c\uddec\ud83c\uddf9 \ud83c\uddee\ud83c\uddf3 \ud83c\uddf5\ud83c\udde6 \ud83c\uddf5\ud83c\uddea \ud83c\uddf5\ud83c\uddfe \ud83c\uddf7\ud83c\uddfa \ud83c\uddfa\ud83c\uddfe \ud83c\uddfb\ud83c\uddea , plus \ud83c\uddf5\ud83c\uddf7  too!",
-          1459789201
-        ],
-        [
-          "Starts today: get \u2728free overnight shipping\u2728 for US orders from the #GoogleStore through December 22 https://goo.gl/fDzT4S Timeline Photos",
-          1450290723
-        ],
-        [
-          "#AndroidPay is rolling out starting today --> http://goo.gl/ZwgvSg Timeline Photos",
-          1441892813
-        ],
-        [
-          "View past convos and respond directly from your watch with the new #Hangouts app on #AndroidWear http://goo.gl/HL9g6f Timeline Photos",
-          1439216264
-        ],
-        [
-          "New always-on #AndroidWear apps keep info handy for when you're on the go http://goo.gl/W72Abh #WeekendWear Timeline Photos",
-          1435326392
-        ],
-        [
-          "The latest #AndroidWear update gets Wi-Fi, gestures, a new app launcher, emojis and more http://goo.gl/CV33D6",
-          1429531604
-        ],
-        [
-          "While your #AndroidWear watch auto updates the time, you can focus on updating your watch face for Spring. #DaylightSavings Timeline Photos",
-          1425764138
-        ],
-        [
-          "Wear what you want. The latest update to #AndroidWear lets you customize your wearable with dozens of new watch faces, available now on Google Play. http://goo.gl/H8AeQy Timeline Photos",
-          1418231286
-        ],
-        [
-          "Today, Dads get to make their own itineraries. #FathersDay Timeline Photos",
-          1402833601
-        ]
-      ],
-      "dates_start": 1432549526,
-      "dates_end": 1481512495,
-      "likes_avg": 398,
-      "likes_stdev": 307,
-      "comments_avg": 53,
-      "comments_stdev": 28,
-      "shares_avg": 33,
-      "shares_stdev": 33
-    },
-    {
-      "number": 12,
-      "important": [
-        "easi",
-        "pay",
+        "timelin",
         "look",
-        "phone",
-        "androidpay",
-        "tap",
-        "android pay",
+        "pay",
+        "easi",
+        "tap pay",
         "make",
-        "access",
-        "tap pay"
+        "android pay",
+        "androidpay",
+        "tap"
       ],
       "common": [
+        "10",
+        "android",
+        "android pay",
         "androidpay",
-        "gl",
-        "goo",
-        "goo gl",
-        "https",
-        "https goo",
-        "https goo gl",
+        "mp4",
         "pay",
+        "pay androidpay",
         "tap",
-        "tap pay"
+        "tap pay",
+        "use"
       ],
       "messages": [
         [
@@ -1060,12 +81,24 @@
           1479560433
         ],
         [
-          "There are 2 ways to Tap. Pay. Yay! In stores and in apps. What\u2019s your favorite way to use #AndroidPay? 09.27_AndroidPay_2WaysToPay.mp4",
-          1475155285
+          "Did you know Android Pay uses a unique security code that changes with every transaction to keep your card info safe? Now you do. Complete transactions safely and quickly with Android Pay. 10.06_AW Chip & Security FB1.mp4",
+          1476385468
         ],
         [
           "Tap. Pay. Vroom. Starting today, get 50% off your next 10 Uber rides when you pay with #AndroidPay. Where are you headed? http://goo.gl/P9JxmM Timeline Photos",
           1473266703
+        ],
+        [
+          "Did you know? You can view your #AndroidPay card transaction history in one place. Party time! 08.10_AndroidPay_TransactionHistory_FB.mp4",
+          1470928588
+        ],
+        [
+          "Loyalty pays off with #AndroidPay. It\u2019s easy to keep all of your loyalty cards in one place. Learn how: https://goo.gl/EstXP3 06.16_AndroidPay_LoyaltyCard.mp4",
+          1466695957
+        ],
+        [
+          "Did you know: When you tap to pay, #AndroidPay sends a virtual account number to keep your card information safe. 06.09_AndroidPay_Encryption.mp4",
+          1465996770
         ],
         [
           "Tap. Pay. \ud83d\ude87.. You can now use #AndroidPay on the @TFL Underground. #io16 Android Pay: Tap. Pay. Ride. You can now use Android Pay everywhere contactless payments are accepted including paying for the Tube, bus and train with Transport for London. Discover mor...",
@@ -1078,10 +111,6 @@
         [
           "Tap. Pay. \ud83c\udfe0. Be your way to an awesome home w/ #AndroidPay & Houzz. goo.gl/3VFEqt Timeline Photos",
           1459431002
-        ],
-        [
-          "Tap. Pay. \u2705 . Check off your shopping list fast & save \ud83d\udcb0 w/ #AndroidPay in the Jet app. https://goo.gl/ez1OL4 Timeline Photos",
-          1458838820
         ],
         [
           "Tap. Pay. \ud83c\udfb6. Your favorite show is a tap away with #AndroidPay in the Ticketmaster app: https://goo.gl/fTRxkA",
@@ -1108,250 +137,57 @@
           1450731624
         ],
         [
+          "We wrapped #AndroidPay with extra layers of security to keep your information safe. Learn more \u2192 http://goo.gl/MVFqkq Timeline Photos",
+          1447183205
+        ],
+        [
           "Tap, pay, sip at vending machines across the country with #AndroidPay and @CocaCola http://goo.gl/0kHxc5",
           1446843638
+        ],
+        [
+          "Carrying too many cards? Lighten up your wallet by adding your debit and credit cards to #AndroidPay. It just takes a snap. Literally. https://goo.gl/lFik1J Timeline Photos",
+          1445374083
         ]
       ],
-      "dates_start": 1456332689,
-      "dates_end": 1482529065,
-      "likes_avg": 154,
-      "likes_stdev": 59,
-      "comments_avg": 28,
-      "comments_stdev": 18,
+      "dates_start": 1454526061,
+      "dates_end": 1481435430,
+      "likes_avg": 151,
+      "likes_stdev": 56,
+      "comments_avg": 30,
+      "comments_stdev": 19,
       "shares_avg": 12,
-      "shares_stdev": 13
+      "shares_stdev": 12
     },
     {
-      "number": 13,
+      "number": 2,
       "important": [
-        "look",
-        "enjoy",
-        "name",
-        "day",
-        "androidwear watch",
-        "androidwear",
-        "androidwear watch face",
-        "face",
-        "access",
-        "watch"
-      ],
-      "common": [
-        "androidwear",
-        "face",
-        "gl",
-        "goo",
-        "goo gl",
-        "photos",
-        "timeline",
-        "timeline photos",
         "watch",
-        "watch face"
-      ],
-      "messages": [
-        [
-          "There\u2019s an ustwo #AndroidWear watch face with your name on it. Customize your look for each day of the week: https://goo.gl/Xyn2mG 01.12_AndroidWear_UsTwo_FB.mp4",
-          1484420422
-        ],
-        [
-          "Prefer binary to analog? The #AndroidWear Binary Watch Face is for you. Enjoy: https://goo.gl/xjGX7t Timeline Photos",
-          1480438805
-        ],
-        [
-          "Snap a photo and find a perfectly matching watch face to pair with your outfit using the #AndroidWear Glow watch face. See for yourself: https://goo.gl/Ix2tb4 10.12_AndroidWear_GlowFace.mp4",
-          1476385532
-        ],
-        [
-          "\u201cI forgot\u201d is an excuse from the past. Carry your appointments, weather, emails and more on the Bits watch face. https://goo.gl/yveclU Timeline Photos",
-          1471622040
-        ],
-        [
-          "Complications made simple with Masque Simplicity\u2019s customizable #AndroidWear watch face to match your #WeekendWear. https://goo.gl/Jh5AGB Timeline Photos",
-          1458310959
-        ],
-        [
-          "Kick it old-school with this #AndroidWear Sticker Bombing watch face. #WeekendWear https://goo.gl/gVR8Y7 Timeline Photos",
-          1457717253
-        ],
-        [
-          "Hand drawn and customizable #AndroidWear watch faces for the win. #WeekendWear https://goo.gl/fgzbJZ Timeline Photos",
-          1457113383
-        ],
-        [
-          "Strut your stuff! Match your #AndroidWear watch face with your #WeekendWear getup: https://goo.gl/TSzzlh Timeline Photos",
-          1455372004
-        ],
-        [
-          "Get in touch with your clayful side with these #AndroidWear watch faces. #WeekendWear https://goo.gl/blB7mI Timeline Photos",
-          1453494318
-        ],
-        [
-          "We're launching a collection of 9 new #AndroidWear watch faces from top fashion brands so you can #WearWhatYouWant wherever you want http://goo.gl/x45FFB Timeline Photos",
-          1450195903
-        ],
-        [
-          "Can you crack the Morse code camouflaged on this George Frost watch face by Lulu Frost? #WeekendWear https://goo.gl/7DrGG2 Timeline Photos",
-          1447429859
-        ],
-        [
-          "Foxes, deer and rabbits, oh my! See what appears when you tap the Mysterious Forest #AndroidWear watch face. #WeekendWear https://goo.gl/iRxSjD Timeline Photos",
-          1445003771
-        ],
-        [
-          "Stay inspired with words of widsom from the Efva Attling Stockholm \"Time Will Come\" watch face. #WeekendWear https://goo.gl/X5y1dC Timeline Photos",
-          1443877209
-        ],
-        [
-          "We're in a #NYFW state of mind. Keep coordinated with our #AndroidWear designer watch face collection #WeekendWear https://goo.gl/0ityjc Timeline Photos",
-          1442062812
-        ],
-        [
-          "New #AndroidWear watches launched today from Asus, Huawei, & Motorola --> http://goo.gl/iiZ46u Timeline Photos",
-          1441215688
-        ],
-        [
-          "Every day can be #Caturday with the interactive HeyKittyKitty #AndroidWear watch face - just tap to see the kitten play. #WeekendWear https://goo.gl/UnrxOd Timeline Photos",
-          1440252010
-        ],
-        [
-          "New #AndroidWear interactive watch faces can change design, reveal more information, or even launch a specific app, all with just a tap. http://goo.gl/rerZgE Timeline Photos",
-          1440082403
-        ],
-        [
-          "Make it a #FancyFriday with Lulu Frost\u2019s #AndroidWear watch face https://goo.gl/WCpM8m #WeekendWear Timeline Photos",
-          1437141617
-        ],
-        [
-          "Adorable, elegant or fierce. Wear what you want with new #AndroidWear watch faces from Angry Birds, Bang & Olufsen, Cynthia Rowley, Geox, HelloKitty, Rubik's Cube, Muji and more Timeline Photos",
-          1434982339
-        ],
-        [
-          "Keep your #AndroidWear changing with the seasons. Check out the Weather Time watch face #WeekendWear https://goo.gl/GJW2iL Timeline Photos",
-          1432301970
-        ],
-        [
-          "#WeekendWear watch face that counts down to the weekend #meta http://goo.gl/CJuLB4 #AndroidWear Timeline Photos",
-          1430493004
-        ],
-        [
-          "#Caturday with the Catchcat #AndroidWear watch face \ud83d\ude3b #WeekendWear http://goo.gl/9iIId5 Timeline Photos",
-          1429963207
-        ],
-        [
-          "#AndroidWear now has more than 1,000 different watch faces, and a wider selection of straps so you can #WearWhatYouWant http://goo.gl/bby8hX Timeline Photos",
-          1428503032
-        ],
-        [
-          "Enjoy this collection of #AndroidWear watch faces from Google Art Project and some very talented street artists. #WeekendWear http://goo.gl/9tvtDz Timeline Photos",
-          1428069985
-        ]
-      ],
-      "dates_start": 1432425743,
-      "dates_end": 1464778384,
-      "likes_avg": 331,
-      "likes_stdev": 132,
-      "comments_avg": 57,
-      "comments_stdev": 22,
-      "shares_avg": 23,
-      "shares_stdev": 14
-    },
-    {
-      "number": 14,
-      "important": [
-        "know",
-        "list",
-        "phone",
-        "androidwear",
-        "much",
-        "like",
         "access",
-        "keep",
-        "good",
-        "help"
+        "timelin",
+        "androidwear watch",
+        "weekend",
+        "androidwear watch weekendwear",
+        "weekendwear timelin",
+        "weekendwear",
+        "find",
+        "androidwear"
       ],
       "common": [
         "androidwear",
-        "gl",
-        "goo",
-        "goo gl",
-        "https",
-        "https goo",
-        "photos",
-        "timeline",
-        "timeline photos",
+        "androidwear watch",
+        "androidwear watch weekendwear",
+        "quickly",
+        "quickly find",
+        "take",
+        "watch",
+        "watch weekendwear",
+        "weekend",
         "weekendwear"
       ],
       "messages": [
         [
-          "When you like the song so much but you don\u2019t know the title or the artist. #Shazam on #AndroidWear can help with that. https://goo.gl/YeJB7z Timeline Photos",
-          1485210183
-        ],
-        [
-          "With the #AndroidWear kitchen timer, keep your burnt baked goods to a minimum. https://goo.gl/NWA8t0 Timeline Photos",
-          1479762002
-        ],
-        [
-          "More notes, less problems. With Evernote, carry notes and lists with you on your #AndroidWear, phone, or computer. https://goo.gl/mT4F5r 11.10_Android_Evernote_FB.mp4",
-          1478821935
-        ],
-        [
-          "OK Google, what\u2019s the weather like? Be #WeekendWear  prepared before heading out with #AndroidWear. Timeline Photos",
-          1474821602
-        ],
-        [
-          "Go from desk MODE to dunk MODE in a snap. #AndroidWear #WearMODE android.com/wear/mode/ 08.12_female-mode-twitter.mp4",
-          1471011957
-        ],
-        [
-          "#GolfMonth is teeing off. #GoogleCalendar keeps your schedule on course so you can focus on that hole-in-one. Timeline Photos",
-          1470324652
-        ],
-        [
-          "Keep your Android game on point. We\u2019ve launched a tips and tricks site just for you: android.com/phones/tips\n\nWhat\u2019s your favorite #AndroidTip? Timeline Photos",
-          1469559602
-        ],
-        [
-          "#WeekendWear: Red, white, and blue edition. Which #AndroidWear MODE band are you rocking? 07.02_AndroidWear_ModeRWB.mp4",
-          1467464440
-        ],
-        [
-          "The Runwell 5K Trainer for #AndroidWear is like a coach on your wrist, so you can keep your eyes on the prize. #WeekendWear https://goo.gl/LN61W9 Timeline Photos",
-          1466769543
-        ],
-        [
-          "Brain at capacity from meetings this week? Audio record your thoughts with #AndroidWear: https://goo.gl/yfcZOu #WeekendWear Timeline Photos",
-          1464440408
-        ],
-        [
-          "Does your fridge need a mid-week refresh? Make a grocery list with just your voice so you can rummage with both your hands. #Android",
-          1464184987
-        ],
-        [
-          "Catch up on today\u2019s #io16 #Android announcements here \u2192 https://goo.gl/T8COrW Timeline Photos",
-          1463608951
-        ],
-        [
-          "Less \u201cnot today\u201d, more \u201cnamaste\u201d. Calm app for #AndroidWear helps you meditate, sleep, relax and much more. #WeekendWear https://goo.gl/M4Za7m Timeline Photos",
-          1463232712
-        ],
-        [
-          "Chart the stars this #SpaceDay with the Star Chart app for #AndroidWear. #WeekendWear https://goo.gl/MyhQZ5 Timeline Photos",
-          1462544762
-        ],
-        [
           "Quickly find a getaway for this weekend with Wego on your #AndroidWear watch. #WeekendWear https://goo.gl/W2cc1f Timeline Photos",
           1461936603
-        ],
-        [
-          "Introducing MODE, snap-and-swap watch bands designed for #AndroidWear http://goo.gl/ynFlPU Timeline Photos",
-          1461684104
-        ],
-        [
-          "Explore more of the great outdoors this weekend with Komoot for #AndroidWear. #WeekendWear https://goo.gl/tjF9Oc Timeline Photos",
-          1461420003
-        ],
-        [
-          "\u201cOK Google, what's the weather like this weekend?\u201d \u2600 #AndroidWear #WeekendWear Timeline Photos",
-          1460134590
         ],
         [
           "Do your grocery shopping in style this weekend with Google Keep on your #AndroidWear watch. #WeekendWear https://goo.gl/4njyv Timeline Photos",
@@ -1362,6 +198,67 @@
           1458926436
         ],
         [
+          "Take on little paper bad guys in this mini space battle when you play PaperCraft on your #AndroidWear watch. #WeekendWear https://goo.gl/Lcffmn Timeline Photos",
+          1454158808
+        ],
+        [
+          "Phone armbands are so 2015. Now you can track your run with #GoogleFit using just your #AndroidWear watch. #WeekendWear https://goo.gl/edgfVZ Timeline Photos",
+          1452872769
+        ],
+        [
+          "Enjoyed your last meal from Eat24? Order it again from your #AndroidWear watch. #WeekendWear https://goo.gl/DfiPCU Timeline Photos",
+          1444406850
+        ],
+        [
+          "Take the party with you. Listen to the iHeartRadio Music Festival channel from your #AndroidWear watch. #WeekendWear Timeline Photos",
+          1442592857
+        ]
+      ],
+      "dates_start": 1446526749,
+      "dates_end": 1460472730,
+      "likes_avg": 211,
+      "likes_stdev": 33,
+      "comments_avg": 50,
+      "comments_stdev": 16,
+      "shares_avg": 13,
+      "shares_stdev": 4
+    },
+    {
+      "number": 3,
+      "important": [
+        "right",
+        "celebr",
+        "new",
+        "access",
+        "googlefit",
+        "timelin",
+        "summer",
+        "need",
+        "androidwear watch",
+        "fit"
+      ],
+      "common": [
+        "androidwear",
+        "every",
+        "fitfriday",
+        "fitness",
+        "googlefit",
+        "right",
+        "step",
+        "track",
+        "update",
+        "ups"
+      ],
+      "messages": [
+        [
+          "Step up your fitness this summer with new goals from #GoogleFit. https://goo.gl/DShrax 06.30_Android_GoogleFit.mp4",
+          1467128729
+        ],
+        [
+          "Celebrate #PiDay with a pi-shaped jog. #GoogleFit tracks all the important measurables. Timeline Photos",
+          1457978139
+        ],
+        [
           "Need a nudge? Put your #GoogleFit goal right on your phone or #AndroidWear watch. #FitFriday Timeline Photos",
           1456521061
         ],
@@ -1370,40 +267,214 @@
           1455317490
         ],
         [
-          "Take on little paper bad guys in this mini space battle when you play PaperCraft on your #AndroidWear watch. #WeekendWear https://goo.gl/Lcffmn Timeline Photos",
-          1454158808
+          "Badminton, CrossFit or Zumba? Whatever gets you moving, #GoogleFit has you covered. #FitFriday Timeline Photos",
+          1454702762
+        ],
+        [
+          "Track every mile & moment on your way to breaking through your next plateau with the #GoogleFit update https://goo.gl/f4gAUc Timeline Photos",
+          1449088107
         ],
         [
           "Measure your push-ups, sit-ups, and squats with your #AndroidWear watch and #GoogleFit https://goo.gl/N6JgUX Timeline Photos",
           1448300116
         ],
         [
-          "Announcing the #LGWatchUrbane2 \u2013 the first #AndroidWear watch capable of making and receiving calls http://goo.gl/nSVSf0 Timeline Photos",
-          1447344317
+          "#GoogleFit\u2019s latest update lets you track everything from cardio to strength training, what you eat to how you rest, and coaches you every step of the way. http://goo.gl/DFq565 Timeline Photos",
+          1447950199
+        ],
+        [
+          "Leave the phone at home & track your run w/ RunKeeper & offline GPS on your Sony SmartWatch 3 #WeekendWear https://goo.gl/vmpW9r Timeline Photos",
+          1439570097
+        ],
+        [
+          "Step up your #fitness game. #GoogleFit now tracks your calories and distance, including basal metabolic rate http://goo.gl/xkJSGs Timeline Photos",
+          1431531383
+        ],
+        [
+          "Run, bike, walk, however you choose to sweat it out, #GoogleFit is now available on #Android devices to track it for you. http://goo.gl/RXcC3z Timeline Photos",
+          1414513895
+        ],
+        [
+          "Make every step count. With #AndroidWear you can keep track of your fitness with daily step count summaries sent right to your wrist. Timeline Photos",
+          1405429211
+        ]
+      ],
+      "dates_start": 1426391171,
+      "dates_end": 1461614026,
+      "likes_avg": 254,
+      "likes_stdev": 135,
+      "comments_avg": 43,
+      "comments_stdev": 30,
+      "shares_avg": 17,
+      "shares_stdev": 14
+    },
+    {
+      "number": 4,
+      "important": [
+        "face",
+        "watch",
+        "access",
+        "timelin",
+        "androidwear watch face",
+        "weekendwear",
+        "weekendwear timelin",
+        "face weekendwear timelin",
+        "face weekendwear",
+        "androidwear"
+      ],
+      "common": [
+        "androidwear",
+        "androidwear watch",
+        "androidwear watch face",
+        "androidwear watch face weekendwear",
+        "face",
+        "face weekendwear",
+        "watch",
+        "watch face",
+        "watch face weekendwear",
+        "weekendwear"
+      ],
+      "messages": [
+        [
+          "Kick it old-school with this #AndroidWear Sticker Bombing watch face. #WeekendWear https://goo.gl/gVR8Y7 Timeline Photos",
+          1457717253
+        ],
+        [
+          "Get in touch with your clayful side with these #AndroidWear watch faces. #WeekendWear https://goo.gl/blB7mI Timeline Photos",
+          1453494318
+        ],
+        [
+          "Foxes, deer and rabbits, oh my! See what appears when you tap the Mysterious Forest #AndroidWear watch face. #WeekendWear https://goo.gl/iRxSjD Timeline Photos",
+          1445003771
+        ],
+        [
+          "Stay inspired with words of widsom from the Efva Attling Stockholm \"Time Will Come\" watch face. #WeekendWear https://goo.gl/X5y1dC Timeline Photos",
+          1443877209
+        ],
+        [
+          "Make it a #FancyFriday with Lulu Frost\u2019s #AndroidWear watch face https://goo.gl/WCpM8m #WeekendWear Timeline Photos",
+          1437141617
+        ],
+        [
+          "Keep your #AndroidWear changing with the seasons. Check out the Weather Time watch face #WeekendWear https://goo.gl/GJW2iL Timeline Photos",
+          1432301970
+        ],
+        [
+          "#Caturday with the Catchcat #AndroidWear watch face \ud83d\ude3b #WeekendWear http://goo.gl/9iIId5 Timeline Photos",
+          1429963207
+        ]
+      ],
+      "dates_start": 1433149990,
+      "dates_end": 1452421251,
+      "likes_avg": 267,
+      "likes_stdev": 52,
+      "comments_avg": 52,
+      "comments_stdev": 16,
+      "shares_avg": 17,
+      "shares_stdev": 7
+    },
+    {
+      "number": 5,
+      "important": [
+        "much",
+        "access",
+        "timelin",
+        "like",
+        "help",
+        "wrist",
+        "weekendwear timelin",
+        "weekendwear",
+        "keep",
+        "androidwear"
+      ],
+      "common": [
+        "androidwear",
+        "androidwear weekendwear",
+        "face",
+        "keep",
+        "watch",
+        "watch face",
+        "watch face androidwear",
+        "weekend",
+        "weekendwear",
+        "wrist"
+      ],
+      "messages": [
+        [
+          "When you like the song so much but you don\u2019t know the title or the artist. #Shazam on #AndroidWear can help with that. https://goo.gl/YeJB7z Timeline Photos",
+          1485210183
+        ],
+        [
+          "The Runwell 5K Trainer for #AndroidWear is like a coach on your wrist, so you can keep your eyes on the prize. #WeekendWear https://goo.gl/LN61W9 Timeline Photos",
+          1466769543
+        ],
+        [
+          "Embrace #Caturday with the Nap Cats watch face for #AndroidWear. #WeekendWear https://goo.gl/Sv6wFU Timeline Photos",
+          1465650006
+        ],
+        [
+          "Brain at capacity from meetings this week? Audio record your thoughts with #AndroidWear: https://goo.gl/yfcZOu #WeekendWear Timeline Photos",
+          1464440408
+        ],
+        [
+          "Less \u201cnot today\u201d, more \u201cnamaste\u201d. Calm app for #AndroidWear helps you meditate, sleep, relax and much more. #WeekendWear https://goo.gl/M4Za7m Timeline Photos",
+          1463232712
+        ],
+        [
+          "Chart the stars this #SpaceDay with the Star Chart app for #AndroidWear. #WeekendWear https://goo.gl/MyhQZ5 Timeline Photos",
+          1462544762
+        ],
+        [
+          "Explore more of the great outdoors this weekend with Komoot for #AndroidWear. #WeekendWear https://goo.gl/tjF9Oc Timeline Photos",
+          1461420003
+        ],
+        [
+          "\u201cOK Google, what's the weather like this weekend?\u201d \u2600 #AndroidWear #WeekendWear Timeline Photos",
+          1460134590
+        ],
+        [
+          "Always know the right time to chat with the Timezone watch face for #AndroidWear. #WeekendWear https://goo.gl/dd8ECm Timeline Photos",
+          1456585205
+        ],
+        [
+          "Blast off! Feel like an explorer with the Space and Time watch face for #AndroidWear. #WeekendWear https://goo.gl/2s5emZ Timeline Photos",
+          1455901982
+        ],
+        [
+          "Never overcook the chicken again. Set and keep cooking times on your wrist with ustwo\u2122 Timer Watch Faces for #AndroidWear. #WeekendWear https://goo.gl/aLWIoY Timeline Photos",
+          1452288576
+        ],
+        [
+          "Play games with elves in jetpacks and follow Santa in his journey around the world #WeekendWear https://goo.gl/1kH0rw Timeline Photos",
+          1450458007
+        ],
+        [
+          "Start the countdown to the most wonderful time of the year \ud83c\udf84 #WeekendWear https://goo.gl/SRwRkg Timeline Photos",
+          1449269897
         ],
         [
           "\u201cOK Google, do I need an umbrella this weekend?\u201d Check the weather from your wrist with #AndroidWear.  #WeekendWear Timeline Photos",
           1446833322
         ],
         [
-          "Enjoyed your last meal from Eat24? Order it again from your #AndroidWear watch. #WeekendWear https://goo.gl/DfiPCU Timeline Photos",
-          1444406850
+          "Swipe up, down, left, right in the SWIP3 game on #AndroidWear. #AndroidExperiments #WeekendWear https://goo.gl/xTsGlk Timeline Photos",
+          1445632018
         ],
         [
           "Don\u2019t miss your date! #AndroidWear\u2019s at-a-glance appointment reminders help keep you prompt. #WeekendWear Timeline Photos",
           1443186009
         ],
         [
-          "Take the party with you. Listen to the iHeartRadio Music Festival channel from your #AndroidWear watch. #WeekendWear Timeline Photos",
-          1442592857
-        ],
-        [
-          "#AndroidWear watches now work with #iPhones. #wearwhatyouwant http://goo.gl/pxGhKA Timeline Photos",
-          1441028813
+          "Sit back & relax with the Muji watch face for #AndroidWear https://goo.gl/fienrY #WeekendWear Timeline Photos",
+          1438950598
         ],
         [
           "Stay hands free: travel, house hunting & transit apps with Google Maps #AndroidWear http://goo.gl/eM59HD #WeekendWear Timeline Photos",
           1438352227
+        ],
+        [
+          "You\u2019ll always know when he\u2019ll be back with the Terminator Genisys watch face for #AndroidWear https://goo.gl/D4KTWP #WeekendWear Timeline Photos",
+          1437746417
         ],
         [
           "Never miss a song. Keep your phone in your pocket & Shazam from your wrist with #AndroidWear https://goo.gl/zAqnxo #WeekendWear Timeline Photos",
@@ -1414,12 +485,20 @@
           1435926964
         ],
         [
+          "New always-on #AndroidWear apps keep info handy for when you're on the go http://goo.gl/W72Abh #WeekendWear Timeline Photos",
+          1435326392
+        ],
+        [
           "Add a personal touch with voice messages on-the-go with Cord Project Inc. for #AndroidWear https://goo.gl/BkFDfj #WeekendWear Timeline Photos",
           1434116267
         ],
         [
-          "For a recap of all of today's Android #keynote announcements go to: http://goo.gl/lr56cT #io15 Timeline Photos",
-          1432831984
+          "Going on a summer trip? Learn the local language with Duolingo for #AndroidWear https://goo.gl/GG7x1H #WeekendWear Timeline Photos",
+          1433517663
+        ],
+        [
+          "Catch some quality Z\u2019s this weekend with your #AndroidWear. The Sleep as Android app helps you fall asleep, stay asleep and wake up at the optimal time #WeekendWear https://goo.gl/PVkP7 Timeline Photos",
+          1432990812
         ],
         [
           "Keep your phone out of the batter with #AndroidWear - here's our fave #ChocolateChipDay #recipe from @allthecooks #WeekendWear https://goo.gl/p5sk7W Timeline Photos",
@@ -1436,58 +515,139 @@
         [
           "Coordinate from head-to-wrist-to-toe with the #AndroidWear DressWatch app #WeekendWear http://goo.gl/NyW4qX Timeline Photos",
           1428674383
-        ],
-        [
-          "For those near and far, Priority Mode on #Android helps you keep loved ones at the top of your list this season by making sure your time spent together isn't interrupted by unimportant notifications. Who's on your priority list? Timeline Photos",
-          1418839205
-        ],
-        [
-          "These days, it\u2019s not just about how your watch looks, but what your watch does. Make your watch work for you with the #AndroidWear apps you need. Here's how: Timeline Photos",
-          1416427208
-        ],
-        [
-          "There were quite a few #AndroidWear announcements this week. Here's a recap of all the news in case you missed it: http://officialandroid.blogspot.com/ Timeline Photos",
-          1409932972
-        ],
-        [
-          "Keep up with the latest tunes on #GooglePlay Music. Rate your favorite new summer songs for personalized recommendations and keep your playlist fresh. http://goo.gl/yp7A3U Timeline Photos",
-          1403105407
         ]
       ],
-      "dates_start": 1431306526,
-      "dates_end": 1469714935,
-      "likes_avg": 292,
-      "likes_stdev": 158,
-      "comments_avg": 51,
-      "comments_stdev": 27,
-      "shares_avg": 21,
-      "shares_stdev": 24
+      "dates_start": 1433117380,
+      "dates_end": 1461624742,
+      "likes_avg": 249,
+      "likes_stdev": 86,
+      "comments_avg": 55,
+      "comments_stdev": 26,
+      "shares_avg": 17,
+      "shares_stdev": 9
     },
     {
-      "number": 15,
+      "number": 6,
       "important": [
-        "app",
-        "check",
-        "weekend",
-        "sure",
+        "easier",
+        "timelin",
+        "androidwear timelin",
         "access",
-        "androidauto",
+        "look",
+        "never",
+        "take",
+        "weather",
+        "keep",
+        "androidwear"
+      ],
+      "common": [
+        "androidwear",
+        "app",
+        "google",
+        "nothing",
+        "recipes",
+        "right",
+        "time",
+        "watch",
+        "weekend",
+        "weekendwear"
+      ],
+      "messages": [
+        [
+          "Keeping a #NewYears resolution has never been easier - or more stylish. #AndroidWear Timeline Photos",
+          1483477202
+        ],
+        [
+          "Take a walk down memory lane with a #tbt retro look for your #AndroidWear. https://goo.gl/pwAOAx Timeline Photos",
+          1475765975
+        ],
+        [
+          "OK Google, what\u2019s the weather like? Be #WeekendWear  prepared before heading out with #AndroidWear. Timeline Photos",
+          1474821602
+        ],
+        [
+          "Math class will have nothing on you. Go #BacktoSchool in style with #AndroidWear. http://goo.gl/bXLtaj Timeline Photos",
+          1473347705
+        ],
+        [
+          "Nothing says Fri-YAY like flowers. What\u2019s blooming on your #AndroidWear? https://goo.gl/XOhP1b Timeline Photos",
+          1469193303
+        ],
+        [
+          "Stay hydrated this weekend with the Water Drink Reminder for #AndroidWear. https://goo.gl/rWdh4Y Timeline Photos",
+          1466249392
+        ],
+        [
+          "Time has flown since I/O two years ago. Happy second birthday #AndroidWear! #io16 Timeline Photos",
+          1463588739
+        ],
+        [
+          "Just in time. Take $50 off #HuaweiWatch now through 12/22 #GoogleStore #AndroidWear Timeline Photos",
+          1450296027
+        ],
+        [
+          "Make your Google account safer with Google Authenticator right on your wrist. #AndroidWear https://goo.gl/GEZJmY Timeline Photos",
+          1449854546
+        ],
+        [
+          "View past convos and respond directly from your watch with the new #Hangouts app on #AndroidWear http://goo.gl/HL9g6f Timeline Photos",
+          1439216264
+        ],
+        [
+          "#WeekendWear watch face that counts down to the weekend #meta http://goo.gl/CJuLB4 #AndroidWear Timeline Photos",
+          1430493004
+        ],
+        [
+          "Stay connected to the people that matter with the #WhatsApp app on your #Android wearable. #AndroidWear Timeline Photos",
+          1410620411
+        ],
+        [
+          "Get recipes right on your wrist with the Allthecooks Recipes App and let out your inner chef. No more flour-coated tablets! #AndroidWear Timeline Photos",
+          1408561749
+        ],
+        [
+          "Order delivery from your favorite restaurant using Eat24 right on your watch. #AndroidWear Timeline Photos",
+          1406829600
+        ],
+        [
+          "When it\u2019s hardest to hail a cab, your Lyft will be on its way. Grab a ride by saying \"Ok Google, call me a car\u201d. #AndroidWear Timeline Photos",
+          1406302046
+        ]
+      ],
+      "dates_start": 1419932144,
+      "dates_end": 1474550197,
+      "likes_avg": 348,
+      "likes_stdev": 207,
+      "comments_avg": 47,
+      "comments_stdev": 22,
+      "shares_avg": 18,
+      "shares_stdev": 10
+    },
+    {
+      "number": 7,
+      "important": [
         "add",
-        "sweet",
-        "get",
-        "android"
+        "use androidpay",
+        "use",
+        "access",
+        "timelin",
+        "season",
+        "app",
+        "weekend",
+        "androidauto",
+        "app timelin"
       ],
       "common": [
         "android",
-        "gl",
-        "goo",
-        "goo gl",
-        "http",
-        "https",
-        "one",
-        "photos",
-        "timeline",
-        "timeline photos"
+        "androidpay",
+        "app",
+        "apps",
+        "enjoy",
+        "free",
+        "mp4",
+        "music",
+        "use",
+        "use androidpay"
       ],
       "messages": [
         [
@@ -1495,16 +655,748 @@
           1487371592
         ],
         [
-          "Cupid\u2019s arrow is aimed at #Android\u2019s Instagram. Be sure to check out our sweet #ValentinesDay story. https://goo.gl/XE6NdG Timeline Photos",
-          1487090457
+          "#1 priority during flu season: don\u2019t get sick. Avoid the unnecessary germs by using #AndroidPay at checkout. https://goo.gl/w8jwjf 01.27_AndroidPay_FluSeason.mp4",
+          1485799117
         ],
         [
-          "#SaferInternetDay calls for an #AndroidTip. Check out these ways to keep your device safe: https://goo.gl/c619ZZ Timeline Photos",
-          1486468803
+          "Zap\u0142a\u0107 za bilet #AndroidPay z kart\u0105 Mastercard w Multikinie, a dostaniesz drugi bilet i popcorn za darmo!\n\nSzczeg\u00f3\u0142y promocji u kasjera i na http://mastercard.pl/multikino-pay/ Timeline Photos",
+          1482418801
         ],
         [
-          "It\u2019s #Thanksgiving, and we\u2019re thankful for all our fans. Enjoy some turkey today. Timeline Photos",
-          1480010404
+          "Accepted at millions of stores around the world, the possibilities are endless with #AndroidPay. Go and get your Tap. Pay. Awesome. on. https://goo.gl/XHzdVJ 11.03_AndroidPay_Emoji_FB.mp4",
+          1481983219
+        ],
+        [
+          "Santa's Back! Visit Santa's Village on the Santa Tracker #Android app and unlock exclusive games only available on the app. https://goo.gl/vUgk6A Timeline Photos",
+          1481825192
+        ],
+        [
+          "Move freely, breathe deeply, pay easily. You can now use #AndroidPay within the lululemon app. https://goo.gl/PDUsi9 Timeline Photos",
+          1481758255
+        ],
+        [
+          "Uber savings with Uber. Use #AndroidPay and promo code \u201cANDROID50\u201d in the Uber app to enjoy 50% off your next 5 rides: https://goo.gl/dZSIvh Timeline Photos",
+          1481581840
+        ],
+        [
+          "Is Jet.com your one-stop holiday shop? Use #AndroidPay to unlock a $10 credit when you spend over $50. https://goo.gl/nJSKmQ Timeline Photos",
+          1481050803
+        ],
+        [
+          "Places to go and people to see this holiday season. Limit the distractions with #AndroidAuto. Get the app: https://goo.gl/Huy2fC Timeline Photos",
+          1479913206
+        ],
+        [
+          "Don\u2019t let those last minute Thanksgiving errands get you in a bind. Use #AndroidPay in the Instacart app and enjoy free grocery delivery on orders over $35. https://goo.gl/xT3rp9 Timeline Photos",
+          1479834005
+        ],
+        [
+          "#AndroidPay ju\u017c dost\u0119pny w Polsce. Nowy spos\u00f3b na \u0142atwe i bezpieczne p\u0142acenie telefonem. Pobierz teraz: https://goo.gl/KKOj4s 11.10_AndroidPay_Poland_02.mp4",
+          1479362426
+        ],
+        [
+          "Enjoy a side of savings with your soup and sandwich. Use #AndroidPay in the Panera Bread app and enjoy a free \u201cYou Pick Two,\u201d now through 11/24. https://goo.gl/Gzy2R8 Timeline Photos",
+          1479326405
+        ],
+        [
+          "Don\u2019t miss out on this Doordash special. Use #AndroidPay & enjoy F-R-E-E delivery on orders over $15 through November. https://goo.gl/TjVofj Timeline Photos",
+          1478185208
+        ],
+        [
+          "More savings, more fun. Use #AndroidPay in your fav apps & save over $100! Learn more: https://goo.gl/JZrbY9 10.26_AndroidPay_PromoCollection_FB04.mp4",
+          1477597585
+        ],
+        [
+          "The coffee is warm but your wallet is staying cool. It\u2019s the last Monday to enjoy a free cup of coffee from Caff\u00e8 Nero when you use MasterCard with #AndroidPay. https://goo.gl/6JeFxd Timeline Photos",
+          1477281602
+        ],
+        [
+          "MasterCard #AndroidPay users in London: don\u2019t forget that each Monday in October, you can enjoy free transportation on Transport for London. https://goo.gl/6zn2Cu Timeline Photos",
+          1476676802
+        ],
+        [
+          "Order\u2019s up! Use #AndroidPay with Grubhub and reap the benefits now through 10/31. https://goo.gl/6BRtVo Timeline Photos",
+          1476126005
+        ],
+        [
+          "Who doesn\u2019t love free coffee from Caff\u00e8 Nero and free travel on Transport for London on a Monday? #AndroidPay MasterCard users, we\u2019re looking at you. Learn more: https://goo.gl/6JeFxd",
+          1475467203
+        ],
+        [
+          "There are 2 ways to Tap. Pay. Yay! In stores and in apps. What\u2019s your favorite way to use #AndroidPay? 09.27_AndroidPay_2WaysToPay.mp4",
+          1475155285
+        ],
+        [
+          "Get excited! Chase is now available on #AndroidPay. Now let\u2019s get shoppin\u2019. http://goo.gl/uvn2Wg 09.07_AndroidPay_Chase_FB_03.mp4",
+          1473247829
+        ],
+        [
+          "More Wallpapers, more fun. Which of these wallpapers will your phone be sporting? \n\nJust long press on these photos and save to your album to use as your background. http://goo.gl/uz5tHG Photos from Android's post",
+          1473178441
+        ],
+        [
+          "Now, you\u2019re just a tap away from never missing Walgreens Balance Rewards savings and points. Save your rewards card to #AndroidPay and try tapping today. http://goo.gl/iZlfkO 08.17_AndroidPay_Walgreens.mp4",
+          1472569524
+        ],
+        [
+          "Hello Saturday! Relax and enjoy the music by matching your music to your mood. #AndroidTip android.com/phones/tips 08.06_AndroidTip_MatchMood.mp4",
+          1470490221
+        ],
+        [
+          "Automate the mundane with #AndroidWear. Use the @IFTTT app to auto-trigger certain tasks. What\u2019s your favorite IFTTT recipe? https://goo.gl/nxhm5o FBr2.mov",
+          1470403842
+        ],
+        [
+          "As fashionable as it is functional. Get in tune with #AndroidWear using the Guitar Tuner app. Timeline Photos",
+          1469799002
+        ],
+        [
+          "Hungry? Grubhub is now available with #AndroidPay. 07.18_AndroidPay_GrubHub.mp4",
+          1468849534
+        ],
+        [
+          "You don't have to lift a finger to use #AndroidPay \u2013 not even to open the app. https://goo.gl/tLv9la 06.29_AndroidPay_JustTap.mp4",
+          1467378038
+        ],
+        [
+          "Now you can use #AndroidPay at stores islandwide for coffee, groceries, meals out and more! https://youtu.be/M0qp6xzVNK4",
+          1467079201
+        ],
+        [
+          "Hey Lyft riders! Get $10 off your next ride when you use #AndroidPay. \nhttps://blog.lyft.com/android-pay-1 Timeline Photos",
+          1461942653
+        ],
+        [
+          "Tap. Pay. \u2705 . Check off your shopping list fast & save \ud83d\udcb0 w/ #AndroidPay in the Jet app. https://goo.gl/ez1OL4 Timeline Photos",
+          1458838820
+        ],
+        [
+          "Enter your info once, and use #AndroidPay to make payments across all your favorite apps: https://goo.gl/jn9cQD",
+          1453768323
+        ],
+        [
+          "You can now use #AndroidPay in your favorite apps Read more: http://goo.gl/2H8juR Timeline Photos",
+          1450201623
+        ],
+        [
+          "What\u2019s velvety red, tastes like chocolate, and is frosted on top? The new #AndroidPay x Sprinkles Cupcakes limited edition cupcake is here for just 1 day. Show your #AndroidPay app at any store to get a free cupcake #NationalCupcakeDay",
+          1450184402
+        ],
+        [
+          "Double up on gifting and giving this #BlackFriday. We\u2019re donating $2 every time you use #AndroidPay today. All proceeds will go to DonorsChoose.org for the funding of special education projects. #TapPayGive today: https://goo.gl/rDwndd Timeline Photos",
+          1448640001
+        ],
+        [
+          "We\u2019re giving $1 every time you use #AndroidPay this holiday season, partnering w/ Google.org and @DonorsChoose.org to fund special education projects. Join us to #TapPayGive: http://goo.gl/T5ik6x Timeline Photos",
+          1448377023
+        ],
+        [
+          "AaHs Network\r\npour T\u00e9l\u00e9charg\u00e9 ce fille : http:// app.appsgeyser.com/aahs%20network  \r\nc'est un r\u00e9seau sosial comme (whatsapp-viber-facebook...) Android App: aahs network Make an App for Android for FREE. AppsGeyser is a free app maker. Build an app in seconds, promote existent business and earn a passive income.",
+          1447852062
+        ],
+        [
+          "this app is amazing !!!!!!!!:\n the most amazing arabic music instrument app in the world with this app you can play the arabic musics with special quarter flat tunes on your mobile phone it has the qanoon sound and the special string that used in...",
+          1442264854
+        ],
+        [
+          "Let\u2019s get this party started. Google Play Music now has free music for all https://goo.gl/vVgerB #PlayAllDay Timeline Photos",
+          1435332933
+        ],
+        [
+          "Bring step-by-step recipes to your wrist when you use the #Cookpad app on #AndroidWear. Now you can free your hands up to prep your #Thanksgiving feast. http://goo.gl/2fZOlj Timeline Photos",
+          1416938408
+        ],
+        [
+          "Sit down and ball up. The #NBA and #MLB apps are now available on #NexusPlayer. We can already hear you cheering on your favorite teams. http://goo.gl/5MID2k Timeline Photos",
+          1415204481
+        ],
+        [
+          "Catch up on your news when you have time. Just use the Pocket app for #Android to save it for later. You can even access articles without an internet connection. Timeline Photos",
+          1412180465
+        ],
+        [
+          "Skip straight to your favorite chorus without even unlocking your phone, thanks to #GooglePlay Music: Just long press play or pause and select the second you want to hear. #AndroidTricks Timeline Photos",
+          1405599006
+        ]
+      ],
+      "dates_start": 1443182916,
+      "dates_end": 1485342570,
+      "likes_avg": 368,
+      "likes_stdev": 1034,
+      "comments_avg": 38,
+      "comments_stdev": 32,
+      "shares_avg": 22,
+      "shares_stdev": 53
+    },
+    {
+      "number": 8,
+      "important": [
+        "face",
+        "watch",
+        "name",
+        "access",
+        "timelin",
+        "look",
+        "androidwear watch face",
+        "face androidwear",
+        "world",
+        "androidwear"
+      ],
+      "common": [
+        "androidwear",
+        "androidwear watch",
+        "androidwear watch face",
+        "face",
+        "faces",
+        "new",
+        "watch",
+        "watch face",
+        "watch faces",
+        "weekendwear"
+      ],
+      "messages": [
+        [
+          "The Willow watch face for #AndroidWear is out of this world \ud83d\udcab\u2728 Get it for yourself here: https://goo.gl/HqI7J1 Timeline Photos",
+          1485885602
+        ],
+        [
+          "There\u2019s an ustwo #AndroidWear watch face with your name on it. Customize your look for each day of the week: https://goo.gl/Xyn2mG 01.12_AndroidWear_UsTwo_FB.mp4",
+          1484420422
+        ],
+        [
+          "It\u2019s the most wonderful \ud83d\udd52 of the year. Celebrate the season with the #SantaTracker watch face for your #AndroidWear. https://goo.gl/GIC50Y Timeline Photos",
+          1482422401
+        ],
+        [
+          "Prefer binary to analog? The #AndroidWear Binary Watch Face is for you. Enjoy: https://goo.gl/xjGX7t Timeline Photos",
+          1480438805
+        ],
+        [
+          "You sent in watch faces, and #AndroidWear, Paper Magazine & a panel of fashion experts picked 5 to bring to life. Time for you to find your favorite. https://goo.gl/D4vj0a 10.18_AndroidWear_PaperMag_FB.mp4",
+          1477320432
+        ],
+        [
+          "Snap a photo and find a perfectly matching watch face to pair with your outfit using the #AndroidWear Glow watch face. See for yourself: https://goo.gl/Ix2tb4 10.12_AndroidWear_GlowFace.mp4",
+          1476385532
+        ],
+        [
+          "\u201cI forgot\u201d is an excuse from the past. Carry your appointments, weather, emails and more on the Bits watch face. https://goo.gl/yveclU Timeline Photos",
+          1471622040
+        ],
+        [
+          "Complications made simple with Masque Simplicity\u2019s customizable #AndroidWear watch face to match your #WeekendWear. https://goo.gl/Jh5AGB Timeline Photos",
+          1458310959
+        ],
+        [
+          "Hand drawn and customizable #AndroidWear watch faces for the win. #WeekendWear https://goo.gl/fgzbJZ Timeline Photos",
+          1457113383
+        ],
+        [
+          "Strut your stuff! Match your #AndroidWear watch face with your #WeekendWear getup: https://goo.gl/TSzzlh Timeline Photos",
+          1455372004
+        ],
+        [
+          "Set a fitness goal for the new year and keep time while you run with @ustwo Timer Watch Faces for #AndroidWear https://goo.gl/hNGYwu Timeline Photos",
+          1451755324
+        ],
+        [
+          "We're launching a collection of 9 new #AndroidWear watch faces from top fashion brands so you can #WearWhatYouWant wherever you want http://goo.gl/x45FFB Timeline Photos",
+          1450195903
+        ],
+        [
+          "Can you crack the Morse code camouflaged on this George Frost watch face by Lulu Frost? #WeekendWear https://goo.gl/7DrGG2 Timeline Photos",
+          1447429859
+        ],
+        [
+          "Watch out! This #Halloween watch face for #AndroidWear makes for some spooky #WeekendWear. https://goo.gl/GRtJ2i Timeline Photos",
+          1446215724
+        ],
+        [
+          "We're in a #NYFW state of mind. Keep coordinated with our #AndroidWear designer watch face collection #WeekendWear https://goo.gl/0ityjc Timeline Photos",
+          1442062812
+        ],
+        [
+          "New #AndroidWear watches launched today from Asus, Huawei, & Motorola --> http://goo.gl/iiZ46u Timeline Photos",
+          1441215688
+        ],
+        [
+          "#AndroidWear watches now work with #iPhones. #wearwhatyouwant http://goo.gl/pxGhKA Timeline Photos",
+          1441028813
+        ],
+        [
+          "Every day can be #Caturday with the interactive HeyKittyKitty #AndroidWear watch face - just tap to see the kitten play. #WeekendWear https://goo.gl/UnrxOd Timeline Photos",
+          1440252010
+        ],
+        [
+          "New #AndroidWear interactive watch faces can change design, reveal more information, or even launch a specific app, all with just a tap. http://goo.gl/rerZgE Timeline Photos",
+          1440082403
+        ],
+        [
+          "Adorable, elegant or fierce. Wear what you want with new #AndroidWear watch faces from Angry Birds, Bang & Olufsen, Cynthia Rowley, Geox, HelloKitty, Rubik's Cube, Muji and more Timeline Photos",
+          1434982339
+        ],
+        [
+          "#AndroidWear now has more than 1,000 different watch faces, and a wider selection of straps so you can #WearWhatYouWant http://goo.gl/bby8hX Timeline Photos",
+          1428503032
+        ],
+        [
+          "Enjoy this collection of #AndroidWear watch faces from Google Art Project and some very talented street artists. #WeekendWear http://goo.gl/9tvtDz Timeline Photos",
+          1428069985
+        ],
+        [
+          "While your #AndroidWear watch auto updates the time, you can focus on updating your watch face for Spring. #DaylightSavings Timeline Photos",
+          1425764138
+        ],
+        [
+          "Your watch, your style, your choice. Here's how to install new watch faces for #AndroidWear: http://goo.gl/ZbpXwr Timeline Photos",
+          1419007206
+        ],
+        [
+          "These days, it\u2019s not just about how your watch looks, but what your watch does. Make your watch work for you with the #AndroidWear apps you need. Here's how: Timeline Photos",
+          1416427208
+        ]
+      ],
+      "dates_start": 1430555940,
+      "dates_end": 1472026781,
+      "likes_avg": 380,
+      "likes_stdev": 178,
+      "comments_avg": 57,
+      "comments_stdev": 24,
+      "shares_avg": 29,
+      "shares_stdev": 30
+    },
+    {
+      "number": 9,
+      "important": [
+        "android",
+        "happi",
+        "access",
+        "timelin"
+      ],
+      "common": [
+        "04_android_4thofjuly",
+        "4thofjuly",
+        "happy",
+        "happy 4thofjuly",
+        "happy pandaday",
+        "happy spaceday",
+        "jellybeanday",
+        "jellybeanday remember",
+        "nom",
+        "nom nom"
+      ],
+      "messages": [
+        [
+          "Happy #4thOfJuly! 07.04_Android_4thofJuly.mp4",
+          1467637249
+        ],
+        [
+          "Nom nom nom. Happy #NationalDonutDay! Timeline Photos",
+          1464963391
+        ],
+        [
+          "Happy #JellyBeanDay!! Remember this? #FBF Timeline Photos",
+          1461339002
+        ],
+        [
+          "Happy #PandaDay! Timeline Photos",
+          1458142382
+        ],
+        [
+          "Happy #NationalFroyoDay! Timeline Photos",
+          1454769002
+        ],
+        [
+          "Who loves cupcakes? Us too. Happy #NationalCupcakeDay! Timeline Photos",
+          1450206024
+        ],
+        [
+          "Happy #SpaceDay! Timeline Photos",
+          1430481618
+        ],
+        [
+          "Happy Halloween #Android :D",
+          1414616014
+        ],
+        [
+          "Happy #4thofJuly, America! Timeline Photos",
+          1404475203
+        ]
+      ],
+      "dates_start": 1423452629,
+      "dates_end": 1466909567,
+      "likes_avg": 654,
+      "likes_stdev": 462,
+      "comments_avg": 56,
+      "comments_stdev": 25,
+      "shares_avg": 34,
+      "shares_stdev": 19
+    },
+    {
+      "number": 10,
+      "important": [
+        "googl",
+        "android",
+        "catch",
+        "androidtv",
+        "access",
+        "need",
+        "googl play",
+        "app",
+        "play",
+        "music"
+      ],
+      "common": [
+        "android",
+        "androidtv",
+        "androidwear",
+        "available",
+        "available google play",
+        "download",
+        "google",
+        "google play",
+        "play",
+        "tv"
+      ],
+      "messages": [
+        [
+          "Rock out on #SundayFunday with Google Play Music and #Android. 02.12_AndroidTip_DJ_FB.mp4",
+          1487521826
+        ],
+        [
+          "No flags on this play. Huddle up and catch the action on your #AndroidTV with the #FOXSportsGO app at 6:30 ET. No subscription needed, extra nachos encouraged. Timeline Photos",
+          1486310402
+        ],
+        [
+          "Introduce the world of VR to your everyday photos. The Sprayscape camera app on Google Play is now available for Android. https://goo.gl/XNw3yz",
+          1476286392
+        ],
+        [
+          "Turn your TV into a jukebox. Find your flow with Deezer and never worry about what to play next. Available now on #AndroidTV. Timeline Photos",
+          1472658454
+        ],
+        [
+          "#AndroidPay is now available in Singapore. Download from @Google Play, add your card and tap to pay at thousands of stores islandwide. http://goo.gl/96hyRC Timeline Photos",
+          1467055202
+        ],
+        [
+          "The jamstik digital smart guitar is now available for #AndroidTV. Download from Google Play https://goo.gl/xtEQa5 Timeline Photos",
+          1464364837
+        ],
+        [
+          "Your Spotify albums, songs and playlists are now available on #AndroidTV. Download from Google Play and start browsing from your living room: https://goo.gl/7d64YJ #io16 Timeline Photos",
+          1463601931
+        ],
+        [
+          "Now you can enjoy Showtime Networks on your #Android and #AndroidTV devices. Get a 30 day free trial from Google Play to catch the season premieres of Homeland and The Affair. Also check out HBO NOW, WWE Network and more now available. http://goo.gl/YlaHrY Timeline Photos",
+          1443718494
+        ],
+        [
+          "The #AndroidPay app is now available on Google Play. Download, add your cards, & tap to pay. https://goo.gl/hiw7wS Timeline Photos",
+          1442587339
+        ],
+        [
+          "Just in time for the #NBAPlayoffs, @Sling TV brings live sports and @SportsCenter to #AndroidTV https://goo.gl/rKROlW Timeline Photos",
+          1432215904
+        ],
+        [
+          "Happy 3rd birthday to our partner-in-content, Google Play! Timeline Photos",
+          1425578852
+        ],
+        [
+          "Coming to a TV near you: built-in gaming, Google Play movies & shows, voice search, and more with #AndroidTV. Check out more of the latest from #CES2015: http://goo.gl/t2A527 Timeline Photos",
+          1420573085
+        ],
+        [
+          "#Android U.S. exclusive: watch the current season of your favorite TV shows for free on the Hulu app on Google Play. http://goo.gl/tHl0sg Timeline Photos",
+          1418313326
+        ],
+        [
+          "Wear what you want. The latest update to #AndroidWear lets you customize your wearable with dozens of new watch faces, available now on Google Play. http://goo.gl/H8AeQy Timeline Photos",
+          1418231286
+        ],
+        [
+          "Here's your chance: Last day to purchase an #AndroidWear device on Google Play and get a $50 Play credit in the U.S. #CyberMonday http://goo.gl/W35jFl Timeline Photos",
+          1417453221
+        ],
+        [
+          "Snag the #LGGWatch until Monday for over 50% off on Google Play in US, CAN & UK. #BlackFriday http://goo.gl/dFCP96 Timeline Photos",
+          1417189023
+        ],
+        [
+          "Elegantly styled and powered by #AndroidWear, the ASUS #ZenWatch is now available on Google Play. http://goo.gl/OpAOwd Timeline Photos",
+          1415985224
+        ],
+        [
+          "The Sony #SmartWatch3, powered by #AndroidWear, is made to fit your lifestyle. Get it now on Google Play: http://goo.gl/2anaFI Timeline Photos",
+          1415641303
+        ],
+        [
+          "The LG G Watch R comes full circle, combining timeless design and information that moves with you. Now available on Google Play. #AndroidWear http://goo.gl/tFssFa Timeline Photos",
+          1415295597
+        ],
+        [
+          "Say hello to the days where your watch can tell you much more than time. Designed for life, the Sony #SmartWatch3 for #AndroidWear is now available at Verizon, and coming soon on Google Play. http://goo.gl/zXpzg9 Timeline Photos",
+          1414073793
+        ],
+        [
+          "It's #NationalVideoGamesDay, so we\u2019re taking a break with #ClashOfClans. What are you playing? Timeline Photos",
+          1410552009
+        ]
+      ],
+      "dates_start": 1412912334,
+      "dates_end": 1465678855,
+      "likes_avg": 497,
+      "likes_stdev": 666,
+      "comments_avg": 61,
+      "comments_stdev": 35,
+      "shares_avg": 35,
+      "shares_stdev": 30
+    },
+    {
+      "number": 11,
+      "important": [
+        "notthesam",
+        "togeth",
+        "around",
+        "watch",
+        "access",
+        "learn",
+        "togeth notthesam",
+        "happi",
+        "launch",
+        "notthesam timelin"
+      ],
+      "common": [
+        "android",
+        "fingerprints",
+        "fun",
+        "happy",
+        "notthesame",
+        "paper",
+        "rock paper",
+        "scissors",
+        "together",
+        "together notthesame"
+      ],
+      "messages": [
+        [
+          "For #PeaceDay, launch a paper plane and watch it soar around the \ud83c\udf0d. Be together. #NotTheSame Learn more: https://goo.gl/xPT1za 09.16_Android_PaperAirplanes_FB03.mp4",
+          1474471401
+        ],
+        [
+          "Happy #NationalBestFriendsDay! Be Together. #NotTheSame Timeline Photos",
+          1465399142
+        ],
+        [
+          "We\u2019d like to thank...everyone! Be Together. #NotTheSame",
+          1456716768
+        ],
+        [
+          "Rock, Paper and Scissors don\u2019t have much in common, but that won\u2019t stop them. Be Together. #NotTheSame https://youtu.be/UYxpX3N20qU Android: Rock, Paper, Scissors Rock, Paper and Scissors don't have much in common, but that won't stop them. Be Together. #NotTheSame Learn more at http://android.com and by following us o...",
+          1456712429
+        ],
+        [
+          "We made a monotone piano. And then we made an album with it. https://goo.gl/tHQ29y\n\nBe together. #NotTheSame Timeline Photos",
+          1456501286
+        ],
+        [
+          "Happy New Year!  Be together. #notthesame",
+          1451599038
+        ],
+        [
+          "Meet the cast of \u201cFingerprints\u201d here. Life\u2019s more fun when we\u2019re together. #notthesame https://youtu.be/5HbDQQ5WlS8",
+          1450719780
+        ],
+        [
+          "Just like our fingerprints, we\u2019re all wonderfully unique on our own. But watch how much fun we have when we all come together. #notthesame https://goo.gl/tlKe55 Android: Fingerprints Like our fingerprints, we\u2019re all wonderfully unique on our own. But life\u2019s a lot more fun when we come together. Learn more at http://android.com and by foll...",
+          1450463363
+        ],
+        [
+          "#SummerSolstice = summer adventures. No matter what language you speak or who you meet along the way, \"Be Together. #NotTheSame.\" #googletranslate Android: 100 Billion Words Every day, more than 100 billion words are translated with Google Translate. So no matter where you are or what language you speak, you can \u201cBe Together. Not...",
+          1434890126
+        ],
+        [
+          "\u00a1Hola Barcelona! #androidMWC #MWC15 #NotTheSame Timeline Photos",
+          1425277131
+        ],
+        [
+          "Roses are red, violets are blue...or blue-ish purple, sometimes white, or multicolored. Happy #ValentinesDay. #NotTheSame Timeline Photos",
+          1423924844
+        ],
+        [
+          "Happy New Year from the whole #Android Family! Be together. #NotTheSame Timeline Photos",
+          1420056005
+        ],
+        [
+          "Ghoul, goblin, or zombie, \u201cwitch\u201d will you be this Halloween? #NotTheSame #HappyHalloween Timeline Photos",
+          1414776039
+        ]
+      ],
+      "dates_start": 1426612795,
+      "dates_end": 1462849873,
+      "likes_avg": 449,
+      "likes_stdev": 407,
+      "comments_avg": 56,
+      "comments_stdev": 34,
+      "shares_avg": 57,
+      "shares_stdev": 111
+    },
+    {
+      "number": 12,
+      "important": [
+        "access",
+        "timelin"
+      ],
+      "common": [
+        "01000010011001010010000001001101011010010110111001100101",
+        "icecreamsandwichday reminiscing remember easter egg",
+        "kon",
+        "kon nichiwa",
+        "kon nichiwa fall",
+        "kon nichiwa fall guess",
+        "mind",
+        "mind nationaldessertday",
+        "nationaldessertday",
+        "nichiwa"
+      ],
+      "messages": [
+        [
+          "It\u2019s allliiiveee. #HappyHalloween. Timeline Photos",
+          1477926010
+        ],
+        [
+          "Kon'nichiwa, fall. Can you guess where we are? Timeline Photos",
+          1476025204
+        ],
+        [
+          "#IceCreamSandwichDay has us reminiscing. Do you remember this Easter Egg? Timeline Photos",
+          1470146406
+        ],
+        [
+          "\u2764\ufe0f\ud83d\udc9b\ud83d\udc9a\ud83d\udc99\ud83d\udc9c #prideforeveryone Timeline Photos",
+          1466946003
+        ],
+        [
+          "#FirstDayOfSummer Timeline Photos",
+          1466426633
+        ],
+        [
+          "01000010011001010010000001001101011010010110111001100101 #HappyValentinesDay Timeline Photos",
+          1455458404
+        ],
+        [
+          "It's #FunAtWorkDay! Timeline Photos",
+          1454012649
+        ],
+        [
+          "Don't mind if we do! #NationalDessertDay Timeline Photos",
+          1444829836
+        ],
+        [
+          "#andproud Timeline Photos",
+          1435329862
+        ],
+        [
+          "\u00a1Feliz #CincoDeMayo! Timeline Photos",
+          1430831409
+        ]
+      ],
+      "dates_start": 1442083435,
+      "dates_end": 1473503047,
+      "likes_avg": 779,
+      "likes_stdev": 486,
+      "comments_avg": 74,
+      "comments_stdev": 38,
+      "shares_avg": 58,
+      "shares_stdev": 58
+    },
+    {
+      "number": 13,
+      "important": [
+        "android devic",
+        "stuff",
+        "home",
+        "work",
+        "access",
+        "got",
+        "safe",
+        "devic",
+        "take",
+        "video"
+      ],
+      "common": [
+        "android",
+        "android device",
+        "android wear",
+        "device",
+        "google",
+        "mp4",
+        "new",
+        "one",
+        "video",
+        "wear"
+      ],
+      "messages": [
+        [
+          "Goggle chrome works I got all my stuff on videos technologies is a medias very known group who publishes soon trusted services.kindness takes another verbal knowledge's schools in desired arts.",
+          1487612643
+        ],
+        [
+          "\u0e0a\u0e2d\u0e1a\u0e21\u0e32\u0e01\u0e04\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e21\u0e32\u0e49\u0e22",
+          1487474370
+        ],
+        [
+          "#DidYouKnow you can choose to unlock without a passcode at home? Your #Android device knows when it\u2019s safe. 01.31_Android_UnlockPhone_FB.mp4",
+          1487185241
+        ],
+        [
+          "That\u2019s a wrap on not knowing what the weather is like. Just say, \u201c#OkGoogle, what\u2019s the weather?\u201d #Android 02.08_Android_WeatherScarf_FB.mp4",
+          1486753218
+        ],
+        [
+          "What\u2019s new about #AndroidWear 2.0? How about new ways to use apps, message friends, work out, and get help from your Google Assistant. Learn more: https://goo.gl/ZYQmqU Timeline Photos",
+          1486570411
+        ],
+        [
+          "Curious if the groundhog saw its shadow? Ask your #Android phone and the answer awaits. #GroundhogDay 02.02_Android_GroundhogDay_FB.mp4",
+          1486047617
+        ],
+        [
+          "Have you ever tried to show someone a photo from a while back and by the time you found it the moment has passed? Stay organized in 2017 with #GooglePhotos on your #Android. Timeline Photos",
+          1484260981
+        ],
+        [
+          "It\u2019s time to get to know your new #Android device. Don\u2019t worry, we\u2019ve got you covered. \ud83d\ude09 https://www.android.com/phones/tips/#featured Timeline Photos",
+          1482771601
+        ],
+        [
+          "Know someone on the Nice List? Give them something you know they\u2019ll love: a new #Android device: https://goo.gl/NxZZn3 Timeline Photos",
+          1481925328
+        ],
+        [
+          "Celebrate the holidays by gifting a new #Android device! Tell your friends & family it\u2019s easier than ever to transfer contacts, photos, and calendar events using Google Drive.  goo.gl/kqMbkf Timeline Photos",
+          1481655626
+        ],
+        [
+          "Living a life full of reschedules? Add the Google Calendar widget to your #Android home screen to ensure your ducks are always in a row. 12.08_Android_Calendar_FB.mp4",
+          1481311820
+        ],
+        [
+          "The Nest app has made its home on #AndroidTV. View your Nest Cam live camera feeds right from your \ud83d\udcfa screen. Timeline Photos",
+          1479823207
+        ],
+        [
+          "Personalize your #Android home screen to support your favorite team. https://goo.gl/7g7ijE 10.27_Android_SportCustom_FB.mp4",
+          1479495630
+        ],
+        [
+          "A wallpaper says a lot about you. Pick the one that\u2019s the perfect fit using the new Google Wallpapers app. https://goo.gl/HSTvKL 11.08_Android_Wallpaper_FB.mp4",
+          1478970025
+        ],
+        [
+          "Have you ever met a world traveling paper plane? Create your own with #Android and share how many stamps your plane gets in the comments below. https://goo.gl/XiRcYY 10.19_Android_PaperPlanes_FB01.mp4",
+          1478199627
         ],
         [
           "With an #Android pumpkin carving on your doorstep the kids will be yelling, \n\u201cTreat or Treat!\u201d 10.28_Android_PumpkinCarving.mp4",
@@ -1515,24 +1407,32 @@
           1477668539
         ],
         [
-          "Have your nougat and climb it too. Happy #DessertDay, #Android fans! Timeline Photos",
-          1476460805
+          "Fun for you and fun for the kids. Your favorite Disney channels have made it to #AndroidTV. Timeline Photos",
+          1476801043
         ],
         [
-          "We\u2019re excited to welcome the #Pixel and #PixelXL to the Android family. #madebygoogle Timeline Photos",
-          1475591042
+          "New on #Android: Now you can get to your appointments faster because Google Calendar is connected with Google Maps. https://goo.gl/SBFvmL 10.10_Android_MapsCalendarSync_FB.mp4",
+          1476111092
         ],
         [
-          "Are you ready? The #madebygoogle livestream starts at 9am PT. Make sure you tune in: youtube.com/google Timeline Photos",
-          1475588714
+          "Competition is in the air. Never miss cheering on your team with the calendar app on Android Wear. Timeline Photos",
+          1475327702
         ],
         [
           "8 epic years. Naturally, we're celebrating with some of our favorite treats. #Android Timeline Photos",
           1474722004
         ],
         [
-          "This week was one for the books. Timeline Photos",
-          1473428702
+          "Leaf it up to the robot to fall for the #FirstDayOfFall. Android_Parachute_Facebook.mp4",
+          1474550904
+        ],
+        [
+          "Simple. Reliable. Cross-platform. Never a miss a moment with #GoogleDuo \u2013 a one-to-one video calling app made for everyone. https://goo.gl/fuvIsi 08.15_Android_DuoLaunch_2.mp4",
+          1471359084
+        ],
+        [
+          "Misplaced phone AND it\u2019s on silent? Lock & locate your phone through the Android Device Manager: android.com/phones/tips #AndroidTip",
+          1470839252
         ],
         [
           "This town by the Adriatic Sea makes for one breathtaking view. Can you guess where we are? #Android Timeline Photos",
@@ -1543,48 +1443,64 @@
           1468251365
         ],
         [
+          "Your #Android device helps you show off your personality. What sets your home screen apart? Timeline Photos",
+          1467988182
+        ],
+        [
+          "We\u2019ve partnered with Udacity to create the Android Basics Nanodegree. Even with little to no experience, you can learn to develop and deliver your ideas to over 1 billion #Android users worldwide! http://goo.gl/LvrOH4 Timeline Photos",
+          1466608862
+        ],
+        [
           "We call this one: Robot\u2019s Pose! Choose from several different yoga apps available for #Android to get real poses. #YogaDay https://goo.gl/kJHguv Timeline Photos",
           1466513223
+        ],
+        [
+          "Traveling this summer? Your #Android device will be your favorite travel buddy. Get flight status, local attractions & more. https://goo.gl/Mw0kGi Timeline Photos",
+          1466096730
+        ],
+        [
+          "We challenged SORTEDfood to whip up something for your next party \ud83c\udf89 with a little help from #AndroidPay. Help them decide what, where and when the celebration is by leaving a comment on their video: https://goo.gl/8ka9T1 \n#CelebrateWithSORTED Invite Us To Your Party #CelebrateWithSORTED #Ad Android Pay challenged US to make YOUR celebration even better with our help and, ahem, talent... Leave a comment to invite us to your special occasion! Click ...",
+          1463724002
         ],
         [
           "The latest Android One phone, the @GeneralMobile 5 Plus now on sale in Turkey. Runs on the latest version of Android (Marshmallow) and stays fresh with guaranteed upgrades. http://goo.gl/MnUufv Timeline Photos",
           1461294020
         ],
         [
+          "Heading home? Use Google Now on #Android to get the best route there. https://goo.gl/RGY7PS 04.20_Android_GoogleNow_FB.mp4",
+          1461166936
+        ],
+        [
           "#Android Easter Eggs: Have you found them all? Timeline Photos",
           1459054862
-        ],
-        [
-          "We\u2019re big fans of #NationalPuppyDay over here! Share a pic of your pup. Timeline Photos",
-          1458753603
-        ],
-        [
-          "Some days, it\u2019s really easy being green. Happy #StPatricksDay! Timeline Photos",
-          1458220411
-        ],
-        [
-          "Have you checked out our Android Experiments at #MWC16? See all our Android Experiments here: androidexperiments.com Timeline Photos",
-          1456387202
-        ],
-        [
-          "Day 3 at #MWC16. Swing by the Androidify station in the Android Garden or Androidify yourself here: androidify.com Timeline Photos",
-          1456300803
-        ],
-        [
-          "Hello from Barcelona! If you\u2019re at #MWC16 be sure to swing by and say hi! #AndroidMWC Timeline Photos",
-          1456124463
         ],
         [
           "A piano has 88 keys. Each one is different. But what if they were all the same? Be together. #NotTheSame\n\nhttps://youtu.be/xLhJIFC8xkY Android: Monotune A piano has 88 keys. Each one is different. But what if they were all the same? To find out, we took apart a piano and reengineered it so that it only plays ...",
           1455583691
         ],
         [
-          "In the spirit of Safer Internet Day, check out these four tips for staying safe on Android http://goo.gl/cIEHf2 #SID2016",
-          1455033841
+          "Now even easier to go hands-free with #AndroidWear: new gestures, speaker support, and more. http://goo.gl/HwvqKN Timeline Photos",
+          1454604445
         ],
         [
-          "Take a walk down memory lane and explore all of #Android's tasty treats. android.com/history Timeline Photos",
-          1444159536
+          "Turn your phone into a 360\u00b0 movie theatre of \ud83c\udf85-chasing fun. Watch #SpecialDelivery https://goo.gl/Kh6bv0 Google Spotlight Stories Presents: Special Delivery On mobile, must view in YouTube App. On desktop, in Chrome or FireFox. A short film made by Academy Award-winning studio, Aardman Animations (creators of Wal...",
+          1450959302
+        ],
+        [
+          "Me segue ai galera.. mesmo que nao seja assim tao especial vizualize meu video sou simples mais to tendo muito trabalho e pretendo melhorar.. :(aceitoal sujestoes.. assistam esse video completo e me diga se eatou indo bem! Obrigado.\n\n\nFollow me guys there .. even if not so be so special vizualize my video 'm more simple to have a lot of work and I intend to improve .. :( aceitoa sujestoes .. watch this full video and tell me if I'm doing well ! Thank you! Gameplay gta sa android (galaxy win) cleo mods sem root 2 video galera pf deixar aquele like e com o tempo vou melhorando... o recordable ta deixando o gta lento mais nao fica lento no win nao viu? Vou procurar me...",
+          1449537585
+        ],
+        [
+          "Easter eggs have been hiding in every #Android release since 2010. #NatandLo hunt them down: g.co/go/NLeggs A Brief History Of Android Easter Eggs - #NatAndLo Ep 8 SUBSCRIBE: https://goo.gl/CEsJyN | TWEET: http://ctt.ec/dsfTk | #NatandLo Earlier this summer, we made a video about Android\u2019s lawn sculptures and why it nam...",
+          1444062923
+        ],
+        [
+          "Wake up on the right side of the bed with #Google Clock\u2019s gradually increasing alarm volume and other updates on your #Android device. https://goo.gl/Q3gcs8 Timeline Photos",
+          1442937088
+        ],
+        [
+          "Is OnePlus 2 specs too great to bring existing smartphone user to its fan book? We have got a another thought about it... \n\nhttp://www.bytezguru.com/is-oneplus-2-a-great-bet-to-go-with-we-have-a-different-opinion-here/ Is OnePlus 2 a great bet to go with? We have a different opinion here\u2026 :) | ByteZGuru |... Is OnePlus 2 a great bet to go with? We have a different opinion here\u2026 :) by bytezguru \u00b7 September 12, 2015 After getting great success with OnePlus One which was company\u2019s first and the only smartphone to make its market for quite some time, company moved to put up its second winner card\u2026 Really a\u2026",
+          1442069335
         ],
         [
           "We think this video goes best with some hot chocolate: welcome #AndroidMarshmallow! https://youtu.be/Pct9Hl7l4E4 Android Marshmallow Statue Revealed On August 17th, we unwrapped our latest chewy gooey Android treat, Android 6.0 Marshmallow. Learn more at http://android.com. Discover more about Android by ...",
@@ -1593,6 +1509,10 @@
         [
           "How many marshmallows can an #Android engineer hold in their mouth and still say \"chubby bunny\"? g.co/go/NLbunny #natandlo Android Marshmallow Chubby Bunny - #NatAndLo In honor of Android Marshmallow (which we made an episode about here: https://goo.gl/qBf9dk) we decided to stuff our mouths with marshmallows and attempt com...",
           1439840149
+        ],
+        [
+          "What\u2019s #Android M gonna be? We all have our guesses\u2026 g.co/go/NLwhatsM #natandlo \u201cWhat\u2019s M Gonna Be?\u201d - #NatAndLo Here\u2019s a little musical hint about our next episode. Subscribe (https://goo.gl/CEsJyN) so you don\u2019t miss it! And click here to tweet this video: http://ctt.e...",
+          1439555134
         ],
         [
           "This #summer heat calls for a cool treat. Good thing it\u2019s #IceCreamSandwich Day #Android Timeline Photos",
@@ -1611,16 +1531,20 @@
           1435073778
         ],
         [
-          "#ChocolateEclairDay is one tasty day and a #throwback to #Android 2.0 Eclair ;)  #nomnomnom Timeline Photos",
-          1434989482
+          "Sundar ruined Android and Google bullied it's developers until they switched to iOS.  Here's a guide to help the mass migration to iOS.   Apple made an Android app that helps people switch to iOS Apple's getting more aggressive than ever before in trying to move Android users over to iOS. The company has previously offered a step-by-step tutorial to ease the transition for people coming...",
+          1433798200
         ],
         [
-          "Three important words to translate today: Happy Father's Day https://goo.gl/7zKl0 #googletranslate Timeline Photos",
-          1434903416
+          "Why is Sundar Pichai still in charge of Android?  He's an idiot.  Google Android 5.0 Lollipop User Reviews - CNET Read and write user reviews for the Google Android 5.0 Lollipop on CNET",
+          1433794304
         ],
         [
-          "Perfect your swing this weekend with Golf Swing Analyzer for #AndroidWear https://goo.gl/Jg4SIG Fore! #WeekendWear\ufeff Timeline Photos",
-          1434718997
+          "That's a wrap -- thanks for a great #io15! Photos from Android's post",
+          1432937023
+        ],
+        [
+          "The Android choir is on tour & performing at #io15. Thank you to #LGUS, #docomo and #Sony for their support. Timeline Photos",
+          1432911615
         ],
         [
           "Google\u2019s annual developer conference kicks off Thursday. Check out this year\u2019s schedule for the latest on all things Android: goo.gl/LCTMD9 #io15",
@@ -1631,6 +1555,267 @@
           1428081077
         ],
         [
+          "This one was made for us. #SomethingOnAStickDay #AndroidLollipop Timeline Photos",
+          1427550578
+        ],
+        [
+          "Tut, pop & move: go behind the scenes of our #AndroidWear video http://goo.gl/GRTqXu #FridayFun Timeline Photos",
+          1427468670
+        ],
+        [
+          "Whether you tut, pop, rock or robot, you can find your style and wear what you want with #AndroidWear Android: Wear what you want (party on) Round or square: wear what you want with Android Wear. Be together. Not the same. Learn more at http://android.com/wear. Discover more about Android by follo...",
+          1426806167
+        ],
+        [
+          "Round or square: wear what you want with #AndroidWear. Be together. #NotTheSame Android: Wear what you want Round or square: wear what you want with Android Wear. Be together. Not the same. Learn more at android.com/wear Discover more about Android by following us ...",
+          1425913484
+        ],
+        [
+          "Up top. Down low. To the side. Grab a friend and give them a high five. #NotTheSame Android: Handshake No matter how you shake it you can\u2019t do it alone. Be together. Not the same. Learn more at http://android.com. Discover more about Android by following us on...",
+          1424043816
+        ],
+        [
+          "Who says rivals can't be friends? Our Androidify fans have arrived in NYC together to celebrate all the teams during NBA All-Star 2015! They'll be across the city throughout the weekend so swing by and say hi: \nFri, 2/13 - Atlantic Terminal\nSat, 2/14 - Atlantic Terminal\nSun, 2/15 - Herald Square\n\nCan't make it out? You can still show your team support by creating a custom character using NBA jerseys at http://androidify.com. #androidifyNBA #notthesame Timeline Photos",
+          1423845967
+        ],
+        [
+          "Android \u30ad\u30e3\u30e9\u30af\u30bf\u30fc 300 \u4f53\u306b\u3088\u308b\u300c\u30a2\u30f3\u30c9\u30ed\u30a4\u30c9\u5408\u5531\u56e3\u300d\u521d\u516c\u6f14\uff01\uff01\n\n2 \u6708 12 \u65e5\uff08\u6728\uff09\u304b\u3089 15 \u65e5\uff08\u65e5\uff09\u306e 4 \u65e5\u9593\u3001\u8868\u53c2\u9053\u30d2\u30eb\u30ba\u306e\u5439\u304d\u629c\u3051\u5927\u968e\u6bb5\u306b\u3066\u3001\u500b\u6027\u3042\u3075\u308c\u308b 300 \u4f53\u306e Android \u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u305f\u3061\u304c 300 \u53f0\u306e Android \u642d\u8f09\u30b9\u30de\u30fc\u30c8\u30d5\u30a9\u30f3\u3084\u30bf\u30d6\u30ec\u30c3\u30c8\u306b\u5165\u308a\u8fbc\u307f\u3001\u5927\u5408\u5531\u3092\u62ab\u9732\u3057\u307e\u3059\u3002\n\n\u30c7\u30b6\u30a4\u30f3\u304c\u7570\u306a\u308b 300 \u4f53\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u305f\u3061\u304c\u3001\u69d8\u3005\u306a\u30e1\u30fc\u30ab\u30fc\u306e\u30b9\u30de\u30fc\u30c8\u30d5\u30a9\u30f3\u3084\u30bf\u30d6\u30ec\u30c3\u30c8\u306e\u30b9\u30d4\u30fc\u30ab\u30fc\u304b\u3089\u51fa\u3055\u308c\u308b\u97f3\u3067\u30cf\u30fc\u30e2\u30cb\u30fc\u3092\u751f\u307f\u51fa\u3057\u307e\u3059\u3002\u5408\u5531\u66f2\u306b\u3042\u308f\u305b\u3066\u52d5\u304f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u305f\u3061\u306b\u6ce8\u76ee\u304f\u3060\u3055\u3044\u3002\n\n\u65e5 \u6642\uff1a 2 \u6708 12 \u65e5\uff08\u6728\uff09\u301c 15 \u65e5\uff08\u65e5\uff0911 \u6642 \u301c 20 \u6642 \n\u4f1a \u5834\uff1a\u8868\u53c2\u9053\u30d2\u30eb\u30ba ( http://goo.gl/Bb3RSz ) \u5439\u304d\u629c\u3051\u5927\u968e\u6bb5 Google Japan Blog: \u300c\u30a2\u30f3\u30c9\u30ed\u30a4\u30c9\u5408\u5531\u56e3\u300d\u521d\u516c\u6f14",
+          1423784491
+        ],
+        [
+          "We\u2019re blown away by the excitement for our cuddly pals in \"Friends Furever\"! Some of the animals seen in the video are lovingly cared for by these great non-profit organizations -- learn more about them and support their causes here:\n\nNoah\u2019s Ark Sanctuary - http://www.noahs-ark.org/\nWild Heart Ranch - http://www.wildheartranch.org/\nThe Hoedspruit Endangered Species Centre - http://hesc.co.za/",
+          1423620415
+        ],
+        [
+          "If these animals could speak they\u2019d probably say \u201cBe together. #NotTheSame.\u201d #AndroidBFFs Android: Friends Furever You don\u2019t have to be a cute animal to show the world how to \u201cBe Together. Not the Same.\u201d But it definitely helps. Find out more about Android at: http://andr...",
+          1423181069
+        ],
+        [
+          "Start 2015 with a clean slate and a clean home screen. This #AndroidTrick will help you stay clutter-free while trying out new apps on your device. Open the Google Play Store app > Settings > and uncheck the \"Add Icon to Home Screen\" box. Timeline Photos",
+          1421175696
+        ],
+        [
+          "Santa Claus is coming to town! Track his whereabouts and play fun games with the elves on #SantaTracker for #Android. http://goo.gl/cedkpd Timeline Photos",
+          1419267609
+        ],
+        [
+          "Having guests for the holidays? Perfect! We made Guest Mode on #Android just for them. Now they can use your device to surf the web without messing with your stuff. Timeline Photos",
+          1418665942
+        ],
+        [
+          "Say hello however you please. #AndroidLollipop now supports over 68 languages. Timeline Photos",
+          1416601807
+        ],
+        [
+          "Multitasking made easy with #AndroidLollipop. Tap the square Overview button to jump to what you need, when you need it, in a snap. Timeline Photos",
+          1416501008
+        ],
+        [
+          "Come join the party. #Android #NotTheSame http://youtu.be/TRmgMe2STL0 Android: And you A few years ago, we thought that phones and tablets and watches (and stuff that hasn\u2019t even been invented yet) would be way more interesting if everyone was ...",
+          1413465975
+        ],
+        [
+          "We've taken the wrapper off our new favorite treat: #AndroidLollipop. Have a lick... er, umm look: http://youtu.be/vTxTLyLUjP4 Android Lollipop Statue Unwrapped On October 15th, we took the wrapping off of our latest treat, Android 5.0, Lollipop. Discover more about Android at http://android.com and follow us on: Goo...",
+          1413400129
+        ],
+        [
+          "\"The advent of smartphones and the pace at which we're driving the innovation is really changing how people can access the internet.\" - Sundar Pichai, SVP, Android, Chrome & Apps\n\nAndroid One launch blogpost: http://goo.gl/rb89uv\n\n#AndroidOne  #Android Timeline Photos",
+          1410766554
+        ],
+        [
+          "Your #Android device knows more than 50 languages and dialects. Which language do you give voice commands in? Timeline Photos",
+          1409758422
+        ],
+        [
+          "We weren't challenged to take the #ALSIceBucketChallenge, but we're happy to support a worthy cause. Your turn! To learn more and donate visit http://www.alsa.org/donate/.",
+          1408734923
+        ],
+        [
+          "Upgrade your home screen with the Google Now Launcher - just released today for all #Android 4.1+ devices (https://g.co/nowlauncher).\n\nThe Google Now Launcher gives you a home screen that's clean, simple and customizable. Get the right information at just the right time with one swipe to reach Google Now. Tapping the search box or saying \"Ok Google\" lets you ask a question or search the web. And of course, you can easily add your favorite apps, widgets and wallpaper.\n\nhttps://www.youtube.com/watch?v=ma-DGvCajWM Google Now Launcher With the Google Now Launcher, you get the right information, at just the right time. Get it on Google Play. http://goo.gl/nmWJem",
+          1406925450
+        ],
+        [
+          "http://musicport365.com/index.php/Thread/84-Android-auf-Pc-Installieren/?postID=139#post139 Android auf Pc Installieren - Musicport365.com Weiss einer wie man Android auf einem normalen Windows Pc zum laufen bekommt? Von wo bekommt man das pa\u00dfende Android und was ist zu beachten? musicport365.com/index.php/Attachment/82/",
+          1406366560
+        ],
+        [
+          "Did you miss the news about #AndroidWear from I/O? Don\u2019t fret\u2013we\u2019ve got all the details in under two minutes, right here. Android Wear at Google I/O 2014 Catch everything you need to know about Android Wear from I/O 2014's keynote address, in just two minutes. Learn more about Android Wear at http://android.co...",
+          1404848749
+        ],
+        [
+          "Keep moving with #AndroidWear and get all the information you need for your day in an instant. Check out some of the things Android Wear can do for you. Timeline Photos",
+          1403883483
+        ],
+        [
+          "GOOOAAALLL! Tell us how you'll be using your #Android device to stay on top of the big games this #WorldCup season. Timeline Photos",
+          1402574410
+        ]
+      ],
+      "dates_start": 1421571106,
+      "dates_end": 1475209354,
+      "likes_avg": 385,
+      "likes_stdev": 307,
+      "comments_avg": 68,
+      "comments_stdev": 72,
+      "shares_avg": 80,
+      "shares_stdev": 387
+    },
+    {
+      "number": 14,
+      "important": [
+        "check",
+        "android",
+        "androidtv",
+        "access",
+        "timelin",
+        "come",
+        "sure",
+        "sweet",
+        "devic",
+        "androideverywher"
+      ],
+      "common": [
+        "android",
+        "androideverywhere",
+        "announcements",
+        "ces2017",
+        "coming",
+        "devices",
+        "nexus",
+        "say",
+        "sweet",
+        "today"
+      ],
+      "messages": [
+        [
+          "Cupid\u2019s arrow is aimed at #Android\u2019s Instagram. Be sure to check out our sweet #ValentinesDay story. https://goo.gl/XE6NdG Timeline Photos",
+          1487090457
+        ],
+        [
+          "ICYMI... #CES2017 #AndroidEverywhere Timeline Photos",
+          1483990801
+        ],
+        [
+          "New #AndroidTV devices are coming from NVIDIA SHIELD and AirTV. #AndroidEverywhere #CES2017 Timeline Photos",
+          1483736220
+        ],
+        [
+          "At #CES2017, Fiat Chrysler is showcasing the next-generation of in-vehicle infotainment system based on #Android. #AndroidEverywhere Timeline Photos",
+          1483727272
+        ],
+        [
+          "News from #CES2017: Google Assistant is coming soon to your #AndroidTV. \ud83d\udcfa Check out more:  https://goo.gl/Y1VfVy #AndroidEverywhere 01.04_AndroidTV_GoogleAssistant_FB.mp4",
+          1483582908
+        ],
+        [
+          "We're headed to #CES2017! Get ready for some sweet #AndroidEverywhere news. Timeline Photos",
+          1483560001
+        ],
+        [
+          "Starting today: Simply say 'Ok Google' to instantly access thousands of available voice commands with #AndroidAuto Learn More: https://goo.gl/8Rk66G Android Auto",
+          1481829265
+        ],
+        [
+          "Starting today: More ways to communicate, more fun! Express yourself in new ways with the #AndroidNougat update, featuring new emoji and GIFs that you can send directly from your keyboard.  https://goo.gl/QWuCqr 12.05_Emojis_skintones_FB.mp4",
+          1480964388
+        ],
+        [
+          "It\u2019s #Thanksgiving, and we\u2019re thankful for all our fans. Enjoy some turkey today. Timeline Photos",
+          1480010404
+        ],
+        [
+          "Starting today, #AndroidAuto works right on your phone screen, so you can use it in any car. Learn more: http://goo.gl/7ph9YJ \ufeff Timeline Photos",
+          1478533981
+        ],
+        [
+          "We\u2019re excited to welcome the #Pixel and #PixelXL to the Android family. #madebygoogle Timeline Photos",
+          1475591042
+        ],
+        [
+          "Are you ready? The #madebygoogle livestream starts at 9am PT. Make sure you tune in: youtube.com/google Timeline Photos",
+          1475588714
+        ],
+        [
+          "Did someone say #TechieDay? Timeline Photos",
+          1475499603
+        ],
+        [
+          "We\u2019re getting ready for a sweet day tomorrow. \ud83c\udf82  #Android Timeline Photos",
+          1474642808
+        ],
+        [
+          "This week was one for the books. Timeline Photos",
+          1473428702
+        ],
+        [
+          "It's official. Android\u2019s most powerful, customizable, & secure OS yet starts rolling out today on select #Nexus devices (5X, 6, 6P, 9 and Pixel C). Learn more about the sweet, new features of #AndroidNougat. http://goo.gl/FSNE8a Timeline Photos",
+          1471897791
+        ],
+        [
+          "Ahhh the sweet joys of #NationalRelaxationDay. Timeline Photos",
+          1471287452
+        ],
+        [
+          "1 tap w/ #AndroidPay on your Verizon phone = 1GB of data. 3 taps =  2GB. Get started today: goo.gl/rIkwoD 05.04_Android_TapData.mp4",
+          1465491064
+        ],
+        [
+          "Catch up on today\u2019s #io16 #Android announcements here \u2192 https://goo.gl/T8COrW Timeline Photos",
+          1463608951
+        ],
+        [
+          "#MayThe4thBeWithYou, today. Timeline Photos",
+          1462364115
+        ],
+        [
+          "Hello from Barcelona! If you\u2019re at #MWC16 be sure to swing by and say hi! #AndroidMWC Timeline Photos",
+          1456124463
+        ],
+        [
+          "Coming in 2016, #AndroidTV will be available from Ar\u00e7elik, Bang & Olufsen, Vestel & more \ud83d\udcfa\ud83d\ude4c #CES http://goo.gl/R70I7E Timeline Photos",
+          1452092637
+        ],
+        [
+          "Starts today: get \u2728free overnight shipping\u2728 for US orders from the #GoogleStore through December 22 https://goo.gl/fDzT4S Timeline Photos",
+          1450290723
+        ],
+        [
+          "Something super sweet is coming your way on 12/15 from #AndroidPay & @Sprinkles. Timeline Photos",
+          1449759610
+        ],
+        [
+          "Last chance to stock up on #Nexus & #AndroidWear devices with these great #CyberMonday deals: https://goo.gl/syfFJT Timeline Photos",
+          1448875819
+        ],
+        [
+          "We\u2019ve got you covered with a host of #Nexus and #AndroidWear deals this weekend: https://goo.gl/syfFJT Timeline Photos",
+          1448708404
+        ],
+        [
+          "#Android deals are coming. #BlackFriday Timeline Photos",
+          1448471673
+        ],
+        [
+          "Get ready for the sweet taste of #AndroidMarshmallow. The update starts rolling out today. http://goo.gl/MnzOV1 Timeline Photos",
+          1444058314
+        ],
+        [
+          "#AndroidPay is rolling out starting today --> http://goo.gl/ZwgvSg Timeline Photos",
+          1441892813
+        ],
+        [
+          "Did someone say #LollipopDay? Don\u2019t mind if we do! \ud83c\udf6d Timeline Photos",
+          1437401133
+        ],
+        [
+          "For a recap of all of today's Android #keynote announcements go to: http://goo.gl/lr56cT #io15 Timeline Photos",
+          1432831984
+        ],
+        [
+          "Bawk bawk, petok-petok, caca-rac\u00e1 - we might say it differently, but the dance is universal #DanceLikeAChickenDay Timeline Photos",
+          1431604809
+        ],
+        [
           "Today's the last day of #MWC15 and we've seen lots of exciting product announcements from our partners. Congrats to HTC, Huawei, Samsung, Sony and others on all your exciting news! If you're in Barcelona, be sure to stop by #AndroidMWC and say hi! Photos from Android's post",
           1425535470
         ],
@@ -1639,299 +1824,123 @@
           1424150635
         ],
         [
-          "How do you sing in perfect harmony? With 300 Android devices. Check out Android Chorus, jamming live all weekend long in Tokyo:  #fridayfun\n\nMore here: http://goo.gl/66Y0kb Android\uff1a\u30a2\u30f3\u30c9\u30ed\u30a4\u30c9\u5408\u5531\u56e3 Android \u304b\u3099\u642d\u8f09\u3055\u308c\u305f\u30b9\u30de\u30db\u3001\u30bf\u30d5\u3099\u30ec\u30c3\u30c8\u3001 \u8a08 300 \u53f0\u3066\u3099\u69cb\u6210\u3055\u308c\u305f\u4e16\u754c\u3066\u3099\u306f\u3057\u3099\u3081\u3066\u306e\u5408\u5531\u56e3\u3066\u3099\u3059\u3002 \u5404\u7aef\u672b\u306e\u4e2d\u306e Android \u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u9054\u304b\u3099\u3001 \u305d\u308c\u305d\u3099\u308c\u9055\u3063\u305f\u30cf\u309a\u30fc\u30c8\u3092\u5531\u3046\u3053\u3068\u3066\u3099\u3001 \u3053\u308c\u307e\u3066\u3099\u8ab0\u3082\u8074\u3044\u305f\u3053\u3068\u306e\u306a\u3044\u30cf\u30fc\u30e2\u30cb\u30fc\u3092\u751f\u307f\u51fa\u3057\u307e\u3059\u3002 \u304a\u5c4a\u3051\u3059\u308b\u306e\u306f\u3001\u30d8\u3099\u30fc\u30c8\u30fc\u30d8\u3099\u30f3 \u4ea4\u97ff\u66f2\u7b2c ...",
-          1423847898
+          "#AndroidLollipop rollout has started and will soon be available on most #Nexus devices in the coming weeks. How\u2019s that for a sweet Wednesday pick-me up? Timeline Photos",
+          1415818746
         ],
         [
-          "Android \u30ad\u30e3\u30e9\u30af\u30bf\u30fc 300 \u4f53\u306b\u3088\u308b\u300c\u30a2\u30f3\u30c9\u30ed\u30a4\u30c9\u5408\u5531\u56e3\u300d\u521d\u516c\u6f14\uff01\uff01\n\n2 \u6708 12 \u65e5\uff08\u6728\uff09\u304b\u3089 15 \u65e5\uff08\u65e5\uff09\u306e 4 \u65e5\u9593\u3001\u8868\u53c2\u9053\u30d2\u30eb\u30ba\u306e\u5439\u304d\u629c\u3051\u5927\u968e\u6bb5\u306b\u3066\u3001\u500b\u6027\u3042\u3075\u308c\u308b 300 \u4f53\u306e Android \u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u305f\u3061\u304c 300 \u53f0\u306e Android \u642d\u8f09\u30b9\u30de\u30fc\u30c8\u30d5\u30a9\u30f3\u3084\u30bf\u30d6\u30ec\u30c3\u30c8\u306b\u5165\u308a\u8fbc\u307f\u3001\u5927\u5408\u5531\u3092\u62ab\u9732\u3057\u307e\u3059\u3002\n\n\u30c7\u30b6\u30a4\u30f3\u304c\u7570\u306a\u308b 300 \u4f53\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u305f\u3061\u304c\u3001\u69d8\u3005\u306a\u30e1\u30fc\u30ab\u30fc\u306e\u30b9\u30de\u30fc\u30c8\u30d5\u30a9\u30f3\u3084\u30bf\u30d6\u30ec\u30c3\u30c8\u306e\u30b9\u30d4\u30fc\u30ab\u30fc\u304b\u3089\u51fa\u3055\u308c\u308b\u97f3\u3067\u30cf\u30fc\u30e2\u30cb\u30fc\u3092\u751f\u307f\u51fa\u3057\u307e\u3059\u3002\u5408\u5531\u66f2\u306b\u3042\u308f\u305b\u3066\u52d5\u304f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u305f\u3061\u306b\u6ce8\u76ee\u304f\u3060\u3055\u3044\u3002\n\n\u65e5 \u6642\uff1a 2 \u6708 12 \u65e5\uff08\u6728\uff09\u301c 15 \u65e5\uff08\u65e5\uff0911 \u6642 \u301c 20 \u6642 \n\u4f1a \u5834\uff1a\u8868\u53c2\u9053\u30d2\u30eb\u30ba ( http://goo.gl/Bb3RSz ) \u5439\u304d\u629c\u3051\u5927\u968e\u6bb5 Google Japan Blog: \u300c\u30a2\u30f3\u30c9\u30ed\u30a4\u30c9\u5408\u5531\u56e3\u300d\u521d\u516c\u6f14",
-          1423784491
+          "We're excited to announce #AndroidLollipop and the latest #Nexus devices: Nexus 9, Nexus 6 and Nexus Player. http://goo.gl/uCL8pK Android: Be together. Not the same.",
+          1413382025
         ],
         [
-          "Having guests for the holidays? Perfect! We made Guest Mode on #Android just for them. Now they can use your device to surf the web without messing with your stuff. Timeline Photos",
-          1418665942
+          "There were quite a few #AndroidWear announcements this week. Here's a recap of all the news in case you missed it: http://officialandroid.blogspot.com/ Timeline Photos",
+          1409932972
         ],
         [
-          "Workout, check. Office, check. Home, check. Wherever your day goes, #Android goes with you. #NotTheSame Timeline Photos",
-          1414170009
-        ],
-        [
-          "We've taken the wrapper off our new favorite treat: #AndroidLollipop. Have a lick... er, umm look: http://youtu.be/vTxTLyLUjP4 Android Lollipop Statue Unwrapped On October 15th, we took the wrapping off of our latest treat, Android 5.0, Lollipop. Discover more about Android at http://android.com and follow us on: Goo...",
-          1413400129
-        ],
-        [
-          "\u00a1Viva #M\u00e9xico! Today we celebrate #GritodeIndependencia in remembrance of Mexico's independence day. Timeline Photos",
-          1410868805
-        ],
-        [
-          "Happy Labor Day to those in the U.S. and Canada! We're big fans of any holiday that makes Sunday feel like Saturday. Enjoy connecting with friends and family. Timeline Photos",
-          1409583605
-        ],
-        [
-          "After you've hit snooze for the last time, what's the first thing you use your #Android phone for in the morning? Timeline Photos",
-          1408719533
-        ],
-        [
-          "http://musicport365.com/index.php/Thread/84-Android-auf-Pc-Installieren/?postID=139#post139 Android auf Pc Installieren - Musicport365.com Weiss einer wie man Android auf einem normalen Windows Pc zum laufen bekommt? Von wo bekommt man das pa\u00dfende Android und was ist zu beachten? musicport365.com/index.php/Attachment/82/",
-          1406366560
+          "\u00a1Hola! Here's a shout out to our #Android users from #Espa\u00f1a. Have a great time at La Tomatina Festival today! Timeline Photos",
+          1409124611
         ],
         [
           "The tournament may be coming to a close this weekend, but the excitement is higher than ever. Who are you rooting for in the finals? Timeline Photos",
           1405105204
-        ],
-        [
-          "We are completely operational, and all our circuits are functioning perfectly. Welcome to our re-launched Facebook community, Android fans! Timeline Photos",
-          1402435458
         ]
       ],
-      "dates_start": 1421061159,
-      "dates_end": 1471260694,
-      "likes_avg": 498,
-      "likes_stdev": 468,
-      "comments_avg": 59,
-      "comments_stdev": 43,
-      "shares_avg": 45,
-      "shares_stdev": 63
+      "dates_start": 1431127611,
+      "dates_end": 1480748695,
+      "likes_avg": 1167,
+      "likes_stdev": 2177,
+      "comments_avg": 93,
+      "comments_stdev": 88,
+      "shares_avg": 102,
+      "shares_stdev": 171
     },
     {
-      "number": 16,
+      "number": 15,
       "important": [
-        "android devic",
-        "back",
-        "devic",
-        "home",
-        "ever",
+        "ask",
+        "nameandroidn",
+        "watch",
         "access",
-        "safe",
-        "moment",
-        "android",
-        "tri"
+        "move",
+        "help",
+        "parti",
+        "introduc",
+        "say",
+        "find"
       ],
       "common": [
         "android",
-        "app",
-        "gl",
-        "goo",
-        "goo gl",
-        "google",
-        "https",
-        "photos",
-        "timeline",
-        "timeline photos"
+        "ideas",
+        "name",
+        "nameandroidn",
+        "names",
+        "names android",
+        "naming",
+        "submit ideas",
+        "submit ideas names",
+        "sweet"
       ],
       "messages": [
         [
-          "#DidYouKnow you can choose to unlock without a passcode at home? Your #Android device knows when it\u2019s safe. 01.31_Android_UnlockPhone_FB.mp4",
-          1487185241
+          "Sometimes I can't be found.\nYou might think it\u2019s because I moved or you misspelled my name.\nBut maybe you\u2019ll find a disco party.\n#Android404 10.26_Android_404_FB.mp4",
+          1477496874
         ],
         [
-          "Have you ever tried to show someone a photo from a while back and by the time you found it the moment has passed? Stay organized in 2017 with #GooglePhotos on your #Android. Timeline Photos",
-          1484260981
+          "We asked for your help to #NameAndroidN. Say hello to #AndroidNougat & watch the unveiling. #AndroidNReveal https://youtu.be/8xn9iq3lG_w",
+          1467318026
         ],
         [
-          "It\u2019s time to get to know your new #Android device. Don\u2019t worry, we\u2019ve got you covered. \ud83d\ude09 https://www.android.com/phones/tips/#featured Timeline Photos",
-          1482771601
+          "Introducing #AndroidNougat. Thank you, world, for all your sweet name ideas! #AndroidNReveal Timeline Photos",
+          1467295383
         ],
         [
-          "Know someone on the Nice List? Give them something you know they\u2019ll love: a new #Android device: https://goo.gl/NxZZn3 Timeline Photos",
-          1481925328
+          "We're revealing something sweet today! Follow along here. #NameAndroidN #AndroidNReveal",
+          1467292255
         ],
         [
-          "Santa's Back! Visit Santa's Village on the Santa Tracker #Android app and unlock exclusive games only available on the app. https://goo.gl/vUgk6A Timeline Photos",
-          1481825192
+          "Thanks for your submissions. We\u2019ll reveal the new name in a few weeks! #NameAndroidN",
+          1465393178
         ],
         [
-          "Celebrate the holidays by gifting a new #Android device! Tell your friends & family it\u2019s easier than ever to transfer contacts, photos, and calendar events using Google Drive.  goo.gl/kqMbkf Timeline Photos",
-          1481655626
+          "\u2714\u2714\u2714 = \ud83d\udd25\ud83d\udd25\ud83d\udd25 #NameAndroidN \nandroid.com/N Timeline Photos",
+          1465231650
         ],
         [
-          "Living a life full of reschedules? Add the Google Calendar widget to your #Android home screen to ensure your ducks are always in a row. 12.08_Android_Calendar_FB.mp4",
-          1481311820
+          "\u201cBrownie\u201d didn\u2019t make it very far. #NameAndroidN android.com/N Timeline Photos",
+          1464874711
         ],
         [
-          "Save big with #AndroidPay and Delivery.com. Enjoy $5 off orders of $15 each day through 12/15. https://goo.gl/xy53Zi Timeline Photos",
-          1480365003
+          "Naming Tip #3: Vowels are so hot right now. #NameAndroidN\n\nSubmit your ideas for names at android.com/N",
+          1464707565
         ],
         [
-          "The Nest app has made its home on #AndroidTV. View your Nest Cam live camera feeds right from your \ud83d\udcfa screen. Timeline Photos",
-          1479823207
+          "When submitting names, keep the Sweet Spot in mind. #NameAndroidN android.com/n Timeline Photos",
+          1464280530
         ],
         [
-          "Personalize your #Android home screen to support your favorite team. https://goo.gl/7g7ijE 10.27_Android_SportCustom_FB.mp4",
-          1479495630
+          "Naming Tip #2: Try spelling it sdrawkcab. #NameAndroidN \n\nSubmit your ideas for names at android.com/n",
+          1464024821
         ],
         [
-          "More savings, more fun. Use #AndroidPay in your fav apps & save over $100! Learn more: https://goo.gl/JZrbY9 10.26_AndroidPay_PromoCollection_FB04.mp4",
-          1477597585
+          "Naming Tip #1: Say it with an accent. Submit your ideas for names at android.com/n. #NameAndroidN",
+          1463776291
         ],
         [
-          "Fun for you and fun for the kids. Your favorite Disney channels have made it to #AndroidTV. Timeline Photos",
-          1476801043
+          "See how the pros would #NameAndroidN. Then try for yourself at http://android.com/n",
+          1463587615
         ],
         [
-          "New on #Android: Now you can get to your appointments faster because Google Calendar is connected with Google Maps. https://goo.gl/SBFvmL 10.10_Android_MapsCalendarSync_FB.mp4",
-          1476111092
-        ],
-        [
-          "Skip the chip reader and stay on-the-go with #AndroidPay. 08.31_AndroidPay vs Chip&Pin_FB_02.mp4",
-          1473784796
-        ],
-        [
-          "More Wallpapers, more fun. Which of these wallpapers will your phone be sporting? \n\nJust long press on these photos and save to your album to use as your background. http://goo.gl/uz5tHG Photos from Android's post",
-          1473178441
-        ],
-        [
-          "Now, you\u2019re just a tap away from never missing Walgreens Balance Rewards savings and points. Save your rewards card to #AndroidPay and try tapping today. http://goo.gl/iZlfkO 08.17_AndroidPay_Walgreens.mp4",
-          1472569524
-        ],
-        [
-          "Automate the mundane with #AndroidWear. Use the @IFTTT app to auto-trigger certain tasks. What\u2019s your favorite IFTTT recipe? https://goo.gl/nxhm5o FBr2.mov",
-          1470403842
-        ],
-        [
-          "As fashionable as it is functional. Get in tune with #AndroidWear using the Guitar Tuner app. Timeline Photos",
-          1469799002
-        ],
-        [
-          "Stay cool. Timeline Photos",
-          1469279702
-        ],
-        [
-          "Your #Android device helps you show off your personality. What sets your home screen apart? Timeline Photos",
-          1467988182
-        ],
-        [
-          "That moment when... #AndroidNougat  #AndroidNReveal",
-          1467301214
-        ],
-        [
-          "Stay hydrated this weekend with the Water Drink Reminder for #AndroidWear. https://goo.gl/rWdh4Y Timeline Photos",
-          1466249392
-        ],
-        [
-          "Traveling this summer? Your #Android device will be your favorite travel buddy. Get flight status, local attractions & more. https://goo.gl/Mw0kGi Timeline Photos",
-          1466096730
-        ],
-        [
-          "Heading home? Use Google Now on #Android to get the best route there. https://goo.gl/RGY7PS 04.20_Android_GoogleNow_FB.mp4",
-          1461166936
-        ],
-        [
-          "Turn your phone into a 360\u00b0 movie theatre of \ud83c\udf85-chasing fun. Watch #SpecialDelivery https://goo.gl/Kh6bv0 Google Spotlight Stories Presents: Special Delivery On mobile, must view in YouTube App. On desktop, in Chrome or FireFox. A short film made by Academy Award-winning studio, Aardman Animations (creators of Wal...",
-          1450959302
-        ],
-        [
-          "#everykidmatters    Wiggle While You Work!, a project from Ms. Joyce My students need a Hokki stool and three Kore Wobble Chairs to help them to stay focused! Do you remember sitting in class, trying to stay focused? Many of my students struggle with staying focused and have a hard time completing school work due to their lack of focus. My students are...",
-          1450497504
-        ],
-        [
-          "Make your Google account safer with Google Authenticator right on your wrist. #AndroidWear https://goo.gl/GEZJmY Timeline Photos",
-          1449854546
-        ],
-        [
-          "Let #AndroidWear be your personal concierge. Your tips from Google are now organized in one handy list.",
-          1449160117
-        ],
-        [
-          "AaHs Network\r\npour T\u00e9l\u00e9charg\u00e9 ce fille : http:// app.appsgeyser.com/aahs%20network  \r\nc'est un r\u00e9seau sosial comme (whatsapp-viber-facebook...) Android App: aahs network Make an App for Android for FREE. AppsGeyser is a free app maker. Build an app in seconds, promote existent business and earn a passive income.",
-          1447852062
-        ],
-        [
-          "Wake up on the right side of the bed with #Google Clock\u2019s gradually increasing alarm volume and other updates on your #Android device. https://goo.gl/Q3gcs8 Timeline Photos",
-          1442937088
-        ],
-        [
-          "this app is amazing !!!!!!!!:\n the most amazing arabic music instrument app in the world with this app you can play the arabic musics with special quarter flat tunes on your mobile phone it has the qanoon sound and the special string that used in...",
-          1442264854
-        ],
-        [
-          "Happy #CameraDay! Keep your pics organized and all in one place with #Google Photos https://goo.gl/BajWpo Timeline Photos",
-          1435600812
-        ],
-        [
-          "Let\u2019s take it back to Sept 2009 for #NationalDonutDay. Who remembers Android 1.6 Donut? #FBF Timeline Photos",
-          1433509473
-        ],
-        [
-          "Catch some quality Z\u2019s this weekend with your #AndroidWear. The Sleep as Android app helps you fall asleep, stay asleep and wake up at the optimal time #WeekendWear https://goo.gl/PVkP7 Timeline Photos",
-          1432990812
-        ],
-        [
-          "Your photos, your files, together in #GoogleDrive. Now you can share and organize your Google+ Photos on the Drive app or the web. http://goo.gl/4g37bn Timeline Photos",
-          1427734784
-        ],
-        [
-          "Start 2015 with a clean slate and a clean home screen. This #AndroidTrick will help you stay clutter-free while trying out new apps on your device. Open the Google Play Store app > Settings > and uncheck the \"Add Icon to Home Screen\" box. Timeline Photos",
-          1421175696
-        ],
-        [
-          "They happen every year\u2026 those moments that make our holidays unique. So we\u2019re going to #SnapTheSeason with Google Camera to capture the quirks! For the first photo, we want you to capture an unexpected moment of inspiration that took your holiday spirit from 0 to 100.\n\nFirst, download the #GoogleCamera app on your #Android device and set up auto-backup with Google+ Photos, so you won't miss a moment. Once your camera is set up, snap a photo of something that unexpectedly inspired you to get into the holiday spirit, and share it using the hashtag #SnapTheSeason. Share with us and we\u2019ll share our favorites with you! http://goo.gl/BcDDGI Timeline Photos",
-          1418159512
-        ],
-        [
-          "Send life\u2019s moments, big or small, via SMS with the Messenger app on your #Android device. Which moments are you sharing today? http://goo.gl/4Bw2HY Timeline Photos",
-          1417716006
-        ],
-        [
-          "Bring step-by-step recipes to your wrist when you use the #Cookpad app on #AndroidWear. Now you can free your hands up to prep your #Thanksgiving feast. http://goo.gl/2fZOlj Timeline Photos",
-          1416938408
-        ],
-        [
-          "Sit down and ball up. The #NBA and #MLB apps are now available on #NexusPlayer. We can already hear you cheering on your favorite teams. http://goo.gl/5MID2k Timeline Photos",
-          1415204481
-        ],
-        [
-          "Catch up on your news when you have time. Just use the Pocket app for #Android to save it for later. You can even access articles without an internet connection. Timeline Photos",
-          1412180465
-        ],
-        [
-          "Printing is a snap with Google Cloud Print for #Android. Simply install the app, select your printer and you\u2019re set. #AndroidTricks http://goo.gl/xO5GAX Timeline Photos",
-          1411405960
-        ],
-        [
-          "\"The advent of smartphones and the pace at which we're driving the innovation is really changing how people can access the internet.\" - Sundar Pichai, SVP, Android, Chrome & Apps\n\nAndroid One launch blogpost: http://goo.gl/rb89uv\n\n#AndroidOne  #Android Timeline Photos",
-          1410766554
-        ],
-        [
-          "Stay connected to the people that matter with the #WhatsApp app on your #Android wearable. #AndroidWear Timeline Photos",
-          1410620411
-        ],
-        [
-          "Your #Android device knows more than 50 languages and dialects. Which language do you give voice commands in? Timeline Photos",
-          1409758422
-        ],
-        [
-          "Get recipes right on your wrist with the Allthecooks Recipes App and let out your inner chef. No more flour-coated tablets! #AndroidWear Timeline Photos",
-          1408561749
-        ],
-        [
-          "Upgrade your home screen with the Google Now Launcher - just released today for all #Android 4.1+ devices (https://g.co/nowlauncher).\n\nThe Google Now Launcher gives you a home screen that's clean, simple and customizable. Get the right information at just the right time with one swipe to reach Google Now. Tapping the search box or saying \"Ok Google\" lets you ask a question or search the web. And of course, you can easily add your favorite apps, widgets and wallpaper.\n\nhttps://www.youtube.com/watch?v=ma-DGvCajWM Google Now Launcher With the Google Now Launcher, you get the right information, at just the right time. Get it on Google Play. http://goo.gl/nmWJem",
-          1406925450
-        ],
-        [
-          "Order delivery from your favorite restaurant using Eat24 right on your watch. #AndroidWear Timeline Photos",
-          1406829600
-        ],
-        [
-          "No wifi on your next trip? No problem! Pin your favorite movie or TV show on #GooglePlay on your #Android device before you leave home, and an automatic download will guarantee your in-flight entertainment, even when you're offline. Timeline Photos",
-          1404313508
-        ],
-        [
-          "GOOOAAALLL! Tell us how you'll be using your #Android device to stay on top of the big games this #WorldCup season. Timeline Photos",
-          1402574410
-        ],
-        [
-          "Let your inner-photographer shine. Which #GoogleCamera feature best captures your perfect moments: #LensBlur or #PhotoSphere? Timeline Photos",
-          1402498606
+          "Go BTS of our new #AndroidMarshmallow sculpture + our tasty naming tradition g.co/go/NLandroidm #natandlo The Android Marshmallow Sculpture + Android\u2019s Tasty Naming Tradition - #NatAndLo Ep 5 How do the Android lawn sculptures get made? Why does Android name their releases after sweet, sugary foods? We attempt to find the answers to these Android ...",
+          1439825558
         ]
       ],
-      "dates_start": 1419105236,
-      "dates_end": 1476892320,
-      "likes_avg": 344,
-      "likes_stdev": 224,
-      "comments_avg": 60,
-      "comments_stdev": 50,
-      "shares_avg": 29,
-      "shares_stdev": 60
+      "dates_start": 1456376729,
+      "dates_end": 1472100878,
+      "likes_avg": 366,
+      "likes_stdev": 432,
+      "comments_avg": 109,
+      "comments_stdev": 69,
+      "shares_avg": 110,
+      "shares_stdev": 270
     }
   ]
 }

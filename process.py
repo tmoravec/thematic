@@ -46,6 +46,7 @@ def plot_clusters(features, labels, pagename):
     #pyplot.ylabel('y', rotation='horizontal')
     pyplot.axis('off')
     pyplot.savefig('{}/{}.png'.format(OUTPUT_DIRECTORY, pagename), format='png', dpi=300, bbox_inches='tight')
+    #pyplot.clf()
 
 
 def load_data(pagename):
@@ -61,6 +62,29 @@ def get_stopwords():
                  'get',
                  'know',
                  'may',
+                 'bit',
+                 'ly',
+                 'http',
+                 'https',
+                 'gl',
+                 'goo',
+                 'com',
+                 'en',
+                 'el',
+                 'la',
+                 'ofa',
+                 'bo',
+                 'cz',
+                 'na',
+                 'se',
+                 'za',
+                 'si',
+                 'pro',
+                 'je',
+                 'us',
+                 'ow',
+                 'ke',
+                 'jak',
                 }
     stop_words |= additions
     return stop_words
@@ -98,7 +122,9 @@ def vectorize(messages):
     # TruncatedSVD
 
     for i in range(10, 1, -1):
-        vectorizer = TfidfVectorizer(stop_words=stop_words, max_features=None, ngram_range=(1, 5), norm='l2', sublinear_tf=True, min_df=i)
+        vectorizer = TfidfVectorizer(stop_words=stop_words, max_features=None,
+                                     ngram_range=(1, 5), norm='l2',
+                                     sublinear_tf=True, min_df=i, max_df=0.7)
         features = vectorizer.fit_transform(messages)
         if features.shape[1] > 200:
             print(time.ctime(), 'min_df:', i)
@@ -256,7 +282,6 @@ def clusterize(labels, likes, comments, shares, messages, tf, dates):
 def print_clusters(labels, likes, comments, shares, messages, tf, dates,
                    vectorizer, orig_size, pagename, fan_count, page_name_displayed):
 
-    # TODO: Add fan_count?
     globalstats = {
                    'fan_count': fan_count,
                    'messages': orig_size,
@@ -271,7 +296,7 @@ def print_clusters(labels, likes, comments, shares, messages, tf, dates,
 
 
     clusters = clusterize(labels, likes, comments, shares, messages, tf, dates)
-    clusters = sorted(clusters, key=lambda c: c['size'])
+    clusters = sorted(clusters, key=lambda c: int(np.mean(c['shares'])), reverse=True)
 
     clusters_print = []
     for i, c in enumerate(clusters):

@@ -4,189 +4,21 @@
   "globalstats": {
     "fan_count": 22347106,
     "messages": 265,
-    "likes_avg": 559,
-    "likes_stdev": 1190,
-    "comments_avg": 16,
-    "comments_stdev": 39,
-    "shares_avg": 93,
-    "shares_stdev": 270,
+    "likes_avg": 428,
+    "likes_stdev": 1091,
+    "comments_avg": 12,
+    "comments_stdev": 34,
+    "shares_avg": 67,
+    "shares_stdev": 233,
     "graph_uri": "clusters/heineken.png"
   },
   "clusters": [
     {
       "number": 1,
       "important": [
-        "mi",
         "heineken",
-        "de",
-        "action"
-      ],
-      "common": [
-        "arbol",
-        "heineken",
-        "heineken planperfect",
-        "heineken xd",
-        "jazz",
-        "jazz mi",
-        "jazz mi cerveza",
-        "jazz mi cerveza heineken",
-        "jazz mi cerveza heineken planperfect",
-        "mi"
-      ],
-      "messages": [
-        [
-          "Comparto mi arbol heineken xd",
-          1451442449
-        ],
-        [
-          "Mi particular Halloween.... mi chica, concierto de jazz y mi Cerveza Heineken..... #planperfect",
-          1446415380
-        ]
-      ],
-      "dates_start": 1446415380,
-      "dates_end": 1451442449,
-      "likes_avg": 7,
-      "likes_stdev": 0,
-      "comments_avg": 0,
-      "comments_stdev": 0,
-      "shares_avg": 1,
-      "shares_stdev": 0
-    },
-    {
-      "number": 2,
-      "important": [
-        "action",
-        "heineken",
-        "check"
-      ],
-      "common": [
-        "arm",
-        "check",
-        "heineken house hhh2014",
-        "heineken house hhh2014 timeline",
-        "heineken house hhh2014 timeline photos",
-        "heinyman",
-        "heinyman robot",
-        "heinyman robot complete",
-        "heinyman robot complete glowing",
-        "heinyman robot complete glowing eyes"
-      ],
-      "messages": [
-        [
-          "Check out the Dutch celebrations at the Holland Heineken House #HHH2014 Timeline Photos",
-          1392814801
-        ],
-        [
-          "check out our heinyman robot, complete with glowing eyes and moving arm !!!",
-          1332273842
-        ]
-      ],
-      "dates_start": 1332273842,
-      "dates_end": 1392814801,
-      "likes_avg": 1544,
-      "likes_stdev": 1542,
-      "comments_avg": 20,
-      "comments_stdev": 20,
-      "shares_avg": 55,
-      "shares_stdev": 50
-    },
-    {
-      "number": 3,
-      "important": [
-        "voyag",
-        "beer",
-        "exclus cut",
-        "action",
-        "exclus",
-        "watch",
-        "cut",
-        "film",
-        "guy"
-      ],
-      "common": [
-        "cut",
-        "exclusive",
-        "exclusive cut",
-        "film",
-        "friday exclusive",
-        "friday exclusive cut",
-        "guy",
-        "tune friday exclusive cut",
-        "tune friday exclusive cut voyage",
-        "voyage"
-      ],
-      "messages": [
-        [
-          "Sorry if this guy sounds a bit cranky - he didn't make the exclusive cut of our latest film, The Voyage. Watch it today at 3PM CEST. Ladder",
-          1369990800
-        ],
-        [
-          "The guy from our newest film knows no boundaries when it comes to impressing women. Tune in this Friday for an exclusive cut of The Voyage. Hot Woman",
-          1369825785
-        ],
-        [
-          "Meet the wise man who foretold the making of our newest film, 53 years ago. Tune in this friday for an exclusive cut of The Voyage. Wise Man Beer",
-          1369742737
-        ]
-      ],
-      "dates_start": 1369750009,
-      "dates_end": 1369956205,
-      "likes_avg": 2353,
-      "likes_stdev": 1234,
-      "comments_avg": 82,
-      "comments_stdev": 61,
-      "shares_avg": 583,
-      "shares_stdev": 470
-    },
-    {
-      "number": 4,
-      "important": [
-        "bar",
-        "por",
-        "action",
-        "heineken"
-      ],
-      "common": [
-        "bar",
-        "kuka",
-        "propriet\u00e1rio",
-        "propriet\u00e1rio vai",
-        "propriet\u00e1rio vai tom\u00e1",
-        "propriet\u00e1rio vai tom\u00e1 kuka",
-        "propriet\u00e1rio vai tom\u00e1 kuka bar",
-        "refuse",
-        "refuse sell",
-        "refuse sell product"
-      ],
-      "messages": [
-        [
-          "Vista panor\u00e2mica do Bar Pertinho do C\u00e9u , cidade maravilhosa!",
-          1380107920
-        ],
-        [
-          "I have removed and refuse to sell your product in My Bar!!!",
-          1363883875
-        ],
-        [
-          "Fan\u00e1tico por Heineken at\u00e9 debaixo d\u00b4\u00e1gua!\r\n\r\nKuka Affa Mf propriet\u00e1rio do Vai Tom\u00e1 no Kuka Bar - Goi\u00e2nia-Goi\u00e1s.",
-          1356365161
-        ]
-      ],
-      "dates_start": 1356877914,
-      "dates_end": 1376693389,
-      "likes_avg": 8,
-      "likes_stdev": 8,
-      "comments_avg": 1,
-      "comments_stdev": 0,
-      "shares_avg": 3,
-      "shares_stdev": 0
-    },
-    {
-      "number": 5,
-      "important": [
-        "op",
         "een",
-        "heineken",
+        "op",
         "proost",
         "action"
       ],
@@ -226,255 +58,145 @@
       "shares_stdev": 0
     },
     {
-      "number": 6,
+      "number": 2,
       "important": [
-        "frohe",
-        "ever",
+        "de",
         "heineken",
+        "op",
         "best",
         "action"
       ],
       "common": [
-        "frohe",
-        "frohe weihnachten",
-        "sch\u00f6ngrabern",
-        "story",
-        "story php",
-        "story php story_fbid",
-        "story php story_fbid 695859627180356",
-        "story php story_fbid 695859627180356 substory_index",
-        "story_fbid",
-        "weihnachten"
+        "de",
+        "heineken",
+        "kunst op de vroege",
+        "kunst op de vroege morgen",
+        "morgen",
+        "morgen proost",
+        "morgen proost allemaal",
+        "op",
+        "op de",
+        "op de vroege"
       ],
       "messages": [
         [
-          "https://m.facebook.com/story.php?story_fbid=695859627180356&substory_index=0&id=508859639213690\n\n360 Falschen - 2 Wochen - viel Durst :) \n\n\ud83c\udf84 FROHE WEIHNACHTEN \ud83c\udf84\nw\u00fcnscht \n\nJugend Sch\u00f6ngrabern",
-          1450261915
+          "Frank Adrichem Heineken #heineken....een beetje kunst op de vroege morgen....#proost allemaal!",
+          1417072970
         ],
         [
-          "Bestes Weihnachtsgeschenk ever \ud83d\udc9c\nWunschlos gl\u00fccklich!  \nFrohe Weihnachten",
-          1419441426
-        ],
-        [
-          "Weihnachtszeit, h\u00f6chste Zeit f\u00fcr ein Heineken :) Frohe Weihnachten aus Australien und Prost",
-          1419402769
+          "Zelfs de city edition smaakt op zn best heinekens! :)",
+          1410560914
         ]
       ],
-      "dates_start": 1415163998,
-      "dates_end": 1444240074,
-      "likes_avg": 26,
-      "likes_stdev": 20,
+      "dates_start": 1410560914,
+      "dates_end": 1417072970,
+      "likes_avg": 3,
+      "likes_stdev": 1,
       "comments_avg": 1,
-      "comments_stdev": 0,
-      "shares_avg": 2,
-      "shares_stdev": 1
+      "comments_stdev": 1,
+      "shares_avg": 1,
+      "shares_stdev": 0
     },
     {
-      "number": 7,
+      "number": 3,
       "important": [
-        "legendari poster",
-        "go",
-        "meet",
-        "bid",
-        "anoth",
-        "watch",
-        "poster",
-        "action",
-        "without"
-      ],
-      "common": [
-        "com",
-        "com proceeds",
-        "com proceeds go",
-        "com proceeds go reporters",
-        "http",
-        "poster",
-        "poster http",
-        "thelegendaryposters com proceeds",
-        "thelegendaryposters com proceeds go",
-        "thelegendaryposters com proceeds go reporters"
-      ],
-      "messages": [
-        [
-          "An Icelandic farmer, a cow, a volcano, popcorn, and a poster. Watch what happens when they all meet.\n\nYou can bid for this poster at http://www.thelegendaryposters.com All proceeds go to Reporters Without Borders. Legendary Posters - Iceland Popcorn",
-          1397214000
-        ],
-        [
-          "Watch how Californian artist Rob Brander gave a poster some West Coast flavor.\n\nYou can bid for this poster at http://thelegendaryposters.com All proceeds go to Reporters Without Borders. Legendary Posters - Rob Brander",
-          1397041200
-        ],
-        [
-          "Watch how a poster becomes yet another opponent that got burnt in a game with Jimmy Connors.\n\nYou can bid for this poster at http://www.thelegendaryposters.com All proceeds go to Reporters Without Borders. Legendary Posters - Jimmy Connors",
-          1396609201
-        ]
-      ],
-      "dates_start": 1396700446,
-      "dates_end": 1397209154,
-      "likes_avg": 2716,
-      "likes_stdev": 866,
-      "comments_avg": 74,
-      "comments_stdev": 26,
-      "shares_avg": 455,
-      "shares_stdev": 252
-    },
-    {
-      "number": 8,
-      "important": [
-        "danc",
-        "enjoy",
-        "experi",
-        "night",
-        "world",
-        "watch",
-        "armin",
-        "drink",
-        "action",
-        "van"
-      ],
-      "common": [
-        "armin",
-        "armin van",
-        "armin van buuren",
-        "buuren",
-        "dmds",
-        "dmds experiment",
-        "experiment",
-        "night",
-        "van",
-        "van buuren"
-      ],
-      "messages": [
-        [
-          "Go behind the scenes of The Experiment and hear why Armin van Buuren\u2019s a huge fan of Dancing More and Drinking Slow. #DMDS The Experiment - Behind the scenes",
-          1390395601
-        ],
-        [
-          "Armin van Buuren might be the greatest DJ in the world, but can he keep the dance floor jam-packed the whole night? #DMDS The Experiment",
-          1390222800
-        ],
-        [
-          "Watch Armin van Buuren fans enjoy a huge night http://youtu.be/09maTE5q4Jk #DMDS Timeline Photos",
-          1389790801
-        ]
-      ],
-      "dates_start": 1389882046,
-      "dates_end": 1390390755,
-      "likes_avg": 3377,
-      "likes_stdev": 854,
-      "comments_avg": 91,
-      "comments_stdev": 67,
-      "shares_avg": 384,
-      "shares_stdev": 247
-    },
-    {
-      "number": 9,
-      "important": [
-        "danc",
-        "mani",
-        "everyon",
-        "world",
-        "way",
-        "action"
-      ],
-      "common": [
-        "around",
-        "around world",
-        "dibby",
-        "result",
-        "result move",
-        "result move track",
-        "result move track download",
-        "result move track download dibby",
-        "song",
-        "world"
-      ],
-      "messages": [
-        [
-          "Wellcome to my world",
-          1478620631
-        ],
-        [
-          "Around the world, everyone dances differently. But is there a limit to how many different ways to dance? We took 1 song around the world and this is the result.\n \nWhat\u2019s your move on this track? Download the \u2018Dibby Dibby Sound\u2019 on iTunes http://po.st/DibbyDibbySound Around the world in 1 song",
-          1391173200
-        ],
-        [
-          "The happier Stick Figure of the World!",
-          1348787666
-        ]
-      ],
-      "dates_start": 1352136059,
-      "dates_end": 1460251605,
-      "likes_avg": 831,
-      "likes_stdev": 1167,
-      "comments_avg": 29,
-      "comments_stdev": 41,
-      "shares_avg": 287,
-      "shares_stdev": 399
-    },
-    {
-      "number": 10,
-      "important": [
+        "heineken",
+        "today",
+        "love",
+        "year",
+        "oh",
         "heineken beer",
-        "beer",
-        "better",
-        "like",
-        "beer park",
+        "think",
+        "happi",
+        "action",
+        "way"
+      ],
+      "common": [
+        "birthday",
+        "heineken",
+        "love",
+        "oh",
+        "oh heineken",
+        "recently turned",
+        "recently turned 50",
+        "sides",
+        "sides happiness",
+        "sides happiness portray"
+      ],
+      "messages": [
+        [
+          "4 years today with my baby! Oh Heineken I love you! Your glistening smile, the mesmerizing way you look at me and the dazzling spark of your taste <3. The smoothness of your sides, and the happiness you portray to I.... Oh Heineken, I think I'm in love with you.",
+          1487537470
+        ],
+        [
+          "I love Heineken beer-------",
+          1417512670
+        ],
+        [
+          "A birthday cake for the birthday boy who loved his drink....n recently turned 50.",
+          1410724778
+        ]
+      ],
+      "dates_start": 1403870947,
+      "dates_end": 1473312330,
+      "likes_avg": 3,
+      "likes_stdev": 2,
+      "comments_avg": 0,
+      "comments_stdev": 0,
+      "shares_avg": 1,
+      "shares_stdev": 0
+    },
+    {
+      "number": 4,
+      "important": [
+        "mi",
         "action",
         "heineken"
       ],
       "common": [
-        "beer",
-        "beer park",
-        "beer park sathorn square",
+        "arbol",
+        "arbol heineken",
+        "arbol heineken xd",
+        "comparto",
+        "comparto mi",
+        "comparto mi arbol",
+        "comparto mi arbol heineken",
+        "comparto mi arbol heineken xd",
         "heineken",
-        "heineken beer",
-        "heineken beer park",
-        "park",
-        "sathorn",
-        "sathorn square",
-        "square"
+        "heineken xd"
       ],
       "messages": [
         [
-          "\u0e23\u0e27\u0e21\u0e20\u0e32\u0e1e\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e19\u0e38\u0e01\u0e08\u0e32\u0e01\u0e27\u0e07 Better Weather \u0e43\u0e19 Heineken Beer Park \u0e25\u0e32\u0e19\u0e2a\u0e32\u0e17\u0e23\u0e2a\u0e41\u0e04\u0e27\u0e23\u0e4c \u0e44\u0e2b\u0e19\u0e43\u0e04\u0e23\u0e44\u0e1b\u0e2a\u0e19\u0e38\u0e01\u0e01\u0e31\u0e19\u0e43\u0e19\u0e27\u0e31\u0e19\u0e19\u0e31\u0e49\u0e19\u0e21\u0e32\u0e1a\u0e49\u0e32\u0e07 Like \u0e40\u0e25\u0e22\r\n\r\n\u0e41\u0e25\u0e49\u0e27\u0e2d\u0e22\u0e48\u0e32\u0e25\u0e37\u0e21\u0e0a\u0e27\u0e19\u0e04\u0e19\u0e23\u0e39\u0e49\u0e43\u0e08\u0e21\u0e32\u0e23\u0e31\u0e1a\u0e25\u0e21\u0e2b\u0e19\u0e32\u0e27\u0e01\u0e31\u0e19\u0e17\u0e35\u0e48 Heineken Beer Park @Sathorn Square \u0e44\u0e14\u0e49\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49 - 31 \u0e18\u0e31\u0e19\u0e27\u0e32\u0e04\u0e21 Heineken Beer Park @Sathorn Square",
-          1387217460
-        ],
-        [
-          "Heineken Beer Park @Sathorn Square\n3 December\n\u0e20\u0e32\u0e1e\u0e1a\u0e23\u0e23\u0e22\u0e32\u0e01\u0e32\u0e28\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e19\u0e38\u0e01\u0e02\u0e2d\u0e07\u0e41\u0e1f\u0e19\u0e46 Heineken \u0e43\u0e19\u0e04\u0e37\u0e19\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48 3 \u0e18\u0e31\u0e19\u0e27\u0e32\u0e04\u0e21\u0e17\u0e35\u0e48\u0e1c\u0e48\u0e32\u0e19\u0e21\u0e32\u0e01\u0e31\u0e1a\u0e27\u0e07 Mild \u0e43\u0e08\u0e01\u0e25\u0e32\u0e07\u0e01\u0e23\u0e38\u0e07 \u0e17\u0e35\u0e48 Sathorn Square (\u0e2a\u0e32\u0e18\u0e23\u0e43\u0e15\u0e49) \u0e08\u0e30\u0e2a\u0e19\u0e38\u0e01 \u0e08\u0e30\u0e0a\u0e34\u0e25\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19\u0e25\u0e2d\u0e07\u0e14\u0e39\u0e01\u0e31\u0e19!\n\n\u0e41\u0e25\u0e49\u0e27\u0e2d\u0e22\u0e48\u0e32\u0e25\u0e37\u0e21\u0e0a\u0e27\u0e19\u0e04\u0e19\u0e23\u0e39\u0e49\u0e43\u0e08\u0e21\u0e32\u0e23\u0e31\u0e1a\u0e25\u0e21\u0e2b\u0e19\u0e32\u0e27\u0e01\u0e31\u0e19\u0e17\u0e35\u0e48 Heineken Beer Park @Sathorn Square \u0e44\u0e14\u0e49\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49 - 31 \u0e18\u0e31\u0e19\u0e27\u0e32\u0e04\u0e21 Heineken Beer Park @Sathorn Square",
-          1386105240
-        ],
-        [
-          "\u0e20\u0e32\u0e1e\u0e1a\u0e23\u0e23\u0e22\u0e32\u0e01\u0e32\u0e28\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e19\u0e38\u0e01\u0e02\u0e2d\u0e07\u0e41\u0e1f\u0e19\u0e46 Heineken \u0e43\u0e19\u0e04\u0e37\u0e19\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48 25 \u0e1e\u0e24\u0e28\u0e08\u0e34\u0e01\u0e32\u0e22\u0e19\u0e17\u0e35\u0e48\u0e1c\u0e48\u0e32\u0e19\u0e21\u0e32 \u0e01\u0e31\u0e1a\u0e40\u0e08\u0e49\u0e32\u0e1e\u0e48\u0e2d\u0e40\u0e0b\u0e34\u0e23\u0e4c\u0e1f \u0e21\u0e34\u0e27\u0e2a\u0e34\u0e04 \u0e04\u0e19\u0e41\u0e23\u0e01\u0e02\u0e2d\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22 \u0e2a\u0e34\u0e07\u0e42\u0e15 \u0e19\u0e33\u0e42\u0e0a\u0e04 \u0e13 Heineken Beer Park \u0e43\u0e08\u0e01\u0e25\u0e32\u0e07\u0e01\u0e23\u0e38\u0e07 \u0e17\u0e35\u0e48 Esplanade \u0e23\u0e31\u0e0a\u0e14\u0e32 Heineken Beer Park @Esplanade \u0e23\u0e31\u0e0a\u0e14\u0e32",
-          1385396460
+          "Comparto mi arbol heineken xd",
+          1451442449
         ]
       ],
-      "dates_start": 1385490242,
-      "dates_end": 1386989197,
-      "likes_avg": 37,
-      "likes_stdev": 19,
-      "comments_avg": 2,
-      "comments_stdev": 1,
-      "shares_avg": 6,
-      "shares_stdev": 3
+      "dates_start": 1451442449,
+      "dates_end": 1451442449,
+      "likes_avg": 7,
+      "likes_stdev": 0,
+      "comments_avg": 0,
+      "comments_stdev": 0,
+      "shares_avg": 1,
+      "shares_stdev": 0
     },
     {
-      "number": 11,
+      "number": 5,
       "important": [
-        "action",
-        "en",
         "de",
-        "un"
+        "un",
+        "action"
       ],
       "common": [
         "abentaste",
         "de",
-        "en",
-        "lay\u00fan un poker te",
         "lay\u00fan un poker te abentaste",
         "poker",
         "poker te",
         "poker te abentaste",
         "poker te abentaste ayer",
+        "resposabilidad",
+        "resposabilidad social",
         "un"
       ],
       "messages": [
@@ -485,217 +207,228 @@
         [
           "Eres grand #lay\u00fan un poker te abentaste ayer",
           1411844485
-        ],
-        [
-          "un ragalito :D",
-          1348923916
         ]
       ],
-      "dates_start": 1359396146,
-      "dates_end": 1473091521,
+      "dates_start": 1411844485,
+      "dates_end": 1487963100,
       "likes_avg": 0,
       "likes_stdev": 0,
       "comments_avg": 0,
       "comments_stdev": 0,
-      "shares_avg": 2,
-      "shares_stdev": 2
+      "shares_avg": 1,
+      "shares_stdev": 0
     },
     {
-      "number": 12,
+      "number": 6,
       "important": [
-        "je",
-        "one",
-        "action",
-        "si"
+        "de",
+        "como",
+        "una",
+        "que",
+        "foto",
+        "un",
+        "es",
+        "con",
+        "action"
       ],
       "common": [
-        "je",
-        "proudu",
-        "proudu poj\u010fme",
-        "proudu poj\u010fme si",
-        "proudu poj\u010fme si zatan\u010dit",
-        "proudu poj\u010fme si zatan\u010dit pokud",
-        "p\u0159edstaven\u00ed",
-        "p\u0159edstaven\u00ed m\u00e1",
-        "si",
-        "vstupenky"
+        "12",
+        "como",
+        "con",
+        "de",
+        "foodtruck",
+        "para",
+        "para sus eventos",
+        "para sus eventos nuestro",
+        "un",
+        "una"
       ],
       "messages": [
         [
-          "8 Dicembre: l'albero si fa cos\u00ec",
-          1449585535
+          "Estimada/o, buen d\u00eda escribo para ofrecer mis servicios de Foodtruck para sus eventos nuestro foodtruck es una combi modificada pintada con un dise\u00f1o \u00fanico, en la cual vendemos sushi, tanto men\u00fas como handroll y variedad en Gohan, adjunto foto de un evento reciente este 17,18,19 por la productora Artemedios \"WomadChile\"\nBusquemos en Facebook como \"Sushicombi\" \ud83d\ude8d\ud83c\udf71\ud83c\udf63",
+          1487760236
         ],
         [
-          "Ne vogliamo parlare? Stavolta il mitico Kemapi si \u00e8 superato!!!",
-          1419433356
-        ],
-        [
-          "Plesov\u00e1 sezona je v pln\u00e9m proudu. Poj\u010fme si zatan\u010dit! Pokud si ale rad\u011bji u\u017e\u00edv\u00e1te kulturu z pohodl\u00ed sedadla, doporu\u010dujeme biografii Paula Pottse pod n\u00e1zvem One Chance. \u010clov\u011bk, kter\u00fd uk\u00e1zal odvahu a odhalil co v n\u011bm je! P\u0159edstaven\u00ed m\u00e1 premi\u00e9ru 8.2.2014. Zakupte si sv\u00e9 vstupenky v\u010das na http://plesvopere.cz/vstupenky.php Timeline Photos",
-          1390579201
+          "Hola. Compr\u00e9 una caja con 12 cervezas, que supuestamente inclu\u00eda una bocina y no viene nada. Ahora qu\u00e9?",
+          1419105123
         ]
       ],
-      "dates_start": 1395774852,
-      "dates_end": 1443957208,
-      "likes_avg": 55,
-      "likes_stdev": 57,
+      "dates_start": 1419105123,
+      "dates_end": 1487760236,
+      "likes_avg": 4,
+      "likes_stdev": 3,
+      "comments_avg": 0,
+      "comments_stdev": 0,
+      "shares_avg": 1,
+      "shares_stdev": 0
+    },
+    {
+      "number": 7,
+      "important": [
+        "heineken",
+        "een",
+        "heerlijk",
+        "openyourworld",
+        "ff",
+        "helder",
+        "action"
+      ],
+      "common": [
+        "2015",
+        "ff",
+        "heerlijk",
+        "heerlijk helder",
+        "heineken",
+        "helder",
+        "tot",
+        "vanavond",
+        "verzegeld tot vanavond",
+        "vrienden"
+      ],
+      "messages": [
+        [
+          "VEEL PLEZIER ALLEMAAL VANAVOND......EN OP EEN HEERLIJK HELDER 2015!",
+          1420015157
+        ],
+        [
+          "ff verzegeld ....tot vanavond!",
+          1416986636
+        ],
+        [
+          "#heerlijk #helder #heineken",
+          1411978281
+        ],
+        [
+          "tot over 2 weken vrienden ff HEERLIJK weg.....zonnig en HELDER weer en ze hebben  HEINEKEN....#proost   #openyourcity #openyourworld #heineken",
+          1410849910
+        ],
+        [
+          "Heerlijk!",
+          1410029001
+        ]
+      ],
+      "dates_start": 1410101981,
+      "dates_end": 1417841612,
+      "likes_avg": 5,
+      "likes_stdev": 3,
       "comments_avg": 2,
       "comments_stdev": 2,
-      "shares_avg": 6,
-      "shares_stdev": 6
+      "shares_avg": 1,
+      "shares_stdev": 0
     },
     {
-      "number": 13,
+      "number": 8,
       "important": [
-        "parti",
-        "experi",
-        "night",
-        "action",
-        "heineken"
-      ],
-      "common": [
-        "fizzion party",
-        "fizzion party green",
-        "fizzion party green night",
-        "fizzion party green night heineken",
-        "green",
-        "green night",
-        "green night heineken",
+        "de",
         "heineken",
-        "night heineken",
-        "party"
-      ],
-      "messages": [
-        [
-          "This is how Heineken broke the dawn.... Sunrise Party",
-          1387750620
-        ],
-        [
-          "Redefining the party experience.... Heineken Green & White Party",
-          1384588800
-        ],
-        [
-          "Nidia Fizzion Party - Green Night Heineken\nCuenca - Ecuador Nidia Fizzion Party - Green Night Heineken",
-          1376751600
-        ]
-      ],
-      "dates_start": 1378406762,
-      "dates_end": 1387653917,
-      "likes_avg": 27,
-      "likes_stdev": 23,
-      "comments_avg": 1,
-      "comments_stdev": 1,
-      "shares_avg": 3,
-      "shares_stdev": 1
-    },
-    {
-      "number": 14,
-      "important": [
-        "champion leagu",
-        "question",
-        "follow",
-        "heineken",
-        "champion",
-        "dure",
-        "sharethesofa",
-        "real",
-        "action",
-        "adventur"
-      ],
-      "common": [
-        "champions",
-        "fernando",
-        "fernando morientes",
-        "follow",
-        "follow heineken",
-        "heineken",
-        "morientes",
-        "questions",
-        "ruud",
-        "sharethesofa"
-      ],
-      "messages": [
-        [
-          "\u2018Thanks for all the questions tonight\u2019 \u2013 Fernando Morientes.  Follow @Heineken and #ShareTheSofa during Champions League action next time. #ShareTheSofa on December 10th with Owen Hargreaves",
-          1385585289
-        ],
-        [
-          "Fernando Morientes is waiting for your questions.  Join him LIVE on Twitter November 27th, 20:30 CET during the Champions League match-up: Real Madrid v Galatasaray. \n\nFollow @Heineken and send your questions using #Sharethesofa to get an answer from the Spanish legend. Heineken | #ShareTheSofa with Fernando Morientes",
-          1385578110
-        ],
-        [
-          "And we\u2019re live! Ruud is on the sofa and waiting for your tweets. Follow us on http://www.twitter.com/heineken and tweet with a champion.  #ShareTheSofa #ShareTheSofa with Ruud Gullit",
-          1379523470
-        ]
-      ],
-      "dates_start": 1380706411,
-      "dates_end": 1386418167,
-      "likes_avg": 1233,
-      "likes_stdev": 405,
-      "comments_avg": 15,
-      "comments_stdev": 7,
-      "shares_avg": 53,
-      "shares_stdev": 15
-    },
-    {
-      "number": 15,
-      "important": [
-        "van het",
+        "da",
         "al",
-        "heineken",
-        "echt",
-        "action",
-        "bier",
-        "het",
-        "van"
+        "action"
       ],
       "common": [
-        "als",
-        "genieten",
-        "het",
-        "partner",
-        "partner van",
-        "partner van het",
-        "partner van het duindorp",
-        "partner van het duindorp vreugdevuur",
-        "van",
-        "van het"
+        "da",
+        "de",
+        "de natal",
+        "fins",
+        "heineken",
+        "minha",
+        "natal",
+        "\u00e1rvore",
+        "\u00e1rvore de",
+        "\u00e1rvore de natal"
       ],
       "messages": [
         [
-          "Onoffici\u00eble partner van het Duindorp Vreugdevuur ;-)",
-          1419869208
+          "Preciso de ajuda da Heineken pra plotar minha geladeira e que ela me venda as banquetas personalizadas pra tornar minha area de lazer top!!!!!!!",
+          1419376697
         ],
         [
-          "Flesjes zijn leuk als bloemenvaasjes. Natuurlijk wel eerst genieten van het bier.",
-          1410079749
+          "\u00c1rvore de Natal da fam\u00edlia Nogueira \u00c1vila! \nHeineken, t\u00f4 esperando aquele caminh\u00e3o carregado de Natal, hein? #heineken #amoheineken #arvoredeheineken #sustentabilidade",
+          1417553381
         ],
         [
-          "In Utrecht genieten we echt van het zonnetje! Dankjewel Heineken!!",
-          1402086635
+          "Nossa \u00e1rvore de Natal... ;)",
+          1417011184
+        ],
+        [
+          "De hele wereld al gezien, behalve Amsterdam.",
+          1409855393
+        ],
+        [
+          "Trabalho de disciplina de Fotografia Publicit\u00e1ria de alunos de Publicidade e Propaganda da UEMG-Frutal. Sem fins comerciais ou com inten\u00e7\u00e3o de violar direitos de imagem registrados, apenas com fins did\u00e1ticos.",
+          1380287885
         ]
       ],
-      "dates_start": 1403406489,
-      "dates_end": 1417950572,
-      "likes_avg": 24,
-      "likes_stdev": 30,
-      "comments_avg": 3,
+      "dates_start": 1394188409,
+      "dates_end": 1423445406,
+      "likes_avg": 9,
+      "likes_stdev": 8,
+      "comments_avg": 1,
       "comments_stdev": 1,
       "shares_avg": 1,
       "shares_stdev": 0
     },
     {
-      "number": 16,
+      "number": 9,
       "important": [
-        "perform",
+        "onli",
+        "heineken",
+        "dont",
+        "magic",
+        "world",
+        "year",
+        "right",
+        "day",
+        "action"
+      ],
+      "common": [
+        "days",
+        "days miss 1scxhkv",
+        "documentary hulu",
+        "documentary hulu 30",
+        "documentary hulu 30 days",
+        "heineken",
+        "hulu 30 days miss 1scxhkv",
+        "magic",
+        "magic heineken",
+        "magic heineken documentary"
+      ],
+      "messages": [
+        [
+          "'The Magic of Heineken' Documentary is now on Hulu for 30 days only. Don't miss it. http://bit.ly/1scxHKV",
+          1409324694
+        ],
+        [
+          "'The Magic of Heineken' Documentary is now on Hulu for 30 days only.  Don't miss it.  http://bit.ly/1scxHKV     The Magic of Heineken Take a captivating ride through the 150 year history of the world's largest family controlled brewer.",
+          1409250030
+        ],
+        [
+          "days work tatted on my right sholder!",
+          1378834322
+        ]
+      ],
+      "dates_start": 1384780615,
+      "dates_end": 1413492081,
+      "likes_avg": 2,
+      "likes_stdev": 1,
+      "comments_avg": 0,
+      "comments_stdev": 0,
+      "shares_avg": 1,
+      "shares_stdev": 0
+    },
+    {
+      "number": 10,
+      "important": [
+        "heineken",
         "bottl exclus",
+        "exclus",
+        "two",
+        "bottl",
+        "one",
+        "perform",
         "parti",
         "star",
-        "one",
-        "two",
-        "exclus",
-        "action",
-        "bottl",
-        "heineken"
+        "action"
       ],
       "common": [
         "bottle",
@@ -733,15 +466,735 @@
       "shares_stdev": 0
     },
     {
+      "number": 11,
+      "important": [
+        "drink",
+        "make",
+        "heineken",
+        "ever",
+        "beer",
+        "action",
+        "never"
+      ],
+      "common": [
+        "beer",
+        "drink",
+        "drink heineken",
+        "ever",
+        "heineken",
+        "icecold",
+        "make",
+        "make woow",
+        "never",
+        "woow"
+      ],
+      "messages": [
+        [
+          "This is how I drink my Heinekens!!#icecold",
+          1402234569
+        ],
+        [
+          "Won't ever be drinking ur beer again!!! Sick!!!",
+          1395391975
+        ],
+        [
+          "Woow after drink Heineken make me woow..;-)",
+          1387971947
+        ],
+        [
+          "I WILL  NEVER DRINK HEINEKEN EVER!!!!",
+          1387771263
+        ]
+      ],
+      "dates_start": 1387360157,
+      "dates_end": 1399324719,
+      "likes_avg": 1,
+      "likes_stdev": 1,
+      "comments_avg": 1,
+      "comments_stdev": 1,
+      "shares_avg": 1,
+      "shares_stdev": 0
+    },
+    {
+      "number": 12,
+      "important": [
+        "fles",
+        "het",
+        "een",
+        "de",
+        "heineken",
+        "ik",
+        "van",
+        "poster",
+        "met",
+        "proost"
+      ],
+      "common": [
+        "de",
+        "een",
+        "fles",
+        "heineken",
+        "het",
+        "ik",
+        "met",
+        "mijn",
+        "nog",
+        "wat"
+      ],
+      "messages": [
+        [
+          "Heineken\nIn Den Bosch hangen posters op het terein van jullie met een fles en de draak erop wat moet ik doen voor z'n poster?\nProost",
+          1435509254
+        ],
+        [
+          "#heineken #zomer #speakerkratje #proost #vaderdag #langstedag #21juni ....het ziet er nog niet naar uit maar vandaag is de zomer toch echt begonnen! nog een paar dagen en dan     NAAR BUITEN!",
+          1434863023
+        ],
+        [
+          "Willen jullie mijn Valentijn zijn? #Heineken",
+          1423944203
+        ],
+        [
+          "Toen Heineken Nog lkkr was",
+          1420071833
+        ],
+        [
+          "#heineken bedankt voor de kaarten....darttournooi was top....en het bier ook...nu ff boodschappen doen.....ben ik nog wat vergeten?",
+          1418028598
+        ],
+        [
+          "Mijn werd van de week gevraagd of er ook een fles is met de tekst Parijs erop. Mijn buurvrouw ( Simone Zigterman-Jager ) spaart alles wat met Parijs te maken heeft.\nMet vriendelijke groet, \nBij Freddy",
+          1411841726
+        ],
+        [
+          "Helaas geen fles uit het werelddeel Afrika in mijn krat.... Vind ik jammer.....Anders echt een mooie reis gehad....\nPech??? Of is Heineken mooie steden in Afrika vergeten?? Graag reactie...Wil graag mijn reis der werelddelen voltooien...;-)",
+          1408562281
+        ],
+        [
+          "Omdat ik een Heineken tattoo heb een pakket gekregen van Heineken haha:D bedankt hahah",
+          1401531526
+        ]
+      ],
+      "dates_start": 1408028115,
+      "dates_end": 1430559995,
+      "likes_avg": 9,
+      "likes_stdev": 9,
+      "comments_avg": 3,
+      "comments_stdev": 1,
+      "shares_avg": 1,
+      "shares_stdev": 0
+    },
+    {
+      "number": 13,
+      "important": [
+        "het",
+        "heineken",
+        "echt",
+        "van",
+        "maar",
+        "van het",
+        "al",
+        "bier",
+        "dan",
+        "action"
+      ],
+      "common": [
+        "genieten",
+        "heeft",
+        "heineken",
+        "het",
+        "maar",
+        "neer heeft",
+        "neer heeft gelegd",
+        "neer heeft gelegd er",
+        "van",
+        "van het"
+      ],
+      "messages": [
+        [
+          "dan maar zo......",
+          1427445229
+        ],
+        [
+          "Onoffici\u00eble partner van het Duindorp Vreugdevuur ;-)",
+          1419869208
+        ],
+        [
+          "Flesjes zijn leuk als bloemenvaasjes. Natuurlijk wel eerst genieten van het bier.",
+          1410079749
+        ],
+        [
+          "tis maar hoe je het opvat........#heineken",
+          1408510776
+        ],
+        [
+          "In Utrecht genieten we echt van het zonnetje! Dankjewel Heineken!!",
+          1402086635
+        ],
+        [
+          "Vandaag mooie vondst gedaan lag tussen plafond van een oud herenhuis\nOpmerkelijke is dat degene die het destijds neer heeft gelegd er jaartal 1936 op heeft gezet",
+          1395335955
+        ]
+      ],
+      "dates_start": 1399910567,
+      "dates_end": 1421198616,
+      "likes_avg": 14,
+      "likes_stdev": 23,
+      "comments_avg": 1,
+      "comments_stdev": 1,
+      "shares_avg": 1,
+      "shares_stdev": 0
+    },
+    {
+      "number": 14,
+      "important": [
+        "heineken",
+        "christma",
+        "christma tree",
+        "bottl",
+        "tree",
+        "heineken christma",
+        "action"
+      ],
+      "common": [
+        "bottles",
+        "christmas",
+        "engine tables bucharest romania diy",
+        "heineken",
+        "heineken bottles",
+        "heineken bottles keg",
+        "heineken bottles keg customenginetables",
+        "heineken christmas",
+        "heineken christmas tree",
+        "heineken christmas tree done"
+      ],
+      "messages": [
+        [
+          "Heineken Christmas tree done by Custom Engine Tables in Bucharest,Romania. \n#diy #heineken #bottles #keg #customenginetables",
+          1481897287
+        ],
+        [
+          "Merry Christmas \u266a\u30fd(\u00b4\u25bd\uff40)/",
+          1419497213
+        ],
+        [
+          "Heineken Christmas",
+          1418131610
+        ]
+      ],
+      "dates_start": 1410099258,
+      "dates_end": 1469584814,
+      "likes_avg": 6,
+      "likes_stdev": 5,
+      "comments_avg": 0,
+      "comments_stdev": 0,
+      "shares_avg": 1,
+      "shares_stdev": 0
+    },
+    {
+      "number": 15,
+      "important": [
+        "bar",
+        "action"
+      ],
+      "common": [
+        "bar",
+        "panor\u00e2mica bar pertinho c\u00e9u",
+        "panor\u00e2mica bar pertinho c\u00e9u cidade",
+        "pertinho",
+        "pertinho c\u00e9u",
+        "pertinho c\u00e9u cidade",
+        "pertinho c\u00e9u cidade maravilhosa",
+        "vista",
+        "vista panor\u00e2mica",
+        "vista panor\u00e2mica bar"
+      ],
+      "messages": [
+        [
+          "Vista panor\u00e2mica do Bar Pertinho do C\u00e9u , cidade maravilhosa!",
+          1380107920
+        ]
+      ],
+      "dates_start": 1380107920,
+      "dates_end": 1380107920,
+      "likes_avg": 1,
+      "likes_stdev": 0,
+      "comments_avg": 1,
+      "comments_stdev": 0,
+      "shares_avg": 2,
+      "shares_stdev": 0
+    },
+    {
+      "number": 16,
+      "important": [
+        "heineken",
+        "ever",
+        "frohe",
+        "best",
+        "action"
+      ],
+      "common": [
+        "360",
+        "frohe",
+        "frohe weihnachten",
+        "story php story_fbid 695859627180356 substory_index",
+        "story_fbid",
+        "story_fbid 695859627180356",
+        "story_fbid 695859627180356 substory_index",
+        "story_fbid 695859627180356 substory_index id",
+        "story_fbid 695859627180356 substory_index id 508859639213690",
+        "weihnachten"
+      ],
+      "messages": [
+        [
+          "https://m.facebook.com/story.php?story_fbid=695859627180356&substory_index=0&id=508859639213690\n\n360 Falschen - 2 Wochen - viel Durst :) \n\n\ud83c\udf84 FROHE WEIHNACHTEN \ud83c\udf84\nw\u00fcnscht \n\nJugend Sch\u00f6ngrabern",
+          1450261915
+        ],
+        [
+          "Bestes Weihnachtsgeschenk ever \ud83d\udc9c\nWunschlos gl\u00fccklich!  \nFrohe Weihnachten",
+          1419441426
+        ],
+        [
+          "Weihnachtszeit, h\u00f6chste Zeit f\u00fcr ein Heineken :) Frohe Weihnachten aus Australien und Prost",
+          1419402769
+        ]
+      ],
+      "dates_start": 1415163998,
+      "dates_end": 1444240074,
+      "likes_avg": 26,
+      "likes_stdev": 20,
+      "comments_avg": 1,
+      "comments_stdev": 0,
+      "shares_avg": 2,
+      "shares_stdev": 1
+    },
+    {
       "number": 17,
       "important": [
-        "parti",
+        "heineken",
+        "da",
+        "que",
+        "lo",
+        "es",
+        "para",
+        "con",
+        "action"
+      ],
+      "common": [
+        "da",
+        "heineken",
+        "minha sogra bete pinheli machado",
+        "m\u00e1s",
+        "para",
+        "para meu",
+        "para meu marido",
+        "para meu marido que",
+        "para meu marido que ama",
+        "que"
+      ],
+      "messages": [
+        [
+          "Esse \u00e9 o bolo que minha sogra Bete Pinheli Machado fez para meu marido que ama a Heineken! O sonho dele \u00e9 ter um guarda-sol da Heineken!!",
+          1417342769
+        ],
+        [
+          "Tavolino artigianale con bottiglie da 6 cl esclusivamente Heineken...",
+          1408638106
+        ],
+        [
+          "Es lo m\u00e1s!",
+          1378863915
+        ]
+      ],
+      "dates_start": 1385139710,
+      "dates_end": 1418090149,
+      "likes_avg": 14,
+      "likes_stdev": 9,
+      "comments_avg": 1,
+      "comments_stdev": 1,
+      "shares_avg": 2,
+      "shares_stdev": 0
+    },
+    {
+      "number": 18,
+      "important": [
+        "drink",
+        "happi",
+        "foto",
+        "photo",
+        "las",
+        "beer",
+        "best",
+        "see",
+        "great",
+        "action"
+      ],
+      "common": [
+        "10pm",
+        "beer",
+        "happy",
+        "heineken absolutely disgraced",
+        "heineken absolutely disgraced promo",
+        "heineken absolutely disgraced promo events",
+        "hours",
+        "hours todos",
+        "los",
+        "see"
+      ],
+      "messages": [
+        [
+          "happy weekend with greetings from Barcelona the only what is wet here is the Beer and the Sea",
+          1434717430
+        ],
+        [
+          "Happy hours todos los d\u00edas Hasta las 10pm los esperamos",
+          1432313776
+        ],
+        [
+          "Great view :) \n\nThe beer of Course <3",
+          1409942081
+        ],
+        [
+          "Good beer ;)",
+          1401909397
+        ],
+        [
+          "heeft de foto van Elizabeth Wellington gedeeld.\r\n20 minuten geleden\r\nHeineken- you have absolutely DISGRACED yourselves... Of all the promo events you could be doing u choose to promote yourselves at illegal dog fighting arena....I will never drink your beer again and will do my best to ensure all others I see drinking your beer see this photo",
+          1387354320
+        ]
+      ],
+      "dates_start": 1395167489,
+      "dates_end": 1431327311,
+      "likes_avg": 3,
+      "likes_stdev": 4,
+      "comments_avg": 0,
+      "comments_stdev": 1,
+      "shares_avg": 3,
+      "shares_stdev": 3
+    },
+    {
+      "number": 19,
+      "important": [
+        "onli",
+        "heineken",
+        "play",
+        "action",
+        "think",
+        "day",
+        "final",
+        "see",
+        "hope",
+        "cold"
+      ],
+      "common": [
+        "facebook",
+        "fitzroy",
+        "heineken",
+        "kwivuga",
+        "night",
+        "stuntmen",
+        "thanks",
+        "time",
+        "www",
+        "www facebook"
+      ],
+      "messages": [
+        [
+          "Je veux travailler",
+          1487989715
+        ],
+        [
+          "Heineken, I have a dilemma.  Dunedin NZ finally puts on a beautiful day ... hubbies out playing golf.   Dilemma is ... do I risk throwing out his favourite teeshirt of all time while he's out and hope that he doesn't notice??   It's only holding on by a thread and as you can see from the number of times it's been through the washing machine - it's just a shade of what it once was - but still he insists on wearing it!!  Seriously think I should - what do you think lol :)",
+          1485555040
+        ],
+        [
+          "This is how I welcomed Year 2017, Cold Heineken!!",
+          1483804641
+        ],
+        [
+          "\u0e8a\u0eb5\u0ea7\u0eb4\u0e94\u0e84\u0ebd\u0e87\u0e84\u0eb9\u0ec8 \u0e81\u0eb1\u0e9aHeineken",
+          1482922297
+        ],
+        [
+          "Thanks Heineken for making our lapland trip a magical experience! Thanks to you we get to tick something off our bucketlist! Aurora borealis",
+          1456328298
+        ],
+        [
+          "HOPE THIS IS NOT TRUE",
+          1443029888
+        ],
+        [
+          "La mejor",
+          1440454819
+        ],
+        [
+          "Symi - Greece! \ud83d\ude0d",
+          1434107228
+        ],
+        [
+          "NAAR OUDE TYDEN TERUG",
+          1432994298
+        ],
+        [
+          "Viernes 2x5 Modelos m\u00fasica",
+          1432844923
+        ],
+        [
+          "Enjoying a cold one!!",
+          1427157441
+        ],
+        [
+          "Ch\u1ea5t \u0111\u1ee9 \u0111\u1eeb \u0111\u1eeb ;))",
+          1419609839
+        ],
+        [
+          "Ne vogliamo parlare? Stavolta il mitico Kemapi si \u00e8 superato!!!",
+          1419433356
+        ],
+        [
+          "https://www.facebook.com/81970314997/photos/a.10150445488439998.368727.81970314997/10152675513579998/?type=1&relevant_count=1",
+          1418555554
+        ],
+        [
+          "In Holland beim Camping immer dabei <3",
+          1417682162
+        ],
+        [
+          "stomme vraag.......",
+          1417590091
+        ],
+        [
+          "\ud5e4\uc774\ub124\ucf04\uacfc \ud568\uaed8 \ubd88\uae08\uc744",
+          1417170454
+        ],
+        [
+          "Chilling !",
+          1411645454
+        ],
+        [
+          "Mooi h\u00e8",
+          1411211221
+        ],
+        [
+          "#openyourcity",
+          1410964803
+        ],
+        [
+          "Cool......",
+          1410874655
+        ],
+        [
+          "Had a great time DJ'ing last night for everyone at the DC Shorts Film Festival closing party!",
+          1410703568
+        ],
+        [
+          "K\u00eds\u00e9rletek Heinekennel \u00e9s l\u00e9zerrel...",
+          1410599771
+        ],
+        [
+          "\u0e08\u0e31\u0e14\u0e44\u0e1b\u0e40\u0e1a\u0e32\u0e46",
+          1410436007
+        ],
+        [
+          "\u00dd t\u01b0\u1edfng hot \u0111\u00e2y!!!!! (y)",
+          1410101469
+        ],
+        [
+          "Kom hier even wat volle brengen, Heineken.",
+          1409472833
+        ],
+        [
+          "Helden!! # Arnold Wierda Marten Bok",
+          1409336513
+        ],
+        [
+          "<3 <3 <3",
+          1409248196
+        ],
+        [
+          ":3",
+          1409247140
+        ],
+        [
+          "Heineken: I've read in Spanish blogs that you are sponsoring \"Toro de la Vega\", a most vicious and cruel of tortures against a bull. Need a clearer picture of what you are sponsoring? For whatever it's worth, now I know never to buy your bloody bear.",
+          1409182926
+        ],
+        [
+          "Spanish Meme...",
+          1403275196
+        ],
+        [
+          "# Sambaselfie",
+          1402690939
+        ],
+        [
+          "Participa y Gana!!",
+          1402064598
+        ],
+        [
+          "#sambaselfie",
+          1401910181
+        ],
+        [
+          "Gezellige dinsdag toegewenst",
+          1401783983
+        ],
+        [
+          "Buen viaje",
+          1401655012
+        ],
+        [
+          "Houston, we have a poster! Actually, it\u2019s a rocket. Watch it go to space here http://bit.ly/ltp-space  #LegendaryPosters Cover Photos",
+          1397007180
+        ],
+        [
+          "cheers!",
+          1395047677
+        ],
+        [
+          "Refresh the Florida heat,,,",
+          1388507796
+        ],
+        [
+          "The endless Outback, Crocodile Dundee - Australia has made a habit of exporting its \u2018tough man\u2019 image. So it makes sense that Aussies also know a thing or two about the movie industry\u2019s toughest of men: the stuntmen (and women). And as you\u2019d expect with stuntmen as our guides, our night in Sydney was fearless.\n\nFollow us throughout the night on Tumblr http://heinekenheadingoutwith.tumblr.com/\n\n#Sydney #HeadingOutWith #OpenYourWorld Heading out with - AUSSIE STUNTMEN",
+          1388028600
+        ],
+        [
+          "Welcoming back the summer bunnies. THE HOMECOMING PARTY",
+          1387612800
+        ],
+        [
+          "Vrolijk kerstfeest",
+          1387437801
+        ],
+        [
+          "Fitzroy\u2019s bohemian recklessness has faded slightly over the years, giving way to a contagious mix of urban glamour and cutting edge. It\u2019s the place to go to both embrace and escape Melbourne.\n\n#Fitzroy #Melbourne #NeighbourhoodWatch #OpenYourWorld Neighbourhood Watch: Fitzroy",
+          1387238160
+        ],
+        [
+          "Heineken Starclub was introduced for the very first time in Suriname. At Location 759 Lucien Foort & Stiekz-O-Matic and our local dj's Oefmeister, Andy Safado and Jerry Jay gave away a great performance! Heineken debuts Starclub in Suriname",
+          1386424800
+        ],
+        [
+          "Thanks to everyone that attended the KWIVUGA poetry session held Gatto Matto. Kenyan RnB singer Habida was guest performer alongside Ruyonga and other acts. See you at the next Kwivuga! Kwivuga Poetry Session",
+          1386165329
+        ],
+        [
+          "Viva a natureza!!",
+          1380465660
+        ],
+        [
+          "Nh\u01b0 n\u00e0y c\u00f3 g\u1ecdi l\u00e0 cu\u1ed3ng ko?",
+          1380185572
+        ],
+        [
+          "21.09.2013  am Strand in Nizza....",
+          1380024869
+        ],
+        [
+          "OK so if someone could get with me about this matter as this is very disturbing,despite of the mistake,I would say that heineken is guilty by association,and should  make us all believe what you say by showing remorse and donate to the animal welfare associations for this mistake,to combat this exact problem,love to all,and I expect a answer quick as this is a serious problem,love to all xxhttps://www.facebook.com/andre.gerber.125/posts/241021296047291?comment_id=898498&offset=0&total_comments=3&notif_t=share_replyok https://www.facebook.com/andre.gerber.125/posts/241021296047291?comment_id=898498&offset=0&total_com",
+          1379534763
+        ]
+      ],
+      "dates_start": 1386836875,
+      "dates_end": 1441216819,
+      "likes_avg": 34,
+      "likes_stdev": 154,
+      "comments_avg": 1,
+      "comments_stdev": 2,
+      "shares_avg": 4,
+      "shares_stdev": 12
+    },
+    {
+      "number": 20,
+      "important": [
+        "heineken",
+        "action",
+        "parti"
+      ],
+      "common": [
+        "broke",
+        "broke dawn",
+        "broke dawn sunrise",
+        "broke dawn sunrise party",
+        "dawn",
+        "dawn sunrise",
+        "dawn sunrise party",
+        "heineken",
+        "heineken broke",
+        "heineken broke dawn"
+      ],
+      "messages": [
+        [
+          "This is how Heineken broke the dawn.... Sunrise Party",
+          1387750620
+        ]
+      ],
+      "dates_start": 1387750620,
+      "dates_end": 1387750620,
+      "likes_avg": 13,
+      "likes_stdev": 0,
+      "comments_avg": 0,
+      "comments_stdev": 0,
+      "shares_avg": 5,
+      "shares_stdev": 0
+    },
+    {
+      "number": 21,
+      "important": [
+        "heineken",
+        "better",
+        "heineken beer",
+        "beer park",
+        "beer",
+        "like",
+        "action"
+      ],
+      "common": [
+        "beer",
+        "beer park",
+        "beer park sathorn square",
+        "heineken",
+        "heineken beer",
+        "heineken beer park",
+        "park",
+        "sathorn",
+        "sathorn square",
+        "square"
+      ],
+      "messages": [
+        [
+          "\u0e23\u0e27\u0e21\u0e20\u0e32\u0e1e\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e19\u0e38\u0e01\u0e08\u0e32\u0e01\u0e27\u0e07 Better Weather \u0e43\u0e19 Heineken Beer Park \u0e25\u0e32\u0e19\u0e2a\u0e32\u0e17\u0e23\u0e2a\u0e41\u0e04\u0e27\u0e23\u0e4c \u0e44\u0e2b\u0e19\u0e43\u0e04\u0e23\u0e44\u0e1b\u0e2a\u0e19\u0e38\u0e01\u0e01\u0e31\u0e19\u0e43\u0e19\u0e27\u0e31\u0e19\u0e19\u0e31\u0e49\u0e19\u0e21\u0e32\u0e1a\u0e49\u0e32\u0e07 Like \u0e40\u0e25\u0e22\r\n\r\n\u0e41\u0e25\u0e49\u0e27\u0e2d\u0e22\u0e48\u0e32\u0e25\u0e37\u0e21\u0e0a\u0e27\u0e19\u0e04\u0e19\u0e23\u0e39\u0e49\u0e43\u0e08\u0e21\u0e32\u0e23\u0e31\u0e1a\u0e25\u0e21\u0e2b\u0e19\u0e32\u0e27\u0e01\u0e31\u0e19\u0e17\u0e35\u0e48 Heineken Beer Park @Sathorn Square \u0e44\u0e14\u0e49\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49 - 31 \u0e18\u0e31\u0e19\u0e27\u0e32\u0e04\u0e21 Heineken Beer Park @Sathorn Square",
+          1387217460
+        ],
+        [
+          "Heineken Beer Park @Sathorn Square\n3 December\n\u0e20\u0e32\u0e1e\u0e1a\u0e23\u0e23\u0e22\u0e32\u0e01\u0e32\u0e28\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e19\u0e38\u0e01\u0e02\u0e2d\u0e07\u0e41\u0e1f\u0e19\u0e46 Heineken \u0e43\u0e19\u0e04\u0e37\u0e19\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48 3 \u0e18\u0e31\u0e19\u0e27\u0e32\u0e04\u0e21\u0e17\u0e35\u0e48\u0e1c\u0e48\u0e32\u0e19\u0e21\u0e32\u0e01\u0e31\u0e1a\u0e27\u0e07 Mild \u0e43\u0e08\u0e01\u0e25\u0e32\u0e07\u0e01\u0e23\u0e38\u0e07 \u0e17\u0e35\u0e48 Sathorn Square (\u0e2a\u0e32\u0e18\u0e23\u0e43\u0e15\u0e49) \u0e08\u0e30\u0e2a\u0e19\u0e38\u0e01 \u0e08\u0e30\u0e0a\u0e34\u0e25\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19\u0e25\u0e2d\u0e07\u0e14\u0e39\u0e01\u0e31\u0e19!\n\n\u0e41\u0e25\u0e49\u0e27\u0e2d\u0e22\u0e48\u0e32\u0e25\u0e37\u0e21\u0e0a\u0e27\u0e19\u0e04\u0e19\u0e23\u0e39\u0e49\u0e43\u0e08\u0e21\u0e32\u0e23\u0e31\u0e1a\u0e25\u0e21\u0e2b\u0e19\u0e32\u0e27\u0e01\u0e31\u0e19\u0e17\u0e35\u0e48 Heineken Beer Park @Sathorn Square \u0e44\u0e14\u0e49\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49 - 31 \u0e18\u0e31\u0e19\u0e27\u0e32\u0e04\u0e21 Heineken Beer Park @Sathorn Square",
+          1386105240
+        ],
+        [
+          "\u0e20\u0e32\u0e1e\u0e1a\u0e23\u0e23\u0e22\u0e32\u0e01\u0e32\u0e28\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e19\u0e38\u0e01\u0e02\u0e2d\u0e07\u0e41\u0e1f\u0e19\u0e46 Heineken \u0e43\u0e19\u0e04\u0e37\u0e19\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48 25 \u0e1e\u0e24\u0e28\u0e08\u0e34\u0e01\u0e32\u0e22\u0e19\u0e17\u0e35\u0e48\u0e1c\u0e48\u0e32\u0e19\u0e21\u0e32 \u0e01\u0e31\u0e1a\u0e40\u0e08\u0e49\u0e32\u0e1e\u0e48\u0e2d\u0e40\u0e0b\u0e34\u0e23\u0e4c\u0e1f \u0e21\u0e34\u0e27\u0e2a\u0e34\u0e04 \u0e04\u0e19\u0e41\u0e23\u0e01\u0e02\u0e2d\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22 \u0e2a\u0e34\u0e07\u0e42\u0e15 \u0e19\u0e33\u0e42\u0e0a\u0e04 \u0e13 Heineken Beer Park \u0e43\u0e08\u0e01\u0e25\u0e32\u0e07\u0e01\u0e23\u0e38\u0e07 \u0e17\u0e35\u0e48 Esplanade \u0e23\u0e31\u0e0a\u0e14\u0e32 Heineken Beer Park @Esplanade \u0e23\u0e31\u0e0a\u0e14\u0e32",
+          1385396460
+        ]
+      ],
+      "dates_start": 1385490242,
+      "dates_end": 1386989197,
+      "likes_avg": 37,
+      "likes_stdev": 19,
+      "comments_avg": 2,
+      "comments_stdev": 1,
+      "shares_avg": 6,
+      "shares_stdev": 3
+    },
+    {
+      "number": 22,
+      "important": [
+        "heineken",
         "deck parti",
         "deck",
         "deck sensat",
-        "action",
         "unlock heineken",
-        "heineken"
+        "parti",
+        "action"
       ],
       "common": [
         "deck",
@@ -753,7 +1206,7 @@
         "party",
         "platinum",
         "platinum deck",
-        "platinum deck party"
+        "unlock"
       ],
       "messages": [
         [
@@ -765,48 +1218,383 @@
           1387166400
         ],
         [
-          "\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e19\u0e38\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07\u0e17\u0e35\u0e48\u0e41\u0e25\u0e49\u0e27\u0e22\u0e31\u0e07\u0e44\u0e21\u0e48\u0e17\u0e31\u0e19\u0e08\u0e32\u0e07 Heineken \u0e44\u0e14\u0e49\u0e19\u0e33\u0e04\u0e27\u0e32\u0e21\u0e21\u0e31\u0e19\u0e2a\u0e4c\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e2d\u0e35\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07 \u0e1e\u0e23\u0e49\u0e2d\u0e21 Heineken Platinum Deck \u0e42\u0e0b\u0e19\u0e17\u0e35\u0e48\u0e40\u0e2d\u0e47\u0e01\u0e0b\u0e4c\u0e04\u0e25\u0e39\u0e0b\u0e35\u0e1f\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e43\u0e19\u0e07\u0e32\u0e19 Sensation \u0e21\u0e32\u0e23\u0e48\u0e27\u0e21\u0e04\u0e27\u0e49\u0e32\u0e1a\u0e31\u0e15\u0e23 Heineken Platinum Deck \u0e01\u0e31\u0e19\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48 Fabrique \u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48 \u0e43\u0e19\u0e04\u0e37\u0e19\u0e28\u0e38\u0e01\u0e23\u0e4c 20 \u0e19\u0e35\u0e49 UNLOCK THE HEINEKEN PLATINUM DECK PARTY @ROUTE66 ON DEC.13(PART1)",
-          1386986519
-        ],
-        [
           "\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e1e\u0e34\u0e40\u0e28\u0e29\u0e41\u0e25\u0e30\u0e04\u0e27\u0e32\u0e21\u0e21\u0e31\u0e19\u0e2a\u0e4c\u0e41\u0e1a\u0e1a\u0e19\u0e35\u0e49\u0e22\u0e31\u0e07\u0e44\u0e21\u0e48\u0e2b\u0e21\u0e14 \u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e15\u0e34\u0e14\u0e15\u0e32\u0e21\u0e15\u0e48\u0e2d\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48 Route66 \u0e43\u0e19\u0e04\u0e37\u0e19\u0e28\u0e38\u0e01\u0e23\u0e4c 13 \u0e19\u0e35\u0e49 \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e1a\u0e31\u0e15\u0e23 Heineken Platinum Deck \u0e1a\u0e31\u0e15\u0e23\u0e17\u0e35\u0e48\u0e08\u0e30\u0e1e\u0e32\u0e04\u0e38\u0e13\u0e44\u0e1b\u0e2a\u0e39\u0e48\u0e42\u0e0b\u0e19\u0e2a\u0e38\u0e14\u0e40\u0e2d\u0e47\u0e01\u0e0b\u0e4c\u0e04\u0e25\u0e39\u0e0b\u0e35\u0e1f\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e43\u0e19\u0e07\u0e32\u0e19 Sensation \u0e41\u0e25\u0e49\u0e27\u0e04\u0e38\u0e13\u0e08\u0e30\u0e44\u0e21\u0e48\u0e1e\u0e25\u0e32\u0e14\u0e1b\u0e32\u0e23\u0e4c\u0e15\u0e35\u0e49\u0e2d\u0e35\u0e40\u0e27\u0e49\u0e19\u0e17\u0e4c\u0e41\u0e2b\u0e48\u0e07\u0e1b\u0e35\u0e2d\u0e35\u0e01\u0e15\u0e48\u0e2d\u0e44\u0e1b #HeiSensation UNLOCK THE HEINEKEN PLATINUM DECK PARTY @ DEMO on DEC 4",
           1386302400
         ]
       ],
-      "dates_start": 1386547771,
-      "dates_end": 1387469187,
-      "likes_avg": 23,
-      "likes_stdev": 4,
+      "dates_start": 1386484021,
+      "dates_end": 1387547578,
+      "likes_avg": 24,
+      "likes_stdev": 5,
       "comments_avg": 1,
-      "comments_stdev": 1,
-      "shares_avg": 6,
+      "comments_stdev": 0,
+      "shares_avg": 7,
       "shares_stdev": 5
     },
     {
-      "number": 18,
+      "number": 23,
       "important": [
-        "see",
-        "legendari poster",
-        "go",
-        "one",
-        "la",
-        "watch",
-        "legendari",
-        "poster",
-        "action",
-        "space"
+        "heineken",
+        "action"
       ],
       "common": [
-        "com",
-        "http",
-        "http www",
-        "http www thelegendaryposters",
-        "http www thelegendaryposters com",
+        "2m5",
+        "bia",
+        "bia heineken",
+        "c\u00e2y",
+        "c\u00e2y th\u00f4ng",
+        "heineken",
+        "th\u00f4ng",
+        "v\u1ecf chai bia heineken",
+        "v\u1ecf chai bia heineken chi\u1ec1u",
+        "\u0111\u1ee9c"
+      ],
+      "messages": [
+        [
+          "BOYCOTT HEINEKEN! \nThey SUPPORT Dog Fighting!!! :'(",
+          1447866750
+        ],
+        [
+          "#Spectre #OpenBondsWorld Heineken | The Chase",
+          1443016260
+        ],
+        [
+          "\u03a7\u03bf\u03c1\u03b7\u03b3\u03bf\u03c2 \u03c3\u03c4\u03b9\u03c2 \u03ba\u03c5\u03bd\u03bf\u03bc\u03b1\u03c7\u03b9\u03b5\u03c2 \u03b7 HEINEKEN!!!!! \u03c0\u03bb\u03b7\u03c1\u03c9\u03bd\u03bf\u03c5\u03bc\u03b5 \u03c4\u03bf \u03b2\u03b1\u03c3\u03b1\u03bd\u03b9\u03c3\u03bc\u03bf \u03b1\u03b8\u03c9\u03c9\u03bd \u03c8\u03c5\u03c7\u03c9\u03bd \u03ba\u03b1\u03b8\u03b5 \u03c6\u03bf\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03c0\u03b1\u03c1\u03b1\u03b3\u03b3\u03b5\u03bb\u03bd\u03bf\u03c5\u03bc\u03b5 \u03bc\u03b9\u03b1 \u03c4\u03b5\u03c4\u03bf\u03b9\u03b1 \u03bc\u03c0\u03c5\u03c1\u03b1 \n\u039d\u03a4\u03a1\u039f\u03a0\u0397 \u03a4\u039f\u03a5\u03a3!!!!",
+          1442660966
+        ],
+        [
+          "Heineken \u00ae",
+          1440527861
+        ],
+        [
+          "All this power by Heineken",
+          1435378222
+        ],
+        [
+          "Liebes Heineken Team - was sagt ihr dazu?",
+          1435327859
+        ],
+        [
+          "Heineken @Railay Beach",
+          1425204635
+        ],
+        [
+          "Heineken a melhor",
+          1424230690
+        ],
+        [
+          "C\u00e2y th\u00f4ng bia Heineken t\u1ea1i Gi\u00e1o X\u1ee9 T\u1eeb \u0110\u1ee9c h\u1ea1t Th\u1ee7 \u0110\u1ee9c - Tp HCM \u0111\u01b0\u1ee3c t\u1ea1o th\u00e0nh h\u01a1n 500 v\u1ecf chai bia heineken, chi\u1ec1u cao c\u00e2y th\u00f4ng g\u1ea7n 2m5 do m\u1ecdi ng\u01b0\u1eddi trong x\u00f3m c\u00f9ng nhau ch\u1ebf t\u00e1c...",
+          1419058268
+        ],
+        [
+          "This relaxing moment is brought to me by Heineken",
+          1418518243
+        ],
+        [
+          "Heineken",
+          1417876102
+        ],
+        [
+          "#openyourskin #heineken",
+          1408622589
+        ],
+        [
+          "Heineken pitchet WM",
+          1403371920
+        ]
+      ],
+      "dates_start": 1414300294,
+      "dates_end": 1441339761,
+      "likes_avg": 9,
+      "likes_stdev": 13,
+      "comments_avg": 2,
+      "comments_stdev": 4,
+      "shares_avg": 8,
+      "shares_stdev": 16
+    },
+    {
+      "number": 24,
+      "important": [
+        "real",
+        "heineken",
+        "question",
+        "champion",
+        "adventur",
+        "sharethesofa",
+        "champion leagu",
+        "dure",
+        "follow",
+        "action"
+      ],
+      "common": [
+        "fernando",
+        "fernando morientes",
+        "follow",
+        "heineken",
+        "league",
+        "morientes",
+        "questions",
+        "ruud",
+        "sharethesofa",
+        "twitter"
+      ],
+      "messages": [
+        [
+          "\u2018Thanks for all the questions tonight\u2019 \u2013 Fernando Morientes.  Follow @Heineken and #ShareTheSofa during Champions League action next time. #ShareTheSofa on December 10th with Owen Hargreaves",
+          1385585289
+        ],
+        [
+          "Fernando Morientes is waiting for your questions.  Join him LIVE on Twitter November 27th, 20:30 CET during the Champions League match-up: Real Madrid v Galatasaray. \n\nFollow @Heineken and send your questions using #Sharethesofa to get an answer from the Spanish legend. Heineken | #ShareTheSofa with Fernando Morientes",
+          1385578110
+        ],
+        [
+          "And we\u2019re live! Ruud is on the sofa and waiting for your tweets. Follow us on http://www.twitter.com/heineken and tweet with a champion.  #ShareTheSofa #ShareTheSofa with Ruud Gullit",
+          1379523470
+        ]
+      ],
+      "dates_start": 1380706411,
+      "dates_end": 1386418167,
+      "likes_avg": 1233,
+      "likes_stdev": 405,
+      "comments_avg": 15,
+      "comments_stdev": 7,
+      "shares_avg": 53,
+      "shares_stdev": 15
+    },
+    {
+      "number": 25,
+      "important": [
+        "heineken",
+        "make",
+        "impress",
+        "photo",
+        "openyourworld",
+        "check",
+        "travel",
+        "timelin",
+        "follow",
+        "action"
+      ],
+      "common": [
+        "bass",
+        "heineken",
+        "openyourworld",
+        "posledn\u00ed",
+        "postup fin\u00e1le kdo v\u00e1s",
+        "postup fin\u00e1le kdo v\u00e1s pojede",
+        "pottse",
+        "right",
+        "travel",
+        "vstupenky"
+      ],
+      "messages": [
+        [
+          "Ani letos nebude Heineken chyb\u011bt na Designbloku! Heineken zde p\u0159edstav\u00ed svou unik\u00e1tn\u00ed Secret expozici, ve kter\u00e9 budete moci zmizet i vy a to doslova. Napi\u0161te n\u00e1m do koment\u00e1\u0159e jm\u00e9na obou designer\u016f na\u0161\u00ed expozice a vyhrajte dvakr\u00e1t celot\u00fddenn\u00ed vstupy pro dv\u011b osoby.\nL\u00edstky vyhraje prvn\u00ed a posledn\u00ed spr\u00e1vn\u00e1 odpov\u011b\u010f. Sout\u011b\u017e\u00edme do 21. 10. 2015 do 14 hodin!\nKompletn\u00ed pravidla sout\u011b\u017ee:  bit.ly/Designblok_soutez Timeline Photos",
+          1445262000
+        ],
+        [
+          "Posledn\u00ed \u010dty\u0159i t\u00fdmy dnes a z\u00edtra bojuj\u00ed o postup do fin\u00e1le. Kdo z v\u00e1s pojede do Berl\u00edna? #ChampionTheMatch Timeline Photos",
+          1431427933
+        ],
+        [
+          "With the pop-up bass, you'll get more than just music... \n\nhttp://leibal.com/products/popup-bass/\n\n#Popupbass #DanielaMata #OpenYourWorld Timeline Photos",
+          1401706789
+        ],
+        [
+          "Wherever you travel, make sure you pack the right impression.\n\nFollow our theories on http://heinekenthursdaytheories.tumblr.com/\n\n#Travel  #ThursdayTheories #OpenYourWorld Timeline Photos",
+          1400151609
+        ],
+        [
+          "Check out the Dutch celebrations at the Holland Heineken House #HHH2014 Timeline Photos",
+          1392814801
+        ],
+        [
+          "This legend can slide bottles right into the hands of parched females from up to 100 meters away. See for yourself. http://youtu.be/ZFiup2LIcSQ Timeline Photos",
+          1391605211
+        ],
+        [
+          "Plesov\u00e1 sezona je v pln\u00e9m proudu. Poj\u010fme si zatan\u010dit! Pokud si ale rad\u011bji u\u017e\u00edv\u00e1te kulturu z pohodl\u00ed sedadla, doporu\u010dujeme biografii Paula Pottse pod n\u00e1zvem One Chance. \u010clov\u011bk, kter\u00fd uk\u00e1zal odvahu a odhalil co v n\u011bm je! P\u0159edstaven\u00ed m\u00e1 premi\u00e9ru 8.2.2014. Zakupte si sv\u00e9 vstupenky v\u010das na http://plesvopere.cz/vstupenky.php Timeline Photos",
+          1390579201
+        ]
+      ],
+      "dates_start": 1387505416,
+      "dates_end": 1427793882,
+      "likes_avg": 1335,
+      "likes_stdev": 1341,
+      "comments_avg": 17,
+      "comments_stdev": 14,
+      "shares_avg": 57,
+      "shares_stdev": 63
+    },
+    {
+      "number": 26,
+      "important": [
+        "heineken",
+        "watch",
+        "champion",
+        "sharethesofa",
+        "bottl",
+        "champion leagu",
+        "like",
+        "uefa",
+        "action"
+      ],
+      "common": [
+        "champions",
+        "champions league",
+        "league",
+        "sharethesofa",
+        "sharethesofa sharethesofa uefa champions league",
+        "sharethesofa uefa",
+        "uefa",
+        "uefa champions",
+        "uefa champions league",
+        "watch"
+      ],
+      "messages": [
+        [
+          "Liking the Champions League bottle! !!",
+          1433093377
+        ],
+        [
+          "UEFA Champions League somente com Heineken",
+          1426768352
+        ],
+        [
+          "Want to watch the Champions League with a champion? Then watch this. \n\n#ShareTheSofa #ShareTheSofa for the UEFA Champions League",
+          1392718224
+        ]
+      ],
+      "dates_start": 1399795416,
+      "dates_end": 1435257885,
+      "likes_avg": 618,
+      "likes_stdev": 871,
+      "comments_avg": 14,
+      "comments_stdev": 19,
+      "shares_avg": 92,
+      "shares_stdev": 129
+    },
+    {
+      "number": 27,
+      "important": [
+        "citi",
+        "check video",
+        "peopl",
+        "andi",
+        "openyourworld",
+        "check",
+        "use",
+        "video",
+        "watch",
+        "action"
+      ],
+      "common": [
+        "heinekenpeopleworthwatching",
+        "heinekenpeopleworthwatching tumblr",
+        "openyourworld",
+        "openyourworld people",
+        "openyourworld people worth",
+        "openyourworld people worth watching",
+        "people worth",
+        "videos",
+        "videos heinekenpeopleworthwatching",
+        "videos heinekenpeopleworthwatching tumblr"
+      ],
+      "messages": [
+        [
+          "In the middle of Europe\u2019s most expensive city, Andy Robertson found a space for his art that everyone else had overlooked.\n\nCheck out our other videos http://heinekenpeopleworthwatching.tumblr.com/ \n\n#London #AndyRobertson #PeopleWorthWatching #OpenYourWorld People Worth Watching #9: The Beach Ranger",
+          1403262001
+        ],
+        [
+          "If you\u2019re using a guide book, you\u2019re already lost. Instead follow Ralph van der Zijden, Belgrade\u2019s Nightlife Professor.\n\nCheck out our other videos http://heinekenpeopleworthwatching.tumblr.com/ \n\n#Belgrade #RalphvanderZijden #PeopleWorthWatching #OpenYourWorld People Worth Watching #8: The Nightlife Professor",
+          1400238000
+        ],
+        [
+          "By day, Geoff Hargadon is a senior adviser at a major bank. By night, he\u2019s something rather more subversive.\n\nCheck out our other videos http://heinekenpeopleworthwatching.tumblr.com/ \n\n#Boston #GeoffHargadon #PeopleWorthWatching #OpenYourWorld People Worth Watching #7: The Artist With a Day Job",
+          1388408400
+        ],
+        [
+          "Every club has its disc jockey, but how many have an aroma jockey? Andy Versteeg uses sweet smells to elevate the experience. \n\nCheck out our other videos http://heinekenpeopleworthwatching.tumblr.com/ \n\n#PlayadelCarmen #AndyVersteeg #PeopleWorthWatching #OpenYourWorld People Worth Watching #6: The Aroma Jockey",
+          1386594000
+        ]
+      ],
+      "dates_start": 1387392920,
+      "dates_end": 1401858280,
+      "likes_avg": 1221,
+      "likes_stdev": 239,
+      "comments_avg": 48,
+      "comments_stdev": 19,
+      "shares_avg": 104,
+      "shares_stdev": 30
+    },
+    {
+      "number": 28,
+      "important": [
+        "real",
+        "watch episod",
+        "drop philippin",
+        "episod",
+        "one",
+        "drop",
+        "watch",
+        "action"
+      ],
+      "common": [
+        "dropped",
+        "dropped philippines",
+        "heinekendropped",
+        "heinekendropped dropped",
+        "philippines",
+        "watch",
+        "www",
+        "www youtube",
+        "www youtube heinekendropped",
+        "www youtube heinekendropped dropped philippines"
+      ],
+      "messages": [
+        [
+          "There's a real spark between these two, but they still can't figure out how to start a fire.\n\nWatch other episodes here:\nhttp://www.youtube.com/heinekendropped DROPPED | Philippines 2 | Handcuffed",
+          1379674801
+        ],
+        [
+          "We #dropped Murray and Jakub on a tropical island, but there\u2019s one stainless steel catch. \n\nWatch the rest of the journey\nhere: http://www.youtube.com/heinekendropped DROPPED | Philippines 1 | Hell in Paradise",
+          1379070001
+        ]
+      ],
+      "dates_start": 1379070001,
+      "dates_end": 1379674801,
+      "likes_avg": 1738,
+      "likes_stdev": 246,
+      "comments_avg": 34,
+      "comments_stdev": 3,
+      "shares_avg": 163,
+      "shares_stdev": 21
+    },
+    {
+      "number": 29,
+      "important": [
+        "legendari",
+        "poster",
+        "oh",
+        "legendari poster",
+        "one",
+        "go",
+        "see",
+        "space",
+        "watch",
+        "action"
+      ],
+      "common": [
+        "actress",
         "legendary",
         "legendary posters",
+        "legendary posters www",
+        "legendary posters www thelegendaryposters",
+        "legendary posters www thelegendaryposters legendary",
         "posters",
         "thelegendaryposters",
-        "thelegendaryposters com"
+        "www",
+        "www thelegendaryposters"
       ],
       "messages": [
         [
@@ -836,698 +1624,18 @@
       "shares_stdev": 41
     },
     {
-      "number": 19,
-      "important": [
-        "heineken beer",
-        "year",
-        "happi",
-        "today",
-        "action",
-        "oh",
-        "way",
-        "love",
-        "heineken",
-        "think"
-      ],
-      "common": [
-        "birthday",
-        "c\u00e1c",
-        "heineken",
-        "h\u1ed9i",
-        "love",
-        "love heineken",
-        "l\u1ec5",
-        "l\u1ec5 h\u1ed9i",
-        "oh heineken",
-        "\u0111\u00eam"
-      ],
-      "messages": [
-        [
-          "4 years today with my baby! Oh Heineken I love you! Your glistening smile, the mesmerizing way you look at me and the dazzling spark of your taste <3. The smoothness of your sides, and the happiness you portray to I.... Oh Heineken, I think I'm in love with you.",
-          1487537470
-        ],
-        [
-          "I love Heineken beer-------",
-          1417512670
-        ],
-        [
-          "A birthday cake for the birthday boy who loved his drink....n recently turned 50.",
-          1410724778
-        ],
-        [
-          "C\u00e1c b\u1ea1n \u0111\u00e3 chu\u1ea9n b\u1ecb cho \u0111\u00eam l\u1ec5 h\u1ed9i Heineken 140 n\u0103m ch\u01b0a, c\u00e1c b\u1ea1n chu\u1ea9n b\u1ecb tinh th\u1ea7n cho \u0111\u00eam 30 v\u00e0 31/12 t\u1ea1i TPHCM n\u00e0y nh\u00e9, m\u00ecnh v\u1eeba \u0111i xem bu\u1ed5i di\u1ec5n t\u1eadp v\u1ec1, s\u1ebd l\u00e0 \u0111\u00eam c\u1ee7a l\u1ec5 h\u1ed9i th\u1eadt ho\u00e0nh tr\u00e1ng v\u00e0 cu\u1ed3ng nhi\u1ec7t c\u00f9ng c\u00e1c DJ, c\u00e1c ti\u1ebft m\u1ee5c xi\u1ebfc \u0111\u1ed9c \u0111\u00e1o c\u00f9ng \u0111\u00e8n laser tr\u00ean n\u1ec1n nh\u1ea1c n\u01b0\u1edbc th\u1eadt s\u1ed1ng \u0111\u1ed9ng \u0111\u1ea5y.......i love Heineken :)",
-          1356709885
-        ]
-      ],
-      "dates_start": 1371631832,
-      "dates_end": 1464610569,
-      "likes_avg": 3,
-      "likes_stdev": 2,
-      "comments_avg": 0,
-      "comments_stdev": 0,
-      "shares_avg": 1,
-      "shares_stdev": 0
-    },
-    {
-      "number": 20,
-      "important": [
-        "year",
-        "magic",
-        "dont",
-        "day",
-        "heineken",
-        "right",
-        "world",
-        "onli",
-        "action"
-      ],
-      "common": [
-        "days",
-        "days miss",
-        "days miss http",
-        "days miss http bit",
-        "heineken",
-        "http",
-        "magic",
-        "magic heineken",
-        "miss http",
-        "miss http bit"
-      ],
-      "messages": [
-        [
-          "'The Magic of Heineken' Documentary is now on Hulu for 30 days only. Don't miss it. http://bit.ly/1scxHKV",
-          1409324694
-        ],
-        [
-          "'The Magic of Heineken' Documentary is now on Hulu for 30 days only.  Don't miss it.  http://bit.ly/1scxHKV     The Magic of Heineken Take a captivating ride through the 150 year history of the world's largest family controlled brewer.",
-          1409250030
-        ],
-        [
-          "days work tatted on my right sholder!",
-          1378834322
-        ],
-        [
-          "My day off - Quality!",
-          1371244216
-        ]
-      ],
-      "dates_start": 1374830258,
-      "dates_end": 1409496372,
-      "likes_avg": 2,
-      "likes_stdev": 1,
-      "comments_avg": 0,
-      "comments_stdev": 0,
-      "shares_avg": 1,
-      "shares_stdev": 0
-    },
-    {
-      "number": 21,
-      "important": [
-        "summer",
-        "enjoy",
-        "year",
-        "cold",
-        "one",
-        "anoth",
-        "need",
-        "action",
-        "heineken",
-        "welcom"
-      ],
-      "common": [
-        "2017",
-        "cold",
-        "cold one",
-        "need another cold one",
-        "one",
-        "party",
-        "summer",
-        "summer bunnies",
-        "summer bunnies homecoming",
-        "summer bunnies homecoming party"
-      ],
-      "messages": [
-        [
-          "This is how I welcomed Year 2017, Cold Heineken!!",
-          1483804641
-        ],
-        [
-          "I need another cold ONE...",
-          1447182814
-        ],
-        [
-          "Enjoying a cold one!!",
-          1427157441
-        ],
-        [
-          "Welcoming back the summer bunnies. THE HOMECOMING PARTY",
-          1387612800
-        ]
-      ],
-      "dates_start": 1401693637,
-      "dates_end": 1471185210,
-      "likes_avg": 8,
-      "likes_stdev": 10,
-      "comments_avg": 0,
-      "comments_stdev": 0,
-      "shares_avg": 1,
-      "shares_stdev": 0
-    },
-    {
-      "number": 22,
-      "important": [
-        "al",
-        "sound",
-        "action",
-        "heineken",
-        "de"
-      ],
-      "common": [
-        "2013",
-        "25",
-        "de",
-        "essa",
-        "pe\u00e7a uma cria\u00e7\u00e3o oficial de",
-        "plaza",
-        "plaza pueyrredon",
-        "plaza pueyrredon santa",
-        "plaza pueyrredon santa fe",
-        "plaza pueyrredon santa fe argentina"
-      ],
-      "messages": [
-        [
-          "Nossa \u00e1rvore de Natal... ;)",
-          1417011184
-        ],
-        [
-          "De hele wereld al gezien, behalve Amsterdam.",
-          1409855393
-        ],
-        [
-          "22, 23, 25 y 25 de mayo de 2013 PRIMAVERA SOUND 2013 by HEINEKEN",
-          1369209600
-        ],
-        [
-          "Pessoal, essa pe\u00e7a \u00e9 uma cria\u00e7\u00e3o oficial de vcs? Quero usar em sala de aula, turma de publicidade, e queria ter essa confirma\u00e7\u00e3o.\r\n\r\nAbs!!!",
-          1363965150
-        ],
-        [
-          "FESTEJOS DE SAN PATRICIO 2013\r\nPLAZA PUEYRREDON \r\nSANTA FE-ARGENTINA",
-          1363786707
-        ]
-      ],
-      "dates_start": 1361168839,
-      "dates_end": 1408362374,
-      "likes_avg": 8,
-      "likes_stdev": 8,
-      "comments_avg": 2,
-      "comments_stdev": 1,
-      "shares_avg": 2,
-      "shares_stdev": 1
-    },
-    {
-      "number": 23,
-      "important": [
-        "dan",
-        "heerlijk",
-        "voor",
-        "maar",
-        "met",
-        "je",
-        "en",
-        "tot",
-        "action",
-        "het"
-      ],
-      "common": [
-        "dan",
-        "heineken",
-        "je",
-        "je smartphone",
-        "maar",
-        "met case marine",
-        "naam",
-        "nooit",
-        "smartphone",
-        "van"
-      ],
-      "messages": [
-        [
-          "Je veux travailler",
-          1487989715
-        ],
-        [
-          "dan maar zo......",
-          1427445229
-        ],
-        [
-          "tis maar hoe je het opvat........#heineken",
-          1408510776
-        ],
-        [
-          "Stel je voor je smartphone en een heerlijk koud biertje.\r\nVast geen goed combinatie.\r\n\r\nTot nu! Je smartphone 100% biervast!\r\n\r\nNooit meer waterschade met Case Marine!",
-          1348829144
-        ],
-        [
-          "Daar sta je dan. Klam van kilte. Ik ga van je genieten, hier in stilte. 2 vrije dagen. Ze komen er aan. Heineken, dat is je naam.",
-          1340374211
-        ]
-      ],
-      "dates_start": 1348395185,
-      "dates_end": 1456864444,
-      "likes_avg": 2,
-      "likes_stdev": 1,
-      "comments_avg": 0,
-      "comments_stdev": 0,
-      "shares_avg": 2,
-      "shares_stdev": 1
-    },
-    {
-      "number": 24,
-      "important": [
-        "una",
-        "es",
-        "al",
-        "el",
-        "que",
-        "festiv",
-        "en",
-        "de la",
-        "la",
-        "de"
-      ],
-      "common": [
-        "de",
-        "de la",
-        "de la huerta",
-        "el",
-        "en",
-        "final",
-        "heineken_es",
-        "huerta",
-        "la",
-        "la huerta"
-      ],
-      "messages": [
-        [
-          ".@Heineken_ES: no se\u00e1is c\u00f3mplices de la destrucci\u00f3n de la huerta valenciana, NO al Festival Marenostrum en Alboraia  .@MiChavarria, @Heineken_ES: Paralicen el proyecto de macrofestival sobre la huerta y playa dels... La partida del Miracle de Alboraia es una de las zonas de la huerta de Valencia con mayor valor\u00a0ambiental y paisaj\u00edstico . Uno de los pocos espacios en la provincia en el que la huerta se abre a una\u00a0playa sin urbanizar. Por eso, el proyecto de Plan de Acci\u00f3n Territorial de la Huerta de Valencia\u00a0(PAT...",
-          1467808168
-        ],
-        [
-          "La mejor",
-          1440454819
-        ],
-        [
-          "El. Rap de. La champion. League. By. Wcion Graff Mann",
-          1425953206
-        ],
-        [
-          "El pen\u00fatimo de nuestros ganadores haciendo lo suyo para conseguir esas entradas al screening de la final Road To the final 3ra fecha: Chili's \u00d3valo Monitor",
-          1368901500
-        ],
-        [
-          "Nuestra segunda ganadora encontr\u00f3 sus entradas VIP para el screening de la final Road To the Final 2da Fecha: Art Deco",
-          1368901320
-        ]
-      ],
-      "dates_start": 1374894295,
-      "dates_end": 1453913310,
-      "likes_avg": 7,
-      "likes_stdev": 5,
-      "comments_avg": 0,
-      "comments_stdev": 1,
-      "shares_avg": 5,
-      "shares_stdev": 5
-    },
-    {
-      "number": 25,
-      "important": [
-        "openyourworld",
-        "video",
-        "use",
-        "citi",
-        "andi",
-        "check",
-        "check video",
-        "action",
-        "watch",
-        "peopl"
-      ],
-      "common": [
-        "heinekenpeopleworthwatching",
-        "heinekenpeopleworthwatching tumblr com",
-        "openyourworld",
-        "openyourworld people",
-        "openyourworld people worth",
-        "openyourworld people worth watching",
-        "videos http heinekenpeopleworthwatching",
-        "videos http heinekenpeopleworthwatching tumblr",
-        "videos http heinekenpeopleworthwatching tumblr com",
-        "watching"
-      ],
-      "messages": [
-        [
-          "In the middle of Europe\u2019s most expensive city, Andy Robertson found a space for his art that everyone else had overlooked.\n\nCheck out our other videos http://heinekenpeopleworthwatching.tumblr.com/ \n\n#London #AndyRobertson #PeopleWorthWatching #OpenYourWorld People Worth Watching #9: The Beach Ranger",
-          1403262001
-        ],
-        [
-          "If you\u2019re using a guide book, you\u2019re already lost. Instead follow Ralph van der Zijden, Belgrade\u2019s Nightlife Professor.\n\nCheck out our other videos http://heinekenpeopleworthwatching.tumblr.com/ \n\n#Belgrade #RalphvanderZijden #PeopleWorthWatching #OpenYourWorld People Worth Watching #8: The Nightlife Professor",
-          1400238000
-        ],
-        [
-          "By day, Geoff Hargadon is a senior adviser at a major bank. By night, he\u2019s something rather more subversive.\n\nCheck out our other videos http://heinekenpeopleworthwatching.tumblr.com/ \n\n#Boston #GeoffHargadon #PeopleWorthWatching #OpenYourWorld People Worth Watching #7: The Artist With a Day Job",
-          1388408400
-        ],
-        [
-          "Every club has its disc jockey, but how many have an aroma jockey? Andy Versteeg uses sweet smells to elevate the experience. \n\nCheck out our other videos http://heinekenpeopleworthwatching.tumblr.com/ \n\n#PlayadelCarmen #AndyVersteeg #PeopleWorthWatching #OpenYourWorld People Worth Watching #6: The Aroma Jockey",
-          1386594000
-        ],
-        [
-          "Every year, Borris Forster organises a unique race. The winner isn\u2019t the fastest - it\u2019s whoever experiences the most along the way\u2026\n\nCheck out our other videos http://heinekenpeopleworthwatching.tumblr.com/ \n\n#Romania #BorrisForster #PeopleWorthWatching #OpenYourWorld People Worth Watching #5: The Slow Racer",
-          1385989200
-        ]
-      ],
-      "dates_start": 1385564609,
-      "dates_end": 1400232030,
-      "likes_avg": 1364,
-      "likes_stdev": 356,
-      "comments_avg": 54,
-      "comments_stdev": 21,
-      "shares_avg": 129,
-      "shares_stdev": 56
-    },
-    {
-      "number": 26,
-      "important": [
-        "film",
-        "one",
-        "odyssey",
-        "legend",
-        "watch",
-        "real",
-        "see",
-        "action",
-        "latest",
-        "adventur"
-      ],
-      "common": [
-        "action",
-        "film",
-        "http",
-        "http youtu",
-        "http youtu zfiup2licsq",
-        "legends",
-        "odyssey",
-        "real",
-        "see",
-        "zfiup2licsq"
-      ],
-      "messages": [
-        [
-          "Sometimes the most impressive talents are the ones you least expect. See all the legends in action http://youtu.be/ZFiup2LIcSQ The Odyssey - Tap Dancer",
-          1392901200
-        ],
-        [
-          "You\u2019ll be raising your eyebrows in disbelief when you watch this legend in action. See all the legends in action http://youtu.be/ZFiup2LIcSQ The Odyssey - Eyebrow Raiser",
-          1392634800
-        ],
-        [
-          "We\u2019ve noticed some people are questioning the authenticity of our latest film thinking that what they are seeing isn\u2019t real. Here\u2019s the real story. No tricks, no fakes \u2013 100% real. Heineken Response on The Odyssey film authenticity",
-          1391778000
-        ],
-        [
-          "This legend can slide bottles right into the hands of parched females from up to 100 meters away. See for yourself. http://youtu.be/ZFiup2LIcSQ Timeline Photos",
-          1391605211
-        ],
-        [
-          "Whether you\u2019re a professional footballer, or an expert eyebrow lifter \u2013 everyone is legendary at something. Can you spot all the legends in our latest film? The Odyssey Film",
-          1391079600
-        ]
-      ],
-      "dates_start": 1391326351,
-      "dates_end": 1392673173,
-      "likes_avg": 2769,
-      "likes_stdev": 1344,
-      "comments_avg": 85,
-      "comments_stdev": 64,
-      "shares_avg": 774,
-      "shares_stdev": 784
-    },
-    {
-      "number": 27,
-      "important": [
-        "para",
-        "com",
-        "que",
-        "heineken",
-        "action",
-        "da",
-        "de",
-        "con"
-      ],
-      "common": [
-        "bem",
-        "com",
-        "da",
-        "da heineken",
-        "de",
-        "de natal",
-        "fins",
-        "heineken",
-        "minha",
-        "que"
-      ],
-      "messages": [
-        [
-          "Preciso de ajuda da Heineken pra plotar minha geladeira e que ela me venda as banquetas personalizadas pra tornar minha area de lazer top!!!!!!!",
-          1419376697
-        ],
-        [
-          "\u00c1rvore de Natal da fam\u00edlia Nogueira \u00c1vila! \nHeineken, t\u00f4 esperando aquele caminh\u00e3o carregado de Natal, hein? #heineken #amoheineken #arvoredeheineken #sustentabilidade",
-          1417553381
-        ],
-        [
-          "Esse \u00e9 o bolo que minha sogra Bete Pinheli Machado fez para meu marido que ama a Heineken! O sonho dele \u00e9 ter um guarda-sol da Heineken!!",
-          1417342769
-        ],
-        [
-          "Tavolino artigianale con bottiglie da 6 cl esclusivamente Heineken...",
-          1408638106
-        ],
-        [
-          "Trabalho de disciplina de Fotografia Publicit\u00e1ria de alunos de Publicidade e Propaganda da UEMG-Frutal. Sem fins comerciais ou com inten\u00e7\u00e3o de violar direitos de imagem registrados, apenas com fins did\u00e1ticos.",
-          1380287885
-        ],
-        [
-          "\u00c9 chegada a hora da grande colheita, o segredo \u00e9 adubar bem com muito gelo e depois beber bem gelada!",
-          1378743400
-        ]
-      ],
-      "dates_start": 1386244721,
-      "dates_end": 1421069357,
-      "likes_avg": 10,
-      "likes_stdev": 7,
-      "comments_avg": 1,
-      "comments_stdev": 1,
-      "shares_avg": 2,
-      "shares_stdev": 1
-    },
-    {
-      "number": 28,
-      "important": [
-        "beer",
-        "great",
-        "las",
-        "happi",
-        "one",
-        "action"
-      ],
-      "common": [
-        "10pm",
-        "beer",
-        "happy",
-        "las",
-        "las 10pm",
-        "las 10pm los",
-        "las 10pm los esperamos",
-        "los",
-        "los d\u00edas",
-        "los d\u00edas hasta"
-      ],
-      "messages": [
-        [
-          "happy weekend with greetings from Barcelona the only what is wet here is the Beer and the Sea",
-          1434717430
-        ],
-        [
-          "Happy hours todos los d\u00edas Hasta las 10pm los esperamos",
-          1432313776
-        ],
-        [
-          "Great view :) \n\nThe beer of Course <3",
-          1409942081
-        ],
-        [
-          "Good beer ;)",
-          1401909397
-        ],
-        [
-          "https://www.facebook.com/photo.php?fbid=498280463542857&set=a.350819541622284.70021.342370649133840&type=1&theater The Beer Cafe HAPPI HOLI Peeps!!! Have a colourful one.",
-          1364292447
-        ],
-        [
-          "HAPPY BIRTHDAY ;)",
-          1332351750
-        ]
-      ],
-      "dates_start": 1359170945,
-      "dates_end": 1432671347,
-      "likes_avg": 3,
-      "likes_stdev": 4,
-      "comments_avg": 0,
-      "comments_stdev": 0,
-      "shares_avg": 1,
-      "shares_stdev": 0
-    },
-    {
-      "number": 29,
-      "important": [
-        "ze",
-        "heerlijk",
-        "ff",
-        "openyourworld",
-        "helder",
-        "wat",
-        "een",
-        "heineken",
-        "en",
-        "action"
-      ],
-      "common": [
-        "en",
-        "ff",
-        "heerlijk",
-        "heerlijk helder",
-        "heineken",
-        "helder",
-        "tot",
-        "vanavond",
-        "veel plezier allemaal vanavond",
-        "ze"
-      ],
-      "messages": [
-        [
-          "VEEL PLEZIER ALLEMAAL VANAVOND......EN OP EEN HEERLIJK HELDER 2015!",
-          1420015157
-        ],
-        [
-          "ff verzegeld ....tot vanavond!",
-          1416986636
-        ],
-        [
-          "#heerlijk #helder #heineken",
-          1411978281
-        ],
-        [
-          "tot over 2 weken vrienden ff HEERLIJK weg.....zonnig en HELDER weer en ze hebben  HEINEKEN....#proost   #openyourcity #openyourworld #heineken",
-          1410849910
-        ],
-        [
-          "Heerlijk!",
-          1410029001
-        ],
-        [
-          "Wat smaken ze heerlijk",
-          1364043012
-        ]
-      ],
-      "dates_start": 1386710602,
-      "dates_end": 1424590063,
-      "likes_avg": 4,
-      "likes_stdev": 3,
-      "comments_avg": 1,
-      "comments_stdev": 2,
-      "shares_avg": 2,
-      "shares_stdev": 1
-    },
-    {
       "number": 30,
       "important": [
-        "op",
-        "er",
-        "een",
-        "heineken",
-        "best",
-        "heeft",
-        "dat",
-        "action",
-        "het",
-        "de"
-      ],
-      "common": [
-        "beer",
-        "best",
-        "dat",
-        "de",
-        "een",
-        "heeft",
-        "heineken",
-        "op",
-        "see",
-        "van"
-      ],
-      "messages": [
-        [
-          "Frank Adrichem Heineken #heineken....een beetje kunst op de vroege morgen....#proost allemaal!",
-          1417072970
-        ],
-        [
-          "Zelfs de city edition smaakt op zn best heinekens! :)",
-          1410560914
-        ],
-        [
-          "Vandaag mooie vondst gedaan lag tussen plafond van een oud herenhuis\nOpmerkelijke is dat degene die het destijds neer heeft gelegd er jaartal 1936 op heeft gezet",
-          1395335955
-        ],
-        [
-          "heeft de foto van Elizabeth Wellington gedeeld.\r\n20 minuten geleden\r\nHeineken- you have absolutely DISGRACED yourselves... Of all the promo events you could be doing u choose to promote yourselves at illegal dog fighting arena....I will never drink your beer again and will do my best to ensure all others I see drinking your beer see this photo",
-          1387354320
-        ],
-        [
-          "Heineken in the best moments!!!!",
-          1371066500
-        ],
-        [
-          "In Puerto Rico we welcome the new year 2013 with the best, Heineken\u00ae. Best wishes to the world. Cheers!",
-          1357002880
-        ],
-        [
-          "Beste Heineken mensen! weten jullie dat de mexicaanse heinekenafdeling hondengevechten sponsoren???",
-          1340351737
-        ]
-      ],
-      "dates_start": 1356688574,
-      "dates_end": 1408667218,
-      "likes_avg": 3,
-      "likes_stdev": 1,
-      "comments_avg": 4,
-      "comments_stdev": 8,
-      "shares_avg": 9,
-      "shares_stdev": 11
-    },
-    {
-      "number": 31,
-      "important": [
-        "peopl",
-        "new",
-        "experi",
-        "heineken",
-        "citi",
-        "two",
-        "welcom",
-        "action",
         "open",
-        "adventur"
+        "citi",
+        "welcom",
+        "new",
+        "heineken",
+        "peopl",
+        "adventur",
+        "two",
+        "experi",
+        "action"
       ],
       "common": [
         "city",
@@ -1581,623 +1689,231 @@
       "shares_stdev": 294
     },
     {
-      "number": 32,
+      "number": 31,
       "important": [
-        "es",
-        "un",
-        "foto",
-        "las",
-        "en",
-        "como",
-        "la",
+        "world",
+        "danc",
+        "mani",
         "action",
-        "de",
-        "con"
+        "everyon",
+        "way"
       ],
       "common": [
-        "como",
-        "con",
-        "de",
-        "en",
-        "evento",
-        "heineken",
-        "la",
-        "se",
-        "un",
-        "una"
+        "around",
+        "around world",
+        "dibby",
+        "song",
+        "song around world result move",
+        "sound",
+        "sound itunes",
+        "sound itunes po",
+        "sound itunes po st",
+        "world"
       ],
       "messages": [
         [
-          "Estimada/o, buen d\u00eda escribo para ofrecer mis servicios de Foodtruck para sus eventos nuestro foodtruck es una combi modificada pintada con un dise\u00f1o \u00fanico, en la cual vendemos sushi, tanto men\u00fas como handroll y variedad en Gohan, adjunto foto de un evento reciente este 17,18,19 por la productora Artemedios \"WomadChile\"\nBusquemos en Facebook como \"Sushicombi\" \ud83d\ude8d\ud83c\udf71\ud83c\udf63",
-          1487760236
+          "Wellcome to my world",
+          1478620631
         ],
         [
-          "As\u00ed se pasan las navidad  en mi lindo pueblo de Moca con Heineken",
-          1451169472
-        ],
-        [
-          "Hola. Compr\u00e9 una caja con 12 cervezas, que supuestamente inclu\u00eda una bocina y no viene nada. Ahora qu\u00e9?",
-          1419105123
-        ],
-        [
-          "En apoyo a Proyecto Lempira. 10 de agosto 2013. Heineken-Galeano Party",
-          1376681160
-        ],
-        [
-          "Amo heineken. Usei 21 barris e mais de duas mil tampinhas. Como ficou?",
-          1371076816
-        ],
-        [
-          "What on earth is HEINEKEN, thinking of Sponsoring an event of this cruelty? It\u00b4s discusting. no more beer.I\u00b4m SHOCKED\r\nQue domenios piensa HEINEKEN? como se atreve a esponsorizar un evento de tal cruedal, vender unas cervecitas ???? patetico y",
-          1363443539
-        ],
-        [
-          "Questa \u00e8 una  foto d'artista.....",
-          1356628672
+          "Around the world, everyone dances differently. But is there a limit to how many different ways to dance? We took 1 song around the world and this is the result.\n \nWhat\u2019s your move on this track? Download the \u2018Dibby Dibby Sound\u2019 on iTunes http://po.st/DibbyDibbySound Around the world in 1 song",
+          1391173200
         ]
       ],
-      "dates_start": 1357115770,
-      "dates_end": 1450274234,
-      "likes_avg": 7,
-      "likes_stdev": 10,
-      "comments_avg": 0,
-      "comments_stdev": 0,
-      "shares_avg": 1,
-      "shares_stdev": 0
+      "dates_start": 1391173200,
+      "dates_end": 1478620631,
+      "likes_avg": 1244,
+      "likes_stdev": 1237,
+      "comments_avg": 43,
+      "comments_stdev": 43,
+      "shares_avg": 428,
+      "shares_stdev": 424
+    },
+    {
+      "number": 32,
+      "important": [
+        "watch",
+        "anoth",
+        "action",
+        "poster",
+        "bid",
+        "legendari poster",
+        "go",
+        "meet",
+        "without"
+      ],
+      "common": [
+        "borders",
+        "borders legendary",
+        "borders legendary posters",
+        "legendary",
+        "poster",
+        "proceeds go",
+        "proceeds go reporters",
+        "proceeds go reporters without",
+        "proceeds go reporters without borders",
+        "reporters"
+      ],
+      "messages": [
+        [
+          "An Icelandic farmer, a cow, a volcano, popcorn, and a poster. Watch what happens when they all meet.\n\nYou can bid for this poster at http://www.thelegendaryposters.com All proceeds go to Reporters Without Borders. Legendary Posters - Iceland Popcorn",
+          1397214000
+        ],
+        [
+          "Watch how Californian artist Rob Brander gave a poster some West Coast flavor.\n\nYou can bid for this poster at http://thelegendaryposters.com All proceeds go to Reporters Without Borders. Legendary Posters - Rob Brander",
+          1397041200
+        ],
+        [
+          "Watch how a poster becomes yet another opponent that got burnt in a game with Jimmy Connors.\n\nYou can bid for this poster at http://www.thelegendaryposters.com All proceeds go to Reporters Without Borders. Legendary Posters - Jimmy Connors",
+          1396609201
+        ]
+      ],
+      "dates_start": 1396700446,
+      "dates_end": 1397209154,
+      "likes_avg": 2716,
+      "likes_stdev": 866,
+      "comments_avg": 74,
+      "comments_stdev": 26,
+      "shares_avg": 455,
+      "shares_stdev": 252
     },
     {
       "number": 33,
       "important": [
-        "al",
-        "heineken christma",
-        "tree",
-        "need",
-        "action",
-        "christma",
-        "bottl",
-        "heineken",
-        "christma tree"
+        "night",
+        "world",
+        "danc",
+        "van",
+        "enjoy",
+        "photo",
+        "experi",
+        "armin",
+        "watch",
+        "action"
       ],
       "common": [
-        "christmas",
-        "christmas tree",
-        "heineken",
-        "heineken christmas",
-        "heineken christmas tree",
-        "keg customenginetables",
-        "merry",
-        "merry christmas",
-        "merry christmas everybody",
-        "tree"
+        "armin",
+        "armin van",
+        "armin van buuren",
+        "buuren",
+        "dmds",
+        "night",
+        "night dmds",
+        "night dmds experiment",
+        "van",
+        "van buuren"
       ],
       "messages": [
         [
-          "Heineken Christmas tree done by Custom Engine Tables in Bucharest,Romania. \n#diy #heineken #bottles #keg #customenginetables",
-          1481897287
+          "Armin van Buuren might be the greatest DJ in the world, but can he keep the dance floor jam-packed the whole night? #DMDS The Experiment",
+          1390222800
         ],
         [
-          "Merry Christmas \u266a\u30fd(\u00b4\u25bd\uff40)/",
-          1419497213
-        ],
-        [
-          "Heineken Christmas",
-          1418131610
-        ],
-        [
-          "CRISTMAS TREE!",
-          1417108487
-        ],
-        [
-          "merry christmas EVERYBODY",
-          1356509281
-        ],
-        [
-          "Hey heineken here's our christmas tree! al we need now is something to put under it ;p",
-          1356365869
-        ],
-        [
-          "My Christmas tree...",
-          1356292270
+          "Watch Armin van Buuren fans enjoy a huge night http://youtu.be/09maTE5q4Jk #DMDS Timeline Photos",
+          1389790801
         ]
       ],
-      "dates_start": 1357060477,
-      "dates_end": 1444597242,
-      "likes_avg": 8,
-      "likes_stdev": 7,
-      "comments_avg": 0,
-      "comments_stdev": 0,
-      "shares_avg": 2,
-      "shares_stdev": 0
+      "dates_start": 1389790801,
+      "dates_end": 1390222800,
+      "likes_avg": 3745,
+      "likes_stdev": 829,
+      "comments_avg": 44,
+      "comments_stdev": 15,
+      "shares_avg": 467,
+      "shares_stdev": 266
     },
     {
       "number": 34,
       "important": [
-        "openyourworld",
-        "go",
-        "follow",
-        "impress",
-        "get",
+        "real",
+        "adventur",
+        "odyssey",
+        "one",
+        "see",
+        "legend",
+        "film",
         "watch",
         "action",
-        "make",
-        "space",
-        "travel"
+        "latest"
       ],
       "common": [
-        "com",
-        "fitzroy",
-        "go",
-        "http",
-        "openyourworld",
-        "photos",
-        "stuntmen",
-        "travel",
-        "tumblr",
-        "watch"
+        "action",
+        "film",
+        "legends",
+        "legends action",
+        "legends action youtu",
+        "legends action youtu zfiup2licsq",
+        "odyssey",
+        "real",
+        "see legends action youtu zfiup2licsq",
+        "zfiup2licsq odyssey"
       ],
       "messages": [
         [
-          "With the pop-up bass, you'll get more than just music... \n\nhttp://leibal.com/products/popup-bass/\n\n#Popupbass #DanielaMata #OpenYourWorld Timeline Photos",
-          1401706789
+          "Sometimes the most impressive talents are the ones you least expect. See all the legends in action http://youtu.be/ZFiup2LIcSQ The Odyssey - Tap Dancer",
+          1392901200
         ],
         [
-          "Wherever you travel, make sure you pack the right impression.\n\nFollow our theories on http://heinekenthursdaytheories.tumblr.com/\n\n#Travel  #ThursdayTheories #OpenYourWorld Timeline Photos",
-          1400151609
+          "You\u2019ll be raising your eyebrows in disbelief when you watch this legend in action. See all the legends in action http://youtu.be/ZFiup2LIcSQ The Odyssey - Eyebrow Raiser",
+          1392634800
         ],
         [
-          "Houston, we have a poster! Actually, it\u2019s a rocket. Watch it go to space here http://bit.ly/ltp-space  #LegendaryPosters Cover Photos",
-          1397007180
+          "We\u2019ve noticed some people are questioning the authenticity of our latest film thinking that what they are seeing isn\u2019t real. Here\u2019s the real story. No tricks, no fakes \u2013 100% real. Heineken Response on The Odyssey film authenticity",
+          1391778000
         ],
         [
-          "The endless Outback, Crocodile Dundee - Australia has made a habit of exporting its \u2018tough man\u2019 image. So it makes sense that Aussies also know a thing or two about the movie industry\u2019s toughest of men: the stuntmen (and women). And as you\u2019d expect with stuntmen as our guides, our night in Sydney was fearless.\n\nFollow us throughout the night on Tumblr http://heinekenheadingoutwith.tumblr.com/\n\n#Sydney #HeadingOutWith #OpenYourWorld Heading out with - AUSSIE STUNTMEN",
-          1388028600
-        ],
-        [
-          "Fitzroy\u2019s bohemian recklessness has faded slightly over the years, giving way to a contagious mix of urban glamour and cutting edge. It\u2019s the place to go to both embrace and escape Melbourne.\n\n#Fitzroy #Melbourne #NeighbourhoodWatch #OpenYourWorld Neighbourhood Watch: Fitzroy",
-          1387238160
-        ],
-        [
-          "OK so if someone could get with me about this matter as this is very disturbing,despite of the mistake,I would say that heineken is guilty by association,and should  make us all believe what you say by showing remorse and donate to the animal welfare associations for this mistake,to combat this exact problem,love to all,and I expect a answer quick as this is a serious problem,love to all xxhttps://www.facebook.com/andre.gerber.125/posts/241021296047291?comment_id=898498&offset=0&total_comments=3&notif_t=share_replyok https://www.facebook.com/andre.gerber.125/posts/241021296047291?comment_id=898498&offset=0&total_com",
-          1379534763
-        ],
-        [
-          "We believe that the best way to travel is without a plan. Watch the exclusive version of The Voyage, the story of one legendary traveler. Heineken - The Voyage Commercial, Exclusive Version",
-          1369998001
-        ],
-        [
-          "Don't go nowhere without it!!! :)",
-          1340496823
+          "Whether you\u2019re a professional footballer, or an expert eyebrow lifter \u2013 everyone is legendary at something. Can you spot all the legends in our latest film? The Odyssey Film",
+          1391079600
         ]
       ],
-      "dates_start": 1364075755,
-      "dates_end": 1401964725,
-      "likes_avg": 985,
-      "likes_stdev": 1314,
-      "comments_avg": 29,
-      "comments_stdev": 55,
-      "shares_avg": 217,
-      "shares_stdev": 523
+      "dates_start": 1391378535,
+      "dates_end": 1392818264,
+      "likes_avg": 2596,
+      "likes_stdev": 1452,
+      "comments_avg": 99,
+      "comments_stdev": 65,
+      "shares_avg": 922,
+      "shares_stdev": 812
     },
     {
       "number": 35,
       "important": [
-        "mani",
-        "dj",
-        "fli",
-        "festiv",
-        "exclus",
-        "check",
-        "love",
-        "drink",
-        "action",
-        "space"
-      ],
-      "common": [
-        "2013",
-        "design",
-        "drink",
-        "drinking",
-        "eve",
-        "eve party",
-        "ever",
-        "restro",
-        "restro lounge",
-        "year"
-      ],
-      "messages": [
-        [
-          "I love this drink... my companion so many....",
-          1425721492
-        ],
-        [
-          "We worked with 20 designers to create the perfect social drinking space at the London Design Festival, in the heart of Shoreditch. We served exclusive Hoptails, hosted design talks and enjoyed a DJ set from My Panda Shall Fly. Check out the highlights #OpenLondon London Design Festival",
-          1412609175
-        ],
-        [
-          "This is how I drink my Heinekens!!#icecold",
-          1402234569
-        ],
-        [
-          "Won't ever be drinking ur beer again!!! Sick!!!",
-          1395391975
-        ],
-        [
-          "Woow after drink Heineken make me woow..;-)",
-          1387971947
-        ],
-        [
-          "I WILL  NEVER DRINK HEINEKEN EVER!!!!",
-          1387771263
-        ],
-        [
-          "New Year's Eve Party @ Spot 9 Restro Lounge invites you to the year 2013 with an ultra glitzy.New Year's Eve party, Bring in your style quotient with friends and family and dine with an unlimited array of exotic unlimited Starters with tantalizing drinks. Be their VIP guest and enjoy the services of a personal butler and a bottle of exclusive champagne. With celebrity DJ .dance the night away with no rules into 2013. Save your resolutions for another year as At Spot 9 Restro Lounge awaits to celebrate 2013 with you and at your service.For More Details Call 6450099/8983549009 or SMS NYE",
-          1356342607
-        ],
-        [
-          "The most romantic ring ever",
-          1332520811
-        ]
-      ],
-      "dates_start": 1359364773,
-      "dates_end": 1415776185,
-      "likes_avg": 54,
-      "likes_stdev": 138,
-      "comments_avg": 2,
-      "comments_stdev": 5,
-      "shares_avg": 28,
-      "shares_stdev": 72
-    },
-    {
-      "number": 36,
-      "important": [
-        "com",
-        "final",
-        "champion leagu",
-        "like",
+        "open",
         "heineken",
+        "bar",
         "champion",
-        "uefa",
+        "action",
         "fli",
-        "bottl",
-        "action"
+        "final",
+        "parti",
+        "champion leagu"
       ],
       "common": [
-        "champions",
-        "champions league",
+        "2014",
+        "bar flying",
         "final",
-        "heineken",
+        "final 2014",
         "ibiza",
-        "league",
-        "uefa",
-        "uefa champions",
-        "uefa champions league",
-        "watch"
+        "ibiza final",
+        "ibiza final 2014",
+        "opening ibiza party summer came",
+        "party",
+        "party summer"
       ],
       "messages": [
-        [
-          "Liking the Champions League bottle! !!",
-          1433093377
-        ],
-        [
-          "UEFA Champions League somente com Heineken",
-          1426768352
-        ],
         [
           "Sun, sea, the Champions League Final and the opening of the Ibiza party summer. It all came together during the Heineken Ibiza Final 2014. Don\u2019t miss out our crazy Floating Star Bar and Flying Bartenders! Ibiza Final 2014",
           1403694001
-        ],
-        [
-          "Want to watch the Champions League with a champion? Then watch this. \n\n#ShareTheSofa #ShareTheSofa for the UEFA Champions League",
-          1392718224
-        ],
-        [
-          "What better way to end the UEFA Champions League season than during the opening of the summer party season? Heineken invited a group of lucky prize winners to join the likes of Rio Ferdinand and Paul van Dyk to watch the final in Ibiza.\nWatch the full version here http://youtu.be/jY2m0ryWvPA Heineken - Ibiza Final 2013",
-          1370592000
-        ],
-        [
-          "Heineken \u0e40\u0e01\u0e47\u0e1a\u0e20\u0e32\u0e1e\u0e1b\u0e23\u0e30\u0e17\u0e31\u0e1a\u0e43\u0e08\u0e02\u0e2d\u0e07\u0e1c\u0e39\u0e49\u0e42\u0e0a\u0e04\u0e14\u0e35\u0e08\u0e32\u0e01\u0e01\u0e34\u0e08\u0e01\u0e23\u0e23\u0e21 Road To The Final  \u0e17\u0e35\u0e48\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e43\u0e0a\u0e49\u0e44\u0e2b\u0e27\u0e1e\u0e23\u0e34\u0e1a\u0e02\u0e31\u0e49\u0e19\u0e2a\u0e38\u0e14\u0e22\u0e2d\u0e14 \u0e04\u0e27\u0e49\u0e32\u0e15\u0e31\u0e4b\u0e27\u0e44\u0e1b\u0e0a\u0e21\u0e19\u0e31\u0e14\u0e0a\u0e34\u0e07 UEFA Champions League \u0e44\u0e01\u0e25\u0e16\u0e36\u0e07\u0e25\u0e2d\u0e19\u0e14\u0e2d\u0e19 \u0e21\u0e32\u0e43\u0e2b\u0e49\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e46 \u0e2d\u0e34\u0e08\u0e09\u0e32\u0e01\u0e31\u0e19 **\u0e43\u0e04\u0e23\u0e01\u0e14 Like \u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e1c\u0e39\u0e49\u0e42\u0e0a\u0e04\u0e14\u0e35\u0e43\u0e19\u0e01\u0e34\u0e08\u0e01\u0e23\u0e23\u0e21\u0e2b\u0e19\u0e49\u0e32 \u0e41\u0e25\u0e49\u0e27\u0e40\u0e08\u0e2d\u0e01\u0e31\u0e19!! Winners of Heineken Road To The Final",
-          1369938420
-        ],
-        [
-          "UEFA Champions League Final de la UEFA Champions League 2013 | M\u00e9xico.",
-          1369849740
-        ],
-        [
-          "El road to the final concluy\u00f3 aqu\u00ed, y se vivi\u00f3 como nunca FINAL UEFA CHAMPIONS LEAGUE - LIMA",
-          1369663680
-        ],
-        [
-          "Heineken sukviet\u0117 i\u0161tikimiausius futbolo fanus \u017ei\u016br\u0117ti UEFA Champions League finalo naujai duris atv\u0117rusiame restorane Q\u2019Polas. UEFA Champions League finalo var\u017eybas steb\u0117jome kartu!",
-          1369465200
         ]
       ],
-      "dates_start": 1364986012,
-      "dates_end": 1414076874,
-      "likes_avg": 1681,
-      "likes_stdev": 2790,
-      "comments_avg": 49,
-      "comments_stdev": 86,
-      "shares_avg": 276,
-      "shares_stdev": 451
-    },
-    {
-      "number": 37,
-      "important": [
-        "drop",
-        "watch episod",
-        "offici",
-        "drop philippin",
-        "one",
-        "watch",
-        "real",
-        "episod",
-        "action",
-        "adventur"
-      ],
-      "common": [
-        "com",
-        "com heinekendropped",
-        "com heinekendropped dropped",
-        "dropped",
-        "heinekendropped",
-        "heinekendropped dropped",
-        "http",
-        "youtube",
-        "youtube com",
-        "youtube com heinekendropped dropped"
-      ],
-      "messages": [
-        [
-          "There's a real spark between these two, but they still can't figure out how to start a fire.\n\nWatch other episodes here:\nhttp://www.youtube.com/heinekendropped DROPPED | Philippines 2 | Handcuffed",
-          1379674801
-        ],
-        [
-          "We #dropped Murray and Jakub on a tropical island, but there\u2019s one stainless steel catch. \n\nWatch the rest of the journey\nhere: http://www.youtube.com/heinekendropped DROPPED | Philippines 1 | Hell in Paradise",
-          1379070001
-        ],
-        [
-          "Because opposites attract, we thought we'd unite either side of Europe for the next #Dropped adventure:\nhttp://www.youtube.com/heinekendropped DROPPED | Philippines | Murray + Jakub",
-          1378810801
-        ],
-        [
-          "The previous guy we #dropped needed a helping hand. Hopefully this should do. \n\nWatch all episodes here: http://www.youtube.com/heinekendropped DROPPED | Philippines | Official trailer",
-          1378089000
-        ],
-        [
-          "See how Clint gets on after being #dropped in Poland \u2013 from 18,000 feet.\n\nWatch more episodes here:\nhttp://www.youtube.com/heinekendropped DROPPED | Poland 2 | The Downward Spiral",
-          1377860393
-        ],
-        [
-          "He\u2019s been plucked out of Cape Town and #dropped miles from any sort of town.\n\nWatch all the episodes here: http://www.youtube.com/heinekendropped DROPPED | Poland 1 | The Flying Freakshow",
-          1377256637
-        ],
-        [
-          "Meet Clint. See why he was ripe for the picking, and even better for the dropping. #Dropped\n\nWatch the adventure here:\nhttp://www.youtube.com/heinekendropped DROPPED | Poland | Clint Jacobs",
-          1376996400
-        ],
-        [
-          "Our second traveller is about to be dropped, well in over his head. See if he can rise to the occasion http://www.youtube.com/heinekendropped DROPPED | Cambodia | Official trailer",
-          1372071600
-        ],
-        [
-          "What do a telephone box, a tuxedo and a snowmobile have in common? Hit play to find out. \nWatch the other episodes here http://www.youtube.com/heinekendropped DROPPED | Alaska 2 | The Trappers Trap",
-          1371812400
-        ],
-        [
-          "Rikar\u2019s gone from +30 \u00b0 to -30 \u00b0. And that\u2019s not the only adjustment he\u2019ll have to make. Check out the other episodes here http://youtube.com/heinekendropped DROPPED | Alaska 1 | The Only Way Is Down",
-          1371207600
-        ],
-        [
-          "Introducing, Rikar from Spain \u2013 the first guy to be dropped.\nWatch his casting video and see how his life has been turned upside-down http://www.youtube.com/heinekendropped DROPPED | Alaska | Rikar Gil, Spain",
-          1370483820
-        ],
-        [
-          "This guy's in for the trip of a lifetime. He just doesn't know it yet.\nWatch all the episodes here http://www.youtube.com/heinekendropped DROPPED | Alaska | Official Trailer",
-          1370257201
-        ]
-      ],
-      "dates_start": 1371708992,
-      "dates_end": 1378889449,
-      "likes_avg": 1909,
-      "likes_stdev": 607,
-      "comments_avg": 38,
-      "comments_stdev": 19,
-      "shares_avg": 201,
-      "shares_stdev": 136
-    },
-    {
-      "number": 38,
-      "important": [
-        "ik",
-        "fles",
-        "een",
-        "met",
-        "en",
-        "proost",
-        "poster",
-        "heineken",
-        "de",
-        "van"
-      ],
-      "common": [
-        "de",
-        "een",
-        "heineken",
-        "het",
-        "ik",
-        "met",
-        "mijn",
-        "nog",
-        "voor",
-        "zomer"
-      ],
-      "messages": [
-        [
-          "Heineken\nIn Den Bosch hangen posters op het terein van jullie met een fles en de draak erop wat moet ik doen voor z'n poster?\nProost",
-          1435509254
-        ],
-        [
-          "#heineken #zomer #speakerkratje #proost #vaderdag #langstedag #21juni ....het ziet er nog niet naar uit maar vandaag is de zomer toch echt begonnen! nog een paar dagen en dan     NAAR BUITEN!",
-          1434863023
-        ],
-        [
-          "#strand #heineken #speakerkratje #zomer #voetbal Heineken WE ZIJN KLAAR VOOR DE ZOMERRRRRRRRRRRRRRRRRR!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
-          1434694878
-        ],
-        [
-          "VIER DE ZOMER! TOPKRATJE Heineken #HEINEKEN",
-          1434354875
-        ],
-        [
-          "Willen jullie mijn Valentijn zijn? #Heineken",
-          1423944203
-        ],
-        [
-          "Toen Heineken Nog lkkr was",
-          1420071833
-        ],
-        [
-          "#heineken bedankt voor de kaarten....darttournooi was top....en het bier ook...nu ff boodschappen doen.....ben ik nog wat vergeten?",
-          1418028598
-        ],
-        [
-          "Mijn werd van de week gevraagd of er ook een fles is met de tekst Parijs erop. Mijn buurvrouw ( Simone Zigterman-Jager ) spaart alles wat met Parijs te maken heeft.\nMet vriendelijke groet, \nBij Freddy",
-          1411841726
-        ],
-        [
-          "Helaas geen fles uit het werelddeel Afrika in mijn krat.... Vind ik jammer.....Anders echt een mooie reis gehad....\nPech??? Of is Heineken mooie steden in Afrika vergeten?? Graag reactie...Wil graag mijn reis der werelddelen voltooien...;-)",
-          1408562281
-        ],
-        [
-          "Omdat ik een Heineken tattoo heb een pakket gekregen van Heineken haha:D bedankt hahah",
-          1401531526
-        ],
-        [
-          "Ik moet zeggen...jullie heineken biertje smaakt nog prefecter met een eigen horeca heineken koelkast! (Y) thumps up!",
-          1372343769
-        ],
-        [
-          "zo tijd voor me blikje bier",
-          1332431287
-        ]
-      ],
-      "dates_start": 1381329083,
-      "dates_end": 1440033792,
-      "likes_avg": 25,
-      "likes_stdev": 50,
-      "comments_avg": 4,
-      "comments_stdev": 7,
-      "shares_avg": 21,
-      "shares_stdev": 64
-    },
-    {
-      "number": 39,
-      "important": [
-        "action",
-        "heineken"
-      ],
-      "common": [
-        "10",
-        "bia",
-        "bia heineken",
-        "c\u00e2y",
-        "c\u00e2y th\u00f4ng",
-        "heineken",
-        "spr\u00e1vn\u00e1",
-        "spr\u00e1vn\u00e1 odpov\u011b\u010f",
-        "th\u00f4ng",
-        "\u0111\u1ee9c"
-      ],
-      "messages": [
-        [
-          "BOYCOTT HEINEKEN! \nThey SUPPORT Dog Fighting!!! :'(",
-          1447866750
-        ],
-        [
-          "Ani letos nebude Heineken chyb\u011bt na Designbloku! Heineken zde p\u0159edstav\u00ed svou unik\u00e1tn\u00ed Secret expozici, ve kter\u00e9 budete moci zmizet i vy a to doslova. Napi\u0161te n\u00e1m do koment\u00e1\u0159e jm\u00e9na obou designer\u016f na\u0161\u00ed expozice a vyhrajte dvakr\u00e1t celot\u00fddenn\u00ed vstupy pro dv\u011b osoby.\nL\u00edstky vyhraje prvn\u00ed a posledn\u00ed spr\u00e1vn\u00e1 odpov\u011b\u010f. Sout\u011b\u017e\u00edme do 21. 10. 2015 do 14 hodin!\nKompletn\u00ed pravidla sout\u011b\u017ee:  bit.ly/Designblok_soutez Timeline Photos",
-          1445262000
-        ],
-        [
-          "#Spectre #OpenBondsWorld Heineken | The Chase",
-          1443016260
-        ],
-        [
-          "\u03a7\u03bf\u03c1\u03b7\u03b3\u03bf\u03c2 \u03c3\u03c4\u03b9\u03c2 \u03ba\u03c5\u03bd\u03bf\u03bc\u03b1\u03c7\u03b9\u03b5\u03c2 \u03b7 HEINEKEN!!!!! \u03c0\u03bb\u03b7\u03c1\u03c9\u03bd\u03bf\u03c5\u03bc\u03b5 \u03c4\u03bf \u03b2\u03b1\u03c3\u03b1\u03bd\u03b9\u03c3\u03bc\u03bf \u03b1\u03b8\u03c9\u03c9\u03bd \u03c8\u03c5\u03c7\u03c9\u03bd \u03ba\u03b1\u03b8\u03b5 \u03c6\u03bf\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03c0\u03b1\u03c1\u03b1\u03b3\u03b3\u03b5\u03bb\u03bd\u03bf\u03c5\u03bc\u03b5 \u03bc\u03b9\u03b1 \u03c4\u03b5\u03c4\u03bf\u03b9\u03b1 \u03bc\u03c0\u03c5\u03c1\u03b1 \n\u039d\u03a4\u03a1\u039f\u03a0\u0397 \u03a4\u039f\u03a5\u03a3!!!!",
-          1442660966
-        ],
-        [
-          "Heineken \u00ae",
-          1440527861
-        ],
-        [
-          "All this power by Heineken",
-          1435378222
-        ],
-        [
-          "Liebes Heineken Team - was sagt ihr dazu?",
-          1435327859
-        ],
-        [
-          "Heineken @Railay Beach",
-          1425204635
-        ],
-        [
-          "Heineken a melhor",
-          1424230690
-        ],
-        [
-          "C\u00e2y th\u00f4ng bia Heineken t\u1ea1i Gi\u00e1o X\u1ee9 T\u1eeb \u0110\u1ee9c h\u1ea1t Th\u1ee7 \u0110\u1ee9c - Tp HCM \u0111\u01b0\u1ee3c t\u1ea1o th\u00e0nh h\u01a1n 500 v\u1ecf chai bia heineken, chi\u1ec1u cao c\u00e2y th\u00f4ng g\u1ea7n 2m5 do m\u1ecdi ng\u01b0\u1eddi trong x\u00f3m c\u00f9ng nhau ch\u1ebf t\u00e1c...",
-          1419058268
-        ],
-        [
-          "This relaxing moment is brought to me by Heineken",
-          1418518243
-        ],
-        [
-          "Heineken",
-          1417876102
-        ],
-        [
-          "#openyourskin #heineken",
-          1408622589
-        ],
-        [
-          "Heineken pitchet WM",
-          1403371920
-        ],
-        [
-          "Amo Heineken",
-          1371236629
-        ],
-        [
-          "... antr\u0105 kart\u0105! Heineken merginos aplanko \"Pogo bar\u0105\"....",
-          1368774000
-        ],
-        [
-          "http://www.youtube.com/watch?v=e6OGBKebu94&feature=share Fonte Heineken - Eduardo Deves",
-          1363625556
-        ],
-        [
-          "Bi\u1ec3u t\u01b0\u1ee3ng Heineken Vi\u1ec7t Nam",
-          1356673897
-        ],
-        [
-          "May the Heineken be with you!",
-          1332525504
-        ],
-        [
-          "Grill BBQ Squid<<-- that when really good wit my Heineken.",
-          1332116114
-        ]
-      ],
-      "dates_start": 1369324165,
-      "dates_end": 1443863240,
-      "likes_avg": 14,
-      "likes_stdev": 23,
-      "comments_avg": 2,
-      "comments_stdev": 4,
-      "shares_avg": 6,
-      "shares_stdev": 13
+      "dates_start": 1403694001,
+      "dates_end": 1403694001,
+      "likes_avg": 8053,
+      "likes_stdev": 0,
+      "comments_avg": 255,
+      "comments_stdev": 0,
+      "shares_avg": 950,
+      "shares_stdev": 0
     }
   ]
 }

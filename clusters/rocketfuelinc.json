@@ -4,8 +4,8 @@
   "globalstats": {
     "fan_count": 6385,
     "messages": 411,
-    "likes_avg": 10,
-    "likes_stdev": 18,
+    "likes_avg": 11,
+    "likes_stdev": 22,
     "comments_avg": 0,
     "comments_stdev": 0,
     "shares_avg": 2,
@@ -16,16 +16,16 @@
     {
       "number": 1,
       "important": [
-        "question",
-        "answer",
-        "learn",
-        "buy",
-        "insight",
-        "thing",
-        "programmat buy",
         "programmat",
+        "insight",
+        "learn",
+        "thing",
+        "answer",
         "expert",
-        "whitepap"
+        "programmat buy",
+        "whitepap",
+        "question",
+        "buy"
       ],
       "common": [
         "10",
@@ -69,16 +69,16 @@
     {
       "number": 2,
       "important": [
-        "digit",
         "articl",
         "top",
-        "across",
-        "releas",
         "build",
-        "year",
+        "releas",
         "program",
+        "compani",
+        "across",
+        "year",
         "qualiti",
-        "compani"
+        "digit"
       ],
       "common": [
         "america",
@@ -134,16 +134,16 @@
     {
       "number": 3,
       "important": [
-        "inc",
-        "everi",
         "rocket fuel",
+        "everi",
         "check",
-        "photo",
-        "show",
+        "day",
         "rocket",
-        "fuel inc",
         "compani",
-        "day"
+        "inc",
+        "show",
+        "fuel inc",
+        "fuel"
       ],
       "common": [
         "fuel",
@@ -203,16 +203,16 @@
     {
       "number": 4,
       "important": [
-        "articl",
-        "mobil",
-        "say",
-        "ceo randi",
         "last",
-        "look",
+        "articl",
         "randi",
+        "ceo randi",
+        "answer",
+        "look",
+        "say",
         "full",
         "key",
-        "answer"
+        "mobil"
       ],
       "common": [
         "ceo",
@@ -276,16 +276,356 @@
     {
       "number": 5,
       "important": [
+        "artifici",
+        "know",
         "ai",
-        "onli",
+        "via",
+        "predict",
+        "read",
+        "artifici intellig",
+        "across",
+        "futur",
+        "facebook"
+      ],
+      "common": [
+        "ai",
+        "artificial",
+        "artificial intelligence",
+        "fuel",
+        "http",
+        "intelligence",
+        "ly",
+        "ow",
+        "rocket",
+        "rocket fuel"
+      ],
+      "messages": [
+        [
+          "\"Artificial Intelligence Algorithm Predicts the Future\" via Newsweek Read more here: ow.ly/oM5x301M7IH #machinelearning #AI",
+          1467403278
+        ],
+        [
+          "Did you know that your computer may know you better than your friends and family? Researchers found that using Artificial Intelligence (AI) enabled them to predict and interpret a participant\u2019s personality by analyzing just ten Facebook likes. George John talks about what this amazing technology means for marketers and why, soon, it will be everywhere: http://ow.ly/PRrYn Timeline Photos",
+          1437419243
+        ],
+        [
+          "Artificial Intelligence optimization isn't just for purchasing open RTB inventory anymore. With Rocket Fuel\u2019s Private Marketplace, marketers can now call upon the power of Big Data and AI to improve the performance of their premium publisher buys. See why Cree, SkinFix, Grain NYC, and more have already seen improvements by as much as 190%: http://ow.ly/O240A Timeline Photos",
+          1433778957
+        ],
+        [
+          "Did you know that your computer knows you better than your friends and family? Researchers found that using Artificial Intelligence (AI) enabled them to predict and interpret a participant\u2019s personality by analyzing just ten Facebook likes. George John talks about what this technology means for marketers and the opportunities that lay in wait in \"The Age of AI.\" http://ow.ly/NKkyl Timeline Photos",
+          1433528172
+        ],
+        [
+          "If you're not leveraging artificial intelligence, you're missing out. Our own Rhonda Shantz, VP Marketing, offers her perspective on why all digital marketers should take advantage of the power of #programmatic. http://ow.ly/Imrec Rocket Fuel's Shantz: Leverage AI or miss out on big data opportunities Rocket Fuel's Shantz: Leverage AI or miss out on big data opportunities. From PR Week",
+          1422906719
+        ],
+        [
+          "What will a future society interwoven with artificial intelligence and robotics reflect on as watershed moments that shaped their world? Here are a few. The Three Breakthroughs That Have Finally Unleashed AI on the World What will a future society interwoven with artificial intelligence and robotics look back at as watershed moments that shaped their world? Here are a few.",
+          1416238200
+        ],
+        [
+          "We believe the winners in \"The Second Machine Age\" will be those preparing for a future where artificial intelligence is a major part of life. With the capacity to learn from their experiences, the experiences of enormous networks of \"peers,\" and larger-than-life pools of data, it seems that artificial intelligence will eventually have a hand (or is it antenna?) in almost every human initiative. Artificial intelligence meets the C-suite Rocket Fuel believes the winners in \"The Second Machine Age\" will be those preparing for a future where artificial intelligence is a major part of life.",
+          1413468001
+        ],
+        [
+          "Missed @gjohn's \"The Age of Artificial Intelligence\" #TEDx talk in London last month? Catch it here: http://ow.ly/lFciI #AI The Age of Artificial Intelligence: George John at TEDxLBS 2013 George, overly influenced by Star Trek, previously worked at NASA, earning his \"rocket scientist\" credentials. He currently manages Rocket Fuel and...",
+          1370358192
+        ],
+        [
+          ".@rocketfuelinc is hosting a Tech Talk at Stanford on Monday 2/25 at 5pm. Join us! http://ow.ly/hWuO9 #AI #BigData #advertising Rocket Fuel Tech Talk @ Stanford Optimizing Online Advertising Using Artificial Intelligence and Big Data What We\u2019ll Talk About: Rocket Fuel solves problems for thousands of...",
+          1361548835
+        ],
+        [
+          "Going to Advertising Week? So is Rocket Fuel! Join us at NASDAQ OMX on Oct. 5 for \"Advertising That Learns: When Artificial Intelligence Met Madison Avenue\" to learn more about the wonder of AI and its impact on the advertising industry. RSVP here: http://bit.ly/Op8jx1",
+          1348575516
+        ]
+      ],
+      "dates_start": 1374366300,
+      "dates_end": 1446678722,
+      "likes_avg": 5,
+      "likes_stdev": 4,
+      "comments_avg": 0,
+      "comments_stdev": 0,
+      "shares_avg": 1,
+      "shares_stdev": 2
+    },
+    {
+      "number": 6,
+      "important": [
+        "put",
+        "way",
+        "best",
+        "research",
+        "latest",
+        "predict",
+        "download",
+        "much",
+        "find",
+        "infograph"
+      ],
+      "common": [
+        "http",
+        "infographic",
+        "ly",
+        "ow",
+        "ow ly",
+        "photos",
+        "research",
+        "timeline",
+        "timeline photos",
+        "week"
+      ],
+      "messages": [
+        [
+          "Our latest infographic is out! Read our Q4 2015 Research Roundup to find out the 10 best ads of 2015, 2016 programmatic predictions, 9 ways to put your data to work, and much much more. Download the infographic today: ow.ly/YbS2n Timeline Photos",
+          1455199200
+        ],
+        [
+          "Our latest infographic is out! Download our Q3 2015 Research Roundup to find out Nielsen's top-10 most trusted brands for men and women, eMarketer's seven insights on Millennials and video, and much, much more: ow.ly/VMFMj Timeline Photos",
+          1449868899
+        ],
+        [
+          "Our latest infographic is out! Read our Q2 2015 Research Roundup to find out why abandoned cart email campaigns achieve a conversion rate of more than 5x the average, the six charts you need to understand the future of ad tech, and much, much more. Download it here: ow.ly/QzXk4 Timeline Photos",
+          1438870640
+        ],
+        [
+          "Download Rocket Fuel's Q1 Research Roundup Infographic for all the unique clues about consumer behavior from around the industry. Tip the scales in your favor. Rocket Fuel's Q1 Research Roundup Get the insights you need to make a difference. ",
+          1400001832
+        ],
+        [
+          "At Rocket Fuel, we're all about gaining new insights into the ever-evolving marketing and advertising industries. When we're not conducting our own research, we're pouring over whitepapers, infographics, and anything else we can learn from. Check out our Research Roundup for all of our studies, plus our other favorites from the third quarter of 2013: http://ow.ly/q8SBl http://ow.ly/q8SBl",
+          1382718276
+        ],
+        [
+          "Insightful @Forbes infographic puts #BigData industrial complex in perspective: http://ow.ly/owy9C",
+          1378310536
+        ],
+        [
+          "Now that we've celebrated mom we want 2 spread the luv! An #infographic of our fave mom-centric research studies: http://ow.ly/l1mq7",
+          1368547234
+        ],
+        [
+          "Where art, science, & tech meet: Man as Industrial Palace. #infographic http://vimeo.com/6505158 Der Mensch als Industriepalast [Man as Industrial Palace] /// The intertwining of science, art and technology: An animated and interactive installation based on the poster of the same title by Fritz Kahn...",
+          1362412853
+        ],
+        [
+          "Infographic of the Week: Pulp Fiction in Chronological Order http://rocketfuel.com/newsroom/blog/infographic-of-the-week-pulp-fiction-in-chronological-order Timeline Photos",
+          1342192178
+        ],
+        [
+          "Infographic of the Week: What music should you listen to at work?  http://rocketfuel.com/newsroom/blog/infographic-of-the-week3 Timeline Photos",
+          1340814638
+        ],
+        [
+          "Infographic of the Week: What a Hundred Million Calls to 311 Reveal About New York  http://rocketfuel.com/newsroom/blog/infographic-of-the-week-what-a-hundred-million-calls-to-311-reveal-about-ne Timeline Photos",
+          1338588002
+        ],
+        [
+          "Infographic of the Week: Plot Lines \u2013 What Makes a Prize-Winning Novel? http://rocketfuel.com/newsroom/blog/inforgraphic-of-the-week-plot-lines-what-makes-a-prize-winning-novel Timeline Photos",
+          1337358672
+        ]
+      ],
+      "dates_start": 1340825757,
+      "dates_end": 1424988068,
+      "likes_avg": 5,
+      "likes_stdev": 6,
+      "comments_avg": 0,
+      "comments_stdev": 0,
+      "shares_avg": 2,
+      "shares_stdev": 1
+    },
+    {
+      "number": 7,
+      "important": [
+        "busi",
         "chang",
-        "make",
-        "buy",
-        "use",
-        "advertis",
-        "big data",
+        "georg",
+        "talk",
+        "john",
+        "transform digit",
+        "forb",
+        "real",
+        "digit market",
+        "ceo georg"
+      ],
+      "common": [
+        "advertising",
+        "ceo",
+        "ceo george john",
+        "fuel",
+        "george",
+        "george john",
+        "http",
+        "john",
+        "rocket",
+        "rocket fuel"
+      ],
+      "messages": [
+        [
+          "Thought leadership that\u2019s changing the business landscape: Forbes profiles Rocket Fuel Chairman and CEO George John, who talks about his vision for next generation advertising, and the power of artificial intelligence to transform digital marketing and drive real results. http://ow.ly/IvInV Timeline Photos",
+          1423090785
+        ],
+        [
+          "On behalf of all members of the Rocket Fuel family: Congratulations to our CEO George John for being a great leader and a team player! George John\u2019s dedication and skills made him recipient of the \u201c2014 Most Admired CEOs in the Bay Area award\u201d at the SFBT awards dinner! \nRead more: http://ow.ly/EisNJ Most Admired CEO Awards",
+          1416235207
+        ],
+        [
+          "Yahoo Head of Americas Ned Brody and Rocket Fuel CEO and co-founder George John took the stage at Bloomberg Next Big Thing Summit in New York. In their session titled \u201cMadison Avenue\u2019s New Age Mad Men,\u201d they discussed the future of the online ad industry, touching on programmatic, native advertising, and more. Video: What are the Next Big Things in Online Advertising? Yahoo Head of Americas Ned Brody and Rocket Fuel CEO and co-founder George John took the stage at yesterday\u2019s Bloomberg Next Big Thing Summit in New York. In their session titled \u201cMadison Avenue\u2019s New Age Mad Men,\u201d they discussed the future of the online ad industry, touching on programmatic, native\u2026",
+          1414506600
+        ],
+        [
+          "George John speaking on the 'Algorithm vs the Man' session earlier today at The Festival of Media Global in Montreux, Switzerland The Festival of Media \"Algorithm versus the Man\" session - Hosted Mark Palmer, founder, Maverick Planet. \nFeaturing George John, CEO and founder, Rocket Fuel; Sameer Singh, VP & head of global media planning, strategy & buying, GlaxoSmithKline and Ricky Liversidge, CMO, DG MediaMind",
+          1367322199
+        ],
+        [
+          "CEO George John reflects on @rocketfuelinc's success in 2012 in an interview with @europeanleaders: http://ow.ly/jgryK 2012 saw 'Lift Off' for Rocket Fuel - Hot Topics Events 2012 proved to be a stellar year for Rocket Fuel, the leading provider of artificial intelligence advertising solutions for digital marketers....",
+          1363878071
+        ],
+        [
+          "Exciting news: George John will be speaking at TEDxLondonBusinessSchool on 26 April 2013. For more info visit www.tedxlondonbusinessschool.com",
+          1361185062
+        ],
+        [
+          "Rocket Fuel's CEO, George John is speaking at the Citibank Global Internet, Media & Technology Conference at #CES today. http://ow.ly/gFUPf Rocket Fuel CEO to Speak on 2013 CES Panel in Las Vegas REDWOOD CITY, CA--(Marketwire - Jan 9, 2013) - Rocket Fuel, the leading provider of artificial intelligence advertising solutions for digital...",
+          1357754980
+        ],
+        [
+          "George John, CEO and Richard Frankel, President ringing the closing bell at NASDAQ Timeline Photos",
+          1349375346
+        ],
+        [
+          "What do Stanford PhDs, NSF Fellows, and NASA all have in common?\n\n Time is running out to help hoist George onto the 2013 SxSW stage. Cast your vote for our awesome CEO, George John to speak at SXSW this year! http://panelpicker.sxsw.com/vote/3502 SXSW PanelPicker Revenge of the Nerds: Why Data Scientists are Hot   Description The rise in \u201cbig data\u201d being mined and analyzed in dozens of industries \u2013 from online advertising, to retail, to business, media, and beyond \u2013 has fueled a talent war for data scientists. Today\u2019s hottest, most-sought after employee is t...",
+          1345738051
+        ],
+        [
+          "Revenge of the Nerds: Why Data Scientists are Hot\n\nCast your vote for our awesome CEO, George John to speak at SxSW this year! http://panelpicker.sxsw.com/vote/3502 SXSW PanelPicker Revenge of the Nerds: Why Data Scientists are Hot   Description The rise in \u201cbig data\u201d being mined and analyzed in dozens of industries \u2013 from online advertising, to retail, to business, media, and beyond \u2013 has fueled a talent war for data scientists. Today\u2019s hottest, most-sought after employee is t...",
+          1345478877
+        ],
+        [
+          "Rocket Fuel, the leading provider of artificial intelligence advertising solutions for digital marketers, secures $50 Million in funding to fuel rapid global growth: http://rocketfuel.com/newsroom/press_release/rocket-fuel-secures-50-million-in-funding-to-fuel-rapid-global-growth Timeline Photos",
+          1340895938
+        ],
+        [
+          "Our CEO George John speaks with AdExchanger to discuss Rocket Fuel, his views on the space, and the state of Rocket Fuel today--  http://www.adexchanger.com/the-state-of/rocket-fuel-john/ The State Of Rocket Fuel: CEO John Sees Impressive, Real-Time Bidding Impact As part of its \"State of...\" series of articles with industry executives, AdExchanger.com spoke with John to discuss his company, his views on the space, and the state of Rocket Fuel today.",
+          1332258162
+        ],
+        [
+          "Great write-up by Anthony Hua in TechCrunch.  Yeah, complex autonomous behavior rock(et scientist)s: TechCrunch | Ad Startup Rocket Fuel Just Had Its First Profitable Quarter Startup Rocket Fuel claims to apply \"rocket science\" to ad campaigns, and it sounds like that science is turning into real revenue. The company says it made $44.5 million in revenue last year, compared to $16.6 million in 2010 and $2.4 million in 2009.    In fact, CEO George John tells me that in th...",
+          1329843932
+        ]
+      ],
+      "dates_start": 1334301702,
+      "dates_end": 1396092637,
+      "likes_avg": 14,
+      "likes_stdev": 13,
+      "comments_avg": 0,
+      "comments_stdev": 1,
+      "shares_avg": 2,
+      "shares_stdev": 3
+    },
+    {
+      "number": 8,
+      "important": [
+        "rocket fuel",
+        "come",
+        "see",
+        "join",
+        "new",
+        "rocket",
+        "across",
+        "real",
+        "sxsw",
+        "fuel"
+      ],
+      "common": [
+        "career",
+        "fuel",
+        "http",
+        "http ow",
+        "http ow ly",
+        "ly",
+        "ow",
+        "ow ly",
+        "rocket",
+        "rocket fuel"
+      ],
+      "messages": [
+        [
+          "Heading to #SXSW? Come join the fun at Rocket Fuel's not-to-be-missed annual concert party in the heart of downtown Austin! We'll have complimentary cocktails, SXSW's finest food trucks, balcony views of the 6th Street action, and live music from The New Pornographers, Real Estate, and MisterWives. RSVP at rocketfuel.com/sxsw. See you there! Timeline Photos",
+          1426131001
+        ],
+        [
+          "We're taking over @CliveBarATX today w/ @joyformidable \n@thecolourist @sanferminband @mrgnomemusic http://ow.ly/tR4hw #sxsw @sxswparty Rocket Fuel Launch Pad - Splash Find out more about this event - Monday, March 10, 2014",
+          1394470258
+        ],
+        [
+          "We're getting excited for our #SXSW party feat. @joyformidable \n@thecolourist @sanferminband @mrgnomemusic #SXSWFUEL http://ow.ly/tR26W Rocket Fuel Launch Pad - Splash Find out more about this event - Monday, March 10, 2014",
+          1393008342
+        ],
+        [
+          "Want to take your career to new heights? Join us! rocketfuel.com/careers",
+          1381154623
+        ],
+        [
+          "Want to take your career to new heights? Join us! http://rocketfuel.com/careers",
+          1380290649
+        ],
+        [
+          "Want to take your career to new heights? Join us! www.rocketfuel.com/careers",
+          1378476215
+        ],
+        [
+          "Want to launch your #career into orbit? @rocketfuelinc will hire 300 in '13: http://ow.ly/o6ISp",
+          1377612319
+        ],
+        [
+          ".@rocketfuelinc launches successful campaigns into orbit! @ZIONandZION  @edible http://ow.ly/i/2Wlj2 Timeline Photos",
+          1377273725
+        ],
+        [
+          "Launch your career into orbit! Join Rocket Fuel @HOBChicago for an Ad Ops Career Event on 8/6: http://ow.ly/nqM6X #jobs #Chicago http://ow.ly/nqM6X Location: House of Blues, 329 N. Dearborn St. Chicago, IL 60654Date: 8/6Time: Enjoy: Appetizers, beer & wine, giveaways, and a raffle. ",
+          1375452271
+        ],
+        [
+          "Launch your career into orbit! Join Rocket Fuel @HOBChicago for an Ad Ops Career Event on 8/6: http://ow.ly/nqIyD #jobs #Chicago http://ow.ly/nqIyD Location: House of Blues, 329 N. Dearborn St. Chicago, IL 60654Date: 8/6Time: Enjoy: Appetizers, beer & wine, giveaways, and a raffle. ",
+          1375279388
+        ],
+        [
+          "Space Race Trivia Question (see more about the contest here: http://ow.ly/mDpXc)\n\nFor your next campaign, you\u2019ve decided to go big. Really Big. No, Bigger Than That. You\u2019re going to advertise on the moon! Suppose you\u2019re designing the creative for a billboard that covers the entire width of the visible moon, when full. How wide does your billboard have to be?\na.\t6,784 miles\nb.\t3,392 miles\nc.\t2,159 miles\nd.\t1,080 miles http://ow.ly/mDpXc) Get ready to launch your summer to new heights with Rocket Fuel! You and three of your co-workers could win $500 each and a trip to Las Vegas,...",
+          1374509093
+        ],
+        [
+          "Get ready to launch your summer to new heights! Find out more about @rocketfuelinc's #SpaceRace: http://ow.ly/mDV01 http://ow.ly/mDV01 Get ready to launch your summer to new heights with Rocket Fuel! You and three of your co-workers could win $500 each and a trip to Las Vegas,...",
+          1373378679
+        ],
+        [
+          "Are you headed to #SXSW? Get ready...Rocket Fuel will touch down in Austin with a not-to-be missed party on Monday, March 11 at The Parish. We'll have live music featuring Alt-J, Dawes, and Man Without Country. This event is first-come, first-served subject to venue capacity - come early and enjoy! Hope we see you there! Timeline Photos",
+          1361565250
+        ]
+      ],
+      "dates_start": 1367219593,
+      "dates_end": 1397180685,
+      "likes_avg": 9,
+      "likes_stdev": 9,
+      "comments_avg": 1,
+      "comments_stdev": 1,
+      "shares_avg": 3,
+      "shares_stdev": 3
+    },
+    {
+      "number": 9,
+      "important": [
+        "chang",
         "data",
-        "via"
+        "big data",
+        "onli",
+        "ai",
+        "via",
+        "use",
+        "make",
+        "advertis",
+        "buy"
       ],
       "common": [
         "big",
@@ -303,14 +643,6 @@
         [
           "\"When Milliseconds Count \u2013 Using AI to Buy Advertising\" via Data Science Central  http://ow.ly/amvG301iFMk When Milliseconds Count \u2013 Using AI to Buy Advertising Summary:  What changes in your analytics and Big Data stack would you have to make if you only had 10 milliseconds to make a decision?  There\u2019s an...",
           1466265692
-        ],
-        [
-          "Artificial Intelligence optimization isn't just for purchasing open RTB inventory anymore. With Rocket Fuel\u2019s Private Marketplace, marketers can now call upon the power of Big Data and AI to improve the performance of their premium publisher buys. See why Cree, SkinFix, Grain NYC, and more have already seen improvements by as much as 190%: http://ow.ly/O240A Timeline Photos",
-          1433778957
-        ],
-        [
-          "If you're not leveraging artificial intelligence, you're missing out. Our own Rhonda Shantz, VP Marketing, offers her perspective on why all digital marketers should take advantage of the power of #programmatic. http://ow.ly/Imrec Rocket Fuel's Shantz: Leverage AI or miss out on big data opportunities Rocket Fuel's Shantz: Leverage AI or miss out on big data opportunities. From PR Week",
-          1422906719
         ],
         [
           "In a global survey conducted by Forbes Insights in association with Rocket Fuel and Spencer Stuart, 90% of CEOs and CMOs say their marketing efforts meet or exceed their expectations. But is this overwhelming optimism just a result of low expectations? Download your completely free copy of \"Data-Driven Insights Are Only Part of the Journey: Today's Best CMOs Take Action\" to find out. Data Driven Insights Are Only Part of the Journey The early days of data-driven marketing were characterized by a wary incrementalism. Most marketers sensed a major change was coming, but they wanted to avoid leaping into Big Data too quickly.",
@@ -365,28 +697,121 @@
           1332457568
         ]
       ],
-      "dates_start": 1355444277,
-      "dates_end": 1424543087,
-      "likes_avg": 7,
-      "likes_stdev": 17,
+      "dates_start": 1351050991,
+      "dates_end": 1417979472,
+      "likes_avg": 8,
+      "likes_stdev": 18,
       "comments_avg": 0,
       "comments_stdev": 0,
       "shares_avg": 1,
       "shares_stdev": 1
     },
     {
-      "number": 6,
+      "number": 10,
+      "important": [
+        "articl",
+        "way",
+        "devic",
+        "latest",
+        "read",
+        "across",
+        "machin",
+        "click",
+        "digit",
+        "advertis"
+      ],
+      "common": [
+        "cross",
+        "cross device",
+        "device",
+        "devices",
+        "http",
+        "http ow",
+        "http ow ly",
+        "ly",
+        "ow",
+        "ow ly"
+      ],
+      "messages": [
+        [
+          "Missed Mark Torrance's latest piece on cross device? No worries! We have you covered. Click the link below to read his article, \"Probabilistic Cross Device for Digital Advertising\" now! ow.ly/onyH303y1CB Timeline Photos",
+          1473012909
+        ],
+        [
+          "\"By training machine learning models both ways -- once with \u201csame device only\u201d attribution and again with \u201ccross device\u201d attribution, Rocket Fuel can optimize the performance of the campaign for whichever way our customers choose to measure it,\" says our CTO Mark Torrance in his latest article \"Probabilistic Cross Device for Digital Advertising.\" Click the link below to read more about the influence of cross device: ow.ly/onyH303y1CB Timeline Photos",
+          1472065514
+        ],
+        [
+          "Rocket Fuel Inc. provides technology that creates a broader picture of individual consumers in real time. Read more about #CrossDevice here: ow.ly/xqGX3016tQY Cross Device - Rocketfuel Make your campaigns more effective by focusing on customers, not just the devices they use. Below in Tips #1-3, we identify the critical elements...",
+          1467479722
+        ],
+        [
+          "We provide the technology to see consumers across all of their devices and create a broader picture of individual consumers and understand their needs in real time. Learn more about #CrossDevice now: http://ow.ly/xqGX3016tQY Cross Device - Rocketfuel Make your campaigns more effective by focusing on customers, not just the devices they use. Below in Tips #1-3, we identify the critical elements...",
+          1466438531
+        ],
+        [
+          "4 Tips to Increase Campaign Performance Across Devices: http://ow.ly/xqGX3016tQY Cross Device - Rocketfuel Make your campaigns more effective by focusing on customers, not just the devices they use. Below in Tips #1-3, we identify the critical elements...",
+          1465761646
+        ],
+        [
+          "This year, 87.3% of mobile users will use their device to browse, research or compare products, an 11.4% increase since 2014. How does mobile tie into your media mix? Check out our #CrossDevice webpage to learn more about how you can seamlessly optimize your campaigns across mobile, desktop and more with cross-device: http://ow.ly/w2z4300JgyK #MobileMondays Cross Device - Rocketfuel Make your campaigns more effective by focusing on customers, not just the devices they use. Below in Tips #1-3, we identify the critical elements...",
+          1464625497
+        ],
+        [
+          "New whitepaper alert: \"How To Stop Marketing To Devices and Start Marketing To People.\" READ: http://ow.ly/wlcw30008wP Timeline Photos",
+          1462567686
+        ],
+        [
+          "By identifying the people behind the screens, Rocket Fuel can influence the frequency, accuracy, and relevance of messaging across devices and attribute the conversion, no matter which device it happens on. Read more: http://ow.ly/4nnMaN #CrossDevice #Mobile Cross Device Beyond Targeting Part IV: People-Based Attribution - Rocketfuel By Ian Dailey, Sr. Product Marketing Manager In this four-part Rocket Fuel blog series, we\u2019ve been exploring people-based marketing and the step-by-step process of driving performance by leveraging cross-device data. By identifying the people behind the screens and linking their previously-siloed pr\u2026",
+          1462292590
+        ],
+        [
+          "In 2017, 81.4% of the U.S. population will own a mobile phone. Do you know someone who doesn't own a cell phone these days? Check out our \u201cConsumers and their Unpredictable Path to Conversion\u201d on our #CrossDevice web page to see the impressions seen directly prior to conversions, as well as exactly where consumers made the jump from one device to the next. http://ow.ly/4ngiEW #MobileMondays Cross Device - Rocketfuel Rocket Fuel\u2019s Cross-Device offering allows your campaigns to truly optimize across mobile and desktop devices to find key moments of influence. With our Moment Scoring\u2122 technology, you can run one campaign to find the optimal media mix that will deliver better performance and deeper insights.",
+          1462208834
+        ],
+        [
+          "Our Cross-Device offering allows your campaigns to truly optimize across mobile and desktop devices to find key moments of influence. Learn more here: http://ow.ly/4n7sHz #CrossDevice",
+          1461687151
+        ],
+        [
+          "Check out our latest #infographic, Connected Devices, as we take a unique glimpse into how consumer #devices, #data, and activity are evolving: http://ow.ly/10vDvo #IoT Timeline Photos",
+          1460811715
+        ],
+        [
+          "Whether it\u2019s on television, a billboard, a wearable device, or a screen we've yet to imagine, there's an opportunity for marketers to reach consumers during their most influential moments. How? For the answer, let\u2019s take it over to Advertising Age where Rocket Fuel\u2019s interim CEO, Monte Zweben, penned his latest article \u201cProgrammatic Everywhere: Every Screen is an Opportunity.\u201d http://ow.ly/Qc3Sm Timeline Photos",
+          1438099113
+        ],
+        [
+          "Most of us own multiple devices, but shouldn\u2019t the focus of marketers and agencies be on us rather than our phones, tablets, and computers? Learn how Rocket Fuel is making that possible with Cross Device: http://ow.ly/P17gm Timeline Photos",
+          1435748403
+        ],
+        [
+          "Don\u2019t miss your chance to reserve a seat for our Marketing Across Devices: Optimizing Your Media Mix Webinar Tomorrow, June 30 at 11:30 am PST/ 2:30 pm EST! Rocket Fuel's very own Senior Director of Mobile, Nitin Chitkara, will dig into how marketing to people, not their devices, optimizes budget and media mix while improving multi-channel uplift and overall performance. Register today: http://ow.ly/OXwRQ Timeline Photos",
+          1435611928
+        ]
+      ],
+      "dates_start": 1446808365,
+      "dates_end": 1471536097,
+      "likes_avg": 4,
+      "likes_stdev": 3,
+      "comments_avg": 0,
+      "comments_stdev": 0,
+      "shares_avg": 1,
+      "shares_stdev": 2
+    },
+    {
+      "number": 11,
       "important": [
         "result",
-        "awar",
         "advertis solut transform",
-        "realtim",
-        "digit media",
-        "advertis solut",
+        "awar",
         "name",
+        "realtim",
         "transform digit",
+        "artificialintellig",
         "fuel rocket fuel lead",
-        "artificialintellig"
+        "digit media",
+        "advertis solut"
       ],
       "common": [
         "campaigns",
@@ -480,243 +905,134 @@
       "shares_stdev": 0
     },
     {
-      "number": 7,
+      "number": 12,
       "important": [
-        "consum",
-        "put",
-        "person",
-        "creat",
-        "market",
+        "growth",
+        "see",
+        "year",
         "across",
-        "blog",
-        "reach",
-        "world",
-        "devic"
+        "say",
+        "us",
+        "advertis",
+        "mobil",
+        "industri",
+        "next"
       ],
       "common": [
-        "cross",
-        "cross device",
-        "device",
-        "devices",
-        "fuel",
+        "advertising",
+        "http",
+        "http ow",
+        "http ow ly",
         "ly",
+        "media",
+        "mobile",
         "ow",
         "ow ly",
-        "rocket",
-        "rocket fuel"
+        "programmatic"
       ],
       "messages": [
         [
-          "Our new partnership with LiveRamp means we can better reach customers across all devices. By putting LiveRamp\u2019s IdentityLink technology to work within Rocket Fuel\u2019s predictive marketing platform, marketers can create more personalized, people-based marketing. We sat down with Jeff Smith, Chief Marketing Officer of LiveRamp , to ask him a few questions about what IdentityLink means for advertisers and the future of people-based marketing. Check out the blog: http://ow.ly/WdjB306O9Wr Rocket Fuel and LiveRamp Partnership - Rocket Fuel In today\u2019s connected world, marketers face the challenge of reaching consumers through myriad devices and across countless consumer channels like...",
-          1480942865
+          "\"PwC: Internet Advertising Will Overtake Broadcast Advertising in the U.S. Next Year Mobile to see biggest growth, report says\" via Adweek http://ow.ly/qzOm3019bfB PwC: Internet Advertising Will Overtake Broadcast Advertising in the... Although TV advertising will remain strong as the industry evolves over the next five years, internet advertising will overtake broadcast...",
+          1465591859
         ],
         [
-          "Missed Mark Torrance's latest piece on cross device? No worries! We have you covered. Click the link below to read his article, \"Probabilistic Cross Device for Digital Advertising\" now! ow.ly/onyH303y1CB Timeline Photos",
-          1473012909
+          "\"In 2016, US #programmatic digital display ad spending will reach $22.10 billion. That\u2019s a jump of 39.7% over last year, and represents 67.0% of total digital display ad spending in the US,\" says eMarketer. Read the full article: ow.ly/10jdsM. More Than Two-Thirds of US Digital Display Ad Spending Is Bought Programmatically - eMarketer Programmatic advertising continues to become more sophisticated, and spending via the media buying technique is growing, albeit at a decreasing pace. In our latest US programmatic forecast, eMarketer predicts that this year, more than two-thirds of all digital display advertising will be purchased p\u2026",
+          1459961460
         ],
         [
-          "\"By training machine learning models both ways -- once with \u201csame device only\u201d attribution and again with \u201ccross device\u201d attribution, Rocket Fuel can optimize the performance of the campaign for whichever way our customers choose to measure it,\" says our CTO Mark Torrance in his latest article \"Probabilistic Cross Device for Digital Advertising.\" Click the link below to read more about the influence of cross device: ow.ly/onyH303y1CB Timeline Photos",
-          1472065514
+          "Did you know that 3 out of 4 telecom advertisers plan to increase programmatic spending over the next year? What are you doing to prepare? Read Rocket Fuel\u2019s latest study, Programmatic Strategies for the Telecom Marketer, to find out more about the telecom industry\u2019s data-drive future. ow.ly/Pp6Wb Timeline Photos",
+          1436462357
         ],
         [
-          "Rocket Fuel Inc. provides technology that creates a broader picture of individual consumers in real time. Read more about #CrossDevice here: ow.ly/xqGX3016tQY Cross Device - Rocketfuel Make your campaigns more effective by focusing on customers, not just the devices they use. Below in Tips #1-3, we identify the critical elements...",
-          1467479722
+          "Mobile is the number one area of opportunity for #programmatic: http://ow.ly/L5Lor Expect More Programmatic Ads to Pop Up on Mobile - eMarketer As programmatic spending maintains strong growth in 2015, marketers are expanding its (currently small) share of their total budgets. Mobile in particular will reap the benefits of increased programmatic expenditure this year.",
+          1427910978
         ],
         [
-          "We provide the technology to see consumers across all of their devices and create a broader picture of individual consumers and understand their needs in real time. Learn more about #CrossDevice now: http://ow.ly/xqGX3016tQY Cross Device - Rocketfuel Make your campaigns more effective by focusing on customers, not just the devices they use. Below in Tips #1-3, we identify the critical elements...",
-          1466438531
+          "\u201cAudiences, not publishers, define premium in mobile.\u201d Nitin Chitkara, Director of Mobile Product Marketing, chats with @eMarketer about the meaning of \"premium inventory\" in mobile display advertising. http://ow.ly/HcqUQ (registration required) #mobileleads #futureofmarketing Timeline Photos",
+          1421098201
         ],
         [
-          "4 Tips to Increase Campaign Performance Across Devices: http://ow.ly/xqGX3016tQY Cross Device - Rocketfuel Make your campaigns more effective by focusing on customers, not just the devices they use. Below in Tips #1-3, we identify the critical elements...",
-          1465761646
+          "The U.S. financial services industry spends big on marketing and advertising. As digital spend continues to increase, financial firms are becoming more adept at connecting the offline and online dots. Gil Biegacz, Director of Category Strategy, Financial Services, discusses how financial firms are taking the lead in programmatic, and that data convergence will lead to a \u201cfull-funnel\u201d approach in 2015. http://ow.ly/GyVzg Timeline Photos",
+          1419893467
         ],
         [
-          "This year, 87.3% of mobile users will use their device to browse, research or compare products, an 11.4% increase since 2014. How does mobile tie into your media mix? Check out our #CrossDevice webpage to learn more about how you can seamlessly optimize your campaigns across mobile, desktop and more with cross-device: http://ow.ly/w2z4300JgyK #MobileMondays Cross Device - Rocketfuel Make your campaigns more effective by focusing on customers, not just the devices they use. Below in Tips #1-3, we identify the critical elements...",
-          1464625497
+          "First Day: Consumers have come to expect a personalized digital experience. Whether it's news, shopping, music, or radio, the \"age of consumer choice\" is upon us. Even television is subject to this trend. Viewers are continuing to migrate from traditional broadcast television to web-connected devices that deliver the content they want, when they want it. Richard Frankel, President of Rocket Fuel, predicts that programatic buying of advertising for all media will be a reality in the very near future: http://ow.ly/FHI3I Timeline Photos",
+          1418276413
         ],
         [
-          "New whitepaper alert: \"How To Stop Marketing To Devices and Start Marketing To People.\" READ: http://ow.ly/wlcw30008wP Timeline Photos",
-          1462567686
+          "Yes, colleges students now think television sets are weird. These days, the way the average person consumes media is radically different than it was five, or even ten years ago. New services, driven by burgeoning technology, make it easier than ever for consumers to control exactly where, when, and how they get their content. People now expect television, music, and radio programming to deliver an exclusive, personalized experience tailored specifically to their lifestyle. For Millennials, the End of the TV Viewing Party Yes, colleges students now think television sets are weird. These days, the way the average person consumes media is radically different than it was five, or even ten years ago. New services, driven by burgeoning technology, make it easier than ever for consumers to control exactly where, when, and\u2026",
+          1416957722
         ],
         [
-          "By identifying the people behind the screens, Rocket Fuel can influence the frequency, accuracy, and relevance of messaging across devices and attribute the conversion, no matter which device it happens on. Read more: http://ow.ly/4nnMaN #CrossDevice #Mobile Cross Device Beyond Targeting Part IV: People-Based Attribution - Rocketfuel By Ian Dailey, Sr. Product Marketing Manager In this four-part Rocket Fuel blog series, we\u2019ve been exploring people-based marketing and the step-by-step process of driving performance by leveraging cross-device data. By identifying the people behind the screens and linking their previously-siloed pr\u2026",
-          1462292590
+          "A few short years ago, mobile was a \u201ccheckbox\u201d buy: marketers bought it because their CEOs expected it to be in use. The problem was, mobile\u2019s usage, measurement, and optimization were all far behind desktop, and the furious growth and optimization that programmatic buying brought to display could not yet be applied in mobile. Today, that\u2019s all changed. Mobile\u2019s tremendous audiences can now be addressed programmatically and within a richer context than display. Our latest whitepaper will give you the rundown on the latest breakthroughs in mobile advertising and tell you exactly what you need to know to get the most out of your mobile budget. 11 Questions About Programmatic Mobile...and the Answers Marketers Need",
+          1414010929
         ],
         [
-          "In 2017, 81.4% of the U.S. population will own a mobile phone. Do you know someone who doesn't own a cell phone these days? Check out our \u201cConsumers and their Unpredictable Path to Conversion\u201d on our #CrossDevice web page to see the impressions seen directly prior to conversions, as well as exactly where consumers made the jump from one device to the next. http://ow.ly/4ngiEW #MobileMondays Cross Device - Rocketfuel Rocket Fuel\u2019s Cross-Device offering allows your campaigns to truly optimize across mobile and desktop devices to find key moments of influence. With our Moment Scoring\u2122 technology, you can run one campaign to find the optimal media mix that will deliver better performance and deeper insights.",
-          1462208834
+          "The way the average person consumes media is radically different than it was five or ten years ago. New services, driven by burgeoning technology, are making it easier than ever for consumers to control exactly where, when, and how they get their content. How can auto advertisers be sure they reach critical target audiences? Rocket Fuel President Richard Frankel and an esteemed panel of his programmatic peers will provide the answers to these issues and more at the JD Power Automotive Marketing Roundtable. A la Carte Media Consumption: How to Reach the Unreachable The way the average person consumes media is radically different than it was five or ten years ago. New services, driven by burgeoning technology, are making it easier than ever for consumers to control exactly where, when, and how they get their content. People now expect television, music, and rad\u2026",
+          1413225001
         ],
         [
-          "Our Cross-Device offering allows your campaigns to truly optimize across mobile and desktop devices to find key moments of influence. Learn more here: http://ow.ly/4n7sHz #CrossDevice",
-          1461687151
+          "#AI helps you reach the increasingly distracted consumer http://bit.ly/177VEdh #digitalmedia #marketing Advertising Learns To Adapt It\u2019s no secret that consumers find themselves increasingly inundated by marketing and advertising messages. Industry experts say that the number of...",
+          1379952199
         ],
         [
-          "Check out our latest #infographic, Connected Devices, as we take a unique glimpse into how consumer #devices, #data, and activity are evolving: http://ow.ly/10vDvo #IoT Timeline Photos",
-          1460811715
+          ".@rocketfuelinc's @eporres discussess adaptive ads in realm of #digitalmedia via @CMO_com: http://ow.ly/oKmbR Advertising Learns To Adapt It\u2019s no secret that consumers find themselves increasingly inundated by marketing and advertising messages. Industry experts say that the number of...",
+          1378908140
         ],
         [
-          "Whether it\u2019s on television, a billboard, a wearable device, or a screen we've yet to imagine, there's an opportunity for marketers to reach consumers during their most influential moments. How? For the answer, let\u2019s take it over to Advertising Age where Rocket Fuel\u2019s interim CEO, Monte Zweben, penned his latest article \u201cProgrammatic Everywhere: Every Screen is an Opportunity.\u201d http://ow.ly/Qc3Sm Timeline Photos",
-          1438099113
+          ".@nmkforum spoke to @rocketfuelEMEA about what advertisers still have to learn about #mobile #advertising: http://ow.ly/nrgbs New Media Knowledge - Mobile advertising: Are we there yet? New Media Knowledge (NMK) is a learning and business information resource for digital interactive media in the UK",
+          1375365829
         ],
         [
-          "Most of us own multiple devices, but shouldn\u2019t the focus of marketers and agencies be on us rather than our phones, tablets, and computers? Learn how Rocket Fuel is making that possible with Cross Device: http://ow.ly/P17gm Timeline Photos",
-          1435748403
+          ".@rocketfuelinc VP of Mobile, Mark Prior's webinar about the landscape of video and #mobile #advertising: http://ow.ly/mBsU3",
+          1372860297
         ],
         [
-          "Don\u2019t miss your chance to reserve a seat for our Marketing Across Devices: Optimizing Your Media Mix Webinar Tomorrow, June 30 at 11:30 am PST/ 2:30 pm EST! Rocket Fuel's very own Senior Director of Mobile, Nitin Chitkara, will dig into how marketing to people, not their devices, optimizes budget and media mix while improving multi-channel uplift and overall performance. Register today: http://ow.ly/OXwRQ Timeline Photos",
-          1435611928
+          "Read why our VP of Mobile, Mark Prior, says the real mobile opportunity is location based profiling, via @IABUK: http://ow.ly/lFhba The real mobile opportunity: Location based profiling | IAB UK Mark Prior, Vice-President, Mobile & International at Rocket Fuel discusses the benefits of location based profiling.",
+          1370527479
         ],
         [
-          "In the second \"Programmatic Marketing\" video, marketers connect with the Millers through Marketing That Learns\u2122 how to reach individuals, not devices\u2014and helps drive them toward the products they love. https://vimeo.com/128204560 Marketing That Learns\u2122 How to Reach Individuals, Not Devices By compiling a single consumer profile via a common IP address, then layering on additional signals, Rocket Fuel can enrich the understanding of device ownership\u2026",
-          1432097399
+          "Programmatic buying ad spend continues robust growth, via @emarketer: http://ow.ly/lwvgq #RTB",
+          1370016179
         ],
         [
-          "In a world that is becoming \u201cmobile first,\u201d smartphones and other mobile gadgets are driving the boost in cross-channel engagement. However, it\u2019s not just about reaching devices. It\u2019s about reaching people. Our first Rocket Fuel Spotlight reveals how a diversified, multi-channel #programmatic ad spend with cross-device optimization ultimately leads to positive business outcomes. http://ow.ly/Ky16N Timeline Photos",
-          1426784493
+          "We've pitched a session to be included on the agenda at the upcoming IAB Mobile Engage Conference in London - 'Consumer Location Behaviour: The new big data for mobile?'\n\nVote for us here:\nhttp://www.iabuk.net/mobile-engage-speaker-sessions-voting Mobile Engage Speaker Sessions: Voting | IAB UK Full details on Mobile Engage speaker sessions - to help you vote for your favourite.",
+          1364991718
         ],
         [
-          "\"Programmatic CMOs recognize customers, reach them on paid & owned channels w relevant messages,\" Nardone at #ADWKDC pic.twitter.com/XgQ5LEiPyF Rocket Fuel Inc. on Twitter: \"\"Programmatic CMOs recognize customers, reach them on paid & owned... \"Programmatic CMOs recognize customers, reach them on paid & owned channels w relevant messages,\" Nardone at #ADWKDC pic.twitter.com/XgQ5LEiPyF",
-          1410368220
+          "\"What to expect from media buying in 2013\" by Dominic Trigg http://www.fourthsource.com/online-advertising/media-buying-2013-12813 What to expect from media buying in 2013 A year of new technology and market evolution is par for the course in digital advertising. This year, I would argue, is going to be different, not by virtue of their absence but because of their unprecedented scale.",
+          1358874294
         ]
       ],
-      "dates_start": 1435566376,
-      "dates_end": 1473167425,
+      "dates_start": 1371562416,
+      "dates_end": 1435646974,
       "likes_avg": 4,
       "likes_stdev": 3,
       "comments_avg": 0,
       "comments_stdev": 0,
       "shares_avg": 1,
-      "shares_stdev": 2
+      "shares_stdev": 0
     },
     {
-      "number": 8,
+      "number": 13,
       "important": [
-        "facebook",
-        "ai",
-        "predict",
-        "futur",
-        "artifici intellig",
-        "artifici",
-        "read",
-        "across",
-        "know",
-        "via"
-      ],
-      "common": [
-        "artificial",
-        "artificial intelligence",
-        "ceo",
-        "fuel",
-        "george",
-        "george john",
-        "intelligence",
-        "john",
-        "rocket",
-        "rocket fuel"
-      ],
-      "messages": [
-        [
-          "\"Artificial Intelligence Algorithm Predicts the Future\" via Newsweek Read more here: ow.ly/oM5x301M7IH #machinelearning #AI",
-          1467403278
-        ],
-        [
-          "Did you know that your computer may know you better than your friends and family? Researchers found that using Artificial Intelligence (AI) enabled them to predict and interpret a participant\u2019s personality by analyzing just ten Facebook likes. George John talks about what this amazing technology means for marketers and why, soon, it will be everywhere: http://ow.ly/PRrYn Timeline Photos",
-          1437419243
-        ],
-        [
-          "Did you know that your computer knows you better than your friends and family? Researchers found that using Artificial Intelligence (AI) enabled them to predict and interpret a participant\u2019s personality by analyzing just ten Facebook likes. George John talks about what this technology means for marketers and the opportunities that lay in wait in \"The Age of AI.\" http://ow.ly/NKkyl Timeline Photos",
-          1433528172
-        ],
-        [
-          "Thought leadership that\u2019s changing the business landscape: Forbes profiles Rocket Fuel Chairman and CEO George John, who talks about his vision for next generation advertising, and the power of artificial intelligence to transform digital marketing and drive real results. http://ow.ly/IvInV Timeline Photos",
-          1423090785
-        ],
-        [
-          "What will a future society interwoven with artificial intelligence and robotics reflect on as watershed moments that shaped their world? Here are a few. The Three Breakthroughs That Have Finally Unleashed AI on the World What will a future society interwoven with artificial intelligence and robotics look back at as watershed moments that shaped their world? Here are a few.",
-          1416238200
-        ],
-        [
-          "On behalf of all members of the Rocket Fuel family: Congratulations to our CEO George John for being a great leader and a team player! George John\u2019s dedication and skills made him recipient of the \u201c2014 Most Admired CEOs in the Bay Area award\u201d at the SFBT awards dinner! \nRead more: http://ow.ly/EisNJ Most Admired CEO Awards",
-          1416235207
-        ],
-        [
-          "We believe the winners in \"The Second Machine Age\" will be those preparing for a future where artificial intelligence is a major part of life. With the capacity to learn from their experiences, the experiences of enormous networks of \"peers,\" and larger-than-life pools of data, it seems that artificial intelligence will eventually have a hand (or is it antenna?) in almost every human initiative. Artificial intelligence meets the C-suite Rocket Fuel believes the winners in \"The Second Machine Age\" will be those preparing for a future where artificial intelligence is a major part of life.",
-          1413468001
-        ],
-        [
-          "Missed @gjohn's \"The Age of Artificial Intelligence\" #TEDx talk in London last month? Catch it here: http://ow.ly/lFciI #AI The Age of Artificial Intelligence: George John at TEDxLBS 2013 George, overly influenced by Star Trek, previously worked at NASA, earning his \"rocket scientist\" credentials. He currently manages Rocket Fuel and...",
-          1370358192
-        ],
-        [
-          "George John speaking on the 'Algorithm vs the Man' session earlier today at The Festival of Media Global in Montreux, Switzerland The Festival of Media \"Algorithm versus the Man\" session - Hosted Mark Palmer, founder, Maverick Planet. \nFeaturing George John, CEO and founder, Rocket Fuel; Sameer Singh, VP & head of global media planning, strategy & buying, GlaxoSmithKline and Ricky Liversidge, CMO, DG MediaMind",
-          1367322199
-        ],
-        [
-          "CEO George John reflects on @rocketfuelinc's success in 2012 in an interview with @europeanleaders: http://ow.ly/jgryK 2012 saw 'Lift Off' for Rocket Fuel - Hot Topics Events 2012 proved to be a stellar year for Rocket Fuel, the leading provider of artificial intelligence advertising solutions for digital marketers....",
-          1363878071
-        ],
-        [
-          "Exciting news: George John will be speaking at TEDxLondonBusinessSchool on 26 April 2013. For more info visit www.tedxlondonbusinessschool.com",
-          1361185062
-        ],
-        [
-          "Rocket Fuel's CEO, George John is speaking at the Citibank Global Internet, Media & Technology Conference at #CES today. http://ow.ly/gFUPf Rocket Fuel CEO to Speak on 2013 CES Panel in Las Vegas REDWOOD CITY, CA--(Marketwire - Jan 9, 2013) - Rocket Fuel, the leading provider of artificial intelligence advertising solutions for digital...",
-          1357754980
-        ],
-        [
-          "George John, CEO and Richard Frankel, President ringing the closing bell at NASDAQ Timeline Photos",
-          1349375346
-        ],
-        [
-          "What do Stanford PhDs, NSF Fellows, and NASA all have in common?\n\n Time is running out to help hoist George onto the 2013 SxSW stage. Cast your vote for our awesome CEO, George John to speak at SXSW this year! http://panelpicker.sxsw.com/vote/3502 SXSW PanelPicker Revenge of the Nerds: Why Data Scientists are Hot   Description The rise in \u201cbig data\u201d being mined and analyzed in dozens of industries \u2013 from online advertising, to retail, to business, media, and beyond \u2013 has fueled a talent war for data scientists. Today\u2019s hottest, most-sought after employee is t...",
-          1345738051
-        ],
-        [
-          "Revenge of the Nerds: Why Data Scientists are Hot\n\nCast your vote for our awesome CEO, George John to speak at SxSW this year! http://panelpicker.sxsw.com/vote/3502 SXSW PanelPicker Revenge of the Nerds: Why Data Scientists are Hot   Description The rise in \u201cbig data\u201d being mined and analyzed in dozens of industries \u2013 from online advertising, to retail, to business, media, and beyond \u2013 has fueled a talent war for data scientists. Today\u2019s hottest, most-sought after employee is t...",
-          1345478877
-        ],
-        [
-          "Rocket Fuel, the leading provider of artificial intelligence advertising solutions for digital marketers, secures $50 Million in funding to fuel rapid global growth: http://rocketfuel.com/newsroom/press_release/rocket-fuel-secures-50-million-in-funding-to-fuel-rapid-global-growth Timeline Photos",
-          1340895938
-        ],
-        [
-          "Our CEO George John speaks with AdExchanger to discuss Rocket Fuel, his views on the space, and the state of Rocket Fuel today--  http://www.adexchanger.com/the-state-of/rocket-fuel-john/ The State Of Rocket Fuel: CEO John Sees Impressive, Real-Time Bidding Impact As part of its \"State of...\" series of articles with industry executives, AdExchanger.com spoke with John to discuss his company, his views on the space, and the state of Rocket Fuel today.",
-          1332258162
-        ],
-        [
-          "Great write-up by Anthony Hua in TechCrunch.  Yeah, complex autonomous behavior rock(et scientist)s: TechCrunch | Ad Startup Rocket Fuel Just Had Its First Profitable Quarter Startup Rocket Fuel claims to apply \"rocket science\" to ad campaigns, and it sounds like that science is turning into real revenue. The company says it made $44.5 million in revenue last year, compared to $16.6 million in 2010 and $2.4 million in 2009.    In fact, CEO George John tells me that in th...",
-          1329843932
-        ]
-      ],
-      "dates_start": 1340693171,
-      "dates_end": 1422803683,
-      "likes_avg": 11,
-      "likes_stdev": 12,
-      "comments_avg": 0,
-      "comments_stdev": 0,
-      "shares_avg": 2,
-      "shares_stdev": 3
-    },
-    {
-      "number": 9,
-      "important": [
-        "tech",
+        "build",
+        "help",
+        "technolog",
+        "activ",
         "recent",
-        "host",
-        "thank",
-        "give",
-        "rocket fuel",
         "across",
-        "rocket",
-        "fuel",
-        "partner"
+        "lead",
+        "success",
+        "want",
+        "job"
       ],
       "common": [
+        "bloom",
         "fuel",
         "http",
         "http ow",
         "http ow ly",
-        "location",
         "ly",
         "ow",
         "ow ly",
@@ -724,6 +1040,10 @@
         "rocket fuel"
       ],
       "messages": [
+        [
+          "We held another successful Girls STEM Class! This time, our own Kathy Kostas spoke to the girls about what our Legal Department does and how math and technology help her do the job she loves. Then, Premier Staffing lead the class in a resume activity. The girls did a marvelous job building and presenting their resumes on how they wanted to be engineers, doctors, scientists and veterinarians. Timeline Photos",
+          1463590834
+        ],
         [
           "In observance of Black History Month, Rocket Fuel Gives Back recently partnered with the Silicon Valley Black Chamber of Commerce to host a Black Youth Hackathon in our HQ office. Thank you to everyone who participated and volunteered!",
           1456524368
@@ -731,6 +1051,14 @@
         [
           "We proudly paid tribute to veterans recently by hosting Honor in the Valley, a tech trek through Silicon Valley for Navy Seal veterans. Rocket Fuel volunteers gave lessons on how Rocket Fuel contributes to tech culture, leadership, community outreach, and recruiting. Timeline Photos",
           1455820619
+        ],
+        [
+          "John Lewis, the global president of Nielsen, has joined Rocket Fuel as our newest board member! John was chosen for his experience creating value for marketers through consumer insights. Welcome to Rocket Fuel, John! http://ow.ly/Xn5tb Nielsen Global President John Lewis Joins Rocket Fuel Board of Directors - Rocketfuel Lewis Chosen for Experience Creating Value for Marketers Through Consumer Insights REDWOOD CITY, Calif., Jan. 21, 2016 \u2013 Rocket Fuel (NASDAQ: FUEL), a leading Programmatic Marketing Platform provider, today announced that John Lewis, global president of Nielsen, has joined its board of directors, ef\u2026",
+          1453752844
+        ],
+        [
+          "Our contest starts NOW! Join Rocket Fuel for our \u201cMomentous 2015\u201d Twitter contest for a chance to win a $200 Amazon gift card. Tune into our Twitter account, @rocketfuelinc, to participate. Click here for the rules: http://ow.ly/Ufr3i  #momentous2015 Timeline Photos",
+          1446658048
         ],
         [
           "Rocket Fuel Gives Back! Last Saturday, we sponsored and hosted MATHCOUNTS, a national middle school coaching and competitive mathematics program that promotes mathematics achievement through a series of fun and engaging \"bee\" -style contests. MATHCOUNTS has been recognized in White House ceremonies by President Barack Obama, as well as former Presidents Bush, Clinton, H.W. Bush, and Reagan.",
@@ -745,32 +1073,56 @@
           1423154693
         ],
         [
+          "We're proud to host this evening's San Mateo County Sherrif's Activities League \"Empowering Young Women\" session! The program provides girls in grades 6-9 with monthly speaking sessions featuring successful professional women from the community. Timeline Photos",
+          1421198164
+        ],
+        [
+          "\u201cAI & Human Relationships\u201d - In this final video, Rocket Fuel Account Executive Tony Price talks with the leaders of Bloom Ads, who express the importance of building solid relationships with their partners. According to Lisa Nichols-Jell, VP of Media, this \u201ctranslates all the way down to the client.\u201d Thanks to Rocket Fuel, Bloom can convey a \u201cbig agency feel,\u201d but maintain a culture of hands-on involvement and personal attention to detail. Bloom thinks of Rocket Fuel as a genuine partner, not only because of the performance of the product, but also because of the mutual trust, confidence, and respect established between both companies.",
+          1421157601
+        ],
+        [
+          "\u201cReliability\u201d - In this third of four videos, Rocket Fuel Account Executive Tony Price and Account Manager Katie Bakunas talk with Janice Alpeche, VP of Digital Media at Bloom Ads, about the importance of accessibility. Janice values our \u201chands-on attention,\u201d and she trusts and values Rocket Fuel\u2019s opinions and advice. For us, it\u2019s all about matching Bloom\u2019s energy and commitment to their business.",
+          1420552832
+        ],
+        [
+          "\u201cBrand Safety\u201d - In this second of four videos, Rocket Fuel Account Executive Tony Price talks with the leaders of Bloom Ads who express ongoing concern about where their clients' ads appear, and the importance of brand integrity. \u201cRocket Fuel has done an amazing job,\u201d said Kathe Bloom, the agency\u2019s President and CEO. She said Rocket Fuel made the agency feel confident and secure that our safeguards and best practices are protecting the reputation of not only Bloom Ads, but Bloom\u2019s clients as well.",
+          1419948001
+        ],
+        [
+          "\u201cThe Foundation\u201d - In this first of four videos, Tony Price, Account Executive at Rocket Fuel, talks with the leaders of Bloom Ads and reveals that the Bloom team was immediately impressed. \u201cWe like these guys,\u201d said Kathe Bloom, President and CEO. \u201cThey feel and sound like us.\u201d Bloom Ads appreciated how we took the time to explain who we are and how our AI works. As Mark Torrance mentioned in his 2015 prediction blog post (http://ow.ly/GiRlR), agencies will reinvent their role as strategic and creative partners to brands, and Bloom describes how they can do that with Rocket Fuel by being able to do more, focus on the right consumers, be more efficient, and get better results for their clients.",
+          1419343200
+        ],
+        [
+          "We're extremely pleased to announce that Stanford PhD Manu Thapar has joined the company as Senior Vice President of R&D. Manu joins Rocket Fuel with more than 20 years of technology management experience, working with major technology brands and leading large multinational engineering teams located across the globe. Welcome Manu! http://ow.ly/G7ZjS Timeline Photos",
+          1418945338
+        ],
+        [
           "The \u201c12 days of Ad Tech\u201d are upon us, and Rocket Fuel wants to give you a daily gift leading up to December 25! But unlike the popular carol, ours will be a bit more... practical. Instead of a progression of increasingly unreasonable presents that would inundate your home with filthy waterfowl and dozens of \u201cdrumming,\u201d \u201cleaping,\u201d and \u201cpiping\u201d strangers, our nerdy and lovable executives will be giving the valuable gift of insight into 2015\u2014and a chance to win a $100 Amazon gift card! View our advent calendar at: http://rocketfuel.com/12DaysOfAdTech and make your prediction today! Timeline Photos",
           1418242714
+        ],
+        [
+          "Help Rocket Fuel celebrate its new digs in the beautiful Pacific Shores Center! You're invited to join Rocket Fuel staff, neighbors, and friends for delicious food and cocktails at our new office. We're excited to show you around our new home and share a night full of fun. RSVP for our HQ Housewarming on 11/13 @ 4 p.m. http://ow.ly/E8DPC Rocket Fuel HQ Housewarming Help Rocket Fuel Celebrate it's new digs in the beautiful Pacific Shores Center! You're invited to join Rocket Fuel staff, neighbors, and friends for delicious food and cocktails at our new office.  We're excited to show you around our new home and share a night full of fun.",
+          1415748359
+        ],
+        [
+          "Guided by JJ Eastwood, Rocket Fuel Lands in Australia: http://ow.ly/BiYPu Timeline Photos",
+          1410961535
         ],
         [
           "Rocket Fuel is thrilled to be hosting the Silicon Valley Ruby on Rails meet up on June 18th at 6 p.m. Guest speaker Yehuda Katz, co-author of the best-selling novel \u201cIquery\u201d, will present insights on how to build an excellent CLI tool and leverage examples that he has worked on, including the Ninefold CLI gem.\n\nPlease join us at the Pacific Caf\u00e9 located across campus at 1600 Seaport Blvd. to learn more about job opportunities at Rocket Fuel, network with peers, and expand your programming prowess. Don\u2019t miss out, RSVP now: ow.ly/y72kr",
           1403020800
         ],
         [
-          "Rocket Fuel becomes first to tap Nielsen Catalina Solutions\u2019 In-flight Optimizer:  http://ow.ly/xASdl Rocket Fuel Becomes First to Tap Nielsen Catalina Solutions\u2019 In-flight... Rocket Fuel Becomes First to Tap Nielsen Catalina Solutions\u2019 In-flight Optimizer - Rocket Fuel delivers the only programmatic media-buying platform...",
-          1401890480
-        ],
-        [
-          "Rocket Fuel celebrates its 6 yr anniversary and unveils new worldwide HQ: http://ow.ly/vl6kM Rocket Fuel Celebrates Its Six-Year Anniversary and Unveils New... Rocket Fuel Celebrates Its Six-Year Anniversary and Unveils New Worldwide Headquarters - Rocket Fuel delivers the only programmatic media-buying...",
-          1396534544
+          "15 awesome reasons to skip this year's upfront season and check out the Rocket Fuel Summit: http://ow.ly/wBlHU",
+          1399557915
         ],
         [
           "Vote for your favorite charity @rocketfuelinc and #giveback. Learn more: http://ow.ly/rScW1 Help Rocket Fuel Give Back  ",
           1387556173
         ],
         [
-          "Congrats to @rocketfuelinc president Richard Frankel, named the #YJP Entrepreneur of the Year: http://ow.ly/rE6hV Media Alert: Rocket Fuel President Named Entrepreneur of the Year by the... Media Alert: Rocket Fuel President Named Entrepreneur of the Year by the Young Jewish Professionals - Rocket Fuel delivers the only programmatic...",
-          1386778550
-        ],
-        [
-          "We're honored to be named #1 on the @DeloitteTMT #Fast500 list for 2013. Congrats to the entire @rocketfuelinc team! http://ow.ly/qMpQH Rocket Fuel Ranked No. 1 Fastest Growing Company in North America on... Rocket Fuel Ranked No. 1 Fastest Growing Company in North America on Deloitte's 2013 Tech Fast 500 - Rocket Fuel delivers the only programmatic...",
-          1384355097
+          "Check out @rocketfuelinc's November newsletter: http://ow.ly/qBHQ2 Rocket Fuel's November Newsletter  ",
+          1383926518
         ],
         [
           " @rocketfuelinc President, Richard Frankel, will be speaking later today at the @OpenX Conference in NYC: http://ow.ly/q4QVy Home | OpenX Conference On Tuesday, October 29 OpenX will host its second annual OpenX Conference at the chic and artsy Tribeca Grand. Join senior publishing executives...",
@@ -789,8 +1141,16 @@
           1377171425
         ],
         [
-          ".@rocketfuelinc named to Inc. 500|5000\u2019s annual list of America\u2019s fastest-growing private companies: http://ow.ly/o6GJ0 Rocket Fuel Named to Inc. 500-5000's Annual List of America's... Rocket Fuel Named to Inc. 500-5000's Annual List of America's Fastest-growing Private Companies - Rocket Fuel delivers the only programmatic...",
-          1377093754
+          "The July @rocketfuelinc newsletter is out! http://ow.ly/n1tz8 Welcome to the July 2013 Edition of the Rocket Fuel Newsletter Check out July\u2019s newsletter to learn how you can score a free trip to Vegas, five must-knows about the Facebook exchange, how Rocket Fuel drives...",
+          1374069912
+        ],
+        [
+          ".@rocketfuelinc's research shows #advertisers are shifting $ from TV to online. Find out more: http://ow.ly/mUGF5 via @adexchanger Rocket Fuel Agency Survey Finds Buyers Shifting Dollars From TV To Online Rocket Fuel Agency Survey Finds Buyers Shifting Dollars From TV To OnlineJuly 12th, 2013 - 12:11 amBy David KaplanThe recent stirrings around IPO...",
+          1373897120
+        ],
+        [
+          "See why @rubiconproject @lijit @brightroll @openx @casalemedia @MSFT trust @rocketfuelinc. http://ow.ly/lYaKo #BrandSafety #RTB Multiple Levels of Brand Safety Defense - Rocket Fuel Multiple Levels of Brand Safety Defense - Rocket Fuel Rocket Fuel takes a proactive approach, with three layers of defense that block bad sites and...",
+          1371564284
         ],
         [
           ".@rocketfuelinc now gives you access to prime ad space: The #Facebook Exchange news feed! http://ow.ly/kT9Pk #FBX Location, Location, Location: Rocket Fuel Gives You Access to Prime Real... Location, Location, Location: Rocket Fuel Gives You Access to Prime Real Estate\u2014the FBX News Feed - Rocket Fuel delivers the only programmatic...",
@@ -801,543 +1161,68 @@
           1368190913
         ],
         [
-          "Join us 4/18-19 @Forrester's Forum for Mktg Leadership Pros in LA discussing tools u need 2 market in the digital age http://ow.ly/jYVvl Forrester\u2019s Forum for Marketing Leadership Professionals 2013 - Downtown... Forrester\u2019s Forum for Marketing Leadership Professionals 2013 - Downtown Los Angeles - Rocket Fuel delivers the only programmatic media-buying...",
-          1366300881
+          "How important is brand safety @rocketfuelinc? Just ask execs @CasaleMedia @Lijit @OpenX @Brightroll @RubiconProject: http://ow.ly/kxT23 Multiple Levels of Brand Safety Defense - Rocket Fuel Multiple Levels of Brand Safety Defense - Rocket Fuel Rocket Fuel takes a proactive approach, with three layers of defense that block bad sites and...",
+          1367413298
         ],
         [
-          ".@rocketfuelinc is hosting a Tech Talk at Stanford on Monday 2/25 at 5pm. Join us! http://ow.ly/hWuO9 #AI #BigData #advertising Rocket Fuel Tech Talk @ Stanford Optimizing Online Advertising Using Artificial Intelligence and Big Data What We\u2019ll Talk About: Rocket Fuel solves problems for thousands of...",
-          1361548835
+          "Exercise your right to vote...for @rocketfuelinc! We're a finalist in 3 categories for the @iMediaTweet #ASPY awards. http://ow.ly/jTYBq ASPY Awards 2013 The ASPY Awards are voted on each year by agency executives recognizing the best solution providers in a variety of categories. Vote for one...",
+          1366041688
         ],
         [
-          "Going to Advertising Week? So is Rocket Fuel! Join us at NASDAQ OMX on Oct. 5 for \"Advertising That Learns: When Artificial Intelligence Met Madison Avenue\" to learn more about the wonder of AI and its impact on the advertising industry. RSVP here: http://bit.ly/Op8jx1",
-          1348575516
-        ]
-      ],
-      "dates_start": 1365604236,
-      "dates_end": 1422562939,
-      "likes_avg": 10,
-      "likes_stdev": 12,
-      "comments_avg": 0,
-      "comments_stdev": 0,
-      "shares_avg": 2,
-      "shares_stdev": 3
-    },
-    {
-      "number": 10,
-      "important": [
-        "articl",
-        "call",
-        "tech",
-        "ad tech",
-        "say",
-        "last",
-        "world",
-        "today",
-        "ceo randi",
-        "recent"
-      ],
-      "common": [
-        "http",
-        "http ow",
-        "http ow ly",
-        "learning",
-        "ly",
-        "machine",
-        "machines",
-        "ow",
-        "ow ly",
-        "tech"
-      ],
-      "messages": [
-        [
-          "\"We are facing a trust crisis as evidenced by the recent deluge of articles on the topic of transparency and the recent ANA Media Transparency Initiative: K2 Report, which I referred to as the Ad Tech nuclear bomb during our last earnings call. The \u201ctrust crisis\u201d we face today is not rooted in ideological differences but--instead--in the volume of data that exists in the world today,\" says our CEO, Randy Wootton, in his latest article \"Trust in an AI-powered world\" ow.ly/1uWv3042ehU Timeline Photos",
-          1473362455
-        ],
-        [
-          "\"Our industry succeeds when everyone in the ecosystem trusts each other. We are open about our business practices and are as transparent as possible with our partners and customers,\" says our CEO, Randy Wootton. Read the full article here: http://ow.ly/ClsN301iunQ AdExchanger How The ANA Rebate Controversy Could Impact Ad Tech | AdExchanger The ANA report on agency transparency erupted last week, intensifying a long-expected public dispute between brands and their media agencies. While...",
-          1466175721
-        ],
-        [
-          "\"How The ANA Rebate Controversy Could Impact Ad Tech\" via AdExchanger http://ow.ly/Ufjv301g8UQ How The ANA Rebate Controversy Could Impact Ad Tech | AdExchanger The ANA report on agency transparency erupted last week, intensifying a long-expected public dispute between brands and their media agencies. While...",
-          1465927223
-        ],
-        [
-          "\"Veterans are the answer to Silicon Valley\u2019s talent shortage\" via The Daily Dot http://bit.ly/25m8oy0 Veterans are the answer to Silicon Valley\u2019s talent shortage Veterans are more tech savvy than ever before.",
-          1464285442
-        ],
-        [
-          "The problem is, most marketers see a bunch of devices when they should be seeing the consumer. Learn more about #CrossDevice here: http://ow.ly/4nfN15",
-          1461954850
-        ],
-        [
-          "We can\u2019t believe it\u2019s almost the last day of our Programmatic Scavenger Hunt!  Make sure you're checking out our Twitter page @ www.twitter.com/rocketfuelinc and answering all our questions for a chance to win $200! Today, we released the 4th video from our \u201cProgrammatic Marketing\u201d series. This video is about Sandy, who isn't your typical 14-year-old. Watch her throw a wicked punch. #ProgrammaticHunt Timeline Photos",
-          1432220401
-        ],
-        [
-          "It\u2019s hump day, which means that it\u2019s also day 3 of our #ProgrammaticHunt! Make sure to tune into our Twitter handle, @rocketfuelinc, at 10 am PST for the third question. Remember, it\u2019s not too late to answer the first two questions, too. The prize is BIG and calling your name. Good luck! www.twitter.com/rocketfuelinc Timeline Photos",
-          1432134000
-        ],
-        [
-          "People are already gearing up for day 2 of our #ProgrammaticHunt. Make sure you don\u2019t miss out on your chance for a $200 Amazon gift card! For the next question, check out our Twitter page: https://twitter.com/rocketfuelinc Timeline Photos",
-          1432029600
-        ],
-        [
-          "Make any resolutions for 2015? Rocket Fuel CMO Eric Porres has five for Ad Tech that you'll want see. http://ow.ly/GPM2d Timeline Photos",
-          1420488658
-        ],
-        [
-          "All over the world and in all levels of society, machine learning is making complex systems more efficient. Regardless of whether the systems in question are demand-side platforms, home heating systems, or gas turbines, machines can use Big Data to detect patterns and mine insights that optimize their operations. Machine Learning: Optimizing How WindTurbines Work All over the world and in all levels of society, machine learning is making complex systems more efficient. Regardless of whether the systems in question are demand-side platforms, home heating systems, or gas turbines, machines can use Big Data to detect patterns and mine insights that optimize the\u2026",
-          1416411001
-        ],
-        [
-          "What's in an algorithm? While there's a very interesting (and extensive) answer to that question, a better one might be: What isn't an algorithm in? These days, machine-learning algorithms are becoming a part of society's most important systems\u2014so it's time to learn up. Artificial Intelligence: How Algorithms Make Systems Smart What's in an algorithm? While there's a very interesting (and extensive) answer to that question, a better one might be: What isn't an algorithm in? These days, machine-learning algorithms are becoming a part of society's most important systems\u2014so it's time to learn up.",
-          1413556201
-        ],
-        [
-          "Think you know Thai food? Think hard, because the last thing you want is to be called out by the Thai government-financed \"Thai Delicious Committee.\" They're so sick of bland, dubious fare being labeled as \"Thai food,\" that they called upon the highest authority to keep restaurants honest: machine learning. You Call This Thai Food? The Robotic Taster Will Be the Judge Diplomats and dignitaries have been invited to witness the debut of a machine that its promoters say can scientifically evaluate Thai cuisine, telling the difference, for instance, between a properly prepared green curry with just the right mix of Thai basil, curry paste and fresh coconut cream, and\u2026",
-          1412947801
-        ],
-        [
-          "Machine learning is being applied toward many of today's most pressing matters. By mining insights from huge data sets, machines can do in moments what could take humans years. And when it comes to a crisis like pollution, science needs answers\u2014fast. Machine-Learning Algorithm Makes Impossible Screening of Advanced Materials Possible Machine learning is being applied toward many of today's most pressing matters. By mining insights from huge data sets, machines can do in moments what could take humans years. That's why when it comes to a crisis like pollution, science needs answers\u2014fast. Already, IBM Watson is helping China beat\u2026",
-          1411565401
-        ],
-        [
-          "Rocket Fuel is proud to be the best large tech company to work for in New York: http://ow.ly/wDu1i",
-          1399644637
-        ],
-        [
-          "Want to learn more about the future of #AI @SXSW 2014? Here's CEO @gjohn on how \"The Machines Will Free Us All\": http://ow.ly/o4zU8 SXSW PanelPicker The Machines Will Free Us AllArtificial intelligence has advanced to the point where it\u2019s no longer just science fiction. Computers now perform...",
-          1378389817
-        ],
-        [
-          "Want to learn more about the future of #AI @SXSW 2014? Here's CEO @gjohn on how \"The Machines Will Free Us All\": http://ow.ly/oon5P SXSW PanelPicker The Machines Will Free Us AllArtificial intelligence has advanced to the point where it\u2019s no longer just science fiction. Computers now perform...",
-          1378224209
-        ],
-        [
-          "#ArtificialIntelligence isn't just for #digitaladvertising. See how #LettuceBot is affecting farming: http://ow.ly/mYP78 March of the Lettuce Bot Salad days for Lettuce Bot LETTUCE is California\u2019s main vegetable crop. The state grew $1.6 billion-worth of the leafy plant in 2010 and accounts...",
-          1374242742
-        ],
-        [
-          "Our own @jarvismak will be at @SMX Advanced Seattle talking \"Pro-level Tips To Succeeding At Retargeting\" 6/12: http://ow.ly/lP2Oc SMX Advanced Seattle 2013 - Full Agenda Day 2 SMX Advanced Seattle 2013 Full Conference Agenda Day 2: June 12, 2013",
-          1370966678
-        ],
-        [
-          "Bay Area Folks: Look for our new billboard on Hwy 101!  See if you can answer the question correctly. http://ow.ly/i/20ZoS Timeline Photos",
-          1367510552
-        ],
-        [
-          "The Robot Will See You Now - The Automation of Medicine cover story in @TheAtlantic #ai #medicine http://ow.ly/hXXp6 @IBMWatson The Robot Will See You Now IBM's Watson\u2014the same machine that beat Ken Jennings at Jeopardy\u2014is now churning through case histories at Memorial Sloan-Kettering, learning to...",
-          1361558724
+          "Get just as pumped as we are for #SXSW and enjoy this FREE 5-song download from one of our favorite bands Man Without Country (@mwc_music) here: http://manwithoutcountry.com/rocket-fuel-sxsw/  #weloveourfans Man Without Country x Rocket Fuel - Man Without Country Man Without Country will be playing at the Rocket Fuel party at SXSW this year on March 11th alongside Alt-J and Dawes at The Parish, one of the best indoor live music venues in Austin. Follow @rocketfuelinc and @mwc_music for party updates!",
+          1362537562
         ],
         [
           "Smarter machines & great people fuel @RocketFuelInc's success. Here's our CEO talking about it to @MediaPost: http://ow.ly/gUpoC MediaPost Publications What's Fueling Rocket Fuel: Smarter Machines,... What's Fueling Rocket Fuel: Smarter Machines, People Too - 01/17/2013",
           1358535642
         ],
         [
-          "See today's @Forbes coverage of @RocketFuelInc's stellar growth: \"Ad Tech Startup Rocket Fuel's Revenues Take Off\" http://ow.ly/gUoMX Ad Tech Startup Rocket Fuel's Revenues Take Off - Forbes Illustration: Luma Partners There's a gazillion little ad tech companies out there, as you can see in the well-traveled chart called the Display...",
-          1358455007
-        ],
-        [
-          "#2 on Lead 411 Tech 200 list, of 'fastest companies to $5MM'\n\nhttp://www.lead411.com/tech200/2012/list.php Lead411 2012 Tech 200: Full List This is the full list of Lead411's Technology 200.",
-          1354144731
-        ],
-        [
-          "Tech's New Wave, Driven By Data via @nytimes http://www.nytimes.com/2012/09/09/technology/data-driven-discovery-is-techs-new-wave-unboxed.html?_r=1 Data-Driven Discovery Is Tech\u2019s New Wave - Unboxed Fueled by hardware and software improvements, data-driven discovery is expected to transform a plethora of fields.",
-          1347294033
-        ]
-      ],
-      "dates_start": 1366181817,
-      "dates_end": 1446486976,
-      "likes_avg": 4,
-      "likes_stdev": 3,
-      "comments_avg": 0,
-      "comments_stdev": 0,
-      "shares_avg": 1,
-      "shares_stdev": 1
-    },
-    {
-      "number": 11,
-      "important": [
-        "sxsw",
-        "see",
-        "timelin",
-        "new",
-        "rocket fuel",
-        "real",
-        "photo",
-        "timelin photo",
-        "join",
-        "come"
-      ],
-      "common": [
-        "fuel",
-        "http",
-        "http ow",
-        "http ow ly",
-        "ly",
-        "ow",
-        "ow ly",
-        "rocket",
-        "rocket fuel",
-        "rocketfuelinc"
-      ],
-      "messages": [
-        [
-          "Heading to #SXSW? Come join the fun at Rocket Fuel's not-to-be-missed annual concert party in the heart of downtown Austin! We'll have complimentary cocktails, SXSW's finest food trucks, balcony views of the 6th Street action, and live music from The New Pornographers, Real Estate, and MisterWives. RSVP at rocketfuel.com/sxsw. See you there! Timeline Photos",
-          1426131001
-        ],
-        [
-          "We had an amazing time taking over Pier 84 in NYC for Fuel Fest last week! Check out photos from the client event on our Flickr page: http://bit.ly/1nUyUCD Fuel Fest View the album on Flickr.",
-          1406121483
-        ],
-        [
-          "Watch a #robot take on a ping-pong champ in this epic matchup http://ow.ly/uLnpD",
-          1395506741
-        ],
-        [
-          "We're taking over @CliveBarATX today w/ @joyformidable \n@thecolourist @sanferminband @mrgnomemusic http://ow.ly/tR4hw #sxsw @sxswparty Rocket Fuel Launch Pad - Splash Find out more about this event - Monday, March 10, 2014",
-          1394470258
-        ],
-        [
-          "We're getting excited for our #SXSW party feat. @joyformidable \n@thecolourist @sanferminband @mrgnomemusic #SXSWFUEL http://ow.ly/tR26W Rocket Fuel Launch Pad - Splash Find out more about this event - Monday, March 10, 2014",
-          1393008342
-        ],
-        [
-          "Students: Like AI and Big Data? Looking for real-world work experience? Find the Rocket Fuel food truck on campus at UC Berkeley on 2/13 and 2/18 from 11:00 a.m.-1:30 p.m. for info on great internship opportunities!",
-          1392234597
-        ],
-        [
-          "Seasons Greetings from @rocketfuelinc!",
-          1387987590
-        ],
-        [
-          "Watch our CEO on @CNBC Mad Money with @jimcramer at 6pm EST!",
-          1384552967
-        ],
-        [
-          "Ever wondered what a smarter boarding pass might look like? http://bit.ly/1h1eDIW Dear Airlines: This Is What Your Boarding Passes Should Look Like |... Adam Glynn-Finnegan, a designer for Evernote, wondered what a more useful, more humane boarding pass might look like. Oh merciful airline gods,...",
-          1381241002
-        ],
-        [
-          "Want to take your career to new heights? Join us! rocketfuel.com/careers",
-          1381154623
-        ],
-        [
-          "Want to take your career to new heights? Join us! http://rocketfuel.com/careers",
-          1380290649
-        ],
-        [
-          "Use #bigdatabreakfast to share your thoughts and questions from our NYC event http://bit.ly/1djAiME",
-          1380195334
-        ],
-        [
-          "Rocket Fuel will be at the @adexchanger Programmatic I/O event in NYC on Sept. 16: http://ow.ly/oDZlJ Programmatic I/O : New York Sept. 16 - Progressive Connectivity in... PROGRAMMATIC I/O is designed to educate marketers about the latest trends in digital marketing, including: Evolution of Ad Exchanges, RTB,...",
-          1378994563
-        ],
-        [
-          "Want to take your career to new heights? Join us! www.rocketfuel.com/careers",
-          1378476215
-        ],
-        [
-          "Want to launch your #career into orbit? @rocketfuelinc will hire 300 in '13: http://ow.ly/o6ISp",
-          1377612319
-        ],
-        [
-          ".@rocketfuelinc launches successful campaigns into orbit! @ZIONandZION  @edible http://ow.ly/i/2Wlj2 Timeline Photos",
-          1377273725
-        ],
-        [
-          "Join @rocketfuelinc for @SFAMA's Networking In The Digital Era event w/@portergale in SF tomorrow 8/13. http://ow.ly/nJ0a4 SFAMA Networking In the Digital Era With Porter Gale WhenTuesday, August 13, 2013 Where Kiip, 970 Folsom Street (between 5th and 6th Streets) VIEW MAP Tweet #SFAMA Follow @SFAMA BUY TICKETS Learn from...",
-          1376316210
-        ],
-        [
-          "Launch your career into orbit! Join Rocket Fuel @HOBChicago for an Ad Ops Career Event on 8/6: http://ow.ly/nqM6X #jobs #Chicago http://ow.ly/nqM6X Location: House of Blues, 329 N. Dearborn St. Chicago, IL 60654Date: 8/6Time: Enjoy: Appetizers, beer & wine, giveaways, and a raffle. ",
-          1375452271
-        ],
-        [
-          "Launch your career into orbit! Join Rocket Fuel @HOBChicago for an Ad Ops Career Event on 8/6: http://ow.ly/nqIyD #jobs #Chicago http://ow.ly/nqIyD Location: House of Blues, 329 N. Dearborn St. Chicago, IL 60654Date: 8/6Time: Enjoy: Appetizers, beer & wine, giveaways, and a raffle. ",
-          1375279388
-        ],
-        [
-          "Read #Crain's Chicago Business' \"Smarter marketing via big (& small) data.\" for gr8 tips! http://ow.ly/nnHrg @keylimecove @rocketfuelinc Smarter marketing via big (and small) data If you've seen the term \u201cbig data\u201d during the past few months, there's a good chance it was in close proximity to the words \u201ctransform\u201d or...",
-          1375106656
-        ],
-        [
-          "Space Race Trivia Question (see more about the contest here: http://ow.ly/mDpXc)\n\nFor your next campaign, you\u2019ve decided to go big. Really Big. No, Bigger Than That. You\u2019re going to advertise on the moon! Suppose you\u2019re designing the creative for a billboard that covers the entire width of the visible moon, when full. How wide does your billboard have to be?\na.\t6,784 miles\nb.\t3,392 miles\nc.\t2,159 miles\nd.\t1,080 miles http://ow.ly/mDpXc) Get ready to launch your summer to new heights with Rocket Fuel! You and three of your co-workers could win $500 each and a trip to Las Vegas,...",
-          1374509093
-        ],
-        [
-          "Get ready to launch your summer to new heights! Find out more about @rocketfuelinc's #SpaceRace: http://ow.ly/mDV01 http://ow.ly/mDV01 Get ready to launch your summer to new heights with Rocket Fuel! You and three of your co-workers could win $500 each and a trip to Las Vegas,...",
-          1373378679
-        ],
-        [
-          "We had an amazing time hosting our NYC clients at the Central Park Zoo on Tuesday! Check out the photos from the event on our Flickr page: http://bit.ly/1cr40Nj Timeline Photos",
-          1372345432
-        ],
-        [
-          ".rocketfuelinc lifts off in Spain! http://ow.ly/m9H2F via @mandmglobal Rocket Fuel lifts off in Spain | News | M&M Rocket Fuel is expanding its European presence with the launch of a new office in Spain, as it looks to work with Spanish clients to deliver...",
-          1371573072
-        ],
-        [
-          "Here's \"3 Lessons Digital Video Advertisers Should Learn from Direct Marketing\" via @MediaPost & @rocketfuelinc. http://ow.ly/lfEMP",
-          1369317789
-        ],
-        [
-          "Looking for a tech job in NYC? @rocketfuelinc is at #TCDisrupt till 5/1. Look for us at Startup Alley. http://ow.ly/korXd Agenda | Disrupt NY 2013|TechCrunch TechCrunch is a leading technology media property, dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech...",
-          1367240453
-        ],
-        [
-          "Looking for a data science related #job? Visit us at the Get Connected event tonight at 7pm in San Francisco. http://ow.ly/jS1i1 SF Data Mining Come and get connected. If you're looking to see what the best data science jobs or  or are looking to meet potential people to recruit this is the...",
-          1366117311
-        ],
-        [
-          ".@RocketFuelInc has won the Aspiring Innovator Award by the #SMCEDA! Kudos to the team! http://ow.ly/jDCde Featured Event in the San Francisco Bay Area and San Mateo County | SAMCEDA SAMCEDA 45th Annual Benefit Golf Invitational",
-          1364842810
-        ],
-        [
-          "Read about \"3 Mistakes That Prevent #Retargeting Success\" from @rocketfuelinc's own @jarvismak via @iMediaTweet. ow.ly/jy5eo",
-          1364821357
-        ],
-        [
-          "We're celebrating @rocketfuelinc's 5th birthday today. With over 350 employees & 18 offices worldwide, my how we've grown!",
-          1364576718
-        ],
-        [
-          "Read about \"3 Mistakes That Prevent #Retargeting Success\" from @rocketfuelinc's own @jarvismak via @imediatweet. http://ow.ly/jy5eo",
-          1364487588
-        ],
-        [
-          "We just opened our new @rocketfuelinc office in Paris. Who doesn't love Paris in the springtime? http://ow.ly/iZVdo Rocket Fuel lands in France | News | M&M Rocket Fuel is expanding its European presence with the launch of its operations in France, as it looks to fuel the growth of the programmatic...",
-          1363618912
-        ],
-        [
-          "Are you headed to #SXSW? Get ready...Rocket Fuel will touch down in Austin with a not-to-be missed party on Monday, March 11 at The Parish. We'll have live music featuring Alt-J, Dawes, and Man Without Country. This event is first-come, first-served subject to venue capacity - come early and enjoy! Hope we see you there! Timeline Photos",
-          1361565250
-        ],
-        [
-          "Watch: What's it like to work at @rocketfuelinc? We asked our employees, and this is what they had to say. http://ow.ly/hxyGz. Now hiring. Careers \u00bb Rocket Fuel  ",
-          1360328088
-        ],
-        [
-          "Phenomenal growth in 2012 for @RocketFuelInc & it'll continue in 2013! Here's the news: http://ow.ly/gU8cs (Btw, we're hiring!)",
-          1358445634
-        ]
-      ],
-      "dates_start": 1363799314,
-      "dates_end": 1391319206,
-      "likes_avg": 10,
-      "likes_stdev": 9,
-      "comments_avg": 0,
-      "comments_stdev": 1,
-      "shares_avg": 2,
-      "shares_stdev": 2
-    },
-    {
-      "number": 12,
-      "important": [
-        "timelin",
-        "technolog",
-        "give",
-        "rocket fuel",
-        "one",
-        "photo",
-        "timelin photo",
-        "work",
-        "director",
-        "leader"
-      ],
-      "common": [
-        "http",
-        "http ow",
-        "http ow ly",
-        "ly",
-        "ow",
-        "ow ly",
-        "photos",
-        "rocket",
-        "timeline",
-        "timeline photos"
-      ],
-      "messages": [
-        [
-          "Congratulations to our very own, Kiwoba Allaire, Founder and Director of Rocket Fuel \"Gives Back\" for her dedication in philanthropy, hard work, and being recognized as one of the Top 50 Multicultural Leaders in Technology 2016! Keep up the hard work!    ow.ly/Jyeo303yjtm Timeline Photos",
-          1472061917
-        ],
-        [
-          "Who are the serious players in #programmaticTV according to eMarketer? #PTV Timeline Photos",
-          1464196077
-        ],
-        [
-          "Interested in becoming a Rocket Fueler? We're looking for a Revenue Manager to join our team in Redwood City, CA. Do you have what it takes? Apply here: http://bit.ly/1ROndmD Timeline Photos",
-          1460231416
-        ],
-        [
-          "Rocket Fuel asks marketers and agency pros: \u201cwhat\u2019s ahead in 2016?\u201d Combined with our own insights and analysis, we uncovered key themes and topics that will likely influence the industry conversations throughout the year. Check out the latest whitepaper, \u201cMarketing Tech Trends: 10 Things Happening in 2016,\u201d  to learn what is on the rise: ow.ly/YC407 Timeline Photos",
-          1456155753
-        ],
-        [
-          "At #CES2016? Join us today at 3:30 pm PT for a riveting panel with Glenfiddich, DISH and Resolute Digital as we discuss the future of programmatic TV advertising #PTVisHere ow.ly/WCfcy Timeline Photos",
-          1452024388
-        ],
-        [
-          "Our contest starts NOW! Join Rocket Fuel for our \u201cMomentous 2015\u201d Twitter contest for a chance to win a $200 Amazon gift card. Tune into our Twitter account, @rocketfuelinc, to participate. Click here for the rules: http://ow.ly/Ufr3i  #momentous2015 Timeline Photos",
-          1446658048
-        ],
-        [
-          "Technology Business Review recognized us as a leader in next-gen DMPs, citing our success in both DMP 1.0 and DMP 2.0 criteria. According to TBR, the \"Rocket Fuel DMP\u2019s ability to identify and manage audiences with cookies (DMP 1.0) and with the flexibility to leverage strengths found in probabilistic and deterministic ID techniques (DMP 2.0) made the company an early leader in the high-growth segment.\" Learn more by downloading TBR's latest whitepaper: ow.ly/U0bQd Timeline Photos",
-          1446142790
-        ],
-        [
-          "Rocket Fuel CTO Mark Torrance writes to get the highest performing retargeting results, \u201cmarketers need a technology partner \u2014 one that can leverage machine learning models to automatically identify high-performing combinations of data, and to determine their relative value.\u201d ow.ly/SpsaF Timeline Photos",
-          1442608949
-        ],
-        [
-          "\"While tactics like retargeting\u2014marketing\u2019s sexiest tactic of 2012\u2014are very effective, unless advertisers are also attracting new customers, they will begin to witness diminishing returns. The same goes for channel optimization, certain channels will always be more effective, and therefore advertisers need the ability to move budget around seamlessly.\" - JJ Eastwood, Managing Director, Australia & New Zealand. Read the rest of his piece in mUmBRELLA here: http://ow.ly/MPsnp Timeline Photos",
-          1431439860
-        ],
-        [
-          "Viewability is extremely important to us here at Rocket Fuel. However, you might be asking yourself, \u201cwhat exactly is Rocket Fuel doing to help deliver optimal #viewability to its clients?\u201d In this fifth and final installment in our series about viewability, we highlight the key features of our own viewability optimization offering, and update you on some of the other activities we\u2019re involved in to continue to maximize marketing ROI for our clients. http://ow.ly/LrM4p Timeline Photos",
-          1428677310
-        ],
-        [
-          "Rocket Fuel is driving IndyCar viewership across the finish line! http://ow.ly/L33Ej Timeline Photos",
-          1427826748
-        ],
-        [
-          "Imagine for a second that programmatic advertising is like a spaceship. If you popped the hood and looked inside, you\u2019d see nothing but blinking lights and gadgetry, all coming together to run an incredible array of complicated computations in the blink of an eye. But #programmatic doesn\u2019t have to be mysterious or intimidating. Michael Benisch, Director of Artificial Intelligence, takes you \u201cunder the hood\u201d of programmatic buying in our latest whitepaper. Download it for free today! http://ow.ly/JFsMQ Timeline Photos",
-          1424955848
-        ],
-        [
-          "Rocket Fuel is growing! We\u2019re excited to announce the opening of our new office in S\u00e3o Paulo, Brazil, and our initial expansion into the emerging Latin American market. Rocket Fuel will partner and work closely with agencies and brands in Brazil, all of whom are eager to embrace ad tech innovations that will drive sales and increase brand loyalty. http://ow.ly/I3qc8 Timeline Photos",
-          1422450301
-        ],
-        [
-          "Introducing Origin 4.15! This release includes key upgrades that improve the user experience and performance of one of the industry\u2019s most powerful DMPs. http://ow.ly/HFmO5 #digitalmarketing Timeline Photos",
-          1421954528
-        ],
-        [
-          "What would Don Draper say about #programmatic? http://ow.ly/HdvDo Timeline Photos",
-          1421113649
-        ],
-        [
-          "Are marketers the future of CES? Annual landmark events like CES are important not only for the opportunity they offer companies to show off their newest gadgets, but also because they provide unmatched insight into defining future trends. For 2015, the forecast is clear: Consumer electronics and marketing are about to get a whole lot cozier. http://ow.ly/GX6QA #futureofmarketing #CES2015 Timeline Photos",
-          1420656994
-        ],
-        [
-          "We're extremely pleased to announce that Stanford PhD Manu Thapar has joined the company as Senior Vice President of R&D. Manu joins Rocket Fuel with more than 20 years of technology management experience, working with major technology brands and leading large multinational engineering teams located across the globe. Welcome Manu! http://ow.ly/G7ZjS Timeline Photos",
-          1418945338
-        ],
-        [
-          "Programmatic Buying: A decade ago, the term came out like gangbusters to dominate discussions about the future digital-marketing landscape. Today, it\u2019s much more than just a buzzword\u2014it\u2019s a pivotal component of any strong digital strategy. Request our definitive guide to writing a Programmatic RFP to make sure you're getting the programmatic partner and solution that's best for you. There's a Partner for That: The Definitive Guide to Writing a Programmatic RFP Programmatic Buying: A decade ago, the term came out like gangbusters to dominate discussions about the future digital-marketing landscape. Today, it\u2019s much more than just a buzzword\u2014it\u2019s a pivotal component of any strong digital strategy.",
-          1412857800
-        ],
-        [
-          "Guided by JJ Eastwood, Rocket Fuel Lands in Australia: http://ow.ly/BiYPu Timeline Photos",
-          1410961535
-        ],
-        [
-          "The photo editing #future is based on machine learning http://ow.ly/B9zUj Timeline Photos",
-          1410361848
-        ],
-        [
-          "We couldn't be more excited to officially welcome [x+1]'s talented team to the Rocket Fuel family. Together, we're working on solutions that will ring in a new age of marketing. Get ready for Marketing That Learns\u2122. http://ow.ly/B6Xl4 Timeline Photos",
-          1409914928
-        ],
-        [
-          "Webinar: Insurance Top-Of-Mind Awareness Q2 2014 http://ow.ly/AMwQ2 Timeline Photos",
-          1409321732
-        ],
-        [
-          "Are You Obsolete? Yeah, Probably (this fascinating video explains why) http://ow.ly/AAd6R Timeline Photos",
-          1409151317
-        ],
-        [
-          "Pew Research: AI, Robotics, and the Future of Jobs http://ow.ly/A7dni Timeline Photos",
-          1408114524
-        ],
-        [
-          "We are thrilled to join forces with @xplusone to deliver a new era of fully optimized, data-driven marketing: http://ow.ly/zZCvy Timeline Photos",
-          1407266714
-        ],
-        [
-          "Ask: What can Creative Optimization do for You? http://ow.ly/zqkNz Timeline Photos",
-          1405980917
-        ],
-        [
-          "Bay Area folks: Have you seen our new joint billboard w/@NetSuite along 101 N. near SFO? Timeline Photos",
-          1371823648
-        ],
-        [
-          "Thanks to all of you who made it to the #RocketFuelSXSW party last nite! Here's a couple of pics: http://ow.ly/i/1FNlb http://ow.ly/i/1FNlA Timeline Photos",
-          1363113199
-        ],
-        [
-          "Thanks BurgerMeister for your yummy burgers. Food Truck Fridays! Timeline Photos",
-          1349463984
-        ],
-        [
-          "Infographic of the Week: Pulp Fiction in Chronological Order http://rocketfuel.com/newsroom/blog/infographic-of-the-week-pulp-fiction-in-chronological-order Timeline Photos",
-          1342192178
-        ],
-        [
-          "Infographic of the Week: What music should you listen to at work?  http://rocketfuel.com/newsroom/blog/infographic-of-the-week3 Timeline Photos",
-          1340814638
-        ],
-        [
-          "Infographic of the Week: What a Hundred Million Calls to 311 Reveal About New York  http://rocketfuel.com/newsroom/blog/infographic-of-the-week-what-a-hundred-million-calls-to-311-reveal-about-ne Timeline Photos",
-          1338588002
+          "Rocket Fuel is on the NASDAQ OMX building in Times Square! Timeline Photos",
+          1349374369
         ],
         [
           "Rocket Fuel introduces our latest Infographic: SoLoMo (in conjunction with iMedia Agency Summit): http://rocketfuel.com/downloads/SoLoMo8x14.pdf Timeline Photos",
           1337720824
         ],
         [
-          "Infographic of the Week: Plot Lines \u2013 What Makes a Prize-Winning Novel? http://rocketfuel.com/newsroom/blog/inforgraphic-of-the-week-plot-lines-what-makes-a-prize-winning-novel Timeline Photos",
-          1337358672
-        ],
-        [
           "Internet Week 2012: Rocket Fuel President Richard Frankel to join panel \u201cWhat\u2019s the Attribution, Kenneth,\" at OMMA RTB tomorrow @ 2:45, Westin NY: http://rocketfuel.com/newsroom/press_release/internet-week-2012-rocket-fuel-to-speak-at-omma-rtb Timeline Photos",
           1337101225
-        ],
-        [
-          "Huge thanks to Curry Up Now for bringing us such an amazing lunch today! Timeline Photos",
-          1328309158
         ]
       ],
-      "dates_start": 1363602933,
-      "dates_end": 1446870219,
-      "likes_avg": 8,
-      "likes_stdev": 7,
+      "dates_start": 1364542462,
+      "dates_end": 1432233666,
+      "likes_avg": 9,
+      "likes_stdev": 8,
       "comments_avg": 0,
-      "comments_stdev": 0,
+      "comments_stdev": 1,
       "shares_avg": 2,
       "shares_stdev": 2
     },
     {
-      "number": 13,
+      "number": 14,
       "important": [
-        "futur",
-        "mediabuy platform",
         "deliv onli programmat mediabuy platform",
-        "one",
+        "programmat mediabuy",
         "scale",
-        "deliv onli programmat mediabuy",
         "big data scale har",
-        "big data scale",
         "mediabuy platform big data",
-        "programmat mediabuy"
+        "big data scale",
+        "mediabuy platform",
+        "one",
+        "deliv onli programmat mediabuy",
+        "futur"
       ],
       "common": [
-        "big",
-        "big data",
         "buying",
         "data",
         "delivers",
+        "delivers programmatic",
         "fuel",
-        "platform",
+        "fuel delivers",
         "programmatic",
         "rocket",
-        "rocket fuel"
+        "rocket fuel",
+        "rocket fuel delivers"
       ],
       "messages": [
         [
@@ -1351,6 +1236,10 @@
         [
           "The 10 algorithms that dominate our world http://ow.ly/xp8qD The 10 Algorithms that Dominate Our World - Rocket Fuel The 10 Algorithms that Dominate Our World - Rocket Fuel delivers the only programmatic media-buying platform at big data scale that harnesses the...",
           1401907226
+        ],
+        [
+          "Rocket Fuel becomes first to tap Nielsen Catalina Solutions\u2019 In-flight Optimizer:  http://ow.ly/xASdl Rocket Fuel Becomes First to Tap Nielsen Catalina Solutions\u2019 In-flight... Rocket Fuel Becomes First to Tap Nielsen Catalina Solutions\u2019 In-flight Optimizer - Rocket Fuel delivers the only programmatic media-buying platform...",
+          1401890480
         ],
         [
           "The CMO\u2019s guide to #programmatic buying: http://ow.ly/x976r The CMO's Guide to Programmatic Buying - Rocket Fuel The CMO's Guide to Programmatic Buying - Rocket Fuel delivers the only programmatic media-buying platform at big data scale that harnesses the...",
@@ -1375,6 +1264,10 @@
         [
           "Want to supercharge your digital marketing programs? Check out our new whitepaper for 11 Dos and Don\u2019ts of #Programmatic #Advertising http://ow.ly/vMCTu Whitepaper - 11 Dos and Don'ts of Programmatic Advertising - Rocket Fuel Whitepaper - 11 Dos and Don'ts of Programmatic Advertising - Rocket Fuel delivers the only programmatic media-buying platform at big data scale...",
           1397571624
+        ],
+        [
+          "Rocket Fuel celebrates its 6 yr anniversary and unveils new worldwide HQ: http://ow.ly/vl6kM Rocket Fuel Celebrates Its Six-Year Anniversary and Unveils New... Rocket Fuel Celebrates Its Six-Year Anniversary and Unveils New Worldwide Headquarters - Rocket Fuel delivers the only programmatic media-buying...",
+          1396534544
         ],
         [
           "Client Direct \u2013 It\u2019s Not a War Between Agency and Ad-Tech http://ow.ly/uZMpa Client Direct \u2013 It\u2019s Not a War Between Agency and Ad-Tech - Rocket Fuel Client Direct \u2013 It\u2019s Not a War Between Agency and Ad-Tech - Rocket Fuel delivers the only programmatic media-buying platform at big data scale that...",
@@ -1421,12 +1314,20 @@
           1386864336
         ],
         [
+          "Congrats to @rocketfuelinc president Richard Frankel, named the #YJP Entrepreneur of the Year: http://ow.ly/rE6hV Media Alert: Rocket Fuel President Named Entrepreneur of the Year by the... Media Alert: Rocket Fuel President Named Entrepreneur of the Year by the Young Jewish Professionals - Rocket Fuel delivers the only programmatic...",
+          1386778550
+        ],
+        [
           "More on brand safety from @rocketfuelinc CTO Mark Torrance: http://ow.ly/qPLL7 Rocket Fuel Brand Safety Series: Toolbar Inventory - Rocket Fuel Rocket Fuel Brand Safety Series: Toolbar Inventory - Rocket Fuel delivers the only programmatic media-buying platform at big data scale that...",
           1385482322
         ],
         [
           "Want to know how shoppers will spend on #BlackFriday by geography? Here's our holiday shopping #infographic: http://ow.ly/r1uSk Rocket Fuel Investigates the 2013 Holiday Shopping Season (Infographic)... Rocket Fuel Investigates the 2013 Holiday Shopping Season (Infographic) - Rocket Fuel delivers the only programmatic media-buying platform at big...",
           1385049753
+        ],
+        [
+          "We're honored to be named #1 on the @DeloitteTMT #Fast500 list for 2013. Congrats to the entire @rocketfuelinc team! http://ow.ly/qMpQH Rocket Fuel Ranked No. 1 Fastest Growing Company in North America on... Rocket Fuel Ranked No. 1 Fastest Growing Company in North America on Deloitte's 2013 Tech Fast 500 - Rocket Fuel delivers the only programmatic...",
+          1384355097
         ],
         [
           "#BigData isn't just for advertising. Soon hospitals will use it to cut costs and better serve patients: http://ow.ly/phz73 A Hospital Takes its Own Big-Data Medicine - Rocket Fuel A Hospital Takes its Own Big-Data Medicine - Rocket Fuel delivers the only programmatic media-buying platform at big data scale that harnesses the...",
@@ -1443,6 +1344,10 @@
         [
           ".@rocketfuelinc's Mark Prior discusses location-based profiling in #mobilemarketing in new article: http://ow.ly/obeLj Right Place, Right Time: Location Based Profiling - Rocket Fuel Right Place, Right Time: Location Based Profiling - Rocket Fuel delivers the only programmatic media-buying platform at big data scale that...",
           1377533024
+        ],
+        [
+          ".@rocketfuelinc named to Inc. 500|5000\u2019s annual list of America\u2019s fastest-growing private companies: http://ow.ly/o6GJ0 Rocket Fuel Named to Inc. 500-5000's Annual List of America's... Rocket Fuel Named to Inc. 500-5000's Annual List of America's Fastest-growing Private Companies - Rocket Fuel delivers the only programmatic...",
+          1377093754
         ],
         [
           "Want to launch your career into orbit? @rocketfuelinc is hiring! http://ow.ly/nENco Careers - Rocket Fuel Careers - Rocket Fuel delivers the only programmatic media-buying platform at big data scale that harnesses the power of artificial intelligence to...",
@@ -1481,32 +1386,36 @@
           1366635741
         ],
         [
+          "Join us 4/18-19 @Forrester's Forum for Mktg Leadership Pros in LA discussing tools u need 2 market in the digital age http://ow.ly/jYVvl Forrester\u2019s Forum for Marketing Leadership Professionals 2013 - Downtown... Forrester\u2019s Forum for Marketing Leadership Professionals 2013 - Downtown Los Angeles - Rocket Fuel delivers the only programmatic media-buying...",
+          1366300881
+        ],
+        [
           "Check out @Forrester's new TEI report on how @rocketfuelinc's platform delivers superior ROI. http://ow.ly/jGMIp Ready for Real ROI? - Rocket Fuel Ready for Real ROI? - Rocket Fuel delivers the only programmatic media-buying platform at big data scale that harnesses the power of artificial...",
           1364986873
         ]
       ],
-      "dates_start": 1375803325,
-      "dates_end": 1398688885,
+      "dates_start": 1375487597,
+      "dates_end": 1398503503,
       "likes_avg": 17,
-      "likes_stdev": 36,
+      "likes_stdev": 34,
       "comments_avg": 0,
       "comments_stdev": 0,
-      "shares_avg": 2,
+      "shares_avg": 3,
       "shares_stdev": 4
     },
     {
-      "number": 14,
+      "number": 15,
       "important": [
-        "ai",
-        "convers",
-        "campaign",
-        "platform",
-        "download",
-        "timelin photo",
-        "drive",
-        "ad",
-        "programmat",
-        "learn"
+        "speak",
+        "last",
+        "video",
+        "power",
+        "blog",
+        "everi",
+        "need",
+        "predict",
+        "custom",
+        "provid"
       ],
       "common": [
         "fuel",
@@ -1522,6 +1431,14 @@
       ],
       "messages": [
         [
+          "According to JD Power, 21% of mortgage borrowers are unhappy with their current provider, and for first-time homeowners, it jumps up to 27%. This speaks to an overall need for complex financial transactions to be simpler and more streamlined at every level. At the Digital Mortgage 2016 conference in San Francisco last month, Rocket Fuel spoke about an end-to-end process that predictively optimizes the customer journey for mortgage applicants. Watch the 7-minute video on our blog to learn more: bit.ly/2kancdy Using Predictive Marketing to Demystify the Mortgage Process - Rocket Fuel By Simon Hayhurst, GM of Media Services at Rocket Fuel According to JD Power, 21% of mortgage borrowers are unhappy with their current provider, and for first-time homeowners it jumps up to 27%. This speaks to an overall need for complex financial transactions to be simpler and more streamlined at e...",
+          1485283561
+        ],
+        [
+          "Our new partnership with LiveRamp means we can better reach customers across all devices. By putting LiveRamp\u2019s IdentityLink technology to work within Rocket Fuel\u2019s predictive marketing platform, marketers can create more personalized, people-based marketing. We sat down with Jeff Smith, Chief Marketing Officer of LiveRamp , to ask him a few questions about what IdentityLink means for advertisers and the future of people-based marketing. Check out the blog: http://ow.ly/WdjB306O9Wr Rocket Fuel and LiveRamp Partnership - Rocket Fuel In today\u2019s connected world, marketers face the challenge of reaching consumers through myriad devices and across countless consumer channels like...",
+          1480942865
+        ],
+        [
           "Download our AI-driven DSP playbook now to learn how our platform helps drive ad campaign conversions! #Display #Programmatic #AdCampaigns #AI http://ow.ly/dDaW306DwXU Timeline Photos",
           1480436797
         ],
@@ -1534,8 +1451,8 @@
           1473697510
         ],
         [
-          "\"For any brand or store network wanting to pull out of the game on the net, the key lies in being able to offer a unified experience to its customers, and this on all possible channels. For this, many parameters must be taken into account ...\" says Nathalie Echinard of Journal du Net. Les facteurs cl\u00e9s pour r\u00e9ussir le e-commerce  \u00e0 l\u2019\u00e8re du commerce... Pour toute marque ou r\u00e9seau de boutiques voulant tirer son \u00e9pingle du jeu sur le net, la cl\u00e9 r\u00e9side dans le fait de pouvoir proposer une exp\u00e9rience...",
-          1472659528
+          "\u201cMachine learning promises to transform this segment of the digital advertising market, in that algorithms are able to predict the success outcome of an impression, and thus adjust bid amounts dynamically,\u201d according to Juniper Research ow.ly/UDuz3045yGg",
+          1473527707
         ],
         [
           "We've produced an educational video to tell you all the ways our new Dynamic Creative can empower your ad campaigns. The best part? We actually show you a hands on demonstration of how the technology works. Click here: ow.ly/xD7j303BglR and register for the video today! Rocket Fuel Dynamic Creative can drive better performance, but many marketers and media planners wonder if it\u2019s worth the hassle. Rocket Fuel decided to find...",
@@ -1570,24 +1487,64 @@
           1468864265
         ],
         [
-          "We take great pride today in announcing that we have earned the Trustworthy Accountability Group  \u201cCertified Against Piracy\u201d Seal http://ow.ly/hozG3019epv WORLD\u2019S LEADING AD AGENCIES AND MAJOR BRANDS ENDORSE TAG ANTI-PIRACY... Four Largest Agency Holding Companies to Require Partners to Take Aggressive Anti-Piracy Steps; 11 Providers of Anti-Piracy Services Now Approved...",
-          1466013631
+          "Is your valuable #data just sitting around? Learn more about how you can put it to work with the Rocket Fuel #DMP. Download \"Nine Ways to Put Your Data to Work\" for everything you neeed to know, from activating your loyalists, to growing share of wallet, to preventing churn, to driving smarter shopper marketing and more: http://ow.ly/UOLjO Resources | Rocket Fuel Today\u2019s marketers are under pressure like never before. CEOs demand higher ROI and consumers demand marketing that is more personalized and...",
+          1468763710
         ],
         [
-          "Our partner, Federation for Internet Alerts (FIA), has been nominated for the Public Service & Activism Webby Award! Get out and vote for FIA Saving Lives in 200 Milliseconds TODAY: http://ow.ly/4mS6OG. FIA Saving Lives in 200 Milliseconds",
-          1461096731
+          "Is your data just sitting around? Learn about how you can put valuable #data to work with the our whitepaper: \"Nine Ways to Put Your Data to Work.\" Download it here: http://ow.ly/UOLjO #DMP Rocket Fuel Today\u2019s marketers are under pressure like never before. CEOs demand higher ROI and consumers demand marketing that is more personalized and...",
+          1467036047
         ],
         [
-          "We couldn't agree more with our own JJ Eastwood, Managing Director of Australia, who said, \"The most innovative marketers are smart enough to know what they don\u2019t know and bring in the right expertise to inform their strategies.\u201d Read the article here: ow.ly/10hn8v What does it take to be an innovative CMO? Innovation has become one of marketing\u2019s biggest buzzwords, but what does it really mean for a CMO to be innovative?",
-          1459793269
+          "\"Top #Programmatic Marketing Platform Gets Political\" via Mobile Marketing Watch. ARTICLE: http://ow.ly/4nkrJA #Election2016 Top Programmatic Marketing Platform Gets Political - Mobile Marketing Watch Top Programmatic Marketing Platform Gets Political",
+          1462199150
         ],
         [
-          "John Lewis, the global president of Nielsen, has joined Rocket Fuel as our newest board member! John was chosen for his experience creating value for marketers through consumer insights. Welcome to Rocket Fuel, John! http://ow.ly/Xn5tb Nielsen Global President John Lewis Joins Rocket Fuel Board of Directors - Rocketfuel Lewis Chosen for Experience Creating Value for Marketers Through Consumer Insights REDWOOD CITY, Calif., Jan. 21, 2016 \u2013 Rocket Fuel (NASDAQ: FUEL), a leading Programmatic Marketing Platform provider, today announced that John Lewis, global president of Nielsen, has joined its board of directors, ef\u2026",
-          1453752844
+          "In the Philadelphia area and interested in #BigData and Politics? Join us, \u00d8ptimus, Dover Strategy Group, Global Strategy Group, and PhIMA - Philadelphia Interactive Marketing Association for a panel on how Big Data will help choose the next U.S. President. Details: Thursday, April 28, 6-9 PM at The Hub Cira Centre. Sign up here: http://ow.ly/4mPRoL Educational Event Sponsored by Rocket Fuel Big Data Will Choose the Next US President In 2012, political advertisers were just beginning to understand the power of data to shape and predict election outcomes. In 2016, big data analytics will influence billions of dollars in Presidential campaign spending. Hear from Republican and Democrat po\u2026",
+          1461091136
+        ],
+        [
+          "We've partnered with Eyeota, a global leader for local audience data with over 1.8 B unique profiles. \"Enhancing our moment scoring by the addition of further qualified data enables Rocket Fuel to better meet our clients\u2019 needs, which is why Eyeota is intrinsically linked to our strategy,\u201d said David Nelson, Rocket Fuel's EMEA VP of Product & Operations. Read more about the partnership: ow.ly/103dFX Eyeota and Rocket Fuel announce partnership Eyeota and Rocket Fuel announce partnership",
+          1459275094
+        ],
+        [
+          "Is your valuable #data just sitting around? Put it to work! Download \"Nine Ways to Put Your Data to Work\" for everything you need to know, from activating your loyalists, to growing share of wallet, to preventing churn, to driving smarter shopper marketing and more: http://ow.ly/UOLjO Timeline Photos",
+          1459111477
+        ],
+        [
+          "Headed to #SXSW? Us too! Attend our political panel on Sunday, March 13, from 11 am - 12 pm CST at the JW Marriott Austin in Salon 5. Listen in as Cambridge Analytica, National Media Research, Planning and Placement, Revolution Messaging LLC, and our own JC Medici explain how #bigdata will shape campaign spending for the 2016 Presidential election, influence voter outcomes, and predict the next U.S. President. Learn more here: ow.ly/YLFKQ  #Moment2016 Media Alert: SXSW Selects Rocket Fuel to lead \u201cBig Data Will Choose the Next US President\u201d Panel... WASHINGTON, DC, Feb. 3, 2016 \u2013 Rocket Fuel (NASDAQ: FUEL), a leading Programmatic Marketing Platform provider, today announced the selection of its panel \u201cBig Data Will Choose the Next US President,\u201d at SXSW, one of the largest and most influential conferences in the technology industry, taking plac\u2026",
+          1457371219
         ],
         [
           "We are extremely excited to announce that Eric Duerr has joined Rocket Fuel as our new CMO! Eric is an accomplished marketing executive, most recently CEO of digital marketing agency Emphatic, with deep experience transforming market perceptions for some of the world\u2019s most successful brands. Welcome to the team, Eric! Read the offical press release here: ow.ly/X4OJf",
           1452814053
+        ],
+        [
+          "For the 2nd year in a row, Rocket Fuel was named a Visionary in Gartner\u2019s Digital Marketing Hubs Magic Quadrant. Rocket Fuel\u2019s unique Moment Scoring\u2122 technology is designed to learn the critical predictors of what makes one moment more likely to garner the desired marketing outcome than another in a particular moment, and, in real time, improves campaigns accordingly. Thank you Gartner!  ow.ly/WVrur Timeline Photos",
+          1452614401
+        ],
+        [
+          "Today Rocket Fuel is proud to announce that people-based marketing is becoming the default standard in our self-service Demand Side Platform (DSP). Learn how via our people-based marketing and Moment Scoring\u2122 you can improve the performance of your digital campaigns through better decisioning and more accurate campaign measurement: ow.ly/UPaow Timeline Photos",
+          1447873200
+        ],
+        [
+          "According to eMarketer, programmatic marketing spend is estimated to explode to $20 billion by 2016. Stay ahead of the curve and join us for #momentous2015, the first virtual summit exclusively dedicated to programmatic marketing. Sessions will range from the fundamentals to high-level strategy. Don't miss out on learning all you can! To register for the free November 11th summit, click here: ow.ly/TJtjz Timeline Photos",
+          1446483597
+        ],
+        [
+          "MOMENTOUS 2015, the first virtual summit exclusively dedicated to programmatic marketing, will be on November 11, from 10 a.m. to 5 p.m. ET. Join us to hear from industry experts and analysts to discuss topics such as the transformation of marketing and the role of programmatic buying, the future of programmatic marketing, the adoption of a data management platform, and going beyond 1:1 marketing to marketing in the moment. Visit the Momentous page to register: ow.ly/TJtjz #momentous2015 Timeline Photos",
+          1446063508
+        ],
+        [
+          "Imagine a world where marketers can instantly activate their first-party data from IBM into paid advertising channels and optimize not just to target the right individual, but also that individual in the best moment via Moment Scoring\u2122. Well, this is now possible with the new partnership between IBM and Rocket Fuel. ow.ly/TMjgT Timeline Photos",
+          1445901077
+        ],
+        [
+          "On Wednesday, November 11th, from 10:00 am \u2013 5:00 pm ET, we\u2019ll be hosting Momentous, the first virtual summit dedicated exclusively to programmatic marketing! To see the full agenda and register, visit: ow.ly/TJtjz #momentous2015 Timeline Photos",
+          1445535925
+        ],
+        [
+          "We're living in a moment-driven society. Moments are defining the way we think, spend, and act. But there's a problem: Consumers are living moment-to-moment and marketers aren't following suit. Find out how Rocket Fuel can awaken the potential of marketing in the moment via Moment Scoring\u2122 technology, which learns the critical\u2014and often hard to recognize\u2014predictors of which moments drive conversions: http://ow.ly/SgkFV Timeline Photos",
+          1442401681
         ],
         [
           "To unravel the complexity of the modern voter, Rocket Fuel\u2019s Marketing Research Team examined the political preferences of survey respondents on perennial hot-button issues that shape election cycles. Let's dive into our newest study, Part 2 of our \u201cPreparing for 2016,\u201d and find out what online activity says about a consumer's voting habits: http://ow.ly/QGRVK Timeline Photos",
@@ -1598,8 +1555,56 @@
           1433934721
         ],
         [
+          "Forrester Research cited Rocket Fuel as a Strong Performer in the DSP market! In The Forrester Wave\u2122: Demand-Side Platforms, Q2 2015, Forrester noted Rocket Fuel\u2019s commitment to \u201cdeveloping \u2018marketing that learns\u2019 through artificial intelligence.\u201d  Learn more on why Rocket Fuel made the cut by downloading the full report here: ow.ly/NPJvH Timeline Photos",
+          1433346083
+        ],
+        [
+          "In our fifth and final \"Programmatic Marketing\" video, watch how Marketing That Learns\u2122 to combine on and offline data can connect marketers with their product's true fanatics: https://vimeo.com/128551576 Marketing That Learns\u2122 How to Increase Foot Traffic in Stores This is \"Marketing That Learns\u2122 How to Increase Foot Traffic in Stores\" by Rocket Fuel Inc. on Vimeo, the home for high quality videos and the people who love them.",
+          1432316971
+        ],
+        [
+          "In the second \"Programmatic Marketing\" video, marketers connect with the Millers through Marketing That Learns\u2122 how to reach individuals, not devices\u2014and helps drive them toward the products they love. https://vimeo.com/128204560 Marketing That Learns\u2122 How to Reach Individuals, Not Devices By compiling a single consumer profile via a common IP address, then layering on additional signals, Rocket Fuel can enrich the understanding of device ownership\u2026",
+          1432097399
+        ],
+        [
+          "Today, Rocket Fuel releases its \u201cGuide to Programmatic Marketing\u201d\u2014a must-have for all marketers to prepare themselves for the programmatic marketing revolution. Get Yours Today The Guide is a marketer\u2019s essential playbook with practical insights into optimizing media buying and driving customer action across the entire journey to deliver better business outcomes.",
+          1431612001
+        ],
+        [
+          "\"While tactics like retargeting\u2014marketing\u2019s sexiest tactic of 2012\u2014are very effective, unless advertisers are also attracting new customers, they will begin to witness diminishing returns. The same goes for channel optimization, certain channels will always be more effective, and therefore advertisers need the ability to move budget around seamlessly.\" - JJ Eastwood, Managing Director, Australia & New Zealand. Read the rest of his piece in mUmBRELLA here: http://ow.ly/MPsnp Timeline Photos",
+          1431439860
+        ],
+        [
+          "Viewability is extremely important to us here at Rocket Fuel. However, you might be asking yourself, \u201cwhat exactly is Rocket Fuel doing to help deliver optimal #viewability to its clients?\u201d In this fifth and final installment in our series about viewability, we highlight the key features of our own viewability optimization offering, and update you on some of the other activities we\u2019re involved in to continue to maximize marketing ROI for our clients. http://ow.ly/LrM4p Timeline Photos",
+          1428677310
+        ],
+        [
+          "Rocket Fuel is driving IndyCar viewership across the finish line! http://ow.ly/L33Ej Timeline Photos",
+          1427826748
+        ],
+        [
+          "There is a massive amount of data out there (that's an understatement), and figuring out how to use it all is truly an art form. http://ow.ly/KQtgE The Data-Driven Art Of Digital Marketing Digital marketers today have an abundance of data at their disposal, and columnist James Green notes that determining how to best utilize all these data points is truly an art form.",
+          1427400105
+        ],
+        [
+          "When marketers hear the term \"March Madness,\" they don\u2019t think basketball. They think opportunity. http://ow.ly/KHEpH March Madness And Digital Marketing (Infographic) When you hear the term March Madness, you probably instantly think of basketball. When marketers hear the term March Madness, they instantly think of the word opportunity. Every year, when March roll\u2026",
+          1427223598
+        ],
+        [
+          "In a world that is becoming \u201cmobile first,\u201d smartphones and other mobile gadgets are driving the boost in cross-channel engagement. However, it\u2019s not just about reaching devices. It\u2019s about reaching people. Our first Rocket Fuel Spotlight reveals how a diversified, multi-channel #programmatic ad spend with cross-device optimization ultimately leads to positive business outcomes. http://ow.ly/Ky16N Timeline Photos",
+          1426784493
+        ],
+        [
           "We're delighted to welcome our new (and first ever) Chief Revenue Officer Randy Wootton to the team. Randy joins Rocket Fuel with more than two decades of experience in major leadership roles at both media and enterprise businesses. He has achieved substantial revenue growth and led transformative sales, customer service, and operations organizations for market leaders including Salesforce and Microsoft. Welcome Randy! http://ow.ly/KaCHD Timeline Photos",
           1426016498
+        ],
+        [
+          "Rocket Fuel partnerships create a robust network of over 100 industry leaders and disruptive startups that stretch industry boundaries and span both the paid and owned marketing ecosystems. These include data providers used in targeting and measurement, multi-channel marketing platforms, attribution technology, publishers, and exchanges: ow.ly/JYPfH Timeline Photos",
+          1425577652
+        ],
+        [
+          "Want to boost foot traffic in your stores and drive sales? Rocket Fuel\u2019s Local Lift mobile marketing platform merges accurate hyperlocal targeting and location-aware creative with visit-based attribution metrics to increase in-store traffic. Local Lift achieved an astonishing lift rate of 41.34% in 2014, one of the highest in the industry! http://ow.ly/Jc6lE Timeline Photos",
+          1424184163
         ],
         [
           "We\u2019re delighted to announce that Rocket Fuel won the Interactive Advertising Bureau\u2019s Overall Sales Excellence Award. This prestigious award recognizes our high marks in key selling attributes such as customer service, knowledge, and innovation. Congrats to the entire Sales team. Well done! http://ow.ly/IDRxz Timeline Photos",
@@ -1610,32 +1615,36 @@
           1422363900
         ],
         [
-          "\u201cAI & Human Relationships\u201d - In this final video, Rocket Fuel Account Executive Tony Price talks with the leaders of Bloom Ads, who express the importance of building solid relationships with their partners. According to Lisa Nichols-Jell, VP of Media, this \u201ctranslates all the way down to the client.\u201d Thanks to Rocket Fuel, Bloom can convey a \u201cbig agency feel,\u201d but maintain a culture of hands-on involvement and personal attention to detail. Bloom thinks of Rocket Fuel as a genuine partner, not only because of the performance of the product, but also because of the mutual trust, confidence, and respect established between both companies.",
-          1421157601
+          "Gartner calls Rocket Fuel a Visionary in the brand new Magic Quadrant for Digital Marketing Hubs. Gartner's Magic Quadrant for Digital Marketing Hubs See where the rest of the industry stacks up.",
+          1422280801
         ],
         [
-          "\u201cReliability\u201d - In this third of four videos, Rocket Fuel Account Executive Tony Price and Account Manager Katie Bakunas talk with Janice Alpeche, VP of Digital Media at Bloom Ads, about the importance of accessibility. Janice values our \u201chands-on attention,\u201d and she trusts and values Rocket Fuel\u2019s opinions and advice. For us, it\u2019s all about matching Bloom\u2019s energy and commitment to their business.",
-          1420552832
+          "We\u2019re honored to be recognized as a Visionary in Gartner\u2019s first-ever Magic Quadrant for Digital Marketing Hubs. \u201cWe believe being positioned as a visionary by Gartner affirms the progress Rocket Fuel has made in partnering with leading advertisers and brands to guide their programmatic marketing success,\u201d said John Nardone, GM and EVP of Rocket Fuel. Get the full report here: http://ow.ly/HsuKt Timeline Photos",
+          1421440800
         ],
         [
-          "\u201cBrand Safety\u201d - In this second of four videos, Rocket Fuel Account Executive Tony Price talks with the leaders of Bloom Ads who express ongoing concern about where their clients' ads appear, and the importance of brand integrity. \u201cRocket Fuel has done an amazing job,\u201d said Kathe Bloom, the agency\u2019s President and CEO. She said Rocket Fuel made the agency feel confident and secure that our safeguards and best practices are protecting the reputation of not only Bloom Ads, but Bloom\u2019s clients as well.",
-          1419948001
+          "Did you know that nearly 1 in 3 Americans is using a Quantified Self (QS) tool to track his or her health and fitness? The #lifelogging movement is creating incredible new opportunities for CPG marketers as 75% of QS users feel comfortable sharing data with advertisers. Check out our latest report to find out more: http://ow.ly/Ho9fU Timeline Photos",
+          1421348478
         ],
         [
-          "\u201cThe Foundation\u201d - In this first of four videos, Tony Price, Account Executive at Rocket Fuel, talks with the leaders of Bloom Ads and reveals that the Bloom team was immediately impressed. \u201cWe like these guys,\u201d said Kathe Bloom, President and CEO. \u201cThey feel and sound like us.\u201d Bloom Ads appreciated how we took the time to explain who we are and how our AI works. As Mark Torrance mentioned in his 2015 prediction blog post (http://ow.ly/GiRlR), agencies will reinvent their role as strategic and creative partners to brands, and Bloom describes how they can do that with Rocket Fuel by being able to do more, focus on the right consumers, be more efficient, and get better results for their clients.",
-          1419343200
+          "What key trends should digital marketers keep an eye on at #CES2015? Wearables will be huge, and marketers will be keen to translate the mountains of data captured by your watch or headband into hyper-personalized messaging and content. #digitalmarketing http://ow.ly/GTpoE What Should Digital Marketers Closely Watch at CES 2015? Industry professionals from Tribal Worldwide, Havas Worldwide, SapientNitro, BBDO, and Isobar US predict that wearables, autonomous cars, data insights, virtual reality (VR), and the Internet of things will be the top trends for this year\u2019s Consumer Electronics Show.",
+          1420754561
         ],
         [
-          "Going #programmatic in 2015? Here are 6 things to know by @rocketfuelinc CMO @eporres http://nyv.me/l/ZKAL 6 things to know about programmatic ads, by Rocket Fuel The CMO of adtech pioneer Rocket Fuel outlines his 6 key considerations in buying a programmatic solution",
-          1418411317
+          "We're proud to have been named a \"Visionary\" in Gartner's first ever Magic Quadrant report on Digital Marketing Hubs! The report lauded Rocket Fuel for our innovations in programmatic technology. According to Gartner, we \"boast higher customer satisfaction, a laser focus on measurable value, and the talent and resources of entrepreneurs and early-stage investors.\u201d http://ow.ly/G83gX #futureofmarketing #programmatic Timeline Photos",
+          1418949488
+        ],
+        [
+          "Fourth Day: Marketers want to focus on targeting audiences without using siloed tactics. Cross-device targeting will continue to grow, and marketers will leverage \u201creal-time context\u201d into their campaigns. This will enable advertisers to deliver the right ad at the right time, by factoring in time-of-day and location into the delivery of their content; Bridget Bidlack, VP Enterprise Solutions, shares her predictions about how focusing on people's lifestyles will increase ROI 2015. http://ow.ly/FVcZy Timeline Photos",
+          1418660129
         ],
         [
           "Join us on December 2 at 10:30 a.m. PST/1:30 p.m. EST for Rocket Fuel's latest webinar about traffic quality and our newly announced Traffic Scanner. The webinar will feature Ari Levenfeld, Rocket Fuel's Senior Director of Privacy and Inventory Quality, and guest speaker Susan Bidel, Senior Analyst with Forrester Research, Inc. Register for the webinar and find out the quality of your digital advertising.",
           1417454465
         ],
         [
-          "Help Rocket Fuel celebrate its new digs in the beautiful Pacific Shores Center! You're invited to join Rocket Fuel staff, neighbors, and friends for delicious food and cocktails at our new office. We're excited to show you around our new home and share a night full of fun. RSVP for our HQ Housewarming on 11/13 @ 4 p.m. http://ow.ly/E8DPC Rocket Fuel HQ Housewarming Help Rocket Fuel Celebrate it's new digs in the beautiful Pacific Shores Center! You're invited to join Rocket Fuel staff, neighbors, and friends for delicious food and cocktails at our new office.  We're excited to show you around our new home and share a night full of fun.",
-          1415748359
+          "The holidays are almost upon us, and once again, Rocket Fuel\u2019s marketing research team got to work examining new consumer trends and behavior that will shape this year\u2019s shopping season. The findings make one thing clear: To drive sales, digital marketers will have to appeal to the online consumer. Download now to access exclusive information: http://ow.ly/Eym7i Q4 2014 Holiday Shopping Research: Consumer Trends to Watch The holidays are nearly upon us, which means \u2018tis the season for cheer, good tidings\u2026and an all-out shopping frenzy. Rocket Fuel\u2019s marketing research team once again got to work examining new consumer trends and behavior that will shape this year\u2019s shopping season. The findings, based on an October\u2026",
+          1416427519
         ],
         [
           "Every day, Rocket Fuel keeps spotty traffic on a short leash by selecting only the best impressions and blocking unsatisfactory impressions that can make up as much as 40% of all inventory. Stop rolling over for suspicious traffic and put quality in your programmatic advertising. For a free and easy look into the traffic quality of any of your campaigns or websites, visit Rocket Fuel\u2019s trafficscanner.com today. Rocket Fuel Introduces Traffic Scanner There\u2019s a big difference between saying you\u2019re doing something about non-human traffic in digital advertising and actually showing it. That\u2019s why Rocket Fuel is introducing the \u201cQuality Challenge\u201d for digital marketers. It\u2019s simple; marketers should require that any company that buys digital media o\u2026",
@@ -1646,16 +1655,16 @@
           1413811800
         ],
         [
-          "Building a strong relationship with individual consumers across all channels, both online and off, will be critical in creating a customized experience that immerses someone in your brand's story. Marketing should become a useful complement to the online experience\u2014not a distraction. Through machine learning and Big Data, this is becoming more and more possible. Artificial Intelligence's Impact on Marketing The future of marketing is all about shaping the customer journey. Building a strong relationship with individual consumers across all channels, both online and off, will be critical in creating a customized experience that immerses someone in your brand's story.  Marketing should become a useful co\u2026",
-          1413379801
-        ],
-        [
           "We\u2019ve assembled an expert team of humans and accredited partners to work with our AI systems to identify and avoid fraud. In fact, every day, Rocket Fuel throws away up to 40% of all online inventory (500 billion impressions each month) because it doesn\u2019t pass our rigorous, multi-layered screening process. Listen to a few of our customers talk about what they love most about the security and peace of mind that comes standard with Rocket Fuel performance. Quality Inventory, Brand Safety That?s why, in a digital-advertising ecosystem full of non-human traffic that threatens their performance, advertising clients such as Backbone Media, Bloom Ads, and the Ad Council need a partner that?s ?ahead of the game? with quality inventory.",
           1412773201
         ],
         [
           "Rocket Fuel utilizes an inventory quality model that works in much the same way as the model we use to optimize our clients\u2019 advertising programs. That means that the numerous features we use to optimize your program to help achieve your specific goals are also being used to avoid non-human traffic. Non-Human Traffic: How Rocket Fuel Ensures Quality Inventory Rocket Fuel utilizes an inventory quality model that works in much the same way as the model we use to optimize our clients\u2019 advertising programs. That means that the numerous features we use to optimize your program to help achieve your specific goals are also being used to avoid fraudulent traffic\u2026",
           1412686801
+        ],
+        [
+          "In Mission Control Insights, Rocket Fuel customers will find valuable reporting and clues that can be applied anytime, anywhere. An intuitive, high-level dashboard lets them know which signals our system finds effective, and a powerful, customizable reporting tool tells them exactly what\u2019s working, and what isn't. Discover the Signals That Matter \"Transparency\" is more than just another industry buzzword\u2014for digital marketers, it's now an expectation. Rocket Fuel customers have always counted on great results, but our core machine-learning platform can now deliver much more than just ROI on digital media. Marketers and their agencies want ac\u2026",
+          1412265938
         ],
         [
           "Rocket Fuel recently commissioned a study with Forensiq, an independent third party committed to fighting online ad fraud and bot traffic. Forensiq Confirms the Quality of Rocket Fuel Programs Rocket Fuel recently commissioned a study with Forensiq, an independent third party committed to fighting online ad fraud and bot traffic. Evaluating data from 142 million impressions across 34 Rocket Fuel campaigns over a variety of industries and marketing goals, Forensiq results confirmed that Ro\u2026",
@@ -1666,8 +1675,32 @@
           1411403374
         ],
         [
+          "\"Programmatic CMOs recognize customers, reach them on paid & owned channels w relevant messages,\" Nardone at #ADWKDC pic.twitter.com/XgQ5LEiPyF Rocket Fuel Inc. on Twitter: \"\"Programmatic CMOs recognize customers, reach them on paid & owned... \"Programmatic CMOs recognize customers, reach them on paid & owned channels w relevant messages,\" Nardone at #ADWKDC pic.twitter.com/XgQ5LEiPyF",
+          1410368220
+        ],
+        [
+          "We couldn't be more excited to officially welcome [x+1]'s talented team to the Rocket Fuel family. Together, we're working on solutions that will ring in a new age of marketing. Get ready for Marketing That Learns\u2122. http://ow.ly/B6Xl4 Timeline Photos",
+          1409914928
+        ],
+        [
+          "Webinar: Insurance Top-Of-Mind Awareness Q2 2014 http://ow.ly/AMwQ2 Timeline Photos",
+          1409321732
+        ],
+        [
           "Geckos, pigs, cavemen, oh my! No industry does a better job winning over the hearts and minds of consumers than the insurance industry. But is a market full of brand awareness through playful skits and loveable mascots enough to drive proportional ROAS? Our marketing research team decided to find out. New Study: Top-Of-Mind Awareness Vs. Ad Spend Rocket Fuel's marketing research team lifts the lid on insurance brand marketing. ",
           1408655208
+        ],
+        [
+          "We are thrilled to join forces with @xplusone to deliver a new era of fully optimized, data-driven marketing: http://ow.ly/zZCvy Timeline Photos",
+          1407266714
+        ],
+        [
+          "Ask: What can Creative Optimization do for You? http://ow.ly/zqkNz Timeline Photos",
+          1405980917
+        ],
+        [
+          "Associated Press will use #robots to write articles http://ow.ly/yYAOT Associated Press Will Use Robots to Write Articles Overwhelming amounts of unprocessed data and creative minds inundated by banal tasks\u2014today, these two problems plague almost every industry. But in...",
+          1405693845
         ],
         [
           "What happens when media optimization meets creative optimization? Download Rocket Fuel's latest infographic to find out.  Infographic: 5 Steps to Building a Better Retail Ad Get the insights you need to make a difference. ",
@@ -1678,20 +1711,12 @@
           1404227731
         ],
         [
-          "15 awesome reasons to skip this year's upfront season and check out the Rocket Fuel Summit: http://ow.ly/wBlHU",
-          1399557915
-        ],
-        [
-          "Check out @rocketfuelinc's November newsletter: http://ow.ly/qBHQ2 Rocket Fuel's November Newsletter  ",
-          1383926518
+          "We love a good infographic! Check out 100 Years Of Rock Music In Less Than A Minute: http://ow.ly/rG8vE 100 Years Of Rock Music In Less Than A Minute From gospel to grunge this timeline shows the evolution of rock with addictively clickable audio samples.",
+          1387383652
         ],
         [
           "Read how @rocketfuelinc helped @Subaru_USA deliver 73K new dealer interactions.  http://ow.ly/pTgX0",
           1382009482
-        ],
-        [
-          ".@rocketfuelinc's September newsletter is here! Get current with all the industry news you want to know: http://ow.ly/oVIle Rocket Fuel's September Newsletter Did you know that auto buyers are more likely to convert from auto ads seen early in the week? For more key insights, check out Rocket Fuel\u2019s...",
-          1379512915
         ],
         [
           "At Rocket Fuel, we love research and sharing our results with you. Check out our latest study for key insights on today's car shopper, and find out why #auto ads served early in the week are more effective! http://ow.ly/oDGH5 Q2 Digital Automotive Landscape",
@@ -1702,44 +1727,24 @@
           1377784941
         ],
         [
-          ".@TheDrum says there's 5x as much TV-related social activity on #Facebook than other social channels. We weigh in: http://ow.ly/nsYiC Five times as much TV-related social activity on Facebook than other... Second-screen Facebook activity during one week in May found that the volume of Facebook user engagement relating to television...",
-          1376489063
-        ],
-        [
-          "The July @rocketfuelinc newsletter is out! http://ow.ly/n1tz8 Welcome to the July 2013 Edition of the Rocket Fuel Newsletter Check out July\u2019s newsletter to learn how you can score a free trip to Vegas, five must-knows about the Facebook exchange, how Rocket Fuel drives...",
-          1374069912
-        ],
-        [
-          ".@rocketfuelinc's research shows #advertisers are shifting $ from TV to online. Find out more: http://ow.ly/mUGF5 via @adexchanger Rocket Fuel Agency Survey Finds Buyers Shifting Dollars From TV To Online Rocket Fuel Agency Survey Finds Buyers Shifting Dollars From TV To OnlineJuly 12th, 2013 - 12:11 amBy David KaplanThe recent stirrings around IPO...",
-          1373897120
-        ],
-        [
-          "See why @rubiconproject @lijit @brightroll @openx @casalemedia @MSFT trust @rocketfuelinc. http://ow.ly/lYaKo #BrandSafety #RTB Multiple Levels of Brand Safety Defense - Rocket Fuel Multiple Levels of Brand Safety Defense - Rocket Fuel Rocket Fuel takes a proactive approach, with three layers of defense that block bad sites and...",
-          1371564284
-        ],
-        [
-          "Our newest #infographic: \"5 Things You Need to Know About Facebook Exchange\" via @allfacebook #FBX #adexchange http://ow.ly/lI4Y7 INFOGRAPHIC: Rocket Fuel\u2019s 5 Things You Need To Know About Facebook... Rocket Fuel, one of the earliest real-time bidding partners for Facebook Exchange, shared some of the expertise it has gathered in delivering more...",
-          1370372381
-        ],
-        [
-          "How important is brand safety @rocketfuelinc? Just ask execs @CasaleMedia @Lijit @OpenX @Brightroll @RubiconProject: http://ow.ly/kxT23 Multiple Levels of Brand Safety Defense - Rocket Fuel Multiple Levels of Brand Safety Defense - Rocket Fuel Rocket Fuel takes a proactive approach, with three layers of defense that block bad sites and...",
-          1367413298
-        ],
-        [
-          "Exercise your right to vote...for @rocketfuelinc! We're a finalist in 3 categories for the @iMediaTweet #ASPY awards. http://ow.ly/jTYBq ASPY Awards 2013 The ASPY Awards are voted on each year by agency executives recognizing the best solution providers in a variety of categories. Vote for one...",
-          1366041688
+          "Bay Area folks: Have you seen our new joint billboard w/@NetSuite along 101 N. near SFO? Timeline Photos",
+          1371823648
         ],
         [
           "5 steps to measure AND maximize the impact of online activity on offlines sales. New article from @rocketfuelinc http://ow.ly/izR4e Measure and Maximize the Impact of Online Activity on Offline Sales Metrics & ROI - Measurability is the battle cry of every digital marketer. The challenge is how to decide which measurements make sense based on...",
           1362756959
         ],
         [
-          "Get just as pumped as we are for #SXSW and enjoy this FREE 5-song download from one of our favorite bands Man Without Country (@mwc_music) here: http://manwithoutcountry.com/rocket-fuel-sxsw/  #weloveourfans Man Without Country x Rocket Fuel - Man Without Country Man Without Country will be playing at the Rocket Fuel party at SXSW this year on March 11th alongside Alt-J and Dawes at The Parish, one of the best indoor live music venues in Austin. Follow @rocketfuelinc and @mwc_music for party updates!",
-          1362537562
+          ".@Forbes talks to some CMOs on how Big Data is changing the digital marketing landscape: http://ow.ly/h6bxT Seeking CMOs: Must Know Big Data and Digital Marketing - Forbes The most sought after marketers today are experts in Big Data and Digital Marketing.  I recently spoke with Dick Patton and Rory Finlay of Egon...",
+          1359044956
         ],
         [
-          "With all the talk about Facebook's FBX ad exchange, here's a diagram of how it works. http://ow.ly/gE966 Here's A Diagram Of How Facebook's FBX Ad Exchange Works Problem solved!",
-          1357965010
+          "Watch our friend Christopher Steiner talk about Automate This on The Colbert Report. http://www.colbertnation.com/the-colbert-report-videos/421266/november-14-2012/high-frequency-trading---christopher-steiner Colbert Report: High-Frequency Trading - Christopher Steiner Christopher Steiner shares his book, \"Automate This: How Algorithms Came to Rule Our World.\"",
+          1354062476
+        ],
+        [
+          "Rocket Fuel's Audience Accelerator, mentioned in Tech Crunch, check it out!\n\nhttp://techcrunch.com/2012/09/06/rocket-fuel-audience-accelerator/ Rocket Fuel\u2019s Audience Accelerator Helps Publishers Deliver More Ad Impressions | TechCrunch Rocket Fuel, a startup that optimizes ad campaigns using artificial intelligence, is announcing a new product for publishers (and vertical ad networks) called Audience Accelerator.    Vice President of Business Development Paul Wenz, who's leading the Audience Accelerator team, says the goal is to h...",
+          1346952054
         ],
         [
           "The latest from the Analytics team at Rocket Fuel:\n\nhttp://www.imediaconnection.com/content/32300.asp How in-banner surveys measure campaign success - iMediaConnection.com Today, more and more marketers use display advertising for brand goals -- but how can you tell if your online brand campaign performs? There are many ways to gauge the effectiveness of a direct response campaign -- mainly by measuring clicks, leads, or conversions -- yet figuring out the impact of a...",
@@ -1750,25 +1755,21 @@
           1336073346
         ],
         [
-          "We had a great time at the iMedia Brand Summit!  Check out some of the pics and coverage here:  Brand Summit: Bonita Springs, FL, February 5 - 8, 2012 : Photo List - iMediaConnection.com",
-          1328723213
-        ],
-        [
-          "Rocket Fuel CEO George John comments on Facebook ad targeting enhancements pre-IPO http://www.reuters.com/article/2012/02/02/us-facebook-ipo-idUSTRE80U29V20120202  Facebook shoots for $5 billion in mega-IPO SAN FRANCISCO (Reuters) - Facebook filed on Wednesday to raise a targeted $5 billion in a hotly anticipated initial public offering, setting the stage for Silicon Valley's biggest-ever IPO.The world's",
-          1328218281
+          "Announcing the relaunch of rocketfuel.com! Have a browse, enjoy the prose, and contact us anytime to get started Digital Advertising Campaigns run better on Rocket Fuel homepage wow",
+          1332970822
         ],
         [
           "Are you attending OMMA's Data & Behavioral? Come see Rocket Fuel\u2019s Jarvis Mak speak about Attribution! Register Here: http://www.mediapost.com/ommadataandbehavioral/ MediaPost \u2013 OMMA Data and Behavioral Data is HUGE in 2012. So enormous in fact that we just call it \u201cBIG Data\u201d now \u2013 that massive flow of behaviors, sales patterns, online and offline activities, social relationships, places, names, preferences and profiles that will undoubtedly fuel the next great era in media and marketing. Getting d...",
           1327428367
         ]
       ],
-      "dates_start": 1369866552,
-      "dates_end": 1456642728,
-      "likes_avg": 11,
-      "likes_stdev": 22,
+      "dates_start": 1388313182,
+      "dates_end": 1462674903,
+      "likes_avg": 14,
+      "likes_stdev": 31,
       "comments_avg": 0,
       "comments_stdev": 0,
-      "shares_avg": 1,
+      "shares_avg": 2,
       "shares_stdev": 2
     }
   ]

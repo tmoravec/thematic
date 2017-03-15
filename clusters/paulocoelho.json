@@ -4,28 +4,173 @@
   "globalstats": {
     "fan_count": 29272193,
     "messages": 1417,
-    "likes_avg": 36214,
-    "likes_stdev": 38033,
-    "comments_avg": 492,
-    "comments_stdev": 548,
-    "shares_avg": 11957,
-    "shares_stdev": 16741,
+    "likes_avg": 36687,
+    "likes_stdev": 37994,
+    "comments_avg": 493,
+    "comments_stdev": 556,
+    "shares_avg": 12349,
+    "shares_stdev": 16036,
     "graph_uri": "clusters/paulocoelho.png"
   },
   "clusters": [
     {
       "number": 1,
       "important": [
+        "book",
+        "dailywalk",
         "accra",
+        "escritor",
+        "think"
+      ],
+      "common": [
+        "dailywalk",
+        "dailywalk timeline",
+        "dailywalk timeline photos",
+        "photographers",
+        "photographers think",
+        "photographers think mike",
+        "photographers think mike breakingbad",
+        "photos",
+        "timeline",
+        "timeline photos"
+      ],
+      "messages": [
+        [
+          "#DailyWalk Timeline Photos",
+          1486998371
+        ],
+        [
+          "Gas Station 1940 #DailyWalk Timeline Photos",
+          1465065227
+        ],
+        [
+          "Sunset #DailyWalk Timeline Photos",
+          1464105807
+        ],
+        [
+          "##DailyWalk Timeline Photos",
+          1451228985
+        ],
+        [
+          "Dec 22: solstice! #DailyWalk Timeline Photos",
+          1450835457
+        ],
+        [
+          "Probably the photographers think that I am Mike, from #BreakingBad . There is a 3rd photographer, of course, who sent me the photo #DailyWalk Timeline Photos",
+          1447343664
+        ],
+        [
+          "Monblanc, the highest peak in Europe #DailyWalk Timeline Photos",
+          1445095909
+        ],
+        [
+          "The writer and the tree #DailyWalk\nO escritor e a \u00e1rvore Timeline Photos",
+          1438605947
+        ],
+        [
+          "My magic mountain # Dailywalk Timeline Photos",
+          1404313753
+        ],
+        [
+          "Nature teaches more than philosophical books #DailyWalk Timeline Photos",
+          1402146668
+        ]
+      ],
+      "dates_start": 1420796506,
+      "dates_end": 1470351451,
+      "likes_avg": 29460,
+      "likes_stdev": 30239,
+      "comments_avg": 348,
+      "comments_stdev": 336,
+      "shares_avg": 770,
+      "shares_stdev": 628
+    },
+    {
+      "number": 2,
+      "important": [
+        "start",
+        "hoje",
+        "accra",
+        "today",
+        "love",
+        "lord"
+      ],
+      "common": [
+        "love",
+        "photos",
+        "theme hq 856x480",
+        "timeline",
+        "timeline photos",
+        "today",
+        "today bulgaria",
+        "today timeline",
+        "today timeline photos",
+        "\uc2a4\ud30c\uc774"
+      ],
+      "messages": [
+        [
+          "The pain of yesterday is the strength of today Timeline Photos",
+          1476901710
+        ],
+        [
+          "Today: Turkey! Timeline Photos",
+          1475593157
+        ],
+        [
+          "Today: Holland!  (Dutch and Frisian) Timeline Photos",
+          1474979514
+        ],
+        [
+          "Today: Korea! http://bit.ly/2ctmCIn \uc2a4\ud30c\uc774 \uc601\ud63c\uc758 \uc5f0\uae08\uc220\uc0ac \ud30c\uc6b8\ub85c \ucf54\uc5d8\ub8cc\uc758 \uc2e0\uc791 \u300e\uc2a4\ud30c\uc774\u300f. \ub3d9\uc591...",
+          1474644695
+        ],
+        [
+          "Lac Leman  today",
+          1441149563
+        ],
+        [
+          "Frankfurt airport today! Timeline Photos",
+          1380273278
+        ],
+        [
+          "Lord Ganesha Festival starts today in India. Congratulations and love to all of you! Timeline Photos",
+          1378748999
+        ],
+        [
+          "- 2 C hoje / today Timeline Photos",
+          1358251279
+        ],
+        [
+          "Today: Bulgaria! Timeline Photos",
+          1350481152
+        ],
+        [
+          "Nostalgic today. VANGELIS - BLADE RUNNER - LOVE THEME (HQ-856X480)",
+          1338402778
+        ]
+      ],
+      "dates_start": 1359164064,
+      "dates_end": 1470721160,
+      "likes_avg": 19317,
+      "likes_stdev": 26643,
+      "comments_avg": 351,
+      "comments_stdev": 261,
+      "shares_avg": 4379,
+      "shares_stdev": 9260
+    },
+    {
+      "number": 3,
+      "important": [
+        "amazon",
+        "voce",
+        "accra",
+        "de",
+        "kindl",
+        "ama",
+        "ou",
         "le",
         "la",
-        "ou",
-        "kindl",
-        "photo",
-        "ama",
-        "amazon",
-        "timelin",
-        "de"
+        "quem"
       ],
       "common": [
         "bit",
@@ -95,103 +240,18 @@
       "shares_stdev": 5320
     },
     {
-      "number": 2,
+      "number": 4,
       "important": [
-        "alchemist",
-        "read",
-        "accra",
-        "inspir",
-        "publish",
-        "thank",
-        "today",
-        "photo",
-        "happi",
-        "timelin"
-      ],
-      "common": [
-        "2ctmcin",
-        "photos",
-        "special thanks",
-        "timeline",
-        "timeline photos",
-        "today",
-        "today timeline",
-        "today timeline photos",
-        "yesterday",
-        "\uc2a4\ud30c\uc774"
-      ],
-      "messages": [
-        [
-          "The pain of yesterday is the strength of today Timeline Photos",
-          1476901710
-        ],
-        [
-          "Today: Turkey! Timeline Photos",
-          1475593157
-        ],
-        [
-          "Today: Holland!  (Dutch and Frisian) Timeline Photos",
-          1474979514
-        ],
-        [
-          "Today: Korea! http://bit.ly/2ctmCIn \uc2a4\ud30c\uc774 \uc601\ud63c\uc758 \uc5f0\uae08\uc220\uc0ac \ud30c\uc6b8\ub85c \ucf54\uc5d8\ub8cc\uc758 \uc2e0\uc791 \u300e\uc2a4\ud30c\uc774\u300f. \ub3d9\uc591...",
-          1474644695
-        ],
-        [
-          "Djahane Samarcande: \"children from a reading club in Algeria who have discussed your novel the alchemist today, and they sent you special thanks for inspiring them. They will be happy if you publish the photo\" Timeline Photos",
-          1462918602
-        ],
-        [
-          "Lac Leman  today",
-          1441149563
-        ],
-        [
-          "\"Untreue\"(Adultery) was published yesterday and today it is #1 in several bookstores in Germany, Austria, Switzerland Timeline Photos",
-          1411743699
-        ],
-        [
-          "Frankfurt airport today! Timeline Photos",
-          1380273278
-        ],
-        [
-          "- 2 C hoje / today Timeline Photos",
-          1358251279
-        ],
-        [
-          "Today: Bulgaria! Timeline Photos",
-          1350481152
-        ],
-        [
-          "What a privilege to receive today the visit of probably the best musician of my generation: Gilberto Gil Timeline Photos",
-          1341854150
-        ],
-        [
-          "Nostalgic today. VANGELIS - BLADE RUNNER - LOVE THEME (HQ-856X480)",
-          1338402778
-        ]
-      ],
-      "dates_start": 1359734179,
-      "dates_end": 1471464750,
-      "likes_avg": 17180,
-      "likes_stdev": 24667,
-      "comments_avg": 337,
-      "comments_stdev": 290,
-      "shares_avg": 3316,
-      "shares_stdev": 8607
-    },
-    {
-      "number": 3,
-      "important": [
+        "river",
+        "world",
+        "mobil",
         "dailywalk",
         "accra",
-        "mobil upload",
-        "love",
-        "world",
-        "river",
-        "show",
         "never",
-        "mobil",
-        "hay"
+        "love",
+        "hay",
+        "show",
+        "mobil upload"
       ],
       "common": [
         "agent",
@@ -269,24 +329,121 @@
       "shares_stdev": 4451
     },
     {
-      "number": 4,
+      "number": 5,
       "important": [
-        "em",
-        "livraria",
-        "hari",
-        "toda",
-        "brasil",
-        "em toda",
-        "espi\u00e3",
-        "em toda livraria",
-        "j\u00e1",
-        "mata"
+        "ser",
+        "encontrado",
+        "mas",
+        "em accra",
+        "accra",
+        "para",
+        "manuscrito encontrado",
+        "manuscrito",
+        "um",
+        "encontrado em"
       ],
       "common": [
+        "accra",
+        "em",
+        "em accra",
+        "encontrado",
+        "encontrado em",
+        "manuscrito",
+        "manuscrito encontrado",
+        "manuscrito encontrado em",
+        "manuscrito encontrado em accra",
+        "photos"
+      ],
+      "messages": [
+        [
+          "O talento \u00e9 um dom universal, mas \u00e9 preciso coragem para utiliza-lo. Jamais tenha medo de ser o melhor (Manuscrito encontrado em Accra) Timeline Photos",
+          1462818530
+        ],
+        [
+          "Manuscrito Encontrado em Accra Timeline Photos",
+          1422086401
+        ],
+        [
+          "Manuscrito encontrado em Accra Timeline Photos",
+          1421913604
+        ],
+        [
+          "S\u00f3 quem \u00e9 feliz pode espalhar felicidade\r\n(Manuscrito encontrado em Accra) Timeline Photos",
+          1367686924
+        ],
+        [
+          "Esperar d\u00f3i. Esquecer d\u00ed. Mas n\u00e3o saber se devemos esperar ou esquecer \u00e9 o pior dos sofrimentos\r\n (Manuscrito encontrado em Accra) Timeline Photos",
+          1366653266
+        ],
+        [
+          "N\u00e3o permita que suas feridas decidam quem \u00e9 voc\u00ea (Manuscrito encontrado em Accra ) Timeline Photos",
+          1361273518
+        ],
+        [
+          "No Skoob (maior portal de literatura do pa\u00eds) o \"Manuscrito encontrado em Accra\" foi avaliado por 504 leitores, recebeu 5 estrelas de 76%, mais 4 estrelas de 12%, o que faz com que o livro tenha 88% de aprova\u00e7\u00e3o. Para ver melhor as estat\u00edsticas, clique na imagem abaixo.\r\nAguardo suas opini\u00f5es a respeito do livro. Obrigado Timeline Photos",
+          1351960543
+        ],
+        [
+          "\"Manuscrito encontrado em Accra\" completa hoje 8 semanas (dois meses) na lista dos mais vendidos. Abaixo uma das p\u00e1ginas, sobre a diferen\u00e7a entre derrota e fracasso Timeline Photos",
+          1347123426
+        ],
+        [
+          "Abaixo uma p\u00e1gina de \"Manuscrito encontrado em Accra\" Timeline Photos",
+          1346681074
+        ],
+        [
+          "Trecho de \"Manuscrito encontrado em Accra\" Timeline Photos",
+          1345029905
+        ],
+        [
+          "Se todos te amam, algo est\u00e1 errado. Ninguem pode agradar todo mundo (Manuscrito encontrado em Accra) Timeline Photos",
+          1345025842
+        ],
+        [
+          "Embora o lan\u00e7amento seja apenas dia 25 (proxima quarta) algumas livrarias j\u00e1 colocaram \"Manuscrito encontrado em Accra\" \u00e0 venda, e o primeiro coment\u00e1rio a gente nunca esquece. Obrigado Maithe! Timeline Photos",
+          1342864206
+        ],
+        [
+          "Eu adorei a id\u00e9ia do Flavio Waiteman para o cartaz de \"Manuscrito encontrado em Accra\" (lan\u00e7amento 25 julho). Me digam o que pensam Timeline Photos",
+          1341432455
+        ],
+        [
+          "25 julho: lan\u00e7amento no Brasil de \"Manuscrito encontrado em Accra\" Timeline Photos",
+          1341407648
+        ],
+        [
+          "J\u00e1 viram uma p\u00e1gina sendo corrigida pelo escritor? (no caso, Manuscrito encontrado em Accra)\r\nDid you ever see a page being edited by the writer? (in this case, from my new book, to be published world wide late 2012 and during 2013) Timeline Photos",
+          1340736738
+        ]
+      ],
+      "dates_start": 1330606337,
+      "dates_end": 1403352872,
+      "likes_avg": 20509,
+      "likes_stdev": 18529,
+      "comments_avg": 387,
+      "comments_stdev": 278,
+      "shares_avg": 10872,
+      "shares_stdev": 11124
+    },
+    {
+      "number": 6,
+      "important": [
+        "mata",
+        "brasil",
+        "em",
+        "espi\u00e3",
+        "j\u00e1",
+        "hari",
+        "toda",
+        "em toda livraria",
+        "em toda",
+        "livraria"
+      ],
+      "common": [
+        "bit ly",
         "em",
         "em todas",
         "em todas livrarias",
-        "http bit ly",
         "livrarias",
         "photos",
         "timeline",
@@ -348,6 +505,10 @@
           1343209610
         ],
         [
+          "Lan\u00e7amento amanh\u00e3, dia 25 de julho (mas j\u00e1 pode ser encontrado em muitas livrarias) Timeline Photos",
+          1343127490
+        ],
+        [
           "(J\u00e1 em algumas livrarias) Timeline Photos",
           1342966665
         ],
@@ -360,140 +521,31 @@
           1342032142
         ]
       ],
-      "dates_start": 1361540304,
-      "dates_end": 1457719069,
-      "likes_avg": 13694,
-      "likes_stdev": 12102,
-      "comments_avg": 253,
-      "comments_stdev": 193,
-      "shares_avg": 5643,
-      "shares_stdev": 6499
+      "dates_start": 1356510063,
+      "dates_end": 1454925523,
+      "likes_avg": 13286,
+      "likes_stdev": 11853,
+      "comments_avg": 249,
+      "comments_stdev": 188,
+      "shares_avg": 5606,
+      "shares_stdev": 6307
     },
     {
-      "number": 5,
+      "number": 7,
       "important": [
-        "best",
-        "dailywalk",
-        "accra",
-        "moment",
-        "need",
-        "photo",
-        "dailywalk timelin",
-        "dont",
-        "timelin",
-        "live"
-      ],
-      "common": [
-        "dailywalk",
-        "dailywalk timeline",
-        "dailywalk timeline photos",
-        "happy sunday",
-        "need",
-        "photos",
-        "sunday",
-        "sunday dailywalk",
-        "timeline",
-        "timeline photos"
-      ],
-      "messages": [
-        [
-          "The best moments of our lives don't need explanations #DailyWalk Timeline Photos",
-          1487437758
-        ],
-        [
-          "#DailyWalk Timeline Photos",
-          1486998371
-        ],
-        [
-          "Do not allow anxiety to control your life. \nFocus your mind on what is truth in the midst of uncertain times.\nFear nothing and nobody, I am by your side #DailyWalk Timeline Photos",
-          1486344866
-        ],
-        [
-          "Relax and enjoy #DailyWalk Timeline Photos",
-          1465565367
-        ],
-        [
-          "Gas Station 1940 #DailyWalk Timeline Photos",
-          1465065227
-        ],
-        [
-          "Sunset #DailyWalk Timeline Photos",
-          1464105807
-        ],
-        [
-          "Bom domingo! Happy Sunday! #DailyWalk Timeline Photos",
-          1460899014
-        ],
-        [
-          "River . of flowers / Happy Sunday  #DailyWalk Timeline Photos",
-          1459691348
-        ],
-        [
-          "##DailyWalk Timeline Photos",
-          1451228985
-        ],
-        [
-          "Dec 22: solstice! #DailyWalk Timeline Photos",
-          1450835457
-        ],
-        [
-          "Finally! The first snowfall is getting closer. As they say in \"Game of Thrones\", winter is coming ##DailyWalk Timeline Photos",
-          1448134124
-        ],
-        [
-          "Probably the photographers think that I am Mike, from #BreakingBad . There is a 3rd photographer, of course, who sent me the photo #DailyWalk Timeline Photos",
-          1447343664
-        ],
-        [
-          "Monblanc, the highest peak in Europe #DailyWalk Timeline Photos",
-          1445095909
-        ],
-        [
-          "The writer and the tree #DailyWalk\nO escritor e a \u00e1rvore Timeline Photos",
-          1438605947
-        ],
-        [
-          "Natureza teaches me everything I need to know #DailyWalk Timeline Photos",
-          1408109606
-        ],
-        [
-          "My magic mountain # Dailywalk Timeline Photos",
-          1404313753
-        ],
-        [
-          "\"Wanderer there is no road/\nYou make the road as you go\" (A. Machado) #DailyWalk Timeline Photos",
-          1403528934
-        ],
-        [
-          "Nature teaches more than philosophical books #DailyWalk Timeline Photos",
-          1402146668
-        ]
-      ],
-      "dates_start": 1421354681,
-      "dates_end": 1475917630,
-      "likes_avg": 34169,
-      "likes_stdev": 29505,
-      "comments_avg": 425,
-      "comments_stdev": 348,
-      "shares_avg": 1303,
-      "shares_stdev": 1325
-    },
-    {
-      "number": 6,
-      "important": [
-        "alchemist",
-        "right",
-        "tomorrow",
         "bestsel",
-        "pay",
-        "time",
-        "bestsel list",
         "usd",
+        "time",
+        "right",
+        "pay",
         "time bestsel",
-        "list"
+        "bestsel list",
+        "tomorrow",
+        "list",
+        "alchemist"
       ],
       "common": [
-        "bestseller",
+        "best",
         "bestseller list",
         "list",
         "ny",
@@ -512,10 +564,6 @@
         [
           "Tomorrow: 401 weeks on the New York times  bestseller list. Thank youll!\n#WorldRecord Timeline Photos",
           1466883956
-        ],
-        [
-          "Celebrating 388 weeks = 7 years 6 months on the most important bestseller list in the world #record \nE finalmente, a partir desta semana, a edi\u00e7\u00e3o especial ( mesmo pre\u00e7o da normal) j\u00e1 est\u00e1 nas livrarias e portais! Celebrando 7 anos e 6 meses na lista dos mais vendidos do NY Times, um recorde nunca alcan\u00e7ado nem mesmo por americano Timeline Photos",
-          1453123551
         ],
         [
           "Tomorrow The Alchemist in The New York Times Bestseller list: two weeks to complete SEVEN YEARS ( http://bit.ly/XecjGA )\n#RecordBreaker Timeline Photos",
@@ -622,543 +670,36 @@
           1326659885
         ]
       ],
-      "dates_start": 1334535209,
-      "dates_end": 1419337680,
-      "likes_avg": 17221,
-      "likes_stdev": 16585,
-      "comments_avg": 482,
-      "comments_stdev": 393,
-      "shares_avg": 5181,
-      "shares_stdev": 8318
-    },
-    {
-      "number": 7,
-      "important": [
-        "manuscrito",
-        "mas",
-        "ser",
-        "encontrado",
-        "em accra timelin",
-        "em accra",
-        "accra timelin",
-        "um",
-        "manuscrito encontrado",
-        "encontrado em"
-      ],
-      "common": [
-        "accra",
-        "de",
-        "em",
-        "encontrado",
-        "manuscrito",
-        "manuscrito encontrado",
-        "photos",
-        "que",
-        "timeline",
-        "timeline photos"
-      ],
-      "messages": [
-        [
-          "O talento \u00e9 um dom universal, mas \u00e9 preciso coragem para utiliza-lo. Jamais tenha medo de ser o melhor (Manuscrito encontrado em Accra) Timeline Photos",
-          1462818530
-        ],
-        [
-          "El invierno lucha para reinar soberano, pero al final\nse ve obligado a aceptar la victoria de la primavera, que\ntrae consigo flores y alegr\u00eda.\nEl manuscrito encontrado en Accra Timeline Photos",
-          1429686001
-        ],
-        [
-          "Las cicatrices hablan m\u00e1s alto que la hoja de la espada\nque las caus\u00f3.\nEl manuscrito encontrado en Accra Timeline Photos",
-          1429599601
-        ],
-        [
-          "El fracaso no nos permite so\u00f1ar. Su lema\nes: \u00abNo anheles nada y nunca sufrir\u00e1s.\u00bb\nManuscrito encontrado en Accra Timeline Photos",
-          1429254001
-        ],
-        [
-          "La lealtad es una perla entre los granos de arena que s\u00f3lo aquellos que realmente entienden su significado pueden ver.\nEl manuscrito encontrado en Accra Timeline Photos",
-          1427997684
-        ],
-        [
-          "La alegr\u00eda es contagiosa y siempre consigue descubrir una soluci\u00f3n donde la l\u00f3gica s\u00f3lo encontr\u00f3 un explicaci\u00f3n para el error.\nEl manuscrito encontrado en Accra Timeline Photos",
-          1427097601
-        ],
-        [
-          "El \u00e9xito entra en la casa del que dice todos los d\u00edas: \u00abVoy a dar lo mejor de m\u00ed mismo.\u00bb\nEl manuscrito encontrado en Accra Timeline Photos",
-          1427011201
-        ],
-        [
-          "Que podamos tener humildad a la hora de recibir y alegr\u00eda en el momento de dar. \nEl manuscrito encontrado en Accra Timeline Photos",
-          1425542400
-        ],
-        [
-          "Manuscrito Encontrado em Accra Timeline Photos",
-          1422086401
-        ],
-        [
-          "Manuscrito encontrado em Accra Timeline Photos",
-          1421913604
-        ],
-        [
-          "S\u00f3 quem \u00e9 feliz pode espalhar felicidade\r\n(Manuscrito encontrado em Accra) Timeline Photos",
-          1367686924
-        ],
-        [
-          "Esperar d\u00f3i. Esquecer d\u00ed. Mas n\u00e3o saber se devemos esperar ou esquecer \u00e9 o pior dos sofrimentos\r\n (Manuscrito encontrado em Accra) Timeline Photos",
-          1366653266
-        ],
-        [
-          "N\u00e3o permita que suas feridas decidam quem \u00e9 voc\u00ea (Manuscrito encontrado em Accra ) Timeline Photos",
-          1361273518
-        ],
-        [
-          "Evita a quienes dicen: \u201cSe acab\u00f3, necesito parar aqu\u00ed\u201d. \r\nPorque ellos no entienden que ni la vida ni la muerte tienen fin; son s\u00f3lo etapas de la eternidad.\r\nManuscrito encontrado en Accra \r\nESPA\u00d1A: 13 noviembre LATINOAMERICA 22 noviembre Timeline Photos",
-          1352492425
-        ],
-        [
-          "No Skoob (maior portal de literatura do pa\u00eds) o \"Manuscrito encontrado em Accra\" foi avaliado por 504 leitores, recebeu 5 estrelas de 76%, mais 4 estrelas de 12%, o que faz com que o livro tenha 88% de aprova\u00e7\u00e3o. Para ver melhor as estat\u00edsticas, clique na imagem abaixo.\r\nAguardo suas opini\u00f5es a respeito do livro. Obrigado Timeline Photos",
-          1351960543
-        ],
-        [
-          "La derrota y el fracaso ( 1:30 min video) El Manuscrito encontrado en Accra Frases del libro de Paulo Coelho",
-          1350218454
-        ],
-        [
-          "Primera mano: tapa de \"Manuscrito encontrado en Accra\" en espa\u00f1ol  ( fecha de publicaci\u00f3n: Noviembre 2012) Timeline Photos",
-          1349113241
-        ],
-        [
-          "Por lo tanto, benditos sean aquellos que no temen a la soledad. Que no se asustan con la propia compa\u00f1\u00eda, \r\nque no se desesperan buscando algo en qu\u00e9 ocuparse, \r\ndivertirse o qu\u00e9 juzgar.\r\n\r\n(Manuscrito encontrado en Accra, NOVIEMBRE 2012 en todos los paises de idioma espanol) Timeline Photos",
-          1348408317
-        ],
-        [
-          "Permanece con quienes no temen ser vulnerables. \r\nPorque esos tienen confianza en s\u00ed mismos, saben que todos tropezamos en alg\u00fan momento, y no interpretan esto como una se\u00f1al de flaqueza, sino de humanidad.\r\n(Manuscrito encontrado en Accra - Noviembre 2012 en todos los pa\u00edses de idioma espanol) Timeline Photos",
-          1348224421
-        ],
-        [
-          "\"Manuscrito encontrado em Accra\" completa hoje 8 semanas (dois meses) na lista dos mais vendidos. Abaixo uma das p\u00e1ginas, sobre a diferen\u00e7a entre derrota e fracasso Timeline Photos",
-          1347123426
-        ],
-        [
-          "Abaixo uma p\u00e1gina de \"Manuscrito encontrado em Accra\" Timeline Photos",
-          1346681074
-        ],
-        [
-          "Trecho de \"Manuscrito encontrado em Accra\" Timeline Photos",
-          1345029905
-        ],
-        [
-          "Se todos te amam, algo est\u00e1 errado. Ninguem pode agradar todo mundo (Manuscrito encontrado em Accra) Timeline Photos",
-          1345025842
-        ],
-        [
-          "Repetindo um post de ontem: como devem ter notado, aceitei apenas UMA \u00fanica entrevista para a m\u00eddia impressa (O Globo). Todo o mais que foi publicado teve como base as informa\u00e7\u00f5es enviadas pela editora\r\n\r\nPor que isso?\r\nPorque cada vez mais os jornalistas perguntam sobre mim, e cada vez menos sobre os livros que publico.\r\n\r\nE o que decidi fazer?\r\nDeixar nas m\u00e3os de voc\u00eas a promo\u00e7\u00e3o.. Se gostarem, por favor recomendem a seus amigos. Vejam se falta em livrarias e nos avisem. Paricipem. Ajudem.\r\nCriei no Facebook a p\u00e1gina \"Manuscrito encontrado em Accra\". que \u00e9 lido pela editora. Problemas de distribui\u00e7\u00e3o devem ser postados l\u00e1\r\n\r\nUm guerreiro da luz confia nos outros guerreiros da luz.\r\nMuit\u00edssimo obrigado Timeline Photos",
-          1343580394
-        ],
-        [
-          "Como devem ter notado, aceitei apenas UMA \u00fanica entrevista para a m\u00eddia impressa (jornal O Globo). Todo o mais que foi publicado teve como base as informa\u00e7\u00f5es enviadas pela editora\r\n\r\nPor que isso?\r\nPorque cada vez mais os jornalistas perguntam sobre mim, e cada vez menos sobre os livros que publico.\r\nNa entrevista de O Globo, falo da importancia crescente deste contato direto com leitores.\r\n\r\nE o que decidi fazer?\r\nDeixar nas m\u00e3os de voc\u00eas a promo\u00e7\u00e3o de \"Manuscrito encontrado em Accra\". Se gostarem, por favor recomendem a seus amigos. Vejam se falta em livrarias e nos avisem. Paricipem. Ajudem.\r\nAli ao lado, entre minhas op\u00e7\u00f5es \"curtir\", est\u00e1 a p\u00e1gina \"Manuscrito encontrado em Accra\". L\u00e1 tem um post igual a esse, que \u00e9 lido tambem pela editora. Problemas de distribui\u00e7\u00e3o devem ser postados l\u00e1\r\n\r\nUm guerreiro da luz confia nos outros guerreiros da luz.\r\nMuit\u00edssimo obrigado Timeline Photos",
-          1343510920
-        ],
-        [
-          "Lan\u00e7amento amanh\u00e3, dia 25 de julho (mas j\u00e1 pode ser encontrado em muitas livrarias) Timeline Photos",
-          1343127490
-        ],
-        [
-          "Embora o lan\u00e7amento seja apenas dia 25 (proxima quarta) algumas livrarias j\u00e1 colocaram \"Manuscrito encontrado em Accra\" \u00e0 venda, e o primeiro coment\u00e1rio a gente nunca esquece. Obrigado Maithe! Timeline Photos",
-          1342864206
-        ],
-        [
-          "Eu adorei a id\u00e9ia do Flavio Waiteman para o cartaz de \"Manuscrito encontrado em Accra\" (lan\u00e7amento 25 julho). Me digam o que pensam Timeline Photos",
-          1341432455
-        ],
-        [
-          "25 julho: lan\u00e7amento no Brasil de \"Manuscrito encontrado em Accra\" Timeline Photos",
-          1341407648
-        ],
-        [
-          "J\u00e1 viram uma p\u00e1gina sendo corrigida pelo escritor? (no caso, Manuscrito encontrado em Accra)\r\nDid you ever see a page being edited by the writer? (in this case, from my new book, to be published world wide late 2012 and during 2013) Timeline Photos",
-          1340736738
-        ]
-      ],
-      "dates_start": 1336535609,
-      "dates_end": 1415434939,
-      "likes_avg": 19913,
-      "likes_stdev": 17404,
-      "comments_avg": 343,
-      "comments_stdev": 249,
-      "shares_avg": 10467,
-      "shares_stdev": 9069
+      "dates_start": 1333627697,
+      "dates_end": 1414803256,
+      "likes_avg": 17633,
+      "likes_stdev": 16733,
+      "comments_avg": 492,
+      "comments_stdev": 396,
+      "shares_avg": 5357,
+      "shares_stdev": 8411
     },
     {
       "number": 8,
       "important": [
-        "accra",
-        "found accra",
-        "friend",
-        "photo",
-        "manuscript found accra",
-        "accra timelin",
-        "timelin",
-        "found",
-        "true",
-        "heart"
-      ],
-      "common": [
-        "accra",
-        "bit",
-        "bit ly",
-        "http",
-        "http bit",
-        "http bit ly",
-        "manuscript",
-        "manuscript found",
-        "manuscript found accra",
-        "timeline photos"
-      ],
-      "messages": [
-        [
-          "A true friend reaches for your hand and touches your heart\n(in Manuscript found in Accra) Timeline Photos",
-          1464457793
-        ],
-        [
-          "Scars speak more loudly than the sword that caused them.\nManuscript Found in Accra Timeline Photos",
-          1429160402
-        ],
-        [
-          "If it's still in your mind, it is worth taking the risk\nManuscript Found in Accra Timeline Photos",
-          1427695203
-        ],
-        [
-          "Manuscript Found in Accra Timeline Photos",
-          1425283201
-        ],
-        [
-          "August 19 ( USA, UK, Australia, New Zealand, India) Timeline Photos",
-          1403868906
-        ],
-        [
-          "UK: Manuscript Found in Accra: No 12 in WHSmith chart Mobile Uploads",
-          1390150443
-        ],
-        [
-          "Love is what makes you smile when you are tired\r\n(quote taken from \"Manuscript found in Accra\"\r\nUSA http://bit.ly/YujM3s UK: http://bit.ly/10Vjbu7 ) Timeline Photos",
-          1368612401
-        ],
-        [
-          "Las cicatrices hablan m\u00e1s fuerte que la espada que las caus\u00f3\r\n\r\nManuscript found in Accra\r\nUSA http://bit.ly/YujM3s UK: http://bit.ly/10Vjbu7 Timeline Photos",
-          1368126537
-        ],
-        [
-          "\"Asumimos (falsamente) que c\u00f3mo nos sentimos ahora es c\u00f3mo nos sentiremos en el futuro.\"\r\nManuscript found in Accra\r\nUSA http://bit.ly/YujM3s UK: http://bit.ly/10Vjbu7 Timeline Photos",
-          1368020359
-        ],
-        [
-          "Manuscript found in Accra \r\nUSA http://bit.ly/YujM3s\r\nUK: http://bit.ly/10Vjbu7 Timeline Photos",
-          1367853905
-        ],
-        [
-          "Defeat is part of life. If you are not defeated, you don't learn. And if you don't learn, you don't change\r\nMANUSCRIPT FOUND IN ACCRA http://bit.ly/YujM3s Timeline Photos",
-          1367833321
-        ],
-        [
-          "If it is still in your mind, face the risks and go for it!\r\nUSA http://bit.ly/YujM3s UK: http://bit.ly/10Vjbu7 Timeline Photos",
-          1367339976
-        ],
-        [
-          "Anyone who loves in the expectation of being loved in return is wasting their time.\r\n( USA http://bit.ly/YujM3s UK: http://bit.ly/10Vjbu7 ) Timeline Photos",
-          1367160438
-        ],
-        [
-          "I learned which bridges should be crossed and which should be burned\r\n(Manuscript found in Accra USA http://bit.ly/YujM3s\r\nUK: http://bit.ly/10Vjbu7 ) Timeline Photos",
-          1366796917
-        ],
-        [
-          "(Manuscript found in Accra USA http://bit.ly/YujM3s UK: http://bit.ly/10Vjbu7 ) Timeline Photos",
-          1366739181
-        ],
-        [
-          "USA http://bit.ly/YujM3s UK: http://bit.ly/10Vjbu7 Timeline Photos",
-          1366221536
-        ],
-        [
-          "Manuscript found in Accra\r\nUSA http://bit.ly/YujM3s UK: http://bit.ly/10Vjbu7 Timeline Photos",
-          1366141908
-        ],
-        [
-          "Success does not come from having one\u2019s work recognised by others. It is the fruit of the seed that you lovingly planted.\r\n(Manuscript found in Accra > USA http://bit.ly/YujM3s \r\nUK: http://bit.ly/10Vjbu7 Timeline Photos",
-          1366047569
-        ],
-        [
-          "Manuscript found in Accra\r\nUSA http://bit.ly/YujM3s  UK: http://bit.ly/10Vjbu7 Timeline Photos",
-          1365531372
-        ],
-        [
-          "Manuscript found in Accra\r\nUK: http://bit.ly/10Vjbu7 USA http://bit.ly/YujM3s Timeline Photos",
-          1365519240
-        ],
-        [
-          "As I type this, \"Manuscript found in Accra\" is still # 1 in Barnes&Noble, the biggest bookstore chain in America \r\nhttp://bit.ly/XU5XNF  Thank you ! Timeline Photos",
-          1365168954
-        ],
-        [
-          "UK MARCH 28: Manuscript found in Accra \u00a38.44 ( - 35% + free delivery ) > http://bit.ly/10Vjbu7\r\nUSA APRIL 2: Manuscript found in Accra $12,35 ( - 44% ) > http://bit.ly/YujM3s Timeline Photos",
-          1364059569
-        ],
-        [
-          "Danke Germany! \"Manuscript found in Accra\" went straight to #3 Der Spiegel best seller list! Timeline Photos",
-          1358864644
-        ],
-        [
-          "Thank you Holland! ( Manuscript found in Accra #3) Timeline Photos",
-          1352318343
-        ],
-        [
-          "Italia, first country where \"Manuscript found in Accra\" outpaces \"50 shades of Grey\"\r\nE piano piano si scalano le classifiche :) Timeline Photos",
-          1351099262
-        ],
-        [
-          "Give us this day, Lord, our daily miracle Our daily miracle (Manuscript found in Accra)",
-          1350218243
-        ],
-        [
-          "Lord, give us this day our daily miracle (1:46 min video)\nhttp://bit.ly/T4yMBR Our daily miracle (Manuscript found in Accra)",
-          1349861941
-        ],
-        [
-          "\"Manuscript found in Accra\" currently in Portuguese (Brasil), Italian and Turkish\r\nNext week: Dutch, Romanian, Bulgarian Timeline Photos",
-          1349707913
-        ],
-        [
-          "Sometimes love grows tired of speaking softly. Therefore, let it reveal itself in all its splendour, burning like the sun and destroying whole forests with its winds.\r\n(Manuscript found in Accra) Timeline Photos",
-          1346146632
-        ],
-        [
-          "We need to awake the Love sleeping within us before we awaken love in other people. \r\n(Manuscript found in Accra, to be released world wide in 2013) Timeline Photos",
-          1344809493
-        ],
-        [
-          "Solitude is not the absence of company, but the moment when our soul is free to speak to us and help us decide what to do with our life.\r\n\r\n(Manuscript found in Accra will be released world wide in 2013) Timeline Photos",
-          1344549068
-        ],
-        [
-          "\u2018Difficulty\u2019: the name of an ancient tool that was created purely to help us define who we are.\r\n(Manuscript found in Accra, to be released world wide in 2013) Timeline Photos",
-          1344449078
-        ],
-        [
-          "Give us this day, Lord, our daily miracle\r\nHelp us to know that when our legs are tired, we can keep walking thanks to the strength in our hearts\r\n(Manuscript found in Accra, to be released word wide in 2013) Timeline Photos",
-          1344333436
-        ],
-        [
-          "The problem is not to fall down, but to get stuck in the ground (Manuscript found in Accra) Timeline Photos",
-          1343298477
-        ]
-      ],
-      "dates_start": 1342335174,
-      "dates_end": 1398102805,
-      "likes_avg": 22507,
-      "likes_stdev": 18608,
-      "comments_avg": 370,
-      "comments_stdev": 301,
-      "shares_avg": 14822,
-      "shares_stdev": 20542
-    },
-    {
-      "number": 9,
-      "important": [
-        "da",
-        "coelho",
-        "accra",
-        "dos",
-        "como",
-        "paulo",
-        "nosso",
-        "que",
-        "um",
-        "paulo coelho"
-      ],
-      "common": [
-        "coelho",
-        "http",
-        "min",
-        "paulo",
-        "paulo coelho",
-        "photos",
-        "post",
-        "timeline",
-        "timeline photos",
-        "video"
-      ],
-      "messages": [
-        [
-          "5.662 Paulo Coelho Quotes  (Goodreads) http://bit.ly/2lbOVyM",
-          1486395212
-        ],
-        [
-          "http://glo.bo/2j01Pyv Paulo Coelho \u00e9 escolhido pela Funda\u00e7\u00e3o Einstein como um dos 100 maiores pensadores do nosso tempo | Lauro Jardim - O Globo Paulo Coelho \u00e9 o novo \u201cVision\u00e1rio\u201d da Funda\u00e7\u00e3o Albert Einstein. A honraria, que tamb\u00e9m premia Shimon Peres, Alice Munro e outros dez ganhadores ...",
-          1483972391
-        ],
-        [
-          "Lest jetzt die Leseprobe von DIE SPIONIN und gewinnt exklusive DSE Ohrringe, veredelt mit Swarovski Kristallen\nhttp://www.diespionin.de/ Paulo Coelho: Die Spionin Der neue Roman von Paulo Coelho \u00fcber den Mythos der Mata Hari. Jetzt reinlesen und exklusive Ohrringe gewinnen!",
-          1480099963
-        ],
-        [
-          "Um preconceito chamado Paulo Coelho http://bit.ly/2fubz1P Um preconceito chamado Paulo Coelho \u2013 MR NEWS Um preconceito chamado Paulo Coelho 14/11/2016 COLUNAS A primeira pergunta que me faziam sempre quando eu dizia \u201cN\u00e3o posso opinar sobre Paulo Coelho pois nunca li nada dele\u2026\u201d era um seguido de: \u201c Como voc\u00ea \u00e9 blogueira liter\u00e1ria e nunca leu Paulo Coelho?\u201d. Pois \u00e9, a gente aprende na escola a ler Mach...",
-          1479407386
-        ],
-        [
-          "Exclusive Excerpt from \u201cThe Spy\u201d by Paulo Coelho",
-          1479232817
-        ],
-        [
-          "Reviews from readers who received the galleys \n(PUB date: Nov 22)  http://bit.ly/2fybgjq Photos from Paulo Coelho's post",
-          1478536866
-        ],
-        [
-          "The new photo of my avatar was taken by Bernardo Doral for Elle Magazine Paulo Coelho",
-          1477518113
-        ],
-        [
-          "Obrigado\n(more to come this weekend, thank you for your  patience) Photos from Paulo Coelho's post",
-          1476360119
-        ],
-        [
-          "Thank you! Photos from Paulo Coelho's post",
-          1475678991
-        ],
-        [
-          "Today: Hungary! Photos from Paulo Coelho's post",
-          1475501697
-        ],
-        [
-          "Paulo Coelho \u00e9 o autor em l\u00edngua portuguesa mais traduzido do mundo http://veja.abril.com.br/blog/radar-on-line/cultura/em-obras-traduzidas-paulo-coelho-desbanca-saramago/ via @veja Timeline Photos",
-          1475346801
-        ],
-        [
-          "TODAY!\nUudessa romaanissaan Paulo Coelho kertoo historian kuuluisimman vakoojan Mata Harin tarinan. Kirja perustuu mahdollisimman pitk\u00e4lle tositapahtumiin ja kuvaa Mata Harin eksoottisen el\u00e4m\u00e4n vaiheet, jotka sis\u00e4lsiv\u00e4t runsaasti koettelemuksia ja k\u00e4rsimyst\u00e4 mutta my\u00f6s ainutlaatuisia hetki\u00e4, joista tuli osa historiaa.\nPaulo Coelhon Vakooja (suom. Sanna Pernu ja Jarna Piippo) nyt kirjakaupoissa! Timeline Photos",
-          1475153189
-        ],
-        [
-          "Amigos / friends\n(I will post more by Friday, over 40 waiting so far) Photos from Paulo Coelho's post",
-          1475103454
-        ],
-        [
-          "Gossip ends at a wise person's ears Timeline Photos",
-          1462193758
-        ],
-        [
-          "TwoBad, May 1: \"Listening carefully to Paulo Coelho\" Timeline Photos",
-          1462139094
-        ],
-        [
-          "Expo Paulo Coelho Salon du Livre Timeline Photos",
-          1461787086
-        ],
-        [
-          "Very moved by the personal message from Stephen Hawking From Stephen Hawking to Paulo Coelho",
-          1442592617
-        ],
-        [
-          "Next Sunday Oprah and Paulo Coelho, Part 2 - http://bit.ly/1wbI58s\nWorld wide LIVE stream Paris 17:00 hr Rio 12:00 Colombia 10:00 hr\nNew Delhi 20:30 hr Tokyo 00:00 (midnight)\n\n \"Oprah and Paulo Coelho, Part 1\" http://bit.ly/1qG45GE Timeline Photos",
-          1410537168
-        ],
-        [
-          "My wife is the only visible person Timeline Photos",
-          1407330800
-        ],
-        [
-          "Mais uma resenha aqui: Adult\u00e9rio | Paulo Coelho http://bit.ly/1mgzPj8 Timeline Photos",
-          1397732266
-        ],
-        [
-          "#1 Pele #2 Paulo Coelho\nEntenda como Paulo Coelho virou o autor vivo mais traduzido do planeta (Forbes) http://on-msn.com/1gdRHY1 Timeline Photos",
-          1391959927
-        ],
-        [
-          "My conference today, opening the Campus Party Europe (Berlin). It will take 56 min to watch it, so only click in the video if you are really interested in Literature + Technology CPEUROPE - Paulo Coelho CPEUROPE - Paulo Coelho",
-          1345668785
-        ],
-        [
-          "You are right. I am posting your comment here (comment after I posted Emma Watson's photo reading The Alchemist) Timeline Photos",
-          1343737272
-        ],
-        [
-          "2:30 min video Paulo Coelho on Luck, Coincidence, and Faith Paulo Coelho discusses his thoughts on Luck, Coincidence, and Faith. ",
-          1339107488
-        ],
-        [
-          "Paulo Coelho, vintage 1973 (as a hippie...) Timeline Photos",
-          1336470607
-        ],
-        [
-          "1:55 MIN video The journey",
-          1333494656
-        ],
-        [
-          "1 MIN VIDEO (Aleph already in paperback UK, and in June paperback US) Paulo Coelho Aleph In his most personal novel to date, bestselling author Paulo Coelho returns with a remarkable journey of self-discovery. Available now at Amazon http://amzn....",
-          1333102680
-        ],
-        [
-          "My friends and I praying in several languages, March 19 2012 Paulo Coelho Saint Joseph Italy 2012.mov Paulo Coelho prayer to Saint Joseph at in Marostica Italy 2012",
-          1332511349
-        ],
-        [
-          "Video 2 min: from tomorrow on, ALEPH in UK PAULO COELHO TALKS ABOUT 'ALEPH' Available now at Amazon http://amzn.to/zTdpR7 In his most personal novel to date, bestselling author Paulo Coelho returns with a remarkable journey of self-d...",
-          1331233456
-        ],
-        [
-          "Ontem postei isso, mas dei email errado. \u00c9 o seguinte: lutei muito p/abaixar o pre\u00e7o dos livros, a editora fez parceria com Saraiva para isso. Prometeram visibilidade e displays (vejam link abaixo). Pe\u00e7o ajuda aqui: se tiverem tempo, vejam se est\u00e1 tudo ok. E enviem coment\u00e1rio para pilar_piedra@hotmail.com  Obrigad\u00edssimo M\u00eas Paulo Coelho - Saraiva.com.br Conhe\u00e7a a obra de Paulo Coelho, o autor brasileiro mais lido no mundo.",
-          1331038438
-        ],
-        [
-          "Uma grande batalha vencida: conseguir reduzir o pre\u00e7o de meus livros. Cliquem no link abaixo M\u00eas Paulo Coelho - Saraiva.com.br Conhe\u00e7a a obra de Paulo Coelho, o autor brasileiro mais lido no mundo.",
-          1330726712
-        ],
-        [
-          "For your own sake, resign from the post of General Manager of Life",
-          1330165289
-        ],
-        [
-          "3:21 min video en Espanol Enigma Blanco (Paulo Coelho) Recopilaci\u00f3n personal sobre citas del famoso escritor Paulo Coelho, recopiladas desde 2008 hasta 2010. Musica orquestada de Bill Douglas. Edici\u00f3n y Montaje r...",
-          1328448878
-        ],
-        [
-          "Genial. Thank you to the person who made this infographic The Journey of Paulo Coelho [INFOGRAPHIC] | Voxy Blog",
-          1327063821
-        ],
-        [
-          "2 MIN  visual hallucinogenic video (gift from a friend, Flavio Waiterman) Paulo Coelho, Aleph by Flavio Waiterman",
-          1325935554
-        ]
-      ],
-      "dates_start": 1343136113,
-      "dates_end": 1475337297,
-      "likes_avg": 10722,
-      "likes_stdev": 13045,
-      "comments_avg": 276,
-      "comments_stdev": 226,
-      "shares_avg": 1649,
-      "shares_stdev": 4329
-    },
-    {
-      "number": 10,
-      "important": [
-        "lord",
-        "dream",
+        "week",
         "bless week",
         "need",
+        "accra",
         "bless",
-        "photo",
-        "week",
-        "us",
         "dont",
-        "timelin"
+        "someth",
+        "lord",
+        "dream",
+        "us"
       ],
       "common": [
         "bless",
         "bless week",
+        "bless week may",
         "lord",
         "lord bless",
         "lord bless week",
-        "lord bless week may",
         "photos",
         "timeline",
         "timeline photos",
@@ -1216,10 +757,6 @@
         [
           "Lord, bless our week. May we learn how to navigate between false friends and true enemies Timeline Photos",
           1368436300
-        ],
-        [
-          "Lord, bless our week. The reward of our work is not what we get, but what we become",
-          1343639537
         ],
         [
           "Lord, bless our week. May we have the strength of the mountain and the wisdom of the water",
@@ -1310,27 +847,27 @@
           1325525253
         ]
       ],
-      "dates_start": 1319311264,
-      "dates_end": 1420260597,
-      "likes_avg": 34677,
-      "likes_stdev": 18775,
-      "comments_avg": 584,
-      "comments_stdev": 266,
-      "shares_avg": 9764,
-      "shares_stdev": 12691
+      "dates_start": 1319538925,
+      "dates_end": 1421527016,
+      "likes_avg": 34926,
+      "likes_stdev": 18983,
+      "comments_avg": 591,
+      "comments_stdev": 267,
+      "shares_avg": 9940,
+      "shares_stdev": 12828
     },
     {
-      "number": 11,
+      "number": 9,
       "important": [
+        "friend",
+        "gracia",
+        "semana",
+        "todo",
+        "thank",
         "accra",
         "reader",
-        "gracia",
-        "thank",
-        "friend",
-        "semana",
-        "photo",
-        "en",
         "una",
+        "en",
         "obrigado"
       ],
       "common": [
@@ -1509,412 +1046,151 @@
       "shares_stdev": 6813
     },
     {
-      "number": 12,
+      "number": 10,
       "important": [
-        "de la",
-        "la",
-        "m\u00e1s",
-        "hari",
-        "un",
-        "en",
-        "que",
-        "una",
-        "de",
-        "mata"
-      ],
-      "common": [
-        "de",
-        "de la",
-        "en",
-        "la",
-        "photos",
-        "que",
-        "timeline",
-        "timeline photos",
-        "una",
-        "vida"
-      ],
-      "messages": [
-        [
-          "Cuando Mata Hari lleg\u00f3 a Par\u00eds no ten\u00eda un centavo.\nEn menos de un a\u00f1o fue alabada como la mujer m\u00e1s elegante de la ciudad.\nUna bailarina que sorprendi\u00f3 y deleit\u00f3 al p\u00fablico, confidente y cortesana que embruj\u00f3 a los hombres m\u00e1s ricos y poderosos de la \u00e9poca.\nPero a medida que la paranoia consum\u00eda a un pa\u00eds en guerra, el estilo de vida de Mata Hari la puso bajo sospecha. Hasta que en 1917 fue detenida y acusada de espionaje.\n\nLa Esp\u00eda (basada en hechos reales)  cuenta la historia de una mujer que se atrevi\u00f3 a romper los esquemas de su \u00e9poca, y pag\u00f3 el precio.\n\nEN OCTOBRE EN TODA LATINOAMERICA Y ESPA\u00d1A\nBRASIL: SETEMBRO Timeline Photos",
-          1466769423
-        ],
-        [
-          "La Bamba!",
-          1466557870
-        ],
-        [
-          "La Sorci\u00e8re de Portobello Timeline Photos",
-          1430024402
-        ],
-        [
-          "Un guerrero sabe que los fines no justifican los medios. Porque no existen fines; existen solamente medios. \nMANUAL DEL GUERRERO DE LA LUZ Timeline Photos",
-          1429207346
-        ],
-        [
-          "Antes de empezar una batalla, el guerrero de la luz abre su coraz\u00f3n y pide a Dios que le inspire. \nManual of the Warrior of Light Timeline Photos",
-          1428343301
-        ],
-        [
-          "Cuesta mucho librarse de la memoria Timeline Photos",
-          1427569265
-        ],
-        [
-          "Un guerrero de la luz presta atenci\u00f3n a los ojos de un ni\u00f1o. Porque ellos saben ver el mundo sin amargura. \nManual del guerrero de la luz Timeline Photos",
-          1427137338
-        ],
-        [
-          "Sur le bord de la rivi\u00e8re Piedra je me suis assise et j'ai pleur\u00e9 Timeline Photos",
-          1425967201
-        ],
-        [
-          "En ce moment, beaucoup de gens ont renonc\u00e9 \u00e0 vivre. Ils ne s'ennuient pas, ils ne pleurent pas, ils se contentent d'attendre que le temps passe. Ils n'ont pas accept\u00e9 les d\u00e9fis de la vie et elle ne les d\u00e9fie plus. Timeline Photos",
-          1423928762
-        ],
-        [
-          "Esto era la libertad: sentir lo que su coraz\u00f3n deseaba, independientemente de la opini\u00f3n de los otros.\nLa Quinta Monta\u00f1a Timeline Photos",
-          1423720802
-        ],
-        [
-          "En una relaci\u00f3n, ambos saben lo que hacen, aunque uno de ellos vaya despu\u00e9s a quejarse de que ha sido utilizado.\nLa bruja de Portobello Timeline Photos",
-          1423681378
-        ],
-        [
-          "\"De hecho, cada d\u00eda para m\u00ed es una nota musical que uso para componer la sinfon\u00eda de mi vida\". Timeline Photos",
-          1422990127
-        ],
-        [
-          "La belleza de la verdad: sin importar que sea buena o mala, es una experiencia liberadora. Timeline Photos",
-          1421953366
-        ],
-        [
-          "Manuel du Guerrier de la lumi\u00e8re Timeline Photos",
-          1421906405
-        ],
-        [
-          "Y para aquellos que piensan que la aventura es peligrosa, prueben la rutina: mata antes de tiempo. Timeline Photos",
-          1421175727
-        ],
-        [
-          "Manuel du guerrier de la lumi\u00e8re Timeline Photos",
-          1420869600
-        ],
-        [
-          "Es bueno que aprendas que todo en la vida tiene un precio. Y esto es lo que los Guerreros de la Luz intentan ense\u00f1ar. Timeline Photos",
-          1418810488
-        ],
-        [
-          "Aunque la ansiedad sea parte de la vida, nunca dejes que ella controle tus movimientos. Timeline Photos",
-          1415469700
-        ],
-        [
-          "\"Cuando llega la noche y nadie me ve, me asusto por todo: la vida, la muerte, el amor y su ausencia, el hecho de que todas las novedades se est\u00e1n convirtiendo en h\u00e1bitos, la sensaci\u00f3n de que estoy perdiendo los mejores a\u00f1os de mi vida en una rutina que va a seguir repiti\u00e9ndose hasta queme muera, y el p\u00e1nico a enfrentarme a lo desconocido, por m\u00e1s emocionante y aventurero que sea.\" \n\n- ADULTERIO - In all bookstores and also on Amazon (http://amzn.to/102g3Ry) Timeline Photos",
-          1414951279
-        ],
-        [
-          "Es justamente la posibilidad de realizar un sue\u00f1o lo que hace que la vida sea interesante. #elalquimista Timeline Photos",
-          1414353735
-        ],
-        [
-          "No tomes decisiones importantes de la vida bas\u00e1ndose en lo que quieres ahora. Timeline Photos",
-          1412013889
-        ],
-        [
-          "La Vanguardia hoy Timeline Photos",
-          1411561191
-        ],
-        [
-          "Agradezco a todos aquellos que se rieron de mis sue\u00f1os; me ense\u00f1aron a crecer respetando las luchas de la gente. Timeline Photos",
-          1411063337
-        ],
-        [
-          "Es justamente la posibilidad de realizar un sue\u00f1o lo que hace que la vida sea interesante. Timeline Photos",
-          1409508060
-        ],
-        [
-          "Amar abundantemente es vivir abundantemente. Amar para siempre es vivir para siempre. La vida Eterna est\u00e1 vinculada al Amor. Timeline Photos",
-          1409421661
-        ],
-        [
-          "Estoy sufriendo por amor. Eso puede ser una bajada al infierno, pero puede ser una revelaci\u00f3n. Timeline Photos",
-          1403647280
-        ],
-        [
-          "Perseguir un sue\u00f1o tiene un precio. Nos puede obligar a abandonar nuestros h\u00e1bitos, puede suponer dificultades, puede llevar a la decepci\u00f3n... Pero por muy caro que sea, nunca es tan alto como el precio pagado por aquellos que no se atrevieron a perseguirlo. Timeline Photos",
-          1403263231
-        ],
-        [
-          "Quiero ser capaz de aceptarme como soy. Una persona que camina, que siente, que habla como cualquier otra, pero que a pesar de sus defectos tiene coraje. Timeline Photos",
-          1401537677
-        ],
-        [
-          "El mayor objetivo de la vida es amar... El resto es silencio Timeline Photos",
-          1401235252
-        ],
-        [
-          "Nadie pierde a nadie porque nadie posee a nadie. Y esta es la verdadera experiencia de la libertad: Tener lo m\u00e1s importante del mundo sin poseerlo. Timeline Photos",
-          1401127269
-        ],
-        [
-          "La vida siempre espera a que una crisis se produzca antes de mostrar su cara m\u00e1s brillante. Timeline Photos",
-          1399906918
-        ],
-        [
-          "No busquemos respuestas. Aceptemos, y entonces la vida pasa a ser mucho m\u00e1s intensa y m\u00e1s brillante. Timeline Photos",
-          1397599319
-        ],
-        [
-          "Solo existe una manera de aprender: A trav\u00e9s de la acci\u00f3n. Timeline Photos",
-          1396000238
-        ],
-        [
-          "El peligro de una aventura vale m\u00e1s que mil d\u00edas de tranquilidad y comodidad. Timeline Photos",
-          1395939686
-        ],
-        [
-          "Nadie puede evitar la derrota. Por eso es mejor perder algunos combates en la lucha por tus sue\u00f1os que ser derrotado sin siquiera saber por qu\u00e9 est\u00e1s luchando. Timeline Photos",
-          1395446463
-        ],
-        [
-          "Se\u00f1or, ll\u00e9nanos de entusiasmo para enfrentarnos a los desaf\u00edos de la vida. #FelizSemana Timeline Photos",
-          1394568187
-        ],
-        [
-          "La vida est\u00e1 para adelante, nunca para atr\u00e1s. Timeline Photos",
-          1393952401
-        ],
-        [
-          "Merci a vous pour la photo\r\n\"Asma B. Mohd: Merci Coelho pour cette merveille\" Timeline Photos",
-          1370772584
-        ],
-        [
-          "Janie Fortin:  Cher Paulo!!!!!!\r\n    Le voici enfin au Qu\u00e9bec..... attendu depuis d\u00e9j\u00e0 un moment c\u2019est aujourd'hui que j'ai re\u00e7u l'appel de l'arriv\u00e9 du livre \u00e0 la librairie...\r\n    Merci de nous faire voyager. de nous faire croire en nos r\u00eaves....    MERCI DE M'AVOIR INSPIR\u00c9 MA NOUVELLE VIE!!!!!\r\n    Je partage vos citations avec mes amis depuis que le manuscrit est sorti en France...... Chaque jour c'est un moment de Bonheur pour moi!!!!\r\n    Au Plaisir de vous lire encore durant plusieurs ann\u00e9es!!!! Timeline Photos",
-          1370715782
-        ],
-        [
-          "\u201cCu\u00e9ntanos sobre la soledad\u201d, pidi\u00f3 una joven que estaba a punto de casarse con el hijo de uno de los hombres m\u00e1s ricos de la ciudad, y que ahora se ve\u00eda obligada a huir. Timeline Photos",
-          1350672216
-        ],
-        [
-          "Manuscrito 2nd stop: Italia!  ( 10 Settembre) Anteprima > la copertina italiana Timeline Photos",
-          1345460198
-        ],
-        [
-          "La adrenalina y el estr\u00e9s de una aventura son mejores que mil d\u00edas de tranquilidad. Timeline Photos",
-          1343737147
-        ],
-        [
-          "Lo que ustedes ven es apenas parte de mi avatar. Ahora pueden ver la parte oculta... Timeline Photos",
-          1342561191
-        ],
-        [
-          "La ventana de mi hotel ayer, Laco di Guarda, Italia Timeline Photos",
-          1336418507
-        ]
-      ],
-      "dates_start": 1377040916,
-      "dates_end": 1434028047,
-      "likes_avg": 57216,
-      "likes_stdev": 37553,
-      "comments_avg": 595,
-      "comments_stdev": 488,
-      "shares_avg": 20418,
-      "shares_stdev": 16030
-    },
-    {
-      "number": 13,
-      "important": [
-        "use",
-        "god",
-        "hari",
+        "found accra",
+        "manuscript found accra",
+        "friend",
         "accra",
-        "inspir",
-        "said",
-        "make",
-        "woman",
-        "thespi",
-        "mata"
+        "espanol",
+        "usa",
+        "found",
+        "true",
+        "accra usa",
+        "heart"
       ],
       "common": [
-        "coelho",
-        "hari",
+        "accra",
+        "found",
+        "found accra",
         "http",
-        "http bit ly",
-        "mata",
-        "mata hari",
+        "manuscript",
+        "manuscript found",
+        "manuscript found accra",
         "photos",
-        "spy",
         "timeline",
         "timeline photos"
       ],
       "messages": [
         [
-          "\"Beware of making a woman cry\" \nMata Hari said.\n\"God is counting her tears.\"\n\n#TheSpy",
-          1486823497
+          "4 Octubre -  Latam, Mexico, Espa\u00f1a, USA (espanol) Timeline Photos",
+          1474464897
         ],
         [
-          "How it sparkles! Inspired by my new novel #TheSpy , in THALIA Bookstores (Germany), Mata Hari headpieces designed  by DSE, using Swarovski Crystals. Photos from Paulo Coelho's post",
-          1484834782
+          "A true friend reaches for your hand and touches your heart\n(in Manuscript found in Accra) Timeline Photos",
+          1464457793
         ],
         [
-          "Video 5,41 min - CBS Sunday Morning Dec 18 http://cbsn.ws/2h3Z6SR Paulo Coelho: A master at work Study the fine print of any book by Brazilian author Paulo Coelho and you'll find all the signs of a master at work. His latest novel, \"The Spy,\" is based on the life of Mata Hari, the Dutch-born exotic dancer who in 1917 was accused of spying for Germany and executed. Rita Braver has more.",
-          1482186886
+          "Scars speak more loudly than the sword that caused them.\nManuscript Found in Accra Timeline Photos",
+          1429160402
         ],
         [
-          "Don't miss my interview tomorrow 9:00 AM on CBS Sunday Morning Book excerpt: \"The Spy\" by Paulo Coelho Read a sample chapter from the Brazilian author's latest novel, inspired by the life of World War I spy Mata Hari",
-          1481983169
+          "If it's still in your mind, it is worth taking the risk\nManuscript Found in Accra Timeline Photos",
+          1427695203
         ],
         [
-          "Mata Hari is back to her beloved city  \n#TheSpy Timeline Photos",
-          1480122716
+          "Manuscript Found in Accra Timeline Photos",
+          1425283201
         ],
         [
-          "The greatest crime I commited was being an emancipated and  independent woman in a world ruled by men (Mata Hari) Timeline Photos",
-          1479826021
+          "August 19 ( USA, UK, Australia, New Zealand, India) Timeline Photos",
+          1403868906
         ],
         [
-          "NATIONAL BOOK REVIEW - LA Times\n\nThe Spy\u201d by Paulo Coehlo (Knopf: 208 pp)\n\nCoelho, whose books have sold more than 200 million copies worldwide, has taken the Mata Hari story and fashioned it into a short dynamo of a novel.  \nHe starts with the outlines of Mata Hari's life \u2014 Dutch exotic dancer, charmer of powerful men, accused spy for Germany in World War I \u2014 and mixes in some of her own self-deceptions to create a letter she might have written before facing the French firing squad that ultimately killed her. \nCoelho\u2019s Mata Hari explains that she was simply a \u201cwoman born at the wrong time\u201d and pleads that if the future remembered her, \u201cmay it never see me as a victim, but as someone who moved forward with courage, fearlessly paying the price she had to pay\"\n\n(release date in USA: Nov 22)",
-          1479573059
+          "UK: Manuscript Found in Accra: No 12 in WHSmith chart Mobile Uploads",
+          1390150443
         ],
         [
-          "Kirkus Review: THE SPY\n\nCoelho\u2019s (Adultery, 2014, etc.) novel about Mata Hari, the notorious and (in all likelihood) falsely accused World War I spy, hews closely to the facts.A prologue reveals what we already know from history: Mata Hari was executed by firing squad in Paris on Oct. 15, 1917. \nThe rest of the book consists of Mata\u2019s fictional letter to her defense attorney, M. Clunet, written while on death row in the Saint-Lazare prison, and a similarly speculative letter of regret by Clunet. Mata cynically and philosophically details her bare-bones autobiography: she was born Margaretha Zelle to a bourgeois family in Holland. Raped by a school principal at 16, she is desperate to escape school and Holland: this she achieves by marrying a Dutch army captain and moving to Indonesia. The officer beats and sexually abuses her for years, until another military wife\u2019s suicide and a performance by Javanese dancers inspire Margaretha to rebel and return to Europe. \nMaking her way to Paris, she introduces herself as Mata Hari to an impresario, Monsieur Guimet, who invites her to premiere her act\u2014a spectacle that combines Java-esque dance moves and strip tease\u2014at his museum. Her performances, a m\u00e9lange of titillation and sophistication, quickly catapult her to fame in the priciest nightclubs; soon she's the toast of Paris. With this go riches accumulated as the mistress of wealthy industrialists and bankers. Living only for pleasure, Mata is oblivious to the approaching hostilities of the Great War, so when she is invited to perform in Berlin, she goes without hesitation only to find that she is being recruited as a spy for the kaiser. What follows is a grim comedy of errors as Mata, after traveling back to Paris through a war zone, offers her services to France as a double agent. Unfortunately, her French handler has a hidden agenda. The absurdity of the charges against Mata Hari comes through clearly, but even as she tells her own story we never get a sense of her humanity, only her various personas and masks.\n\nNOV 22 in all English speaking countries http://amzn.to/2fhVEp0 Pre-order Price Guarantee. | The Spy: A novel In his new novel, Paulo Coelho, best-selling author of The Alchemist and Adultery, brings to life one of history's most enigmatic women: Mata Hari. HER ONLY CRIME WAS TO BE AN INDEPENDENT WOMAN   When Mata Hari arrived in Paris she was penniless.  Within months she w...",
-          1478968714
+          "Love is what makes you smile when you are tired\r\n(quote taken from \"Manuscript found in Accra\"\r\nUSA http://bit.ly/YujM3s UK: http://bit.ly/10Vjbu7 ) Timeline Photos",
+          1368612401
         ],
         [
-          "Publishers Weekly review\n\nCoelho's striking novel about Margaretha Zelle, aka Mata Hari, the Dutch courtesan and \"exotic\" dancer who was executed in 1917 for treason and in all likelihood was innocent, unfolds through letters to her lawyer that she hopes will be given to her daughter if she is killed. \nSmooth, assured writing reveals a woman who refuses to be a victim: \"someone who moved forward with courage, fearlessly paying the price she had to pay.\" She was raped by her headmaster at school and abused by her husband (a Dutch military officer), and she retaliated by exploiting the European love of the mysterious Orient through her \"Eastern\" veil dances. Although the novel is not Coelho's strongest work, the ending is brilliant in its irony, and throughout, he displays an ability to inhabit her voice. \nThrough the letters, he illustrates the difficulties of being an independent woman in that time and place. \nBy the end, readers will believe they've read Zelle's actual letters.\n\n (Nov. 22 in all English speaking countries http://bit.ly/2emXST1 )",
-          1478887583
+          "Las cicatrices hablan m\u00e1s fuerte que la espada que las caus\u00f3\r\n\r\nManuscript found in Accra\r\nUSA http://bit.ly/YujM3s UK: http://bit.ly/10Vjbu7 Timeline Photos",
+          1368126537
         ],
         [
-          "Review: The Spy By Paulo Coelho http://bit.ly/2erDA6V\n(English speaking countries: Nov 22) Review: The Spy By Paulo Coelho 100 years ago Mata Hari was put to death by a firing squad, her only crime: to be a free and independent woman",
-          1478809421
+          "\"Asumimos (falsamente) que c\u00f3mo nos sentimos ahora es c\u00f3mo nos sentiremos en el futuro.\"\r\nManuscript found in Accra\r\nUSA http://bit.ly/YujM3s UK: http://bit.ly/10Vjbu7 Timeline Photos",
+          1368020359
         ],
         [
-          "November publications: \nArabic, French, English (all terriories), German, Italian,, Indonesian, India Lithuanian, Latvian,  Polish, Ucranian, Vietnamese, Timeline Photos",
-          1478363780
+          "Manuscript found in Accra \r\nUSA http://bit.ly/YujM3s\r\nUK: http://bit.ly/10Vjbu7 Timeline Photos",
+          1367853905
         ],
         [
-          "Review: The Spy By Paulo Coelho http://bit.ly/2erDA6V\n(release date in English: Nov 22) Review: The Spy By Paulo Coelho 100 years ago Mata Hari was put to death by a firing squad, her only crime: to be a free and independent woman",
-          1477925764
+          "If it is still in your mind, face the risks and go for it!\r\nUSA http://bit.ly/YujM3s UK: http://bit.ly/10Vjbu7 Timeline Photos",
+          1367339976
         ],
         [
-          "(Check the release date in your country >> http://bit.ly/2bOi276 New book by Paulo Coelho",
-          1477053288
+          "I learned which bridges should be crossed and which should be burned\r\n(Manuscript found in Accra USA http://bit.ly/YujM3s\r\nUK: http://bit.ly/10Vjbu7 ) Timeline Photos",
+          1366796917
         ],
         [
-          "Polska\n( Release date in your country >> http://bit.ly/2bOi276 )",
-          1477007013
+          "(Manuscript found in Accra USA http://bit.ly/YujM3s UK: http://bit.ly/10Vjbu7 ) Timeline Photos",
+          1366739181
         ],
         [
-          "October publication dates\n(for all the publication dates, check here http://bit.ly/2bOi276 ) Timeline Photos",
-          1475239374
+          "USA http://bit.ly/YujM3s UK: http://bit.ly/10Vjbu7 Timeline Photos",
+          1366221536
         ],
         [
-          "Publication dates #TheSpy Timeline Photos",
-          1472815218
+          "Good choices...\r\n( Mansucript found in Accra USA >  USA http://bit.ly/YujM3s ) Timeline Photos",
+          1366216098
         ],
         [
-          "The life of a free person is an offense to those attached to appearances and rules \n(Mata Hari in #TheSpy -my new book, not yet released) A Espi\u00e3/ The Spy",
-          1472304909
+          "Manuscript found in Accra\r\nUSA http://bit.ly/YujM3s UK: http://bit.ly/10Vjbu7 Timeline Photos",
+          1366141908
         ],
         [
-          "Mata Hari, the central character of my new book \"The Spy\",  two years before being arrested by the French and executed by a firing squad\n\n(#TheSpy release dates: http://bit.ly/293oqBB (more to come) Timeline Photos",
-          1469967966
+          "Success does not come from having one\u2019s work recognised by others. It is the fruit of the seed that you lovingly planted.\r\n(Manuscript found in Accra > USA http://bit.ly/YujM3s \r\nUK: http://bit.ly/10Vjbu7 Timeline Photos",
+          1366047569
         ],
         [
-          "Mata Hari (the main character of my new book, #TheSpy ) was already portrayed in four or five movies. Below you can see Greta Garbo, Jeanne Moreau and Sylvia Kristell Timeline Photos",
-          1468447934
+          "Manuscript found in Accra\r\nUSA http://bit.ly/YujM3s  UK: http://bit.ly/10Vjbu7 Timeline Photos",
+          1365531372
         ],
         [
-          "When Mata Hari arrived in Paris she was penniless.\nSoon she was feted as the most elegant woman in the city.\nA dancer who shocked and delighted audiences, as a confidant and courtesan she bewitched the era\u2019s richest and most powerful men.\nBut as paranoia consumed a country at war, Mata Hari\u2019s lifestyle bought her under suspicion. Until in 1917 she was arrested in her hotel room on the Champs Elysees and accused of espionage.\nThe Spy tells the unforgettable story of a woman who dared to break the conventions of her time, and paid the price.\nRELEASE DATE: NOV 22 (UK, AUS, NZ, INDIA, CANADA) Timeline Photos",
-          1466696691
+          "Manuscript found in Accra\r\nUK: http://bit.ly/10Vjbu7 USA http://bit.ly/YujM3s Timeline Photos",
+          1365519240
         ],
         [
-          "USA cover ( Alfred A. Knopf, release date: Nov 22)\nMata Hari's only crime: to be a free and independent woman\n\"The Spy\", based on a true story, will be launched worldwide by the end of the year Timeline Photos",
-          1465388724
+          "As I type this, \"Manuscript found in Accra\" is still # 1 in Barnes&Noble, the biggest bookstore chain in America \r\nhttp://bit.ly/XU5XNF  Thank you ! Timeline Photos",
+          1365168954
         ],
         [
-          "USA/ UK/India/SA/NZ cover - \nrelease date Nov 23 \n(based on a true story) Timeline Photos",
-          1464993554
+          "UK MARCH 28: Manuscript found in Accra \u00a38.44 ( - 35% + free delivery ) > http://bit.ly/10Vjbu7\r\nUSA APRIL 2: Manuscript found in Accra $12,35 ( - 44% ) > http://bit.ly/YujM3s Timeline Photos",
+          1364059569
         ],
         [
-          "Her only crime: to be a free woman\n(based in a true story\nRelease date: 2nd semester worldwide \nBrasil: setembro The Spy/ A Espi\u00e3",
-          1464202069
+          "Danke Germany! \"Manuscript found in Accra\" went straight to #3 Der Spiegel best seller list! Timeline Photos",
+          1358864644
         ],
         [
-          "Monday 23rd November Thought Of The Day From Oval Station (London, UK) Timeline Photos",
-          1448289907
-        ],
-        [
-          "TODAY:paperback edition in Ireland & UK http://amzn.to/1Drxf40 Timeline Photos",
-          1428662506
-        ],
-        [
-          "Christmas Stories Timeline Photos",
-          1419382857
-        ],
-        [
-          "2 books today in the New York Times list, Adultery after 1 week of publication\nRT @Ana_Silva86 COOL & well deserved because the book is amazing. #Adultery\n\nThank you all!\nAdultery\" in your local bookstore or Amazon US: http://amzn.to/1oMVEcJ \nUK http://amzn.to/1oeKMQ0 Barnes & Noble http://bit.ly/1zpCcXT Timeline Photos",
-          1409486428
-        ],
-        [
-          "Adultery\" by Paulo Coelho, in your local bookstore or\nAmazon US: http://amzn.to/1oMVEcJ UK http://amzn.to/1oeKMQ0\nBarnes & Noble http://bit.ly/1zpCcXT Timeline Photos",
-          1409212866
-        ],
-        [
-          "ADULTERY - http://amzn.to/1oMVEcJ Timeline Photos",
-          1408298455
-        ],
-        [
-          "'Adultery' publication in UK  tomorrow!\nUK http://amzn.to/1oeKMQ0 Timeline Photos",
-          1407952995
-        ],
-        [
-          "\"ADULTERY\" UK: http://amzn.to/1oeKMQ0\nRelease date: tomorrow, Thursday, Aug 14 Timeline Photos",
-          1407947480
-        ],
-        [
-          "'Adultery' publication in UK tomorrow! PRE-ORDER  amzn.to/1oeKMQ0 Timeline Photos",
-          1407917130
-        ],
-        [
-          "Amazon UK: http://amzn.to/1oeKMQ0\nRelease date: next Thursday, Aug 14 Timeline Photos",
-          1407742261
-        ],
-        [
-          "To love is to transform slavery into freedom. - \nADULTERY Amazon UK: http://amzn.to/1oeKMQ0\nRelease date: next Thursday, Aug 14 Timeline Photos",
-          1407686483
-        ],
-        [
-          "Adultery in the UK http://amzn.to/1oeKMQ0 Timeline Photos",
-          1407471660
-        ],
-        [
-          "\"Imagine a new story for your life and start living it!\"\n- The Fifth Mountain Timeline Photos",
-          1406988114
-        ],
-        [
-          "AUG 14: Adultery (pre-order) amazon http://amzn.to/1oMVEcJ Timeline Photos",
-          1406886488
-        ],
-        [
-          "\"Adultery\", by Paulo Coelho\nPublication dates http://bit.ly/1uHL1MS Timeline Photos",
-          1406740381
+          "Thank you Holland! ( Manuscript found in Accra #3) Timeline Photos",
+          1352318343
         ],
         [
           "Our great goal in life is to love. The rest is silence.\r\nWe need to love even when it leads us to the land where the lakes are made of tears,\r\nto that secret, mysterious place, the land of tears!\r\n(Manuscript found in Accra publication dates: http://bit.ly/X9cVhM ) Timeline Photos",
           1351789603
         ],
         [
-          "Already in Brasil, Italy, Turkey. Next week: Holland, Rumania, Bulgaria\r\nOther publication dates 2012: http://bit.ly/T7s4KQ Timeline Photos",
-          1349551750
+          "Italia, first country where \"Manuscript found in Accra\" outpaces \"50 shades of Grey\"\r\nE piano piano si scalano le classifiche :) Timeline Photos",
+          1351099262
+        ],
+        [
+          "Give us this day, Lord, our daily miracle Our daily miracle (Manuscript found in Accra)",
+          1350218243
+        ],
+        [
+          "Lord, give us this day our daily miracle (1:46 min video)\nhttp://bit.ly/T4yMBR Our daily miracle (Manuscript found in Accra)",
+          1349861941
+        ],
+        [
+          "\"Manuscript found in Accra\" currently in Portuguese (Brasil), Italian and Turkish\r\nNext week: Dutch, Romanian, Bulgarian Timeline Photos",
+          1349707913
         ],
         [
           "'Manuscript found in Accra publication dates 2012: \r\nhttp://bit.ly/T7s4KQ\r\nIn all other countries, the book will be published early 2013 Timeline Photos",
           1349543322
-        ],
-        [
-          "Publication dates 2012: http://bit.ly/T7s4KQ\r\nIn all other countries, the book will be published early 2013 Timeline Photos",
-          1349520433
         ],
         [
           "Manuscript found in Accra 2012 publication dates Timeline Photos",
@@ -1923,40 +1199,273 @@
         [
           "Stay close to those who are not afraid to be vulnerable, because they have confidence in themselves and know that, at some point in our lives, we all stumble; they do not interpret this as a sign of weakness, but of humanity.\r\nAvoid those who talk a great deal before acting, those who never take a step without being quite sure that it will bring them respect.\r\n(Manuscript found in Accra publication dates > http://bit.ly/Ov0WK6 Timeline Photos",
           1348139125
+        ],
+        [
+          "Sometimes love grows tired of speaking softly. Therefore, let it reveal itself in all its splendour, burning like the sun and destroying whole forests with its winds.\r\n(Manuscript found in Accra) Timeline Photos",
+          1346146632
+        ],
+        [
+          "We need to awake the Love sleeping within us before we awaken love in other people. \r\n(Manuscript found in Accra, to be released world wide in 2013) Timeline Photos",
+          1344809493
+        ],
+        [
+          "Solitude is not the absence of company, but the moment when our soul is free to speak to us and help us decide what to do with our life.\r\n\r\n(Manuscript found in Accra will be released world wide in 2013) Timeline Photos",
+          1344549068
+        ],
+        [
+          "\u2018Difficulty\u2019: the name of an ancient tool that was created purely to help us define who we are.\r\n(Manuscript found in Accra, to be released world wide in 2013) Timeline Photos",
+          1344449078
+        ],
+        [
+          "Give us this day, Lord, our daily miracle\r\nHelp us to know that when our legs are tired, we can keep walking thanks to the strength in our hearts\r\n(Manuscript found in Accra, to be released word wide in 2013) Timeline Photos",
+          1344333436
+        ],
+        [
+          "The problem is not to fall down, but to get stuck in the ground (Manuscript found in Accra) Timeline Photos",
+          1343298477
         ]
       ],
-      "dates_start": 1391343287,
-      "dates_end": 1482788089,
-      "likes_avg": 17149,
-      "likes_stdev": 17704,
-      "comments_avg": 287,
-      "comments_stdev": 230,
-      "shares_avg": 3530,
-      "shares_stdev": 4678
+      "dates_start": 1338809374,
+      "dates_end": 1402867619,
+      "likes_avg": 18464,
+      "likes_stdev": 12878,
+      "comments_avg": 316,
+      "comments_stdev": 204,
+      "shares_avg": 9757,
+      "shares_stdev": 9910
     },
     {
-      "number": 14,
+      "number": 11,
       "important": [
-        "english portugu espanol",
-        "life",
-        "english portugu",
-        "photo",
-        "daili",
-        "timelin",
+        "go",
+        "everyon",
+        "man",
+        "would",
+        "sec read",
+        "sec",
+        "soul",
+        "read",
+        "place",
+        "onc"
+      ],
+      "common": [
+        "30 sec",
+        "blog",
+        "coelho",
+        "coelho blog",
+        "paulo",
+        "paulo coelho",
+        "paulo coelho blog",
+        "reading",
+        "sec",
+        "sec reading"
+      ],
+      "messages": [
+        [
+          "30 SEC reading: A saint in the wrong place >>  bit.ly/1SLFdIJ 30 SEC reading: A saint in the wrong place Once upon a time, there was a man who had been the soul of kindness all his life. When he died, everyone assumed that he would go straight to Heaven, for the only possible place for a good man like him was Paradise. The man wasn't particularly bothered about going to Heaven, but that was\u2026",
+          1486869511
+        ],
+        [
+          "30 SEC READ: He needs your hand (ENG, ESPA) http://bit.ly/2jLTo9u 30 SEC READ: He needs your hand (ENG, ESPA)",
+          1485808561
+        ],
+        [
+          "10 SEC READING: The intelligent servant bit.ly/1CdTZz2 10 SEC READING: The intelligent servant EM PORTUGUES Y ESPANOL AQUI > O empregado inteligente / el empleado inteligente When he was staying at an air base in Africa, author Saint-Exup\u00e9ry passed the hat among his friends because a Moroccan servant wanted to return to his home town. He managed to collect a thousand francs. One of the pilots...",
+          1484748959
+        ],
+        [
+          "10 SEC READ: Another wrong step http://bit.ly/2jaS9P0 10 SEC READ: Another wrong step As if nothing had changed overnight, the warrior takes another wrong step and dives once again into the abyss. Ghosts provoke, loneliness torments him. Now that he is more aware of his acts, he did not think this would happen. But it did. Shrouded by darkness, he talks to his master. \"Master, I fell...",
+          1483989493
+        ],
+        [
+          "30 SEC READING: the well of madness http://bit.ly/16gTevh 30 SEC READING: the well of madness A powerful wizard, who wanted to destroy an entire kingdom, placed a magic potion in the well from which all the inhabitants drank. Whoever drank that water would go mad. The following morning, the whole population drank from the well and they all went mad, apart from the king and his family, who ha...",
+          1483722811
+        ],
+        [
+          "30 sec read: Friendship is like a river http://bit.ly/2eft1ED",
+          1482851613
+        ],
+        [
+          "My Czech friends, thank you for helping me to find this man.\n I tell the story here (20 sec read)  http://bit.ly/1R7FJ90 Timeline Photos",
+          1458589599
+        ],
+        [
+          "( don't say we can't do anything, because we always can. Check the story below) 1 min reading: the virtuous Mr. Bai Fang Li \u2014 Paulo Coelho's Blog Using the money he earned from peddling trishaw, Mr. Bai Fang Li has contributed to finance more than 300 poor students in their tuition fees and living expenses, helping them to complete their studies. His daughter",
+          1351598835
+        ],
+        [
+          "1 MIN reading, a lifetime to to practise\n(tradu\u00e7\u00e3o/ barra superior do blog ) 10 Lessons from Einstein \u2014 Paulo Coelho's Blog 1. Follow Your Curiosity \u201cI have no special talent. I am only passionately curious.\u201d 2. Perseverance is Priceless \u201cIt\u2019s not that I\u2019m so smart; it\u2019s just that I stay with problems longer.\u201d 3. Focus on the Present \u201cAny man who",
+          1350990347
+        ],
+        [
+          "y Viva la Virgen del Pilar, tambien 12/10! 12/10 Viva N. Sra. Aparecida! \u2014 Paulo Coelho's Blog Our Lady of Aparecida (Portuguese: Nossa Senhora Aparecida or Nossa Senhora da Concei\u00e7\u00e3o Aparecida) is a celebrated 18th-century clay statue of the Blessed Virgin Mary, in the traditional form of the Immaculate Conception. The image is widely venerated by Brazilian",
+          1350068754
+        ],
+        [
+          "Cynicism is a personal defense mechanism whereby people prevent themselves from opening up to love and friendship for fear of being hurt. 5 tips to defeat cynicism \u2014 Paulo Coelho's Blog The Oxford English Dictionary defines cynicism in a very enlightening way: \u201c\u2026a disposition to disbelieve in the sincerity or goodness of human motives and actions\u2026\u201d The main thing to notice about the",
+          1349947935
+        ],
+        [
+          "1 Minute Sunday reading: According to Plato, we were not as we are now (an old theory on soulmates) Men and women were not as they are now \u2014 Paulo Coelho's Blog \u201cAccording to him [Plato], at the beginning of creation, men and women were not as they are now; there was just one being, who was rather short, with a body and a neck, but his head had two faces, looking",
+          1349630725
+        ],
+        [
+          "Love is our treasure and minutes spent to share this love are the jewels that illuminate our path 1 min reading: the two jewels \u2014 Paulo Coelho's Blog A deeply religious Rabbi lived happily with his family, an admirable woman and two dear sons. One time, he had to be away from home for several days due to work. When he was away, a serious car accident killed",
+          1349365925
+        ],
+        [
+          "Sunday 1 MIN reading The importance of the cat in meditation \u2014 Paulo Coelho's Blog",
+          1347182147
+        ],
+        [
+          "Will we never be allowed to discover the face of love? The myth of Psyche \u2014 Paulo Coelho's Blog Once upon a time there was a beautiful princess, admired by everyone, but whom no one dared to propose to. Desperate, the king consulted the god Apollo, who said that Psyche should be left alone, in a mourning dress, at",
+          1345648137
+        ],
+        [
+          "Today's reading: \"leave the familiar for a while...\" All the Hemispheres (Hafez) \u2014 Paulo Coelho's Blog Leave the familiar for a while. Let your senses and bodies stretch out Like a welcomed season Onto the meadows and shores and hills. Open up to the Roof. Make a new water-mark on your excitement And love. Like a",
+          1345114352
+        ],
+        [
+          "50 years after her death (August 5, 1962), she is still alive. Marilyn Monroe is alive \u2014 Paulo Coelho's Blog A sex symbol becomes a thing. I just hate to be a thing. Being a sex symbol is a heavy load to carry, especially when one is tired, hurt and bewildered. An actress is not a machine, but they treat",
+          1344196407
+        ],
+        [
+          "Today's 1 MIN reading The art of trying \u2014 Paulo Coelho's Blog Pablo Picasso once said, \u201cGod is really only another artist. He invented the giraffe, the elephant and the cat. He has no real style. He just keeps on trying other things.\u201d When we start working on our dreams, we always",
+          1343903658
+        ],
+        [
+          "1 MIN reading The mountain will tell me when I am old \u2014 Paulo Coelho's Blog I have chosen a mountain to define my limits. In 1989 (I was just over 40yrs and I had already published The Alchemist and The Pilgrimage in Brasil), I was on my second sacred pilgrimage in the Pyrenees. And I",
+          1343759605
+        ],
+        [
+          "1 min reading 1 MIN READING: the cry of the desert \u2014 Paulo Coelho's Blog As soon as he arrived in Marrakesh, Morocco, a missionary decided he would stroll through the desert at the city\u2019s boundary every morning. On his first stroll he noticed a man lying on the sand, caressing the ground with his",
+          1337941798
+        ],
+        [
+          "30 SEC READING: some of my inner struggles Inner struggles \u2014 Paulo Coelho's Blog I am always struggling with myself, but I am very optimistic in this sense. People are realizing more and more that happiness is freedom, and freedom is to be able to \u201ctravel light\u201d, not possessing a lot of things, because",
+          1337726573
+        ],
+        [
+          "15 SEC reading Dreams and nightmares \u2014 Paulo Coelho's Blog No one will realistically think that you can make a living out of literature in Brazil. I faced many difficulties. When I was young, my parents in a desperate act of love, as they cared for me, sent me to",
+          1336413994
+        ],
+        [
+          "If you die tomorrow: will you die in peace? Here are the 5 classical regrets.. The five regrets \u2014 Paulo Coelho's Blog",
+          1336156307
+        ],
+        [
+          "The patron of the writers / O patrono dos escritores April 23, Viva Saint George! \u2014 Paulo Coelho's Blog It is likely that Saint George was born to a Christian noble family in Lod, Syria Palaestina during the late third century between about 275 AD and 285 AD, and he died in Nicomedia. His father, Gerontius, was a Roman",
+          1335175701
+        ],
+        [
+          "An old Buddhist story 20 SEC READING: Praying for everyone \u2014 Paulo Coelho's Blog A farm labourer with a sick wife, asked a Buddhist monk to say a series of prayers. The priest began to pray, asking God to cure all those who were ill. \u2018Just a moment,\u2019 said the farm labourer. \u2018I asked",
+          1334692171
+        ],
+        [
+          "Ora\u00e7\u00e3o coletiva / Praying together 8.000.000 on Facebook: prayer/ora\u00e7\u00e3o/orac\u00edon \u2014 Paulo Coelho's Blog",
+          1333367772
+        ],
+        [
+          "2 MIN reading (trad: barra superior blog) The Gypsies and the Mother Goddess \u2014 Paulo Coelho's Blog Once a year, gypsies from all over the world head to Saintes-Maries-de-la-Mer in the South of France, to pay homage to Saint Sarah. According to tradition, Sarah was a gypsy who lived in a small seaside town when Jesus\u2019 aunt,",
+          1333291375
+        ],
+        [
+          "The Alchemist (read by Jeremy Irons) The Alchemist (read by Jeremy Irons) \u2014 Paulo Coelho's Blog The fist chapter of The Alchemist ( 10 minutes audio)",
+          1332669607
+        ],
+        [
+          "10 SEC  English & Portugues  (otras lenguas/other languages > header translation / trad barra superior) 10 SEC READ: Blessing the tree/ Aben\u00e7oando a \u00e1rvore (Jewish tradition) \u2014 Paulo Coelho's Blog A man was travelling through the desert, hungry, thirsty, and tired, when he came upon a tree bearing luscious fruit and affording plenty of shade, underneath which ran a spring of water. He ate of the fruit, drank of the",
+          1332092181
+        ],
+        [
+          "30 SEC READING (translation: blog header / tradu\u00e7\u00e3o: barra superior blog) 10 Lessons from Einstein \u2014 Paulo Coelho's Blog 1. Follow Your Curiosity \u201cI have no special talent. I am only passionately curious.\u201d 2. Perseverance is Priceless \u201cIt\u2019s not that I\u2019m so smart; it\u2019s just that I stay with problems longer.\u201d 3. Focus on the Present \u201cAny man who",
+          1331923993
+        ],
+        [
+          "30 SEC READING (transl/trad = blog header / barra superior blog) The enemy within \u2014 Paulo Coelho's Blog A man was in a bar with his group, when an old friend entered. He had lived his life trying to go down the right path, but to no avail. \u201cI should give him some money\u201d, he thought to himself.",
+          1331466163
+        ],
+        [
+          "30 SEC READING  (trad/transl > bandeiras/flags sidebar) I forgot my prayer book \u2014 Paulo Coelho's Blog",
+          1330619312
+        ],
+        [
+          "30 SEC READING quotes by one of my icons (trad/bandeiras barra lateral) Coco Chanel and elegance \u2014 Paulo Coelho's Blog Elegance does not consist in putting on a new dress. Elegance is",
+          1329958015
+        ],
+        [
+          "10 SEC READING in English, Portugues, Espanol, Fran\u00e7ais 10 SEC READ: Insults (EN, PT, ES, FR) \u2014 Paulo Coelho's Blog \u201cOver the course of one year, give a coin to each person who offends or upsets you,\u201d instructed the abbot of a young man who wanted people to follow a spiritual path. For the",
+          1328991430
+        ],
+        [
+          "Post in English/Espanol/Portugues 10 SEC READING: Purifying the world \u2014 Paulo Coelho's Blog How do we purify the world?- asked a disciple. Ibn al-Husayn replied: \u2013 There was once a sheik in Damascus called Abu Musa al-Qumasi. Everyone",
+          1328878124
+        ],
+        [
+          "20 SEC READING in English y Espanol  The man and his shadow (ENGLISH, ESPANOL) \u2014 Paulo Coelho's Blog  Many years ago, there lived a man who was capable of loving and forgiving everyone he came across. Because of this, God sent an angel to",
+          1328788656
+        ],
+        [
+          "20 SEC READING (trad/transl > bandeiras barra lateral / flags sidebar ) 20 SEC READING: the boy and the devil \u2014 Paulo Coelho's Blog The boy was walking to buy bread when the mayor of the city crossed the street. \u2018The reason he is so powerful, is because, he\u2019s made a pact with the devil,\u2019 a very devout woman in the street told the",
+          1328702376
+        ],
+        [
+          "(tradu\u00e7\u00e3o/translations > bandeiras na barra lateral / flags on the sidebar) 1 MIN READING: The fisherman and the businessman \u2014 Paulo Coelho's Blog There was once a businessman who was sitting by the beach in a small Brazilian village. As he sat, he saw a Brazilian fisherman rowing a small boat towards the shore having caught quite few big fish. The businessman was",
+          1328357946
+        ],
+        [
+          "1 MIN READING (tradu\u00e7\u00e3o / translations > bandeiras barra lateral / flags on the sidebar) 1 MIN reading: Krishna will hear your prayer \u2014 Paulo Coelho's Blog A widow from a poor village in Bengal did not have enough money to pay for her son\u2019s bus fare, and so when the boy started going to school, he would have to walk through the forest all on his",
+          1328090394
+        ],
+        [
+          "(tradu\u00e7\u00e3o/translations: bandeiras barra lateral / flags on the sidebar) 1 MIN reading: I have learned \u2014 Paulo Coelho's Blog",
+          1327249675
+        ],
+        [
+          "30 SEC READING ( trad: bandeiras/banderas barra lateral do blog / Transl: flags on the blog sidebar) 30 SEC READING: why do we shout in anger? \u2014 Paulo Coelho's Blog A master asked his disciples: \u2018Why do we shout in anger? Why do people shout at each other when they are upset?\u2019 the disciples thought for a while, and one of them said \u2018Because we lose our calm, we shout",
+          1326191831
+        ],
+        [
+          "40 SEC READING ( trad: bandeiras/banderas barra lateral do blog / Transl: flags on the blog sidebar) On roses \u2014 Paulo Coelho's Blog (by Ralph Waldo Emerson) Man is timid and apologetic; he is no longer upright He dares not say \u2018I think,\u2019 \u2018I am,\u2019 but quotes some saint or sage. He is ashamed before the blade of grass or the",
+          1325967668
+        ],
+        [
+          "40 SEC READING ( Trad: bandeiras barra lateral / Transl: flags on the sidebar) Misteries of Aleph \u2014 Paulo Coelho's Blog The Hebrew alphabet is not simply a collection of abstract linguistic elements, like the English alphabet is. All Hebrew letters have names and identities, and in post-Biblical times were even rendered numerical",
+          1325625477
+        ]
+      ],
+      "dates_start": 1306265713,
+      "dates_end": 1414121538,
+      "likes_avg": 5710,
+      "likes_stdev": 3401,
+      "comments_avg": 192,
+      "comments_stdev": 122,
+      "shares_avg": 1212,
+      "shares_stdev": 1070
+    },
+    {
+      "number": 12,
+      "important": [
         "portugu espanol",
+        "portugu",
+        "daili",
+        "accra",
+        "english portugu espanol",
         "espanol",
+        "arriv",
+        "life",
         "english",
-        "portugu"
+        "english portugu"
       ],
       "common": [
         "blog",
         "coelho",
-        "coelho blog",
         "em",
         "english",
         "espanol",
         "paulo",
         "paulo coelho",
+        "paulo coelho blog",
         "portugues",
         "portugues espanol"
       ],
@@ -2114,12 +1623,24 @@
           1328612375
         ],
         [
+          "Em portugues Timeline Photos",
+          1328181849
+        ],
+        [
+          "1 min reading ( + link para post en Espanol) Finding the signs \u2014 Paulo Coelho's Blog CON LINK PARA POST EN ESPANOL",
+          1328181691
+        ],
+        [
           "40 SEC READING (in English, Fran\u00e7ais, Portugues, Espanol) The fire of friendship \u2014 Paulo Coelho's Blog POST IN ENGLISH, FRAN\u00c7AIS, PORTUGUES, ESPANOL",
           1327856000
         ],
         [
           "Post in English, Portugues, Espanol 1 min reading: Killing our dreams \u2014 Paulo Coelho's Blog The first symptom of the process of our killing our dreams is the lack of time. The busiest people I have known in my life always have time enough to do everything. Those who do nothing are always tired and",
           1327483194
+        ],
+        [
+          "An interesting read (found in El Pais) 30 sec reading:  The black man (a true story) \u2014 Paulo Coelho's Blog CLICAR EN EL LINK EN EL INICIO DEL POST PARA EL TEXTO EN ESPANOL",
+          1326978034
         ],
         [
           "5 min video (subtitulos em Espanol e Portugues) Love doesn't limit itself to relationships. It is a celebration of life. CoelhoOffice 03 - On writing (III) : Inspiration ONLINE EVERY MONDAY/SEGUNDA/LUNES SUBTITULOS: Clicar CC na barra inferior da tela) Podcast #3 - Paulo Coelho talking about inspiration to write a book. Video...",
@@ -2138,583 +1659,261 @@
           1325501554
         ]
       ],
-      "dates_start": 1325251660,
-      "dates_end": 1347047569,
-      "likes_avg": 4823,
-      "likes_stdev": 1929,
-      "comments_avg": 237,
-      "comments_stdev": 147,
-      "shares_avg": 835,
-      "shares_stdev": 490
+      "dates_start": 1324873417,
+      "dates_end": 1346357418,
+      "likes_avg": 4843,
+      "likes_stdev": 1992,
+      "comments_avg": 240,
+      "comments_stdev": 152,
+      "shares_avg": 1022,
+      "shares_stdev": 1349
     },
     {
-      "number": 15,
+      "number": 13,
       "important": [
-        "soul",
-        "place",
-        "read",
-        "sec",
-        "go",
-        "onc",
-        "everyon",
-        "sec read",
-        "man",
-        "would"
+        "said",
+        "coelho",
+        "mata",
+        "woman",
+        "accra",
+        "paulo coelho",
+        "hari",
+        "god",
+        "make",
+        "thespi"
       ],
       "common": [
-        "blog",
         "coelho",
-        "coelho blog",
-        "min",
+        "hari",
+        "http",
+        "mata",
+        "mata hari",
         "paulo",
         "paulo coelho",
-        "paulo coelho blog",
-        "reading",
-        "sec",
-        "sec reading"
-      ],
-      "messages": [
-        [
-          "30 SEC reading: A saint in the wrong place >>  bit.ly/1SLFdIJ 30 SEC reading: A saint in the wrong place Once upon a time, there was a man who had been the soul of kindness all his life. When he died, everyone assumed that he would go straight to Heaven, for the only possible place for a good man like him was Paradise. The man wasn't particularly bothered about going to Heaven, but that was\u2026",
-          1486869511
-        ],
-        [
-          "2 MIN READ: Tihe dark side http://bit.ly/2l8959V The dark side You may see someone who smiles all the time and does silly things but you have no idea what he is going through or what burden he carries within. People are so judgmental and you have to deal with them every single day;\u2026",
-          1486218149
-        ],
-        [
-          "30 SEC READ: He needs your hand (ENG, ESPA) http://bit.ly/2jLTo9u 30 SEC READ: He needs your hand (ENG, ESPA)",
-          1485808561
-        ],
-        [
-          "10 SEC READING: The intelligent servant bit.ly/1CdTZz2 10 SEC READING: The intelligent servant EM PORTUGUES Y ESPANOL AQUI > O empregado inteligente / el empleado inteligente When he was staying at an air base in Africa, author Saint-Exup\u00e9ry passed the hat among his friends because a Moroccan servant wanted to return to his home town. He managed to collect a thousand francs. One of the pilots...",
-          1484748959
-        ],
-        [
-          "2 MIN READ: When you are going through difficult times \u2014 bit.ly/UaxA36",
-          1484268520
-        ],
-        [
-          "1 MIN READ: the law and the fruits http://bit.ly/2igvAtV\n(translation: button at the top right of the page) 1 min reading: the law and the fruits Illustration by Ken CraneIn the desert, fruit was scarce. God called one of his prophets and said: - Each person may only eat one fruit a day. The custom was obeyed for many generations, and the ecology of the place was preserved. Since the remaining fruit supplied seeds, other trees appeared. Soon,...",
-          1484148599
-        ],
-        [
-          "10 SEC READ: Another wrong step http://bit.ly/2jaS9P0 10 SEC READ: Another wrong step As if nothing had changed overnight, the warrior takes another wrong step and dives once again into the abyss. Ghosts provoke, loneliness torments him. Now that he is more aware of his acts, he did not think this would happen. But it did. Shrouded by darkness, he talks to his master. \"Master, I fell...",
-          1483989493
-        ],
-        [
-          "30 SEC READING: the well of madness http://bit.ly/16gTevh 30 SEC READING: the well of madness A powerful wizard, who wanted to destroy an entire kingdom, placed a magic potion in the well from which all the inhabitants drank. Whoever drank that water would go mad. The following morning, the whole population drank from the well and they all went mad, apart from the king and his family, who ha...",
-          1483722811
-        ],
-        [
-          "30 sec read: Friendship is like a river http://bit.ly/2eft1ED",
-          1482851613
-        ],
-        [
-          "My Czech friends, thank you for helping me to find this man.\n I tell the story here (20 sec read)  http://bit.ly/1R7FJ90 Timeline Photos",
-          1458589599
-        ],
-        [
-          "( don't say we can't do anything, because we always can. Check the story below) 1 min reading: the virtuous Mr. Bai Fang Li \u2014 Paulo Coelho's Blog Using the money he earned from peddling trishaw, Mr. Bai Fang Li has contributed to finance more than 300 poor students in their tuition fees and living expenses, helping them to complete their studies. His daughter",
-          1351598835
-        ],
-        [
-          "1 MIN reading, a lifetime to to practise\n(tradu\u00e7\u00e3o/ barra superior do blog ) 10 Lessons from Einstein \u2014 Paulo Coelho's Blog 1. Follow Your Curiosity \u201cI have no special talent. I am only passionately curious.\u201d 2. Perseverance is Priceless \u201cIt\u2019s not that I\u2019m so smart; it\u2019s just that I stay with problems longer.\u201d 3. Focus on the Present \u201cAny man who",
-          1350990347
-        ],
-        [
-          "y Viva la Virgen del Pilar, tambien 12/10! 12/10 Viva N. Sra. Aparecida! \u2014 Paulo Coelho's Blog Our Lady of Aparecida (Portuguese: Nossa Senhora Aparecida or Nossa Senhora da Concei\u00e7\u00e3o Aparecida) is a celebrated 18th-century clay statue of the Blessed Virgin Mary, in the traditional form of the Immaculate Conception. The image is widely venerated by Brazilian",
-          1350068754
-        ],
-        [
-          "Cynicism is a personal defense mechanism whereby people prevent themselves from opening up to love and friendship for fear of being hurt. 5 tips to defeat cynicism \u2014 Paulo Coelho's Blog The Oxford English Dictionary defines cynicism in a very enlightening way: \u201c\u2026a disposition to disbelieve in the sincerity or goodness of human motives and actions\u2026\u201d The main thing to notice about the",
-          1349947935
-        ],
-        [
-          "1 Minute Sunday reading: According to Plato, we were not as we are now (an old theory on soulmates) Men and women were not as they are now \u2014 Paulo Coelho's Blog \u201cAccording to him [Plato], at the beginning of creation, men and women were not as they are now; there was just one being, who was rather short, with a body and a neck, but his head had two faces, looking",
-          1349630725
-        ],
-        [
-          "Love is our treasure and minutes spent to share this love are the jewels that illuminate our path 1 min reading: the two jewels \u2014 Paulo Coelho's Blog A deeply religious Rabbi lived happily with his family, an admirable woman and two dear sons. One time, he had to be away from home for several days due to work. When he was away, a serious car accident killed",
-          1349365925
-        ],
-        [
-          "Sunday 1 MIN reading The importance of the cat in meditation \u2014 Paulo Coelho's Blog",
-          1347182147
-        ],
-        [
-          "Will we never be allowed to discover the face of love? The myth of Psyche \u2014 Paulo Coelho's Blog Once upon a time there was a beautiful princess, admired by everyone, but whom no one dared to propose to. Desperate, the king consulted the god Apollo, who said that Psyche should be left alone, in a mourning dress, at",
-          1345648137
-        ],
-        [
-          "Today's reading: \"leave the familiar for a while...\" All the Hemispheres (Hafez) \u2014 Paulo Coelho's Blog Leave the familiar for a while. Let your senses and bodies stretch out Like a welcomed season Onto the meadows and shores and hills. Open up to the Roof. Make a new water-mark on your excitement And love. Like a",
-          1345114352
-        ],
-        [
-          "Today's reading: \"don't think that you are smarter than us\"... The Law of Jante \u2014 Paulo Coelho's Blog It is hard to find anyone in any of the Scandinavian countries who does not know this law. Although the law exists since the beginning of civilization, it was only officially declared in 1933 by writer Aksel Sandemose in the",
-          1344600295
-        ],
-        [
-          "50 years after her death (August 5, 1962), she is still alive. Marilyn Monroe is alive \u2014 Paulo Coelho's Blog A sex symbol becomes a thing. I just hate to be a thing. Being a sex symbol is a heavy load to carry, especially when one is tired, hurt and bewildered. An actress is not a machine, but they treat",
-          1344196407
-        ],
-        [
-          "Today's 1 MIN reading The art of trying \u2014 Paulo Coelho's Blog Pablo Picasso once said, \u201cGod is really only another artist. He invented the giraffe, the elephant and the cat. He has no real style. He just keeps on trying other things.\u201d When we start working on our dreams, we always",
-          1343903658
-        ],
-        [
-          "1 MIN reading The mountain will tell me when I am old \u2014 Paulo Coelho's Blog I have chosen a mountain to define my limits. In 1989 (I was just over 40yrs and I had already published The Alchemist and The Pilgrimage in Brasil), I was on my second sacred pilgrimage in the Pyrenees. And I",
-          1343759605
-        ],
-        [
-          "1 min reading 1 MIN READING: the cry of the desert \u2014 Paulo Coelho's Blog As soon as he arrived in Marrakesh, Morocco, a missionary decided he would stroll through the desert at the city\u2019s boundary every morning. On his first stroll he noticed a man lying on the sand, caressing the ground with his",
-          1337941798
-        ],
-        [
-          "30 SEC READING: some of my inner struggles Inner struggles \u2014 Paulo Coelho's Blog I am always struggling with myself, but I am very optimistic in this sense. People are realizing more and more that happiness is freedom, and freedom is to be able to \u201ctravel light\u201d, not possessing a lot of things, because",
-          1337726573
-        ],
-        [
-          "15 SEC reading Dreams and nightmares \u2014 Paulo Coelho's Blog No one will realistically think that you can make a living out of literature in Brazil. I faced many difficulties. When I was young, my parents in a desperate act of love, as they cared for me, sent me to",
-          1336413994
-        ],
-        [
-          "If you die tomorrow: will you die in peace? Here are the 5 classical regrets.. The five regrets \u2014 Paulo Coelho's Blog",
-          1336156307
-        ],
-        [
-          "The patron of the writers / O patrono dos escritores April 23, Viva Saint George! \u2014 Paulo Coelho's Blog It is likely that Saint George was born to a Christian noble family in Lod, Syria Palaestina during the late third century between about 275 AD and 285 AD, and he died in Nicomedia. His father, Gerontius, was a Roman",
-          1335175701
-        ],
-        [
-          "1 MIN reading (published today) Paulo Coelho: I honestly don't know why The Alchemist did so well Author Paulo Coelho talks to Metro about the success of his novel The Alchemist, being the second most influential person on Twitter behind Justin",
-          1334834668
-        ],
-        [
-          "An old Buddhist story 20 SEC READING: Praying for everyone \u2014 Paulo Coelho's Blog A farm labourer with a sick wife, asked a Buddhist monk to say a series of prayers. The priest began to pray, asking God to cure all those who were ill. \u2018Just a moment,\u2019 said the farm labourer. \u2018I asked",
-          1334692171
-        ],
-        [
-          "Ora\u00e7\u00e3o coletiva / Praying together 8.000.000 on Facebook: prayer/ora\u00e7\u00e3o/orac\u00edon \u2014 Paulo Coelho's Blog",
-          1333367772
-        ],
-        [
-          "2 MIN reading (trad: barra superior blog) The Gypsies and the Mother Goddess \u2014 Paulo Coelho's Blog Once a year, gypsies from all over the world head to Saintes-Maries-de-la-Mer in the South of France, to pay homage to Saint Sarah. According to tradition, Sarah was a gypsy who lived in a small seaside town when Jesus\u2019 aunt,",
-          1333291375
-        ],
-        [
-          "The Alchemist (read by Jeremy Irons) The Alchemist (read by Jeremy Irons) \u2014 Paulo Coelho's Blog The fist chapter of The Alchemist ( 10 minutes audio)",
-          1332669607
-        ],
-        [
-          "10 SEC  English & Portugues  (otras lenguas/other languages > header translation / trad barra superior) 10 SEC READ: Blessing the tree/ Aben\u00e7oando a \u00e1rvore (Jewish tradition) \u2014 Paulo Coelho's Blog A man was travelling through the desert, hungry, thirsty, and tired, when he came upon a tree bearing luscious fruit and affording plenty of shade, underneath which ran a spring of water. He ate of the fruit, drank of the",
-          1332092181
-        ],
-        [
-          "30 SEC READING (translation: blog header / tradu\u00e7\u00e3o: barra superior blog) 10 Lessons from Einstein \u2014 Paulo Coelho's Blog 1. Follow Your Curiosity \u201cI have no special talent. I am only passionately curious.\u201d 2. Perseverance is Priceless \u201cIt\u2019s not that I\u2019m so smart; it\u2019s just that I stay with problems longer.\u201d 3. Focus on the Present \u201cAny man who",
-          1331923993
-        ],
-        [
-          "2 MIN READING Huffington Post today A King Reclaiming His Kingdom: <i>The Aleph</i> by Paulo Coelho Reading The Aleph is a bit like diving into Paulo Coelho's eyes and getting to know him better.",
-          1331854352
-        ],
-        [
-          "30 SEC READING (transl/trad = blog header / barra superior blog) The enemy within \u2014 Paulo Coelho's Blog A man was in a bar with his group, when an old friend entered. He had lived his life trying to go down the right path, but to no avail. \u201cI should give him some money\u201d, he thought to himself.",
-          1331466163
-        ],
-        [
-          "30 SEC READING  (trad/transl > bandeiras/flags sidebar) I forgot my prayer book \u2014 Paulo Coelho's Blog",
-          1330619312
-        ],
-        [
-          "30 SEC READING quotes by one of my icons (trad/bandeiras barra lateral) Coco Chanel and elegance \u2014 Paulo Coelho's Blog Elegance does not consist in putting on a new dress. Elegance is",
-          1329958015
-        ],
-        [
-          "1 MIN READING  \u201cMy heart is afraid to suffer\u201d \u2014 Paulo Coelho's Blog \u201cWhy do we have to listen to our hearts?\u201d the boy asked, when they had made camp that day. \u201cBecause, wherever your heart is, that is where you\u2019ll find your treasure.\u201d \u201cBut my heart is agitated,\u201d the boy said. \u201cIt",
-          1329242481
-        ],
-        [
-          "10 SEC READING in English, Portugues, Espanol, Fran\u00e7ais 10 SEC READ: Insults (EN, PT, ES, FR) \u2014 Paulo Coelho's Blog \u201cOver the course of one year, give a coin to each person who offends or upsets you,\u201d instructed the abbot of a young man who wanted people to follow a spiritual path. For the",
-          1328991430
-        ],
-        [
-          "Post in English/Espanol/Portugues 10 SEC READING: Purifying the world \u2014 Paulo Coelho's Blog How do we purify the world?- asked a disciple. Ibn al-Husayn replied: \u2013 There was once a sheik in Damascus called Abu Musa al-Qumasi. Everyone",
-          1328878124
-        ],
-        [
-          "20 SEC READING in English y Espanol  The man and his shadow (ENGLISH, ESPANOL) \u2014 Paulo Coelho's Blog  Many years ago, there lived a man who was capable of loving and forgiving everyone he came across. Because of this, God sent an angel to",
-          1328788656
-        ],
-        [
-          "20 SEC READING (trad/transl > bandeiras barra lateral / flags sidebar ) 20 SEC READING: the boy and the devil \u2014 Paulo Coelho's Blog The boy was walking to buy bread when the mayor of the city crossed the street. \u2018The reason he is so powerful, is because, he\u2019s made a pact with the devil,\u2019 a very devout woman in the street told the",
-          1328702376
-        ],
-        [
-          "(tradu\u00e7\u00e3o/translations > bandeiras na barra lateral / flags on the sidebar) 1 MIN READING: The fisherman and the businessman \u2014 Paulo Coelho's Blog There was once a businessman who was sitting by the beach in a small Brazilian village. As he sat, he saw a Brazilian fisherman rowing a small boat towards the shore having caught quite few big fish. The businessman was",
-          1328357946
-        ],
-        [
-          "40 SEC READING: (The Law of Jante focuses on the feeling of jealousy and envy) The Law of Jante \u2014 Paulo Coelho's Blog It is hard to find anyone in any of the Scandinavian countries who does not know this law. Although the law exists since the beginning of civilization, it was only officially declared in 1933 by writer Aksel Sandemose in the",
-          1328300918
-        ],
-        [
-          "1 MIN reading: Guardian (UK) today Paulo Coelho calls on readers to pirate books Multimillion-selling author links with Pirate Bay, saying",
-          1328118776
-        ],
-        [
-          "1 MIN READING (tradu\u00e7\u00e3o / translations > bandeiras barra lateral / flags on the sidebar) 1 MIN reading: Krishna will hear your prayer \u2014 Paulo Coelho's Blog A widow from a poor village in Bengal did not have enough money to pay for her son\u2019s bus fare, and so when the boy started going to school, he would have to walk through the forest all on his",
-          1328090394
-        ],
-        [
-          "(tradu\u00e7\u00e3o/translations: bandeiras barra lateral / flags on the sidebar) 1 MIN reading: I have learned \u2014 Paulo Coelho's Blog",
-          1327249675
-        ],
-        [
-          "30 SEC READING ( trad: bandeiras/banderas barra lateral do blog / Transl: flags on the blog sidebar) 30 SEC READING: why do we shout in anger? \u2014 Paulo Coelho's Blog A master asked his disciples: \u2018Why do we shout in anger? Why do people shout at each other when they are upset?\u2019 the disciples thought for a while, and one of them said \u2018Because we lose our calm, we shout",
-          1326191831
-        ],
-        [
-          "40 SEC READING ( trad: bandeiras/banderas barra lateral do blog / Transl: flags on the blog sidebar) On roses \u2014 Paulo Coelho's Blog (by Ralph Waldo Emerson) Man is timid and apologetic; he is no longer upright He dares not say \u2018I think,\u2019 \u2018I am,\u2019 but quotes some saint or sage. He is ashamed before the blade of grass or the",
-          1325967668
-        ],
-        [
-          "40 SEC READING ( Trad: bandeiras barra lateral / Transl: flags on the sidebar) Misteries of Aleph \u2014 Paulo Coelho's Blog The Hebrew alphabet is not simply a collection of abstract linguistic elements, like the English alphabet is. All Hebrew letters have names and identities, and in post-Biblical times were even rendered numerical",
-          1325625477
-        ]
-      ],
-      "dates_start": 1306127473,
-      "dates_end": 1422330705,
-      "likes_avg": 6432,
-      "likes_stdev": 5756,
-      "comments_avg": 204,
-      "comments_stdev": 134,
-      "shares_avg": 1284,
-      "shares_stdev": 1253
-    },
-    {
-      "number": 16,
-      "important": [
-        "photo",
-        "accra",
-        "timelin"
-      ],
-      "common": [
-        "bit",
-        "bit ly",
-        "http",
-        "http bit",
-        "http bit ly",
-        "ly",
-        "photo",
         "photos",
-        "timeline",
-        "timeline photos"
+        "spy",
+        "timeline"
       ],
       "messages": [
         [
-          "Scott's South Pole expedition, 1911 Timeline Photos",
-          1485711157
+          "\"Beware of making a woman cry\" \nMata Hari said.\n\"God is counting her tears.\"\n\n#TheSpy",
+          1486823497
         ],
         [
-          "Autumn leaves Timeline Photos",
-          1481999907
+          "5.662 Paulo Coelho Quotes  (Goodreads) http://bit.ly/2lbOVyM",
+          1486395212
         ],
         [
-          "Danke for the photo, Pierre! Timeline Photos",
-          1481458381
+          "How it sparkles! Inspired by my new novel #TheSpy , in THALIA Bookstores (Germany), Mata Hari headpieces designed  by DSE, using Swarovski Crystals. Photos from Paulo Coelho's post",
+          1484834782
         ],
         [
-          "Turkey: October 1 Timeline Photos",
-          1474291981
+          "http://glo.bo/2j01Pyv Paulo Coelho \u00e9 escolhido pela Funda\u00e7\u00e3o Einstein como um dos 100 maiores pensadores do nosso tempo | Lauro Jardim - O Globo Paulo Coelho \u00e9 o novo \u201cVision\u00e1rio\u201d da Funda\u00e7\u00e3o Albert Einstein. A honraria, que tamb\u00e9m premia Shimon Peres, Alice Munro e outros dez ganhadores ...",
+          1483972391
         ],
         [
-          "October Timeline Photos",
-          1474291347
+          "Video 5,41 min - CBS Sunday Morning Dec 18 http://cbsn.ws/2h3Z6SR Paulo Coelho: A master at work Study the fine print of any book by Brazilian author Paulo Coelho and you'll find all the signs of a master at work. His latest novel, \"The Spy,\" is based on the life of Mata Hari, the Dutch-born exotic dancer who in 1917 was accused of spying for Germany and executed. Rita Braver has more.",
+          1482186886
         ],
         [
-          "By Rea Siochi Timeline Photos",
-          1466557568
+          "Don't miss my interview tomorrow 9:00 AM on CBS Sunday Morning Book excerpt: \"The Spy\" by Paulo Coelho Read a sample chapter from the Brazilian author's latest novel, inspired by the life of World War I spy Mata Hari",
+          1481983169
         ],
         [
-          "Sleep well! Timeline Photos",
-          1465863412
+          "Mata Hari is back to her beloved city  \n#TheSpy Timeline Photos",
+          1480122716
         ],
         [
-          "The greatest Timeline Photos",
-          1465076909
+          "Lest jetzt die Leseprobe von DIE SPIONIN und gewinnt exklusive DSE Ohrringe, veredelt mit Swarovski Kristallen\nhttp://www.diespionin.de/ Paulo Coelho: Die Spionin Der neue Roman von Paulo Coelho \u00fcber den Mythos der Mata Hari. Jetzt reinlesen und exklusive Ohrringe gewinnen!",
+          1480099963
         ],
         [
-          "I met an angel this afternoon Timeline Photos",
-          1463938763
+          "The greatest crime I commited was being an emancipated and  independent woman in a world ruled by men (Mata Hari) Timeline Photos",
+          1479826021
         ],
         [
-          "(Foto: Ivone Pita) Timeline Photos",
-          1462534601
+          "NATIONAL BOOK REVIEW - LA Times\n\nThe Spy\u201d by Paulo Coehlo (Knopf: 208 pp)\n\nCoelho, whose books have sold more than 200 million copies worldwide, has taken the Mata Hari story and fashioned it into a short dynamo of a novel.  \nHe starts with the outlines of Mata Hari's life \u2014 Dutch exotic dancer, charmer of powerful men, accused spy for Germany in World War I \u2014 and mixes in some of her own self-deceptions to create a letter she might have written before facing the French firing squad that ultimately killed her. \nCoelho\u2019s Mata Hari explains that she was simply a \u201cwoman born at the wrong time\u201d and pleads that if the future remembered her, \u201cmay it never see me as a victim, but as someone who moved forward with courage, fearlessly paying the price she had to pay\"\n\n(release date in USA: Nov 22)",
+          1479573059
         ],
         [
-          "JUMP!\n(photo by J.R.Duran) Timeline Photos",
-          1456937068
+          "Um preconceito chamado Paulo Coelho http://bit.ly/2fubz1P Um preconceito chamado Paulo Coelho \u2013 MR NEWS Um preconceito chamado Paulo Coelho 14/11/2016 COLUNAS A primeira pergunta que me faziam sempre quando eu dizia \u201cN\u00e3o posso opinar sobre Paulo Coelho pois nunca li nada dele\u2026\u201d era um seguido de: \u201c Como voc\u00ea \u00e9 blogueira liter\u00e1ria e nunca leu Paulo Coelho?\u201d. Pois \u00e9, a gente aprende na escola a ler Mach...",
+          1479407386
         ],
         [
-          "(Photo: my_heart_project) Timeline Photos",
-          1453653156
+          "Exclusive Excerpt from \u201cThe Spy\u201d by Paulo Coelho",
+          1479232817
         ],
         [
-          "MY office #minimalism Timeline Photos",
-          1452708558
+          "Kirkus Review: THE SPY\n\nCoelho\u2019s (Adultery, 2014, etc.) novel about Mata Hari, the notorious and (in all likelihood) falsely accused World War I spy, hews closely to the facts.A prologue reveals what we already know from history: Mata Hari was executed by firing squad in Paris on Oct. 15, 1917. \nThe rest of the book consists of Mata\u2019s fictional letter to her defense attorney, M. Clunet, written while on death row in the Saint-Lazare prison, and a similarly speculative letter of regret by Clunet. Mata cynically and philosophically details her bare-bones autobiography: she was born Margaretha Zelle to a bourgeois family in Holland. Raped by a school principal at 16, she is desperate to escape school and Holland: this she achieves by marrying a Dutch army captain and moving to Indonesia. The officer beats and sexually abuses her for years, until another military wife\u2019s suicide and a performance by Javanese dancers inspire Margaretha to rebel and return to Europe. \nMaking her way to Paris, she introduces herself as Mata Hari to an impresario, Monsieur Guimet, who invites her to premiere her act\u2014a spectacle that combines Java-esque dance moves and strip tease\u2014at his museum. Her performances, a m\u00e9lange of titillation and sophistication, quickly catapult her to fame in the priciest nightclubs; soon she's the toast of Paris. With this go riches accumulated as the mistress of wealthy industrialists and bankers. Living only for pleasure, Mata is oblivious to the approaching hostilities of the Great War, so when she is invited to perform in Berlin, she goes without hesitation only to find that she is being recruited as a spy for the kaiser. What follows is a grim comedy of errors as Mata, after traveling back to Paris through a war zone, offers her services to France as a double agent. Unfortunately, her French handler has a hidden agenda. The absurdity of the charges against Mata Hari comes through clearly, but even as she tells her own story we never get a sense of her humanity, only her various personas and masks.\n\nNOV 22 in all English speaking countries http://amzn.to/2fhVEp0 Pre-order Price Guarantee. | The Spy: A novel In his new novel, Paulo Coelho, best-selling author of The Alchemist and Adultery, brings to life one of history's most enigmatic women: Mata Hari. HER ONLY CRIME WAS TO BE AN INDEPENDENT WOMAN   When Mata Hari arrived in Paris she was penniless.  Within months she w...",
+          1478968714
         ],
         [
-          "Kazakhstan 2005 (to write ZAHIR) with a hunting eagle Timeline Photos",
-          1450618682
+          "Publishers Weekly review\n\nCoelho's striking novel about Margaretha Zelle, aka Mata Hari, the Dutch courtesan and \"exotic\" dancer who was executed in 1917 for treason and in all likelihood was innocent, unfolds through letters to her lawyer that she hopes will be given to her daughter if she is killed. \nSmooth, assured writing reveals a woman who refuses to be a victim: \"someone who moved forward with courage, fearlessly paying the price she had to pay.\" She was raped by her headmaster at school and abused by her husband (a Dutch military officer), and she retaliated by exploiting the European love of the mysterious Orient through her \"Eastern\" veil dances. Although the novel is not Coelho's strongest work, the ending is brilliant in its irony, and throughout, he displays an ability to inhabit her voice. \nThrough the letters, he illustrates the difficulties of being an independent woman in that time and place. \nBy the end, readers will believe they've read Zelle's actual letters.\n\n (Nov. 22 in all English speaking countries http://bit.ly/2emXST1 )",
+          1478887583
         ],
         [
-          "The King and I (2010) Timeline Photos",
-          1447423136
+          "Review: The Spy By Paulo Coelho http://bit.ly/2erDA6V\n(English speaking countries: Nov 22) Review: The Spy By Paulo Coelho 100 years ago Mata Hari was put to death by a firing squad, her only crime: to be a free and independent woman",
+          1478809421
         ],
         [
-          "The Magic Forest Timeline Photos",
-          1438210097
+          "Reviews from readers who received the galleys \n(PUB date: Nov 22)  http://bit.ly/2fybgjq Photos from Paulo Coelho's post",
+          1478536866
         ],
         [
-          "FRIDAY: Timeline Photos",
-          1437749519
+          "Review: The Spy By Paulo Coelho http://bit.ly/2erDA6V\n(release date in English: Nov 22) Review: The Spy By Paulo Coelho 100 years ago Mata Hari was put to death by a firing squad, her only crime: to be a free and independent woman",
+          1477925764
         ],
         [
-          "Paris Timeline Photos",
-          1433959210
+          "Obrigado\n(more to come this weekend, thank you for your  patience) Photos from Paulo Coelho's post",
+          1476360119
         ],
         [
-          "My marriage / Mi matrimonio Timeline Photos",
-          1431547105
+          "Thank you! Photos from Paulo Coelho's post",
+          1475678991
         ],
         [
-          "Adult\u00e8re Timeline Photos",
-          1430283601
+          "Today: Hungary! Photos from Paulo Coelho's post",
+          1475501697
         ],
         [
-          "A room with a view, Timeline Photos",
-          1429125538
+          "Paulo Coelho \u00e9 o autor em l\u00edngua portuguesa mais traduzido do mundo http://veja.abril.com.br/blog/radar-on-line/cultura/em-obras-traduzidas-paulo-coelho-desbanca-saramago/ via @veja Timeline Photos",
+          1475346801
         ],
         [
-          "The Valkyries Timeline Photos",
-          1427529602
+          "TODAY!\nUudessa romaanissaan Paulo Coelho kertoo historian kuuluisimman vakoojan Mata Harin tarinan. Kirja perustuu mahdollisimman pitk\u00e4lle tositapahtumiin ja kuvaa Mata Harin eksoottisen el\u00e4m\u00e4n vaiheet, jotka sis\u00e4lsiv\u00e4t runsaasti koettelemuksia ja k\u00e4rsimyst\u00e4 mutta my\u00f6s ainutlaatuisia hetki\u00e4, joista tuli osa historiaa.\nPaulo Coelhon Vakooja (suom. Sanna Pernu ja Jarna Piippo) nyt kirjakaupoissa! Timeline Photos",
+          1475153189
         ],
         [
-          "Maktub Timeline Photos",
-          1427359732
+          "Amigos / friends\n(I will post more by Friday, over 40 waiting so far) Photos from Paulo Coelho's post",
+          1475103454
         ],
         [
-          "L'Alchimiste Timeline Photos",
-          1427090401
+          "The life of a free person is an offense to those attached to appearances and rules \n(Mata Hari in #TheSpy -my new book, not yet released) A Espi\u00e3/ The Spy",
+          1472304909
         ],
         [
-          "Brida Timeline Photos",
-          1426924801
+          "Mata Hari, the central character of my new book \"The Spy\",  two years before being arrested by the French and executed by a firing squad\n\n(#TheSpy release dates: http://bit.ly/293oqBB (more to come) Timeline Photos",
+          1469967966
         ],
         [
-          "a Timeline Photos",
-          1423555201
+          "Mata Hari (the main character of my new book, #TheSpy ) was already portrayed in four or five movies. Below you can see Greta Garbo, Jeanne Moreau and Sylvia Kristell Timeline Photos",
+          1468447934
         ],
         [
-          "Genius Timeline Photos",
-          1423323808
+          "When Mata Hari arrived in Paris she was penniless.\nSoon she was feted as the most elegant woman in the city.\nA dancer who shocked and delighted audiences, as a confidant and courtesan she bewitched the era\u2019s richest and most powerful men.\nBut as paranoia consumed a country at war, Mata Hari\u2019s lifestyle bought her under suspicion. Until in 1917 she was arrested in her hotel room on the Champs Elysees and accused of espionage.\nThe Spy tells the unforgettable story of a woman who dared to break the conventions of her time, and paid the price.\nRELEASE DATE: NOV 22 (UK, AUS, NZ, INDIA, CANADA) Timeline Photos",
+          1466696691
         ],
         [
-          "The Devil and Miss Prym Timeline Photos",
-          1423249341
+          "Mata Hari\u2019s last week http://bit.ly/1tyvTTL Timeline Photos",
+          1466085998
         ],
         [
-          "Liberdade. Timeline Photos",
-          1422777600
+          "Gossip ends at a wise person's ears Timeline Photos",
+          1462193758
         ],
         [
-          "In solitude... Timeline Photos",
-          1420742347
+          "TwoBad, May 1: \"Listening carefully to Paulo Coelho\" Timeline Photos",
+          1462139094
         ],
         [
-          "Agenda 2015 http://bit.ly/1qE9QlX Timeline Photos",
-          1414509524
+          "Expo Paulo Coelho Salon du Livre Timeline Photos",
+          1461787086
         ],
         [
-          "What is a miracle? -> http://bit.ly/VjJAOX Timeline Photos",
-          1410278506
+          "Very moved by the personal message from Stephen Hawking From Stephen Hawking to Paulo Coelho",
+          1442592617
         ],
         [
-          "London underground Timeline Photos",
-          1408213667
+          "Next Sunday Oprah and Paulo Coelho, Part 2 - http://bit.ly/1wbI58s\nWorld wide LIVE stream Paris 17:00 hr Rio 12:00 Colombia 10:00 hr\nNew Delhi 20:30 hr Tokyo 00:00 (midnight)\n\n \"Oprah and Paulo Coelho, Part 1\" http://bit.ly/1qG45GE Timeline Photos",
+          1410537168
         ],
         [
-          "Montblanc: sunset Timeline Photos",
-          1405703207
+          "My wife is the only visible person Timeline Photos",
+          1407330800
         ],
         [
-          "The silence and the mountains Timeline Photos",
-          1405694715
+          "Mais uma resenha aqui: Adult\u00e9rio | Paulo Coelho http://bit.ly/1mgzPj8 Timeline Photos",
+          1397732266
         ],
         [
-          "You are what you believe yourself to be. Timeline Photos",
-          1405691813
+          "#1 Pele #2 Paulo Coelho\nEntenda como Paulo Coelho virou o autor vivo mais traduzido do planeta (Forbes) http://on-msn.com/1gdRHY1 Timeline Photos",
+          1391959927
         ],
         [
-          "In 3 hr from now Timeline Photos",
-          1402586418
+          "My conference today, opening the Campus Party Europe (Berlin). It will take 56 min to watch it, so only click in the video if you are really interested in Literature + Technology CPEUROPE - Paulo Coelho CPEUROPE - Paulo Coelho",
+          1345668785
         ],
         [
-          "Tomamos a decis\u00e3o certa. #crise Timeline Photos",
-          1402131678
+          "2:30 min video Paulo Coelho on Luck, Coincidence, and Faith Paulo Coelho discusses his thoughts on Luck, Coincidence, and Faith. ",
+          1339107488
         ],
         [
-          "Dzi\u0119kuj\u0119 bardzo Polska! # 1 !!! Timeline Photos",
-          1401194225
+          "Paulo Coelho, vintage 1973 (as a hippie...) Timeline Photos",
+          1336470607
         ],
         [
-          "Merci! Timeline Photos",
-          1401011230
+          "1:55 MIN video The journey",
+          1333494656
         ],
         [
-          "Camina despacio\u2026 Timeline Photos",
-          1400723410
+          "1 MIN VIDEO (Aleph already in paperback UK, and in June paperback US) Paulo Coelho Aleph In his most personal novel to date, bestselling author Paulo Coelho returns with a remarkable journey of self-discovery. Available now at Amazon http://amzn....",
+          1333102680
         ],
         [
-          "ADULT\u00c8RE -> Dans toutes les librairies et aussi\niTunes (iPad, iPhone) http://bit.ly/1mshmRu Timeline Photos",
-          1400264330
+          "My friends and I praying in several languages, March 19 2012 Paulo Coelho Saint Joseph Italy 2012.mov Paulo Coelho prayer to Saint Joseph at in Marostica Italy 2012",
+          1332511349
         ],
         [
-          "Impossible is just an opinion. Timeline Photos",
-          1400144714
+          "Video 2 min: from tomorrow on, ALEPH in UK PAULO COELHO TALKS ABOUT 'ALEPH' Available now at Amazon http://amzn.to/zTdpR7 In his most personal novel to date, bestselling author Paulo Coelho returns with a remarkable journey of self-d...",
+          1331233456
         ],
         [
-          "Experts vs. Experienced Timeline Photos",
-          1399042921
+          "Ontem postei isso, mas dei email errado. \u00c9 o seguinte: lutei muito p/abaixar o pre\u00e7o dos livros, a editora fez parceria com Saraiva para isso. Prometeram visibilidade e displays (vejam link abaixo). Pe\u00e7o ajuda aqui: se tiverem tempo, vejam se est\u00e1 tudo ok. E enviem coment\u00e1rio para pilar_piedra@hotmail.com  Obrigad\u00edssimo M\u00eas Paulo Coelho - Saraiva.com.br Conhe\u00e7a a obra de Paulo Coelho, o autor brasileiro mais lido no mundo.",
+          1331038438
         ],
         [
-          "Polski: 21 maja Timeline Photos",
-          1398420734
+          "Uma grande batalha vencida: conseguir reduzir o pre\u00e7o de meus livros. Cliquem no link abaixo M\u00eas Paulo Coelho - Saraiva.com.br Conhe\u00e7a a obra de Paulo Coelho, o autor brasileiro mais lido no mundo.",
+          1330726712
         ],
         [
-          "Pr\u00e9-venda Saraiva ( 19,90) http://bit.ly/P9jFfy Timeline Photos",
-          1396092718
+          "3:21 min video en Espanol Enigma Blanco (Paulo Coelho) Recopilaci\u00f3n personal sobre citas del famoso escritor Paulo Coelho, recopiladas desde 2008 hasta 2010. Musica orquestada de Bill Douglas. Edici\u00f3n y Montaje r...",
+          1328448878
         ],
         [
-          "A boat is safe in the harbor. But this is not the purpose of a boat. Timeline Photos",
-          1395140724
+          "Genial. Thank you to the person who made this infographic The Journey of Paulo Coelho [INFOGRAPHIC] | Voxy Blog",
+          1327063821
         ],
         [
-          "No pidas permiso. Hazlo ahora y arrepi\u00e9ntete despu\u00e9s. Timeline Photos",
-          1392631801
-        ],
-        [
-          "The exciting nightlife in Geneva... Timeline Photos",
-          1389036822
-        ],
-        [
-          "Romans were here Timeline Photos",
-          1388325507
-        ],
-        [
-          "DAnke! Timeline Photos",
-          1379157755
-        ],
-        [
-          "Santiago! Timeline Photos",
-          1372778363
-        ],
-        [
-          "Sweet coffee... Timeline Photos",
-          1372669878
-        ],
-        [
-          "France # 2 Merci! Timeline Photos",
-          1369427271
-        ],
-        [
-          "Lago di Guarda (hoje/today) Gardone Rivera, IT Timeline Photos",
-          1365090195
-        ],
-        [
-          "The Holstee Manifesto Timeline Photos",
-          1363023477
-        ],
-        [
-          "Canec\u00e3o, Maio 1989 Timeline Photos",
-          1360702429
-        ],
-        [
-          "1/2 hr ago, Timeline Photos",
-          1350232619
-        ],
-        [
-          "Flying/voando/volando... Timeline Photos",
-          1349699451
-        ],
-        [
-          "Italia oggi!!! Timeline Photos",
-          1348047960
-        ],
-        [
-          "Beije loucamente. Ame descontroladamente. Viva intensamente. E perdoe rapidamente Timeline Photos",
-          1342714527
-        ],
-        [
-          "# 5 !!! Timeline Photos",
-          1342647862
-        ],
-        [
-          "Lan\u00e7amento 25 julho Timeline Photos",
-          1342123941
-        ],
-        [
-          "No prescription required... Timeline Photos",
-          1340534696
-        ],
-        [
-          "Loneliness/ Solid\u00e3o (Geneve, 17/Jun/2012) Timeline Photos",
-          1339972688
-        ],
-        [
-          "My hippie incarnation (Italy, 1972) Timeline Photos",
-          1339493038
-        ],
-        [
-          "An interesting view of Cannes Movie Festival... Timeline Photos",
-          1338227264
-        ],
-        [
-          "Fran\u00e7ais Timeline Photos",
-          1328793023
-        ],
-        [
-          "Polski (Polish) Timeline Photos",
-          1327865832
+          "2 MIN  visual hallucinogenic video (gift from a friend, Flavio Waiterman) Paulo Coelho, Aleph by Flavio Waiterman",
+          1325935554
         ]
       ],
-      "dates_start": 1364533382,
-      "dates_end": 1449858891,
-      "likes_avg": 40154,
-      "likes_stdev": 43740,
-      "comments_avg": 561,
-      "comments_stdev": 597,
-      "shares_avg": 11025,
-      "shares_stdev": 21336
+      "dates_start": 1371551245,
+      "dates_end": 1495336635,
+      "likes_avg": 11758,
+      "likes_stdev": 16480,
+      "comments_avg": 246,
+      "comments_stdev": 235,
+      "shares_avg": 1745,
+      "shares_stdev": 4329
     },
     {
-      "number": 17,
+      "number": 14,
       "important": [
-        "na",
+        "ao",
         "accra",
-        "amor",
-        "photo",
         "das",
-        "meu",
-        "timelin",
+        "part",
         "de",
         "amigo",
+        "meu",
+        "amor",
+        "na",
         "feliz"
       ],
       "common": [
+        "da",
         "de",
-        "dia",
         "em",
         "n\u00e3o",
         "para",
@@ -2742,10 +1941,6 @@
           1475153991
         ],
         [
-          "Resenha: A Espi\u00e3 - Cr\u00f4nicas de Eloise http://bit.ly/2deODiD Timeline Photos",
-          1474980352
-        ],
-        [
           "Ccnversa (PORTUGUESE ONLY!)Paulo Coelho fala sobre seu novo livro, \"A espi\u00e3\".\n\n\"Mata Hari foi a mulher mais desejada de sua \u00e9poca: a famosa bailarina de dan\u00e7as orientais que chocava e encantava as plateias ao se desnudar nos palcos, a companheira de confid\u00eancias e de encontros amorosos com os homens ricos e poderosos de seu tempo, a pessoa de passado enigm\u00e1tico que despertava o ci\u00fame e a inveja das damas da aristocracia parisiense. Ela ousou se libertar do moralismo e dos costumes provincianos das primeiras d\u00e9cadas do s\u00e9culo XX e pagou caro por isso: em 1917, foi executada pelo pelot\u00e3o de fuzilamento do ex\u00e9rcito franc\u00eas, sob alega\u00e7\u00f5es de espionagem de guerra.\"\n\n\"A espi\u00e3\", de Paulo Coelho, j\u00e1 est\u00e1 nas livrarias!",
           1474555592
         ],
@@ -2766,12 +1961,16 @@
           1470066073
         ],
         [
+          "! Feliz semana! Happy week! Timeline Photos",
+          1469359338
+        ],
+        [
           "Quando Mata Hari chegou a Paris, n\u00e3o tinha um \u00fanico centavo no bolso.\nUm ano depois, era uma das mulheres mais famosas e desejadas de sua \u00e9poca.\nBailarina que se desnudava no palco, cortes\u00e3 que manipulava os pol\u00edticos e homens importantes.\nSeu grande fascinio era a moda, e todos a conheciam porque chamava a aten\u00e7\u00e3o por onde passava.\nMas a Fran\u00e7a foi invadida pela Alemanha, o que deflagrou a Primeira Guerra Mundial, a mais sangrenta que a Europa conheceu nos \u00faltimos duzentos anos.\nPor causa das derrotas militares, era necess\u00e1rio encontrar algu\u00e9m para desviar as aten\u00e7\u00f5es da frente de batalha. Em 1917 Mata Hari foi presa e condenada \u00e0 morte, acusada de espionagem.\n\"A Espi\u00e3\" , meu novo livro, relata a semana que antecede o fuzilamento.\nNa verdade, seu \u00fanico crime foi ser uma mulher livre. Nada al\u00e9m disso. Documentos revelados recentemente mostram que o julgamento nao passou de uma farsa.\nO livro ser\u00e1 publicado no Brasil no dia 6 de setembro. N\u00e3o darei entrevistas em principio, mas faremos um bate-papo aqui mais adiante. Eu aviso a data. A Espi\u00e3",
           1466782126
         ],
         [
-          "Never ruin a good day by thinking about a bad yesterday Timeline Photos",
-          1464089887
+          "Next Sunday: 400 weeks (the previous record was 252 weeks, in 1950) Obrigado a todos os brasileiros que sempre me apoiaram Timeline Photos",
+          1466105139
         ],
         [
           "Feliz semana! Se voce tem medo da solid\u00e3o, nunca terminar\u00e1 desconbrindo quem \u00e9 Timeline Photos",
@@ -2790,6 +1989,10 @@
           1461409165
         ],
         [
+          "Celebrating 388 weeks = 7 years 6 months on the most important bestseller list in the world #record \nE finalmente, a partir desta semana, a edi\u00e7\u00e3o especial ( mesmo pre\u00e7o da normal) j\u00e1 est\u00e1 nas livrarias e portais! Celebrando 7 anos e 6 meses na lista dos mais vendidos do NY Times, um recorde nunca alcan\u00e7ado nem mesmo por americano Timeline Photos",
+          1453123551
+        ],
+        [
           "All over the world, #Alchemist special edition\nExceto Brasil, claro. A Editora Sextante se comprometeu em mar\u00e7o, deixou atrasar tudo, o livro est\u00e1 impresso mas ainda n\u00e3o foi distribuido. Timeline Photos",
           1451153636
         ],
@@ -2802,8 +2005,16 @@
           1440497893
         ],
         [
+          "Quando n\u00e3o lutamos contra a solid\u00e3o, ela se transforma em algo que nos ajuda a encontrar nosso prop\u00f3sito na vida Timeline Photos",
+          1438965426
+        ],
+        [
           "Our daily bread /o p\u00e3o nosso de cada dia / el pan nuestro de cada d\u00eda Mobile Uploads",
           1436384118
+        ],
+        [
+          "Qem ama esperando retribui\u00e7\u00e3o, perde seu tempo  #OAlquimista Timeline Photos",
+          1435763300
         ],
         [
           "Minha adorada sogra, a partir de hoje  na companhia de Deus, voce sempre estava pronta para viajar, descobrir o mundo, e gra\u00e7as aos anjos partiu de repente, sem muito sofrer. Fica a foto que minha adorada mulher Christina Oiticica postou, quando dan\u00e7avamos em Istambul, na Turquia. E ficam as palavras de Santo Agostinho:\n\n\"A morte n\u00e3o \u00e9 nada. Eu somente passei para o outro lado do Caminho.\nEu sou eu, voc\u00eas s\u00e3o voc\u00eas. O que eu era para voc\u00eas, eu continuarei sendo.\nMe d\u00eaem o nome que voc\u00eas sempre me deram, falem comigo como voc\u00eas sempre fizeram.\n\nVoc\u00eas continuam vivendo no mundo das criaturas, eu estou vivendo no mundo do Criador. N\u00e3o utilizem um tom solene ou triste, continuem a rir daquilo que nos fazia rir juntos.\n\nRezem, sorriam, pensem em mim. Rezem por mim.\n\nQue meu nome seja pronunciado como sempre foi, sem \u00eanfase de nenhum tipo.\nSem nenhum tra\u00e7o de sombra ou tristeza.\nPorque eu estaria fora de seus pensamentos, agora que estou apenas fora\nde suas vistas?\n\nEu n\u00e3o estou longe, apenas estou do outro lado do Caminho...a vida continua, linda e bela como sempre foi.\"\n\nAmem Timeline Photos",
@@ -2816,6 +2027,10 @@
         [
           "Dizem que a derrota ensina. Hoje n\u00e3o aprendi nada e estou muito feliz! VASCO! #ORespeitoVoltou Timeline Photos",
           1430685564
+        ],
+        [
+          "\"Amor s\u00f3 dura em liberdade\"... Timeline Photos",
+          1430426885
         ],
         [
           "O livro \u00e9 um filme onde o leitor dirige, escolhe os figurinos, os atores, etc. Por isso, sempre \u00e9 melhor que o filme Timeline Photos",
@@ -2832,14 +2047,6 @@
         [
           "Era uma vez.../ Once upon a time.../ \u00c9rase una vez...\n (London 1977, Victoria Street) Timeline Photos",
           1427735537
-        ],
-        [
-          "Tu momento m\u00e1gico del d\u00eda; es decisi\u00f3n tuya tratarlo como oro o dejarlo pasar. Timeline Photos",
-          1426359712
-        ],
-        [
-          "A bruxa de Portobello Timeline Photos",
-          1426147201
         ],
         [
           "Senhor, aben\u00e7oa nossa semana. \nQue possamos sorrir para todos que encontrarmos, porque basta um sorriso para que o dia seja melhor Timeline Photos",
@@ -2922,6 +2129,10 @@
           1406736088
         ],
         [
+          "Convention for those wounded in love / Conven\u00e7\u00e3o dos feridos por amor - http://bit.ly/wBUDnC Timeline Photos",
+          1405980082
+        ],
+        [
           "Sempre que voc\u00ea quiser conseguir alguma coisa, mantenha os olhos abertos, concentre-se, e saiba exatamente o que deseja. Ningu\u00e9m atinge seu alvo com os olhos fechados. Timeline Photos",
           1405807259
         ],
@@ -2938,16 +2149,24 @@
           1403352505
         ],
         [
+          "Aprendemos sobre o amor amando! Timeline Photos",
+          1402555385
+        ],
+        [
           "Essa rosa do meu jardim \u00e9 para voces, meus leitores brasileiros. ADULT\u00c9RIO n\u00e3o apenas continua na lista dos mais vendidos dos principais jornais e revistas (onde entrou h\u00e1 dois meses) como voltou a subir! \nMuitissimo obrigado! Timeline Photos",
           1402137119
         ],
         [
-          "Cada momento de b\u00fasqueda es un momento de encuentro. #alquimista Timeline Photos",
-          1401645657
+          "Quien ama necesita saber perderse y encontrarse. Timeline Photos",
+          1401487265
         ],
         [
           "\u00c9 muito f\u00e1cil detestar tudo. Eu procurei o caminho mais dificil: amar. Timeline Photos",
           1401386506
+        ],
+        [
+          "Traici\u00f3n es fingir amor. Timeline Photos",
+          1401367421
         ],
         [
           "Posso ter tudo, mas se n\u00e3o tiver amor em meu cora\u00e7\u00e3o, nada tem import\u00e2ncia Timeline Photos",
@@ -2958,6 +2177,14 @@
           1400937063
         ],
         [
+          "Rara vez nos damos cuenta de que estamos rodeados por lo extraordinario. Timeline Photos",
+          1400544045
+        ],
+        [
+          "Quien ama esperando ser amado, pierde su tiempo. Timeline Photos",
+          1400364042
+        ],
+        [
           "Obrigado Portugal! Segundo pa\u00eds a ser publicado, e tambem - como no Brasil - direto na lista dos mais vendidos!!! Timeline Photos",
           1400265309
         ],
@@ -2966,16 +2193,16 @@
           1400096074
         ],
         [
+          "Antes de que ciertas tormentas lleguen a nuestro patio, nos env\u00edan peque\u00f1os mensajes de los que, por pereza, no hacemos caso. Timeline Photos",
+          1400079915
+        ],
+        [
           "Feliz dia das M\u00e3es! Timeline Photos",
           1399809672
         ],
         [
           "Gustavo Kronemberger : Entro na Livraria Cultura da Cinelandia e tenho essa bela vis\u00e3o!\"\nPara mim tambem \u00e9 uma alegria! Timeline Photos",
           1399734814
-        ],
-        [
-          "Lagrimas s\u00e3o palavras que aguardam o momento de serem ditas. Timeline Photos",
-          1399302159
         ],
         [
           "A felicidade de um n\u00e3o significa a tristeza de outros. Timeline Photos",
@@ -3018,24 +2245,16 @@
           1397497523
         ],
         [
-          "N\u00e3o \u00e9 pecado ser feliz! Timeline Photos",
-          1397314905
-        ],
-        [
           "\"Voc\u00ea acha que a monogamia \u00e9 uma imposi\u00e7\u00e3o com data de validade? \" Minha resposta (abaixo) Timeline Photos",
           1397128022
         ],
         [
+          "Podemos cometer muchos errores en nuestras vidas, menos uno: aquel que nos destruye. Timeline Photos",
+          1395950482
+        ],
+        [
           "\"Tudo me diz que estou prestes a tomar uma decis\u00e3o errada, mas os erros s\u00e3o uma maneira de agir.\" - Mar\u00eda, en #11minutos Timeline Photos",
           1395432141
-        ],
-        [
-          "Hay momentos en los que debes estar preparado para tomar riesgos, \u00a1para hacer algo loco! Timeline Photos",
-          1395309022
-        ],
-        [
-          "Existen momentos para actuar y momentos para aceptar. Timeline Photos",
-          1395280985
         ],
         [
           "Meus dias eram iguais porque eu assim os desejava. Timeline Photos",
@@ -3058,8 +2277,20 @@
           1393610401
         ],
         [
+          "'Quien ama necesita saber perderse y encontrarse.' Timeline Photos",
+          1393347601
+        ],
+        [
+          "O amor e o que nos faz sorrir quando estamos cansados. Timeline Photos",
+          1393200001
+        ],
+        [
           "A vida n\u00e3o joga com cartas marcadas. Perder ou ganhar faz parte. Timeline Photos",
           1392914701
+        ],
+        [
+          "Se\u00f1or, bendice nuestra semana. Que nunca renunciemos a las cosas que nos hacen felices. Timeline Photos",
+          1392642301
         ],
         [
           "Good morning / Bom dia Mobile Uploads",
@@ -3122,6 +2353,10 @@
           1363171971
         ],
         [
+          "(click on the picture / clique na foto) Timeline Photos",
+          1363004941
+        ],
+        [
           "A crian\u00e7a pode ensinar ao adulto 3 coisas: estar feliz sem raz\u00e3o, estar sempre ocupada, e saber exigir com toda for\u00e7a aquilo que deseja Timeline Photos",
           1362947495
         ],
@@ -3132,6 +2367,10 @@
         [
           "As pessoas mais perigosas deste planeta s\u00e3o aquelas que ficam apenas vendo o que acontece Timeline Photos",
           1361570069
+        ],
+        [
+          "Happy St. Valentines Day!\r\n(Quem ama pensando em ser amado de volta perde seu tempo...) Timeline Photos",
+          1360838616
         ],
         [
           "J\u00e1 amei antes. Amar \u00e9 como uma droga. No come\u00e7o vem a sensa\u00e7\u00e3o de euforia, de total entrega. Depois, no dia seguinte, voc\u00ea quer mais. Ainda n\u00e3o se viciou, mas gostou da sensa\u00e7\u00e3o, e acha que pode mant\u00ea-la sob controle. Pensa na pessoa amada durante dois minutos e esquece por tr\u00eas horas.\r\n\u201cMas aos poucos, voc\u00ea se acostuma com aquela pessoa, e passa a depender completamente dela. Ent\u00e3o pensa por tr\u00eas horas, e esquece por dois minutos. Se ela n\u00e3o est\u00e1 perto, voc\u00ea experimenta as mesmas sensa\u00e7\u00f5es que os viciados t\u00eam quando n\u00e3o conseguem a droga. Neste momento, assim como os viciados roubam e se humilham para conseguir o que precisam, voc\u00ea est\u00e1 disposto a fazer qualquer coisa pelo amor.\u201d\r\n(Na margem do rio Piedra eu sentei e chorei) Timeline Photos",
@@ -3162,16 +2401,8 @@
           1352223494
         ],
         [
-          "Intelig\u00eancia \u00e9 a arte de escolher entre inimigos necess\u00e1rios e desnecess\u00e1rios Timeline Photos",
-          1352208074
-        ],
-        [
           "\"Alguns de meus amigos s\u00e3o muito pobres.  A \u00fanica coisa que eles possuem \u00e9 dinheiro\"\r\n(O vencedor est\u00e1 s\u00f3, por Paulo Coelho) Timeline Photos",
           1351882934
-        ],
-        [
-          "\"Seja bem maluca! Mas aprenda a fazer isso sem chamar a aten\u00e7\u00e3o\"\r\n(do livro 'Veronika decide morrer') Timeline Photos",
-          1351685505
         ],
         [
           "Precisamos associar a sabedoria antiga com as novas tecnologias, se queremos mudar o mundo (Manual do guerreiro da luz) Timeline Photos",
@@ -3184,10 +2415,6 @@
         [
           "Por lo tanto, Se\u00f1or, danos hoy El milagro nuestro de cada dia ( Manuscrito Accra}",
           1349957943
-        ],
-        [
-          "FNAC hier: #2 (livre de poche, EUR 6,70). Merci! Timeline Photos",
-          1349168305
         ],
         [
           "Senhor, aben\u00e7oa nossa semana. Que possamos entender que o sacrificio nem sempre \u00e9 uma virtude, e a alegria nem sempre \u00e9 um pecado Timeline Photos",
@@ -3212,6 +2439,10 @@
         [
           "Daqui a pouco (21:30 hr) minha entrevista para o Globo News Literatura. Estou curioso com o que v\u00e3o escolher para colocar ali. Quem assistir, por favor deixe coment\u00e1rio Timeline Photos",
           1347658108
+        ],
+        [
+          "O que nos torna feios? Timeline Photos",
+          1347615303
         ],
         [
           "Como podem notar, sou o \u00daNICO escritor brasilieiro na lista dos mais vendidos (a publicada aqui \u00e9 do Globo/Epoca, mas o mesmo ocorre em outras). O livro completa dois meses ali neste final de semana.\r\nE isso s\u00f3 \u00e9 possivel por que? Por causa da ajuda de voces - nada promove melhor um livro que a recomenda\u00e7ao do leitor. OBRIGADO! Timeline Photos",
@@ -3240,6 +2471,10 @@
         [
           "Senhor, aben\u00e7oa nossa semana. Que ningu\u00e9m consiga roubar nossa alegria Timeline Photos",
           1346660498
+        ],
+        [
+          "O objetivo de grande parte de pol\u00edticos e economistas \u00e9 nos manter em estado de p\u00e2nico - e desta maneira nos manipular mais facilmente Timeline Photos",
+          1346600048
         ],
         [
           "Para quem nao teve chance de ver \"Bom Dia Brasil\"\n(Video in Portuguese) Bom Dia Brasil - O escritor Paulo Coelho conta sobre vit\u00f3rias e fracassos em sua trajet\u00f3ria | globo. Cento e cinquenta milh\u00f5es de livros. Mais de meio bilh\u00e3o de eleitores. E 25 anos na lista dos mais vendidos. Paulo Coelho \u00e9 o escritor mais lido da hist\u00f3ria. O homem, que j\u00e1 foi chamado de Mago, revela o segredo de tanto sucesso.",
@@ -3274,12 +2509,12 @@
           1345195874
         ],
         [
-          "Senhor, aben\u00e7oa nossa semana. Que saibamos navegar entre os falsos amigos e os verdadeiros inimigos Timeline Photos",
-          1344246273
+          "Se ainda est\u00e1 na sua cabe\u00e7a, vale a pena correr os riscos Timeline Photos",
+          1344936934
         ],
         [
-          "Harmonia e felicidade provocam ciumes. \r\nN\u00e3o deixe de ser feliz por causa disso... Timeline Photos",
-          1344110170
+          "Senhor, aben\u00e7oa nossa semana. Que saibamos navegar entre os falsos amigos e os verdadeiros inimigos Timeline Photos",
+          1344246273
         ],
         [
           "Comovente: \"Rafaela Pecini: estou lendo para minha princesinha, j\u00e1 estou ensinando ela a ser uma boa leitora, dando o exemplo cedo -) Livro muito bom! realmente vai marcar minha vida.\r\nMoving photo on Facebook today: \"Rafaela Pecini: \u00cf am reading to my little princess, teaching her how to be a good reader, giving an example\" Timeline Photos",
@@ -3288,6 +2523,14 @@
         [
           "Em dez minutos estarei entrando na plataforma abaixo para conversar um pouco com voces. Podem fazer o login usando o Facebook, e podem usar webcam\n(note: chat in Portuguese only) Conversa com leitores Spreecast is the social video platform that lets people broadcast together.",
           1343681120
+        ],
+        [
+          "Repetindo um post de ontem: como devem ter notado, aceitei apenas UMA \u00fanica entrevista para a m\u00eddia impressa (O Globo). Todo o mais que foi publicado teve como base as informa\u00e7\u00f5es enviadas pela editora\r\n\r\nPor que isso?\r\nPorque cada vez mais os jornalistas perguntam sobre mim, e cada vez menos sobre os livros que publico.\r\n\r\nE o que decidi fazer?\r\nDeixar nas m\u00e3os de voc\u00eas a promo\u00e7\u00e3o.. Se gostarem, por favor recomendem a seus amigos. Vejam se falta em livrarias e nos avisem. Paricipem. Ajudem.\r\nCriei no Facebook a p\u00e1gina \"Manuscrito encontrado em Accra\". que \u00e9 lido pela editora. Problemas de distribui\u00e7\u00e3o devem ser postados l\u00e1\r\n\r\nUm guerreiro da luz confia nos outros guerreiros da luz.\r\nMuit\u00edssimo obrigado Timeline Photos",
+          1343580394
+        ],
+        [
+          "Como devem ter notado, aceitei apenas UMA \u00fanica entrevista para a m\u00eddia impressa (jornal O Globo). Todo o mais que foi publicado teve como base as informa\u00e7\u00f5es enviadas pela editora\r\n\r\nPor que isso?\r\nPorque cada vez mais os jornalistas perguntam sobre mim, e cada vez menos sobre os livros que publico.\r\nNa entrevista de O Globo, falo da importancia crescente deste contato direto com leitores.\r\n\r\nE o que decidi fazer?\r\nDeixar nas m\u00e3os de voc\u00eas a promo\u00e7\u00e3o de \"Manuscrito encontrado em Accra\". Se gostarem, por favor recomendem a seus amigos. Vejam se falta em livrarias e nos avisem. Paricipem. Ajudem.\r\nAli ao lado, entre minhas op\u00e7\u00f5es \"curtir\", est\u00e1 a p\u00e1gina \"Manuscrito encontrado em Accra\". L\u00e1 tem um post igual a esse, que \u00e9 lido tambem pela editora. Problemas de distribui\u00e7\u00e3o devem ser postados l\u00e1\r\n\r\nUm guerreiro da luz confia nos outros guerreiros da luz.\r\nMuit\u00edssimo obrigado Timeline Photos",
+          1343510920
         ],
         [
           "(Lan\u00e7amento dia 25 de julho) Timeline Photos",
@@ -3342,10 +2585,6 @@
           1330794457
         ],
         [
-          "Airport de Paris (Charles de Gaulle) aujourd'hui (today) Timeline Photos",
-          1330105189
-        ],
-        [
           "Post em portugu\u00eas 20 seg leitura: qual \u00e9 o maior luxo? \u2014 Paulo Coelho's Blog Ao lado do mosteiro de Ibak, vivia um s\u00e1bio sufi, excelente negociante, que terminou por acumular uma grande riqueza. Um visitante do mosteiro, ao ver os custos alt\u00edssimos dos trabalhos de renova\u00e7\u00e3o do templo, disse para quem quisesse escutar: \u201cEis",
           1329494841
         ],
@@ -3382,28 +2621,28 @@
           1326990580
         ]
       ],
-      "dates_start": 1343986095,
-      "dates_end": 1428955331,
-      "likes_avg": 34778,
-      "likes_stdev": 31497,
-      "comments_avg": 586,
-      "comments_stdev": 809,
-      "shares_avg": 12215,
-      "shares_stdev": 16840
+      "dates_start": 1345461969,
+      "dates_end": 1429306297,
+      "likes_avg": 35189,
+      "likes_stdev": 31812,
+      "comments_avg": 593,
+      "comments_stdev": 801,
+      "shares_avg": 12363,
+      "shares_stdev": 16575
     },
     {
-      "number": 18,
+      "number": 15,
       "important": [
-        "la",
-        "accra",
-        "date",
-        "te",
-        "photo",
-        "en",
-        "las",
         "worldwid",
-        "que",
-        "timelin"
+        "un",
+        "de la",
+        "accra",
+        "espi\u00e3",
+        "m\u00e1s",
+        "date",
+        "de",
+        "la",
+        "en"
       ],
       "common": [
         "de",
@@ -3419,28 +2658,52 @@
       ],
       "messages": [
         [
+          "Resenha: A Espi\u00e3 - Cr\u00f4nicas de Eloise http://bit.ly/2deODiD Timeline Photos",
+          1474980352
+        ],
+        [
           "Basado en hechos reales. 4 Octubre en Espa\u00f1ol ( EE.UU, M\u00e9xico, Latinoam\u00e9rica y Espa\u00f1a)\nWorldwide pub dates: http://bit.ly/2bOi276 La Espia",
           1473436650
+        ],
+        [
+          "Cuando Mata Hari lleg\u00f3 a Par\u00eds no ten\u00eda un centavo.\nEn menos de un a\u00f1o fue alabada como la mujer m\u00e1s elegante de la ciudad.\nUna bailarina que sorprendi\u00f3 y deleit\u00f3 al p\u00fablico, confidente y cortesana que embruj\u00f3 a los hombres m\u00e1s ricos y poderosos de la \u00e9poca.\nPero a medida que la paranoia consum\u00eda a un pa\u00eds en guerra, el estilo de vida de Mata Hari la puso bajo sospecha. Hasta que en 1917 fue detenida y acusada de espionaje.\n\nLa Esp\u00eda (basada en hechos reales)  cuenta la historia de una mujer que se atrevi\u00f3 a romper los esquemas de su \u00e9poca, y pag\u00f3 el precio.\n\nEN OCTOBRE EN TODA LATINOAMERICA Y ESPA\u00d1A\nBRASIL: SETEMBRO Timeline Photos",
+          1466769423
+        ],
+        [
+          "La Bamba!",
+          1466557870
         ],
         [
           "no des explicaciones, la gente que te quiere no las necesita Timeline Photos",
           1462283963
         ],
         [
-          "Quando n\u00e3o lutamos contra a solid\u00e3o, ela se transforma em algo que nos ajuda a encontrar nosso prop\u00f3sito na vida Timeline Photos",
-          1438965426
-        ],
-        [
           "The writer's Metamorphosis (but his wife is used to it) / La metamorfosis del escritor (pero su esposa se acostumbra a ella) Timeline Photos",
           1437001280
         ],
         [
-          "\"Amor s\u00f3 dura em liberdade\"... Timeline Photos",
-          1430426885
+          "La Sorci\u00e8re de Portobello Timeline Photos",
+          1430024402
+        ],
+        [
+          "El invierno lucha para reinar soberano, pero al final\nse ve obligado a aceptar la victoria de la primavera, que\ntrae consigo flores y alegr\u00eda.\nEl manuscrito encontrado en Accra Timeline Photos",
+          1429686001
+        ],
+        [
+          "Las cicatrices hablan m\u00e1s alto que la hoja de la espada\nque las caus\u00f3.\nEl manuscrito encontrado en Accra Timeline Photos",
+          1429599601
         ],
         [
           "No elegimos nuestra vida, pero decidimos que\u0301 hacer con las alegri\u0301as y las tristezas que recibimos.\nAdulterio Timeline Photos",
           1429293724
+        ],
+        [
+          "El fracaso no nos permite so\u00f1ar. Su lema\nes: \u00abNo anheles nada y nunca sufrir\u00e1s.\u00bb\nManuscrito encontrado en Accra Timeline Photos",
+          1429254001
+        ],
+        [
+          "Un guerrero sabe que los fines no justifican los medios. Porque no existen fines; existen solamente medios. \nMANUAL DEL GUERRERO DE LA LUZ Timeline Photos",
+          1429207346
         ],
         [
           "Se\u00f1or, bendice nuestra semana y danos coraje. Los cambios suceden cuando vamos en contra de todo lo que estamos acostumbrados a hacer. Timeline Photos",
@@ -3451,8 +2714,16 @@
           1428861683
         ],
         [
+          "Antes de empezar una batalla, el guerrero de la luz abre su coraz\u00f3n y pide a Dios que le inspire. \nManual of the Warrior of Light Timeline Photos",
+          1428343301
+        ],
+        [
           "Ready to start /Pronto para come\u00e7ar / Listo para empezar #Archery #TiroConArco Timeline Photos",
           1428242817
+        ],
+        [
+          "La lealtad es una perla entre los granos de arena que s\u00f3lo aquellos que realmente entienden su significado pueden ver.\nEl manuscrito encontrado en Accra Timeline Photos",
+          1427997684
         ],
         [
           "Amar es perder el control.\n           A orillas del r\u00edo Piedra me sent\u00e9 y llor\u00e9 Timeline Photos",
@@ -3463,16 +2734,60 @@
           1427608802
         ],
         [
+          "Cuesta mucho librarse de la memoria Timeline Photos",
+          1427569265
+        ],
+        [
+          "Un guerrero de la luz presta atenci\u00f3n a los ojos de un ni\u00f1o. Porque ellos saben ver el mundo sin amargura. \nManual del guerrero de la luz Timeline Photos",
+          1427137338
+        ],
+        [
+          "La alegr\u00eda es contagiosa y siempre consigue descubrir una soluci\u00f3n donde la l\u00f3gica s\u00f3lo encontr\u00f3 un explicaci\u00f3n para el error.\nEl manuscrito encontrado en Accra Timeline Photos",
+          1427097601
+        ],
+        [
+          "El \u00e9xito entra en la casa del que dice todos los d\u00edas: \u00abVoy a dar lo mejor de m\u00ed mismo.\u00bb\nEl manuscrito encontrado en Accra Timeline Photos",
+          1427011201
+        ],
+        [
+          "Tu momento m\u00e1gico del d\u00eda; es decisi\u00f3n tuya tratarlo como oro o dejarlo pasar. Timeline Photos",
+          1426359712
+        ],
+        [
+          "A bruxa de Portobello Timeline Photos",
+          1426147201
+        ],
+        [
           "Nunca podemos cesar de so\u00f1ar. El sue\u00f1o es el alimento del alma, como la comida lo es del cuerpo.\nEl Peregrino Timeline Photos",
           1426100526
+        ],
+        [
+          "Sur le bord de la rivi\u00e8re Piedra je me suis assise et j'ai pleur\u00e9 Timeline Photos",
+          1425967201
         ],
         [
           "Nadie consigue huir de su coraz\u00f3n. Por eso es mejor escuchar lo que te dice.\nEl Alquimista Timeline Photos",
           1425708001
         ],
         [
+          "Que podamos tener humildad a la hora de recibir y alegr\u00eda en el momento de dar. \nEl manuscrito encontrado en Accra Timeline Photos",
+          1425542400
+        ],
+        [
+          "En ce moment, beaucoup de gens ont renonc\u00e9 \u00e0 vivre. Ils ne s'ennuient pas, ils ne pleurent pas, ils se contentent d'attendre que le temps passe. Ils n'ont pas accept\u00e9 les d\u00e9fis de la vie et elle ne les d\u00e9fie plus. Timeline Photos",
+          1423928762
+        ],
+        [
           "El \u00e9xito no proviene del reconocimiento ajeno. Es el resultado de lo que sembraste con amor.\nCuando llega la hora de cosechar, te puedes decir a ti mismo: \u201cLo logr\u00e9\u201d.\nLograste que tu trabajo fuera respetado, porque no fue realizado s\u00f3lo para sobrevivir, sino para demostrar tu amor por los dem\u00e1s. Timeline Photos",
           1423760240
+        ],
+        [
+          "Esto era la libertad: sentir lo que su coraz\u00f3n deseaba, independientemente de la opini\u00f3n de los otros.\nLa Quinta Monta\u00f1a Timeline Photos",
+          1423720802
+        ],
+        [
+          "En una relaci\u00f3n, ambos saben lo que hacen, aunque uno de ellos vaya despu\u00e9s a quejarse de que ha sido utilizado.\nLa bruja de Portobello Timeline Photos",
+          1423681378
         ],
         [
           "Un d\u00eda despertar\u00e1s y ya no habr\u00e1 m\u00e1s tiempo para hacer las cosas que siempre has querido hacer. Hazlas ahora. Timeline Photos",
@@ -3483,8 +2798,28 @@
           1423036800
         ],
         [
+          "\"De hecho, cada d\u00eda para m\u00ed es una nota musical que uso para componer la sinfon\u00eda de mi vida\". Timeline Photos",
+          1422990127
+        ],
+        [
           "El amor permanece, son las personas las que cambian. Timeline Photos",
           1422730884
+        ],
+        [
+          "La belleza de la verdad: sin importar que sea buena o mala, es una experiencia liberadora. Timeline Photos",
+          1421953366
+        ],
+        [
+          "Manuel du Guerrier de la lumi\u00e8re Timeline Photos",
+          1421906405
+        ],
+        [
+          "Y para aquellos que piensan que la aventura es peligrosa, prueben la rutina: mata antes de tiempo. Timeline Photos",
+          1421175727
+        ],
+        [
+          "Manuel du guerrier de la lumi\u00e8re Timeline Photos",
+          1420869600
         ],
         [
           "Nada sucede sin esfuerzo. Hay que tener fe. Y, para eso, tenemos que romper las barreras de los prejuicios, lo cual requiere coraje. Para tener coraje, hay que tener miedo. Timeline Photos",
@@ -3495,6 +2830,10 @@
           1418907701
         ],
         [
+          "Es bueno que aprendas que todo en la vida tiene un precio. Y esto es lo que los Guerreros de la Luz intentan ense\u00f1ar. Timeline Photos",
+          1418810488
+        ],
+        [
           "Si no tenemos miedo de las tinieblas, es porque somos compa\u00f1eros de la luz. Timeline Photos",
           1418775313
         ],
@@ -3503,8 +2842,20 @@
           1415556090
         ],
         [
+          "Aunque la ansiedad sea parte de la vida, nunca dejes que ella controle tus movimientos. Timeline Photos",
+          1415469700
+        ],
+        [
           "Se voc\u00ea quiser ter sucesso, deve respeitar uma regra: Nunca minta a si mesmo. Timeline Photos",
           1415268096
+        ],
+        [
+          "\"Cuando llega la noche y nadie me ve, me asusto por todo: la vida, la muerte, el amor y su ausencia, el hecho de que todas las novedades se est\u00e1n convirtiendo en h\u00e1bitos, la sensaci\u00f3n de que estoy perdiendo los mejores a\u00f1os de mi vida en una rutina que va a seguir repiti\u00e9ndose hasta queme muera, y el p\u00e1nico a enfrentarme a lo desconocido, por m\u00e1s emocionante y aventurero que sea.\" \n\n- ADULTERIO - In all bookstores and also on Amazon (http://amzn.to/102g3Ry) Timeline Photos",
+          1414951279
+        ],
+        [
+          "Es justamente la posibilidad de realizar un sue\u00f1o lo que hace que la vida sea interesante. #elalquimista Timeline Photos",
+          1414353735
         ],
         [
           "Si s\u00f3lo caminas los d\u00edas soleados; nunca alcanzar\u00e1s tu destino. Timeline Photos",
@@ -3547,6 +2898,10 @@
           1412272920
         ],
         [
+          "No tomes decisiones importantes de la vida bas\u00e1ndose en lo que quieres ahora. Timeline Photos",
+          1412013889
+        ],
+        [
           "No tengas miedo de ser el mejor. Solo los mediocres no son criticados. Timeline Photos",
           1411993503
         ],
@@ -3555,8 +2910,16 @@
           1411840897
         ],
         [
+          "La Vanguardia hoy Timeline Photos",
+          1411561191
+        ],
+        [
           "Muchas veces el tren equivocado termin\u00f3 llev\u00e1ndome al lugar correcto. Timeline Photos",
           1411495340
+        ],
+        [
+          "Agradezco a todos aquellos que se rieron de mis sue\u00f1os; me ense\u00f1aron a crecer respetando las luchas de la gente. Timeline Photos",
+          1411063337
         ],
         [
           "TODAY!\n You can watch anywhere my interview with Oprah Winfrey using this link http://bit.ly/1wbI58s\nEntrevista Oprah LIVESTREAM en todo el mundo /\nR\u00edo, Buenos Aires 12:00 / Bogot\u00e1 10:00 / Caracas 10:30 -\nEnlace para ver en directo > http://bit.ly/1wbI58s Timeline Photos",
@@ -3571,8 +2934,16 @@
           1409558461
         ],
         [
+          "Es justamente la posibilidad de realizar un sue\u00f1o lo que hace que la vida sea interesante. Timeline Photos",
+          1409508060
+        ],
+        [
           "El sue\u00f1o siempre es arriesgado, hay que pagar un precio. Timeline Photos",
           1409472046
+        ],
+        [
+          "Amar abundantemente es vivir abundantemente. Amar para siempre es vivir para siempre. La vida Eterna est\u00e1 vinculada al Amor. Timeline Photos",
+          1409421661
         ],
         [
           "La luz de tu alma es m\u00e1s intensa que las tinieblas. Timeline Photos",
@@ -3639,10 +3010,6 @@
           1406570546
         ],
         [
-          "Convention for those wounded in love / Conven\u00e7\u00e3o dos feridos por amor - http://bit.ly/wBUDnC Timeline Photos",
-          1405980082
-        ],
-        [
           "Escoger un camino significaba abandonar otros. Quer\u00eda recorrer todos los caminos posibles, e iba a acabar no recorriendo ninguno. Timeline Photos",
           1405900846
         ],
@@ -3691,6 +3058,10 @@
           1403798517
         ],
         [
+          "Estoy sufriendo por amor. Eso puede ser una bajada al infierno, pero puede ser una revelaci\u00f3n. Timeline Photos",
+          1403647280
+        ],
+        [
           "\"Es mejor no vivir que no amar.\" - Adult\u00e9rio Timeline Photos",
           1403611341
         ],
@@ -3701,6 +3072,10 @@
         [
           "No siempre es suficiente ser perdonado por alguien. La mayor\u00eda de las veces tambi\u00e9n tienes que perdonarte a ti mismo. Timeline Photos",
           1403269327
+        ],
+        [
+          "Perseguir un sue\u00f1o tiene un precio. Nos puede obligar a abandonar nuestros h\u00e1bitos, puede suponer dificultades, puede llevar a la decepci\u00f3n... Pero por muy caro que sea, nunca es tan alto como el precio pagado por aquellos que no se atrevieron a perseguirlo. Timeline Photos",
+          1403263231
         ],
         [
           "Si todos viviesen sus vidas y dejasen que los dem\u00e1s hiciesen lo mismo, Dios estar\u00eda en cada instante, en cada grano de mostaza, en el pedazo de nube que se forma y se deshace en el instante siguiente. Timeline Photos",
@@ -3715,10 +3090,6 @@
           1402869659
         ],
         [
-          "Aprendemos sobre o amor amando! Timeline Photos",
-          1402555385
-        ],
-        [
           "Todas sue\u00f1an con alguien que llegue y las descubra como verdadera mujer, compa\u00f1era, sensual, amiga. Timeline Photos",
           1402164083
         ],
@@ -3731,12 +3102,24 @@
           1401732091
         ],
         [
-          "Traici\u00f3n es fingir amor. Timeline Photos",
-          1401367421
+          "Cada momento de b\u00fasqueda es un momento de encuentro. #alquimista Timeline Photos",
+          1401645657
+        ],
+        [
+          "Quiero ser capaz de aceptarme como soy. Una persona que camina, que siente, que habla como cualquier otra, pero que a pesar de sus defectos tiene coraje. Timeline Photos",
+          1401537677
         ],
         [
           "EL AMOR ES ALEGR\u00cdA. No te convenzas de que el sufrimiento es parte de \u00e9l. Timeline Photos",
           1401300116
+        ],
+        [
+          "El mayor objetivo de la vida es amar... El resto es silencio Timeline Photos",
+          1401235252
+        ],
+        [
+          "Nadie pierde a nadie porque nadie posee a nadie. Y esta es la verdadera experiencia de la libertad: Tener lo m\u00e1s importante del mundo sin poseerlo. Timeline Photos",
+          1401127269
         ],
         [
           "Cuando la vida te golpee duro, no te quejes. Llora, grita, insulta, pero no te quejes. No eres una v\u00edctima. Timeline Photos",
@@ -3759,10 +3142,6 @@
           1400608900
         ],
         [
-          "Rara vez nos damos cuenta de que estamos rodeados por lo extraordinario. Timeline Photos",
-          1400544045
-        ],
-        [
           "Espiritualidad no solo es orar y meditar. \u00a1Necesitas actuar! Timeline Photos",
           1400226912
         ],
@@ -3775,10 +3154,6 @@
           1400155297
         ],
         [
-          "Antes de que ciertas tormentas lleguen a nuestro patio, nos env\u00edan peque\u00f1os mensajes de los que, por pereza, no hacemos caso. Timeline Photos",
-          1400079915
-        ],
-        [
           "Cuando dudes, s\u00f3lo da el siguiente paso peque\u00f1o. Timeline Photos",
           1400072514
         ],
@@ -3787,12 +3162,20 @@
           1399917672
         ],
         [
+          "La vida siempre espera a que una crisis se produzca antes de mostrar su cara m\u00e1s brillante. Timeline Photos",
+          1399906918
+        ],
+        [
           "El amor era la llave para la comprensi\u00f3n de todos los misterios. Timeline Photos",
           1399831277
         ],
         [
           "Nunca pierdas una oportunidad para demostrar tu amor. \u00a1Sobre todo hacia aquellos que est\u00e1n cerca! Timeline Photos",
           1399820497
+        ],
+        [
+          "Una vida intensa no est\u00e1 completa sin un toque de locura. Timeline Photos",
+          1399622118
         ],
         [
           "Un barco est\u00e1 a salvo en el puerto. Pero este no es el prop\u00f3sito de un barco. Timeline Photos",
@@ -3805,6 +3188,10 @@
         [
           "El amor no es una deuda. Timeline Photos",
           1399327263
+        ],
+        [
+          "Lagrimas s\u00e3o palavras que aguardam o momento de serem ditas. Timeline Photos",
+          1399302159
         ],
         [
           "Estamos tan apegados a nuestra forma de vida que rechazamos las oportunidades simplemente porque no sabemos qu\u00e9 hacer con ellas. Timeline Photos",
@@ -3871,6 +3258,10 @@
           1398438298
         ],
         [
+          "Conocimiento sin transformaci\u00f3n no es sabidur\u00eda. Timeline Photos",
+          1398362591
+        ],
+        [
           "S\u00f3lo el Amor da forma a lo que antes era imposible de ser siquiera so\u00f1ado. Timeline Photos",
           1398290534
         ],
@@ -3887,6 +3278,10 @@
           1397685734
         ],
         [
+          "No busquemos respuestas. Aceptemos, y entonces la vida pasa a ser mucho m\u00e1s intensa y m\u00e1s brillante. Timeline Photos",
+          1397599319
+        ],
+        [
           "\u00a1Hasta un reloj parado consigue estar en lo cierto dos veces por d\u00eda! #Brida Timeline Photos",
           1397512915
         ],
@@ -3901,6 +3296,10 @@
         [
           "Camina con paso firme, sin miedo. --> http://bit.ly/1gOOi08 Timeline Photos",
           1397375713
+        ],
+        [
+          "N\u00e3o \u00e9 pecado ser feliz! Timeline Photos",
+          1397314905
         ],
         [
           "Cuando repites un error, ya no es un error: es una decision! Timeline Photos",
@@ -3947,12 +3346,12 @@
           1396051277
         ],
         [
-          "Kindle single USD 2,99\n The Supreme Gift http://amzn.to/1jjOQ4L\n El don supremo http://amzn.to/1di8Z9z Timeline Photos",
-          1396043726
+          "Solo existe una manera de aprender: A trav\u00e9s de la acci\u00f3n. Timeline Photos",
+          1396000238
         ],
         [
-          "Podemos cometer muchos errores en nuestras vidas, menos uno: aquel que nos destruye. Timeline Photos",
-          1395950482
+          "El peligro de una aventura vale m\u00e1s que mil d\u00edas de tranquilidad y comodidad. Timeline Photos",
+          1395939686
         ],
         [
           "El amor a veces se cansa de hablar un lenguaje suave. Dejemos que se manifieste de manera salvaje #Accra Timeline Photos",
@@ -3987,8 +3386,20 @@
           1395453661
         ],
         [
+          "Nadie puede evitar la derrota. Por eso es mejor perder algunos combates en la lucha por tus sue\u00f1os que ser derrotado sin siquiera saber por qu\u00e9 est\u00e1s luchando. Timeline Photos",
+          1395446463
+        ],
+        [
           "No dejes que tus heridas definan tu manera de actuar. Timeline Photos",
           1395324138
+        ],
+        [
+          "Hay momentos en los que debes estar preparado para tomar riesgos, \u00a1para hacer algo loco! Timeline Photos",
+          1395309022
+        ],
+        [
+          "Existen momentos para actuar y momentos para aceptar. Timeline Photos",
+          1395280985
         ],
         [
           "El amor no puede ser considerado prisionero, ya que es un r\u00edo y se desborda sus orillas. Timeline Photos",
@@ -3999,12 +3410,12 @@
           1394929833
         ],
         [
-          "BRIDA (espa\u00f1ol) \u00faltimo d\u00eda en Kindle Store! (2\u201999 USD) http://amzn.to/1f0iMv7 Timeline Photos",
-          1394906546
-        ],
-        [
           "Cuando dices S\u00cd a otras personas, aseg\u00farate de que no est\u00e1s diciendo NO a t\u00ed mismo. #accra Timeline Photos",
           1394643734
+        ],
+        [
+          "Se\u00f1or, ll\u00e9nanos de entusiasmo para enfrentarnos a los desaf\u00edos de la vida. #FelizSemana Timeline Photos",
+          1394568187
         ],
         [
           "El miedo a sufrir es peor que el propio sufrimiento. Pero ning\u00fan coraz\u00f3n jam\u00e1s sufri\u00f3 cuando fue en busca de sus sue\u00f1os. Timeline Photos",
@@ -4015,8 +3426,16 @@
           1393963501
         ],
         [
+          "La vida est\u00e1 para adelante, nunca para atr\u00e1s. Timeline Photos",
+          1393952401
+        ],
+        [
           "Cuando nuestro coraz\u00f3n vence la batalla contra el miedo, las maravillas se revelan. Timeline Photos",
           1393898701
+        ],
+        [
+          "Una vida sin causa es una vida sin efecto. #Aleph Timeline Photos",
+          1393790100
         ],
         [
           "Amar a alguien es una cosa. Ser amado es otra. Pero amar a alguien que te ama... Lo es todo. Timeline Photos",
@@ -4039,8 +3458,8 @@
           1393357801
         ],
         [
-          "O amor e o que nos faz sorrir quando estamos cansados. Timeline Photos",
-          1393200001
+          "The greatest sin is to miss the point of human existence. Timeline Photos",
+          1393294201
         ],
         [
           "Si buscas paz... no busques amor. Timeline Photos",
@@ -4057,10 +3476,6 @@
         [
           "Si alguien te hiere, reacciona. El perd\u00f3n viene despu\u00e9s. Timeline Photos",
           1392840301
-        ],
-        [
-          "Se\u00f1or, bendice nuestra semana. Que nunca renunciemos a las cosas que nos hacen felices. Timeline Photos",
-          1392642301
         ],
         [
           "Un acto de coraje es siempre un acto de amor. Timeline Photos",
@@ -4083,16 +3498,16 @@
           1392127801
         ],
         [
-          "\"The Supreme Gift\" $ 2,99\nKindle http://amzn.to/1e3sgoM  iBook http://bit.ly/1fL9jeO Timeline Photos",
-          1391959119
-        ],
-        [
           "\u00bfQu\u00e9 es el \u00e9xito? Es poder irse a la cama cada noche con el alma en paz. #accra #notegraphy Timeline Photos",
           1380801033
         ],
         [
-          "#1, gracias! Sabado y domingo 3,99 usd en Kindle ( todo el mundo) >>> http://bit.ly/12N09nW Timeline Photos",
-          1373128174
+          "Merci a vous pour la photo\r\n\"Asma B. Mohd: Merci Coelho pour cette merveille\" Timeline Photos",
+          1370772584
+        ],
+        [
+          "Janie Fortin:  Cher Paulo!!!!!!\r\n    Le voici enfin au Qu\u00e9bec..... attendu depuis d\u00e9j\u00e0 un moment c\u2019est aujourd'hui que j'ai re\u00e7u l'appel de l'arriv\u00e9 du livre \u00e0 la librairie...\r\n    Merci de nous faire voyager. de nous faire croire en nos r\u00eaves....    MERCI DE M'AVOIR INSPIR\u00c9 MA NOUVELLE VIE!!!!!\r\n    Je partage vos citations avec mes amis depuis que le manuscrit est sorti en France...... Chaque jour c'est un moment de Bonheur pour moi!!!!\r\n    Au Plaisir de vous lire encore durant plusieurs ann\u00e9es!!!! Timeline Photos",
+          1370715782
         ],
         [
           "Si quieres tener \u00e9xito, debes respetar una regla: NUNCA TE MIENTAS A TI MISMO. Timeline Photos",
@@ -4123,8 +3538,20 @@
           1352723853
         ],
         [
+          "Evita a quienes dicen: \u201cSe acab\u00f3, necesito parar aqu\u00ed\u201d. \r\nPorque ellos no entienden que ni la vida ni la muerte tienen fin; son s\u00f3lo etapas de la eternidad.\r\nManuscrito encontrado en Accra \r\nESPA\u00d1A: 13 noviembre LATINOAMERICA 22 noviembre Timeline Photos",
+          1352492425
+        ],
+        [
           "La semana que viene (Lunes) en Espa\u00f1a\r\nEl 22 noviembre: Latinoamerica. \r\nQual es la mejor hora (Espana) para um videochat con Uds?\r\nGracias Timeline Photos",
           1352390337
+        ],
+        [
+          "Intelig\u00eancia \u00e9 a arte de escolher entre inimigos necess\u00e1rios e desnecess\u00e1rios Timeline Photos",
+          1352208074
+        ],
+        [
+          "\u201cCu\u00e9ntanos sobre la soledad\u201d, pidi\u00f3 una joven que estaba a punto de casarse con el hijo de uno de los hombres m\u00e1s ricos de la ciudad, y que ahora se ve\u00eda obligada a huir. Timeline Photos",
+          1350672216
         ],
         [
           "\"Hablanos del sexo\". Y el respondi\u00f3: \"Hablanos del sexo\"",
@@ -4135,24 +3562,40 @@
           1350473612
         ],
         [
+          "La derrota y el fracaso ( 1:30 min video) El Manuscrito encontrado en Accra Frases del libro de Paulo Coelho",
+          1350218454
+        ],
+        [
+          "FNAC hier: #2 (livre de poche, EUR 6,70). Merci! Timeline Photos",
+          1349168305
+        ],
+        [
+          "Primera mano: tapa de \"Manuscrito encontrado en Accra\" en espa\u00f1ol  ( fecha de publicaci\u00f3n: Noviembre 2012) Timeline Photos",
+          1349113241
+        ],
+        [
           "Para empezar bien la semana... Como si fuese la primera vez \u2014 Paulo Coelho's Blog Yo quiero creer que voy a abrir los ojos cada d\u00eda como si fuese la primera vez. Ver a las personas que me rodean con sorpresa y espanto, alegre por descubrir que est\u00e1n a mi lado compartiendo algo llamado amor,",
           1348496867
+        ],
+        [
+          "Por lo tanto, benditos sean aquellos que no temen a la soledad. Que no se asustan con la propia compa\u00f1\u00eda, \r\nque no se desesperan buscando algo en qu\u00e9 ocuparse, \r\ndivertirse o qu\u00e9 juzgar.\r\n\r\n(Manuscrito encontrado en Accra, NOVIEMBRE 2012 en todos los paises de idioma espanol) Timeline Photos",
+          1348408317
+        ],
+        [
+          "Permanece con quienes no temen ser vulnerables. \r\nPorque esos tienen confianza en s\u00ed mismos, saben que todos tropezamos en alg\u00fan momento, y no interpretan esto como una se\u00f1al de flaqueza, sino de humanidad.\r\n(Manuscrito encontrado en Accra - Noviembre 2012 en todos los pa\u00edses de idioma espanol) Timeline Photos",
+          1348224421
         ],
         [
           "Y el contest\u00f3: \r\nSin la soledad, el Amor no permanecer\u00e1 mucho tiempo a tu lado.\r\nPorque tambi\u00e9n el Amor necesita reposo, de modo que pueda viajar por los cielos y manifestarse de otras formas.\r\nSin la soledad, ninguna planta o animal sobrevive, ninguna tierra es productiva por mucho tiempo, ning\u00fan ni\u00f1o puede aprender sobre la vida, ning\u00fan artista consigue crear, ning\u00fan trabajo puede crecer y transformarse.\r\nLa soledad no es la ausencia de Amor, sino su complemento.\r\nLa soledad no es la ausencia de compa\u00f1\u00eda, sino el momento en que nuestra alma tiene la libertad de conversar con nosotros y ayudarnos a decidir sobre nuestras vidas.\r\nPor lo tanto, benditos sean aquellos que no temen a la soledad. Que no se asustan con la propia compa\u00f1\u00eda, que no se desesperan buscando algo en qu\u00e9 ocuparse, divertirse o qu\u00e9 juzgar.\r\nPorque quien nunca est\u00e1 solo, ya no se conoce a s\u00ed mismo.\r\nY quien no se conoce a s\u00ed mismo comienza a temer el vac\u00edo.\r\n\r\nManuscrito encontrado en Accra \r\nFechas de publicacion > http://bit.ly/Ov0WK6 Timeline Photos",
           1347963378
         ],
         [
-          "O que nos torna feios? Timeline Photos",
-          1347615303
-        ],
-        [
           "Los errores cometidos por exceso de coraje son corregidos con m\u00e1s coraje Timeline Photos",
           1347310779
         ],
         [
-          "O objetivo de grande parte de pol\u00edticos e economistas \u00e9 nos manter em estado de p\u00e2nico - e desta maneira nos manipular mais facilmente Timeline Photos",
-          1346600048
+          "Manuscrito 2nd stop: Italia!  ( 10 Settembre) Anteprima > la copertina italiana Timeline Photos",
+          1345460198
         ],
         [
           "El \u00e9xito entra en la casa de quien dice: \"Dar\u00e9 lo mejor de m\u00ed\"\r\nSuccess  knocks the door of people who say: \"I will do my best\" Timeline Photos",
@@ -4167,8 +3610,16 @@
           1344158135
         ],
         [
+          "Harmonia e felicidade provocam ciumes. \r\nN\u00e3o deixe de ser feliz por causa disso... Timeline Photos",
+          1344110170
+        ],
+        [
           "Como prometi, consegui que bajasen e-book Aleph en espanol para EUR 2,99 (o USD 3,99)  en todos paises del mundo. \nDe viernes 3 Agosto, hasta domingo 5 Agosto. Aleph",
           1344004253
+        ],
+        [
+          "La adrenalina y el estr\u00e9s de una aventura son mejores que mil d\u00edas de tranquilidad. Timeline Photos",
+          1343737147
         ],
         [
           "Esperar duele. Olvidar duele. Pero el peor de los sufrimientos es no saber qu\u00e9 decisi\u00f3n tomar Timeline Photos",
@@ -4179,8 +3630,16 @@
           1343066463
         ],
         [
+          "Lo que ustedes ven es apenas parte de mi avatar. Ahora pueden ver la parte oculta... Timeline Photos",
+          1342561191
+        ],
+        [
           "\"Durante toda mi vida he entendido el amor como una especie de esclavitud consentida. \nPero esto no es as\u00ed: la libertad s\u00f3lo existe cuando existe el amor. Quien se entrega totalmente, quien se siente libre, ama al m\u00e1ximo. \nY quien ama al m\u00e1ximo, se siente libre. Pero en el amor, cada uno de nosotros es responsable por lo que siente, y no puede culpar al otro por eso. \n Nadie pierde a nadie porque nadie posee a nadie. \nY esta es la verdadera experiencia de la libertad: Tener lo m\u00e1s importante del mundo sin poseerlo.\"\n                                                  (en mi libro \"Once Minutos\")",
           1340927005
+        ],
+        [
+          "La ventana de mi hotel ayer, Laco di Guarda, Italia Timeline Photos",
+          1336418507
         ],
         [
           "Prep\u00e1rate para ser incomprendido por mucho tiempo. Persevera, y terminar\u00e1s ganando",
@@ -4199,8 +3658,8 @@
           1330647026
         ],
         [
-          "1 min reading ( + link para post en Espanol) Finding the signs \u2014 Paulo Coelho's Blog CON LINK PARA POST EN ESPANOL",
-          1328181691
+          "Airport de Paris (Charles de Gaulle) aujourd'hui (today) Timeline Photos",
+          1330105189
         ],
         [
           "Post en Espanol (+ link to the same post in English) Las se\u00f1ales \u2014 Paulo Coelho's Blog Podemos pensar que todo lo que la vida nos ofrece ma\u00f1ana es repetir lo que hicimos ayer y hoy. Pero si ponemos atenci\u00f3n, nos daremos cuenta de que ning\u00fan d\u00eda es igual a otro. Cada ma\u00f1ana nos trae una bendici\u00f3n",
@@ -4211,18 +3670,18 @@
           1327759704
         ],
         [
-          "An interesting read (found in El Pais) 30 sec reading:  The black man (a true story) \u2014 Paulo Coelho's Blog CLICAR EN EL LINK EN EL INICIO DEL POST PARA EL TEXTO EN ESPANOL",
-          1326978034
+          "4:50 min (English) I started a weekly podcast on subjects that are important to me. (os pr\u00f3ximos ter\u00e3o legendas/ los pr\u00f3ximos tendran subtitulos) CoelhoOffice 01 - On writing (I)",
+          1326025778
         ]
       ],
-      "dates_start": 1371253212,
-      "dates_end": 1419926106,
-      "likes_avg": 70501,
-      "likes_stdev": 41347,
-      "comments_avg": 635,
-      "comments_stdev": 472,
-      "shares_avg": 25009,
-      "shares_stdev": 17886
+      "dates_start": 1370712251,
+      "dates_end": 1424141345,
+      "likes_avg": 65920,
+      "likes_stdev": 41221,
+      "comments_avg": 612,
+      "comments_stdev": 471,
+      "shares_avg": 23393,
+      "shares_stdev": 17417
     }
   ]
 }

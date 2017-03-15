@@ -69,8 +69,13 @@ def process_message(message):
         if not (s.startswith('http') or s.startswith('www')):
             no_www.append(s)
 
-    no_numbers = []
+    no_timeline = []
     for w in no_www:
+        if not ('timelin' in w or 'photo' in w):
+            no_timeline.append(w)
+
+    no_numbers = []
+    for w in no_timeline:
         if w.isalpha():
             no_numbers.append(w)
 

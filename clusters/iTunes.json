@@ -4,28 +4,113 @@
   "globalstats": {
     "fan_count": 30997298,
     "messages": 2203,
-    "likes_avg": 799,
-    "likes_stdev": 3485,
-    "comments_avg": 45,
-    "comments_stdev": 309,
-    "shares_avg": 577,
-    "shares_stdev": 6720,
+    "likes_avg": 759,
+    "likes_stdev": 3011,
+    "comments_avg": 44,
+    "comments_stdev": 291,
+    "shares_avg": 393,
+    "shares_stdev": 6216,
     "graph_uri": "clusters/iTunes.png"
   },
   "clusters": [
     {
       "number": 1,
       "important": [
+        "custom",
+        "see",
+        "preview",
+        "featur",
+        "custom review",
+        "sound",
+        "preview download",
+        "read",
+        "download",
+        "sweet"
+      ],
+      "common": [
+        "itunes",
+        "itunes see",
+        "ratings read",
+        "ratings read customer",
+        "ratings read customer reviews",
+        "read",
+        "read customer",
+        "read customer reviews",
+        "see ratings",
+        "see ratings read"
+      ],
+      "messages": [
+        [
+          "A Fool To Care features Lucinda Williams, Bonnie Raitt and that sweet Boz Scaggs sound. A Fool To Care by Boz Scaggs Preview and download A Fool To Care on iTunes. See ratings and read customer reviews.",
+          1428085805
+        ],
+        [
+          "New Rihanna. \nSo turnt right now. \n#BBHMM\nfacebook.itunes.com/BBHMM B**** Better Have My Money - Single by Rihanna Preview and download Bitch Better Have My Money - Single on iTunes. See ratings and read customer reviews.",
+          1427396409
+        ],
+        [
+          "It\u2019s his debut full length but only the beginning. \nChaos And The Calm from James Bay. Chaos And The Calm by James Bay Preview and download Chaos And The Calm on iTunes. See ratings and read customer reviews.",
+          1427155198
+        ],
+        [
+          "Thank you K. Dot. \nNew Kendrick Lamar album is here!\n#TPABoniTunes facebook.itunes.com/KendrickTPAB To Pimp a Butterfly by Kendrick Lamar Preview and download To Pimp a Butterfly on iTunes. See ratings and read customer reviews.",
+          1426476450
+        ],
+        [
+          "Shout to the homies Rixton!\n#LetTheRoad is here. \nhttp://facebook.itunes.com/6189FJYR Let the Road by Rixton Preview and download Let the Road on iTunes. See ratings and read customer reviews.",
+          1425409504
+        ],
+        [
+          "OMG. It\u2019s here! \n#Reflection. \nFifth Harmony. Reflection (Deluxe) by Fifth Harmony Preview and download Reflection (Deluxe) on iTunes. See ratings and read customer reviews.",
+          1422936603
+        ],
+        [
+          "Hip-hop with a message to start your Sunday.\nEmpire from Derek Minor. Empire by Derek Minor Preview and download Empire on iTunes. See ratings and read customer reviews.",
+          1422802807
+        ],
+        [
+          "Just beautiful. \nSia\u2019s \u201cSalted Wound\u201d is now available from the Fifty Shades soundtrack. Fifty Shades of Grey (Original Motion Picture Soundtrack) by Various Artists Preview and download Fifty Shades of Grey (Original Motion Picture Soundtrack) on iTunes. See ratings and read customer reviews.",
+          1422493503
+        ],
+        [
+          "\"Woke up an optimist. Sun was shining, I'm positive.\" \n#FourFiveSeconds\nRihanna. Kanye West. Paul McCartney. FourFiveSeconds - Single by Rihanna and Kanye West and Paul McCartney Preview and download FourFiveSeconds - Single on iTunes. See ratings and read customer reviews.",
+          1422375716
+        ],
+        [
+          "The weekend just got better.\nRihanna. Kanye. Paul. \n#FourFiveSeconds FourFiveSeconds - Single by Rihanna, Kanye West & Paul McCartney Preview and download FourFiveSeconds - Single on iTunes. See ratings and read customer reviews.",
+          1422146189
+        ],
+        [
+          "New KIDZ BOP with \u201cShake It Off,\u201d \u201cFancy\u201d and more! Kidz Bop 27 by KIDZ BOP Kids Preview and download Kidz Bop 27 on iTunes. See ratings and read customer reviews.",
+          1421778333
+        ],
+        [
+          "\u201cGhost\u201d is already a smash. Check out the rest of Chapter One, Ella Henderson\u2019s wonderful debut. Chapter One (Deluxe) by Ella Henderson Preview and download Chapter One (Deluxe) on iTunes. See ratings and read customer reviews.",
+          1421539206
+        ]
+      ],
+      "dates_start": 1421842099,
+      "dates_end": 1426590521,
+      "likes_avg": 211,
+      "likes_stdev": 321,
+      "comments_avg": 9,
+      "comments_stdev": 8,
+      "shares_avg": 30,
+      "shares_stdev": 56
+    },
+    {
+      "number": 2,
+      "important": [
+        "batman",
         "favorit",
-        "batman movi",
-        "movi",
         "lego batman",
-        "timelin photo",
-        "photo",
+        "movi",
+        "batman movi",
+        "action",
         "lego",
+        "alway",
         "ask",
-        "timelin",
-        "batman"
+        "iphon"
       ],
       "common": [
         "batman",
@@ -63,10 +148,6 @@
         [
           "Tune in tomorrow!\nWe're hosting LEGO Batman at 12pm PT!\nThe LEGO Batman Movie Timeline Photos",
           1486593937
-        ],
-        [
-          "Introducing a secret ninja force\u2014made of bricks!\n#LEGONINJAGOMovie The Lego Ninjago Movie",
-          1486561555
         ],
         [
           "The LEGO Batman Movie introduces the wildest villains--including the one and only Condiment King! The LEGO Batman Movie",
@@ -109,28 +190,28 @@
           1468856224
         ]
       ],
-      "dates_start": 1473367826,
-      "dates_end": 1487590491,
-      "likes_avg": 609,
-      "likes_stdev": 1225,
-      "comments_avg": 62,
-      "comments_stdev": 104,
-      "shares_avg": 438,
-      "shares_stdev": 822
+      "dates_start": 1472938352,
+      "dates_end": 1487259666,
+      "likes_avg": 640,
+      "likes_stdev": 1257,
+      "comments_avg": 64,
+      "comments_stdev": 107,
+      "shares_avg": 464,
+      "shares_stdev": 841
     },
     {
-      "number": 2,
+      "number": 3,
       "important": [
-        "befor",
-        "get",
-        "premier",
-        "seri premier",
-        "get free",
         "free",
-        "seri",
-        "free seri",
+        "premier",
+        "get",
         "stori",
-        "action"
+        "seri",
+        "befor",
+        "free seri",
+        "get free",
+        "action",
+        "seri premier"
       ],
       "common": [
         "com",
@@ -190,10 +271,6 @@
           1452281405
         ],
         [
-          "Check out BuzzFeed's hilarious new series: #YouDoYou.\nAll episodes available now. BuzzFeed Video BuzzFeed Violet http://facebook.itunes.com/6189BRHa3 Timeline Photos",
-          1447876809
-        ],
-        [
           "Supergirl is here!\nDon't miss the free Series Premiere. \nhttp://facebook.itunes.com/6188BOv8a Timeline Photos",
           1445968816
         ],
@@ -210,16 +287,8 @@
           1437148813
         ],
         [
-          "All episodes of #SonicHighways available now.\nCheck out the free premiere and get the full series.\nhttp://facebook.itunes.com/61834O3S",
-          1428501635
-        ],
-        [
           "\"We're doing what we have to to find my son.\u201d \nSee the free series premiere of The Missing.\nhttp://facebook.itunes.com/6188xO1p Missing - New Series on Starz",
           1421276495
-        ],
-        [
-          "\"Omar comin\u2019.\" The Complete Series of The Wire  in HD is here.\nhttp://facebook.itunes.com/6189abq9 Timeline Photos",
-          1420563605
         ],
         [
           "One life derailed, multiple lives intertwined. Orphan Black is an acclaimed drama about one-of-a-kind clones. Watch the series premiere free.",
@@ -230,282 +299,157 @@
           1383318000
         ]
       ],
-      "dates_start": 1421642565,
-      "dates_end": 1477212796,
-      "likes_avg": 446,
-      "likes_stdev": 1574,
-      "comments_avg": 18,
-      "comments_stdev": 53,
-      "shares_avg": 76,
-      "shares_stdev": 153
-    },
-    {
-      "number": 3,
-      "important": [
-        "georg",
-        "edit",
-        "count",
-        "photo",
-        "timelin photo",
-        "vote",
-        "read",
-        "timelin",
-        "begin",
-        "action"
-      ],
-      "common": [
-        "com",
-        "facebook",
-        "facebook itunes",
-        "facebook itunes com",
-        "http",
-        "itunes",
-        "itunes com",
-        "photos",
-        "timeline",
-        "timeline photos"
-      ],
-      "messages": [
-        [
-          "How an act of kindness became a viral phenomenon. Batkid Begins out now. http://facebook.itunes.com/6184BzrBu Timeline Photos",
-          1443621617
-        ],
-        [
-          "\u201cI have faith that the justice system will exonerate me.\u201d\n\u2014 Will Ferrell in #GetHard. http://facebook.itunes.com/6183B6dZU. Timeline Photos",
-          1434148710
-        ],
-        [
-          "\"There is no spoon\" #alwaystaketheredpill  #TheMatrix \nhttp://tw.apple.com/thematrixtrilogy Timeline Photos",
-          1433016306
-        ],
-        [
-          "Luke Bryan on repeat. \n#KickTheDustUp \ud83c\udfa4\ud83c\udfb8\ud83c\udfb6\nhttp://facebook.itunes.com/6182Ckus Timeline Photos",
-          1432141119
-        ],
-        [
-          "#MayThe4th be with you. http://facebook.itunes.com/6182AdRy Timeline Photos",
-          1430737207
-        ],
-        [
-          "Electronic lovers, if you haven\u2019t heard George FitzGerald yet, you should. \nSo smooth. #FadingLove: http://facebook.itunes.com/6186AKS4 Timeline Photos",
-          1430336412
-        ],
-        [
-          "Our vote for #dinnerandamovie. #sleeplessinseattle\nhttp://facebook.itunes.com/6183FCjX Timeline Photos",
-          1426356002
-        ],
-        [
-          "\u201cNow I am a warrior.\u201d\nKelly Clarkson.  \n#PieceByPiece \nhttp://facebook.itunes.com/6186FK5I Timeline Photos",
-          1425418204
-        ],
-        [
-          "#IWantYouToKnow\nZedd + Selena Gomez = \ud83d\ude0d\ud83c\udf89\nfacebook.itunes.com/IWantYouToKnow Timeline Photos",
-          1424829606
-        ],
-        [
-          "If You're Reading This It's Too Late.\nDrake.\nhttp://facebook.itunes.com/6185LtFV Timeline Photos",
-          1423800988
-        ],
-        [
-          "\u00c1lbumes de \u00e9xito de Camila, Luis Coronel y m\u00e1s!\nhttp://facebook.itunes.com/6185xryZ Timeline Photos",
-          1421349963
-        ],
-        [
-          "Smashing Pumpkins balance intimacy and intensity on Monuments to an Elegy.\nhttp://facebook.itunes.com/6188Qg56 Timeline Photos",
-          1418251386
-        ],
-        [
-          "Pink Floyd drifts off into the sunset. The Endless River.\nhttp://facebook.itunes.com/6181SnIJ Timeline Photos",
-          1415120704
-        ],
-        [
-          "\u201cA noble quest is at hand\u201d\u2026to unearth the Extended Edition of The Hobbit: The Desolation of Smaug. \nhttp://facebook.itunes.com/6184Susj Timeline Photos",
-          1414987025
-        ],
-        [
-          "Strap in. @kasabianofficial itunes.com/kasabian\nhttp://instagram.com/p/skaxANl1nL/ Timeline Photos",
-          1409935981
-        ],
-        [
-          "Poetry and passion since 1991.\nCounting Crows. Somewhere Under Wonderland.\nhttp://facebook.itunes.com/6181WUoZ Timeline Photos",
-          1409632201
-        ],
-        [
-          "\"Amandla!\" NPR Radio Diaries remembers Nelson Mandela. Archbishop Desmond Tutu hosts. http://facebook.itunes.com/mwB Timeline Photos",
-          1386522009
-        ],
-        [
-          "Guitarist, singer, songwriter, dancer, and surfer\u2014meet 16-year-old prodigy Cody Simpson. http://facebook.itunes.com/0WY Timeline Photos",
-          1374328949
-        ],
-        [
-          "Remember this?  #DecadeofiTunes \n\nhttp://facebook.itunes.com/KCt Timeline Photos",
-          1366985039
-        ],
-        [
-          "\"Comfortably Numb.\" Eddie and Roger, 12-12-12. http://facebook.itunes.com/NrJ Timeline Photos",
-          1356024601
-        ],
-        [
-          "When did you discover the drama and emotion of Beethoven? http://facebook.itunes.com/vYJ Timeline Photos",
-          1340927180
-        ]
-      ],
-      "dates_start": 1382718235,
-      "dates_end": 1438088546,
-      "likes_avg": 626,
-      "likes_stdev": 1574,
-      "comments_avg": 51,
-      "comments_stdev": 183,
-      "shares_avg": 53,
-      "shares_stdev": 138
+      "dates_start": 1423612916,
+      "dates_end": 1480947000,
+      "likes_avg": 503,
+      "likes_stdev": 1694,
+      "comments_avg": 19,
+      "comments_stdev": 56,
+      "shares_avg": 65,
+      "shares_stdev": 144
     },
     {
       "number": 4,
       "important": [
-        "essentialalbum",
-        "help",
-        "timelin photo",
-        "record",
-        "essentialalbum timelin",
-        "photo",
-        "dream",
-        "timelin",
         "studio",
-        "action"
+        "master",
+        "preorder",
+        "album",
+        "master itun",
+        "grab",
+        "action",
+        "live",
+        "itun",
+        "song"
       ],
       "common": [
         "com",
+        "facebook",
+        "facebook itunes com",
         "http",
         "http facebook",
         "http facebook itunes",
         "http facebook itunes com",
         "itunes",
         "itunes com",
-        "photos",
-        "timeline",
-        "timeline photos"
+        "mastered"
       ],
       "messages": [
         [
-          "Neil Young recorded the bulk of After the Gold Rush in his Topanga studio with the help of Nils Lofgren on keys. #EssentialAlbums http://facebook.itunes.com/A5n Timeline Photos",
-          1377925201
+          "Studio & live Muse albums are now Mastered for iTunes.\nGrab 3 songs when you pre-order #Drones.\nhttp://facebook.itunes.com/6182CmrE Timeline Photos",
+          1432324146
         ],
         [
-          "\"Living in the limelight, the universal dream.\" RUSH's Moving Pictures is quintessential classic rock. #EssentialAlbums http://facebook.itunes.com/5GQ Timeline Photos",
-          1377900639
+          "Give it up for Slowhand, Eric Clapton. \n461 Ocean Boulevard, No Reason to Cry & more are now mastered for iTunes.\nhttp://facebook.itunes.com/6189C6fZ Timeline Photos",
+          1431804127
         ],
         [
-          "\"Born sinner, the opposite of a winner/ Remember when I used to eat sardines for dinner.\" - \"Juicy\" by Notorious B.I.G. from Ready to Die #EssentialAlbums http://facebook.itunes.com/qu9 Timeline Photos",
-          1377828001
+          "A Love Supreme. \nBlue Train. \nGiant Steps.\nColtrane. Mastered for iTunes. \nhttp://facebook.itunes.com/61870E2l Timeline Photos",
+          1424209084
         ],
         [
-          "After mourning the death of Bon Scott, AC/DC returned with new vocalist Brian Johnson. Back in Black\u2014one of the highest-selling records in history. #EssentialAlbums http://facebook.itunes.com/Py0 Timeline Photos",
-          1377741601
+          "The one and only, Stevie Ray Vaughan is now Mastered for iTunes. #SRV\nhttp://facebook.itunes.com/6186IoJr Timeline Photos",
+          1422646502
         ],
         [
-          "Revolver captured  The Beatles\u2019 curiosity and creativity in full bloom, embedded with psychedelic touches and complex lyrics. #EssentialAlbums  http://facebook.itunes.com/fCH Timeline Photos",
-          1377626401
+          "\"I don't know what happens to me on stage. Something else seems to take over.\"\n\nMaria Callas is Mastered for iTunes.\nhttp://facebook.itunes.com/6180WlCo Timeline Photos",
+          1409418006
         ],
         [
-          "Queens of the Stone Age took alt-rock to the desert and beat it senseless\u2014one riff at a time\u2014on Songs for the Deaf. #EssentialAlbums \r\nhttp://facebook.itunes.com/uFB Timeline Photos",
-          1377547200
+          "For 60 years, Newport Jazz Festival has hosted legendary performances by Duke Ellington, Dave Brubeck, and many more. Exclusive live albums are now Mastered for iTunes and have never sounded better. #TBT http://facebook.itunes.com/6184m3dp Newport Jazz Festival #TBT",
+          1406859030
         ],
         [
-          "Some only get one chance to stun the world. Michael Jackson did it twice with Bad. #EssentialAlbums \n http://facebook.itunes.com/6kQ Timeline Photos",
-          1377442800
+          "38 years and still free fallin'.\nTom Petty and the Heartbreakers is Mastered for iTunes. #tbt http://facebook.itunes.com/6186Yxik Timeline Photos",
+          1404990009
         ],
         [
-          "Mary J. Blige poured her pain into the brilliant My Life. #EssentialAlbums  http://facebook.itunes.com/gGN Timeline Photos",
-          1377266401
+          "\"You wanted the best and you got the best, the hottest band in the world...\" \n\nKISS is Mastered for iTunes.  http://facebook.itunes.com/6181cXSD Timeline Photos",
+          1402005595
         ],
         [
-          "Pearl Jam set a rock revolution in motion with Ten. #EssentialAlbums  http://facebook.itunes.com/LYH Timeline Photos",
-          1377097336
+          "Space is still the place. Sun Ra is Mastered for iTunes. \nhttp://facebook.itunes.com/6181iFyU Timeline Photos",
+          1400788804
         ],
         [
-          "The genesis of southern rock begins with Lynyrd Skynyrd \"Pronounced Leh-Nerd Skin-Nerd.\" #EssentialAlbums http://facebook.itunes.com/uOL Timeline Photos",
-          1377050401
+          "\"Hello, I'm Johnny Cash.\"\n\nThe newly unearthed Out Among the Stars is among the Cash treasures now Mastered for iTunes. http://facebook.itunes.com/6182gNM8 Timeline Photos",
+          1396191626
         ],
         [
-          "Marvin Gaye\u2019s 1971 album What\u2019s Going On still inspires today. #EssentialAlbums \nhttp://facebook.itunes.com/bNo Timeline Photos",
-          1376921401
+          "\u201cI\u2019m always thinking about creating. My future starts when I wake up in the morning and see the light.\u201d Miles Davis is Mastered for iTunes. http://facebook.itunes.com/6184gmcQ Timeline Photos",
+          1395586803
         ],
         [
-          "Miles Davis on John Coltrane: \"Trane was the loudest, fastest saxophonist I've ever heard\u2026 It was like he was possessed when he put that horn in his mouth.\" \n\nGiant Steps is one of our #EssentialAlbums.\nhttp://facebook.itunes.com/d0A Timeline Photos",
-          1376837401
+          "Invigorate your experience of Vivaldi, Chopin, and Tchaikovsky. Modern artists and orchestras pay homage to the world's best composers in Classical Essentials, now Mastered for iTunes. http://facebook.itunes.com/6181g1Y3 Classical Essentials",
+          1394305219
         ],
         [
-          "Hotel California was the Eagles' potent criticism of the American dream drenched in sepia-toned Laurel Canyon rock. #EssentialAlbums \r\n\r\nhttp://facebook.itunes.com/YcK Timeline Photos",
-          1376661000
+          "\"I am human and I need to be loved. Just like everybody else does.\" The Smiths are Mastered for iTunes. http://facebook.itunes.com/61815VdB Timeline Photos",
+          1392425106
         ],
         [
-          "Cool Fact: Andy Warhol financed the recording of The Velvet Underground & Nico with $2,500. #EssentialAlbums\nhttp://facebook.itunes.com/Qlk Timeline Photos",
-          1376575201
+          "\u201cSAB-BATH! SAB-BATH!\u201d \r\n\r\nBlack Sabbath\u2019s classic albums are now Mastered for iTunes. #tbt  http://facebook.itunes.com/XRP Timeline Photos",
+          1389888000
         ],
         [
-          "George Harrison\u2019s All Things Must Pass added to his already stellar legacy. #EssentialAlbums http://facebook.itunes.com/UGc Timeline Photos",
-          1376314161
+          "\u201cThe only band that matters.\u201d The Clash\u2019s essential studio albums, live sets, rarities, demos, and more\u2014all Mastered for iTunes. \r\nhttp://facebook.itunes.com/s4r Timeline Photos",
+          1378810801
         ],
         [
-          "Massive Attack invited Liz Fraser of the Cocteau Twins to perform \"Teardrop\" on Mezzanine. #EssentialAlbums http://facebook.itunes.com/yKR Timeline Photos",
-          1376229601
+          "\"Ambition is a dream with a V8 engine.\" Elvis Presley is now Mastered for iTunes. http://facebook.itunes.com/xKm Elvis Presley",
+          1376651110
         ],
         [
-          "\u201cBaba O\u2019Riley,\u201d \u201cBehind Blue Eyes,\u201d \u201cBargain,\u201d \u201cWon\u2019t Get Fooled Again\u201d\u2014 The Who released this awesome monument to rock in 1971. #EssentialAlbums http://facebook.itunes.com/30W Timeline Photos",
-          1376140944
+          "What a long strange trip it\u2019s been. Grateful Dead studio albums, live sets, rarities, and complete collections all now Mastered for iTunes. http://facebook.itunes.com/stH Timeline Photos",
+          1375277768
         ],
         [
-          "\u201cSometimes, you're completely head-over-heels in love with someone, and sometimes you can't stand that person.\u201d \u2014 Alicia Keys, on \"Fallin'\" from Songs in A Minor. #EssentialAlbums http://facebook.itunes.com/Lio Timeline Photos",
-          1376053671
+          "Undisputed King of Pop. Michael Jackson is Mastered for iTunes. http://facebook.itunes.com/dJt Michael Jackson",
+          1372705951
         ],
         [
-          "Exile on Main St. is the Rosetta Stone of the Rolling Stones catalog, setting an impossibly high bar for all rock records to follow. #EssentialAlbums http://facebook.itunes.com/2PW Timeline Photos",
-          1375963672
+          "Don\u2019t stop \u2018til you get enough. Michael Jackson is now Mastered for iTunes. http://facebook.itunes.com/Uib Timeline Photos",
+          1372368317
         ],
         [
-          "Composed of samples so deep and dense, Paul\u2019s Boutique turned the party-hearty Beastie Boys into rulebook-shredding rap iconoclasts. #EssentialAlbums http://facebook.itunes.com/cO1 Timeline Photos",
-          1375899835
+          "Don\u2019t mess with Texas. ZZ Top is now Mastered for iTunes. \r\nhttp://facebook.itunes.com/Sz0 Timeline Photos",
+          1371405600
         ],
         [
-          "Kind of Blue is the most popular jazz album of all time. It's also the most important, influential, and revolutionary one. #EssentialAlbums http://facebook.itunes.com/J4q Timeline Photos",
-          1375794000
+          "AC/DC's entire catalog has been Mastered for iTunes and is now available. Every power riff, every primal scream, every dirty deed.  http://facebook.itunes.com/8Wm Timeline Photos",
+          1353332186
         ],
         [
-          "How many ways do we love the Ramones\u2019 Rocket to Russia? 1-2-3-4! #EssentialAlbums \nhttp://facebook.itunes.com/Zx8 Timeline Photos",
-          1375711200
+          "What do Lana Del Rey, Madonna, Metallica, Coldplay, Yo-Yo Ma, and Trent Reznor have in common? They\u2019re all Mastered for iTunes. Check out albums engineered for higher fidelity sound the way the artists intended. http://facebook.itunes.com/MJI Timeline Photos",
+          1329962861
         ],
         [
-          "Innervisions turns 40 today. Put on \u201cLiving for the City\u201d and \u201cHigher Ground\u201d and let Stevie\u2019s wisdom wash over like a summer rain. #EssentialAlbums http://facebook.itunes.com/Lk8 Timeline Photos",
-          1375534801
-        ],
-        [
-          "Where were you when you first heard Nevermind? #EssentialAlbums http://facebook.itunes.com/F0V Timeline Photos",
-          1375366698
+          "Influential composer Phillip Glass turns 75 today. He celebrates with a premiere of Symphony No. 9 with the American Composers Orchestra tonight at Carnegie Hall. Mastered for iTunes, Symphony No. 9 is available exclusively now. http://facebook.itunes.com/AgD Timeline Photos",
+          1328025547
         ]
       ],
-      "dates_start": 1375927418,
-      "dates_end": 1377525044,
-      "likes_avg": 1189,
-      "likes_stdev": 1357,
-      "comments_avg": 95,
-      "comments_stdev": 164,
-      "shares_avg": 3166,
-      "shares_stdev": 6632
+      "dates_start": 1362242783,
+      "dates_end": 1417060016,
+      "likes_avg": 1483,
+      "likes_stdev": 4505,
+      "comments_avg": 90,
+      "comments_stdev": 326,
+      "shares_avg": 823,
+      "shares_stdev": 2043
     },
     {
       "number": 5,
       "important": [
-        "meet",
+        "brought",
+        "fire",
         "say",
-        "rogu",
-        "one",
-        "today",
-        "cc",
-        "war",
+        "action",
         "need",
-        "star war",
-        "action"
+        "drama",
+        "meet",
+        "bestofitun",
+        "american",
+        "war"
       ],
       "common": [
         "com",
@@ -525,8 +469,8 @@
           1487163662
         ],
         [
-          "Jyn rallies the Rebels in #RogueOne.\nPre-Order today.\ncc Star Wars\napple.co/RogueOne Rogue One",
-          1483036619
+          "This Cold War drama brought the heat this year, firing on all creative cylinders.\ncc The Americans\n#BestOfiTunes\niTunes.com/BestTV2016 Timeline Photos",
+          1482244204
         ],
         [
           "War, presented by Christopher Nolan.\n#DUNKIRK\ncc Dunkirk Harry Styles Dunkirk",
@@ -541,10 +485,6 @@
           1481299478
         ],
         [
-          "Rebellions are built on hope.\n#RogueOne: A Star Wars Story Rogue One: A Star Wars Story",
-          1476371643
-        ],
-        [
           "Choose your side. Choose your screen.\nCaptain America Civil War out now.\nitunes.com/captainamerica Captain America: Civil War",
           1472835600
         ],
@@ -555,10 +495,6 @@
         [
           "#TeamCap v. #TeamIronMan\nWhose side are you on?\nPre-order Captain America Civil War\nitunes.com/captainamerica Civil War",
           1472421709
-        ],
-        [
-          "Needless to say, the hype is real.\nRogue One: A Star Wars Story Rogue One - Celebration Reel",
-          1468599281
         ],
         [
           "The fate of the galaxy depends on #RogueOne.\nNew Star Wars Movies trailer below.\nhttp://facebook.itunes.com/6186BcXXq Rogue One",
@@ -613,44 +549,48 @@
           1428367588
         ],
         [
+          "The Rebel Alliance is on the run. Star Wars Vol. 1: In the Shadow of Yavin is our free Book of the Week.\nhttp://facebook.itunes.com/6185lvjP Timeline Photos",
+          1406116816
+        ],
+        [
           "Star Wars, Buffy, and Mass Effect jump off the screen in these books from Dark Horse Comics. http://facebook.itunes.com/BeL Dark Horse Comics: Just Added",
           1372257846
         ]
       ],
-      "dates_start": 1431406079,
-      "dates_end": 1481923848,
-      "likes_avg": 183,
-      "likes_stdev": 171,
-      "comments_avg": 16,
-      "comments_stdev": 18,
-      "shares_avg": 67,
-      "shares_stdev": 107
+      "dates_start": 1425873276,
+      "dates_end": 1480240864,
+      "likes_avg": 164,
+      "likes_stdev": 132,
+      "comments_avg": 15,
+      "comments_stdev": 16,
+      "shares_avg": 52,
+      "shares_stdev": 66
     },
     {
       "number": 6,
       "important": [
-        "us",
-        "holiday",
-        "singl week",
-        "week timelin",
-        "singl",
-        "week",
-        "singl week timelin",
         "free",
+        "us",
+        "countri",
+        "holiday",
+        "christma",
+        "action",
         "make",
-        "countri"
+        "singl week",
+        "singl",
+        "week"
       ],
       "common": [
         "com",
         "facebook",
-        "facebook itunes",
         "http",
         "http facebook",
         "http facebook itunes",
-        "http facebook itunes com",
         "itunes",
         "itunes com",
-        "single week"
+        "single",
+        "single week",
+        "week"
       ],
       "messages": [
         [
@@ -748,42 +688,46 @@
         [
           "http://facebook.itunes.com/Kno \r\nMeet Cimorelli, six sisters riding a wave of popularity for their beautiful vocals. \u201cMade in America\u201d is our free Single of the Week. Timeline Photos",
           1371686401
+        ],
+        [
+          "ADELE's \"Hometown Glory\" is featured as the Single of the Week on Februrary 12, 2008, before her debut, 19, is released. #DecadeofiTunes \r\n\r\nhttp://facebook.itunes.com/KCt Timeline Photos",
+          1367071201
         ]
       ],
-      "dates_start": 1376019429,
-      "dates_end": 1408076123,
-      "likes_avg": 285,
-      "likes_stdev": 394,
+      "dates_start": 1374599195,
+      "dates_end": 1407498231,
+      "likes_avg": 321,
+      "likes_stdev": 425,
       "comments_avg": 15,
-      "comments_stdev": 26,
+      "comments_stdev": 25,
       "shares_avg": 32,
-      "shares_stdev": 37
+      "shares_stdev": 36
     },
     {
       "number": 7,
       "important": [
         "check exclus",
-        "game",
-        "check",
-        "season",
-        "exclus",
         "past",
-        "game throne",
         "ibook",
+        "catch",
+        "game",
         "action",
-        "catch"
+        "game throne",
+        "exclus",
+        "season",
+        "check"
       ],
       "common": [
         "com",
-        "facebook",
-        "facebook itunes",
-        "facebook itunes com",
         "game",
+        "game thrones",
         "http",
+        "http facebook",
         "http facebook itunes",
         "http facebook itunes com",
         "itunes",
-        "itunes com"
+        "itunes com",
+        "thrones"
       ],
       "messages": [
         [
@@ -807,12 +751,12 @@
           1451595608
         ],
         [
-          "Melissa McCarthy gets off her desk and into the game in #SpyMovie. Now on iTunes.  http://facebook.itunes.com/6186By59Y",
-          1441376285
-        ],
-        [
           "Prepare for quite a ride. \nGame of Thrones Season 5 now available with exclusive bonus content.\nhttp://facebook.itunes.com/6187ByXWb",
           1441290636
+        ],
+        [
+          "The Game of Thrones Season Finale is tonight! \nWe chat with Nikolaj Coster-Waldau (@nikolajcw) on Twitter right before, at 5pm PT/8pm ET. \n\nHave a question? Go to twitter.com/iTunesTV and join the conversation: #AskGOT",
+          1434310237
         ],
         [
           "Last weekend\u2019s episode of Game of Thrones was epic. Any predictions for tonight's episode? #HBONOW: http://facebook.itunes.com/6187h7gT 11334905_10152995479462734_502.mov",
@@ -825,10 +769,6 @@
         [
           "It's the mother of all season premieres! \nGame of Thrones, VEEP, and Silicon Valley all in one night.\nWatch on your Apple TV, iPhone, or iPad tonight! #HBONOW #GOT tw.itunes.com/hbonow",
           1428850828
-        ],
-        [
-          "Mad respect Fast & Furious!\nGet the soundtrack, game, and pre-order the movie on iTunes. #Furious7\ntw.itunes.com/ff7",
-          1428081518
         ],
         [
           "#CatchTheThrone Vol. 2\nMastodon, Method Man, Snoop & more. (And it's FREE.)\nCC: Game of Thrones\nhttp://facebook.itunes.com/6180Fhna Timeline Photos",
@@ -863,10 +803,6 @@
           1378483204
         ],
         [
-          "Game on. Kelly Rowland goes back to her R&B roots for her new album, Talk a Good Game.  \nhttp://facebook.itunes.com/Uqy Timeline Photos",
-          1371747098
-        ],
-        [
           "Rap game conquered, A$AP Rocky has also changed the fashion game, telling the New York Times \u201cIt\u2019s almost like school, I\u2019m an honor-roll student and they\u2019re dropouts.\u201d http://facebook.itunes.com/fZy Timeline Photos",
           1358265603
         ],
@@ -899,37 +835,359 @@
           1332518166
         ]
       ],
-      "dates_start": 1357937578,
-      "dates_end": 1451592585,
-      "likes_avg": 2223,
-      "likes_stdev": 7686,
-      "comments_avg": 296,
-      "comments_stdev": 1301,
-      "shares_avg": 6043,
-      "shares_stdev": 29017
+      "dates_start": 1357110156,
+      "dates_end": 1452622738,
+      "likes_avg": 2108,
+      "likes_stdev": 7947,
+      "comments_avg": 312,
+      "comments_stdev": 1348,
+      "shares_avg": 6444,
+      "shares_stdev": 30074
     },
     {
       "number": 8,
       "important": [
-        "award",
-        "year",
-        "great",
-        "check",
-        "thank",
-        "itu",
-        "post",
-        "show",
-        "oscar",
-        "action"
+        "itun gift",
+        "us",
+        "get",
+        "movi",
+        "holiday",
+        "gift",
+        "let",
+        "action",
+        "itun",
+        "season"
       ],
       "common": [
-        "awards",
+        "com",
+        "facebook",
+        "facebook itunes",
+        "facebook itunes com",
+        "http",
+        "itunes",
+        "itunes com",
+        "photos",
+        "timeline",
+        "timeline photos"
+      ],
+      "messages": [
+        [
+          "Did you receive an iTunes gift card this holiday season?\nGet the Essential 10-Film Bundle -- 10 movies for $9.99 (US).\nhttp://apple.co/2hv7Kf3 Timeline Photos",
+          1482889801
+        ],
+        [
+          "Let mom get what she wants this #MothersDay.\nSend iTunes Gifts.\nhttp://facebook.itunes.com/618478Is Timeline Photos",
+          1431091808
+        ],
+        [
+          "User Tip: It\u2019s easy to redeem an iTunes Gift Card with your iOS device. Like super easy. http://facebook.itunes.com/6188adzu Timeline Photos",
+          1420518215
+        ],
+        [
+          "And\u2026done! Cross off your last-minute shopping lists with #iTunes Gifts.\nfacebook.itunes.com/ofbgl4 Timeline Photos",
+          1419390001
+        ],
+        [
+          "Holiday shopping.\nSimplified. \nSend now.\n#iTunes Gifts\nfacebook.itunes.com/ofbgl3",
+          1419177616
+        ],
+        [
+          "How to #iTunes Gifts:\nChoose an amount.\nSchedule a day.\nPick a design.\nSend now.\nfacebook.itunes.com/ofbgl2",
+          1419092790
+        ],
+        [
+          "Our pick for Easiest, Most Convenient Shopping Experience Ever: #iTunes Gifts\nfacebook.itunes.com/ofbgl",
+          1418950826
+        ],
+        [
+          "And...done! iTunes Gifts are easy to use and perfect for Mother's Day.",
+          1398692412
+        ],
+        [
+          "You\u2019re going to need more popcorn.\n\nGet a $25 iTunes Gift Card on us when you buy Apple TV. Perfect for watching Oscar\u00ae-winning movies and more from iTunes. http://facebook.itunes.com/61825INO\n\nExpires March 5. Terms apply. Timeline Photos",
+          1393678807
+        ],
+        [
+          "It's easy to say \"I Love You\" with iTunes Gifts.\nhttp://facebook.itunes.com/61815KGz Timeline Photos",
+          1392049084
+        ],
+        [
+          "User Tip: Featured Stations on #iTunesRadio\nhttp://tw.itunes.com/6184e7wG",
+          1391464817
+        ],
+        [
+          "Receive an iTunes Gift? You can redeem it on your iPhone, iPad, or iPod touch. Timeline Photos",
+          1388104938
+        ],
+        [
+          "It\u2019s not too late. iTunes Gifts. \nhttp://facebook.itunes.com/rD2",
+          1387825736
+        ],
+        [
+          "Spread joy. iTunes Gifts. #tistheseason\nhttp://facebook.itunes.com/rD2 Timeline Photos",
+          1385827201
+        ],
+        [
+          "www.itunesradio.com iTunes Radio User Tip: Music Discovery",
+          1385219043
+        ],
+        [
+          "iOS 7 User Tip: Now you can redeem an iTunes Gift Card by holding the code up to the camera on your iPhone, iPad, or iPod touch. No need to type anything. Timeline Photos",
+          1380671272
+        ],
+        [
+          "iTunes User Tip: Use the In the Store button in your iTunes Library to see the artist's catalog & related songs. http://facebook.itunes.com/FaA Timeline Photos",
+          1357773599
+        ],
+        [
+          "User Tip for the new iTunes: To add a song to a playlist, select any song and drag it to the right. Your list of playlists appears and you can drop the song onto any one.http://facebook.itunes.com/deP Timeline Photos",
+          1357490243
+        ],
+        [
+          "User Tip for the new iTunes: On the newly designed MiniPlayer, click the Up Next icon to see which songs are coming up. You can also queue up the songs you want to hear. Timeline Photos",
+          1355702095
+        ],
+        [
+          "User Tip for the new iTunes: \nSelect one of your albums and its songs will appear as a list below the cover art. Shuffle or play from there. \nhttp://facebook.itunes.com/s8C Timeline Photos",
+          1355072439
+        ],
+        [
+          "iTunes 10 User Tip: Use AirPlay to play music and video via your Wi-Fi network. http://facebook.itunes.com/sgP Timeline Photos",
+          1345138383
+        ],
+        [
+          "Podcasts App User Tip: Turn on Sleep Timer on the new Podcasts app to automatically control how you listen to a podcast in bed. http://facebook.itunes.com/p3q Timeline Photos",
+          1341079292
+        ],
+        [
+          "Podcasts App User Tip: Tap Subscribe on your iOS device to automatically receive new episodes as they become available. http://facebook.itunes.com/Fzb Timeline Photos",
+          1340932229
+        ],
+        [
+          "Podcasts App User Tip: The innovative Top Stations feature on the new Podcasts app allows you to find episodes by topic. http://facebook.itunes.com/n1u Timeline Photos",
+          1340830615
+        ],
+        [
+          "iTunes 10 User Tip: Access your Complete My Album and Complete My Season offers in one place. http://facebook.itunes.com/j0L Timeline Photos",
+          1339377548
+        ],
+        [
+          "iTunes 10 User Tip: Get rid of duplicate songs in your iTunes library. Use Display Duplicates plus the Time and Bit Rate columns to find and eliminate duplicate songs in your library. http://facebook.itunes.com/jED Timeline Photos",
+          1337771774
+        ],
+        [
+          "iTunes 10 User Tip: Automatically download your book, music, and app purchases to the devices you choose. http://facebook.itunes.com/yXK Timeline Photos",
+          1336585685
+        ],
+        [
+          "iTunes 10 User Tip: The iTunes Movie Trailers app lets you watch trailers whenever and wherever you want. Learn more @ http://facebook.itunes.com/Ahg Timeline Photos",
+          1333770995
+        ],
+        [
+          "iTunes 10 User Tip: Purchased movies are now available in iCloud for re-downloading to your devices as needed. Learn more @ http://facebook.itunes.com/brv Timeline Photos",
+          1333675268
+        ]
+      ],
+      "dates_start": 1342032870,
+      "dates_end": 1415887442,
+      "likes_avg": 1168,
+      "likes_stdev": 1209,
+      "comments_avg": 62,
+      "comments_stdev": 56,
+      "shares_avg": 73,
+      "shares_stdev": 81
+    },
+    {
+      "number": 9,
+      "important": [
+        "us",
+        "join",
+        "tonight",
+        "host",
+        "action",
+        "live",
+        "start",
+        "facebook",
+        "applesoho",
+        "et"
+      ],
+      "common": [
         "com",
         "facebook",
         "facebook itunes",
         "facebook itunes com",
         "http",
         "http facebook",
+        "http facebook itunes com",
+        "itunes",
+        "itunes com",
+        "voice"
+      ],
+      "messages": [
+        [
+          "Join us as we host Kevin Hart at #AppleSoHo!\nThe event starts tonight at 6:45pm ET, and afterward he'll be joining us #Live on our Facebook page.\nhttp://facebook.itunes.com/61898BEI3 Timeline Photos",
+          1476196862
+        ],
+        [
+          "U2 : iNNOCENCE + eXPERIENCE Live in Paris will debut tonight at 9pm ET.\nWatch it on HBO NOW. tw.itunes.com/HBONow Timeline Photos",
+          1449507613
+        ],
+        [
+          "All the candy to the person who spots The #GreatPumpkin tonight! \ud83c\udf83 #HappyHalloween http://facebook.itunes.com/6183BP3IZ Timeline Photos",
+          1446321610
+        ],
+        [
+          "The new #XMen #RogueCut is screening tonight at #SDCC.\nPre-order your copy on iTunes.\nhttp://facebook.itunes.com/6180B82Ig",
+          1436655666
+        ],
+        [
+          "Can\u2019t believe we\u2019re down to the #VoiceTop6 already! \ud83c\udf89\nGet ready for tonight\u2019s show with some of our favorite The Voice songs and performances! \nfacebook.itunes.com/TheVoice Photos from iTunes's post",
+          1430783700
+        ],
+        [
+          "Grab your favorite The Voice singles of the night & cast your vote! facebook.itunes.com/TheVoice #VoiceTop8 Timeline Photos",
+          1430180181
+        ],
+        [
+          "#Voice fans! \ud83c\udf89\nDon\u2019t forget to cast your votes for The Voice by grabbing your favorite singles of the night! #VoiceTop10 \nfacebook.itunes.com/TheVoice Timeline Photos",
+          1429574103
+        ],
+        [
+          "#VoiceTop12 is on The Voice tonight! \u2764\ufe0f\ud83d\udc4f\ud83d\udc40\nShow us your votes and get the songs here!\nfacebook.itunes.com/TheVoice \ud83c\udfa4 Timeline Photos",
+          1428963772
+        ],
+        [
+          "#VoicePlayoffs & a Maroon 5 performance?! We won\u2019t be missing tonight\u2019s The Voice. \ud83c\udfa4 \u2b50\ufe0f \nfacebook.itunes.com/TheVoice Photos from iTunes's post",
+          1428363536
+        ],
+        [
+          "Our vote for #dinnerandamovie. #sleeplessinseattle\nhttp://facebook.itunes.com/6183FCjX Timeline Photos",
+          1426356002
+        ],
+        [
+          "Inspiring Women's Voices. Podcasts for #WomensHistoryMonth\nhttp://facebook.itunes.com/6182FSR0 Timeline Photos",
+          1425985207
+        ],
+        [
+          "Things are heating up tonight on The Voice! \ud83d\udd25\ud83d\udd25\n#VoiceBlinds, #VoiceBattles AND guest advisors (sneak peek below)!\nfacebook.itunes.com/TheVoice Photos from iTunes's post",
+          1425942322
+        ],
+        [
+          "It's go-time! Live Rounds begin tonight on The Voice. Your downloads count as votes. http://facebook.itunes.com/61829qbQ Timeline Photos",
+          1398117902
+        ],
+        [
+          "http://tw.itunes.com/FBTheVoiceS6 The Voice You'll also be making this face tonight. #PlayoffsContinue at 8/7c!",
+          1397516929
+        ],
+        [
+          "Was there ever a doubt?  Tessanne Chin is the Season 5 winner of The Voice. #TeamAdam  http://facebook.itunes.com/Xmx. Timeline Photos",
+          1387371836
+        ],
+        [
+          "It\u2019s down to the final 10 and your downloads count as votes. Live rounds continue tonight on The Voice. \r\n\r\nhttp://facebook.itunes.com/Xmx. Timeline Photos",
+          1384819200
+        ],
+        [
+          "Former Voice winner Cassadee Pope takes vivid snapshots of her life on Frame by Frame. \r\nhttp://facebook.itunes.com/IB2 Timeline Photos",
+          1381874401
+        ],
+        [
+          "And the winner is...Danielle Bradbery from Team Blake! Look back at the night's highlights. http://facebook.itunes.com/vVu The Voice - Season 4 Finale",
+          1371614525
+        ],
+        [
+          "Ed Sheeran wrote \"The A Team\" when he was destitute. His duet with Elton John at the GRAMMY\u00aes shows just how far he\u2019s come. http://facebook.itunes.com/jL3 Timeline Photos",
+          1360553391
+        ],
+        [
+          "Team Adam http://facebook.itunes.com/QRm Battle Rounds on The Voice",
+          1350342067
+        ],
+        [
+          "Team Xtina http://facebook.itunes.com/QRm Battle Rounds on The Voice",
+          1350342067
+        ],
+        [
+          "The Voice teams will be set tonight as blind auditions conclude. See who makes Cee Lo cry! http://facebook.itunes.com/36v The Voice - Blind Auditions",
+          1349134018
+        ],
+        [
+          "Adam Levine\nhttp://facebook.itunes.com/36v The Voice - Blind Auditions",
+          1349134018
+        ],
+        [
+          "Coaches sit in rapt attention; The Voice will be named tonight. Who will it be\u2014Tony Lucca, Chris Mann, Jermaine Paul, or Juliet Simms? http://facebook.itunes.com/Ogq Timeline Photos",
+          1336518999
+        ],
+        [
+          "Juliet Simms of Team Cee Lo http://facebook.itunes.com/f50 The Voice",
+          1336436306
+        ],
+        [
+          "Now it\u2019s getting serious. It\u2019s down to the top eight on The Voice. Performances from tonight downloaded between 9:55 p.m. ET and tomorrow at 10 a.m. ET count as a vote. http://facebook.itunes.com/n2v Timeline Photos",
+          1335830750
+        ],
+        [
+          "Team Blake sang \u201cHeartache Tonight,\u201d a harbinger of eliminations to come. http://facebook.itunes.com/HCk The Voice",
+          1334682896
+        ],
+        [
+          "Team Christina got real-time motivation on \u201cFighter.\u201d http://facebook.itunes.com/HCk The Voice",
+          1334682896
+        ],
+        [
+          "Who saw Maroon 5 and Wiz Khalifa perform the new M5 song \"Payphone\" tonight on The Voice? http://facebook.itunes.com/ajm Timeline Photos",
+          1334630193
+        ],
+        [
+          "Team Adam and Team Cee Lo are up. Catch their performances on The Voice tonight and then vote by downloading your favorites on iTunes starting at 9:55 p.m. ET. http://facebook.itunes.com/uWv The Voice",
+          1334008901
+        ],
+        [
+          "Starting tonight at 9:55 p.m. ET, vote for your favorite contestants from The Voice by downloading their performances. http://facebook.itunes.com/Gya Timeline Photos",
+          1333404898
+        ],
+        [
+          "Cee Lo is a master motivator. http://facebook.itunes.com/7Ri The Voice",
+          1330996226
+        ],
+        [
+          "Team Adam Levine huddles up. http://facebook.itunes.com/7Ri The Voice",
+          1330996226
+        ]
+      ],
+      "dates_start": 1338930432,
+      "dates_end": 1428211338,
+      "likes_avg": 540,
+      "likes_stdev": 724,
+      "comments_avg": 35,
+      "comments_stdev": 35,
+      "shares_avg": 47,
+      "shares_stdev": 97
+    },
+    {
+      "number": 10,
+      "important": [
+        "post",
+        "itu",
+        "great",
+        "year",
+        "award",
+        "action",
+        "thank",
+        "show",
+        "check",
+        "oscar"
+      ],
+      "common": [
+        "awards",
+        "com",
+        "facebook itunes",
+        "facebook itunes com",
+        "http",
+        "http facebook",
+        "http facebook itunes",
         "http facebook itunes com",
         "itunes",
         "itunes com"
@@ -960,36 +1218,36 @@
           1424579945
         ],
         [
-          "Look back at some of the standout performances from the 57th Annual GRAMMY Awards. http://tw.itunes.com/GRAMMYs Timeline Photos",
-          1423505281
-        ],
-        [
           "That's a wrap! Here are highlights from the 72nd Annual Golden Globe\u00ae Awards. 72nd Annual Golden Globe\u00ae Awards",
           1421067639
+        ],
+        [
+          "Congratulations to the 2014 National Book Award winners: Phil Klay, Evan Osnos, Louise Gluck, and Jacqueline Woodson! \nhttp://facebook.itunes.com/6181sQkR Timeline Photos",
+          1416528006
         ],
         [
           "Television's biggest stars took over Los Angeles' Nokia Theatre. http://facebook.itunes.com/6187WZlh The 66th Annual Emmy Awards",
           1409061181
         ],
         [
-          "The Moonmen have landed. Recap the night's big winners and spectacular performances. http://facebook.itunes.com/6183WVix 2014 MTV Video Music Awards",
-          1408970742
-        ],
-        [
           "Check out the big winners and moments from the show. http://facebook.itunes.com/6181Yn4F BET Awards 2014",
           1404144024
         ],
         [
+          "Chris Rock hosts the 2014 BET Awards on Sunday. Listen to nominees Pharrell, Iggy Azalea, and more on #iTunesRadio. \nhttp://facebook.itunes.com/6186Yp1A Timeline Photos",
+          1403984071
+        ],
+        [
+          "The BET Awards honor the best in entertainment. Check out the nominees & performers before tomorrow's ceremony. http://facebook.itunes.com/6184YTgG Timeline Photos",
+          1403964008
+        ],
+        [
+          "The biggest night in Broadway featured historic wins and rousing performances. http://facebook.itunes.com/6185c51U 2014 Tony Awards",
+          1402326954
+        ],
+        [
           "The most prestigious popcorn bucket in Hollywood. Relive the MTV Movie Awards. http://tw.itunes.com/MTVAwards2014 2014 MTV Movie Awards",
           1397494977
-        ],
-        [
-          "Hosts Blake Shelton and Luke Bryan led a show filled with amazing performances and big winners.  http://tw.itunes.com/ACMs2014 Academy of Country Music Awards 2014",
-          1396892029
-        ],
-        [
-          "That's a wrap! Look back at the highlights from the 86th Academy Awards. http://facebook.itunes.com/618950cD The Oscars 2014",
-          1393851644
         ],
         [
           "12 Years a Slave was the big winner at the Film Independent Spirit Awards. Look back at the other highlights. http://tw.itunes.com/61805L9g Film Independent Spirit Awards",
@@ -1000,8 +1258,8 @@
           1390827665
         ],
         [
-          "Tina Fey and Amy Poehler were brilliant (again) hosting the Golden Globes. Look back at last night's highlights. The 71st Annual Golden Globe Awards",
-          1389641058
+          "Beyonc\u00e9 and Jay Z kicked off the GRAMMY Awards with a performance of \u201cDrunk in Love.\u201d Are you watching? http://facebook.itunes.com/6187egqN Timeline Photos",
+          1390792598
         ],
         [
           "Last night, the country world turned to Nashville as the CMA Awards were handed out. Here were the big moments. http://facebook.itunes.com/qIC CMA Awards",
@@ -1010,10 +1268,6 @@
         [
           "An evening of powerful and surprising performances was capped by an *NSYNC reunion. What was your favorite moment? http://facebook.itunes.com/2GB 2013 MTV Video Music Awards",
           1377529300
-        ],
-        [
-          "And the winner is...Danielle Bradbery from Team Blake! Look back at the night's highlights. http://facebook.itunes.com/vVu The Voice - Season 4 Finale",
-          1371614525
         ],
         [
           "Cyndi Lauper\u2019s Kinky Boots won 6 Tony Awards last night, including Best Musical. Check out the other show highlights. http://facebook.itunes.com/fD3 2013 Tony Awards",
@@ -1030,10 +1284,6 @@
         [
           "Jennifer Lawrence capped an amazing awards season by winning the Best Actress Oscar\u00ae for Silver Linings Playbook. Check out more highlights from Hollywood\u2019s biggest night. http://facebook.itunes.com/U7h 85th Annual Oscar\u00ae Awards",
           1361798854
-        ],
-        [
-          "At the 2013 BRIT Awards, Emeli Sand\u00e9\u2019s Our Version of Events was crowned Album of the Year. Download singles of the live performances from the show along with albums that won top honors. http://facebook.itunes.com/PiA Brit Awards",
-          1361441259
         ],
         [
           "What a night! Look back at some of the big winners and show-stopping moments. http://facebook.itunes.com/fIl The 55th Annual GRAMMY\u00ae Awards",
@@ -1060,6 +1310,10 @@
           1338828233
         ],
         [
+          "Hunger Games won big, with awards for Best Fight, Best Male Performance (Josh Hutcherson, pictured), Best Female Performance, and Best On-Screen Transformation. http://facebook.itunes.com/5P1 MTV Movie Awards",
+          1338828232
+        ],
+        [
           "The wildly entertaining MTV Movie Awards celebrates its 20th year this Sunday. Who will win for Best Kiss? Will it be Channing Tatum and Rachel McAdams in The Vow? Find more award nominees here: http://facebook.itunes.com/5ty Timeline Photos",
           1338588847
         ],
@@ -1072,36 +1326,36 @@
           1337619264
         ],
         [
-          "Songlines magazine celebrates an eclectic mix of music from around the world with its 2012 Music Awards. Watch live performances from each of the winners and download the winning albums on iTunes. http://facebook.itunes.com/u7T Songlines Magazine 2012 Music Awards",
-          1336071063
-        ],
-        [
           "Jamie Grace \u2014 http://facebook.itunes.com/l4f Dove Awards Nominees",
           1335208432
+        ],
+        [
+          "Miranda Lambert, a.k.a. Lone Star Annie, is one of the performers on Sunday night\u2019s ACM Awards. http://facebook.itunes.com/rDj ACM Awards Rehearsals",
+          1333238626
         ]
       ],
-      "dates_start": 1347998889,
-      "dates_end": 1422300730,
-      "likes_avg": 537,
-      "likes_stdev": 1245,
-      "comments_avg": 28,
-      "comments_stdev": 43,
-      "shares_avg": 94,
-      "shares_stdev": 144
+      "dates_start": 1346727499,
+      "dates_end": 1423162103,
+      "likes_avg": 560,
+      "likes_stdev": 1268,
+      "comments_avg": 30,
+      "comments_stdev": 46,
+      "shares_avg": 77,
+      "shares_stdev": 123
     },
     {
-      "number": 9,
+      "number": 11,
       "important": [
-        "price limit",
-        "miss",
-        "get",
         "icon",
-        "special price",
-        "time",
-        "limit",
-        "preorder get",
+        "price limit",
+        "get",
         "preorder",
-        "action"
+        "time",
+        "preorder get",
+        "action",
+        "miss",
+        "special price",
+        "limit"
       ],
       "common": [
         "com",
@@ -1133,6 +1387,14 @@
           1483225218
         ],
         [
+          "See Nick Jonas discuss Goat the Movie and the timely issues it grapples with. \n#InTheatersOniTunes Goat - Nick Jonas",
+          1474669800
+        ],
+        [
+          "Time to suit up.  Avengers  #AgeOfUltron out now on iTunes. http://facebook.itunes.com/6188ByfyO Timeline Photos",
+          1441739684
+        ],
+        [
           "Do YOU Know the Muffin Man?\" \u2014The Gingerbread Man\n#Shrek DreamWorks Animation movies specially priced for a limited time. \ntw.itunes.com/dwas",
           1435523400
         ],
@@ -1145,8 +1407,8 @@
           1434837644
         ],
         [
-          "See the #MadMax that started it all.\nThis weekend only for a limited time price. http://facebook.itunes.com/6186741C Timeline Photos",
-          1431698409
+          "Trivia time with the cast of #Tomorrowland! http://facebook.itunes.com/6184CWVu",
+          1432386090
         ],
         [
           "It\u2019s a Mad Max weekend.\nWe've got all the apocalyptic action you need, specially priced for a limited time.\nhttp://facebook.itunes.com/61877efh Timeline Photos",
@@ -1181,20 +1443,8 @@
           1426960807
         ],
         [
-          "Gravity: Silent Space is exclusively available on iTunes and on sale for a limited time. Experience this stunningly atmospheric version now! http://apple.co/1Cw1ecf Gravity: Silent Space Watch the trailer and get the full movie on iTunes.",
-          1426820864
-        ],
-        [
-          "Can't wait for #Insurgent?\nWatch this exclusive clip and catch up on #Divergent at a special price. http://facebook.itunes.com/61802Dg0",
-          1426260348
-        ],
-        [
           "Who ya gonna call?\nLimited time, special price. #fbf http://facebook.itunes.com/6188Fhlu Timeline Photos",
           1426248008
-        ],
-        [
-          "Spring Break time!\nNew Luke Bryan:\nhttp://facebook.itunes.com/SpringBreak",
-          1426007764
         ],
         [
           "If you haven't seen Whiplash yet-it's time.\nhttp://facebook.itunes.com/61830Akf",
@@ -1241,10 +1491,6 @@
           1405389696
         ],
         [
-          "It's time to \"Break Free.\" Get Ariana Grande's new song with Zedd when you pre-order My Everything. \nhttp://facebook.itunes.com/6182Y9FY Timeline Photos",
-          1404350254
-        ],
-        [
           "\"A long time ago in a galaxy far, far away...\" #MayThe4thBeWithYou\nhttp://facebook.itunes.com/6188iJua Timeline Photos",
           1399201205
         ],
@@ -1273,34 +1519,39 @@
           1336142856
         ],
         [
+          "In Big Time Movie, Big Time Rush honor the Fab Four with a Beatles-inspired soundtrack. http://facebook.itunes.com/2tQ Timeline Photos",
+          1331165097
+        ],
+        [
           "Captain America must assemble a new team. Get issue No. 1 of The New Avengers free for a limited time. http://facebook.itunes.com/orv Timeline Photos",
           1330628465
         ]
       ],
-      "dates_start": 1384325453,
-      "dates_end": 1451712726,
-      "likes_avg": 289,
-      "likes_stdev": 442,
-      "comments_avg": 20,
-      "comments_stdev": 43,
-      "shares_avg": 111,
-      "shares_stdev": 381
+      "dates_start": 1379570466,
+      "dates_end": 1455587822,
+      "likes_avg": 335,
+      "likes_stdev": 530,
+      "comments_avg": 29,
+      "comments_stdev": 67,
+      "shares_avg": 115,
+      "shares_stdev": 386
     },
     {
-      "number": 10,
+      "number": 12,
       "important": [
-        "grab",
-        "timelin",
-        "timelin photo",
-        "photo",
-        "time",
-        "itun",
-        "exclus itun",
-        "exclus",
-        "itun timelin",
-        "action"
+        "fan",
+        "favorit",
+        "rent",
+        "get",
+        "avail rent",
+        "learn",
+        "action",
+        "avail",
+        "meet",
+        "make"
       ],
       "common": [
+        "available",
         "com",
         "facebook",
         "facebook itunes",
@@ -1308,210 +1559,193 @@
         "http",
         "http facebook",
         "http facebook itunes",
-        "http facebook itunes com",
         "itunes",
         "itunes com"
       ],
       "messages": [
         [
-          "Lucha Underground has all the flips and dropkicks. \ud83d\udcaa\ud83d\ude21\nExclusively on iTunes: http://facebook.itunes.com/6185Bdgnt Timeline Photos",
-          1456876084
+          "Meet the Bergens and learn all about the making of fan favorite Bridget!\nGet #Trolls, now available to rent. \ud83c\udf08\napple.co/TrollsMovie Trolls",
+          1487001667
         ],
         [
-          "Time to suit up.  Avengers  #AgeOfUltron out now on iTunes. http://facebook.itunes.com/6188ByfyO Timeline Photos",
-          1441739684
+          "\"We may lose the small battles but win the big war.\"\nStarring Oscar-nominated Ruth Negga & Michael Shannon.\nLoving now available to rent.\napple.co/Loving Loving",
+          1486753242
         ],
         [
-          "Studio & live Muse albums are now Mastered for iTunes.\nGrab 3 songs when you pre-order #Drones.\nhttp://facebook.itunes.com/6182CmrE Timeline Photos",
-          1432324146
+          "He's #GotNoStrings and he's our #EditorsChoice.\nDisney's Pinocchio is now available on iTunes. \ud83e\udd25\u2728\napple.co/Pinocchio Pinocchio",
+          1484323232
         ],
         [
-          "Give it up for Slowhand, Eric Clapton. \n461 Ocean Boulevard, No Reason to Cry & more are now mastered for iTunes.\nhttp://facebook.itunes.com/6189C6fZ Timeline Photos",
-          1431804127
+          "\"Hope ain't a tactic.\"\nDeepwater Horizon now available to rent.\ncc @Mark_Wahlberg\napple.co/DWH Deepwater Horizon",
+          1484175791
         ],
         [
-          "The guy has guts! #BieberRoast.\nGet the extended and uncensored version on iTunes.\nhttp://facebook.itunes.com/6184NinO Timeline Photos",
-          1427819406
+          "Sarah Jessica Parker makes her triumphant return to TV in HBO's Divorce.\nSeason 1 now available on iTunes.\nhttp://apple.co/2iBSauF Timeline Photos",
+          1484100010
         ],
         [
-          "Lose yourself in the Golden Globe\u00ae winner, The Affair. Now on iTunes. http://facebook.itunes.com/61890moU Timeline Photos",
-          1424835006
+          "Joseph Gordon-Levitt on landing the lead role in Snowden The Movie.\nNow available to rent.\napple.co/Snowden Snowden",
+          1482960277
         ],
         [
-          "A Love Supreme. \nBlue Train. \nGiant Steps.\nColtrane. Mastered for iTunes. \nhttp://facebook.itunes.com/61870E2l Timeline Photos",
-          1424209084
+          "Tom Hanks stars in the dramatic re-creation of this amazing true story.\nSully Movie now available to rent.\napple.co/Sully Timeline Photos",
+          1482603870
         ],
         [
-          "The one and only, Stevie Ray Vaughan is now Mastered for iTunes. #SRV\nhttp://facebook.itunes.com/6186IoJr Timeline Photos",
-          1422646502
+          "A movie that gets your blood pumping.\nRide along in our Snapchat Story.\nThe Magnificent Seven now available to rent.\napple.co/Mag7 The Magnificent Seven",
+          1482353633
         ],
         [
-          "As solo artists, John Lennon, Paul McCartney, George Harrison, and Ringo Starr expanded musically, creatively, and individually. The Beatles\u2019 solo albums are Mastered for iTunes. http://facebook.itunes.com/6182oxCw Timeline Photos",
-          1411509607
+          "Kate Hudson on Peter Berg's unique shooting style.\nDeepwater Horizon now available.\ncc Mark Wahlberg\napple.co/DeepwaterHorizon Deepwater Horizon",
+          1482249658
         ],
         [
-          "British art-rockers Alt-J made an album of startling beauty and haunting repose. Stream and pre-order This Is All Yours now on iTunes.\nhttp://facebook.itunes.com/6185oigZ Timeline Photos",
-          1411045598
+          "Don't make The Joker wait.\nSuicide Squad is now available to rent.\ncc Jared Leto\niTunes.com/SuicideSquad Timeline Photos",
+          1482174003
         ],
         [
-          "Death From Above 1979 attacks The Physical World with monstrous riffs and breakneck rhythms. Listen to and pre-order the album on iTunes.\nhttp://facebook.itunes.com/6184WLSg Timeline Photos",
-          1409778903
+          "A national hero questions his instincts.\nTom Hanks is #Sully, available now.\ncc Sully Movie\napple.co/Sully Sully",
+          1481139224
         ],
         [
-          "\"I don't know what happens to me on stage. Something else seems to take over.\"\n\nMaria Callas is Mastered for iTunes.\nhttp://facebook.itunes.com/6180WlCo Timeline Photos",
-          1409418006
+          "Chris Pratt & co. talk about the massive undertaking of the Rose Creek sequence for #Mag7.\nThe Magnificent Seven available now.\napple.co/Mag7 The Magnificent Seven",
+          1481055828
         ],
         [
-          "For 60 years, Newport Jazz Festival has hosted legendary performances by Duke Ellington, Dave Brubeck, and many more. Exclusive live albums are now Mastered for iTunes and have never sounded better. #TBT http://facebook.itunes.com/6184m3dp Newport Jazz Festival #TBT",
-          1406859030
+          "All aboard the zombie train!\nThe thrilling #TrainToBusan is now available on iTunes.\napple.co/traintobusan Train to Busan",
+          1480451815
         ],
         [
-          "Two dancers navigate the worlds of modern movement and relationships in Test, with beautiful choreography by Sidra Bell. In theaters and on iTunes. http://facebook.itunes.com/6181ckct Timeline Photos",
-          1402063193
+          "Behind the cutting-edge techniques that changed music-making.\nAll Soundbreaking episodes available now on iTunes.\napple.co/soundbreaking Soundbreaking",
+          1480293046
         ],
         [
-          "\"You wanted the best and you got the best, the hottest band in the world...\" \n\nKISS is Mastered for iTunes.  http://facebook.itunes.com/6181cXSD Timeline Photos",
-          1402005595
+          "See Karl Urban talk about the excellent odd couple dynamic between Spock & Bones.\nStar Trek Beyond Beyond is available to rent. \napple.co/startrekbeyond Star Trek Beyond - Karl Urban",
+          1478109600
         ],
         [
-          "Visionaries. Look back at R.E.M.'s stunning career arc, including exhaustive B-sides and the full Unplugged sessions, all Mastered for iTunes. #flashbackfriday http://facebook.itunes.com/6180iNjg Timeline Photos",
-          1400867995
+          "We learned how to draw Angry Birds on iPad Pro with Procreate!\n#AngryBirdsMovie available to rent.\nhttp://facebook.itunes.com/6180B25Q4 Angry Birds on iPad Pro",
+          1471464037
         ],
         [
-          "Space is still the place. Sun Ra is Mastered for iTunes. \nhttp://facebook.itunes.com/6181iFyU Timeline Photos",
-          1400788804
+          "Hard not to get caught up in the glitz and glamor of the data compression software business.\nHBO Silicon Valley Season 3 now available.\nhttp://facebook.itunes.com/6189BIhvN Timeline Photos",
+          1469484007
         ],
         [
-          "The wait is over. Listen to Coldplay's Ghost Stories now on iTunes. http://facebook.itunes.com/6186i9RA Timeline Photos",
-          1400077686
+          "How one artist managed to have her voice heard.\nPresenting #PrincessShaw now available to rent on iTunes.\nhttp://facebook.itunes.com/6189Bqa1t Presenting Princess Shaw",
+          1464454852
         ],
         [
-          "\"Hello, I'm Johnny Cash.\"\n\nThe newly unearthed Out Among the Stars is among the Cash treasures now Mastered for iTunes. http://facebook.itunes.com/6182gNM8 Timeline Photos",
-          1396191626
+          "Falling for her was his first mistake. Nick Jonas and Isabel Lucas star in Careful What You Wish For, available on iTunes 6/10. \nPre-order now: http://facebook.itunes.com/6187Bqn7J Careful What You Wish For",
+          1464200310
         ],
         [
-          "\u201cI\u2019m always thinking about creating. My future starts when I wake up in the morning and see the light.\u201d Miles Davis is Mastered for iTunes. http://facebook.itunes.com/6184gmcQ Timeline Photos",
-          1395586803
+          "The Dark Side and the Light.\n#MayThe4thBeWithYou\n#TheForceAwakens now available to rent \n(tw.itunes.com/TheForceAwakens) May the 4th",
+          1462374429
         ],
         [
-          "Invigorate your experience of Vivaldi, Chopin, and Tchaikovsky. Modern artists and orchestras pay homage to the world's best composers in Classical Essentials, now Mastered for iTunes. http://facebook.itunes.com/6181g1Y3 Classical Essentials",
-          1394305219
+          "It's the 200th episode of The Big Bang Theory! Bazinga's all around!\nhttp://facebook.itunes.com/6183BdBy1 Timeline Photos",
+          1456511405
         ],
         [
-          "\"I am human and I need to be loved. Just like everybody else does.\" The Smiths are Mastered for iTunes. http://facebook.itunes.com/61815VdB Timeline Photos",
-          1392425106
+          "We can't stop laughing! Angie Tribeca is hilarious. \ud83d\udc4a\ud83d\udc36\nAll episodes available now.\nhttp://facebook.itunes.com/6186BX7gw Timeline Photos",
+          1453230011
         ],
         [
-          "\u201cSAB-BATH! SAB-BATH!\u201d \r\n\r\nBlack Sabbath\u2019s classic albums are now Mastered for iTunes. #tbt  http://facebook.itunes.com/XRP Timeline Photos",
-          1389888000
+          "#TomCruise on scaling the Burj Khalifa. \nMission: Impossible Rogue Nation now available to rent.\niTunes.com/MissionImpossible MI4",
+          1450653442
         ],
         [
-          "Power. Passion. Pearl Jam. Listen to Lightning Bolt now for free on iTunes. http://facebook.itunes.com/HWr Timeline Photos",
-          1381199571
+          "Let's be blunt, Patrick Stewart is fantastic in Blunt Talk.\nSeason 1 available now. http://facebook.itunes.com/6187BRbhP Blunt Talk",
+          1448125261
         ],
         [
-          "Miley Cyrus can\u2019t stop. Listen to Bangerz now for free on iTunes. http://facebook.itunes.com/u5C Timeline Photos",
-          1380579787
+          "Reggie from Survivor's Remorse reveals the songs he can get lost to.\nSeason 2 now available. http://facebook.itunes.com/6182BRZ3k Survivor's Remorse",
+          1448046052
         ],
         [
-          "\u201cThe only band that matters.\u201d The Clash\u2019s essential studio albums, live sets, rarities, demos, and more\u2014all Mastered for iTunes. \r\nhttp://facebook.itunes.com/s4r Timeline Photos",
-          1378810801
+          "Check out BuzzFeed's hilarious new series: #YouDoYou.\nAll episodes available now. BuzzFeed Video BuzzFeed Violet http://facebook.itunes.com/6189BRHa3 Timeline Photos",
+          1447876809
         ],
         [
-          "The Fuse is lit. Stream Keith Urban\u2019s new album now for free on iTunes. http://facebook.itunes.com/6ni Timeline Photos",
-          1378380615
+          "Mid-week struggle? Southpaw will definitely motivate you.\nNow available to rent. http://facebook.itunes.com/6184BO2rk",
+          1446058835
         ],
         [
-          "Arctic Monkeys tear up the #iTunesFestival on September 9. Listen to their new album AM now for free on iTunes. \nhttp://facebook.itunes.com/MFG Timeline Photos",
-          1378256401
+          "Talk about a difficult work/life balance.\n50 Cent  executive produced Power Season 2 now available.\nhttp://facebook.itunes.com/6182By4Pm",
+          1441746062
         ],
         [
-          "\"Ambition is a dream with a V8 engine.\" Elvis Presley is now Mastered for iTunes. http://facebook.itunes.com/xKm Elvis Presley",
-          1376651110
+          "Fill your tank and grab an extra canteen.\nMad Max is now available on iTunes. http://facebook.itunes.com/6183B1h8W",
+          1439294425
         ],
         [
-          "Embark on a journey to Paradise Valley with John Mayer. Stream his album free now on iTunes. http://facebook.itunes.com/kvL Timeline Photos",
-          1376331928
+          "It\u2019s the Age of #Aquarius with David Duchovny .\nAll episodes available right now.\nhttp://facebook.itunes.com/6185hVuV Timeline Photos",
+          1433082608
         ],
         [
-          "What a long strange trip it\u2019s been. Grateful Dead studio albums, live sets, rarities, and complete collections all now Mastered for iTunes. http://facebook.itunes.com/stH Timeline Photos",
-          1375277768
+          "Time to ride! #VansPropeller is now available. http://facebook.itunes.com/6187AUbN Timeline Photos",
+          1430856011
         ],
         [
-          "Selena Gomez forever. Stream Stars Dance now for free on iTunes. http://facebook.itunes.com/bbw Timeline Photos",
-          1374004800
+          "#FiftyShades of Grey available now. http://facebook.itunes.com/6183Apsh Timeline Photos",
+          1430486891
         ],
         [
-          "Undisputed King of Pop. Michael Jackson is Mastered for iTunes. http://facebook.itunes.com/dJt Michael Jackson",
-          1372705951
+          "Growing up with a little help from your friends.\nGirls Season 4 Now Available. http://facebook.itunes.com/6184fens Timeline Photos",
+          1429723805
         ],
         [
-          "Time is on their side. Look back at The Rolling Stones, now Mastered for iTunes. http://facebook.itunes.com/Yos The Rolling Stones",
-          1372533781
+          "The Force is strong with this one.\nWhat do you think of the new #StarWars Episode VII Trailer? http://facebook.itunes.com/6187f8yf",
+          1429204060
         ],
         [
-          "Don\u2019t stop \u2018til you get enough. Michael Jackson is now Mastered for iTunes. http://facebook.itunes.com/Uib Timeline Photos",
-          1372368317
+          "All episodes of #SonicHighways available now.\nCheck out the free premiere and get the full series.\nhttp://facebook.itunes.com/61834O3S",
+          1428501635
         ],
         [
-          "Don\u2019t mess with Texas. ZZ Top is now Mastered for iTunes. \r\nhttp://facebook.itunes.com/Sz0 Timeline Photos",
-          1371405600
+          "Find out what all the buzz is about.\n#TheJinx is now available on iTunes.\nhttp://facebook.itunes.com/6182NtQo Timeline Photos",
+          1428004804
         ],
         [
-          "Mad Men fans: Watch real commercials from advertising\u2019s heyday on AdViews, a collection from Duke University on iTunes U. http://facebook.itunes.com/vFr Timeline Photos",
-          1365951603
+          "Hey Charlie! The Goldbergs are #Winning with this Ferris Bueller episode.\nhttp://facebook.itunes.com/61840sii Timeline Photos",
+          1424908805
         ],
         [
-          "AC/DC's entire catalog has been Mastered for iTunes and is now available. Every power riff, every primal scream, every dirty deed.  http://facebook.itunes.com/8Wm Timeline Photos",
-          1353332186
+          "With poignantly imperfect characters and sharp dialogue, every episode of Girls leaves an impression. Season 3 is available now.  http://facebook.itunes.com/61849v60 Timeline Photos",
+          1398263444
         ],
         [
-          "This Open Yale Course pairs traditional philosophy with contemporary cognitive science and examines happiness, morality, and social structures. Download it now from iTunes U. http://facebook.itunes.com/q3k Timeline Photos",
-          1336925162
+          "Low Winter Sun explodes with palpable tension. Follow along with episodes, featurettes, and trailers.  http://facebook.itunes.com/Kxm Timeline Photos",
+          1377125405
         ],
         [
-          "No prerequisites needed for this Open Yale Course on financial markets\u2014a must for anybody concerned about their or the world\u2019s financial well-being. Download it now on iTunes U. http://facebook.itunes.com/jHc Timeline Photos",
-          1335711669
-        ],
-        [
-          "You can call it G.O.O.D. Friday \u2014 Kanye's new single \"Mercy\" is out now, exclusively on iTunes. http://facebook.itunes.com/wnm Timeline Photos",
-          1333688584
-        ],
-        [
-          "Who\u2019s excited about Men in Black III? Pitbull\u2019s \u201cBack in Time\u201d is featured throughout the movie. Download it exclusively on iTunes. http://facebook.itunes.com/KxS Timeline Photos",
-          1332791974
-        ],
-        [
-          "What do Lana Del Rey, Madonna, Metallica, Coldplay, Yo-Yo Ma, and Trent Reznor have in common? They\u2019re all Mastered for iTunes. Check out albums engineered for higher fidelity sound the way the artists intended. http://facebook.itunes.com/MJI Timeline Photos",
-          1329962861
-        ],
-        [
-          "Influential composer Phillip Glass turns 75 today. He celebrates with a premiere of Symphony No. 9 with the American Composers Orchestra tonight at Carnegie Hall. Mastered for iTunes, Symphony No. 9 is available exclusively now. http://facebook.itunes.com/AgD Timeline Photos",
-          1328025547
+          "Jamming! Rent Marley on iTunes. http://facebook.itunes.com/Ffx Marley",
+          1334936882
         ]
       ],
-      "dates_start": 1357375535,
-      "dates_end": 1419440883,
-      "likes_avg": 1145,
-      "likes_stdev": 3328,
-      "comments_avg": 69,
-      "comments_stdev": 241,
-      "shares_avg": 724,
-      "shares_stdev": 1920
+      "dates_start": 1421356990,
+      "dates_end": 1486060968,
+      "likes_avg": 205,
+      "likes_stdev": 402,
+      "comments_avg": 25,
+      "comments_stdev": 79,
+      "shares_avg": 73,
+      "shares_stdev": 225
     },
     {
-      "number": 11,
+      "number": 13,
       "important": [
-        "us",
-        "album timelin",
-        "tour",
-        "timelin photo",
-        "new",
-        "new album",
-        "go",
+        "album free",
+        "countri",
         "album",
-        "new album timelin",
-        "action"
+        "star",
+        "action",
+        "new",
+        "sound",
+        "new album",
+        "know",
+        "heart"
       ],
       "common": [
         "com",
@@ -1526,10 +1760,6 @@
         "itunes com"
       ],
       "messages": [
-        [
-          "New album AND a tour?\nTY Zedd. \n#TrueColors has us going this Monday.  \nhttp://facebook.itunes.com/TrueColors",
-          1431975240
-        ],
         [
           "\"Lead the leaders, that's how you file it.\"\nTetsuo & Youth, Lupe Fiasco's new album is out now. \nhttp://facebook.itunes.com/6183xUQZ Timeline Photos",
           1421774702
@@ -1551,6 +1781,14 @@
           1412086570
         ],
         [
+          "Need a lift? Listen to Tove Lo's new album Queen of the Clouds on #iTunesRadio.\nhttp://facebook.itunes.com/6184oQ4m Timeline Photos",
+          1411470021
+        ],
+        [
+          "\"The most personal album we've written.\"\n\u2014 Bono\nU2. Songs of Innocence.\nhttp://facebook.itunes.com/6187ootl Timeline Photos",
+          1411180202
+        ],
+        [
           "Country meets Motown on Dustin Lynch's new album Where It's At. http://facebook.itunes.com/6188oypu Timeline Photos",
           1410322506
         ],
@@ -1563,6 +1801,10 @@
           1409828407
         ],
         [
+          "From the desk of Ryan Adams: \"Tired of Giving Up.\"\n\nPre-order his new album and get it now.\nhttp://facebook.itunes.com/6184WUoy Timeline Photos",
+          1409657409
+        ],
+        [
           "Love is pure and primal on Maroon 5's new album V.\nhttp://facebook.itunes.com/6188WUon Timeline Photos",
           1409625005
         ],
@@ -1571,8 +1813,8 @@
           1409260396
         ],
         [
-          "Robert Plant celebrates the release of lullaby and... the Ceaseless Roar at iTunes Festival on September 8. Get \"Rainbow\" and \"Pocketful of Golden\" now when you pre-order the album. http://facebook.itunes.com/6186mZtg Timeline Photos",
-          1407276007
+          "THE GASLIGHT ANTHEM blaze new trails on Get Hurt. Listen to their new album now on #iTunesRadio.\nhttp://facebook.itunes.com/6186mZD4 Timeline Photos",
+          1407259825
         ],
         [
           "Spoon's new album They Want My Soul comes out next week. Here's a quick tasting menu of all ten songs. http://facebook.itunes.com/6180mR5G Spoon",
@@ -1603,16 +1845,16 @@
           1402370977
         ],
         [
-          "Lana Del Rey\u2019s sultry voice is the centerpiece of Ultraviolence. Watch the video and pre-order the album now. Timeline Photos",
-          1402052401
+          "Latin GRAMMY winners Camila bring bold, impassioned rock to Elypse. Listen to the new album on #iTunesRadio.  http://facebook.itunes.com/6182cD6e Timeline Photos",
+          1401319921
         ],
         [
-          "At 18 years old, Birdy is already an expert at capturing life's particularities. Fire Within is her thoughtful new album. http://facebook.itunes.com/6181cPPV Timeline Photos",
-          1401799599
+          "Songs in the key of truth. Listen to Ray LaMontagne's new album Supernova on #iTunesRadio. http://facebook.itunes.com/61829NEo Timeline Photos",
+          1398600009
         ],
         [
-          "Kid Cudi is moving at light speed. Satellite Flight is his fourth album. http://facebook.itunes.com/61895o8f Timeline Photos",
-          1393372810
+          "On her new album, Shakira expands her musical palette with rock, electronic, and country. http://facebook.itunes.com/6181gSlJ Timeline Photos",
+          1395748814
         ],
         [
           "Shak attacks! Pre-order Shakira's new album and get \"Empire\" now. \n\nhttp://facebook.itunes.com/61815Wef Timeline Photos",
@@ -1623,6 +1865,10 @@
           1392249999
         ],
         [
+          "Real talk: R. Kelly\u2019s new album is available now. \nhttp://facebook.itunes.com/8u6 Timeline Photos",
+          1386730801
+        ],
+        [
           "Britney Spears is calling her new album \u201cthe most personal one yet.\u201d Pre-order Britney Jean and get \u201cPerfume\u201d now. http://facebook.itunes.com/aQy Timeline Photos",
           1384018327
         ],
@@ -1631,8 +1877,12 @@
           1381057200
         ],
         [
-          "\u201cWe just played music, we worked together really well, we were laughing, we were concentrating, we were open. And that really shows on the record.\" \u2014Nirvana\u2019s Krist Novoselic, on In Utero. It's the 20th anniversary of the album.\nhttp://facebook.itunes.com/576 Timeline Photos",
-          1380280967
+          "The Fuse is lit. Stream Keith Urban\u2019s new album now for free on iTunes. http://facebook.itunes.com/6ni Timeline Photos",
+          1378380615
+        ],
+        [
+          "Arctic Monkeys tear up the #iTunesFestival on September 9. Listen to their new album AM now for free on iTunes. \nhttp://facebook.itunes.com/MFG Timeline Photos",
+          1378256401
         ],
         [
           "\u201cPut your hands in the air!\u201d Pre-order Kaskade's new album Atmosphere now. \r\n\r\nhttp://facebook.itunes.com/gwE Timeline Photos",
@@ -1643,12 +1893,16 @@
           1376769600
         ],
         [
+          "Embark on a journey to Paradise Valley with John Mayer. Stream his album free now on iTunes. http://facebook.itunes.com/kvL Timeline Photos",
+          1376331928
+        ],
+        [
           "Washed Out\u2019s Ernest Greene takes you through a visual journey and track-by-track description of his new album, Paracosm. Stream it now for free as you read his thoughts. http://facebook.itunes.com/9Me Washed Out \u2013 Paracosm",
           1376079139
         ],
         [
-          "On his new album Where Does This Door Go, soul man Mayer Hawthorne tossed out all the rules except one: \"I had to have fun.\"  http://facebook.itunes.com/ncF Timeline Photos",
-          1373979601
+          "Selena Gomez forever. Stream Stars Dance now for free on iTunes. http://facebook.itunes.com/bbw Timeline Photos",
+          1374004800
         ],
         [
           "Pearl Jam. New Album. Lightning Bolt. Pre-order now. \nhttp://facebook.itunes.com/raQ",
@@ -1667,20 +1921,20 @@
           1372762800
         ],
         [
-          "It\u2019s your lucky day. Stream Daft Punk\u2019s new album for free on your computer or iPad. http://facebook.itunes.com/q5F",
-          1368471281
+          "Game on. Kelly Rowland goes back to her R&B roots for her new album, Talk a Good Game.  \nhttp://facebook.itunes.com/Uqy Timeline Photos",
+          1371747098
         ],
         [
-          "After seven years, JT\u2019s back with The 20/20 Experience. Listen to it now for free on your computer or iPad. http://facebook.itunes.com/848 Timeline Photos",
-          1363034879
+          "It\u2019s your lucky day. Stream Daft Punk\u2019s new album for free on your computer or iPad. http://facebook.itunes.com/q5F",
+          1368471281
         ],
         [
           "Thin White Duke. Ziggy Stardust. David Bowie. Stream his new album The Next Day for free on your computer or iPad. http://facebook.itunes.com/tyv Timeline Photos",
           1362098588
         ],
         [
-          "How to become a classical music expert in 30 albums. http://facebook.itunes.com/p1y Timeline Photos",
-          1360069200
+          "It's David Bowie's birthday, but we get the surprise present. He's unexpectedly announced a March release of his new album, The Next Day. You can get a new track right now when you pre-order. http://facebook.itunes.com/gBK Timeline Photos",
+          1357658935
         ],
         [
           "Lotus represents a personal, musical, and spiritual rebirth for Christina Aguilera. Pre-order to be one of the first to hear her new album. http://facebook.itunes.com/oKR Timeline Photos",
@@ -1695,16 +1949,8 @@
           1349792617
         ],
         [
-          "Fifty years since his first album and Bob Dylan keeps surprising. Stream his latest album Tempest free on iTunes on your iPad and computer. http://facebook.itunes.com/IDQ Timeline Photos",
-          1346860114
-        ],
-        [
-          "All great things must come to an end, including the London 2012 Olympic Games. Celebrate its momentous conclusion with the Closing Ceremony album. http://facebook.itunes.com/NXx Timeline Photos",
-          1344811684
-        ],
-        [
-          "Usher celebrated the release of his new album with a concert at London's Hammersmith Apollo that smudged the lines between fan and artist. http://facebook.itunes.com/cxn Timeline Photos",
-          1339537054
+          "Reanimating your pet? Do it to the Frankenweenie Unleashed! album with Karen O, Kimbra, GROUPLOVE, and Neon Trees. \nhttp://facebook.itunes.com/7gS Timeline Photos",
+          1348676275
         ],
         [
           "The honorary title \u201cGuitar God\u201d applies to a select few\u2014 Slash is one of them. This week, he rocked Irving Plaza in NYC and chatted with Howard Stern about his new album. http://facebook.itunes.com/aat Timeline Photos",
@@ -1717,35 +1963,39 @@
         [
           "Listen now to John Mayer\u2019s new album Born and Raised. Stream it for free on iTunes on your iPad and computer. http://facebook.itunes.com/MED Timeline Photos",
           1337081060
+        ],
+        [
+          "Fiona Apple landed in the Guinness Book for the extraordinary title to her second album. Can you memorize the full title to her new one? Pre-order and get \u201cEvery Single Night\u201d now. http://facebook.itunes.com/SrU Timeline Photos",
+          1336745575
         ]
       ],
-      "dates_start": 1358882708,
-      "dates_end": 1410498661,
-      "likes_avg": 1896,
-      "likes_stdev": 6218,
-      "comments_avg": 59,
-      "comments_stdev": 109,
-      "shares_avg": 321,
-      "shares_stdev": 750
+      "dates_start": 1361775090,
+      "dates_end": 1409912292,
+      "likes_avg": 1042,
+      "likes_stdev": 1552,
+      "comments_avg": 48,
+      "comments_stdev": 71,
+      "shares_avg": 252,
+      "shares_stdev": 616
     },
     {
-      "number": 12,
+      "number": 14,
       "important": [
         "get",
-        "discov",
+        "pass",
+        "light",
+        "look",
         "bts",
         "season pass",
-        "look",
+        "action",
+        "discov",
         "season",
-        "exclus",
-        "light",
-        "pass",
-        "action"
+        "exclus"
       ],
       "common": [
         "com",
         "facebook",
-        "facebook itunes",
+        "facebook itunes com",
         "http",
         "http facebook",
         "http facebook itunes",
@@ -1764,6 +2014,14 @@
           1487433672
         ],
         [
+          "Face swap with your favorite characters from The Walking Dead!\nNow on Snapchat: apple.co/iTunesSnapchat The Walking Dead",
+          1487012758
+        ],
+        [
+          "Catch up on The Walking Dead before Rick and co. rise up against Negan and The Saviors.\niTunes.com/TheWalkingDead The Walking Dead",
+          1486859860
+        ],
+        [
           "Jenna Coleman is the Queen in #VictoriaPBS.\nGet the premiere with a Season Pass now.\ncc MASTERPIECE | PBS\napple.co/Victoria Victoria",
           1484702003
         ],
@@ -1780,12 +2038,20 @@
           1481590811
         ],
         [
+          "'Tis the season for feel-good movies.\nLove Actually\n#iTunesEssentials\napple.co/LoveActually Timeline Photos",
+          1480717803
+        ],
+        [
           "A natural born singer, songwriter, musician and composer.\nSee Elton John in Soundbreaking with a Season Pass.\napple.co/soundbreaking Soundbreaking",
           1480111261
         ],
         [
           "Where science meets magic. \nExplore the recording process like never before in Soundbreaking.\nGet a season pass now.\napple.co/soundbreaking Soundbreaking",
           1478635200
+        ],
+        [
+          "\"You can breathe. You can blink. You can cry...\" \nGet an inside look at Negan in the The Walking Dead Season 7 BTS bonus.\niTunes.com/TheWalkingDead Timeline Photos",
+          1477000809
         ],
         [
           "What drives Bruce Wayne?\nCheck out this sneak peak of Gotham Season 3.\nHappy #BatmanDay!\nhttp://apple.co/gothams3 Gotham Season 3 - Sneak Peak",
@@ -1828,6 +2094,14 @@
           1461608208
         ],
         [
+          "The Walk took us to the edge of the void. We looked down. We immediately regretted our decision. #MOTW\nhttp://facebook.itunes.com/6188Biz96 The Walk",
+          1459443642
+        ],
+        [
+          "It's not too late to catch up on this awesome Cold War thriller.\nCheck out all seasons of The Americans here.\niTunes.com/TheAmericans Timeline Photos",
+          1457125209
+        ],
+        [
           "It's The X-Files season finale! Prepare yourself, because things are about to get real. http://facebook.itunes.com/6181Bj5Bt Timeline Photos",
           1456257362
         ],
@@ -1836,16 +2110,24 @@
           1456185965
         ],
         [
+          "That was crazy!! The mid-season premiere of The Walking Dead will blow you away.\nhttp://facebook.itunes.com/6189BbTUT Timeline Photos",
+          1455559923
+        ],
+        [
+          "Lauren Cohan came by #AppleSoHo to talk about her most challenging moments of #TWD. The Walking Dead \nhttp://facebook.itunes.com/6183Bb3UH Lauren Cohan - #TWD",
+          1455487254
+        ],
+        [
+          "#ICYMI, check out the first 4 minutes of The Walking Dead's mid-season premiere. #TWD\nhttp://facebook.itunes.com/6188Bw7WK The Walking Dead",
+          1455235349
+        ],
+        [
           "Prepping for the #RedWedding. Should be fun. \n\nCatch up on The Blacklist with a Season Pass \nhttp://facebook.itunes.com/6181BwzGL The Blacklist",
           1454691696
         ],
         [
           "Get all episodes of the awesome period drama #MercyStreetPBS before they air with a Season Pass.\nhttp://facebook.itunes.com/6189BZZGh Timeline Photos",
           1454346011
-        ],
-        [
-          "Do you still believe? \ud83d\udc7d\ud83d\ude31\nThe new season of The X-Files is here.\nhttp://facebook.itunes.com/6185BkUuU Timeline Photos",
-          1453744479
         ],
         [
           "The Shannara Chronicles is here!\nWatch the free season premiere and don't miss a minute with a season pass. http://facebook.itunes.com/6180BnNty The Shannara Chronicles",
@@ -1862,10 +2144,6 @@
         [
           "Super-spy Agent Carter returns for season 2!\nCheck out an exclusive sneak peak and get the Season Pass. http://facebook.itunes.com/6182BTjss Agent Carter, Season 2",
           1449594748
-        ],
-        [
-          "Reggie from Survivor's Remorse reveals the songs he can get lost to.\nSeason 2 now available. http://facebook.itunes.com/6182BRZ3k Survivor's Remorse",
-          1448046052
         ],
         [
           "Don't miss Kim Cattrall's new series, Sensitive Skin.\nGet Season 1 and the free premiere exclusively on iTunes. \nhttp://facebook.itunes.com/6189BRPXz Timeline Photos",
@@ -1904,6 +2182,10 @@
           1442527245
         ],
         [
+          "Don't forget: The 67th #Emmys are next weekend. Catch up on the shows you might have missed. http://facebook.itunes.com/6181BJrtU Timeline Photos",
+          1442066412
+        ],
+        [
           "Get ready for Fall TV.\nGrab a Season Pass to your favorite shows and don't miss a minute. iTunes.com/FallTV Fall TV",
           1441213217
         ],
@@ -1928,12 +2210,20 @@
           1426782608
         ],
         [
+          "Can Kopus really walk a straight path? \r\nRed Road Season 2 is coming soon.\r\nhttp://facebook.itunes.com/61882jIs",
+          1426717946
+        ],
+        [
           "Keep track of the most notorious spies. The Americans, Season 3 Get the Season Pass",
           1425600305
         ],
         [
           "The many stories of Downton Abbey have returned. Get the Season Pass and never miss a minute. http://facebook.itunes.com/6189abtH Timeline Photos",
           1420489327
+        ],
+        [
+          "\"Now we're running towards things, and we're hitting things head-on.\" Daryl gives us a look ahead at The Walking Dead.\nhttp://facebook.itunes.com/6181QWv3 Walking Dead Season 5",
+          1418749232
         ],
         [
           "Lord & Lady Grantham kindly request that you catch up on Downton Abbey before the new season. The Digital Boxed Set (Seasons 1-4) is here.\nhttp://facebook.itunes.com/6188s9ve Timeline Photos",
@@ -1944,12 +2234,20 @@
           1414591210
         ],
         [
+          "It's peak season for culinary inspiration. Here are a few starters. \nhttp://facebook.itunes.com/6186qRSu New Cookbooks We Love",
+          1413562700
+        ],
+        [
           "Don't mess with Michonne when she says to watch The Walking Dead's new season. \nHere's a sneak peek. \nGet a Season Pass Now.\nhttp://facebook.itunes.com/6187UmlD",
           1412727108
         ],
         [
           "Ride for revenge. Catch up on past seasons of Sons of Anarchy. \nhttp://facebook.itunes.com/6180m2Wg Timeline Photos",
           1408111224
+        ],
+        [
+          "15 years and still walking the walk.\n\nRise Against wants you to hear The Black Market. \nhttp://facebook.itunes.com/6187Yt2h",
+          1404828456
         ],
         [
           "Come for the drama, stay for the fashion. Don't miss an episode with a Mad Men Season Pass. http://tw.itunes.com/618594lD Timeline Photos",
@@ -1964,8 +2262,16 @@
           1394432371
         ],
         [
+          "It's all about Michonne in the mid-season return of The Walking Dead.\nhttp://facebook.itunes.com/61895zeb Timeline Photos",
+          1392080221
+        ],
+        [
           "Grimm is back and the gang is in a (zombie) world of hurt. Don't miss an episode with a Season Pass.  http://facebook.itunes.com/nPr Grimm",
           1382376373
+        ],
+        [
+          "Get your motor running. The Walking Dead roars back. http://facebook.itunes.com/bM1 Timeline Photos",
+          1381748401
         ],
         [
           "Can Olivia handle her biggest \u201cScandal\u201d to date? Don\u2019t miss an episode with a Season Pass.\r\nhttp://facebook.itunes.com/MHj Timeline Photos",
@@ -1976,32 +2282,48 @@
           1374070345
         ],
         [
+          "Rizzoli & Isles crackles with tough-girl chemistry. Season 4 just started. http://facebook.itunes.com/xel Timeline Photos",
+          1372347500
+        ],
+        [
+          "We asked, you answered. Fans chose Breaking Bad as a destined-to-be TV classic. The Walking Dead came in No. 2. Thanks for voting. http://facebook.itunes.com/rkN Timeline Photos",
+          1345919716
+        ],
+        [
+          "Willie Nelson does \u201cI Walk the Line.\u201d http://facebook.itunes.com/XQt We Walk The Line - A Celebration of the Music of Johnny Cash",
+          1344609638
+        ],
+        [
+          "Amy Lee sings \u201cI\u2019m So Lonesome I Could Cry.\u201d http://facebook.itunes.com/XQt We Walk The Line - A Celebration of the Music of Johnny Cash",
+          1344609638
+        ],
+        [
           "The search for Rosie Larsen\u2019s killer heats up. Get a Season Pass for The Killing and receive behind-the-scenes insight for each episode of the scintillating crime drama. http://facebook.itunes.com/22B Timeline Photos",
           1336697013
         ]
       ],
-      "dates_start": 1412364903,
-      "dates_end": 1475592930,
-      "likes_avg": 143,
-      "likes_stdev": 286,
-      "comments_avg": 9,
-      "comments_stdev": 13,
-      "shares_avg": 30,
-      "shares_stdev": 83
+      "dates_start": 1400985038,
+      "dates_end": 1476385536,
+      "likes_avg": 334,
+      "likes_stdev": 1144,
+      "comments_avg": 15,
+      "comments_stdev": 40,
+      "shares_avg": 45,
+      "shares_stdev": 115
     },
     {
-      "number": 13,
+      "number": 15,
       "important": [
-        "say",
-        "thing",
-        "good",
-        "timelin photo",
-        "photo",
-        "stream",
-        "timelin",
-        "itunesradio",
-        "itunesradio timelin",
-        "action"
+        "love",
+        "get",
+        "movi",
+        "stori",
+        "christma",
+        "first",
+        "action",
+        "grow",
+        "begin",
+        "heart"
       ],
       "common": [
         "com",
@@ -2017,8 +2339,28 @@
       ],
       "messages": [
         [
-          "Cannot say enough good things about @ToriKelly. \ud83d\ude46\nStream #UnbreakableSmile now on #iTunesRadio!\nhttp://facebook.itunes.com/6180BB6zE Timeline Photos",
-          1434729525
+          "A delightfully intimate story reimagining the first date between Barack Obama and Michelle Robinson.\nSouthside With You Movie is our #MOTW.\napple.co/SWY Southside With You",
+          1487185253
+        ],
+        [
+          "Do you believe in love at first sight?\nLegion\napple.co/Legion Legion",
+          1487120652
+        ],
+        [
+          "The hunt begins...\nGet Hunt for the Wilderpeople here first.\nhttp://apple.co/wilderpeople Hunt for the Wilderpeople",
+          1474057927
+        ],
+        [
+          "Grow your heart three sizes with How the Grinch Stole Christmas.\nhttp://facebook.itunes.com/6180BVE2g Timeline Photos",
+          1450893608
+        ],
+        [
+          "To celebrate Straight Outta Compton, Corey Hawkins talks about the artistry of #NWA.\n\nStream Dr Dre\u2019s #Compton tomorrow \u2014 8/6 from 6PM - 9PM PT on Apple Music.",
+          1438806970
+        ],
+        [
+          "Bea Miller is seriously talented.\nHear #NotAnApology before it comes out. Now on #iTunes!\nhttp://apple.co/1OoCvbl Photos from iTunes's post",
+          1437663497
         ],
         [
           "Featuring the anthem \u201cOctaHate,\u201d stream The Fool from Ryn Weaver now!\nhttp://facebook.itunes.com/6187B6dn5 First Play - Ryn Weaver, The Fool Hear where your music takes you.",
@@ -2045,6 +2387,10 @@
           1431364183
         ],
         [
+          "\"Mothers hold their children\u2019s hands for a short while, but their hearts forever.\" \ud83d\udc97 #HappyMothersDay Timeline Photos",
+          1431255606
+        ],
+        [
           "So. much. talent.\nJoey Alexander.  \nHear #MyFavoriteThings first on #iTunesRadio. http://facebook.itunes.com/JoeyAlexanderFP",
           1430869620
         ],
@@ -2069,10 +2415,6 @@
           1424489134
         ],
         [
-          "Live chat with Ricky Martin this Monday on our Facebook page! Stream A Quien Quiera Escuchar now on #iTunesRadio: http://facebook.itunes.com/6189LMtS Timeline Photos",
-          1423256464
-        ],
-        [
           "OMG. It\u2019s here! Fifth Harmony's debut album, Reflection. Reflection (Deluxe) by Fifth Harmony Get the debut album",
           1423164123
         ],
@@ -2093,36 +2435,16 @@
           1417565900
         ],
         [
-          "Calvin Harris builds with Ellie Goulding, Big Sean, Gwen Stefani, John Newman, and more on Motion.\nStream his album now on #iTunesRadio.\nhttp://facebook.itunes.com/6189SDNF Timeline Photos",
-          1414617844
+          "We love surprises...\nSelena Gomez\n\u201cThe Heart Wants What It Wants.\u201d\nGet the single and video.\nhttp://facebook.itunes.com/6181SoFL Timeline Photos",
+          1415300828
         ],
         [
           "Fasten your seatbelts. Flight Facilities explore electronic styles and eras on Down to Earth. Stream it now on #iTunesRadio.\nhttp://facebook.itunes.com/6185qvi3 Timeline Photos",
           1414166704
         ],
         [
-          "East Bay made.\nRancid\nListen to ...Honor is All We Know on #iTunesRadio.\nhttp://facebook.itunes.com/6187qm67 Timeline Photos",
-          1414029904
-        ],
-        [
-          "The Grand Ole Opry just got a little bigger.\nStream new inductees Little Big Town's Pain Killer now on #iTunesRadio.\nhttp://facebook.itunes.com/6187qpt5 Timeline Photos",
-          1413645185
-        ],
-        [
-          "California dreamin'. \nCold War Kids\nListen to \"Hot Coals,\" \"All This Could Be Yours\" and more Hold My Home anthems now on #iTunesRadio.\nhttp://facebook.itunes.com/6188qR7Y Timeline Photos",
-          1413583207
-        ],
-        [
-          "Good things come to those who hustle.\nListen to T.I.'s Paperwork now on #iTunesRadio.\nhttp://facebook.itunes.com/6180qErq Timeline Photos",
-          1413378065
-        ],
-        [
           "Tinashe's groove-ready R&B packs fun surprises. Stream her debut album Aquarius on iTunes Radio. http://facebook.itunes.com/6181UOLt Timeline Photos",
           1412181008
-        ],
-        [
-          "Need a lift? Listen to Tove Lo's new album Queen of the Clouds on #iTunesRadio.\nhttp://facebook.itunes.com/6184oQ4m Timeline Photos",
-          1411470021
         ],
         [
           "Jhene Aiko is stirring up R&B with grounded vibes and a sweet voice. Listen to Souled Out now on #iTunesRadio. \nhttp://facebook.itunes.com/6180WaM8 Timeline Photos",
@@ -2149,20 +2471,12 @@
           1408415493
         ],
         [
-          "Your party just got a new ringleader. Chase Rice's Ignite the Night streams free on #iTunesRadio. http://facebook.itunes.com/6188mtIO Timeline Photos",
-          1407861008
-        ],
-        [
           "The music world converges on Golden Gate Park this weekend for Outside Lands. We're streaming the festival live on #iTunesRadio. http://facebook.itunes.com/6186mWJj Timeline Photos",
           1407621690
         ],
         [
           "An exciting new R&B talent takes flight. Listen to FKA twigs' debut album LP1 now on iTunes. http://facebook.itunes.com/6185mwSV Timeline Photos",
           1407268807
-        ],
-        [
-          "THE GASLIGHT ANTHEM blaze new trails on Get Hurt. Listen to their new album now on #iTunesRadio.\nhttp://facebook.itunes.com/6186mZD4 Timeline Photos",
-          1407259825
         ],
         [
           "SOJA's Jacob Hemphill shares a crucial message about Amid the Noise and Haste. Listen to the album on #iTunesRadio, and join our live Facebook Q&A tomorrow, August 6, at 12 p.m. PT / 3 p.m. ET / 8 p.m. BST.\nhttp://facebook.itunes.com/6186mZDw",
@@ -2181,10 +2495,6 @@
           1405720805
         ],
         [
-          "An unstoppable team vs. the world's best player\u2014which will triumph at Maracan\u00e3? Listen to Argentina-Germany live with ESPN on #iTunesRadio. tw.itunes.com/espn Timeline Photos",
-          1405260013
-        ],
-        [
           "Jungle builds a dazzling, neon-lit bridge between electronic and soul. Listen to their debut album free on iTunes and #iTunesRadio. http://facebook.itunes.com/6188YQ42 Timeline Photos",
           1404846012
         ],
@@ -2197,24 +2507,12 @@
           1404302412
         ],
         [
-          "Chris Rock hosts the 2014 BET Awards on Sunday. Listen to nominees Pharrell, Iggy Azalea, and more on #iTunesRadio. \nhttp://facebook.itunes.com/6186Yp1A Timeline Photos",
-          1403984071
-        ],
-        [
           "Colt Ford shares his hopes and insights behind Thanks for Listening. \nhttp://facebook.itunes.com/6187YKtW",
           1403713664
         ],
         [
-          "British reggae great Maxi Priest includes a cover John Mayer's \"Gravity\" on his new album, Easy to Love. Hear it now on #iTunesRadio. \nhttp://facebook.itunes.com/6180YymE Timeline Photos",
-          1403659801
-        ],
-        [
           "Mastodon\u2019s \u201cHalloween\u201d delivers a killer guitar solo. Once More \u2018Round the Sun is streaming now on #iTunesRadio and iTunes.\nhttp://facebook.itunes.com/6183c0db",
           1403053242
-        ],
-        [
-          "Public radio fans, rejoice. Over 40 local stations like KQED, WBEZ, WNYC, and KCRW just added to #iTunesRadio. \nhttp://facebook.itunes.com/6189cta3 Timeline Photos",
-          1402833610
         ],
         [
           "Electronic balladeer Until the Ribbon Breaks has sublime taste in music. His Guest DJ set includes Radiohead, Frank Ocean, OutKast and more. #iTunesRadio\nhttp://facebook.itunes.com/6184cS94 Timeline Photos",
@@ -2225,24 +2523,12 @@
           1402441205
         ],
         [
-          "Over 40 local public radio stations like WNYC, KQED, WBEZ, and KCRW just added to #iTunesRadio. http://facebook.itunes.com/6187ccYt Timeline Photos",
-          1402437553
-        ],
-        [
-          "Potent and primal. Listen to Jack White's Lazaretto now on #iTunesRadio.\nhttp://facebook.itunes.com/6189cPuv Timeline Photos",
-          1401809399
-        ],
-        [
           "Lucy Hale reveals \"the darker, more dramatic side of me.\" Her debut country album Road Between is out now. http://facebook.itunes.com/6180cO1s Timeline Photos",
           1401764398
         ],
         [
           "Rapper, actor, entrepreneur, now Guest DJ. 50 Cent spins his favorite songs, and chats about them, on #iTunesRadio. http://facebook.itunes.com/6183cDDt Timeline Photos",
           1401447604
-        ],
-        [
-          "Latin GRAMMY winners Camila bring bold, impassioned rock to Elypse. Listen to the new album on #iTunesRadio.  http://facebook.itunes.com/6182cD6e Timeline Photos",
-          1401319921
         ],
         [
           "Lucy Hale's debut country album mixes the traditional with the modern. Listen now on #iTunesRadio. http://facebook.itunes.com/6186c6gg",
@@ -2267,18 +2553,6 @@
         [
           "Hunter Hayes invites you to join his #Storyline. Hear the album on iTunes and #iTunesRadio.  http://tw.itunes.com/HunterHayes Hunter Hayes",
           1398775258
-        ],
-        [
-          "Songs in the key of truth. Listen to Ray LaMontagne's new album Supernova on #iTunesRadio. http://facebook.itunes.com/61829NEo Timeline Photos",
-          1398600009
-        ],
-        [
-          "Disclosure gathers the songs and artists that informed and influenced their forward-thinking dance music, on The Set List. #iTunesRadio Timeline Photos",
-          1397849702
-        ],
-        [
-          "Francesca Battistelli makes soul-filling Christian music with a pop sheen. Listen to If We're Honest free on #iTunesRadio. http://facebook.itunes.com/61839diZ Timeline Photos",
-          1397573107
         ],
         [
           "Ed Catmull shares the principles of Disney Pixar.\nhttp://facebook.itunes.com/61859XxL Creativity, Inc.",
@@ -2333,10 +2607,6 @@
           1392296415
         ],
         [
-          "We're still buzzing. Listen to the big GRAMMY night winners on #iTunesRadio. http://facebook.itunes.com/6183eaxS Timeline Photos",
-          1391000409
-        ],
-        [
           "Of Mice & Men describe Restoring Force as \"something uplifting, something hopeful, something inspiring that our fans can take hold of.\" Listen to the album free on First Play. #iTunesRadio\nhttp://facebook.itunes.com/XXd Timeline Photos",
           1390323614
         ],
@@ -2365,48 +2635,76 @@
           1384567933
         ],
         [
-          "It\u2019s the closest season of The Voice yet. Listen to music from present and past contestants, coaches, and guest stars on #iTunesRadio. http://facebook.itunes.com/GD0 Timeline Photos",
-          1384520401
+          "Power. Passion. Pearl Jam. Listen to Lightning Bolt now for free on iTunes. http://facebook.itunes.com/HWr Timeline Photos",
+          1381199571
+        ],
+        [
+          "Miley Cyrus can\u2019t stop. Listen to Bangerz now for free on iTunes. http://facebook.itunes.com/u5C Timeline Photos",
+          1380579787
         ],
         [
           "Guest DJ Katy Perry shares her favorite songs, and talks about them, on #iTunesRadio. \nhttp://facebook.itunes.com/vbS\n\nAnd you can watch her live at the #iTunesFestival Monday Sept. 30. http://facebook.itunes.com/OMb Timeline Photos",
           1380389395
         ],
         [
-          "Get ready for Justin Timberlake's upcoming #iTunesFestival show by listening to The 20/20 Experience on First Play. #iTunesRadio \nhttp://facebook.itunes.com/Bpn Timeline Photos",
-          1380330000
+          "30 nights of music. \nLive from London. \nStreamed worldwide. \nhttp://facebook.itunes.com/j5e #iTunesFestival",
+          1377957600
         ],
         [
           "A haunted and hunted fugitive (Matthew McConaughey) shares life lessons with two curious boys in Mud. http://facebook.itunes.com/YZo Timeline Photos",
           1374630115
         ],
         [
+          "\"'My heart breaks a little when I hear your name / It all just sounds like . . .\" http://facebook.itunes.com/rbi Timeline Photos",
+          1364937253
+        ],
+        [
+          "Usher's performance had hearts pounding all over the world. Watch it for free in HD video by October 31. http://facebook.itunes.com/uQj Timeline Photos",
+          1351473668
+        ],
+        [
+          "First Aid Kit are from Stockholm. They count Jack White and Bright Eyes as fans. http://facebook.itunes.com/Z22 First Aid Kit",
+          1347635712
+        ],
+        [
+          "First Aid Kit is an indie folk duo composed of sisters Johanna & Klara S\u00f6derberg. http://facebook.itunes.com/Z22 First Aid Kit",
+          1347635712
+        ],
+        [
+          "Ten years after her GRAMMY\u00ae sweep, Norah Jones collaborates with Danger Mouse and subtly reinvents her sound on her latest album, Little Broken Hearts. Hear her evolution on iTunes. http://facebook.itunes.com/wxi Timeline Photos",
+          1335906027
+        ],
+        [
+          "NERVO\nhttp://facebook.itunes.com/LmF DJ Playlists on iTunes",
+          1335093020
+        ],
+        [
           "Future\u2019s rhymes gained attention via the underground mixtape circuit and his song \u201cTony Montana\u201d was the anthem for the 49ers\u2019 special teams. His debut album, Pluto, features Snoop Dogg, Drake, and R.Kelly. http://facebook.itunes.com/d8b Timeline Photos",
           1335058901
         ]
       ],
-      "dates_start": 1389809287,
-      "dates_end": 1420878179,
-      "likes_avg": 320,
-      "likes_stdev": 908,
-      "comments_avg": 13,
-      "comments_stdev": 22,
-      "shares_avg": 103,
-      "shares_stdev": 447
+      "dates_start": 1377265473,
+      "dates_end": 1432300041,
+      "likes_avg": 524,
+      "likes_stdev": 1316,
+      "comments_avg": 26,
+      "comments_stdev": 56,
+      "shares_avg": 158,
+      "shares_stdev": 532
     },
     {
-      "number": 14,
+      "number": 16,
       "important": [
-        "itun festiv",
-        "timelin photo",
-        "photo",
-        "mari",
-        "song",
-        "festiv",
-        "itun",
         "track",
-        "timelin",
-        "action"
+        "festiv",
+        "mari",
+        "itun festiv",
+        "action",
+        "citi",
+        "itun",
+        "session",
+        "watch itun",
+        "song"
       ],
       "common": [
         "com",
@@ -2415,7 +2713,7 @@
         "facebook itunes com",
         "festival",
         "http",
-        "http facebook itunes com",
+        "http facebook itunes",
         "itunes",
         "itunes com",
         "itunes festival"
@@ -2458,6 +2756,10 @@
           1410829204
         ],
         [
+          "The Script plays iTunes Festival today. These are the anthems you'll hear. \nhttp://facebook.itunes.com/6186onXM Timeline Photos",
+          1410789614
+        ],
+        [
           "Songs to break your heart and mend it. Watch the show on iTunes or with Apple TV now. http://facebook.itunes.com/6186oVRm Day 14 iTunes Festival - David Gray & Lisa Hannigan",
           1410735650
         ],
@@ -2498,24 +2800,16 @@
           1410217899
         ],
         [
-          "We\u2019re just getting started. Pharrell, Sam Smith, Maroon 5 and more pack London\u2019s Roundhouse this week. Watch all the action live on iTunes or with Apple TV. http://facebook.itunes.com/6183o6PS iTunes Festival Week 2",
-          1410152415
-        ],
-        [
           "Kasabian play their debut album in full to begin their epic 27-song set. Watch the gig now. http://facebook.itunes.com/6181W7CF Day 5 iTunes Festival \u2014 Kasabian",
           1409967754
         ],
         [
+          "Two icons. One swinging good time.\nLady Gaga and Tony Bennettt go cheek-to-cheek on their jazz duets album.\nhttp://facebook.itunes.com/6184W4Aq Timeline Photos",
+          1409925617
+        ],
+        [
           "Somebody scream for 5SOS and Charlie! Watch the show now. \nhttp://facebook.itunes.com/6186W4Eq Day 4 iTunes Festival \u2014 5 Seconds of Summer and Charlie Simpson",
           1409887790
-        ],
-        [
-          "Dance the night away. Watch the show in full now. \nhttp://facebook.itunes.com/6183W0TP/6189W0TV Day 3 iTunes Festival \u2014 David Guetta, Clean Bandit + Robin Schulz",
-          1409803707
-        ],
-        [
-          "Watch David Guetta  live now at #itunesfestival!  \nhttp://instagram.com/p/sfv6QZF1oj/",
-          1409768505
         ],
         [
           "The Roundhouse is \"Where It's At.\" Watch the entire show now. http://facebook.itunes.com/6181Wazt Day 2 iTunes Festival \u2014 Beck and Jenny Lewis",
@@ -2532,6 +2826,10 @@
         [
           "Get to know Jenny Lewis, Charlie Simpson, Kiesza, Foxes, and First Aid Kit.  http://facebook.itunes.com/6181WUkf iTunes Festival 2014: Artists to Watch",
           1409512430
+        ],
+        [
+          "London calling. Watch #itunesfestival all September long free on iTunes or with Apple TV. facebook.itunes.com/itf2014London iTunes's cover photo",
+          1409493517
         ],
         [
           "iTunes Festival just got bigger. Lenny Kravitz, Ryan Adams, Jessie Ware and many more just added.  www.itunes.com/festival iTunes Festival",
@@ -2610,10 +2908,6 @@
           1394754943
         ],
         [
-          "Schoolboy Q took control of #itunesfestival at SXSW.  Kendrick Lamar is live now. Watch the show now on iTunes. http://facebook.itunes.com/6189gPz5 Timeline Photos",
-          1394676148
-        ],
-        [
           "TDE rapper Isaiah Rashad opened his iTunes Festival at SXSW set with \u201cSoliloquy.\u201d Watch now on iTunes. http://facebook.itunes.com/6181gPHU Timeline Photos",
           1394672496
         ],
@@ -2662,6 +2956,26 @@
           1393084816
         ],
         [
+          "http://facebook.itunes.com/666\n\nAll September, the #iTunesFestival rocked the Roundhouse in London with performances by Lady Gaga, Justin Timberlake, Katy Perry, Paramore, and more. It\u2019s your last week to watch your favorite Festival shows before we pack them away on October 31. http://facebook.itunes.com/666 iTunes Festival",
+          1383166799
+        ],
+        [
+          "Remember when Lady Gaga premiered songs from ARTPOP at the #iTunesFestival? Watch her amazing show, and all the Festival shows, on your computer with iTunes, with the Festival app, or using Apple TV until 10/31. \nhttp://facebook.itunes.com/5v9 Lady Gaga | iTunes Festival",
+          1382916153
+        ],
+        [
+          "Still buzzing from Lady Gaga\u2019s #iTunesFestival show? Pre-order and be one of the first to hear #ARTPOP when it\u2019s released. http://facebook.itunes.com/EPC Timeline Photos",
+          1381701601
+        ],
+        [
+          "Watch Lady Gaga, Paramore, Elton John & more at the #iTunesFestival with the free app. \nhttp://facebook.itunes.com/6Kq iTunes Festival",
+          1380317756
+        ],
+        [
+          "Tinie Tempah turned the #iTunesFestival stage into his personal \"Trampoline\". Watch the show now. \nhttp://facebook.itunes.com/428 Timeline Photos",
+          1380221178
+        ],
+        [
           "At the #iTunesFestival, Robin Thicke's voice was set on \"stun.\" He doled out frenetic sing-alongs on \u201cLost Without U\u201d and \u201cBlurred Lines,\u201d faithful covers of Michael Jackson and Al Green. Watch his show now. \nhttp://facebook.itunes.com/qVi iTunes Festival | Robin Thicke + Aloe Blacc",
           1380066623
         ],
@@ -2680,6 +2994,10 @@
         [
           "Get to know #itunesfestival opening acts Poli\u00e7a, The 1975, Eliza Doolittle, Fenech-Soler, Palma Violets and more. Watch their shows now. iTunes Festival | Opening Artists",
           1379820877
+        ],
+        [
+          "Jack Johnson and his acoustic guitar = bliss. Watch his #iTunesFestival show live from London. http://facebook.itunes.com/EMb iTunes Festival | Jack Johnson",
+          1379369174
         ],
         [
           "Vampire Weekend played a phenomenal collection of infectious, indie-pop hits at the #iTunesFestival. Watch it now. http://facebook.itunes.com/unM iTunes Festival | Vampire Weekend",
@@ -2702,8 +3020,16 @@
           1378774468
         ],
         [
+          "Which #iTunesFestival gigs have blown you away? \n\nWatch shows by Lady Gaga, Paramore, The Lumineers, Rizzle Kicks, Queens of the Stone Age, Sigur R\u00f3s, and Bastille now. http://facebook.itunes.com/4wc iTunes Festival Live Shows",
+          1378697506
+        ],
+        [
           "We\u2019re just getting started. Elton John, Arctic Monkeys, Kings of Leon, and more headline week 2 of the #iTunesFestival. Stream the shows with the free Festival app on your iPhone, iPad, or iPod touch, on your computer with iTunes, or using Apple TV. http://facebook.itunes.com/4wc iTunes Festival | Week 2 Lineup",
           1378648984
+        ],
+        [
+          "It's one of the most talked-about performances of the year. Watch Lady Gaga\u2019s artful and confessional #iTunesFestival set now. http://facebook.itunes.com/QIM iTunes Festival | Lady Gaga",
+          1378601048
         ],
         [
           "QOTSA ripped their #iTunesFestival set with raw intensity. Watch the show. http://facebook.itunes.com/T7O iTunes Festival | Queens of the Stone Age",
@@ -2718,12 +3044,36 @@
           1378321306
         ],
         [
+          "Add this to your Labor Day plans: Watch Polica and Sigur R\u00f3s perform at the #iTunesFestival.  \nhttp://facebook.itunes.com/j5e Timeline Photos",
+          1378140408
+        ],
+        [
+          "Less than an hour until Lady Gaga takes the #iTunesFestival stage. How many costume changes will she make? http://facebook.itunes.com/j5e Timeline Photos",
+          1378055401
+        ],
+        [
           "Are you ready? Lady Gaga kicks off the #iTunesFestival in stunning fashion on Sunday. Stream the shows for free with the official app on your iPhone, iPad, or iPod touch, on your computer with iTunes, or using Apple TV. http://facebook.itunes.com/j5e iTunes Festival | Week 1 Lineup",
           1377987261
         ],
         [
           "Get ready for 30 nights of free live music this September. http://facebook.itunes.com/j5e iTunes Festival 2013",
           1377727200
+        ],
+        [
+          "Mother Monster is back. Pre-order Lady Gaga\u2019s ARTPOP and \u201cApplause\u201d will download immediately. Timeline Photos",
+          1377223200
+        ],
+        [
+          "Watch Katy Perry, Lady Gaga, Justin Timberlake & more perform live at the iTunes Festival in London \u2014 with the official app. http://facebook.itunes.com/ZMW Timeline Photos",
+          1377082784
+        ],
+        [
+          "Do your eyes deceive you? Kyary Pamyu Pamyu has been described as the \u201cJapanese Lady GaGa.\u201d http://facebook.itunes.com/taP Timeline Photos",
+          1373508002
+        ],
+        [
+          "The iTunes Festival is back this September with 30 nights of live music including performances from Justin Timberlake, Thirty Seconds to Mars,  Jack Johnson, Jessie J , and more. Watch it free live or on demand on iTunes, the Festival app or Apple TV. \n\nhttp://facebook.itunes.com/0Ff Timeline Photos",
+          1369922401
         ],
         [
           "On July 1, 2007 the iTunes Festival debuts in London with 30 nights of free concerts. #DecadeOfiTunes \r\n\r\nhttp://facebook.itunes.com/KCt Timeline Photos",
@@ -2746,10 +3096,6 @@
           1348407313
         ],
         [
-          "P!NK keeps it real and high-energy in London. If you missed it, you can see it on iTunes. http://facebook.itunes.com/mhO iTunes Festival Contest Winner 2012",
-          1347994982
-        ],
-        [
           "\"Micro loves @pink too!! #itunesfestival\" http://facebook.itunes.com/lmZ iTunes Festival Live",
           1347805968
         ],
@@ -2758,16 +3104,12 @@
           1347797846
         ],
         [
-          "Did you miss  David Guetta at the iTunes Festival last night. You can watch his entire show now for free on iTunes. http://facebook.itunes.com/Mci iTunes Festival - Week 3 Performances",
-          1347797846
-        ],
-        [
-          "David Guetta is on stage now at the iTunes Festival. Watch the show live on iTunes or get the Festival app. http://facebook.itunes.com/BVh Timeline Photos",
-          1347738509
-        ],
-        [
           "Are you watching  The Killers at the iTunes Festival? Upload Instagram photos of you watching the #FestivalStream. Find your photo on the Instagram tab on our Facebook page. \n\n(By tagging your photo, Apple may repost your photo on our Facebook page. You are responsible for your postings and complying with Instagram\u2019s Terms of Use. You may request removal of a photo at iTunessocialmedia@apple.com.) Timeline Photos",
           1347388349
+        ],
+        [
+          "iTunes Festival is in full swing! Check out photos of Usher, Jack White, deadmau5, Norah Jones, and many more performing live at the Roundhouse on our Pinterest page. http://facebook.itunes.com/hrV Timeline Photos",
+          1347311502
         ],
         [
           "Tune in now to watch Beth Orton live from the iTunes Festival. Norah Jones is on stage at 1pm PST/9pm UK. http://facebook.itunes.com/Mci Timeline Photos",
@@ -2776,6 +3118,10 @@
         [
           "Are you watching Deadmau5 at the iTunes Festival? Upload Instagram photos of you streaming the show on your computer, iOS device, or Apple TV using #FestivalStream. \n\n(By tagging your photo, Apple may repost your photo on our Facebook page. You are responsible for your postings and complying with Instagram\u2019s Terms of Use. You may request removal of a photo at iTunessocialmedia@apple.com.) Timeline Photos",
           1347218760
+        ],
+        [
+          "From the \"Black Math\" opener to the cataclysmic, sing-along closer \"Seven Nation Army,\" Jack White and his two bands pummeled the Roundhouse with over 100 minutes of primal rock and blues. Watch his triumphant iTunes Festival set again for free on iTunes on your computer, via the app on your device, or with Apple TV. http://facebook.itunes.eu/StJ Timeline Photos",
+          1347146405
         ],
         [
           "Are you watching Jack White rock the iTunes Festival? Upload Instagram photos of you streaming the show on your computer, iOS device, or Apple TV using #FestivalStream. \n\n(By tagging your photo, Apple may repost your photo on our Facebook page. You are responsible for your postings and complying with Instagram\u2019s Terms of Use. You may request removal of a photo at iTunessocialmedia@apple.com.) Timeline Photos",
@@ -2802,34 +3148,18 @@
           1346472206
         ],
         [
-          "David Guetta\nhttp://facebook.itunes.com/LmF DJ Playlists on iTunes",
-          1335093020
-        ],
-        [
           "Florence + the Machine entranced and delighted the festival crowd. Coachella",
           1334590867
-        ],
-        [
-          "David Guetta brought house music to the mainstream. http://facebook.itunes.com/E1V David Guetta in Nothing but the Beat",
-          1333134551
-        ],
-        [
-          "Guetta drops the beat. http://facebook.itunes.com/E1V David Guetta in Nothing but the Beat",
-          1333134551
-        ],
-        [
-          "David Guetta is the face of house music. http://facebook.itunes.com/E1V David Guetta in Nothing but the Beat",
-          1333134551
         ]
       ],
-      "dates_start": 1360361281,
-      "dates_end": 1409951448,
-      "likes_avg": 1147,
-      "likes_stdev": 4951,
-      "comments_avg": 29,
-      "comments_stdev": 79,
-      "shares_avg": 78,
-      "shares_stdev": 287
+      "dates_start": 1364915885,
+      "dates_end": 1407987777,
+      "likes_avg": 1353,
+      "likes_stdev": 5211,
+      "comments_avg": 34,
+      "comments_stdev": 92,
+      "shares_avg": 89,
+      "shares_stdev": 295
     }
   ]
 }

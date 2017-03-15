@@ -53,6 +53,19 @@ def load_data(pagename):
         return pickle.load(f)
 
 
+def get_stopwords():
+    stop_words = set(stopwords.words('english'))
+
+    additions = {'timeline',
+                 'photos',
+                 'get',
+                 'know',
+                 'may',
+                }
+    stop_words |= additions
+    return stop_words
+
+
 def process_message(message):
     translator = str.maketrans({key: None for key in string.punctuation})
     message = message.translate(translator)
@@ -69,13 +82,8 @@ def process_message(message):
         if not (s.startswith('http') or s.startswith('www')):
             no_www.append(s)
 
-    no_timeline = []
-    for w in no_www:
-        if not ('timelin' in w or 'photo' in w):
-            no_timeline.append(w)
-
     no_numbers = []
-    for w in no_timeline:
+    for w in no_www:
         if w.isalpha():
             no_numbers.append(w)
 
@@ -83,7 +91,7 @@ def process_message(message):
 
 
 def vectorize(messages):
-    stop_words = set(stopwords.words('english'))
+    stop_words = get_stopwords()
     print(time.ctime(), 'Starting to vectorize.')
 
     # sublinear_tf recommended by TruncatedSVD documentation for use with
@@ -149,7 +157,7 @@ def most_common_words(corpus, n=10):
     Select n most common words from a given corpus.
     """
     words = corpus.split()
-    stop_words = set(stopwords.words('english'))
+    stop_words = get_stopwords()
     cleaned = [w for w in words if w not in stop_words]
     word_counts = Counter(cleaned)
     ordered = sorted(word_counts.items(), key=lambda x: x[1], reverse=True)
@@ -182,7 +190,7 @@ def highest_number_items(items, max_count=100):
 
 
 def count_vectorize(corpus):
-    stop_words = set(stopwords.words('english'))
+    stop_words = get_stopwords()
     vectorizer = CountVectorizer(stop_words=stop_words, max_features=10, ngram_range=(1, 5))
     features = vectorizer.fit_transform(corpus)
     return vectorizer.get_feature_names()

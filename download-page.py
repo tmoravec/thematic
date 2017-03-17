@@ -8,13 +8,23 @@ from pprint import pprint
 import pickle
 
 
-TOKEN = 'EAACEdEose0cBAHH8nZAVHf4bCGtnnii2fwcXS6xQqxOhaXR3ZC3tb1lWck3JxL4zitoueyQUEF81arVvznqNZBDcFPEL6eZBZB27IvJveZBgxQiU0bXIoAAAfmBh2jOaFoJjioidWfS55ZA1ZAR2rHOpQwVyppqTLZCae0HXQK7sGvSVmZB0nTqfqFp1ZB1nZB3KwXcZD'
+TOKEN = 'EAACEdEose0cBAC2KnYZAuIilg8Tfq4WsLPplM6zMZCD8VorUkFJzAL9tctNZB4zM0vLl3QG8M9FnbOGOtFXm01Du60cxtpdx9VrkZBCDZCeTuO6MUNZBJS8Y7dJdTw9XBbEypZBVaaZB45kdghx0I4StArr98iO4g4m0b8mUoWbNqIWJJyI4zxLiCxc7nb7K2hgZD'
 URL = 'https://graph.facebook.com/v2.8/{}?fields={}&access_token=' + TOKEN
 
 
 def get_page(url, field_name):
     print('Getting page {}'.format(url))
-    r = requests.get(url)
+    while True:
+        try:
+            r = requests.get(url)
+        except requests.exceptions.ConnectionError as e:
+            # retry once.
+            print(e)
+            print('Retrying...')
+            time.sleep(1)
+        else:
+            break
+
     try:
         content = r.json()
     except json.decoder.JSONDecodeError:
@@ -51,9 +61,12 @@ def get_single_value(url, name):
 
 def main():
     try:
-        pagename = sys.argv[1].split('.pkl')[0]
+        pagename = sys.argv[1]
+        if pagename.endswith('.pkl'):
+            pagename = pagename.split('.pkl')[0]
     except IndexError:
-        pagename = 'psychologytoday'
+        print('Usage: ./download-page.py <pagename>')
+        sys.exit(1)
 
     fan_count = get_single_value(URL.format(pagename, 'fan_count'), 'fan_count')
     name = get_single_value(URL.format(pagename, 'name'), 'name')

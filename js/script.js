@@ -34,6 +34,30 @@ var intropage = Vue.component('intropage', {
     },
 });
 
+var introtext = Vue.component('introtext', {
+    template: '#introtext',
+
+});
+
+var intropicture = Vue.component('intropicture', {
+    template: '#intropicture',
+});
+
+var about = Vue.component('about', {
+    template: '#about',
+});
+
+var explore = Vue.component('explore', {
+    template: '#explore',
+    props: ['pages'],
+
+    data: function() {
+    	return {
+	    pages: []
+	}
+    },
+});
+
 var pagelink = Vue.component('pagelink', {
 
     template: '#pagelink',

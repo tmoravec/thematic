@@ -1,76 +1,113 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title>topic-analyst</title>
+    <head>
+        <title>Thématic</title>
 
-    <!--<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">-->
-	<link rel="stylesheet" type="text/css" href="css/styles.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-</head>
-<body>
+        <!--<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">-->
+        <link rel="stylesheet" type="text/css" href="css/styles.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta charset="UTF-8">
+    </head>
+    <body>
 
-	<div id="main">
+        <div id="main">
 
-        <intropage>
+            <intropage>
 
-        </intropage>
-
-    </div>
-
-
-    <!--
-        Templates.
-    -->
-
-    <template id="intropage">
-        <div class="container">
-
-            <div class="header">
-                <div class="header-wrapper">
-                    <div class="header-margin"></div>
-                    <div class="header-title">Topic Analyst</div>
-                </div>
-            </div>
-
-            <div class="content">
-                <div class="intro-page-content">
-                    <div class="intro-explanation">
-                        Topic Analyst looks at a Facebook page and uses
-                        Machine Learning to group posts by topic.
-                        At a glance, we can see what a huge page is about
-                        and we can run some statistics to see what topics
-			are interesting for its fans.<br />
-			Let us know what page(s) are you interested in! 
-			Reach out to moravec.tadeas@gmail.com.
-                    </div>
-                    <div class="select-wrapper">
-                        <div class="select-header">Select page:</div>
-                        <div class="select-pages-wrapper">
-                            <div v-for="i in pages">
-                                <pagelink :pageinfo="i"></pagelink>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            </intropage>
 
         </div>
 
-    </template>
+
+        <!--
+            Templates.
+        -->
+
+        <template id="intropage">
+            <div class="container">
+
+                <div class="header">
+                    <div class="header-wrapper">
+                        <div class="header-margin"></div>
+                        <div class="header-title">Thématic</div>
+                    </div>
+                </div>
+
+                <div class="content">
+
+                    <div class="intro-top">
+                        <introtext> </introtext>
+                        <intropicture> </intropicture>
+                    </div>
+                    <div class="intro-rest">
+                        <about> </about>
+                        <explore :pages="pages"> </explore>
+                    </div>
+                </div>
+
+            </div>
+
+        </template>
+
+        <template id="introtext">
+            <div class="intro-text">
+                <div class="intro-text-inner">
+                    Making sense <br />
+                    of the noisy world.
+                </div>
+            </div>
+        </template>
+
+        <template id="intropicture">
+            <div class="intro-picture">
+                <img src="img/clustering.png" alt="Clustering noisy data"/>
+            </div>
+        </template>
+
+        <template id="about">
+            <div class="intro-explanation">
+                <h2>About</h2>
+                <p>
+                Social media tend to be very noisy. It can be difficult to see what themes
+                generate most engagement on larger Facebook pages.
+                </p>
+                <p>
+                Thématic detects what major topics a page talks about. It analyzes which 
+                bring the most and least engagement and which should the page focus on.
+                Useful for quick understanding what is an unknown page about.
+                </p>
+                <p>
+                Thématic uses Machine Learning on data obtained from the Facebook Graph API.
+                It then runs some elementary statistics on it, giving us some surprisingly
+                useful insights into what the fans do and don't like.
+                </p>
+                <p>
+                Let us know what page(s) are you interested in! 
+                Reach out to moravec.tadeas@gmail.com or open an issue on Github.
+                </p>
+            </div>
+        </template>
+
+        <template id="explore">
+            <div class="intro-explore">
+                <h2>Explore</h2>
+                    <pagelink v-for="i in pages" :pageinfo="i"></pagelink>
+            </div>
+
+        </template>
+
+
+        <template id="pagelink">
+
+            <div class="select-page" v-on:click="loadPage">{{ pageinfo[0] }}</div>
+
+        </template>
 
 
 
-    <template id="pagelink">
+        <script src="js/vue.js"></script>
+        <script src="js/vue-resource.min.js"></script>
+        <script src="js/script.js"></script>
 
-        <div class="select-page" v-on:click="loadPage">{{ pageinfo[0] }}</div>
-
-    </template>
-
-
-
-	<script src="js/vue.js"></script>
-	<script src="js/vue-resource.min.js"></script>
-	<script src="js/script.js"></script>
-
-</body>
+    </body>
 </html>

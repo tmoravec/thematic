@@ -177,7 +177,11 @@ html{
 	width: 100%;
 	justify-content: space-around;
 	margin-top: 54px;
+	max-width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
 }
+
 
 .intro-text {
 	display: flex;
@@ -222,8 +226,12 @@ html{
     flex-direction: row;
     flex-wrap: wrap;
 
-    justify-content: center;
+    justify-content: space-around;
 	margin-top: 56px;
+	
+	max-width: 900px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .intro-rest h2 {

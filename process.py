@@ -24,7 +24,7 @@ from sklearn.manifold import TSNE
 
 import gensim
 
-SINCE = '2012-01-01T00:00:00+0000'
+SINCE = '2000-01-01T00:00:00+0000'
 OUTPUT_DIRECTORY = 'clusters'
 
 

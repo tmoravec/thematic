@@ -63,10 +63,10 @@ var pagelink = Vue.component('pagelink', {
     template: '#pagelink',
     props: ['pageinfo'],
 
-    methods: {
-        loadPage: function() {
-            document.location.href = "page.html?page=" + this.pageinfo[1];
-        }
+    data: function() {
+	return {
+	    url: "page.html?page=" + this.pageinfo[1]
+	}
     }
 });
 

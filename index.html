@@ -99,9 +99,9 @@
 
         <template id="pagelink">
 
-                <div class="select-page" v-on:click="loadPage">
-                    <a href="#">{{ pageinfo[0] }}</a>
-                </div>
+            <div class="select-page">
+                <a v-bind:href="url">{{ pageinfo[0] }}</a>
+            </div>
 
         </template>
 

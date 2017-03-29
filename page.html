@@ -45,7 +45,9 @@
 
     <template id="vue-header">
 	<div class="header-wrapper">
-	    <div class="header-arrow material-icons" v-on:click="back">arrow_back</div>
+	    <a href="index.html">
+		<div class="header-arrow material-icons" v-on:click="back">arrow_back</div>
+	    </a>
 	    <div class="header-title">Analyzing {{ page_name_displayed }}</div>
 	</div>
     </template>

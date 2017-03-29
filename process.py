@@ -55,14 +55,13 @@ def load_data(pagename):
 def get_stopwords():
     stop_words = set(stopwords.words('english'))
 
-    additions = {'timeline',
-                 'photo',
-                 'photos',
+    additions = {
                  'get',
                  'know',
                  'may',
                  'bit',
                  'ly',
+                 'www',
                  'http',
                  'https',
                  'gl',
@@ -100,13 +99,8 @@ def process_message(message):
     stemmer = SnowballStemmer('english')
     stems = [stemmer.stem(x) for x in words]
 
-    no_www = []
-    for s in stems:
-        if not (s.startswith('http') or s.startswith('www')):
-            no_www.append(s)
-
     no_numbers = []
-    for w in no_www:
+    for w in stems:
         if w.isalpha():
             no_numbers.append(w)
 
@@ -208,7 +202,7 @@ def count_vectorize(corpus, count=10):
     for message in corpus:
         messages.append(process_message(message))
 
-    vectorizer = CountVectorizer(stop_words=stop_words, max_features=count, ngram_range=(1, 5))
+    vectorizer = CountVectorizer(stop_words=stop_words, max_features=count, ngram_range=(1, 5), max_df=0.7)
     features = vectorizer.fit_transform(messages)
     return vectorizer.get_feature_names()
 
@@ -220,15 +214,18 @@ def best_number_clusters(X):
     scores = []
 
     cluster_sizes = range(15, 41, 1)
-    for n in cluster_sizes:
-        predictor = AgglomerativeClustering(n_clusters=n, connectivity=None, linkage='ward', affinity='euclidean')
-        labels = predictor.fit_predict(X)
+    try:
+        for n in cluster_sizes:
+            predictor = AgglomerativeClustering(n_clusters=n, connectivity=None, linkage='ward', affinity='euclidean')
+            labels = predictor.fit_predict(X)
 
-        indices_to_keep = remove_noise_clusters(X, labels)
-        labelsI = [labels[i] for i in indices_to_keep]
-        XI = [X[i] for i in indices_to_keep]
+            indices_to_keep = remove_noise_clusters(X, labels)
+            labelsI = [labels[i] for i in indices_to_keep]
+            XI = [X[i] for i in indices_to_keep]
 
-        scores.append(silhouette_score(XI, labelsI))
+            scores.append(silhouette_score(XI, labelsI))
+    except KeyboardInterrupt:
+        pass
 
     index = scores.index(max(scores))
     size = cluster_sizes[index]
@@ -237,7 +234,13 @@ def best_number_clusters(X):
 
 
 def most_important_features(tf, vectorizer, common, count=5):
-    blacklist = ['new', 'research', 'new research']
+    blacklist = {
+                 'new',
+                 'research',
+                 'new research',
+                 'whi',
+                 'realli',
+                }
 
     flat = [item for sublist in tf for item in sublist]
     highest = sorted(flat, reverse=True)
@@ -403,6 +406,7 @@ def text_clustering(raw_data, pagename):
     #predictor = KMeans(n_clusters=n_clusters)
     print(time.ctime(), 'Starting to fit.')
     labels = predictor.fit_predict(X)
+    print('Cluster sizes:          ', len(np.bincount(labels)), np.bincount(labels))
 
     indices_to_keep = remove_noise_clusters(X, labels)
 
@@ -415,7 +419,6 @@ def text_clustering(raw_data, pagename):
     messages = [messages[i] for i in indices_to_keep]
     dates = [dates[i] for i in indices_to_keep]
 
-    print('Cluster sizes:          ', len(np.bincount(labels)), np.bincount(labels))
 
     print(time.ctime()              , 'Starting to score.')
     print('Calinski harabaz score: {:.4f}'.format(calinski_harabaz_score(X, labels)))

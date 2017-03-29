@@ -22,9 +22,7 @@ from sklearn.preprocessing import Normalizer
 from sklearn.pipeline import make_pipeline
 from sklearn.manifold import TSNE
 
-import gensim
-
-SINCE = '2000-01-01T00:00:00+0000'
+SINCE = '2012-01-01T00:00:00+0000'
 OUTPUT_DIRECTORY = 'clusters'
 
 
@@ -58,6 +56,7 @@ def get_stopwords():
     stop_words = set(stopwords.words('english'))
 
     additions = {'timeline',
+                 'photo',
                  'photos',
                  'get',
                  'know',
@@ -178,18 +177,6 @@ def text_features(raw_data):
     return np.array(likes), np.array(comments), np.array(shares), features, texts, dates, vectorizer
 
 
-def most_common_words(corpus, n=10):
-    """
-    Select n most common words from a given corpus.
-    """
-    words = corpus.split()
-    stop_words = get_stopwords()
-    cleaned = [w for w in words if w not in stop_words]
-    word_counts = Counter(cleaned)
-    ordered = sorted(word_counts.items(), key=lambda x: x[1], reverse=True)
-    return ordered[:n]
-
-
 def list_stats(L):
     mean = np.mean(L)
     std = np.std(L)
@@ -215,10 +202,14 @@ def highest_number_items(items, max_count=100):
     return hnitems[:10]
 
 
-def count_vectorize(corpus):
+def count_vectorize(corpus, count=10):
     stop_words = get_stopwords()
-    vectorizer = CountVectorizer(stop_words=stop_words, max_features=10, ngram_range=(1, 5))
-    features = vectorizer.fit_transform(corpus)
+    messages = []
+    for message in corpus:
+        messages.append(process_message(message))
+
+    vectorizer = CountVectorizer(stop_words=stop_words, max_features=count, ngram_range=(1, 5))
+    features = vectorizer.fit_transform(messages)
     return vectorizer.get_feature_names()
 
 
@@ -245,18 +236,21 @@ def best_number_clusters(X):
     return size
 
 
-def most_important_features(tf, vectorizer, count=10):
+def most_important_features(tf, vectorizer, common, count=5):
+    blacklist = ['new', 'research', 'new research']
+
     flat = [item for sublist in tf for item in sublist]
     highest = sorted(flat, reverse=True)
     words = set()
     feature_names = vectorizer.get_feature_names()
-    for i in tf:
+    for message in tf:
         for h in highest:
-            if h in i:
-                word = feature_names[i.index(h)]
-                words.add(word)
-                if len(words) == count:
-                    return list(words)
+            if h in message:
+                word = feature_names[message.index(h)]
+                if word in common and word not in blacklist:
+                    words.add(word)
+                    if len(words) == count:
+                        return list(words)
 
     return list(words)
 
@@ -307,8 +301,8 @@ def print_clusters(labels, likes, comments, shares, messages, tf, dates,
         shares_avg = int(np.mean(c['shares']))
         shares_stdev = int(np.std(c['shares']))
 
-        important = most_important_features(c['tf'], vectorizer)
-        common = count_vectorize(c['messages'])
+        common = count_vectorize(c['messages'], 10)
+        important = most_important_features(c['tf'], vectorizer, common)
 
         dates_start = int(np.mean(c['dates']) - np.std(c['dates']))
         dates_end = int(np.mean(c['dates']) + np.std(c['dates']))
@@ -431,48 +425,6 @@ def text_clustering(raw_data, pagename):
     plot_clusters(X, labels, pagename)
     print(time.ctime(), 'Printing.')
     print_clusters(labels, likes, comments, shares, messages, tf, dates, vectorizer, orig_size, pagename, fan_count, page_name_displayed)
-
-
-def create_bag_of_centroids(wordlist, word_centroid_map):
-    #
-    # The number of clusters is equal to the highest cluster index
-    # in the word / centroid map
-    num_centroids = max(word_centroid_map.values()) + 1
-    #
-    # Pre-allocate the bag of centroids vector (for speed)
-    bag_of_centroids = np.zeros(num_centroids, dtype='float32')
-    #
-    # Loop over the words in the review. If the word is in the vocabulary,
-    # find which cluster it belongs to, and increment that cluster count
-    # by one
-    for word in wordlist:
-        if word in word_centroid_map:
-            index = word_centroid_map[word]
-            bag_of_centroids[index] += 1
-    #
-    # Return the "bag of centroids"
-    return bag_of_centroids
-
-
-def get_features_w2v(raw_data):
-    likes, comments, shares, tf, messages, dates, vectorizer = text_features(raw_data)
-
-    messages = [process_message(m).split() for m in messages]
-    model = gensim.models.Word2Vec(messages, size=200, window=5, min_count=1, workers=4)
-    model.init_sims(True)
-
-    n_clusters = int(model.syn0.shape[0] / 5)
-    clustering = AgglomerativeClustering(n_clusters=n_clusters, linkage='ward', affinity='euclidean')
-    idx = clustering.fit_predict(model.syn0)
-    word_centroid_map = dict(zip(model.index2word, idx))
-
-    X = []
-    for message in messages:
-        bag = create_bag_of_centroids(message, word_centroid_map)
-        X.append(bag)
-
-    return X
-
 
 
 def main():

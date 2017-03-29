@@ -90,15 +90,11 @@
                 <div class="cluster-title">Topic {{ item.number }}</div>
 
                 <div class="cluster-stats">
-                    <div class="cluster-stats-header">Most important words</div>
+                    <div class="cluster-stats-header">Keywords</div>
                     <div class="cluster-stats-values">
                         <div v-for="i in item.important" class="word">{{ i }}</div>
                     </div>
-                    <div class="cluster-stats-header">Most common words</div>
-                    <div class="cluster-stats-values">
-                        <div v-for="i in item.common" class="word">{{ i }}</div>
-                    </div>
-                    <div class="cluster-stats-header">Messages statistics</div>
+                    <div class="cluster-stats-header">Statistics</div>
 		    <div class="cluster-stats-values">
 			{{ item.messages.length }} messages.
 			Likes: {{ item.likes_avg }} +- {{ item.likes_stdev }},

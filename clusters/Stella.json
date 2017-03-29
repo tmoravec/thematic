@@ -4,34 +4,35 @@
   "globalstats": {
     "fan_count": 8124321,
     "messages": 958,
-    "likes_avg": 534,
-    "likes_stdev": 1314,
-    "comments_avg": 19,
-    "comments_stdev": 43,
-    "shares_avg": 55,
-    "shares_stdev": 113,
+    "likes_avg": 523,
+    "likes_stdev": 1183,
+    "comments_avg": 20,
+    "comments_stdev": 42,
+    "shares_avg": 56,
+    "shares_stdev": 108,
     "graph_uri": "clusters/Stella.png"
   },
   "clusters": [
     {
       "number": 1,
       "important": [
-        "celebr",
         "cheer",
-        "weekend timelin",
-        "weekend"
+        "stella",
+        "stella artoi",
+        "celebr",
+        "artoi"
       ],
       "common": [
+        "artoi",
         "celebr",
-        "celebr long",
         "celebr long weekend",
         "celebr long weekend timelin",
         "cheer",
-        "post",
-        "post wherev",
-        "timelin",
-        "weekend",
-        "weekend timelin"
+        "day post photo wherev",
+        "perfect",
+        "stella",
+        "stella artoi",
+        "wait"
       ],
       "messages": [
         [
@@ -45,14 +46,6 @@
         [
           "The art of a well-balanced #weekend. Timeline Photos",
           1377356400
-        ],
-        [
-          "The ideal weekend accessory: Timeline Photos",
-          1370786401
-        ],
-        [
-          "How are you capping off your weekend? Cheers to Erik S. for the photo! Timeline Photos",
-          1370206801
         ],
         [
           "Who are you waiting for this weekend? Timeline Photos",
@@ -83,10 +76,6 @@
           1351881135
         ],
         [
-          "Your reward, for a successful weekend complete: Timeline Photos",
-          1350913202
-        ],
-        [
           "Cheers to Labor Day! Post a photo from wherever you\u2019re celebrating the long weekend. Timeline Photos",
           1346677201
         ],
@@ -99,139 +88,60 @@
           1344605803
         ],
         [
+          "Where will you be practicing your perfect pour this weekend? Timeline Photos",
+          1344009976
+        ],
+        [
+          "Full flavour with just a hint of bitterness makes Stella Artois a perfect pair for grilled meat. What\u2019s on the grill this weekend? Timeline Photos",
+          1341672390
+        ],
+        [
           "Patiently waiting to welcome you to the weekend. Timeline Photos",
           1341573850
         ],
         [
-          "May your weekend memories get you through your Monday. Cheers. Timeline Photos",
-          1340628540
+          "Stella Artois at sunset. Check it off your To-Do List this weekend! Timeline Photos",
+          1339765751
         ]
       ],
-      "dates_start": 1343309367,
-      "dates_end": 1377025914,
-      "likes_avg": 1048,
-      "likes_stdev": 870,
-      "comments_avg": 39,
-      "comments_stdev": 33,
-      "shares_avg": 137,
-      "shares_stdev": 139
+      "dates_start": 1339709985,
+      "dates_end": 1375105392,
+      "likes_avg": 1076,
+      "likes_stdev": 915,
+      "comments_avg": 44,
+      "comments_stdev": 36,
+      "shares_avg": 145,
+      "shares_stdev": 152
     },
     {
       "number": 2,
       "important": [
-        "cheer",
-        "start",
-        "week",
-        "weekend"
-      ],
-      "common": [
-        "cheer",
-        "complet",
-        "long",
-        "long week complet",
-        "start",
-        "timelin",
-        "week",
-        "week complet",
-        "week timelin",
-        "weekend"
-      ],
-      "messages": [
-        [
-          "Here\u2019s to a start of something exceptional. Timeline Photos",
-          1408734001
-        ],
-        [
-          "To another week completed. Timeline Photos",
-          1388772000
-        ],
-        [
-          "A glimmer of anticipation to get you through the week: Timeline Photos",
-          1384366201
-        ],
-        [
-          "We thought it fitting to pay tribute to some of our most beloved designers during New York Fashion Week: In Celebration of NYFW",
-          1378839297
-        ],
-        [
-          "To start the weekend off right: Timeline Photos",
-          1373666401
-        ],
-        [
-          "A Chalice in hand: the first sign your weekend is off to a good start. Timeline Photos",
-          1365272400
-        ],
-        [
-          "Fresh week, fresh start. How are you topping off your outfit this morning? Timeline Photos",
-          1364216401
-        ],
-        [
-          "Enjoying the simple pleasures in Madrid, Spain this week. Where are you? Timeline Photos",
-          1360257639
-        ],
-        [
-          "Your encouragement for getting through the week... Timeline Photos",
-          1358885402
-        ],
-        [
-          "Start your week in style - with Stella Artois. Timeline Photos",
-          1357576801
-        ],
-        [
-          "Cheers from Rome, Italy. Where are you kicking off the start of the week? Timeline Photos",
-          1350318603
-        ],
-        [
-          "Cheers to a long week completed. Where will you be celebrating? Timeline Photos",
-          1348839001
-        ],
-        [
-          "Congratulations on being halfway through the week! Timeline Photos",
-          1346851801
-        ],
-        [
-          "Welcome to Wednesday! Have you started your weekend countdown yet? Timeline Photos",
-          1346270007
-        ],
-        [
-          "Reward yourself for a long week completed. Cheers. Timeline Photos",
-          1340377164
-        ]
-      ],
-      "dates_start": 1346628938,
-      "dates_end": 1383136811,
-      "likes_avg": 904,
-      "likes_stdev": 732,
-      "comments_avg": 29,
-      "comments_stdev": 29,
-      "shares_avg": 116,
-      "shares_stdev": 113
-    },
-    {
-      "number": 3,
-      "important": [
-        "perfect pour",
-        "perfect",
         "pour",
+        "stella",
+        "chalic",
         "stella artoi",
         "artoi"
       ],
       "common": [
         "artoi",
-        "perfect",
+        "chalic",
+        "everi",
         "perfect pour",
         "perfect timelin",
         "pour",
         "pour ritual",
         "ritual",
         "stella",
-        "stella artoi",
-        "timelin"
+        "stella artoi"
       ],
       "messages": [
         [
           "That pour, though. \n\nPhoto credit: http://nickglimenakis.com/ Timeline Photos",
           1445090941
+        ],
+        [
+          "For a professional pour, hold the chalice at a 45-degree angle to liberate the aroma of the hops in Stella Artois and produce the perfect amount of foam. Timeline Photos",
+          1444055225
         ],
         [
           "Concrete jungle meets perfectly poured chalice. #NYC Timeline Photos",
@@ -258,6 +168,10 @@
           1409598302
         ],
         [
+          "The Chalice: Not merely a glass, but a perfectly constructed vessel to keep your Stella Artois delicious to the last drop. Timeline Photos",
+          1403206501
+        ],
+        [
           "Embrace the weekend with a perfect pour. Timeline Photos",
           1402688100
         ],
@@ -280,6 +194,10 @@
         [
           "With over 600 years of brewing expertise in every Chalice, Stella Artois deserves to be poured perfectly. Timeline Photos",
           1395919908
+        ],
+        [
+          "The perfect brunch includes sips of Stella Artois to bring\nthe flavors of this Croque Madame to life. Timeline Photos",
+          1393709822
         ],
         [
           "Perfectly chilled for the holidays. Timeline Photos",
@@ -330,6 +248,10 @@
           1367860878
         ],
         [
+          "Stella Artois. The perfect conversation starter. Timeline Photos",
+          1367442000
+        ],
+        [
           "Who will be the first to claim this pour? Timeline Photos",
           1365349200
         ],
@@ -338,16 +260,24 @@
           1364655001
         ],
         [
-          "Your weekend outfit isn\u2019t complete without a perfectly poured Chalice. Timeline Photos",
-          1360512702
-        ],
-        [
           "A perfectly poured Stella Artois - that\u2019s our idea of timeless beauty. What\u2019s yours? Timeline Photos",
           1358170801
         ],
         [
           "Who can name this step from our 9-Step Pouring Ritual? Timeline Photos",
           1354108202
+        ],
+        [
+          "Your perfect chalice awaits. Timeline Photos",
+          1353337200
+        ],
+        [
+          "Stella Artois: always the perfect ingredient. Timeline Photos",
+          1352656801
+        ],
+        [
+          "Autumn and Stella Artois: the perfect combination. Timeline Photos",
+          1352220001
         ],
         [
           "Tis better to have poured and lost, than to never have poured at all. Timeline Photos",
@@ -374,10 +304,6 @@
           1347804001
         ],
         [
-          "Where will you be practicing your perfect pour this weekend? Timeline Photos",
-          1344009976
-        ],
-        [
           "Every Father deserves a perfectly poured Stella Artois. Cheers to all of the dads out there! Timeline Photos",
           1339940171
         ],
@@ -394,258 +320,312 @@
           1329252693
         ]
       ],
-      "dates_start": 1349422345,
-      "dates_end": 1406736835,
-      "likes_avg": 747,
-      "likes_stdev": 1476,
-      "comments_avg": 23,
-      "comments_stdev": 37,
-      "shares_avg": 104,
-      "shares_stdev": 197
+      "dates_start": 1350387475,
+      "dates_end": 1408889397,
+      "likes_avg": 739,
+      "likes_stdev": 1409,
+      "comments_avg": 22,
+      "comments_stdev": 34,
+      "shares_avg": 99,
+      "shares_stdev": 186
+    },
+    {
+      "number": 3,
+      "important": [
+        "enjoy",
+        "week",
+        "first",
+        "start",
+        "cheer"
+      ],
+      "common": [
+        "cheer",
+        "countri",
+        "enjoy",
+        "first",
+        "guess",
+        "start",
+        "week",
+        "week timelin",
+        "week timelin photo",
+        "weekend"
+      ],
+      "messages": [
+        [
+          "For you. #enjoy Timeline Photos",
+          1439920320
+        ],
+        [
+          "Enjoying the harbor in the land down under. #ViewFromMyChalice Timeline Photos",
+          1435396021
+        ],
+        [
+          "She\u2019s a few minutes late. Plenty of time to order the right first impression. Timeline Photos",
+          1431799201
+        ],
+        [
+          "First impression: impressive. Timeline Photos",
+          1431286201
+        ],
+        [
+          "Cheers to great friends and the impromptu roof party. Timeline Photos",
+          1430505000
+        ],
+        [
+          "Welcoming sweater weather with a cheers with friends. Timeline Photos",
+          1413932254
+        ],
+        [
+          "Here\u2019s to a start of something exceptional. Timeline Photos",
+          1408734001
+        ],
+        [
+          "Cheers to the Belgium national team on their first match in over a decade! Timeline Photos",
+          1403006701
+        ],
+        [
+          "To another week completed. Timeline Photos",
+          1388772000
+        ],
+        [
+          "Spread the cheer. Timeline Photos",
+          1386082206
+        ],
+        [
+          "A glimmer of anticipation to get you through the week: Timeline Photos",
+          1384366201
+        ],
+        [
+          "Fall\u2019s in full swing, and it\u2019s time to dust your favourite shoes off. Which will you be grabbing first? Timeline Photos",
+          1383001200
+        ],
+        [
+          "We thought it fitting to pay tribute to some of our most beloved designers during New York Fashion Week: In Celebration of NYFW",
+          1378839297
+        ],
+        [
+          "It defined speed, muscle and style in the 1970s, and was the getaway vehicle of choice for a classic film of the same decade. \r\n\r\nAny guesses? Timeline Photos",
+          1375366200
+        ],
+        [
+          "Are you ready for the #WhereisStellaArtois contest?\r\n\r\nJoin us on Twitter NOW for our first tweet. Guess correctly and you could WIN Stella Artois prizes! https://twitter.com/StellaArtois Timeline Photos",
+          1374937801
+        ],
+        [
+          "To start the weekend off right: Timeline Photos",
+          1373666401
+        ],
+        [
+          "Our friends at GQ have compiled \u2018The 12 Most Outstanding Restaurants of 2013\u2019 in the U.S. \r\n\r\nWhich country should we feature next? Timeline Photos",
+          1372285200
+        ],
+        [
+          "The ideal weekend accessory: Timeline Photos",
+          1370786401
+        ],
+        [
+          "How are you capping off your weekend? Cheers to Erik S. for the photo! Timeline Photos",
+          1370206801
+        ],
+        [
+          "A Chalice in hand: the first sign your weekend is off to a good start. Timeline Photos",
+          1365272400
+        ],
+        [
+          "Fresh week, fresh start. How are you topping off your outfit this morning? Timeline Photos",
+          1364216401
+        ],
+        [
+          "Can you guess what film this is? Timeline Photos",
+          1361481763
+        ],
+        [
+          "We\u2019re going to make you an offer you can\u2019t refuse: a special \u2018Cheers\u2019 to the first person who identifies the Oscar-winning film below: Timeline Photos",
+          1361385044
+        ],
+        [
+          "Artist Olly Moss created 85 clever illustrations of past \r\nOscar winners. Think you can guess more than we \r\ncan? http://bit.ly/W2A8or Timeline Photos",
+          1361323245
+        ],
+        [
+          "Cheers to Ross Stuart, for being the first to correctly guess the Oscar-winning film below. Well done, sir. Timeline Photos",
+          1361300400
+        ],
+        [
+          "Enjoying the simple pleasures in Madrid, Spain this week. Where are you? Timeline Photos",
+          1360257639
+        ],
+        [
+          "Your encouragement for getting through the week... Timeline Photos",
+          1358885402
+        ],
+        [
+          "If at first you don\u2019t succeed... Timeline Photos",
+          1358006401
+        ],
+        [
+          "What happens when two friends travel around the world tasting every possible food imaginable? This delicious video: http://vimeo.com/27243869 EAT 3 guys, 44 days, 11 countries, 18 flights, 38 thousand miles, an exploding volcano, 2 cameras and almost a terabyte of footage... all to turn 3 ambitious linear\u2026",
+          1357402200
+        ],
+        [
+          "Cheers from sunny Barcelona. Who else is enjoying post-holiday sunny weather? Timeline Photos",
+          1356707400
+        ],
+        [
+          "Cheers from Las Vegas! Where are you enjoying your Stella Artois today? Timeline Photos",
+          1351350003
+        ],
+        [
+          "Your reward, for a successful weekend complete: Timeline Photos",
+          1350913202
+        ],
+        [
+          "Cheers from Rome, Italy. Where are you kicking off the start of the week? Timeline Photos",
+          1350318603
+        ],
+        [
+          "Cheers to a long week completed. Where will you be celebrating? Timeline Photos",
+          1348839001
+        ],
+        [
+          "Since discovering this retro Stella Artois bottle a few weeks ago, we\u2019ve been trying to figure out how old it is. Anyone have a guess? Timeline Photos",
+          1347195601
+        ],
+        [
+          "Congratulations on being halfway through the week! Timeline Photos",
+          1346851801
+        ],
+        [
+          "This old photo from the vaults is certainly impressive. Can anyone guess where all those barrels were headed to? Timeline Photos",
+          1346765400
+        ],
+        [
+          "Cheers from cottage country! Where are enjoying the first weekend of September? Timeline Photos",
+          1346587201
+        ],
+        [
+          "Welcome to Wednesday! Have you started your weekend countdown yet? Timeline Photos",
+          1346270007
+        ],
+        [
+          "Cheers to Friday. What will you do to be first at the bar? Timeline Photos",
+          1345204461
+        ],
+        [
+          "Cheers from Toronto! Post a photo from wherever you\u2019re enjoying a Stella Artois today. Timeline Photos",
+          1344703158
+        ],
+        [
+          "Cheers to the determination and dedication of all the countries and their athletes competing in London! Timeline Photos",
+          1343577356
+        ],
+        [
+          "Cheers to you - It's the weekend\u2026and for your patience, a refreshing reward. Timeline Photos",
+          1340984367
+        ],
+        [
+          "May your weekend memories get you through your Monday. Cheers. Timeline Photos",
+          1340628540
+        ],
+        [
+          "Reward yourself for a long week completed. Cheers. Timeline Photos",
+          1340377164
+        ]
+      ],
+      "dates_start": 1343113166,
+      "dates_end": 1399539880,
+      "likes_avg": 789,
+      "likes_stdev": 758,
+      "comments_avg": 33,
+      "comments_stdev": 39,
+      "shares_avg": 98,
+      "shares_stdev": 134
     },
     {
       "number": 4,
       "important": [
         "perfect",
-        "artoi timelin",
-        "stella",
-        "stella artoi",
-        "artoi"
+        "day",
+        "first"
       ],
       "common": [
-        "artoi",
-        "artoi perfect",
-        "artoi timelin",
+        "day",
+        "fall",
+        "first",
+        "first day",
         "perfect",
-        "side",
-        "stella",
-        "stella artoi",
-        "stella artoi timelin",
-        "timelin",
-        "weekend"
+        "sunday",
+        "view first",
+        "view first day",
+        "view timelin",
+        "view timelin photo"
       ],
       "messages": [
         [
-          "Saaz Hops: The star ingredient in Stella Artois.\n\nLearn more about what\u2019s inside our chalice here: https://www.youtube.com/watch?v=V3-1xx63OSw Timeline Photos",
-          1440266100
+          "Fall has gifted us with the perfect view for a Sunday. Mobile Uploads",
+          1413162453
         ],
         [
-          "Any day is a lucky one if you order a Stella Artois. Timeline Photos",
-          1426600807
+          "Our view on the first day of Fall. Cheers to the changing seasons. Timeline Photos",
+          1411499400
         ],
         [
-          "Have you seen our limited-edition 750 mL bottle this season? Give one alongside a Chalice this year to honor the rich history of Stella Artois. Timeline Photos",
-          1418418900
+          "A dreamy view for a Sunday afternoon. Timeline Photos",
+          1385310000
         ],
         [
-          "The floral body and crisp hop finish of Stella Artois accentuate holiday spices like cinnamon and clove. What food do you serve to your guests alongside Stella Artois? Timeline Photos",
-          1418246401
+          "What's your Thursday view? Timeline Photos",
+          1379000670
         ],
         [
-          "The holiday season is here, what are you serving along side Stella Artois? Timeline Photos",
-          1417373280
+          "A fine view on the first day of #September. Timeline Photos",
+          1378044600
         ],
         [
-          "Every time you give a Stella Artois, you pass down the tradition of the first Stella Artois ever given. Timeline Photos",
-          1415651580
+          "The perfect patio view, courtesy of Krista S. Timeline Photos",
+          1374003001
         ],
         [
-          "A gilded centerpiece to brighten any table. Timeline Photos",
-          1415399821
+          "How\u2019s the view from up there? Timeline Photos",
+          1371735001
         ],
         [
-          "Stella Artois is a perfect complement to fresh oysters. What flavors do you enjoy alongside your Stella Artois? Timeline Photos",
-          1413566154
+          "Our view in just a couple of days: Timeline Photos",
+          1368565200
         ],
         [
-          "We\u2019e enjoying this midweek snack. Follow http://Instagram.com/StellaArtois for more beautiful moments from Stella Artois. Timeline Photos",
-          1412778300
-        ],
-        [
-          "Just as we do with Stella Artois, we prefer that our wardrobe essentials be meticulously constructed. Timeline Photos",
-          1399759500
-        ],
-        [
-          "When assembling a list of party essentials, one must never  forget the Stella Artois. Timeline Photos",
-          1396639368
-        ],
-        [
-          "Stella Artois wins the award for best visual effects,\nnaturally. Timeline Photos",
-          1393798200
-        ],
-        [
-          "The perfect brunch includes sips of Stella Artois to bring\nthe flavors of this Croque Madame to life. Timeline Photos",
-          1393709822
-        ],
-        [
-          "The always picturesque, Stella Artois. Timeline Photos",
-          1391531100
-        ],
-        [
-          "A Stella Artois for your thoughts? Timeline Photos",
-          1390082401
-        ],
-        [
-          "Stella Artois: the finest accessory this season. Timeline Photos",
-          1388257201
-        ],
-        [
-          "Let the holidays linger a little while longer with Stella Artois. Timeline Photos",
-          1388077201
-        ],
-        [
-          "Feeling on top of the world? It\u2019s a common sensation amongst Stella Artois drinkers. Timeline Photos",
-          1383424201
-        ],
-        [
-          "Set yourself apart this summer with Stella Artois and easy lobster sliders: http://bit.ly/LobsterSliders Timeline Photos",
-          1374844201
-        ],
-        [
-          "Every Stella Artois is created equal. Timeline Photos",
-          1373911346
-        ],
-        [
-          "How do you take your Stella Artois? Timeline Photos",
-          1371998401
-        ],
-        [
-          "Whoever said \u2018patience is a virtue\u2019 clearly never had to\r\nwait for Stella Artois. Timeline Photos",
-          1371074400
-        ],
-        [
-          "Stella Artois and film: side by side, naturally. Timeline Photos",
-          1369849441
-        ],
-        [
-          "Stella Artois: worth donning your best jacket for. Timeline Photos",
-          1368793467
-        ],
-        [
-          "Stella Artois. The perfect conversation starter. Timeline Photos",
-          1367442000
-        ],
-        [
-          "On tap tonight: Stella Artois and Stella Artois. Timeline Photos",
-          1366463400
-        ],
-        [
-          "What do you and Miss Artois have planned for tonight? Timeline Photos",
-          1365793800
-        ],
-        [
-          "Think you know film? Play Stella Artois Shorts on Twitter today for a chance to win a limited edition Stella Artois Connoisseur Chalice.  http://bit.ly/YuTdtK Timeline Photos",
-          1361721938
-        ],
-        [
-          "Introducing Stella Artois Shorts. Our way of crafting Oscar-nominated films down to six-word plots. What film is this? Timeline Photos",
-          1361408400
-        ],
-        [
-          "Take a little jaunt down memory lane with these classic photos from the Stella Artois archives: Stella Artois A jaunt down memory lane. What\u2019s your favourite Stella Artois image from the archives?",
-          1358869803
-        ],
-        [
-          "We prefer our movie popcorn with a side of Stella Artois. You? Timeline Photos",
-          1357668605
-        ],
-        [
-          "It\u2019s the first weekend of 2013 - who are you enjoying your Stella Artois with? Timeline Photos",
-          1357329601
-        ],
-        [
-          "It is better to give than to receive. Except perhaps when it comes to Stella Artois. Timeline Photos",
-          1355154600
-        ],
-        [
-          "The only thing we\u2019re asking for this year: a gift-wrapped package of Stella Artois. Timeline Photos",
-          1354627200
-        ],
-        [
-          "A festive gift is coming your way, courtesy of Stella Artois... Timeline Photos",
-          1352841042
-        ],
-        [
-          "The perfect accessory to any outfit is a Stella Artois, naturally. Timeline Photos",
-          1352730601
-        ],
-        [
-          "Stella Artois: always the perfect ingredient. Timeline Photos",
-          1352656801
-        ],
-        [
-          "Autumn and Stella Artois: the perfect combination. Timeline Photos",
-          1352220001
-        ],
-        [
-          "Stella Artois: a tried and true weekend companion. Timeline Photos",
-          1351959001
-        ],
-        [
-          "Could we interest you in a well-deserved Stella Artois? Timeline Photos",
-          1351004404
-        ],
-        [
-          "You\u2019re half way to the weekend! That deserves a:\r\n\r\na)\tStella Artois\r\nb)\tStella Artois\r\nc)\tAll of the above Timeline Photos",
-          1348667460
-        ],
-        [
-          "The cure for Mondays? A generous dose of La Soci\u00e9t\u00e9. La Soci\u00e9t\u00e9 Stella Artois At La Soci\u00e9t\u00e9 Stella Artois we believe life is best served chilled, stylish and stimulating. Care to learn more?",
-          1348496040
-        ],
-        [
-          "This old Stella Artois bottle has us feeling all nostalgic. Anybody have any vintage photos to match? Timeline Photos",
-          1346508002
-        ],
-        [
-          "Close your computer and pick up a Stella Artois \u2013 the weekend is nearly here! Timeline Photos",
-          1346425201
-        ],
-        [
-          "A jaunt down memory lane. What\u2019s your favourite Stella Artois image from the archives? Archives",
-          1344093085
-        ],
-        [
-          "Happy Independence Day, Belgium. Now how are you going to celebrate? With chocolate, mussels or Stella Artois? Timeline Photos",
-          1342874099
-        ],
-        [
-          "Full flavour with just a hint of bitterness makes Stella Artois a perfect pair for grilled meat. What\u2019s on the grill this weekend? Timeline Photos",
-          1341672390
-        ],
-        [
-          "Stella Artois at sunset. Check it off your To-Do List this weekend! Timeline Photos",
-          1339765751
+          "What\u2019s your weekend view? Timeline Photos",
+          1363962601
         ]
       ],
-      "dates_start": 1348568098,
-      "dates_end": 1401950435,
-      "likes_avg": 880,
-      "likes_stdev": 1639,
-      "comments_avg": 31,
-      "comments_stdev": 69,
-      "shares_avg": 97,
-      "shares_stdev": 158
+      "dates_start": 1365989316,
+      "dates_end": 1399629111,
+      "likes_avg": 700,
+      "likes_stdev": 393,
+      "comments_avg": 15,
+      "comments_stdev": 12,
+      "shares_avg": 90,
+      "shares_stdev": 70
     },
     {
       "number": 5,
       "important": [
-        "chalic timelin",
-        "perfect",
-        "artoi",
+        "beauti",
         "rais",
-        "chalic"
+        "rais chalic",
+        "chalic timelin",
+        "artoi"
       ],
       "common": [
         "artoi",
         "beauti",
-        "chalic",
         "chalic timelin",
-        "perfect",
+        "chalic timelin photo",
+        "natur",
         "rais",
         "rais chalic",
         "rais chalic timelin",
-        "timelin",
+        "rais chalic timelin photo",
         "weekend"
       ],
       "messages": [
@@ -654,12 +634,12 @@
           1446304200
         ],
         [
-          "For a professional pour, hold the chalice at a 45-degree angle to liberate the aroma of the hops in Stella Artois and produce the perfect amount of foam. Timeline Photos",
-          1444055225
-        ],
-        [
           "It's the first day of #Oktoberfest but forget the steins \u2014 we prefer chalices. Timeline Photos",
           1442674801
+        ],
+        [
+          "Saaz Hops: The star ingredient in Stella Artois.\n\nLearn more about what\u2019s inside our chalice here: https://www.youtube.com/watch?v=V3-1xx63OSw Timeline Photos",
+          1440266100
         ],
         [
           "The world looks so much nicer through golden-colored chalices. Timeline Photos",
@@ -670,18 +650,6 @@
           1424639700
         ],
         [
-          "Will you raise a Chalice with us on this Friday evening? Timeline Photos",
-          1412985083
-        ],
-        [
-          "Wimbledon \u2013 the consummate English garden. Raise a Chalice to the groundsman. #herestoperfection Timeline Photos",
-          1403877901
-        ],
-        [
-          "The Chalice: Not merely a glass, but a perfectly constructed vessel to keep your Stella Artois delicious to the last drop. Timeline Photos",
-          1403206501
-        ],
-        [
           "Raise your spirits this Monday with the perfect ensemble. Timeline Photos",
           1402335301
         ],
@@ -690,12 +658,16 @@
           1396983813
         ],
         [
-          "We raise our chalice to the #PerfectViewing party. We hope you enjoyed your evening. Timeline Photos",
-          1393815600
+          "Kicking off our #PerfectViewing party with a full Chalice. Timeline Photos",
+          1393802401
         ],
         [
           "A Chalice for you, a Chalice for ______? Timeline Photos",
           1389805200
+        ],
+        [
+          "For discerning palettes, we introduce the Crystal Chalice featuring Swarovski Elements. Available exclusively at Fancy: http://bit.ly/1f0y7P2 Timeline Photos",
+          1386277491
         ],
         [
           "What do you see when you look at a Chalice? Timeline Photos",
@@ -714,8 +686,12 @@
           1361630402
         ],
         [
-          "Your perfect chalice awaits. Timeline Photos",
-          1353337200
+          "Weekends were not made for an empty Chalice. Timeline Photos",
+          1361574001
+        ],
+        [
+          "Your weekend outfit isn\u2019t complete without a perfectly poured Chalice. Timeline Photos",
+          1360512702
         ],
         [
           "The weekend is finally here. Will you be raising a chalice with us? Timeline Photos",
@@ -732,6 +708,10 @@
         [
           "It\u2019s International Tuxedo Day. Which naturally raises the question: will you be seeing the newest Bond film?\nhttp://www.youtube.com/watch?v=6kw1UVovByw SKYFALL - Official Trailer In Theaters 11/9 Visit the official site at http://www.007.com Like us at http://www.facebook.com/JamesBond007",
           1349875174
+        ],
+        [
+          "Today we raise a Chalice to the extremely talented Bill Murray. Cheers on your 62nd birthday!\nhttp://www.youtube.com/watch?v=m-8OOvf1NPY Bill Murray Hosted Tour of Moonrise Kingdom Now Playing Nationwide Set on an island off the coast of New England in the summer of 1965, MOONRISE KINGDOM tells the story of two twelve-year-olds who fall...",
+          1348234202
         ],
         [
           "The 2012 London Olympics end today. May we suggest putting down the water bottles and raising a Chalice? Timeline Photos",
@@ -762,44 +742,222 @@
           1332165872
         ]
       ],
-      "dates_start": 1342835421,
-      "dates_end": 1414386609,
-      "likes_avg": 655,
-      "likes_stdev": 681,
-      "comments_avg": 43,
+      "dates_start": 1339780665,
+      "dates_end": 1408826321,
+      "likes_avg": 650,
+      "likes_stdev": 655,
+      "comments_avg": 42,
       "comments_stdev": 64,
-      "shares_avg": 85,
+      "shares_avg": 87,
       "shares_stdev": 123
     },
     {
       "number": 6,
       "important": [
+        "perfectdraft",
+        "tip",
+        "home",
+        "pour"
+      ],
+      "common": [
+        "bartend",
+        "home",
+        "jake",
+        "johnson",
+        "new",
+        "perfectdraft",
+        "perfectdraft timelin",
+        "perfectdraft timelin photo",
+        "pour",
+        "tip"
+      ],
+      "messages": [
+        [
+          "When you share a Stella Artois, you #GiveBeautifully, continuing a tradition hundreds of years in the making Mobile Uploads",
+          1416274485
+        ],
+        [
+          "Every time you give a Stella Artois, you pass down the tradition of the first Stella Artois ever given. Timeline Photos",
+          1415651580
+        ],
+        [
+          "A gilded centerpiece to brighten any table. Timeline Photos",
+          1415399821
+        ],
+        [
+          "Just as we do with Stella Artois, we prefer that our wardrobe essentials be meticulously constructed. Timeline Photos",
+          1399759500
+        ],
+        [
+          "BARTENDER TIP 5: Space is always at a premium, so be\nsure to purchase pieces for your home-bar that can be\nrepurposed. #PerfectDraft Timeline Photos",
+          1397410201
+        ],
+        [
+          "BARTENDER TIP 4: Using a table large enough to accommodate drinks and a selection of food makes for the perfect party hosting experience. #PerfectDraft Timeline Photos",
+          1397323801
+        ],
+        [
+          "BARTENDER TIP 3: Ensure food is available throughout\nthe party. Keep the dips, chips and crudit\u00e9 refreshed and\nremind your guests to eat to keep the party going. #PerfectDraft Timeline Photos",
+          1397248200
+        ],
+        [
+          "BARTENDER TIP 2: The location of your home-bar is crucial. Choose a spot that has easy flow from more than one direction and set your bar table there. #PerfectDraft Timeline Photos",
+          1397160900
+        ],
+        [
+          "Stella Artois solicited home-bartending advice from\nlegendary New York City bartender, Dale DeGroff.\n\nBARTENDER TIP 1: Is to only turn up the lights to wind\ndown a party. #PerfectDraft Timeline Photos",
+          1397074500
+        ],
+        [
+          "Stella Artois drinkers cherish the craftsmanship that goes into each Chalice. Recreate the iconic Stella Artois pour at home. #PerfectDraft Timeline Photos",
+          1396469700
+        ],
+        [
+          "Stella Artois and New Girl star Jake Johnson celebrate the launch of the in-home bar PerfectDraft device. Jake Johnson debuts the Stella Artois PerfectDraft Device",
+          1396457198
+        ],
+        [
+          "Stella Artois revealed the new PerfectDraft device that allows you to get the perfect pour every time, in the luxury of your home. Stella Artois Presents The Perfect Pour At Home",
+          1396375247
+        ],
+        [
+          "Stella Artois hosted a memorable evening along with New Girl actor Jake Johnson, to commemorate the launch of our exciting new home pouring device: PerfectDraft. Stella Artois presents the PerfectDraft Launch Party",
+          1396273070
+        ],
+        [
+          "Our guest bartender and reigning Stella Artois World Draft Master, Allaine Schaiko, treated the crowd to home draft pouring tips using PerfectDraft. #PerfectDraft Timeline Photos",
+          1396202700
+        ],
+        [
+          "\u201cI\u2019d love to see Stella Artois from a PerfectDraft in my own home bar,\u201d remarked New Girl star Jake Johnson. \u201cBars are beloved, for good reason, so any movement to recreate the experience at home is worth supporting.\u201d #PerfectDraft Timeline Photos",
+          1396127400
+        ],
+        [
+          "On Tuesday, we hosted a memorable evening along with New Girl actor Jake Johnson, to commemorate the launch of our exciting new device: PerfectDraft. #PerfectDraft Timeline Photos",
+          1396039242
+        ],
+        [
+          "Stella Artois wins the award for best visual effects,\nnaturally. Timeline Photos",
+          1393798200
+        ],
+        [
+          "A Stella Artois for your thoughts? Timeline Photos",
+          1390082401
+        ],
+        [
+          "Stella Artois: the finest accessory this season. Timeline Photos",
+          1388257201
+        ],
+        [
+          "Stella Artois: just as at home in the kitchen as at the bar. Timeline Photos",
+          1384129801
+        ],
+        [
+          "Feeling on top of the world? It\u2019s a common sensation amongst Stella Artois drinkers. Timeline Photos",
+          1383424201
+        ],
+        [
+          "Have we seen through your lens yet? Share your Stella Artois moments with us. Timeline Photos",
+          1377554401
+        ],
+        [
+          "Set yourself apart this summer with Stella Artois and easy lobster sliders: http://bit.ly/LobsterSliders Timeline Photos",
+          1374844201
+        ],
+        [
+          "Every Stella Artois is created equal. Timeline Photos",
+          1373911346
+        ],
+        [
+          "Stella Artois and film: side by side, naturally. Timeline Photos",
+          1369849441
+        ],
+        [
+          "Stella Artois: worth donning your best jacket for. Timeline Photos",
+          1368793467
+        ],
+        [
+          "What do you and Miss Artois have planned for tonight? Timeline Photos",
+          1365793800
+        ],
+        [
+          "Think you know film? Play Stella Artois Shorts on Twitter today for a chance to win a limited edition Stella Artois Connoisseur Chalice.  http://bit.ly/YuTdtK Timeline Photos",
+          1361721938
+        ],
+        [
+          "Introducing Stella Artois Shorts. Our way of crafting Oscar-nominated films down to six-word plots. What film is this? Timeline Photos",
+          1361408400
+        ],
+        [
+          "Take a little jaunt down memory lane with these classic photos from the Stella Artois archives: Stella Artois A jaunt down memory lane. What\u2019s your favourite Stella Artois image from the archives?",
+          1358869803
+        ],
+        [
+          "The perfect accessory to any outfit is a Stella Artois, naturally. Timeline Photos",
+          1352730601
+        ],
+        [
+          "Stella Artois: a tried and true weekend companion. Timeline Photos",
+          1351959001
+        ],
+        [
+          "You\u2019re half way to the weekend! That deserves a:\r\n\r\na)\tStella Artois\r\nb)\tStella Artois\r\nc)\tAll of the above Timeline Photos",
+          1348667460
+        ],
+        [
+          "The cure for Mondays? A generous dose of La Soci\u00e9t\u00e9. La Soci\u00e9t\u00e9 Stella Artois At La Soci\u00e9t\u00e9 Stella Artois we believe life is best served chilled, stylish and stimulating. Care to learn more?",
+          1348496040
+        ],
+        [
+          "At home or in the bar: how are you enjoying your Stella Artois this evening? Timeline Photos",
+          1348322402
+        ],
+        [
+          "This old Stella Artois bottle has us feeling all nostalgic. Anybody have any vintage photos to match? Timeline Photos",
+          1346508002
+        ],
+        [
+          "Close your computer and pick up a Stella Artois \u2013 the weekend is nearly here! Timeline Photos",
+          1346425201
+        ],
+        [
+          "A jaunt down memory lane. What\u2019s your favourite Stella Artois image from the archives? Archives",
+          1344093085
+        ]
+      ],
+      "dates_start": 1358640537,
+      "dates_end": 1401721985,
+      "likes_avg": 778,
+      "likes_stdev": 1819,
+      "comments_avg": 27,
+      "comments_stdev": 77,
+      "shares_avg": 80,
+      "shares_stdev": 163
+    },
+    {
+      "number": 7,
+      "important": [
         "perfect",
-        "stellaartoi",
-        "one",
+        "beauti",
         "better",
-        "stellaartoi timelin"
+        "one"
       ],
       "common": [
         "beauti",
         "beauti stellaartoi",
         "beauti stellaartoi timelin",
+        "beauti stellaartoi timelin photo",
         "better",
         "matter",
         "one",
         "perfect",
-        "stellaartoi",
-        "stellaartoi timelin",
-        "timelin"
+        "piec matter occas stellaartoi timelin",
+        "pourer"
       ],
       "messages": [
         [
           "We can\u2019t think of a better way to spend our Sunday. Brunch and good company. Follow us on Instagram for our next adventure @StellaArtois. Timeline Photos",
           1408284300
-        ],
-        [
-          "The sights and sounds of #London town. #stellaartois #city #herestoperfection",
-          1404062715
         ],
         [
           "The perfect accessory, no matter the season. #StellaArtois Timeline Photos",
@@ -836,41 +994,446 @@
         [
           "Double the beauty. #StellaArtois Timeline Photos",
           1377124800
-        ],
-        [
-          "Sun-kissed suits #StellaArtois, wouldn\u2019t you agree? Captured by Jason T. Timeline Photos",
-          1376147400
         ]
       ],
-      "dates_start": 1373925103,
-      "dates_end": 1394101899,
-      "likes_avg": 749,
-      "likes_stdev": 1335,
-      "comments_avg": 12,
-      "comments_stdev": 28,
-      "shares_avg": 67,
+      "dates_start": 1374177650,
+      "dates_end": 1391412729,
+      "likes_avg": 820,
+      "likes_stdev": 1443,
+      "comments_avg": 13,
+      "comments_stdev": 30,
+      "shares_avg": 74,
+      "shares_stdev": 124
+    },
+    {
+      "number": 8,
+      "important": [
+        "parti",
+        "day",
+        "season",
+        "one",
+        "dinner"
+      ],
+      "common": [
+        "alongsid",
+        "come",
+        "day",
+        "dinner",
+        "enjoy",
+        "holiday",
+        "moment stella",
+        "one",
+        "parti",
+        "season"
+      ],
+      "messages": [
+        [
+          "Turn dinner prep into the dinner party with Stella Artois. Timeline Photos",
+          1475082193
+        ],
+        [
+          "No plates necessary. Make your dinner party hands-on with Stella Artois. Timeline Photos",
+          1474649520
+        ],
+        [
+          "Any day is a lucky one if you order a Stella Artois. Timeline Photos",
+          1426600807
+        ],
+        [
+          "Have you seen our limited-edition 750 mL bottle this season? Give one alongside a Chalice this year to honor the rich history of Stella Artois. Timeline Photos",
+          1418418900
+        ],
+        [
+          "The floral body and crisp hop finish of Stella Artois accentuate holiday spices like cinnamon and clove. What food do you serve to your guests alongside Stella Artois? Timeline Photos",
+          1418246401
+        ],
+        [
+          "The holiday season is here, what are you serving along side Stella Artois? Timeline Photos",
+          1417373280
+        ],
+        [
+          "Stella Artois is a perfect complement to fresh oysters. What flavors do you enjoy alongside your Stella Artois? Timeline Photos",
+          1413566154
+        ],
+        [
+          "We\u2019e enjoying this midweek snack. Follow http://Instagram.com/StellaArtois for more beautiful moments from Stella Artois. Timeline Photos",
+          1412778300
+        ],
+        [
+          "When assembling a list of party essentials, one must never  forget the Stella Artois. Timeline Photos",
+          1396639368
+        ],
+        [
+          "True romance is sharing a moment with Stella Artois. Timeline Photos",
+          1392328800
+        ],
+        [
+          "The always picturesque, Stella Artois. Timeline Photos",
+          1391531100
+        ],
+        [
+          "Let the holidays linger a little while longer with Stella Artois. Timeline Photos",
+          1388077201
+        ],
+        [
+          "How do you take your Stella Artois? Timeline Photos",
+          1371998401
+        ],
+        [
+          "Whoever said \u2018patience is a virtue\u2019 clearly never had to\r\nwait for Stella Artois. Timeline Photos",
+          1371074400
+        ],
+        [
+          "On tap tonight: Stella Artois and Stella Artois. Timeline Photos",
+          1366463400
+        ],
+        [
+          "We prefer our movie popcorn with a side of Stella Artois. You? Timeline Photos",
+          1357668605
+        ],
+        [
+          "Start your week in style - with Stella Artois. Timeline Photos",
+          1357576801
+        ],
+        [
+          "It\u2019s the first weekend of 2013 - who are you enjoying your Stella Artois with? Timeline Photos",
+          1357329601
+        ],
+        [
+          "It is better to give than to receive. Except perhaps when it comes to Stella Artois. Timeline Photos",
+          1355154600
+        ],
+        [
+          "The only thing we\u2019re asking for this year: a gift-wrapped package of Stella Artois. Timeline Photos",
+          1354627200
+        ],
+        [
+          "A festive gift is coming your way, courtesy of Stella Artois... Timeline Photos",
+          1352841042
+        ],
+        [
+          "Could we interest you in a well-deserved Stella Artois? Timeline Photos",
+          1351004404
+        ],
+        [
+          "Happy Independence Day, Belgium. Now how are you going to celebrate? With chocolate, mussels or Stella Artois? Timeline Photos",
+          1342874099
+        ]
+      ],
+      "dates_start": 1352895168,
+      "dates_end": 1426574794,
+      "likes_avg": 591,
+      "likes_stdev": 593,
+      "comments_avg": 23,
+      "comments_stdev": 27,
+      "shares_avg": 73,
+      "shares_stdev": 97
+    },
+    {
+      "number": 9,
+      "important": [
+        "film",
+        "inspir",
+        "film festiv",
+        "actor"
+      ],
+      "common": [
+        "actor",
+        "actress",
+        "connoisseur seri actor",
+        "film",
+        "film festiv",
+        "inspir",
+        "photo",
+        "seri actor",
+        "timelin",
+        "timelin photo"
+      ],
+      "messages": [
+        [
+          "Craftsmanship takes many forms, but perhaps the most inspiring to us is film. Watch our Connoisseur Series actors and actresses discuss what craftsmanship in film means to them: Craftsmanship: Stella Artois Connoisseur Series We sat down with our Connoisseur Series actors and actresses to discuss what true craftsmanship in film means.",
+          1371578196
+        ],
+        [
+          "Didn't make it to this year's Cannes Film Festival? Watch our Connoisseur Series actors and actresses share their experiences at the most prestigious film festival in the world: Cannes: Stella Artois Connoisseur Series Our Connoisseur Series actors and actresses share their experiences at the most prestigious film festival in the world.",
+          1371139863
+        ],
+        [
+          "Have you ever wondered what inspires some of the most talented actors and actresses? Inspiration: Stella Artois Connoisseur Series Our Connoisseur Series actors and actresses reveal their most intimate inspirations.",
+          1370976113
+        ],
+        [
+          "Get to know actress Rosario Dawson: from what drives her, to where she came from, to how she stays inspired: Rosario Dawson: Stella Artois Connoisseur Series Rosario Dawson talks with Carly Steel about what drives her, where she came from, and how she stays inspired.",
+          1370444147
+        ],
+        [
+          "Who was best dressed at Cannes this year? Michael B. Jordan and Zachary Quinto - two of our Connoisseur Series actors - made the list: http://gqm.ag/11dVE9F Timeline Photos",
+          1370284239
+        ],
+        [
+          "Get to know Jeremy Irvine, the youngest of our Connoisseur Series actors: http://bit.ly/17iB0JR Timeline Photos",
+          1369758842
+        ],
+        [
+          "Our favourite moments from the Connoisseur Series interviews at the 2013 Cannes Film Festival. The Stella Artois Connoisseur Series",
+          1369682115
+        ],
+        [
+          "Zoe Saldana continues the Connoisseur Series interviews.\nGo behind the lens as she talks about her film Blood Ties\nand more: http://bit.ly/1afuMak Timeline Photos",
+          1369419299
+        ],
+        [
+          "Watch Michael B. Jordan kick off the Connoisseur Series interviews at this year\u2019s Cannes Film Festival as he talks about inspiration, style and Fruitvale Station: http://bit.ly/Ze3nGp Timeline Photos",
+          1369229751
+        ],
+        [
+          "Behind the scenes with one of our favourite craftsmen in cinema.\n\nWatch our Connoisseur Series of interviews here: http://bit.ly/12W51cH Timeline Photos",
+          1369114149
+        ],
+        [
+          "Introducing the Connoisseur Series - an exclusive interview series dedicated to the craft and art of film - debuting at this year\u2019s Cannes Film Festival. Can you guess who our first film star interviewee is? Timeline Photos",
+          1368464571
+        ]
+      ],
+      "dates_start": 1369091185,
+      "dates_end": 1370925412,
+      "likes_avg": 2671,
+      "likes_stdev": 4911,
+      "comments_avg": 65,
+      "comments_stdev": 103,
+      "shares_avg": 66,
       "shares_stdev": 115
     },
     {
-      "number": 7,
+      "number": 10,
       "important": [
-        "world",
-        "draught",
-        "draught master",
-        "world draught",
-        "master"
+        "thing",
+        "year",
+        "moment",
+        "timeless"
+      ],
+      "common": [
+        "moment",
+        "thing",
+        "thing beauti",
+        "thing beauti timelin",
+        "thing beauti timelin photo",
+        "timeless",
+        "timeless beauti",
+        "timeless beauti timelin",
+        "timeless beauti timelin photo",
+        "year"
+      ],
+      "messages": [
+        [
+          "Taking a moment to relish in all things beautiful. Timeline Photos",
+          1396555204
+        ],
+        [
+          "We would never say no to a thing of beauty. Timeline Photos",
+          1391460845
+        ],
+        [
+          "Beauty reflects beauty. Timeline Photos",
+          1390687201
+        ],
+        [
+          "Even when empty, she\u2019s beautiful. Timeline Photos",
+          1385250000
+        ],
+        [
+          "A moment of beauty. Timeline Photos",
+          1376002801
+        ],
+        [
+          "The start of something beautiful: Timeline Photos",
+          1375539601
+        ],
+        [
+          "Behold, a true beauty: Timeline Photos",
+          1371837601
+        ],
+        [
+          "When 600 years of craftsmanship is in your history, the\r\nresult is always timeless beauty. Timeline Photos",
+          1370728801
+        ],
+        [
+          "With every pour begins a new experience in beauty. Timeline Photos",
+          1364481000
+        ],
+        [
+          "After 600 years of brewing tradition, you learn a thing or two about appreciating the finer things in life. Explore our latest pursuit of timeless beauty now: http://bit.ly/10654jI Timeline Photos",
+          1360194148
+        ],
+        [
+          "An actor, a supermodel, a stylist, a makeup artist, a gorgeous theater, a legendary photographer and a 600 year-old beer: just a few of the ingredients needed to create Timeless Beauty: http://bit.ly/10654jI Timeline Photos",
+          1359571918
+        ]
+      ],
+      "dates_start": 1364300418,
+      "dates_end": 1388846694,
+      "likes_avg": 529,
+      "likes_stdev": 296,
+      "comments_avg": 9,
+      "comments_stdev": 7,
+      "shares_avg": 59,
+      "shares_stdev": 42
+    },
+    {
+      "number": 11,
+      "important": [
+        "love",
+        "stella",
+        "stella artoi",
+        "share",
+        "artoi"
       ],
       "common": [
         "artoi",
-        "draught",
-        "draught master",
-        "master",
+        "could",
+        "love",
+        "love timelin",
+        "love timelin photo",
+        "share",
+        "stella",
+        "stella artoi",
+        "would",
+        "would timelin photo"
+      ],
+      "messages": [
+        [
+          "A lovely set up for two. Timeline Photos",
+          1413314066
+        ],
+        [
+          "Inspiration can be found in unexpected places. We love\nwhen our fans share their art. Please tag us in all of your\ncreations. Timeline Photos",
+          1394396100
+        ],
+        [
+          "The ring: a true declaration of love. Timeline Photos",
+          1392149700
+        ],
+        [
+          "In honor of Valentine\u2019s Day, we want to share some of the most chivalrous love quotes of great historical men and women. #valentinesday Timeline Photos",
+          1391810401
+        ],
+        [
+          "From Stella Artois, with love. Timeline Photos",
+          1380641346
+        ],
+        [
+          "Would you like your Stella Artois photo to be featured next month? Share your favourite shot on our wall. Timeline Photos",
+          1372526400
+        ],
+        [
+          "What would you do for your 15 minutes of Red Carpet fame? Timeline Photos",
+          1369398946
+        ],
+        [
+          "We all have our favourite directors. Who would you love to see seated in the interview chair? Timeline Photos",
+          1368892337
+        ],
+        [
+          "What would you like to find behind the doors of the Stella Artois vault? Timeline Photos",
+          1368540601
+        ],
+        [
+          "Sunny resort or luxury cabin: where would you rather be right now? Timeline Photos",
+          1360099457
+        ],
+        [
+          "We love Bill Murrary, especially when it\u2019s Bill Murray Day. Read on for his latest interview with GQ: http://gqm.ag/SZWkgg Timeline Photos",
+          1359822804
+        ],
+        [
+          "We love Chefs Feed, the mobile food guide that tells you where the world\u2019s best chefs eat: http://www.chefsfeed.com Timeline Photos",
+          1359500402
+        ],
+        [
+          "Would you embrace the cold with a stay in these luxury igloo cabins? Timeline Photos",
+          1359410411
+        ],
+        [
+          "Tropical resort or secluded cabin: how would you rather spend your holidays? Timeline Photos",
+          1355240401
+        ],
+        [
+          "Waffles, chocolate, and Stella Artois: three reasons we love Belgium. Cheers! Timeline Photos",
+          1349019001
+        ],
+        [
+          "\u201cEnjoying a Stella Artois to me means not only appealing to the tasting buds, but also the nose and eyes.\u201d\r\n \r\n-Jerome Pellaud, Brew Master. A man who loves his job. A lot. Timeline Photos",
+          1344172816
+        ],
+        [
+          "If you could add a step 10 to our 9 Step Perfect Pour Ritual what would it be? Timeline Photos",
+          1342610913
+        ],
+        [
+          "With love: Timeline Photos",
+          1342183055
+        ],
+        [
+          "Some would say The Grand Place in the central square of Brussels is the heart of Belgium; we might have to disagree. Stella Artois Brewery tour, shall we? Timeline Photos",
+          1341153324
+        ],
+        [
+          "The Ardennes is one of Belgium's greatest wonders. Where would you love to escape to for a relaxing getaway? Timeline Photos",
+          1340801562
+        ],
+        [
+          "Sunglasses, sea and Stella Artois. Life doesn\u2019t get much better. If you could pick the perfect beach to be on right now where would it be? Timeline Photos",
+          1340025614
+        ],
+        [
+          "If Stella Artois were a silver screen starlet, who would she be? Timeline Photos",
+          1338929909
+        ],
+        [
+          "She dances. She flies. She loves. She cries. But What Film is She? http://on.fb.me/HalZKR Timeline Photos",
+          1336744822
+        ],
+        [
+          "There is a natural affinity between Stella Artois and fine food. When the two meet, any occasion becomes a cause for celebration. Show us what foods you love to enjoy with your Stella Artois by sharing an image! Timeline Photos",
+          1336570238
+        ],
+        [
+          "If you could pour yourself and any film director a Chalice of Stella Artois, who would it be?",
+          1334587330
+        ],
+        [
+          "If your life could recreate a notable movie scene, which would you choose?",
+          1330890672
+        ]
+      ],
+      "dates_start": 1337104117,
+      "dates_end": 1380083007,
+      "likes_avg": 482,
+      "likes_stdev": 362,
+      "comments_avg": 51,
+      "comments_stdev": 51,
+      "shares_avg": 54,
+      "shares_stdev": 52
+    },
+    {
+      "number": 12,
+      "important": [
+        "stella artoi",
+        "final",
+        "stella",
+        "artoi"
+      ],
+      "common": [
+        "artoi",
+        "draught master final",
+        "final",
+        "master final",
+        "photo",
         "stella",
         "stella artoi",
         "timelin",
-        "world",
-        "world draught",
-        "world draught master"
+        "timelin photo",
+        "world draught master final"
       ],
       "messages": [
         [
@@ -1020,27 +1583,35 @@
       "shares_stdev": 39
     },
     {
-      "number": 8,
+      "number": 13,
       "important": [
-        "befor",
-        "perfect",
-        "tbt timelin",
-        "tbt",
-        "gift"
+        "way",
+        "stella",
+        "look",
+        "stella artoi",
+        "artoi"
       ],
       "common": [
         "artoi",
         "befor",
+        "befor chalic",
         "chalic",
-        "gift",
-        "perfect",
+        "chang",
+        "look",
         "stella",
         "stella artoi",
-        "tbt",
-        "tbt timelin",
-        "timelin"
+        "vintag",
+        "way"
       ],
       "messages": [
+        [
+          "We've changed our look a few times over the years. What's your favorite vintage Stella Artois look? #TBT Timeline Photos",
+          1443108301
+        ],
+        [
+          "Our chalice is still the best way to experience our beer, but this glass really brings back memories. #TBT Timeline Photos",
+          1441900801
+        ],
         [
           "If you were looking for a sign, this is it. #Leuven #vintage #TBT Timeline Photos",
           1440082381
@@ -1094,17 +1665,17 @@
           1388678400
         ]
       ],
-      "dates_start": 1390256982,
-      "dates_end": 1418767104,
-      "likes_avg": 368,
-      "likes_stdev": 290,
-      "comments_avg": 4,
+      "dates_start": 1391058597,
+      "dates_end": 1428096824,
+      "likes_avg": 352,
+      "likes_stdev": 274,
+      "comments_avg": 5,
       "comments_stdev": 5,
-      "shares_avg": 35,
-      "shares_stdev": 33
+      "shares_avg": 34,
+      "shares_stdev": 31
     },
     {
-      "number": 9,
+      "number": 14,
       "important": [
         "gift",
         "givebeauti",
@@ -1114,15 +1685,15 @@
       ],
       "common": [
         "artoi",
-        "carol",
         "gift",
         "givebeauti",
+        "givebeauti timelin",
+        "givebeauti timelin photo",
         "holiday",
+        "holiday season",
         "season",
-        "send",
         "stella",
-        "stella artoi",
-        "timelin"
+        "stella artoi"
       ],
       "messages": [
         [
@@ -1198,10 +1769,6 @@
           1417200480
         ],
         [
-          "When you share a Stella Artois, you #GiveBeautifully, continuing a tradition hundreds of years in the making Mobile Uploads",
-          1416274485
-        ],
-        [
           "It's been the Stella Artois philosophy to #GiveBeautifully from our very start.",
           1415974135
         ],
@@ -1226,20 +1793,8 @@
           1356379200
         ],
         [
-          "It\u2019s not too late for Carole to send warm wishes to your favorite people. Click here to send her now: http://bit.ly/TxmVxa Timeline Photos",
-          1356269401
-        ],
-        [
-          "Lots of people to say \u2018Happy Holidays\u2019 to this year? Let Carole help you spread some special cheer. Send her now: http://bit.ly/TxmVxa Timeline Photos",
-          1355766001
-        ],
-        [
           "A must at any seasonal gathering. After all, Stella Artois was originally brewed to celebrate the holidays. Timeline Photos",
           1355696402
-        ],
-        [
-          "The holidays are just around the corner, and Carole is here to help you spread some cheer: http://bit.ly/TxmVxa Timeline Photos",
-          1355505000
         ],
         [
           "What are you smiling about this holiday season? Timeline Photos",
@@ -1248,30 +1803,6 @@
         [
           "Alice Eve stars as Carole, our singing holiday belle. Care to meet her? http://bit.ly/VokkWc An Interview with Alice Eve Find out how she'll be spreading holiday spirit this season.",
           1354993201
-        ],
-        [
-          "Carole is eager to meet those on your \u2018Nice List\u2019. Don\u2019t keep her waiting: http://bit.ly/TxmVxa Timeline Photos",
-          1354811401
-        ],
-        [
-          "We hope Stella Artois isn\u2019t the only golden treasure visiting your loved ones this holiday. Send Carole now: http://bit.ly/TxmVxa Timeline Photos",
-          1354721401
-        ],
-        [
-          "Her secret? She\u2019s actually Hollywood starlet, Alice Eve. Won\u2019t you introduce her to your friends? Send her now: http://bit.ly/TxmVxa Timeline Photos",
-          1354219801
-        ],
-        [
-          "Using Google Maps technology, Carole will be able to come right to the doorstep of everybody on your \u2018Nice List\u2019. Send her now: http://bit.ly/TxmVxa Timeline Photos",
-          1354129801
-        ],
-        [
-          "Send Carole to your friend's house using Google Street View: http://bit.ly/TxmVxa Timeline Photos",
-          1354033273
-        ],
-        [
-          "Send holiday cheer (and the beautiful Carole) to those you cherish most. They\u2019ll thank you: http://bit.ly/TxmVxa Timeline Photos",
-          1353963600
         ],
         [
           "There\u2019s no better way to get in the holiday spirit than a good carol\u2026right, Carole?  Stella Artois This holiday season, Stella Artois invites you to send Carole to sing to every house in the world.",
@@ -1290,32 +1821,105 @@
           1332001417
         ]
       ],
-      "dates_start": 1354660035,
-      "dates_end": 1435388069,
-      "likes_avg": 270,
-      "likes_stdev": 349,
-      "comments_avg": 7,
-      "comments_stdev": 11,
+      "dates_start": 1366636497,
+      "dates_end": 1445382340,
+      "likes_avg": 259,
+      "likes_stdev": 381,
+      "comments_avg": 6,
+      "comments_stdev": 13,
       "shares_avg": 31,
-      "shares_stdev": 58
+      "shares_stdev": 64
     },
     {
-      "number": 10,
+      "number": 15,
       "important": [
-        "movi",
-        "night"
+        "chalic",
+        "beauti",
+        "rais"
+      ],
+      "common": [
+        "await",
+        "await even",
+        "await even timelin",
+        "await even timelin photo",
+        "beauti",
+        "chalic",
+        "hope",
+        "plan openend even",
+        "rais",
+        "rais chalic"
+      ],
+      "messages": [
+        [
+          "The beginnings of a beautiful Sunday evening. Timeline Photos",
+          1413745500
+        ],
+        [
+          "Will you raise a Chalice with us on this Friday evening? Timeline Photos",
+          1412985083
+        ],
+        [
+          "We can\u2019t think of a better way to spend our evening. Timeline Photos",
+          1412103900
+        ],
+        [
+          "We\u2019re unveiling what promises to be an adventurous evening. Timeline Photos",
+          1398201642
+        ],
+        [
+          "Who will you invite to share a Stella Artois with you this evening? Timeline Photos",
+          1395770400
+        ],
+        [
+          "We raise our chalice to the #PerfectViewing party. We hope you enjoyed your evening. Timeline Photos",
+          1393815600
+        ],
+        [
+          "Who else has a beautiful vision awaiting them this evening? Timeline Photos",
+          1388858400
+        ],
+        [
+          "We've got our essentials this evening. Do you? Timeline Photos",
+          1387929600
+        ],
+        [
+          "Only the finest of company awaits you this evening. Timeline Photos",
+          1383327129
+        ],
+        [
+          "We hope you left your #dinner plans open-ended this evening. Timeline Photos",
+          1377289800
+        ],
+        [
+          "It's shaping up to be a memorable evening... Timeline Photos",
+          1366412401
+        ]
+      ],
+      "dates_start": 1379168506,
+      "dates_end": 1408184121,
+      "likes_avg": 296,
+      "likes_stdev": 166,
+      "comments_avg": 6,
+      "comments_stdev": 4,
+      "shares_avg": 30,
+      "shares_stdev": 21
+    },
+    {
+      "number": 16,
+      "important": [
+        "movi"
       ],
       "common": [
         "friday",
         "friday night",
         "movi",
         "movi night",
-        "night",
-        "potato chip goto snack",
-        "potato chip goto snack timelin",
-        "rememb timelin",
-        "snack",
-        "timelin"
+        "perfect night unexpect timelin",
+        "perfect night unexpect timelin photo",
+        "plate",
+        "plate even",
+        "salt",
+        "snack"
       ],
       "messages": [
         [
@@ -1365,25 +1969,96 @@
       "shares_stdev": 23
     },
     {
-      "number": 11,
+      "number": 17,
       "important": [
-        "provid",
+        "one",
+        "holiday",
         "help",
-        "develop world",
-        "develop",
-        "clean water"
+        "cheer"
       ],
       "common": [
-        "chalic",
-        "clean",
-        "clean water",
-        "develop",
-        "develop world",
+        "cheer",
+        "googl",
         "help",
-        "provid",
-        "water",
-        "world",
-        "year"
+        "holiday",
+        "love one",
+        "one",
+        "send httpbitlytxmvxa",
+        "send httpbitlytxmvxa timelin",
+        "send httpbitlytxmvxa timelin photo",
+        "use googl"
+      ],
+      "messages": [
+        [
+          "It\u2019s not too late for Carole to send warm wishes to your favorite people. Click here to send her now: http://bit.ly/TxmVxa Timeline Photos",
+          1356269401
+        ],
+        [
+          "Surely, Carole would be a welcome surprise on any doorstep. Send her to sing to your loved ones now: http://bit.ly/TxmVxa Timeline Photos",
+          1355927400
+        ],
+        [
+          "Lots of people to say \u2018Happy Holidays\u2019 to this year? Let Carole help you spread some special cheer. Send her now: http://bit.ly/TxmVxa Timeline Photos",
+          1355766001
+        ],
+        [
+          "The holidays are just around the corner, and Carole is here to help you spread some cheer: http://bit.ly/TxmVxa Timeline Photos",
+          1355505000
+        ],
+        [
+          "Carole is eager to meet those on your \u2018Nice List\u2019. Don\u2019t keep her waiting: http://bit.ly/TxmVxa Timeline Photos",
+          1354811401
+        ],
+        [
+          "We hope Stella Artois isn\u2019t the only golden treasure visiting your loved ones this holiday. Send Carole now: http://bit.ly/TxmVxa Timeline Photos",
+          1354721401
+        ],
+        [
+          "Her secret? She\u2019s actually Hollywood starlet, Alice Eve. Won\u2019t you introduce her to your friends? Send her now: http://bit.ly/TxmVxa Timeline Photos",
+          1354219801
+        ],
+        [
+          "Using Google Maps technology, Carole will be able to come right to the doorstep of everybody on your \u2018Nice List\u2019. Send her now: http://bit.ly/TxmVxa Timeline Photos",
+          1354129801
+        ],
+        [
+          "Send Carole to your friend's house using Google Street View: http://bit.ly/TxmVxa Timeline Photos",
+          1354033273
+        ],
+        [
+          "Send holiday cheer (and the beautiful Carole) to those you cherish most. They\u2019ll thank you: http://bit.ly/TxmVxa Timeline Photos",
+          1353963600
+        ]
+      ],
+      "dates_start": 1354112611,
+      "dates_end": 1355756804,
+      "likes_avg": 302,
+      "likes_stdev": 220,
+      "comments_avg": 8,
+      "comments_stdev": 4,
+      "shares_avg": 28,
+      "shares_stdev": 34
+    },
+    {
+      "number": 18,
+      "important": [
+        "year",
+        "provid year",
+        "help provid",
+        "limitededit chalic",
+        "limitededit"
+      ],
+      "common": [
+        "help provid",
+        "limitededit",
+        "limitededit chalic",
+        "provid year",
+        "provid year clean",
+        "timelin",
+        "waterorg",
+        "year",
+        "year clean",
+        "year clean water"
       ],
       "messages": [
         [
@@ -1505,25 +2180,25 @@
       "shares_stdev": 62
     },
     {
-      "number": 12,
+      "number": 19,
       "important": [
-        "film",
-        "festiv",
-        "cann",
-        "film festiv",
-        "cann film festiv"
+        "cann film festiv",
+        "de cann",
+        "cann film",
+        "de",
+        "film festiv"
       ],
       "common": [
-        "cann",
         "cann film",
         "cann film festiv",
-        "connoisseur",
-        "connoisseur seri",
-        "festiv",
-        "film",
+        "de",
+        "de cann",
         "film festiv",
-        "seri",
-        "timelin"
+        "intern",
+        "photo",
+        "stella artoi",
+        "timelin",
+        "timelin photo"
       ],
       "messages": [
         [
@@ -1539,12 +2214,20 @@
           1401040659
         ],
         [
+          "The Perfectionists at Cannes presents The Gate Keeper. Meet Patrick Callens, the Harbormaster of the Vieux-Port and only he wields the power to let you in. #herestoperfection #cannes2014 Perfectionists: say hello to the Gatekeeper of Cannes",
+          1400876081
+        ],
+        [
           "We have landed in France for the Cannes International Film Festival. Stay tuned for exclusive event coverage. #Cannes2014 #herestoperfection Timeline Photos",
           1400105203
         ],
         [
           "Stella Artois is the proud partner of the 2014 Festival de Cannes. Follow us on Twitter @StellaArtois for festival updates. #Cannes2014 #herestoperfection Timeline Photos",
           1399502451
+        ],
+        [
+          "Beginning May 14 to 25th, we'll be calling the French Riviera home for the for the #Cannes2014 Film Festival and the celebration of the #WorldDraughtMasters competition. Follow us here and on Twitter @StellaArtois for noteworthy moments! Timeline Photos",
+          1398536100
         ],
         [
           "The Cannes Film Festival has just announced its official selection. Which would you most like to see? http://bit.ly/RsVwCm #Cannes2014 Timeline Photos",
@@ -1559,36 +2242,8 @@
           1378418401
         ],
         [
-          "Craftsmanship takes many forms, but perhaps the most inspiring to us is film. Watch our Connoisseur Series actors and actresses discuss what craftsmanship in film means to them: Craftsmanship: Stella Artois Connoisseur Series We sat down with our Connoisseur Series actors and actresses to discuss what true craftsmanship in film means.",
-          1371578196
-        ],
-        [
-          "Didn't make it to this year's Cannes Film Festival? Watch our Connoisseur Series actors and actresses share their experiences at the most prestigious film festival in the world: Cannes: Stella Artois Connoisseur Series Our Connoisseur Series actors and actresses share their experiences at the most prestigious film festival in the world.",
-          1371139863
-        ],
-        [
-          "Have you ever wondered what inspires some of the most talented actors and actresses? Inspiration: Stella Artois Connoisseur Series Our Connoisseur Series actors and actresses reveal their most intimate inspirations.",
-          1370976113
-        ],
-        [
-          "Get to know actress Rosario Dawson: from what drives her, to where she came from, to how she stays inspired: Rosario Dawson: Stella Artois Connoisseur Series Rosario Dawson talks with Carly Steel about what drives her, where she came from, and how she stays inspired.",
-          1370444147
-        ],
-        [
-          "Who was best dressed at Cannes this year? Michael B. Jordan and Zachary Quinto - two of our Connoisseur Series actors - made the list: http://gqm.ag/11dVE9F Timeline Photos",
-          1370284239
-        ],
-        [
           "Our favourite Red Carpet moments at the 2013 Cannes Film Festival Red Carpet Moments at Cannes",
           1369764859
-        ],
-        [
-          "Get to know Jeremy Irvine, the youngest of our Connoisseur Series actors: http://bit.ly/17iB0JR Timeline Photos",
-          1369758842
-        ],
-        [
-          "Our favourite moments from the Connoisseur Series interviews at the 2013 Cannes Film Festival. The Stella Artois Connoisseur Series",
-          1369682115
         ],
         [
           "Time for one more pour before the curtain falls at this year's Cannes Film Festival. Timeline Photos",
@@ -1599,14 +2254,6 @@
           1369512600
         ],
         [
-          "Zoe Saldana continues the Connoisseur Series interviews.\nGo behind the lens as she talks about her film Blood Ties\nand more: http://bit.ly/1afuMak Timeline Photos",
-          1369419299
-        ],
-        [
-          "Watch Michael B. Jordan kick off the Connoisseur Series interviews at this year\u2019s Cannes Film Festival as he talks about inspiration, style and Fruitvale Station: http://bit.ly/Ze3nGp Timeline Photos",
-          1369229751
-        ],
-        [
           "Some of our favourite candid moments at this year\u2019s festival. Cannes Film Festival: Off the Red Carpet",
           1369213484
         ],
@@ -1615,12 +2262,12 @@
           1369131501
         ],
         [
-          "Behind the scenes with one of our favourite craftsmen in cinema.\n\nWatch our Connoisseur Series of interviews here: http://bit.ly/12W51cH Timeline Photos",
-          1369114149
-        ],
-        [
           "We kicked off the opening days of the Cannes Film Festival with plenty of sunshine and Stella Artois. First Days at the 2013 Cannes Film Festival",
           1368907465
+        ],
+        [
+          "When in Cannes... Timeline Photos",
+          1368817201
         ],
         [
           "First full day of the 66th Cannes Film Festival, and we\nhope all the stars continue to shine into the night.\n\nImage \u00a9 AFP / AT Timeline Photos",
@@ -1633,10 +2280,6 @@
         [
           "\u2018The 15 Most Exciting Films at Cannes 2013.\u2019 Which film\r\nare you most excited for?: http://bit.ly/13G0nkD Timeline Photos",
           1368624601
-        ],
-        [
-          "Introducing the Connoisseur Series - an exclusive interview series dedicated to the craft and art of film - debuting at this year\u2019s Cannes Film Festival. Can you guess who our first film star interviewee is? Timeline Photos",
-          1368464571
         ],
         [
           "The Cannes Film Festival is just around the corner, and the trailers are being unveiled: Festival de Cannes (2013) - Behind The Candelabra Trailer - Matt Damon Movie HD Subscribe to TRAILERS: http://bit.ly/sxaw6h Subscribe to COMING SOON: http://bit.ly/H2vZUn Subscribe to INDIE TRAILERS: http://goo.gl/iPUuo Like us on FACEBO...",
@@ -1659,12 +2302,24 @@
           1361497723
         ],
         [
+          "A night in celebration of film, beauty, and our collaboration with Annie Leibovitz. 2013 Sundance Film Festival Launch Event",
+          1358548426
+        ],
+        [
+          "We\u2019re at the Sundance Film Festival tonight, showcasing our collaboration with legendary photographer Annie Leibovitz. See what beauty is captured as we post live throughout the evening. Timeline Photos",
+          1358539889
+        ],
+        [
           "This stunning video about one man\u2019s love for the sea reminds us that true passion is a beauty to behold. DARK SIDE OF THE LENS Winner - Best Cinematography, Rhode Island International Film Festival, 2011  Winner - Action Sports Category, Vimeo Awards 2012  Winner - G-Raid Driven Creativity\u2026",
           1353254401
         ],
         [
           "We raise our chalices to Michael Haneke, winner of the Palme d\u2019Or for his film, Amour, announced at last night\u2019s closing ceremony of the 65th Cannes Film Festival.  See you next year on the Croisette! Timeline Photos",
           1338223140
+        ],
+        [
+          "Continuing to quench the thirst of Cannes! Timeline Photos",
+          1337866319
         ],
         [
           "Have you played What Film Is She yet? Which of the reenactments did you find most creative? http://on.fb.me/HalZKR Timeline Photos",
@@ -1747,35 +2402,35 @@
           1330709421
         ]
       ],
-      "dates_start": 1337405494,
-      "dates_end": 1381911368,
-      "likes_avg": 817,
-      "likes_stdev": 2569,
-      "comments_avg": 31,
-      "comments_stdev": 62,
-      "shares_avg": 27,
-      "shares_stdev": 69
+      "dates_start": 1334284318,
+      "dates_end": 1383087940,
+      "likes_avg": 361,
+      "likes_stdev": 1028,
+      "comments_avg": 21,
+      "comments_stdev": 40,
+      "shares_avg": 23,
+      "shares_stdev": 55
     },
     {
-      "number": 13,
+      "number": 20,
       "important": [
-        "club",
-        "cinema",
-        "cann cinema",
+        "film",
+        "stella",
+        "visit",
         "stella artoi",
-        "cann"
+        "artoi"
       ],
       "common": [
         "artoi",
-        "cann",
-        "cann cinema",
-        "cann cinema club",
-        "cinema",
-        "cinema club",
-        "club",
+        "artoi cann",
+        "film",
+        "kellan",
+        "photo",
         "stella",
         "stella artoi",
-        "timelin"
+        "timelin",
+        "timelin photo",
+        "visit"
       ],
       "messages": [
         [
@@ -1837,25 +2492,25 @@
       "shares_stdev": 6
     },
     {
-      "number": 14,
+      "number": 21,
       "important": [
         "perfect",
-        "herestoperfect",
-        "experi",
-        "herestoperfect timelin",
+        "beauti",
+        "open",
+        "see",
         "wimbledon"
       ],
       "common": [
-        "experi",
-        "herestoperfect",
-        "herestoperfect timelin",
-        "herestoperfect wimbledon",
+        "beauti",
+        "court",
+        "ian",
+        "jug",
+        "open",
         "perfect",
-        "pigeon",
         "rufus",
-        "timelin",
-        "wimbledon",
-        "wimbledon herestoperfect"
+        "see",
+        "two",
+        "wimbledon"
       ],
       "messages": [
         [
@@ -1863,36 +2518,12 @@
           1436452500
         ],
         [
-          "Feared by pigeons. Loved by Champions. Experience 360\u00b0 of perfection at Wimbledon at bit.ly/FlyLikeRufus #herestoperfection",
-          1436286540
-        ],
-        [
-          "Game. Set. Match. #Wimbledon #ViewFromMyChalice Timeline Photos",
-          1436022360
-        ],
-        [
-          "Have you met Rufus? Experience the perfection of #Wimbledon like never before at http://bit.ly/FlyLikeRufus #herestoperfection",
-          1435937281
-        ],
-        [
           "It\u2019s more than a sport. It\u2019s an art form. #Wimbledon #herestoperfection Timeline Photos",
           1435671060
         ],
         [
-          "Attending Wimbledon? Join Stella Artois and Rufus the Hawk and experience 360\u00b0 of Wimbledon perfection at Waterloo Station or at http://bit.ly/FlyLikeRufus",
-          1435610041
-        ],
-        [
           "Rufus knows perfection when he sees it. Are you ready for Wimbledon #herestoperfection Timeline Photos",
           1435316461
-        ],
-        [
-          "Rufus is always ready to continue to keep Wimbledon perfect. Are you? #herestoperfection",
-          1435240260
-        ],
-        [
-          "Rufus is a relentless perfectionist. Are you ready to experience Wimbledon through his eyes? #herestoperfection",
-          1435002660
         ],
         [
           "Beauty so timeless, it could stop a clock. #herestoperfection Timeline Photos",
@@ -1923,12 +2554,123 @@
           1405714201
         ],
         [
+          "Great day at the beach? Bunker Joy at The Open Championship. #herestoperfection Timeline Photos",
+          1405595824
+        ],
+        [
+          "Do the Union Jack or Claret Jug trousers win your vote as Ian James Poulter's most dapper threads? What do you think we'll see at The Open this year? #herestoperfection Timeline Photos",
+          1405523238
+        ],
+        [
           "A vessel for those with a thirst for the beautiful life. #herestoperfection Timeline Photos",
           1404760201
         ],
         [
           "Two weeks of perfection, on and off the court. Thank you for having us Wimbledon. See you in 2015 #herestoperfection Timeline Photos",
           1404685404
+        ],
+        [
+          "A serve you won\u2019t return. #herestoperfection Timeline Photos",
+          1404215623
+        ],
+        [
+          "The Wimbledon grass is cut to an exacting 10mm in length. Precision is something we relate to. #herestoperfection Timeline Photos",
+          1404126001
+        ],
+        [
+          "#Wimbledon will always require a crisp white top.\nNot a problem. #herestoperfection Timeline Photos",
+          1403952283
+        ],
+        [
+          "Wimbledon \u2013 the consummate English garden. Raise a Chalice to the groundsman. #herestoperfection Timeline Photos",
+          1403877901
+        ],
+        [
+          "Watch how a contest between player and pigeon led to Rufus the hawk becoming a member of #Wimbledon security team. http://bit.ly/1lMYZXF #herestoperfection Timeline Photos",
+          1403623100
+        ],
+        [
+          "Cheers to the perfect view. #herestoperfection #Cannes2014 Timeline Photos",
+          1400932802
+        ],
+        [
+          "No matter what the backdrop, she is a thing of beauty. #herestoperfection #Cannes2014 Timeline Photos",
+          1400848691
+        ],
+        [
+          "The iconic Chapelle Belllini greets us each morning. #cannes2014 #festivaldecannes #herestoperfection Timeline Photos",
+          1400695552
+        ],
+        [
+          "Smooth asphalt and two wheels, the perfect way to get around Cannes. #herestoperfection #cannes2014 Timeline Photos",
+          1400514288
+        ],
+        [
+          "The life of luxury slowly awakens in the Vieux-Port.\n#herestoperfection #cannes2014 Timeline Photos",
+          1400256306
+        ],
+        [
+          "In two weeks we will be celebrating the greatest in film with a full Chalice of Stella Artois. What could be more exquisite? #Cannes2014 #herestoperfection Timeline Photos",
+          1398801601
+        ]
+      ],
+      "dates_start": 1397376615,
+      "dates_end": 1418589168,
+      "likes_avg": 98,
+      "likes_stdev": 68,
+      "comments_avg": 1,
+      "comments_stdev": 1,
+      "shares_avg": 8,
+      "shares_stdev": 9
+    },
+    {
+      "number": 22,
+      "important": [
+        "experi",
+        "watch",
+        "perfect",
+        "set"
+      ],
+      "common": [
+        "champion",
+        "experi",
+        "herestoperfect wimbledon",
+        "perfect",
+        "photo",
+        "rufus",
+        "set",
+        "timelin",
+        "timelin photo",
+        "watch"
+      ],
+      "messages": [
+        [
+          "Feared by pigeons. Loved by Champions. Experience 360\u00b0 of perfection at Wimbledon at bit.ly/FlyLikeRufus #herestoperfection",
+          1436286540
+        ],
+        [
+          "Game. Set. Match. #Wimbledon #ViewFromMyChalice Timeline Photos",
+          1436022360
+        ],
+        [
+          "Have you met Rufus? Experience the perfection of #Wimbledon like never before at http://bit.ly/FlyLikeRufus #herestoperfection",
+          1435937281
+        ],
+        [
+          "Attending Wimbledon? Join Stella Artois and Rufus the Hawk and experience 360\u00b0 of Wimbledon perfection at Waterloo Station or at http://bit.ly/FlyLikeRufus",
+          1435610041
+        ],
+        [
+          "Rufus is always ready to continue to keep Wimbledon perfect. Are you? #herestoperfection",
+          1435240260
+        ],
+        [
+          "Rufus is a relentless perfectionist. Are you ready to experience Wimbledon through his eyes? #herestoperfection",
+          1435002660
+        ],
+        [
+          "Some things look beautiful in any setting. Timeline Photos",
+          1423761300
         ],
         [
           "The 2014 Ladies\u2019 Singles Champion will be crowned at Wimbledon\ntoday as the finer details culminate in a victorious display.\n#herestoperfection #wimbledon Timeline Photos",
@@ -1943,28 +2685,12 @@
           1404304726
         ],
         [
-          "The Wimbledon grass is cut to an exacting 10mm in length. Precision is something we relate to. #herestoperfection Timeline Photos",
-          1404126001
-        ],
-        [
-          "#Wimbledon will always require a crisp white top.\nNot a problem. #herestoperfection Timeline Photos",
-          1403952283
-        ],
-        [
           "We\u2019re setting up for the ace. #herestoperfection #Wimbledon Timeline Photos",
           1403781852
         ],
         [
           "Painting the town white. #herestoperfection  #Wimbledon Timeline Photos",
           1403693715
-        ],
-        [
-          "Watch how a contest between player and pigeon led to Rufus the hawk becoming a member of #Wimbledon security team. http://bit.ly/1lMYZXF #herestoperfection Timeline Photos",
-          1403623100
-        ],
-        [
-          "The score is love-love as #Wimbledon begins today. Cheers to the start of something great. #herestoperfection Timeline Photos",
-          1403532301
         ],
         [
           "Seeing double? Watch the story of two of the greatest racket stringers going head-to-head at Wimbledon. \n#herestoperfection #Wimbledon Meet the Fastest Racket Stringer at Wimbledon",
@@ -1975,49 +2701,36 @@
           1403438307
         ],
         [
-          "Wimbledon begins Sunday and Stella Artois will be on tap throughout the event. Follow us on Instagram @StellaArtois for a look inside The Championships. #herestoperfection #Wimbledon Timeline Photos",
-          1403118301
-        ],
-        [
-          "No matter what the backdrop, she is a thing of beauty. #herestoperfection #Cannes2014 Timeline Photos",
-          1400848691
-        ],
-        [
-          "The iconic Chapelle Belllini greets us each morning. #cannes2014 #festivaldecannes #herestoperfection Timeline Photos",
-          1400695552
-        ],
-        [
-          "The life of luxury slowly awakens in the Vieux-Port.\n#herestoperfection #cannes2014 Timeline Photos",
-          1400256306
+          "It's the small things that set you apart. Timeline Photos",
+          1365613800
         ]
       ],
-      "dates_start": 1398929980,
-      "dates_end": 1427038446,
-      "likes_avg": 78,
-      "likes_stdev": 65,
+      "dates_start": 1395509870,
+      "dates_end": 1435302463,
+      "likes_avg": 75,
+      "likes_stdev": 88,
       "comments_avg": 1,
       "comments_stdev": 1,
       "shares_avg": 7,
-      "shares_stdev": 6
+      "shares_stdev": 5
     },
     {
-      "number": 15,
+      "number": 23,
       "important": [
-        "symphoni",
-        "cold",
+        "stella artoi",
+        "stella",
         "artoi",
-        "chalic",
-        "chalic symphoni"
+        "cold"
       ],
       "common": [
         "artoi",
-        "chalic",
-        "chalic symphoni",
+        "cavatorta",
         "cold",
         "cold war",
         "cold war kid",
         "kid",
-        "symphoni",
+        "stella",
+        "stella artoi",
         "war",
         "war kid"
       ],

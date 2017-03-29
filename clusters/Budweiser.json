@@ -4,55 +4,63 @@
   "globalstats": {
     "fan_count": 13890523,
     "messages": 583,
-    "likes_avg": 131,
-    "likes_stdev": 202,
+    "likes_avg": 123,
+    "likes_stdev": 193,
     "comments_avg": 4,
     "comments_stdev": 8,
-    "shares_avg": 20,
-    "shares_stdev": 88,
+    "shares_avg": 19,
+    "shares_stdev": 84,
     "graph_uri": "clusters/Budweiser.png"
   },
   "clusters": [
     {
       "number": 1,
       "important": [
-        "timelin",
         "weekend",
         "let",
-        "madeformus"
+        "keep",
+        "bud"
       ],
       "common": [
         "begin",
+        "bud",
+        "keep",
         "let",
-        "madeformus",
-        "pack",
+        "pack essenti",
         "pack essenti timelin",
-        "pack thisbudsforyou",
-        "pack thisbudsforyou timelin",
-        "respons",
-        "timelin",
+        "pack essenti timelin photo",
+        "readi",
+        "readi weekend",
         "weekend"
       ],
       "messages": [
         [
-          "It's the weekend. Run with your pack. #ThisBudsForYou Timeline Photos",
-          1464373740
-        ],
-        [
           "Let\u2019s give fashion the day off. #CheersTo2014 Timeline Photos",
           1419519600
+        ],
+        [
+          "Keeping it cool all weekend long. Timeline Photos",
+          1414332000
+        ],
+        [
+          "Get all of your Buds ready for the weekend. #Budweiser",
+          1414170000
         ],
         [
           "Don\u2019t let your best friend down this weekend. Drink responsibly.",
           1413565200
         ],
         [
-          "Let your notes hit the sky. #MADEforMusic Timeline Photos",
-          1411218002
-        ],
-        [
           "Let your hair down. Hold your Buds up. #MADEforMusic #FestivalLife Timeline Photos",
           1409922004
+        ],
+        [
+          "Keep your speakers turned all the way up. Timeline Photos",
+          1406294506
+        ],
+        [
+          "Keeping things Great. Timeline Photos",
+          1393852878
         ],
         [
           "Your weekend starts here. Timeline Photos",
@@ -71,35 +79,35 @@
           1370638452
         ]
       ],
-      "dates_start": 1372760318,
-      "dates_end": 1430872408,
-      "likes_avg": 366,
-      "likes_stdev": 306,
-      "comments_avg": 16,
-      "comments_stdev": 22,
-      "shares_avg": 242,
-      "shares_stdev": 549
+      "dates_start": 1378738513,
+      "dates_end": 1415698742,
+      "likes_avg": 344,
+      "likes_stdev": 279,
+      "comments_avg": 13,
+      "comments_stdev": 21,
+      "shares_avg": 207,
+      "shares_stdev": 502
     },
     {
       "number": 2,
       "important": [
-        "day",
-        "bud",
-        "timelin",
+        "world",
         "grab",
-        "grab bud"
+        "want",
+        "ice",
+        "time"
       ],
       "common": [
-        "anoth",
-        "bud",
-        "bud timelin",
-        "day",
         "grab",
         "grab bud",
-        "grab youv earn",
-        "grab youv earn thisbudsforyou",
-        "massiv",
-        "timelin"
+        "ice",
+        "second",
+        "time",
+        "want",
+        "weekend",
+        "weekend timelin",
+        "weekend timelin photo",
+        "world"
       ],
       "messages": [
         [
@@ -107,198 +115,108 @@
           1442430601
         ],
         [
-          "Grab them before they\u2019re gone. #ThirstyThursday",
-          1415890800
-        ],
-        [
-          "Another massive #WorldCup day is underway. Grab Some Buds, and take it all in. Timeline Photos",
-          1404217663
-        ],
-        [
-          "Grab Some Buds and be the boss of Friday. Timeline Photos",
-          1377291601
-        ],
-        [
-          "Raise your expectations \u2014 tonight we Grab Some Buds. Timeline Photos",
-          1372284622
-        ],
-        [
-          "Grab Some Buds and enjoy the weekend. Timeline Photos",
-          1369431256
-        ],
-        [
-          "It's FA Cup Final Day! \r\n\r\nWatch the game and Grab Some Buds with your buds. Timeline Photos",
-          1368276091
-        ]
-      ],
-      "dates_start": 1366278222,
-      "dates_end": 1419385386,
-      "likes_avg": 275,
-      "likes_stdev": 250,
-      "comments_avg": 10,
-      "comments_stdev": 8,
-      "shares_avg": 63,
-      "shares_stdev": 69
-    },
-    {
-      "number": 3,
-      "important": [
-        "budhotel",
-        "facebook",
-        "worldcup",
-        "footbal",
-        "share"
-      ],
-      "common": [
-        "budhotel",
-        "budhotel facebook",
-        "budhotel facebook studio",
-        "facebook",
-        "facebook studio",
-        "footbal",
-        "question",
-        "share",
-        "studio",
-        "worldcup"
-      ],
-      "messages": [
-        [
-          "Get your #WorldCup insights from a pro. Legendary football player and coach, Dunga joins us at the #BudHotel Facebook Studio. #FRAvsGER #BRAvsCOL",
-          1404419400
-        ],
-        [
-          "The delicious game? Watch comedian Will Ferrell chat Suarez, football and the #WorldCup from the Facebook Studio",
-          1403987515
-        ],
-        [
-          "Did you know Nicky Romero chose a career in music over football? He shared more with us about his difficult decision at the #BudHotel Facebook Studio.",
-          1402852967
-        ],
-        [
-          "World Cup winner and legend Dunga joined us at the #BudHotel Facebook Studio to tell us why he thinks Belgium and Argentina will surprise us all this #WorldCup.",
-          1402769368
-        ],
-        [
-          "Nicky Romero is hitting the stage at the #BudHotel in Rio tonight. But first, he's making a stop at our Facebook Studio to answer your questions. Ask them right here in the Comments section. Timeline Photos",
-          1402592829
-        ],
-        [
-          "Novice or expert, we all have an answer to the golden question. Who\u2019s going to win the #WorldCup? \n\nWatch this video from Facebook Studio at the #BudHotel.",
-          1402495907
-        ],
-        [
-          "The Facebook Studio at the #BudHotel is open. Football legends Davor \u0160uker, Juliano Belletti & Pierre van Hooijdonk will be sharing their favorite #WorldCup memories and 2014 predictions. Comment below with your questions! Timeline Photos",
-          1402409075
-        ]
-      ],
-      "dates_start": 1402339078,
-      "dates_end": 1403811510,
-      "likes_avg": 678,
-      "likes_stdev": 965,
-      "comments_avg": 23,
-      "comments_stdev": 29,
-      "shares_avg": 56,
-      "shares_stdev": 69
-    },
-    {
-      "number": 4,
-      "important": [
-        "ice",
-        "bud",
-        "timelin",
-        "thisbudsforyou timelin",
-        "make"
-      ],
-      "common": [
-        "alway",
-        "bud",
-        "bud timelin",
-        "ice",
-        "make",
-        "room",
-        "room bud",
-        "room bud timelin",
-        "thisbudsforyou timelin",
-        "timelin"
-      ],
-      "messages": [
-        [
-          "Think you can make a bigger entrance than one with a case of Bud under your arm? Be our guest. #ThisBudsForYou Timeline Photos",
-          1452540421
-        ],
-        [
-          "Buds and burgers so bold, there's no room for anything else on the table. #ThisBudsForYou Timeline Photos",
-          1449690001
-        ],
-        [
           "This Buds for you, Entourage. #EntouragetheMovie #BudAndBurgers",
           1434745140
+        ],
+        [
+          "Know exactly what you want. Find us on Instagram. Follow us on Instagram This Bud's for You.",
+          1431977221
         ],
         [
           "Forecast: Buds with a chance of ice showers. #BetterWithBud Timeline Photos",
           1426797000
         ],
         [
-          "There\u2019s always room for more Buds. Timeline Photos",
-          1415026801
+          "Start cracking open your Buds. It\u2019s game time. #SuperBowl #SBXLIX Timeline Photos",
+          1422813600
         ],
         [
-          "If life gives you snow, make a cooler for your Buds. Timeline Photos",
-          1393250533
+          "It\u2019s time to get festive. #CheersTo2014 Timeline Photos",
+          1419433202
         ],
         [
-          "A night on the town is always Great with some cool Buds. Timeline Photos",
-          1390492468
+          "Want to cheers with buds around the world? Learn how to in 15 languages in 30 seconds. #CheersTo2014",
+          1418842800
         ],
         [
-          "Your Buds are your Buds for a reason. Celebrate the Bud out of it. Timeline Photos",
-          1387572129
+          "Grab them before they\u2019re gone. #ThirstyThursday",
+          1415890800
+        ],
+        [
+          "Nothing but net. Nothing but Bud. #OpeningNight #Budweiser Timeline Photos",
+          1414533600
+        ],
+        [
+          "Raise a Bud if you want an encore. Timeline Photos",
+          1405947601
+        ],
+        [
+          "Another massive #WorldCup day is underway. Grab Some Buds, and take it all in. Timeline Photos",
+          1404217663
+        ],
+        [
+          "It's hard work being a #WorldCup fan. You've earned some Buds and pool time. Timeline Photos",
+          1404061060
+        ],
+        [
+          "A \"World's Greatest Dad\" trophy he'll actually want, just in time for the second half. Happy Father's Day. Timeline Photos",
+          1402865400
+        ],
+        [
+          "It's never too early to start practicing your victory samba. Timeline Photos",
+          1393627843
+        ],
+        [
+          "Never leave a Bud empty-handed. Timeline Photos",
+          1384267304
         ],
         [
           "Somewhere out there, a Bud is waiting. Timeline Photos",
           1383840953
         ],
         [
-          "Make room for your Buds. Timeline Photos",
-          1382384418
-        ],
-        [
           "Put your Buds on ice. It's going to be a long weekend. Timeline Photos",
           1381510802
         ],
         [
-          "Thumbs up, Buds up. Timeline Photos",
-          1379622865
+          "Grab Some Buds and be the boss of Friday. Timeline Photos",
+          1377291601
         ],
         [
           "Weekend forecast: Buds with ice. Timeline Photos",
           1370027328
+        ],
+        [
+          "Grab Some Buds and enjoy the weekend. Timeline Photos",
+          1369431256
+        ],
+        [
+          "It's about that time. Timeline Photos",
+          1368132725
         ]
       ],
-      "dates_start": 1376303761,
-      "dates_end": 1431004063,
-      "likes_avg": 255,
-      "likes_stdev": 213,
+      "dates_start": 1381051094,
+      "dates_end": 1425871334,
+      "likes_avg": 199,
+      "likes_stdev": 222,
       "comments_avg": 6,
-      "comments_stdev": 5,
-      "shares_avg": 45,
-      "shares_stdev": 59
+      "comments_stdev": 6,
+      "shares_avg": 52,
+      "shares_stdev": 83
     },
     {
-      "number": 5,
-      "important": [
-        "timelin"
-      ],
+      "number": 3,
+      "important": [],
       "common": [
         "absoul",
-        "pinta tu cara",
-        "pinta tu cara apoya",
-        "pinta tu cara apoya tu",
         "pleas",
-        "pleas pleas",
-        "pleas pleas timelin",
         "pleas timelin",
-        "timelin",
+        "pleas timelin photo",
+        "practic goal scream timelin photo",
+        "proud",
+        "proud timelin",
+        "proud timelin photo",
+        "tab",
         "tu"
       ],
       "messages": [
@@ -313,6 +231,10 @@
         [
           "Get in tune with Sunday. #CheersTo2015 Timeline Photos",
           1421593202
+        ],
+        [
+          "Even our tabs stand proud. Timeline Photos",
+          1415746800
         ],
         [
           "Feeling thirsty? We can help. #ThirstyThursday Timeline Photos",
@@ -351,6 +273,10 @@
           1371651850
         ],
         [
+          "Ready and waiting. Timeline Photos",
+          1369264811
+        ],
+        [
           "Gang's all here. Timeline Photos",
           1368820802
         ],
@@ -367,35 +293,96 @@
           1368132228
         ]
       ],
-      "dates_start": 1367158006,
-      "dates_end": 1408863051,
-      "likes_avg": 264,
-      "likes_stdev": 289,
-      "comments_avg": 9,
+      "dates_start": 1367331588,
+      "dates_end": 1409688419,
+      "likes_avg": 282,
+      "likes_stdev": 284,
+      "comments_avg": 10,
       "comments_stdev": 10,
-      "shares_avg": 42,
-      "shares_stdev": 61
+      "shares_avg": 43,
+      "shares_stdev": 60
     },
     {
-      "number": 6,
+      "number": 4,
       "important": [
-        "thisbudsforyou",
-        "night",
-        "thisbudsforyou timelin",
+        "grab",
+        "make"
+      ],
+      "common": [
+        "alway",
+        "alway room bud timelin",
+        "bud bud",
+        "grab",
+        "grab bud",
+        "make",
+        "room",
+        "room bud",
+        "room bud timelin",
+        "room bud timelin photo"
+      ],
+      "messages": [
+        [
+          "There\u2019s always room for more Buds. Timeline Photos",
+          1415026801
+        ],
+        [
+          "If life gives you snow, make a cooler for your Buds. Timeline Photos",
+          1393250533
+        ],
+        [
+          "A night on the town is always Great with some cool Buds. Timeline Photos",
+          1390492468
+        ],
+        [
+          "Your Buds are your Buds for a reason. Celebrate the Bud out of it. Timeline Photos",
+          1387572129
+        ],
+        [
+          "Make room for your Buds. Timeline Photos",
+          1382384418
+        ],
+        [
+          "Thumbs up, Buds up. Timeline Photos",
+          1379622865
+        ],
+        [
+          "Raise your expectations \u2014 tonight we Grab Some Buds. Timeline Photos",
+          1372284622
+        ],
+        [
+          "It's FA Cup Final Day! \r\n\r\nWatch the game and Grab Some Buds with your buds. Timeline Photos",
+          1368276091
+        ]
+      ],
+      "dates_start": 1372541413,
+      "dates_end": 1399686068,
+      "likes_avg": 263,
+      "likes_stdev": 140,
+      "comments_avg": 7,
+      "comments_stdev": 4,
+      "shares_avg": 43,
+      "shares_stdev": 28
+    },
+    {
+      "number": 5,
+      "important": [
         "beer",
-        "cold"
+        "thisbudsforyou",
+        "thisbudsforyou timelin",
+        "night",
+        "time"
       ],
       "common": [
         "beer",
-        "cold",
         "ice",
         "ice cold",
         "night",
-        "readi",
+        "night serv",
+        "parti timelin photo",
         "thisbudsforyou",
         "thisbudsforyou timelin",
-        "time",
-        "timelin"
+        "thisbudsforyou timelin photo",
+        "time"
       ],
       "messages": [
         [
@@ -437,105 +424,23 @@
       "shares_stdev": 60
     },
     {
-      "number": 7,
+      "number": 6,
       "important": [
-        "madeformus timelin",
-        "good",
-        "thisbudsforyou",
-        "timelin",
-        "right"
-      ],
-      "common": [
-        "good",
-        "made",
-        "madeformus",
-        "madeformus timelin",
-        "right",
-        "thisbudsforyou",
-        "time",
-        "timelin",
-        "worldcup",
-        "worldcup timelin"
-      ],
-      "messages": [
-        [
-          "It's a \"step right up\" kind of night.  Good thing you know exactly what you want. #ThisBudsForYou",
-          1470859200
-        ],
-        [
-          "140 years has never looked so good. #ThisBudsForYou",
-          1466010780
-        ],
-        [
-          "Swipe right. #CheersTo2015 Timeline Photos",
-          1420988400
-        ],
-        [
-          "Our mood right now. #MADEforMusic Timeline Photos",
-          1409749201
-        ],
-        [
-          "Legends are MADE on the streets of Philadelphia. Your sneak peek at #MADEunderground #Philly is right here.",
-          1408366800
-        ],
-        [
-          "MADE for hitting the right note. #MADEforMusic Timeline Photos",
-          1408280401
-        ],
-        [
-          "MADE for listening to the right song with the right people. #MADEforMUSIC Timeline Photos",
-          1408194001
-        ],
-        [
-          "There was heavy competition at the Maracana, but Rihanna made a pretty good run for yesterday's #ManOfTheMatch award. #WorldCup Timeline Photos",
-          1405347630
-        ],
-        [
-          "If you're only having a good time you may not be doing it right. #GreatTimes #WorldCup Timeline Photos",
-          1404745200
-        ],
-        [
-          "Now's as good a time as any. Timeline Photos",
-          1394295464
-        ],
-        [
-          "Good boy! Timeline Photos",
-          1382024554
-        ],
-        [
-          "Kicking off the week right. Timeline Photos",
-          1369082406
-        ]
-      ],
-      "dates_start": 1383958444,
-      "dates_end": 1440698894,
-      "likes_avg": 190,
-      "likes_stdev": 153,
-      "comments_avg": 5,
-      "comments_stdev": 4,
-      "shares_avg": 27,
-      "shares_stdev": 30
-    },
-    {
-      "number": 8,
-      "important": [
-        "time",
-        "timelin",
-        "great time",
         "come",
-        "great"
+        "make",
+        "great time"
       ],
       "common": [
         "come",
-        "great",
         "great time",
         "great time come",
-        "rooftop budhotel rio",
-        "rooftop budhotel rio great",
-        "rooftop budhotel rio great time",
-        "time",
-        "time come",
-        "timelin"
+        "great timelin",
+        "great timelin photo",
+        "make",
+        "outdoor greater timelin",
+        "outdoor greater timelin photo",
+        "someth great",
+        "time come"
       ],
       "messages": [
         [
@@ -551,8 +456,16 @@
           1391712884
         ],
         [
+          "The beginning of something great. Timeline Photos",
+          1385824364
+        ],
+        [
           "That crisp fall air has Great Times written all over it. Timeline Photos",
           1385483809
+        ],
+        [
+          "A textbook example of how to make times Great. Timeline Photos",
+          1385335419
         ],
         [
           "Great Times come to those who chill. Timeline Photos",
@@ -563,192 +476,55 @@
           1373410940
         ],
         [
+          "Making the great outdoors greater. Timeline Photos",
+          1373237412
+        ],
+        [
           "Cue Great Times in 3...2... Timeline Photos",
           1373135418
         ]
       ],
-      "dates_start": 1374098500,
-      "dates_end": 1409082635,
-      "likes_avg": 247,
-      "likes_stdev": 160,
-      "comments_avg": 5,
-      "comments_stdev": 4,
-      "shares_avg": 25,
-      "shares_stdev": 20
+      "dates_start": 1372872682,
+      "dates_end": 1404233551,
+      "likes_avg": 228,
+      "likes_stdev": 139,
+      "comments_avg": 4,
+      "comments_stdev": 3,
+      "shares_avg": 24,
+      "shares_stdev": 17
     },
     {
-      "number": 9,
+      "number": 7,
       "important": [
-        "thisbudsforyou",
-        "tonight",
-        "timelin",
-        "grab",
-        "thisbudsforyou timelin"
+        "never",
+        "thisbudsforyou timelin",
+        "everi",
+        "budweis"
       ],
       "common": [
-        "advic",
-        "grab",
-        "grab tonight",
-        "round",
-        "round closer",
-        "thisbudsforyou",
-        "thisbudsforyou timelin",
-        "timelin",
-        "tonight",
-        "tonight timelin"
-      ],
-      "messages": [
-        [
-          "Tonight, leave doubt at the door. #ThisBudsForYou Timeline Photos",
-          1479584520
-        ],
-        [
-          "Don't sit back and watch the clock.  Grab tonight by the bottle. #ThisBudsForYou Timeline Photos",
-          1473969602
-        ],
-        [
-          "Bring tonight one round closer to the dance floor. #ThisBudsForYou Timeline Photos",
-          1467986400
-        ],
-        [
-          "Grab tonight by the aluminum. #ThisBudsForYou Timeline Photos",
-          1465670640
-        ],
-        [
-          "Who\u2019s buying the Buds tonight? Timeline Photos",
-          1421960400
-        ],
-        [
-          "What's on your agenda tonight? Timeline Photos",
-          1378411715
-        ],
-        [
-          "Our advice for tonight. Timeline Photos",
-          1368131873
-        ]
-      ],
-      "dates_start": 1392839596,
-      "dates_end": 1480221874,
-      "likes_avg": 193,
-      "likes_stdev": 128,
-      "comments_avg": 6,
-      "comments_stdev": 5,
-      "shares_avg": 22,
-      "shares_stdev": 13
-    },
-    {
-      "number": 10,
-      "important": [
-        "hour",
-        "thisbudsforyou",
-        "go",
-        "happi",
-        "happi hour"
-      ],
-      "common": [
-        "bud",
-        "go",
-        "happi",
-        "happi hour",
-        "happi hour go",
-        "happi hour go gold",
-        "hour",
-        "thisbudsforyou",
-        "thisbudsforyou timelin",
-        "timelin"
-      ],
-      "messages": [
-        [
-          "The clock doesn\u2019t decide when happy hour is over. You do. #ThisBudsForYou",
-          1481064900
-        ],
-        [
-          "It's happy hour, go for the gold or go sit down. #ThisBudsForYou Timeline Photos",
-          1453410600
-        ],
-        [
-          "At happy hour, go for gold. #ThisBudsForYou Timeline Photos",
-          1447271580
-        ],
-        [
-          "It\u2019s only a happy hour if there\u2019s Budweiser. #ThisBudsForYou Timeline Photos",
-          1429553400
-        ],
-        [
-          "With Buds, every hour is happy hour. #BetterWithBud Timeline Photos",
-          1425070800
-        ],
-        [
-          "Get your Buds ready for happy hour tonight. #CheersTo2015 #Budweiser Timeline Photos",
-          1421874000
-        ],
-        [
-          "It's happy hour. Do you know where your Buds are? Timeline Photos",
-          1368133386
-        ]
-      ],
-      "dates_start": 1399972120,
-      "dates_end": 1464707498,
-      "likes_avg": 205,
-      "likes_stdev": 197,
-      "comments_avg": 6,
-      "comments_stdev": 6,
-      "shares_avg": 21,
-      "shares_stdev": 19
-    },
-    {
-      "number": 11,
-      "important": [
-        "thisbudsforyou",
-        "timelin",
-        "brew",
-        "thisbudsforyou timelin",
-        "beer"
-      ],
-      "common": [
-        "beer",
         "beer thisbudsforyou",
-        "brew",
-        "bud",
+        "beer thisbudsforyou timelin",
+        "better",
         "budweis",
         "everi",
         "never",
-        "thisbudsforyou",
+        "plan",
+        "say",
         "thisbudsforyou timelin",
-        "timelin"
+        "thisbudsforyou timelin photo"
       ],
       "messages": [
         [
-          "We don\u2019t let anyone tell us how to brew our beer. Don\u2019t let anyone tell you how to drink it. #ThisBudsForYou Timeline Photos",
-          1482187140
-        ],
-        [
           "These beers didn\u2019t leave the brewery until they were smooth enough to dance. #ThisBudsForYou",
           1478904780
-        ],
-        [
-          "We brew Bud with our passion for the moments you show your own. #ThisBudsForYou Timeline Photos",
-          1477949401
         ],
         [
           "Friends may change, but the beer never does. #ThisBudsForYou Timeline Photos",
           1467554400
         ],
         [
-          "Every victory comes down to a secret weapon. #ThisBudsForYou Timeline Photos",
-          1463078700
-        ],
-        [
           "Take turns picking the show. But never the beer. #ThisBudsForYou Timeline Photos",
           1461186600
-        ],
-        [
-          "Some say we're stubborn about brewing our beer. We say \"thank you for noticing\". #ThisBudsForYou Timeline Photos",
-          1450300994
-        ],
-        [
-          "Brewed patiently. Ordered confidently. Served proudly. #ThisBudsForYou Timeline Photos",
-          1447966561
         ],
         [
           "Budweiser isn't just the beer for last minute plans. It's the beer for every plan. #ThisBudsForYou Timeline Photos",
@@ -767,12 +543,8 @@
           1430504520
         ],
         [
-          "Brew it the right way or don\u2019t brew it at all. #ThisBudsForYou Timeline Photos",
-          1430160600
-        ],
-        [
-          "We could brew in half the time. Or we could brew Budweiser. #ThisBudsForYou Timeline Photos",
-          1429734000
+          "The beer that says you have something to say. #ThisBudsForYou Timeline Photos",
+          1430334900
         ],
         [
           "The official beer of beer. #ThisBudsForYou",
@@ -783,55 +555,102 @@
           1426263236
         ],
         [
-          "It's never too early to start practicing your victory samba. Timeline Photos",
-          1393627843
-        ],
-        [
           "The better the ingredients, the better the beer. Timeline Photos",
           1392226751
         ],
         [
           "You can judge a beer by its cover. Timeline Photos",
           1390321740
+        ]
+      ],
+      "dates_start": 1409856627,
+      "dates_end": 1460873053,
+      "likes_avg": 178,
+      "likes_stdev": 102,
+      "comments_avg": 4,
+      "comments_stdev": 2,
+      "shares_avg": 22,
+      "shares_stdev": 19
+    },
+    {
+      "number": 8,
+      "important": [
+        "beer",
+        "let"
+      ],
+      "common": [
+        "anyon",
+        "beer",
+        "brew beer",
+        "confid",
+        "could",
+        "could brew",
+        "let",
+        "let anyon tell",
+        "say",
+        "tell"
+      ],
+      "messages": [
+        [
+          "Tonight is in your hands. Brew it with confidence. #ThisBudsForYou Timeline Photos",
+          1483224001
         ],
         [
-          "Never leave a Bud empty-handed. Timeline Photos",
-          1384267304
+          "We don\u2019t let anyone tell us how to brew our beer. Don\u2019t let anyone tell you how to drink it. #ThisBudsForYou Timeline Photos",
+          1482187140
+        ],
+        [
+          "We brew Bud with our passion for the moments you show your own. #ThisBudsForYou Timeline Photos",
+          1477949401
+        ],
+        [
+          "Some say we're stubborn about brewing our beer. We say \"thank you for noticing\". #ThisBudsForYou Timeline Photos",
+          1450300994
+        ],
+        [
+          "Brewed patiently. Ordered confidently. Served proudly. #ThisBudsForYou Timeline Photos",
+          1447966561
+        ],
+        [
+          "Brew it the right way or don\u2019t brew it at all. #ThisBudsForYou Timeline Photos",
+          1430160600
+        ],
+        [
+          "We could brew in half the time. Or we could brew Budweiser. #ThisBudsForYou Timeline Photos",
+          1429734000
         ],
         [
           "Here's to the hardworking craftsmen who brew our fine beer. Timeline Photos",
           1382273665
         ]
       ],
-      "dates_start": 1404039231,
-      "dates_end": 1466016902,
-      "likes_avg": 182,
-      "likes_stdev": 101,
-      "comments_avg": 6,
-      "comments_stdev": 5,
-      "shares_avg": 21,
-      "shares_stdev": 16
+      "dates_start": 1415796155,
+      "dates_end": 1480152934,
+      "likes_avg": 223,
+      "likes_stdev": 81,
+      "comments_avg": 17,
+      "comments_stdev": 23,
+      "shares_avg": 20,
+      "shares_stdev": 12
     },
     {
-      "number": 12,
+      "number": 9,
       "important": [
-        "budweisermad timelin",
-        "timelin",
         "tbt",
         "jay",
-        "budweisermad"
+        "make"
       ],
       "common": [
-        "budweisermad",
-        "budweisermad timelin",
         "jay",
-        "made",
+        "learn",
+        "make",
         "name",
         "song",
         "song tbt",
         "song tbt budweisermad",
+        "song tbt budweisermad timelin",
         "tbt",
-        "timelin"
+        "tbt budweisermad timelin"
       ],
       "messages": [
         [
@@ -845,6 +664,10 @@
         [
           "Haim is set to release their first album September 30th. PRE-order here: http://goo.gl/sAVTNa #BUDWEISERMADE Timeline Photos",
           1376425065
+        ],
+        [
+          "Make it right, by making it real. #MakeSomethingMonday #BUDWEISERMADE Timeline Photos",
+          1376347836
         ],
         [
           "Style is everything. #BUDWEISERMADE Timeline Photos",
@@ -861,10 +684,6 @@
         [
           "On this day in 2008: During Kanye West's concert at MSG, Jay Z came to perform a new song; 'The Blueprint 3' was on its way. #BUDWEISERMADE Timeline Photos",
           1375814807
-        ],
-        [
-          "Be made for a day. Be the first to name this classic Jay Z track and get a shout out. #TBT Timeline Photos",
-          1375382995
         ],
         [
           "This year Solange made hit tracks, her own label, and a name for herself. #BudweiserMADE Timeline Photos",
@@ -887,6 +706,10 @@
           1374342915
         ],
         [
+          "What inspires you to work hard every morning? #BUDWEISERMADE Timeline Photos",
+          1374274801
+        ],
+        [
           "Can you name which classic song this is from? #TBT #BUDWEISERMADE Timeline Photos",
           1374200478
         ],
@@ -895,34 +718,618 @@
           1373483044
         ]
       ],
-      "dates_start": 1374440375,
-      "dates_end": 1376346677,
-      "likes_avg": 119,
-      "likes_stdev": 56,
+      "dates_start": 1374390552,
+      "dates_end": 1376377265,
+      "likes_avg": 121,
+      "likes_stdev": 54,
       "comments_avg": 4,
-      "comments_stdev": 2,
+      "comments_stdev": 1,
       "shares_avg": 20,
       "shares_stdev": 16
     },
     {
-      "number": 13,
+      "number": 10,
       "important": [
-        "cheer",
-        "timelin",
-        "bud",
-        "night"
+        "thisbudsforyou",
+        "onli",
+        "budweis",
+        "thisbudsforyou timelin",
+        "go"
       ],
       "common": [
-        "alway",
         "bud",
-        "champion",
+        "budweis",
+        "go",
+        "go gold",
+        "gold",
+        "hour go",
+        "onli",
+        "thisbudsforyou",
+        "thisbudsforyou timelin",
+        "thisbudsforyou timelin photo"
+      ],
+      "messages": [
+        [
+          "The clock doesn\u2019t decide when happy hour is over. You do. #ThisBudsForYou",
+          1481064900
+        ],
+        [
+          "It's happy hour, go for the gold or go sit down. #ThisBudsForYou Timeline Photos",
+          1453410600
+        ],
+        [
+          "At happy hour, go for gold. #ThisBudsForYou Timeline Photos",
+          1447271580
+        ],
+        [
+          "The only beer that puts in as many hours as you do. #ThisBudsForYou",
+          1446761460
+        ],
+        [
+          "It\u2019s only a happy hour if there\u2019s Budweiser. #ThisBudsForYou Timeline Photos",
+          1429553400
+        ],
+        [
+          "With Buds, every hour is happy hour. #BetterWithBud Timeline Photos",
+          1425070800
+        ],
+        [
+          "Get your Buds ready for happy hour tonight. #CheersTo2015 #Budweiser Timeline Photos",
+          1421874000
+        ],
+        [
+          "Only 5 months to go. That's 3,624 hours, or 217,440\r\nminutes, or 13,046,400 seconds. But who's counting anyway? Timeline Photos",
+          1389539068
+        ],
+        [
+          "It's happy hour. Do you know where your Buds are? Timeline Photos",
+          1368133386
+        ]
+      ],
+      "dates_start": 1397068612,
+      "dates_end": 1461304541,
+      "likes_avg": 172,
+      "likes_stdev": 184,
+      "comments_avg": 6,
+      "comments_stdev": 5,
+      "shares_avg": 19,
+      "shares_stdev": 17
+    },
+    {
+      "number": 11,
+      "important": [
+        "footbal",
+        "worldcup",
+        "world"
+      ],
+      "common": [
+        "differ",
+        "footbal",
+        "histori",
+        "whole",
+        "whole world",
+        "world",
+        "worldcup",
+        "worldcup riseason",
+        "worldcup riseason timelin",
+        "worldcup riseason timelin photo"
+      ],
+      "messages": [
+        [
+          "Once every 4 years, the whole world will #RiseAsOne Timeline Photos",
+          1405256637
+        ],
+        [
+          "Different languages, different cultures, different histories. At the semi\ufb01nals, we all feel very much the same. #RiseAsOne Timeline Photos",
+          1404925201
+        ],
+        [
+          "Two countries, a world apart. For 90 minutes today, they couldn\u2019t be closer together. #URUvsENG #RiseAsOne Timeline Photos",
+          1403193601
+        ],
+        [
+          "Raise a limited edition gold bottle to the #WorldCup. We all #RiseAsOne Timeline Photos",
+          1401210000
+        ],
+        [
+          "Budweiser's history with the beautiful game is stitched in time. #8thWorldCup #RiseAsOne Timeline Photos",
+          1400853601
+        ],
+        [
+          "The whole world feels the unifying power of football. During the #WorldCup, we all #RiseAsOne. Timeline Photos",
+          1400767200
+        ],
+        [
+          "Cries of joy need no translation. During the #WorldCup, we all #RiseAsOne. Timeline Photos",
+          1400515114
+        ],
+        [
+          "A Budweiser Hero proves that football can be a force for good, brightening the lives of millions. \n\nThanks to everyone from across the globe who entered. #RiseAsOne Timeline Photos",
+          1399640400
+        ],
+        [
+          "100 days to go until the 2014 FIFA World Cup\u2122. When the world will wear its heart on its sleeve. #RiseAsOne Timeline Photos",
+          1393968106
+        ],
+        [
+          "Raise a Bud to the beautiful game. #RiseAsOne Timeline Photos",
+          1392832665
+        ]
+      ],
+      "dates_start": 1396417288,
+      "dates_end": 1404215216,
+      "likes_avg": 105,
+      "likes_stdev": 81,
+      "comments_avg": 4,
+      "comments_stdev": 4,
+      "shares_avg": 17,
+      "shares_stdev": 17
+    },
+    {
+      "number": 12,
+      "important": [
+        "whos",
+        "match",
+        "vs",
+        "predict"
+      ],
+      "common": [
+        "budweis world",
+        "budweis world cup",
+        "match",
+        "predict",
+        "predictor",
+        "puppi",
+        "puppi predictor",
+        "vs",
+        "whos",
+        "whos back"
+      ],
+      "messages": [
+        [
+          "#TBT to that time Major Lazer blew some minds at the #BudHotel. In case you missed it. Major Lazer Live at World Cup 2014 | Budweiser Hotel",
+          1405604395
+        ],
+        [
+          "Major Lazer. RIO. BOOM. #BUDHOTEL Major Lazer Live at World Cup 2014 | Budweiser Hotel",
+          1405024368
+        ],
+        [
+          "The games are getting bigger, but we're counting on our little guy to call them. See who the #PuppyPredictor has got for #NEDvsARG. Puppy Predictor: Netherlands vs. Argentina Semifinal | Budweiser World Cup 2014 Guess who's back? Watch the puppy's prediction for the Netherlands vs. Argentina semifinal match.",
+          1404910800
+        ],
+        [
+          "Not sure who'll win tomorrow\u2019s #WorldCup match? Never fear, the #PuppyPredictor is here. See who our little guy picks for #BRAvsGER. Puppy Predictor: Brazil vs. Germany Semifinal | Budweiser World Cup 2014 Guess who's back? Watch the puppy's prediction for the Brazil vs. Germany semifinal match.",
+          1404765001
+        ],
+        [
+          "Today's match is a tough one to call, let's see what our #PuppyPredictor says. Next up, #NEDvsCRC. Puppy Predictor: Netherlands vs. Costa Rica Quarterfinal | Budweiser World Cup 2014 Guess who's back? We're going to start predicting World Cup 2014 knockout matches with our Budweiser Puppy Predictor. Watch the puppy's prediction for the Ne...",
+          1404578191
+        ],
+        [
+          "It\u2019s a tough call for a human, but we have faith in our puppy. See who our Budweiser #PuppyPredictor picks for the win. #BRAvsCOL Puppy Predictor: Brazil vs. Colombia Quarterfinal | Budweiser World Cup 2014 Guess who's back? We're going to start predicting World Cup 2014 knockout matches with our Budweiser Puppy Predictor. Watch the puppy's prediction for the Br...",
+          1404490778
+        ],
+        [
+          "Take puppies. Add supermodels. See who'll win the #FRAvGER match with our new Budweiser #PuppyPredictor. Puppy Predictor: France vs. Germany Quarterfinal | Budweiser World Cup 2014 Guess who's back? We're going to start predicting World Cup 2014 knockout matches with our Budweiser Puppy Predictor. First up: France vs. Germany in the qua...",
+          1404476311
+        ],
+        [
+          "Guess who's back? This little guy. We're going to start predicting #WorldCup knockout matches with our Budweiser #PuppyPredictor. Timeline Photos",
+          1404406801
+        ],
+        [
+          "These fans took their football passion to a whole new level for the ultimate prize. World Cut Barbershop Challenge | Budweiser World Cup 2014 Would you cut your hair like a famous footballer in exchange for tickets to a World Cup match? Here's the catch: your new style will be luck of the draw. Wat...",
+          1404396037
+        ],
+        [
+          "Nicky Romero took it up a level in #Rio for the #WorldCup. Check out this exclusive video for his track \u2018Next Level.\u2019  Nicky Romero Live at World Cup 2014 | Budweiser Hotel Brazil Nicky Romero took it up a level at the World Cup. Check out this exclusive live performance of 'Next Level' from the Budweiser Hotel rooftop in Rio de Janeir...",
+          1404316315
+        ],
+        [
+          "You know that dream when you get whisked away to the #WorldCup? Bar Hero: England vs. Italy | Budweiser World Cup 2014 Budweiser hit the bar in London to find England's ultimate football fan during the team's World Cup 2014 match against Italy. Watch to find out which fan's u...",
+          1403895601
+        ],
+        [
+          "World Cup winner and legend Dunga joined us at the #BudHotel Facebook Studio to tell us why he thinks Belgium and Argentina will surprise us all this #WorldCup.",
+          1402769368
+        ],
+        [
+          "Our World Cup Final Draw live chat with Brek Shea and Sacha Kljestan starts NOW! \n\nJoin here: http://www.RiseAsOne.com Timeline Photos",
+          1386343102
+        ]
+      ],
+      "dates_start": 1398204250,
+      "dates_end": 1407946067,
+      "likes_avg": 97,
+      "likes_stdev": 249,
+      "comments_avg": 4,
+      "comments_stdev": 10,
+      "shares_avg": 17,
+      "shares_stdev": 47
+    },
+    {
+      "number": 13,
+      "important": [],
+      "common": [
+        "attent",
+        "beg",
+        "man",
+        "man thisbudsforyou",
+        "measur",
+        "measur twice",
+        "measur twice cut",
+        "measur twice cut onc",
+        "measur twice cut onc thisbudsforyou",
+        "need"
+      ],
+      "messages": [
+        [
+          "You don\u2019t need to beg for attention. Attention begs for you. #ThisBudsForYou",
+          1478295000
+        ],
+        [
+          "Follow your instincts. #ThisBudsForYou",
+          1443551640
+        ],
+        [
+          "Holidays have traditions. #InternationalBeerDay has Budweiser. #ThisBudsForYou.",
+          1438950933
+        ],
+        [
+          "Use your hands. #ThisBudsForYou",
+          1438886941
+        ],
+        [
+          "It's ok to stare. #ThisBudsForYou",
+          1437082680
+        ],
+        [
+          "Drive creates legacies. #ThisBudsForYou, Kevin Harvick.",
+          1436627101
+        ],
+        [
+          "Be the hype man. #ThisBudsForYou",
+          1436549040
+        ],
+        [
+          "Own your beat. #ThisBudsForYou",
+          1434480000
+        ],
+        [
+          "Measure twice, cut once. #ThisBudsForYou",
+          1433442300
+        ],
+        [
+          "For focusing on friends, not your phone. #ThisBudsForYou",
+          1429991101
+        ]
+      ],
+      "dates_start": 1427821353,
+      "dates_end": 1453749993,
+      "likes_avg": 82,
+      "likes_stdev": 36,
+      "comments_avg": 5,
+      "comments_stdev": 3,
+      "shares_avg": 17,
+      "shares_stdev": 18
+    },
+    {
+      "number": 14,
+      "important": [
+        "want",
+        "year",
+        "way",
+        "go",
+        "tonight"
+      ],
+      "common": [
+        "bud",
+        "dont",
+        "game",
+        "go",
+        "make",
+        "one",
+        "tonight",
+        "want",
+        "way",
+        "year"
+      ],
+      "messages": [
+        [
+          "Tonight, leave doubt at the door. #ThisBudsForYou Timeline Photos",
+          1479584520
+        ],
+        [
+          "Legends aren\u2019t made from the back of a crowd. Get closer for the night you deserve. #ThisBudsForYou Timeline Photos",
+          1478644321
+        ],
+        [
+          "Royal reunions deserve a night with the King.  #ThisBudsForYou Timeline Photos",
+          1477686541
+        ],
+        [
+          "Go all in on what you want. #ThisBudsForYou Timeline Photos",
+          1477404000
+        ],
+        [
+          "Real music is an experience, not something you hide in your headphones. #ThisBudsForYou Timeline Photos",
+          1476972000
+        ],
+        [
+          "Connect with your eyes. Not your phone. #ThisBudsForYou Timeline Photos",
+          1476453600
+        ],
+        [
+          "We can tell you from 140 years of experience: skip the small talk. #ThisBudsForYou Timeline Photos",
+          1475330400
+        ],
+        [
+          "Your best move doesn't have to be on the dance floor.  #ThisBudsForYou Timeline Photos",
+          1475179200
+        ],
+        [
+          "There are lots of ways to make an impression.  We happen to know the best one. #ThisBudsForYou Timeline Photos",
+          1474747621
+        ],
+        [
+          "Don't sit back and watch the clock.  Grab tonight by the bottle. #ThisBudsForYou Timeline Photos",
+          1473969602
+        ],
+        [
+          "When it's your turn to get a round, make it the best one of the night. #ThisBudsForYou Timeline Photos",
+          1471723200
+        ],
+        [
+          "Don't fear the pack.  Lead it. #ThisBudsForYou Timeline Photos",
+          1471032000
+        ],
+        [
+          "For 140 years, we've put it all on the table with nothing to hide.  We suggest you do the same #ThisBudsForYou Timeline Photos",
+          1470256200
+        ],
+        [
+          "Skip the bubbly.  Go for the bottle that commands their respect. #ThisBudsForYou Timeline Photos",
+          1469305861
+        ],
+        [
+          "We stand tall because we know what we're made of.  Now it's your turn. #ThisBudsForYou Timeline Photos",
+          1468591200
+        ],
+        [
+          "Bring tonight one round closer to the dance floor. #ThisBudsForYou Timeline Photos",
+          1467986400
+        ],
+        [
+          "We\u2019ve been in the game for 140 years. Skip the small\ntalk. #ThisBudsForYou Timeline Photos",
+          1467381600
+        ],
+        [
+          "Golden buns. Golden suds. #ThisBudsForYou Timeline Photos",
+          1466958960
+        ],
+        [
+          "Last-minute game winners, meet fresh-cracked game changers. #ThisBudsForYou Timeline Photos",
+          1466631420
+        ],
+        [
+          "Your hotel room isn't ready for you yet. We've been ready for you for 140 years. #ThisBudsForYou Timeline Photos",
+          1466261100
+        ],
+        [
+          "Grab tonight by the aluminum. #ThisBudsForYou Timeline Photos",
+          1465670640
+        ],
+        [
+          "A burger almost as big as your Bud. Go to town. #ThisBudsForYou Timeline Photos",
+          1465576356
+        ],
+        [
+          "Things taste better when they're handcrafted. #ThisBudsForYou Timeline Photos",
+          1464809521
+        ],
+        [
+          "Go from Grill Master to King of the Grill in one smooth cap twist. #ThisBudsForYou Timeline Photos",
+          1464456720
+        ],
+        [
+          "It's the weekend. Run with your pack. #ThisBudsForYou Timeline Photos",
+          1464373740
+        ],
+        [
+          "Front of fridge, top of mind. The way it should be. #ThisBudsForYou Timeline Photos",
+          1463513640
+        ],
+        [
+          "Decide how you want your weekend to look. Now make it happen. #ThisBudsForYou Timeline Photos",
+          1461345960
+        ],
+        [
+          "You don't need a map to start your journey. You just need Bud to be there when you end it. #ThisBudsForYou Timeline Photos",
+          1461007620
+        ],
+        [
+          "However the game ends, bringing Budweiser was a win. #ThisBudsForYou Timeline Photos",
+          1459017720
+        ],
+        [
+          "Tonight, play to win or don't play at all. #ThisBudsForYou Timeline Photos",
+          1456343820
+        ],
+        [
+          "We mastered our game 140 years ago. Get on our level. #ThisBudsForYou Timeline Photos",
+          1453833240
+        ],
+        [
+          "Tonight, work your way to the front where the view is better and the Buds are colder. #ThisBudsForYou Timeline Photos",
+          1453232520
+        ],
+        [
+          "Think you can make a bigger entrance than one with a case of Bud under your arm? Be our guest. #ThisBudsForYou Timeline Photos",
+          1452540421
+        ],
+        [
+          "Buds and burgers so bold, there's no room for anything else on the table. #ThisBudsForYou Timeline Photos",
+          1449690001
+        ],
+        [
+          "There\u2019s only one way to serve a Budweiser. Roll up your sleeves and dig in. #ThisBudsForYou Timeline Photos",
+          1448480401
+        ],
+        [
+          "Make a point to be precise. #ThisBudsForYou Timeline Photos",
+          1444157880
+        ],
+        [
+          "Carry your team. #ThisBudsForYou Timeline Photos",
+          1443127321
+        ],
+        [
+          "Focus. #ThisBudsForYou Timeline Photos",
+          1438035720
+        ],
+        [
+          "Be the crowd they remember. #ThisBudsForYou Timeline Photos",
+          1437237840
+        ],
+        [
+          "Done with pride or not done at all. #ThisBudsForYou Timeline Photos",
+          1436556899
+        ],
+        [
+          "The bold rise to the top. #ThisBudsForYou Timeline Photos",
+          1435786454
+        ],
+        [
+          "Not everyone wants it on a silver platter. #ThisBudsForYou Timeline Photos",
+          1435419301
+        ],
+        [
+          "Taste for yourself. #ThisBudsForYou Timeline Photos",
+          1434136621
+        ],
+        [
+          "Sometimes you can judge a book by its cover. #ThisBudsForYou Timeline Photos",
+          1434054300
+        ],
+        [
+          "A Crafted Classic. #ThisBudsForYou Timeline Photos",
+          1432672501
+        ],
+        [
+          "The waiting game is over. Timeline Photos",
+          1384039543
+        ]
+      ],
+      "dates_start": 1440372344,
+      "dates_end": 1476637066,
+      "likes_avg": 160,
+      "likes_stdev": 126,
+      "comments_avg": 4,
+      "comments_stdev": 4,
+      "shares_avg": 17,
+      "shares_stdev": 12
+    },
+    {
+      "number": 15,
+      "important": [
+        "thisbudsforyou",
+        "king",
+        "everi",
+        "bar",
+        "fan"
+      ],
+      "common": [
+        "bar",
+        "bar hero",
+        "brazil",
+        "everi",
+        "fan",
+        "hero",
+        "king",
+        "king thisbudsforyou",
+        "rais",
+        "thisbudsforyou"
+      ],
+      "messages": [
+        [
+          "Every bar has a heartbeat. And this one\u2019s thumps loudly from a stage framed by red velvet curtains. Marrying the energy of a music venue with the attitude of the concrete jungle, the memories made here leave you craving another night of live music in this big city bar of #TrueCharacter. Timeline Photos",
+          1481841360
+        ],
+        [
+          "Don\u2019t just sit at the bar. Raise it. #ThisBudsForYou Timeline Photos",
+          1478035800
+        ],
+        [
+          "You're not posted up at the bar.  You're sharing the throne with a King #ThisBudsForYou Timeline Photos",
+          1467727200
+        ],
+        [
+          "For 139 years, we\u2019ve been dressed as a king. But it\u2019s not a costume. #ThisBudsForYou",
+          1446313620
+        ],
+        [
+          "Threads fit for a king. #ThisBudsForYou",
+          1441304881
+        ],
+        [
+          "The King of Beers also rules the #SuperBowl. #SBXLIX Timeline Photos",
+          1422651601
+        ],
+        [
+          "In every street, beach, bar, and club you'll \ufb01nd them- the fans. Let's raise a gold bottle for #MEXvsNED Timeline Photos",
+          1404048786
+        ],
+        [
+          "As Brazil erupted, we hit the bars in #Rio to find a \u2018Bar Hero\u2019 - the biggest #WorldCup fan around, and gave them the surprise of their life. Budweiser Bar Hero - Brazil",
+          1403629490
+        ],
+        [
+          "King every moment. Timeline Photos",
+          1383143594
+        ],
+        [
+          "King of the weekend. Timeline Photos",
+          1379796983
+        ],
+        [
+          "The sun never sets on a king. Timeline Photos",
+          1373316675
+        ],
+        [
+          "King of all bar tabs... Timeline Photos",
+          1368133093
+        ]
+      ],
+      "dates_start": 1381056205,
+      "dates_end": 1460600975,
+      "likes_avg": 118,
+      "likes_stdev": 68,
+      "comments_avg": 2,
+      "comments_stdev": 2,
+      "shares_avg": 14,
+      "shares_stdev": 9
+    },
+    {
+      "number": 16,
+      "important": [
         "cheer",
-        "cheer bud",
-        "night",
-        "raiseabud",
-        "raiseabud champion",
-        "raiseabud champion timelin",
-        "timelin"
+        "brazil",
+        "made",
+        "worldcup",
+        "nation"
+      ],
+      "common": [
+        "brazil",
+        "cheer",
+        "made",
+        "nation",
+        "next year",
+        "see",
+        "see brazil",
+        "worldcup",
+        "worldcup timelin",
+        "worldcup timelin photo"
       ],
       "messages": [
         [
@@ -950,507 +1357,331 @@
           1405287000
         ],
         [
+          "Sheer joy. Brazil to the quarter \ufb01nals. #MomentOfTheMatch BRA vs. CHI \u2013 Moment of the Match",
+          1403978223
+        ],
+        [
+          "Great for the host nation, greater for everyone celebrating with the host nation. #WorldCup Timeline Photos",
+          1403974627
+        ],
+        [
+          "#Neymar brings the samba back to Brazil, to a nation\u2019s delight. #MomentOfTheMatch #MomentOfTheMatch - CMR vs BRA",
+          1403559000
+        ],
+        [
           "Don't be shy, cheers a bud today. Timeline Photos",
           1386007991
+        ],
+        [
+          "All 32 nations have been decided. Who we support may be different, but how we support is the same.\r\n\r\nSee you in Brazil. Timeline Photos",
+          1385050184
+        ],
+        [
+          "Cheers to Uruguay \u2014 see you in Brazil. Timeline Photos",
+          1384996189
+        ],
+        [
+          "Cheers to all the teams that made it through today \u2013 see you in Brazil. #WorldCup Timeline Photos",
+          1384895230
+        ],
+        [
+          "Cheers to Cameroon \u2014 see you in Brazil. #WorldCup Timeline Photos",
+          1384706139
+        ],
+        [
+          "Cheers to Nigeria and Ivory Coast \u2014 see you in Brazil next year. #WorldCup Timeline Photos",
+          1384635095
+        ],
+        [
+          "See how her song \"Foundations\" propelled Kate Nash from her mum\u2019s kitchen to stardom. MADE ME | KATE NASH",
+          1381926374
+        ],
+        [
+          "The anticipation when you see this... Timeline Photos",
+          1379968818
+        ],
+        [
+          "One day it could be you who's playing in front of thousands of adoring fans.\r\n\r\nSee you next year at #BudweiserMadeInAmerica? Timeline Photos",
+          1378298745
+        ],
+        [
+          "Thanks for the Great Times at #BudweiserMadeInAmerica. See you next year! Timeline Photos",
+          1378164326
         ]
       ],
-      "dates_start": 1400283853,
-      "dates_end": 1422991173,
-      "likes_avg": 187,
-      "likes_stdev": 76,
+      "dates_start": 1381223604,
+      "dates_end": 1411999084,
+      "likes_avg": 120,
+      "likes_stdev": 79,
       "comments_avg": 2,
       "comments_stdev": 2,
-      "shares_avg": 19,
-      "shares_stdev": 22
-    },
-    {
-      "number": 14,
-      "important": [
-        "year",
-        "hand",
-        "thisbudsforyou",
-        "timelin",
-        "thisbudsforyou timelin"
-      ],
-      "common": [
-        "bud",
-        "dont",
-        "game",
-        "hand",
-        "one",
-        "thisbudsforyou",
-        "thisbudsforyou timelin",
-        "timelin",
-        "way",
-        "year"
-      ],
-      "messages": [
-        [
-          "Tonight is in your hands. Brew it with confidence. #ThisBudsForYou Timeline Photos",
-          1483224001
-        ],
-        [
-          "Legends aren\u2019t made from the back of a crowd. Get closer for the night you deserve. #ThisBudsForYou Timeline Photos",
-          1478644321
-        ],
-        [
-          "Connect with your eyes. Not your phone. #ThisBudsForYou Timeline Photos",
-          1476453600
-        ],
-        [
-          "We can tell you from 140 years of experience: skip the small talk. #ThisBudsForYou Timeline Photos",
-          1475330400
-        ],
-        [
-          "Don't fear the pack.  Lead it. #ThisBudsForYou Timeline Photos",
-          1471032000
-        ],
-        [
-          "For 140 years, we've put it all on the table with nothing to hide.  We suggest you do the same #ThisBudsForYou Timeline Photos",
-          1470256200
-        ],
-        [
-          "Skip the bubbly.  Go for the bottle that commands their respect. #ThisBudsForYou Timeline Photos",
-          1469305861
-        ],
-        [
-          "We stand tall because we know what we're made of.  Now it's your turn. #ThisBudsForYou Timeline Photos",
-          1468591200
-        ],
-        [
-          "We\u2019ve been in the game for 140 years. Skip the small\ntalk. #ThisBudsForYou Timeline Photos",
-          1467381600
-        ],
-        [
-          "Golden buns. Golden suds. #ThisBudsForYou Timeline Photos",
-          1466958960
-        ],
-        [
-          "No one ever remembered a good party because of the salad and wine pairing. #ThisBudsForYou Timeline Photos",
-          1466875860
-        ],
-        [
-          "Last-minute game winners, meet fresh-cracked game changers. #ThisBudsForYou Timeline Photos",
-          1466631420
-        ],
-        [
-          "A burger almost as big as your Bud. Go to town. #ThisBudsForYou Timeline Photos",
-          1465576356
-        ],
-        [
-          "Things taste better when they're handcrafted. #ThisBudsForYou Timeline Photos",
-          1464809521
-        ],
-        [
-          "Go from Grill Master to King of the Grill in one smooth cap twist. #ThisBudsForYou Timeline Photos",
-          1464456720
-        ],
-        [
-          "Front of fridge, top of mind. The way it should be. #ThisBudsForYou Timeline Photos",
-          1463513640
-        ],
-        [
-          "It's a good Wednesday when you can carry an entire party home in one hand. #ThisBudsForYou Timeline Photos",
-          1462990440
-        ],
-        [
-          "You don't need a map to start your journey. You just need Bud to be there when you end it. #ThisBudsForYou Timeline Photos",
-          1461007620
-        ],
-        [
-          "However the game ends, bringing Budweiser was a win. #ThisBudsForYou Timeline Photos",
-          1459017720
-        ],
-        [
-          "Tonight, play to win or don't play at all. #ThisBudsForYou Timeline Photos",
-          1456343820
-        ],
-        [
-          "We mastered our game 140 years ago. Get on our level. #ThisBudsForYou Timeline Photos",
-          1453833240
-        ],
-        [
-          "Tonight, work your way to the front where the view is better and the Buds are colder. #ThisBudsForYou Timeline Photos",
-          1453232520
-        ],
-        [
-          "There\u2019s only one way to serve a Budweiser. Roll up your sleeves and dig in. #ThisBudsForYou Timeline Photos",
-          1448480401
-        ],
-        [
-          "Carry your team. #ThisBudsForYou Timeline Photos",
-          1443127321
-        ],
-        [
-          "Use your hands. #ThisBudsForYou",
-          1438886941
-        ],
-        [
-          "Focus. #ThisBudsForYou Timeline Photos",
-          1438035720
-        ],
-        [
-          "Be the crowd they remember. #ThisBudsForYou Timeline Photos",
-          1437237840
-        ],
-        [
-          "Done with pride or not done at all. #ThisBudsForYou Timeline Photos",
-          1436556899
-        ],
-        [
-          "The bold rise to the top. #ThisBudsForYou Timeline Photos",
-          1435786454
-        ],
-        [
-          "Taste for yourself. #ThisBudsForYou Timeline Photos",
-          1434136621
-        ],
-        [
-          "Sometimes you can judge a book by its cover. #ThisBudsForYou Timeline Photos",
-          1434054300
-        ],
-        [
-          "A Crafted Classic. #ThisBudsForYou Timeline Photos",
-          1432672501
-        ],
-        [
-          "The waiting game is over. Timeline Photos",
-          1384039543
-        ]
-      ],
-      "dates_start": 1436077691,
-      "dates_end": 1474739372,
-      "likes_avg": 158,
-      "likes_stdev": 129,
-      "comments_avg": 7,
-      "comments_stdev": 13,
-      "shares_avg": 17,
-      "shares_stdev": 11
-    },
-    {
-      "number": 15,
-      "important": [
-        "someth",
-        "thisbudsforyou",
-        "timelin",
-        "best",
-        "thisbudsforyou timelin"
-      ],
-      "common": [
-        "best",
-        "great",
-        "great timelin",
-        "madeformus",
-        "make",
-        "say",
-        "someth",
-        "thisbudsforyou",
-        "thisbudsforyou timelin",
-        "timelin"
-      ],
-      "messages": [
-        [
-          "Real music is an experience, not something you hide in your headphones. #ThisBudsForYou Timeline Photos",
-          1476972000
-        ],
-        [
-          "Your best move doesn't have to be on the dance floor.  #ThisBudsForYou Timeline Photos",
-          1475179200
-        ],
-        [
-          "There are lots of ways to make an impression.  We happen to know the best one. #ThisBudsForYou Timeline Photos",
-          1474747621
-        ],
-        [
-          "When it's your turn to get a round, make it the best one of the night. #ThisBudsForYou Timeline Photos",
-          1471723200
-        ],
-        [
-          "Make a point to be precise. #ThisBudsForYou Timeline Photos",
-          1444157880
-        ],
-        [
-          "Don't just show up. Make an entrance. #ThisBudsForYou",
-          1442086921
-        ],
-        [
-          "Make bold gestures. #ThisBudsForYou",
-          1440101400
-        ],
-        [
-          "\u201cYou\u2019re not just training to be the best in the world. You\u2019re training to be the best in the world on your worst day.\u201d - Ronda Rousey, #ThisBudsForYou",
-          1438439040
-        ],
-        [
-          "The beer that says you have something to say. #ThisBudsForYou Timeline Photos",
-          1430334900
-        ],
-        [
-          "The best view in the bar. Timeline Photos",
-          1423076400
-        ],
-        [
-          "The Clydesdales make their debut in 1933 to present a gift from us to the President of the United States. #FlashbackFriday Timeline Photos",
-          1415372400
-        ],
-        [
-          "Make a statement. Make it bold. Rihanna shows you how in this #Budweiser exclusive. #MADEforMusic",
-          1410526801
-        ],
-        [
-          "MADE for creating something great, together. #MADEforMusic Timeline Photos",
-          1410354001
-        ],
-        [
-          "Something awesome is happening here, we can feel it. Timeline Photos",
-          1386288631
-        ],
-        [
-          "The beginning of something great. Timeline Photos",
-          1385824364
-        ],
-        [
-          "A textbook example of how to make times Great. Timeline Photos",
-          1385335419
-        ],
-        [
-          "How are you and your Buds going to make tonight the best night ever? Timeline Photos",
-          1381586401
-        ],
-        [
-          "Make it right, by making it real. #MakeSomethingMonday #BUDWEISERMADE Timeline Photos",
-          1376347836
-        ],
-        [
-          "Make your Monday mean something. #MakeSomethingMondays Timeline Photos",
-          1375117945
-        ],
-        [
-          "Making the great outdoors greater. Timeline Photos",
-          1373237412
-        ],
-        [
-          "Best. Greeting. Ever. Timeline Photos",
-          1368132060
-        ]
-      ],
-      "dates_start": 1381933811,
-      "dates_end": 1454727314,
-      "likes_avg": 148,
-      "likes_stdev": 91,
-      "comments_avg": 4,
-      "comments_stdev": 2,
-      "shares_avg": 17,
-      "shares_stdev": 12
-    },
-    {
-      "number": 16,
-      "important": [
-        "world",
-        "game",
-        "timelin",
-        "riseason timelin",
-        "riseason"
-      ],
-      "common": [
-        "differ",
-        "dure",
-        "dure worldcup",
-        "dure worldcup riseason",
-        "dure worldcup riseason timelin",
-        "game",
-        "riseason",
-        "riseason timelin",
-        "timelin",
-        "world"
-      ],
-      "messages": [
-        [
-          "Once every 4 years, the whole world will #RiseAsOne Timeline Photos",
-          1405256637
-        ],
-        [
-          "Different languages, different cultures, different histories. At the semi\ufb01nals, we all feel very much the same. #RiseAsOne Timeline Photos",
-          1404925201
-        ],
-        [
-          "Two countries, a world apart. For 90 minutes today, they couldn\u2019t be closer together. #URUvsENG #RiseAsOne Timeline Photos",
-          1403193601
-        ],
-        [
-          "Budweiser's history with the beautiful game is stitched in time. #8thWorldCup #RiseAsOne Timeline Photos",
-          1400853601
-        ],
-        [
-          "The whole world feels the unifying power of football. During the #WorldCup, we all #RiseAsOne. Timeline Photos",
-          1400767200
-        ],
-        [
-          "Cries of joy need no translation. During the #WorldCup, we all #RiseAsOne. Timeline Photos",
-          1400515114
-        ],
-        [
-          "100 days to go until the 2014 FIFA World Cup\u2122. When the world will wear its heart on its sleeve. #RiseAsOne Timeline Photos",
-          1393968106
-        ],
-        [
-          "Raise a Bud to the beautiful game. #RiseAsOne Timeline Photos",
-          1392832665
-        ]
-      ],
-      "dates_start": 1395947966,
-      "dates_end": 1404630065,
-      "likes_avg": 89,
-      "likes_stdev": 47,
-      "comments_avg": 4,
-      "comments_stdev": 3,
-      "shares_avg": 16,
-      "shares_stdev": 17
+      "shares_avg": 14,
+      "shares_stdev": 16
     },
     {
       "number": 17,
       "important": [
-        "king",
-        "thisbudsforyou",
-        "timelin",
-        "bar",
-        "thisbudsforyou timelin"
+        "game",
+        "brazil",
+        "play",
+        "good",
+        "one"
       ],
       "common": [
-        "bar",
-        "king",
-        "king thisbudsforyou",
-        "king thisbudsforyou timelin",
-        "royal reunion deserv night",
-        "royal reunion deserv night king",
-        "rule",
-        "thisbudsforyou",
-        "thisbudsforyou timelin",
-        "timelin"
+        "brazil",
+        "game",
+        "good",
+        "one",
+        "one legendari guest",
+        "one legendari guest list",
+        "place",
+        "play",
+        "play netherland greatest",
+        "play stay"
       ],
       "messages": [
         [
-          "Royal reunions deserve a night with the King.  #ThisBudsForYou Timeline Photos",
-          1477686541
+          "There was heavy competition at the Maracana, but Rihanna made a pretty good run for yesterday's #ManOfTheMatch award. #WorldCup Timeline Photos",
+          1405347630
         ],
         [
-          "You're not posted up at the bar.  You're sharing the throne with a King #ThisBudsForYou Timeline Photos",
-          1467727200
+          "Brazil play Netherlands for the greatest third place in world football. #WorldCup Timeline Photos",
+          1405177208
         ],
         [
-          "For 139 years, we\u2019ve been dressed as a king. But it\u2019s not a costume. #ThisBudsForYou",
-          1446313620
+          "Brazil is a few hours away from their biggest test of the tournament. Hold onto your Buds. #BRAvsGER #WorldCup Timeline Photos",
+          1404838054
         ],
         [
-          "Threads fit for a king. #ThisBudsForYou",
-          1441304881
+          "If you're only having a good time you may not be doing it right. #GreatTimes #WorldCup Timeline Photos",
+          1404745200
         ],
         [
-          "The King of Beers also rules the #SuperBowl. #SBXLIX Timeline Photos",
-          1422651601
+          "Sun down, Budweisers up. #WorldCup Timeline Photos",
+          1404592201
         ],
         [
-          "King every moment. Timeline Photos",
-          1383143594
+          "One place left. Fans get behind USA and Belgium as they play to stay in the #WorldCup. Timeline Photos",
+          1404236187
         ],
         [
-          "King of the weekend. Timeline Photos",
-          1379796983
+          "Here\u2019s to the beautiful game. #WorldCup Timeline Photos",
+          1404149254
         ],
         [
-          "The sun never sets on a king. Timeline Photos",
-          1373316675
+          "We were there then, we\u2019re here now. #WorldCup Timeline Photos",
+          1403818200
         ],
         [
-          "King of all bar tabs... Timeline Photos",
-          1368133093
+          "We\u2019ve got a new kit too. We\u2019ll be rocking it for the #WorldCup. Timeline Photos",
+          1402423200
+        ],
+        [
+          "One legendary guest list. #BudHotel #WorldCup Timeline Photos",
+          1402328700
+        ],
+        [
+          "The excitement has been building for 20 years. #WorldCup Timeline Photos",
+          1401890400
+        ],
+        [
+          "Who will make it through to Brazil in the final games next week? #WorldCup Timeline Photos",
+          1384548923
         ]
       ],
-      "dates_start": 1377565753,
-      "dates_end": 1458006287,
-      "likes_avg": 132,
-      "likes_stdev": 73,
+      "dates_start": 1396864198,
+      "dates_end": 1407818327,
+      "likes_avg": 127,
+      "likes_stdev": 87,
       "comments_avg": 2,
-      "comments_stdev": 2,
-      "shares_avg": 16,
-      "shares_stdev": 9
+      "comments_stdev": 1,
+      "shares_avg": 12,
+      "shares_stdev": 12
     },
     {
       "number": 18,
       "important": [
-        "thisbudsforyou"
+        "timelin",
+        "world",
+        "footbal",
+        "stori",
+        "final"
       ],
       "common": [
-        "attent",
-        "beg",
-        "kevin",
-        "legaci",
-        "legaci thisbudsforyou",
-        "legaci thisbudsforyou kevin",
-        "legaci thisbudsforyou kevin harvick",
-        "man",
-        "need",
-        "thisbudsforyou"
+        "draw",
+        "fan",
+        "final",
+        "footbal",
+        "photo",
+        "stori",
+        "timelin",
+        "timelin photo",
+        "world",
+        "worldcup"
       ],
       "messages": [
         [
-          "You don\u2019t need to beg for attention. Attention begs for you. #ThisBudsForYou",
-          1478295000
+          "You don't take the ICC crown twice in a row without incredible commitment and a refusal to quit. PSG - Paris Saint-Germain is a football giant, and we're proud to call them partners. Ici c\u2019est Paris. #ThisBudsForYou",
+          1470746949
         ],
         [
-          "It's ok to stare. #ThisBudsForYou",
-          1437082680
+          "Great stories demand a beer with a story of its own. #ThisBudsForYou Timeline Photos",
+          1467468000
         ],
         [
-          "Drive creates legacies. #ThisBudsForYou, Kevin Harvick.",
-          1436627101
+          "On top of the world. #BudsUp Timeline Photos",
+          1437763500
         ],
         [
-          "Be the hype man. #ThisBudsForYou",
-          1436549040
+          "Take care of your friends. #ThisBudsForYou",
+          1435001580
         ],
         [
-          "Own your beat. #ThisBudsForYou",
-          1434480000
+          "The culmination of a once-in-a-lifetime performance -- the series finale has arrived. #MADEUnderground",
+          1412773200
         ],
         [
-          "Measure twice, cut once. #ThisBudsForYou",
-          1433442300
+          "Streets filled with culture, beautiful people and great music. Today\u2019s #MADEUnderground takes you to #Rio where we\u2019ll make one busker\u2019s dream come true.",
+          1409144401
         ],
         [
-          "For focusing on friends, not your phone. #ThisBudsForYou",
-          1429991101
+          "Football, dance, and music, #Rio has a culture of playing in the streets. Here\u2019s your sneak peek of #MADEunderground.",
+          1408971601
+        ],
+        [
+          "The party heard around the world. Check out some of our favorite moments from the #BudHotel. From Rio, with love.",
+          1405518900
+        ],
+        [
+          "Hear who Actor Taylor Kitsch predicts will win the #WorldCup Final. #ClearEyesFullHeartsCantLose #BudHotel",
+          1405094430
+        ],
+        [
+          "Will Ferrell calls it, the #BudHotel is the place to be for the #WorldCup.",
+          1404998352
+        ],
+        [
+          "As history was made on the field, the world stopped to gather, to cheer, to party and to #RiseAsOne. #WorldCup Quarterfinal Action",
+          1404667309
+        ],
+        [
+          "Get your #WorldCup insights from a pro. Legendary football player and coach, Dunga joins us at the #BudHotel Facebook Studio. #FRAvsGER #BRAvsCOL",
+          1404419400
+        ],
+        [
+          "The delicious game? Watch comedian Will Ferrell chat Suarez, football and the #WorldCup from the Facebook Studio",
+          1403987515
+        ],
+        [
+          "Supporters from across the world gathered in Brazil for the Group \nStages of the #WorldCup. Unforgettable football and a party that no one will soon forget, the world came together to #RiseAsOne like never before. 32 Nations #RiseAsOne in Rio",
+          1403881042
+        ],
+        [
+          "Who will get the final place in the Round of 16? The stage has been set, the drama awaits. Timeline Photos",
+          1403802031
+        ],
+        [
+          "The world is watching, and we're throwing over 100 #WorldCup viewing parties to celebrate. Check out how fans are reacting in cities around the globe. Budweiser #WorldCup Viewing Parties",
+          1403726539
+        ],
+        [
+          "It\u2019s a day he\u2019ll never forget. Meet Sandip, local football coach from India, who's inspiring story earned him the chance to present today\u2019s #ManOfTheMatch trophy.",
+          1403717025
+        ],
+        [
+          "Local coach Sandip Moitra reached out to us from India. We were so inspired by his story, we sent Sandip to the #WorldCup to present the #ManOfTheMatch trophy tomorrow, for the #ECUvsFRA match. \n\nWatch his heartwarming story now.",
+          1403645401
+        ],
+        [
+          "Brazil fan, from head to tail. Spotted in #Rio, #WorldCup support at its most adorable. Timeline Photos",
+          1403549261
+        ],
+        [
+          "We stand together, we plead together, we hug total strangers and\nwe cheer like the whole world can hear us. The beautiful game is nothing without the fans. #RiseAsOne The #WorldCup Is Nothing Without The Fans",
+          1403279866
+        ],
+        [
+          "#Maracan\u00e3 is a sight to behold, and #Chile fans have made it deafening. Follow http://instagram.com/budweiser for more exclusives from #Rio. Timeline Photos",
+          1403120450
+        ],
+        [
+          "An incredible journey comes full circle. \n\nDavid shared his story with us, and we gave him the chance to present the #ManOfTheMatch award today at the #WorldCup. Watch his story.",
+          1403110857
+        ],
+        [
+          "Did you know Nicky Romero chose a career in music over football? He shared more with us about his difficult decision at the #BudHotel Facebook Studio.",
+          1402852967
+        ],
+        [
+          "Novice or expert, we all have an answer to the golden question. Who\u2019s going to win the #WorldCup? \n\nWatch this video from Facebook Studio at the #BudHotel.",
+          1402495907
+        ],
+        [
+          "The Facebook Studio at the #BudHotel is open. Football legends Davor \u0160uker, Juliano Belletti & Pierre van Hooijdonk will be sharing their favorite #WorldCup memories and 2014 predictions. Comment below with your questions! Timeline Photos",
+          1402409075
+        ],
+        [
+          "They call it \"the beautiful game\" for a reason, and the #WorldCup is its grandest stage.\n\nSubmit a story about someone you know who does amazing work through football \u2013 you could win a trip to Rio: www.RiseAsOne.com Timeline Photos",
+          1398085200
+        ],
+        [
+          "We are looking for great stories of amazing people who are changing the world through football \u2013 they could win a trip to the 2014 #WorldCup.\n\nNominate them here: www.bit.ly/WC_Hero Timeline Photos",
+          1395414001
+        ],
+        [
+          "For football fans, the real season of cheer kicks off in June. Timeline Photos",
+          1388327967
+        ],
+        [
+          "Every football fan\u2019s wish list this year. Timeline Photos",
+          1387725377
+        ],
+        [
+          "Check out the FIFA World Cup\u2122 Final Draw with some of the world's biggest fans. \n\nTo see even more Final Draw reactions, check out http://www.RiseAsOne.com/. Budweiser Hosts the FIFA World Cup\u2122 Draw",
+          1386622518
+        ],
+        [
+          "To celebrate the FIFA World Cup\u2122 Final Draw and the global unifying power of football, we partnered with world-renowned artist, David Garibaldi, to develop a commemorative work of art that was created in real-time during the Final Draw event.\n\nTo see all the Final Draw reactions, check out http://www.RiseAsOne.com. Budweiser Presents: Art of the Draw at the 2014 FIFA World Cup\u2122 To celebrate the FIFA World Cup\u2122 final draw and the global unifying power of football, Budweiser partnered with world-renowned artist David Garibaldi to deve...",
+          1386439201
+        ],
+        [
+          "Rihanna\u2019s Diamonds world tour has been in full effect. Have you made it to any of the shows? Are you planning to go? Timeline Photos",
+          1373743865
+        ],
+        [
+          "We'd call this a win-win-win situation. Timeline Photos",
+          1368650071
+        ],
+        [
+          "Counting down to the FA Cup Final! Check out our Fan Film to get you in the mood: https://po.st/ZiRvlQ Timeline Photos",
+          1368218817
         ]
       ],
-      "dates_start": 1425496731,
-      "dates_end": 1456351046,
-      "likes_avg": 72,
-      "likes_stdev": 37,
-      "comments_avg": 4,
-      "comments_stdev": 3,
-      "shares_avg": 14,
-      "shares_stdev": 21
+      "dates_start": 1383536995,
+      "dates_end": 1426073156,
+      "likes_avg": 149,
+      "likes_stdev": 493,
+      "comments_avg": 5,
+      "comments_stdev": 15,
+      "shares_avg": 12,
+      "shares_stdev": 25
     },
     {
       "number": 19,
       "important": [
-        "fifa world",
-        "world",
-        "fifa",
-        "timelin",
-        "final"
+        "team"
       ],
       "common": [
-        "budweis",
+        "compet fifa",
+        "compet fifa world",
+        "compet fifa world qualifi",
         "draw",
-        "fifa",
-        "fifa world",
-        "final",
-        "final draw",
-        "timelin",
-        "world",
-        "world draw",
-        "world final"
+        "fifa world qualifi",
+        "fifa world qualifi today",
+        "fifa world qualifi today timelin",
+        "qualifi",
+        "team",
+        "world qualifi"
       ],
       "messages": [
         [
@@ -1460,14 +1691,6 @@
         [
           "The magic of the FIFA World Cup\u2122 is that anything\u2019s\r\npossible. Which team will surprise us in Brazil in June? Timeline Photos",
           1388932518
-        ],
-        [
-          "Check out the FIFA World Cup\u2122 Final Draw with some of the world's biggest fans. \n\nTo see even more Final Draw reactions, check out http://www.RiseAsOne.com/. Budweiser Hosts the FIFA World Cup\u2122 Draw",
-          1386622518
-        ],
-        [
-          "To celebrate the FIFA World Cup\u2122 Final Draw and the global unifying power of football, we partnered with world-renowned artist, David Garibaldi, to develop a commemorative work of art that was created in real-time during the Final Draw event.\n\nTo see all the Final Draw reactions, check out http://www.RiseAsOne.com. Budweiser Presents: Art of the Draw at the 2014 FIFA World Cup\u2122 To celebrate the FIFA World Cup\u2122 final draw and the global unifying power of football, Budweiser partnered with world-renowned artist David Garibaldi to deve...",
-          1386439201
         ],
         [
           "The groups for The 2014 FIFA World Cup\u2122 have been decided. All aboard for the road to Brazil. Timeline Photos",
@@ -1498,33 +1721,113 @@
           1384350454
         ]
       ],
-      "dates_start": 1384700219,
-      "dates_end": 1388066858,
-      "likes_avg": 66,
-      "likes_stdev": 28,
-      "comments_avg": 3,
+      "dates_start": 1384491907,
+      "dates_end": 1388209693,
+      "likes_avg": 74,
+      "likes_stdev": 25,
+      "comments_avg": 4,
       "comments_stdev": 4,
-      "shares_avg": 12,
+      "shares_avg": 11,
       "shares_stdev": 8
     },
     {
       "number": 20,
       "important": [
-        "world",
-        "face",
-        "show",
-        "worldcup",
-        "paint"
+        "thisbudsforyou",
+        "timelin",
+        "make",
+        "dream",
+        "big"
       ],
       "common": [
-        "face",
-        "face timelin",
-        "paint",
-        "paint face",
+        "big",
+        "django",
+        "dream",
+        "happen",
+        "make",
+        "photo",
+        "someth",
+        "thisbudsforyou",
+        "timelin",
+        "timelin photo"
+      ],
+      "messages": [
+        [
+          "Don't just show up. Make an entrance. #ThisBudsForYou",
+          1442086921
+        ],
+        [
+          "Make bold gestures. #ThisBudsForYou",
+          1440101400
+        ],
+        [
+          "The Clydesdales make their debut in 1933 to present a gift from us to the President of the United States. #FlashbackFriday Timeline Photos",
+          1415372400
+        ],
+        [
+          "Make a statement. Make it bold. Rihanna shows you how in this #Budweiser exclusive. #MADEforMusic",
+          1410526801
+        ],
+        [
+          "Dream big. Then make that dream happen. http://youtu.be/PlYeIDxFJ2Y #MADEUnderground Timeline Photos",
+          1409670001
+        ],
+        [
+          "Dream big. Then make big things happen. #JayZ #MADEforMusic",
+          1407528000
+        ],
+        [
+          "Playboy Bunnies vs. UFC fighters. Our only question is why no one made this happen before. #BudHotel",
+          1404164835
+        ],
+        [
+          "We all have a pre-match ritual, Will Ferrell\u2019s just happens to be hilarious. #WorldCup #BudHotel",
+          1404073800
+        ],
+        [
+          "First #MomentOfTheMatch: Neymar Jr. scores, Brazil erupts. \n\nWhat happens in today's triple feature? #MEXvCMR #ESPvNED #CHIvAUS #WorldCup",
+          1402667580
+        ],
+        [
+          "Something awesome is happening here, we can feel it. Timeline Photos",
+          1386288631
+        ],
+        [
+          "Django Django dreamed of a musical career over beers before dropping everything to make it happen. \r\n\r\nWhat dreams occupy your bar banter? Timeline Photos",
+          1382540615
+        ],
+        [
+          "Make your Monday mean something. #MakeSomethingMondays Timeline Photos",
+          1375117945
+        ]
+      ],
+      "dates_start": 1387325049,
+      "dates_end": 1426031439,
+      "likes_avg": 70,
+      "likes_stdev": 54,
+      "comments_avg": 3,
+      "comments_stdev": 1,
+      "shares_avg": 11,
+      "shares_stdev": 10
+    },
+    {
+      "number": 21,
+      "important": [
+        "support",
+        "world",
+        "today",
+        "show",
+        "worldcup"
+      ],
+      "common": [
+        "face today",
+        "httpbitlypaintyourfac",
+        "httpbitlypaintyourfac timelin",
+        "httpbitlypaintyourfac timelin photo",
         "show",
         "support",
         "team",
-        "timelin",
+        "today",
         "world",
         "worldcup"
       ],
@@ -1584,326 +1887,27 @@
       "shares_stdev": 11
     },
     {
-      "number": 21,
-      "important": [
-        "work",
-        "thisbudsforyou",
-        "timelin",
-        "hard",
-        "thisbudsforyou timelin"
-      ],
-      "common": [
-        "budweisermad",
-        "hard",
-        "never",
-        "rihanna",
-        "thisbudsforyou",
-        "thisbudsforyou timelin",
-        "time",
-        "timelin",
-        "work",
-        "work hard"
-      ],
-      "messages": [
-        [
-          "A week of work is a small price to pay for a reward this bold. #ThisBudsForYou",
-          1475503200
-        ],
-        [
-          "After work, stock your fridge with the only beer that works as hard as you do. #ThisBudsForYou Timeline Photos",
-          1453483741
-        ],
-        [
-          "You work too hard to waste time on cocktail menus. #ThisBudsForYou Timeline Photos",
-          1452717000
-        ],
-        [
-          "Be prepared. There\u2019s hard work ahead. #ThisBudsForYou",
-          1445449440
-        ],
-        [
-          "Work hard. #ThisBudsForYou Timeline Photos",
-          1440262320
-        ],
-        [
-          "\u201cCan I buy you a Bud?\u201d\n\nHere\u2019s to lines that actually work. #CheersTo2015 Timeline Photos",
-          1420844400
-        ],
-        [
-          "It's hard work being a #WorldCup fan. You've earned some Buds and pool time. Timeline Photos",
-          1404061060
-        ],
-        [
-          "Do what you love and you\u2019ll never work a day in your life. Rihanna lives by these rules \u2014 do you? Timeline Photos",
-          1375483901
-        ],
-        [
-          "What inspires you to work hard every morning? #BUDWEISERMADE Timeline Photos",
-          1374274801
-        ],
-        [
-          "Work never ends when there is no end to your dreams. Watch Rihanna put in the work backstage. #BUDWEISERMADE Rihanna \"Unapologetic\" #777 Tour",
-          1373835428
-        ]
-      ],
-      "dates_start": 1385865513,
-      "dates_end": 1457317544,
-      "likes_avg": 98,
-      "likes_stdev": 51,
-      "comments_avg": 4,
-      "comments_stdev": 1,
-      "shares_avg": 10,
-      "shares_stdev": 7
-    },
-    {
       "number": 22,
       "important": [
-        "worldcup timelin",
-        "timelin",
-        "worldcup",
-        "brazil",
-        "play"
-      ],
-      "common": [
-        "brazil",
-        "cheer",
-        "next",
-        "play",
-        "see",
-        "see brazil",
-        "timelin",
-        "worldcup",
-        "worldcup timelin",
-        "year"
-      ],
-      "messages": [
-        [
-          "Brazil play Netherlands for the greatest third place in world football. #WorldCup Timeline Photos",
-          1405177208
-        ],
-        [
-          "Brazil is a few hours away from their biggest test of the tournament. Hold onto your Buds. #BRAvsGER #WorldCup Timeline Photos",
-          1404838054
-        ],
-        [
-          "Sun down, Budweisers up. #WorldCup Timeline Photos",
-          1404592201
-        ],
-        [
-          "One place left. Fans get behind USA and Belgium as they play to stay in the #WorldCup. Timeline Photos",
-          1404236187
-        ],
-        [
-          "Here\u2019s to the beautiful game. #WorldCup Timeline Photos",
-          1404149254
-        ],
-        [
-          "Sheer joy. Brazil to the quarter \ufb01nals. #MomentOfTheMatch BRA vs. CHI \u2013 Moment of the Match",
-          1403978223
-        ],
-        [
-          "We were there then, we\u2019re here now. #WorldCup Timeline Photos",
-          1403818200
-        ],
-        [
-          "#Neymar brings the samba back to Brazil, to a nation\u2019s delight. #MomentOfTheMatch #MomentOfTheMatch - CMR vs BRA",
-          1403559000
-        ],
-        [
-          "Brazil fan, from head to tail. Spotted in #Rio, #WorldCup support at its most adorable. Timeline Photos",
-          1403549261
-        ],
-        [
-          "One legendary guest list. #BudHotel #WorldCup Timeline Photos",
-          1402328700
-        ],
-        [
-          "The excitement has been building for 20 years. #WorldCup Timeline Photos",
-          1401890400
-        ],
-        [
-          "All 32 nations have been decided. Who we support may be different, but how we support is the same.\r\n\r\nSee you in Brazil. Timeline Photos",
-          1385050184
-        ],
-        [
-          "Cheers to Uruguay \u2014 see you in Brazil. Timeline Photos",
-          1384996189
-        ],
-        [
-          "Cheers to all the teams that made it through today \u2013 see you in Brazil. #WorldCup Timeline Photos",
-          1384895230
-        ],
-        [
-          "Cheers to Cameroon \u2014 see you in Brazil. #WorldCup Timeline Photos",
-          1384706139
-        ],
-        [
-          "Cheers to Nigeria and Ivory Coast \u2014 see you in Brazil next year. #WorldCup Timeline Photos",
-          1384635095
-        ],
-        [
-          "Who will make it through to Brazil in the final games next week? #WorldCup Timeline Photos",
-          1384548923
-        ],
-        [
-          "See how her song \"Foundations\" propelled Kate Nash from her mum\u2019s kitchen to stardom. MADE ME | KATE NASH",
-          1381926374
-        ],
-        [
-          "The anticipation when you see this... Timeline Photos",
-          1379968818
-        ],
-        [
-          "One day it could be you who's playing in front of thousands of adoring fans.\r\n\r\nSee you next year at #BudweiserMadeInAmerica? Timeline Photos",
-          1378298745
-        ],
-        [
-          "Thanks for the Great Times at #BudweiserMadeInAmerica. See you next year! Timeline Photos",
-          1378164326
-        ],
-        [
-          "Acclaimed London duo AlunaGeorge knew their first show was when they'd made it as a band. \n\n\"This was a moment to actually see if we could pull off any kind of existence and be actual instead of virtual.\" Timeline Photos",
-          1374189853
-        ]
-      ],
-      "dates_start": 1381634773,
-      "dates_end": 1404137641,
-      "likes_avg": 95,
-      "likes_stdev": 75,
-      "comments_avg": 2,
-      "comments_stdev": 1,
-      "shares_avg": 10,
-      "shares_stdev": 11
-    },
-    {
-      "number": 23,
-      "important": [
-        "budhotel",
-        "world",
-        "rio",
-        "timelin",
-        "parti"
-      ],
-      "common": [
-        "biggest",
-        "biggest parti",
-        "budhotel",
-        "parti",
-        "rio",
-        "rooftop",
-        "slim",
-        "timelin",
-        "world",
-        "worldcup"
-      ],
-      "messages": [
-        [
-          "Anybody can host a party. Not everybody can host a party like this. #ThisBudsForYou",
-          1482530460
-        ],
-        [
-          "Here\u2019s to parties that started the party. #CheersTo2014 Timeline Photos",
-          1419116400
-        ],
-        [
-          "The stage was a rooftop over Rio. The party was, well, see for yourself. #BudHotel #BudHotel Stage",
-          1405777554
-        ],
-        [
-          "A party fit for the occasion, Zedd turned it up at the #BudHotel.",
-          1405692345
-        ],
-        [
-          "The party heard around the world. Check out some of our favorite moments from the #BudHotel. From Rio, with love.",
-          1405518900
-        ],
-        [
-          "World-class artists, a rooftop over Rio and the biggest parties in town, the #BudHotel was the place to be for the #WorldCup. The #BudHotel Guest List",
-          1405433873
-        ],
-        [
-          "If the #BudHotel wasn't hot enough already, we added fashion models. Party at the #BudHotel",
-          1405004747
-        ],
-        [
-          "Major Lazer and Diplo hit the stage at the #BudHotel in Rio. It was a party that no one will soon forget. Major Lazer Live at the #BudHotel",
-          1404505435
-        ],
-        [
-          "The world is watching, and we're throwing over 100 #WorldCup viewing parties to celebrate. Check out how fans are reacting in cities around the globe. Budweiser #WorldCup Viewing Parties",
-          1403726539
-        ],
-        [
-          "The World of VICE party at the #BudHotel. VICE #WorldCup party at the Bud Hotel",
-          1403386377
-        ],
-        [
-          "How to throw the biggest party in the world? Start with a rooftop at the #BudHotel, add Fatboy Slim. \n\nGet his latest album now: http://po.st/BemBudweiseriT",
-          1403291233
-        ],
-        [
-          "We know it\u2019s beautiful, but don\u2019t get distracted, the party is just heating up at the #BudHotel. Timeline Photos",
-          1403127000
-        ],
-        [
-          "Poolside at the #BudHotel with Fatboy Slim. It's as good as it sounds.\n\nDownload the track from our party for free now: http://zaphod.uk.vvhp.net/vvreg/8900-347065 #BemBrasil",
-          1403042401
-        ],
-        [
-          "World-class DJs and legendary athletes roll through the #BudHotel for the biggest party at the #WorldCup. Fatboy Slim Bud Hotel Pool Party",
-          1402869370
-        ],
-        [
-          "With all eyes on Rio, partying with Nicky Romero at the #BudHotel was the hottest ticket in town. Timeline Photos",
-          1402679747
-        ],
-        [
-          "How do you make the biggest party in the world even bigger? Add a world class music lineup. #BudHotel Timeline Photos",
-          1402239327
-        ],
-        [
-          "Maracana\u2019s got the games. But the #BudHotel is throwing the epic parties. All. Month. Long. Timeline Photos",
-          1401977537
-        ]
-      ],
-      "dates_start": 1390741181,
-      "dates_end": 1428072847,
-      "likes_avg": 54,
-      "likes_stdev": 59,
-      "comments_avg": 3,
-      "comments_stdev": 9,
-      "shares_avg": 9,
-      "shares_stdev": 9
-    },
-    {
-      "number": 24,
-      "important": [
-        "first",
-        "budweisermadeformus",
-        "timelin",
-        "budweisermadeformus timelin",
+        "favorit",
         "artist"
       ],
       "common": [
         "artist",
-        "budweisermadeformus",
-        "budweisermadeformus timelin",
-        "first",
+        "favorit",
+        "gartner budweisermadeformus",
         "gartner budweisermadeformus timelin",
+        "gartner budweisermadeformus timelin photo",
         "summer",
         "summer budweisermadeformus",
         "summer budweisermadeformus timelin",
-        "timelin",
-        "wolfgang gartner budweisermadeformus timelin"
+        "summer budweisermadeformus timelin photo",
+        "wolfgang gartner budweisermadeformus timelin photo"
       ],
       "messages": [
         [
           "Meet Los Angeles trio Haim. #BudweiserMadeForMusic Timeline Photos",
           1377208800
-        ],
-        [
-          "Rihanna sold out 10 concerts at the O2 Arena becoming the first female solo artist to do so.  #TBT #BudweiserMadeForMusic Rihanna Breaks O2 Arena Record With Final 'Loud' Tour Gig Singer has been presented with an award from the London venue.",
-          1377194400
         ],
         [
           "Let us know which artist you want to hear about next: Kendrick Lamar, Robert DeLong or Wolfgang Gartner. #BudweiserMadeForMusic Timeline Photos",
@@ -1934,35 +1938,127 @@
           1376868680
         ]
       ],
-      "dates_start": 1376938754,
-      "dates_end": 1377173999,
-      "likes_avg": 97,
-      "likes_stdev": 115,
+      "dates_start": 1376925610,
+      "dates_end": 1377152638,
+      "likes_avg": 107,
+      "likes_stdev": 118,
       "comments_avg": 4,
       "comments_stdev": 3,
-      "shares_avg": 9,
-      "shares_stdev": 16
+      "shares_avg": 10,
+      "shares_stdev": 17
     },
     {
-      "number": 25,
+      "number": 23,
       "important": [
-        "fifa manofthematch",
-        "win",
-        "fifa",
-        "manofthematch",
-        "present"
+        "biggest",
+        "timelin",
+        "world",
+        "rio",
+        "stage"
       ],
       "common": [
-        "budweis",
-        "fifa",
-        "fifa manofthematch",
-        "fifa manofthematch present",
-        "fifa manofthematch present budweis",
-        "manofthematch",
-        "present",
-        "present budweis",
+        "biggest",
+        "biggest parti",
+        "fatboy slim",
+        "photo",
+        "rio",
+        "slim",
+        "stage",
         "timelin",
-        "win"
+        "timelin photo",
+        "world"
+      ],
+      "messages": [
+        [
+          "Anybody can host a party. Not everybody can host a party like this. #ThisBudsForYou",
+          1482530460
+        ],
+        [
+          "Here\u2019s to parties that started the party. #CheersTo2014 Timeline Photos",
+          1419116400
+        ],
+        [
+          "The stage was a rooftop over Rio. The party was, well, see for yourself. #BudHotel #BudHotel Stage",
+          1405777554
+        ],
+        [
+          "A party fit for the occasion, Zedd turned it up at the #BudHotel.",
+          1405692345
+        ],
+        [
+          "World-class artists, a rooftop over Rio and the biggest parties in town, the #BudHotel was the place to be for the #WorldCup. The #BudHotel Guest List",
+          1405433873
+        ],
+        [
+          "If the #BudHotel wasn't hot enough already, we added fashion models. Party at the #BudHotel",
+          1405004747
+        ],
+        [
+          "Major Lazer and Diplo hit the stage at the #BudHotel in Rio. It was a party that no one will soon forget. Major Lazer Live at the #BudHotel",
+          1404505435
+        ],
+        [
+          "The World of VICE party at the #BudHotel. VICE #WorldCup party at the Bud Hotel",
+          1403386377
+        ],
+        [
+          "How to throw the biggest party in the world? Start with a rooftop at the #BudHotel, add Fatboy Slim. \n\nGet his latest album now: http://po.st/BemBudweiseriT",
+          1403291233
+        ],
+        [
+          "We know it\u2019s beautiful, but don\u2019t get distracted, the party is just heating up at the #BudHotel. Timeline Photos",
+          1403127000
+        ],
+        [
+          "Poolside at the #BudHotel with Fatboy Slim. It's as good as it sounds.\n\nDownload the track from our party for free now: http://zaphod.uk.vvhp.net/vvreg/8900-347065 #BemBrasil",
+          1403042401
+        ],
+        [
+          "World-class DJs and legendary athletes roll through the #BudHotel for the biggest party at the #WorldCup. Fatboy Slim Bud Hotel Pool Party",
+          1402869370
+        ],
+        [
+          "With all eyes on Rio, partying with Nicky Romero at the #BudHotel was the hottest ticket in town. Timeline Photos",
+          1402679747
+        ],
+        [
+          "Nicky Romero is hitting the stage at the #BudHotel in Rio tonight. But first, he's making a stop at our Facebook Studio to answer your questions. Ask them right here in the Comments section. Timeline Photos",
+          1402592829
+        ],
+        [
+          "How do you make the biggest party in the world even bigger? Add a world class music lineup. #BudHotel Timeline Photos",
+          1402239327
+        ],
+        [
+          "Maracana\u2019s got the games. But the #BudHotel is throwing the epic parties. All. Month. Long. Timeline Photos",
+          1401977537
+        ]
+      ],
+      "dates_start": 1390341181,
+      "dates_end": 1428817147,
+      "likes_avg": 68,
+      "likes_stdev": 64,
+      "comments_avg": 3,
+      "comments_stdev": 9,
+      "shares_avg": 10,
+      "shares_stdev": 9
+    },
+    {
+      "number": 24,
+      "important": [
+        "two"
+      ],
+      "common": [
+        "assist",
+        "goal",
+        "strike win messi fifa",
+        "strike win messi fifa manofthematch",
+        "superb",
+        "superb \ufb01nish",
+        "superb \ufb01nish win",
+        "superb \ufb01nish win germani",
+        "superb \ufb01nish win germani world",
+        "two"
       ],
       "messages": [
         [
@@ -1996,24 +2092,24 @@
       "shares_stdev": 5
     },
     {
-      "number": 26,
+      "number": 25,
       "important": [
         "watch",
+        "timelin",
         "budweis",
-        "rihanna",
-        "come",
-        "documentari"
+        "documentari",
+        "dream"
       ],
       "common": [
         "budweis",
-        "come",
         "documentari",
-        "documentari come",
         "dream",
         "half",
         "halfofm",
         "halfofm documentari",
-        "rihanna",
+        "photo",
+        "timelin",
+        "timelin photo",
         "watch"
       ],
       "messages": [
@@ -2038,173 +2134,256 @@
           1379001601
         ],
         [
+          "Rihanna sold out 10 concerts at the O2 Arena becoming the first female solo artist to do so.  #TBT #BudweiserMadeForMusic Rihanna Breaks O2 Arena Record With Final 'Loud' Tour Gig Singer has been presented with an award from the London venue.",
+          1377194400
+        ],
+        [
           "Rihanna rocked US/UK & is now off to China on her #DiamondsWorldTour. \n\nCheck out her 2nd Budweiser spot.  #BUDWEISERMADE Budweiser | Dreams Are Made Together | Rihanna No one makes it overnight. \"Dreams Are Made Together,\" a new TV commercial from Budweiser chronicles Rihanna's relentless pursuit towards making it day in and day out, all over the globe.",
           1376584571
+        ],
+        [
+          "Do what you love and you\u2019ll never work a day in your life. Rihanna lives by these rules \u2014 do you? Timeline Photos",
+          1375483901
+        ],
+        [
+          "Work never ends when there is no end to your dreams. Watch Rihanna put in the work backstage. #BUDWEISERMADE Rihanna \"Unapologetic\" #777 Tour",
+          1373835428
         ],
         [
           "Check out Rihanna behind the scenes on the shoot for her Budweiser \u201cDreams Are Made\u201d commercial: http://bit.ly/15oj63K #BUDWEISERMADE #BTS Timeline Photos",
           1373662490
         ]
       ],
-      "dates_start": 1376053979,
-      "dates_end": 1380141299,
-      "likes_avg": 67,
-      "likes_stdev": 44,
+      "dates_start": 1375106167,
+      "dates_end": 1379533273,
+      "likes_avg": 72,
+      "likes_stdev": 49,
       "comments_avg": 3,
-      "comments_stdev": 2,
-      "shares_avg": 7,
+      "comments_stdev": 3,
+      "shares_avg": 8,
       "shares_stdev": 7
+    },
+    {
+      "number": 26,
+      "important": [
+        "thisbudsforyou timelin"
+      ],
+      "common": [
+        "hard",
+        "hard thisbudsforyou",
+        "hard thisbudsforyou timelin",
+        "partner",
+        "thisbudsforyou timelin",
+        "thisbudsforyou timelin photo",
+        "work hard",
+        "work hard thisbudsforyou",
+        "work hard thisbudsforyou timelin",
+        "work hard thisbudsforyou timelin photo"
+      ],
+      "messages": [
+        [
+          "A week of work is a small price to pay for a reward this bold. #ThisBudsForYou",
+          1475503200
+        ],
+        [
+          "We didn't partner with PSG - Paris Saint-Germain because they\u2019re a club that wins more than anyone else. We partnered with them because they work harder. They think bigger. And the championships just follow. Ici c\u2019est Paris. #ThisBudsForYou Timeline Photos",
+          1469720487
+        ],
+        [
+          "After a long day of work, carry home the gold. #ThisBudsForYou Timeline Photos",
+          1458072301
+        ],
+        [
+          "After work, stock your fridge with the only beer that works as hard as you do. #ThisBudsForYou Timeline Photos",
+          1453483741
+        ],
+        [
+          "You work too hard to waste time on cocktail menus. #ThisBudsForYou Timeline Photos",
+          1452717000
+        ],
+        [
+          "Be prepared. There\u2019s hard work ahead. #ThisBudsForYou",
+          1445449440
+        ],
+        [
+          "Work hard. #ThisBudsForYou Timeline Photos",
+          1440262320
+        ],
+        [
+          "\u201cCan I buy you a Bud?\u201d\n\nHere\u2019s to lines that actually work. #CheersTo2015 Timeline Photos",
+          1420844400
+        ]
+      ],
+      "dates_start": 1435970096,
+      "dates_end": 1468043126,
+      "likes_avg": 90,
+      "likes_stdev": 49,
+      "comments_avg": 3,
+      "comments_stdev": 1,
+      "shares_avg": 7,
+      "shares_stdev": 3
     },
     {
       "number": 27,
       "important": [
-        "like",
-        "favorit",
-        "look",
-        "made",
-        "timelin"
+        "take",
+        "music",
+        "hit",
+        "jay",
+        "made"
       ],
       "common": [
-        "alunageorg",
-        "budweisermad",
-        "budweisermad timelin",
-        "favorit",
-        "like",
-        "london",
-        "look",
+        "busker",
+        "hit",
+        "jay",
         "made",
-        "song",
-        "timelin"
+        "madeunderground",
+        "madeunderground madeformus",
+        "music",
+        "part",
+        "right",
+        "take"
       ],
       "messages": [
         [
-          "As cool as it looks. Timeline Photos",
-          1423332001
+          "Celebrate the times when the music flows as smooth as our beer. #MADEforMusic Timeline Photos",
+          1412373601
         ],
         [
-          "This is what the moment looks like when dreams are made. \n#MADEforMusic #Budweiser",
-          1413378001
+          "Music makes the arm grow longer. #MADEforMusic Timeline Photos",
+          1412290801
         ],
         [
-          "Your favorite song of the summer, like you\u2019ve never heard it. Here\u2019s your exclusive look at \u201cJungle,\u201d unplugged. #MADEforMusic",
-          1410786000
+          "Essential ingredients: One part Budweiser, two parts music served over a relaxing evening. #MADEforMusic Timeline Photos",
+          1411995600
         ],
         [
-          "Get a free download from #BudweiserMadeInAmerica festival artists AlunaGeorge here: http://bit.ly/alunadl You Know You Like It Budweiser Made bring together some of our favorite musicians to share their stories of success. Watch them all here: http://bit.ly/15bw4mJ",
-          1377374401
+          "Give your dreams a melody. #MADEforMusic Timeline Photos",
+          1411650001
         ],
         [
-          "Take a 60-second look at the artistic journey of AlunaGeorge, from their early beginnings in a London squat to performing for 80,000 people. #BUDWEISERMADE MADE IN A MINUTE | ALUNAGEORGE",
-          1374587322
+          "Set the stage, then take it. #MADEforMusic Timeline Photos",
+          1411599600
         ],
         [
-          "AlunaGeorge's dedication brought them from bonding over Radiohead in a London squat to performing for thousands at legendary Wembley Stadium.\n\n\"I have to do this because it's the most important thing, kind of keeps you going.\" #BUDWEISERMADE Timeline Photos",
-          1374495467
+          "Let the music take you off your feet. #MADEforMusic Timeline Photos",
+          1411477201
         ],
         [
-          "Breakout London duo AlunaGeorge talk about the song that made them \"You Know You Like It.\" \n\n\"People were going to let us do what we do\u2026 It kind of allowed us to trust our own instincts.\" #BUDWEISERMADE Timeline Photos",
-          1374091941
+          "Get all fired up. #MADEforMusic Timeline Photos",
+          1411340401
         ],
         [
-          "Watch emerging London duo AlunaGeorge take a close look at their breakthrough song \"You Know You Like It\" in the new episode of \"Made Me.\"  #BUDWEISERMADE MADE ME | ALUNAGEORGE",
-          1374080400
+          "Let your notes hit the sky. #MADEforMusic Timeline Photos",
+          1411218002
         ],
         [
-          "Breakthrough London pair AlunaGeorge prepare to reveal the stories that have brought them their current success. #BUDWEISERMADE Timeline Photos",
-          1374009408
+          "Let's do this together. JAY Z #MADEforMusic Timeline Photos",
+          1411045200
         ],
         [
-          "Coming this summer, a series about the artistic journeys of our favorite musicians. #BUDWEISERMADE MADE ME | ALUNAGEORGE",
-          1373907600
+          "Live the moment, love the music. #MADEforMusic Timeline Photos",
+          1410872403
         ],
         [
-          "Looks like the weekend is lining up nicely. Timeline Photos",
-          1368132146
+          "#MADEforMusic JAY Z Timeline Photos",
+          1410613201
+        ],
+        [
+          "MADE for creating something great, together. #MADEforMusic Timeline Photos",
+          1410354001
+        ],
+        [
+          "Follow the dreamers. #MADEforMusic Timeline Photos",
+          1410267601
+        ],
+        [
+          "Our mood right now. #MADEforMusic Timeline Photos",
+          1409749201
+        ],
+        [
+          "When you love what you do, dreams are made. Just ask JAY Z #MADEforMusic Timeline Photos",
+          1409232380
+        ],
+        [
+          "MADE for the acoustic version. #MADEforMusic Timeline Photos",
+          1408885202
+        ],
+        [
+          "MADE for keeping some strings attached. #MADEforMUSIC Timeline Photos",
+          1408798801
+        ],
+        [
+          "When you love what you do, dreams are made. Just ask JAY Z. #MADEforMusic",
+          1408626002
+        ],
+        [
+          "MADE for hitting the right note. #MADEforMusic Timeline Photos",
+          1408280401
+        ],
+        [
+          "MADE for listening to the right song with the right people. #MADEforMUSIC Timeline Photos",
+          1408194001
+        ],
+        [
+          "Underground is a lifestyle, and every busker lives it. Check out our trip to NYC and meet the city\u2019s best buskers as they show us a day in the life. #MADEUnderground #MADEforMusic",
+          1407934831
+        ],
+        [
+          "MADE for finding your tune. #MADEforMusic Timeline Photos",
+          1407711097
+        ],
+        [
+          "The Chapman Stick: part bass, part guitar, part piano. Intrigued? Check it out in Ep. 1 of #MADEUnderground https://www.youtube.com/watch?v=PlYeIDxFJ2Y #MADEforMusic Timeline Photos",
+          1407416400
+        ],
+        [
+          "Our journey for busker talent to remix the hit single \u201cJungle\u201d takes us to the houseboat of Graham Farnworth on the outskirts of London. #MADEUnderground #MADEforMusic Timeline Photos",
+          1407157928
+        ],
+        [
+          "Buskers + Soul = Found in Philadelphia: http://youtu.be/I-FI0Eqx62M #MadeUnderground #ComingSoon #MADEforMusic Timeline Photos",
+          1406898293
+        ],
+        [
+          "Brass and Budweiser are #MADEforMusic: http://youtu.be/I-FI0Eqx62M #MadeUnderground #ComingSoon Timeline Photos",
+          1406811852
+        ],
+        [
+          "The search for an amazing busker to perform their hit single \"Jungle\" will take Sam Harris and Jamie N Commons to the concrete jungle, New York City.\n\nIt all goes down on #MadeUnderground #ComingSoon #MADEforMusic: http://youtu.be/I-FI0Eqx62M Timeline Photos",
+          1406724679
+        ],
+        [
+          "Sam Harris and Jamie N Commons scoping out local talent in London looking for the next busker to remix their hit \"Jungle\": http://youtu.be/I-FI0Eqx62M #MadeUnderground #MADEforMusic Timeline Photos",
+          1406638801
         ]
       ],
-      "dates_start": 1366261937,
-      "dates_end": 1404315278,
-      "likes_avg": 80,
-      "likes_stdev": 142,
-      "comments_avg": 2,
-      "comments_stdev": 4,
+      "dates_start": 1407628109,
+      "dates_end": 1411383139,
+      "likes_avg": 89,
+      "likes_stdev": 57,
+      "comments_avg": 1,
+      "comments_stdev": 2,
       "shares_avg": 7,
-      "shares_stdev": 10
+      "shares_stdev": 5
     },
     {
       "number": 28,
       "important": [
-        "kendrick",
-        "made",
-        "budweisermadeinamerica"
+        "cheer",
+        "today"
       ],
       "common": [
-        "afternoon",
-        "budweisermadeinamerica",
-        "budweisermadeinamerica made",
-        "featur",
-        "kendrick",
-        "kendrick lamar",
-        "khalifa",
-        "lamar",
-        "made",
-        "sunday"
-      ],
-      "messages": [
-        [
-          "Snag a free download of #BudweiserMadeInAmerica artist Kendrick Lamar\u2019s song Compton here: http://bit.ly/madedl",
-          1380454223
-        ],
-        [
-          "Kendrick Lamar brought his energy to the Rocky Stage at #BudweiserMadeInAmerica in Philadelphia. Kendrick Lamar at #BudweiserMadeInAmerica",
-          1378653738
-        ],
-        [
-          "Behind-the-scenes photos and live shots from Sunday at #BudweiserMadeInAmerica festival. Featuring Nine Inch Nails, Kendrick Lamar, Macklemore, Wiz Khalifa, and more. Day 2 at #BudweiserMadeInAmerica",
-          1378141746
-        ],
-        [
-          "Photos from Sunday afternoon at Budweiser Made in America, featuring Kendrick Lamar, Wiz Khalifa, Solange, and more.\n\nThe party continues all night \u2014 tune in: http://bit.ly/BMIALivestream Sunday Afternoon at #BudweiserMadeInAmerica",
-          1378072456
-        ],
-        [
-          "Watch Kendrick Lamar talk about the track that put him in the room with a legend. #BudweiserMadeInAmerica MADE ME | KENDRICK LAMAR",
-          1377530365
-        ],
-        [
-          "Watch a quick video on Kendrick Lamar connecting with another Compton rapper. #BudweiserMadeInAmerica MADE FOR MUSIC | KENDRICK LAMAR",
-          1377440220
-        ]
-      ],
-      "dates_start": 1377371042,
-      "dates_end": 1379393206,
-      "likes_avg": 17,
-      "likes_stdev": 13,
-      "comments_avg": 0,
-      "comments_stdev": 0,
-      "shares_avg": 6,
-      "shares_stdev": 2
-    },
-    {
-      "number": 29,
-      "important": [
-        "fifa manofthematch",
-        "winner",
-        "manofthematch",
-        "budweis",
-        "manofthematch present"
-      ],
-      "common": [
-        "budweis",
-        "fifa",
-        "fifa manofthematch",
-        "fifa manofthematch present",
-        "manofthematch",
-        "manofthematch present",
-        "manofthematch present budweis",
-        "present",
-        "winner",
-        "winner fifa manofthematch"
+        "cheer",
+        "congrat",
+        "congratul",
+        "keylor",
+        "keylor nava yesterday",
+        "keylor nava yesterday winner fifa",
+        "messi",
+        "nava",
+        "shaqiri yesterday",
+        "today"
       ],
       "messages": [
         [
@@ -2286,205 +2465,160 @@
       "shares_stdev": 6
     },
     {
-      "number": 30,
+      "number": 29,
       "important": [
-        "madeformus timelin",
-        "madeformus",
-        "music",
-        "timelin",
-        "jay"
+        "dont",
+        "live"
       ],
       "common": [
-        "jay",
-        "jay madeformus",
-        "love",
-        "made",
-        "madeformus",
-        "madeformus timelin",
-        "madeunderground",
-        "music",
-        "part",
-        "timelin"
+        "beat",
+        "budweisermadeinamerica festiv timelin photo",
+        "dont",
+        "dont miss",
+        "httpbitlybmialivestream",
+        "httpbitlybmialivestream timelin",
+        "httpbitlybmialivestream timelin photo",
+        "live",
+        "miss",
+        "saturday"
       ],
       "messages": [
         [
-          "Celebrate the times when the music flows as smooth as our beer. #MADEforMusic Timeline Photos",
-          1412373601
+          "Behind-the-scenes photos and live shots from Sunday at #BudweiserMadeInAmerica festival. Featuring Nine Inch Nails, Kendrick Lamar, Macklemore, Wiz Khalifa, and more. Day 2 at #BudweiserMadeInAmerica",
+          1378141746
         ],
         [
-          "Music makes the arm grow longer. #MADEforMusic Timeline Photos",
-          1412290801
+          "Click here to join us live at the #BudweiserMadeInAmerica festival: http://bit.ly/BMIALivestream Timeline Photos",
+          1378068074
         ],
         [
-          "Essential ingredients: One part Budweiser, two parts music served over a relaxing evening. #MADEforMusic Timeline Photos",
-          1411995600
+          "Check out live photos and behind-the-scenes shots from Saturday at #BudweiserMadeInAmerica Festival in Philadelphia, featuring Empire of the Sun, Beyonc\u00e9, 2 Chainz, and more.\n\nThere's more to come \u2014 don't miss a beat all weekend long: http://bit.ly/BMIALivestream #BudweiserMadeInAmerica Festival: Day 1",
+          1378055990
         ],
         [
-          "Give your dreams a melody. #MADEforMusic Timeline Photos",
-          1411650001
+          "Doors are open at #BudweiserMadeInAmerica festival.\r\n\r\nDon't miss a beat \u2014 check out the schedule and live stream here: http://bit.ly/BMIALivestream Timeline Photos",
+          1377962297
         ],
         [
-          "Set the stage, then take it. #MADEforMusic Timeline Photos",
-          1411599600
+          "Don't miss out on the #BudweiserMadeInAmerica festival. We're streaming the whole festival starting Saturday. http://bit.ly/bmialineup Timeline Photos",
+          1377785819
         ],
         [
-          "Let the music take you off your feet. #MADEforMusic Timeline Photos",
-          1411477201
+          "Welcome Robert DeLong before he performs at the #BudweiserMadeInAmerica festival. Timeline Photos",
+          1377609167
         ],
         [
-          "Get all fired up. #MADEforMusic Timeline Photos",
-          1411340401
-        ],
-        [
-          "Let's do this together. JAY Z #MADEforMusic Timeline Photos",
-          1411045200
-        ],
-        [
-          "Live the moment, love the music. #MADEforMusic Timeline Photos",
-          1410872403
-        ],
-        [
-          "#MADEforMusic JAY Z Timeline Photos",
-          1410613201
-        ],
-        [
-          "Follow the dreamers. #MADEforMusic Timeline Photos",
-          1410267601
-        ],
-        [
-          "When you love what you do, dreams are made. Just ask JAY Z #MADEforMusic Timeline Photos",
-          1409232380
-        ],
-        [
-          "MADE for the acoustic version. #MADEforMusic Timeline Photos",
-          1408885202
-        ],
-        [
-          "MADE for keeping some strings attached. #MADEforMUSIC Timeline Photos",
-          1408798801
-        ],
-        [
-          "When you love what you do, dreams are made. Just ask JAY Z. #MADEforMusic",
-          1408626002
-        ],
-        [
-          "MADE for finding your tune. #MADEforMusic Timeline Photos",
-          1407711097
-        ],
-        [
-          "The Chapman Stick: part bass, part guitar, part piano. Intrigued? Check it out in Ep. 1 of #MADEUnderground https://www.youtube.com/watch?v=PlYeIDxFJ2Y #MADEforMusic Timeline Photos",
-          1407416400
-        ],
-        [
-          "Our journey for busker talent to remix the hit single \u201cJungle\u201d takes us to the houseboat of Graham Farnworth on the outskirts of London. #MADEUnderground #MADEforMusic Timeline Photos",
-          1407157928
-        ],
-        [
-          "Buskers + Soul = Found in Philadelphia: http://youtu.be/I-FI0Eqx62M #MadeUnderground #ComingSoon #MADEforMusic Timeline Photos",
-          1406898293
-        ],
-        [
-          "Brass and Budweiser are #MADEforMusic: http://youtu.be/I-FI0Eqx62M #MadeUnderground #ComingSoon Timeline Photos",
-          1406811852
+          "MARK YOUR CALENDARS: We are only one week away from the live-stream of #BudweiserMadeInAmerica Festival. Timeline Photos",
+          1377360002
         ]
       ],
-      "dates_start": 1407969919,
-      "dates_end": 1411736437,
-      "likes_avg": 85,
-      "likes_stdev": 50,
-      "comments_avg": 1,
+      "dates_start": 1377590213,
+      "dates_end": 1378119242,
+      "likes_avg": 51,
+      "likes_stdev": 45,
+      "comments_avg": 2,
       "comments_stdev": 1,
       "shares_avg": 6,
       "shares_stdev": 4
     },
     {
-      "number": 31,
+      "number": 30,
       "important": [
-        "watch",
-        "turn",
-        "turn point",
-        "point",
-        "find"
+        "look",
+        "timelin",
+        "alunageorg",
+        "like",
+        "made"
       ],
       "common": [
-        "budweisermadeinamerica",
-        "django",
-        "find",
-        "path",
-        "phoenix",
-        "point",
-        "turn",
-        "turn point",
-        "turn point phoenix",
-        "watch"
+        "alunageorg",
+        "budweisermad",
+        "kind",
+        "like",
+        "london",
+        "look",
+        "made",
+        "photo",
+        "timelin",
+        "timelin photo"
       ],
       "messages": [
         [
-          "Love \"Grand Theft Auto\"?  Learn how Yeasayer developed the sound that would eventually land them a spot in the video game. TURNING POINTS | YEASAYER",
-          1384448753
+          "As cool as it looks. Timeline Photos",
+          1423332001
         ],
         [
-          "Watch Scottish rockers Django Django describe the \"musical funk nest\" that inspired their critically acclaimed first album. TURNING POINTS | DJANGO DJANGO",
-          1382618392
+          "This is what the moment looks like when dreams are made. \n#MADEforMusic #Budweiser",
+          1413378001
         ],
         [
-          "Watch Phoenix trace their path to stardom through their Paris flat, early venues and hangouts. TURNING POINTS | PHOENIX",
-          1381319575
+          "Your favorite song of the summer, like you\u2019ve never heard it. Here\u2019s your exclusive look at \u201cJungle,\u201d unplugged. #MADEforMusic",
+          1410786000
         ],
         [
-          "Learn how leaving their hometown helped Phoenix become the rock stars they are today. TURNING POINTS | PHOENIX",
-          1381233105
+          "Share your love for Kate Nash now and look out for our interview with the songstress. Timeline Photos",
+          1382706684
         ],
         [
-          "Find out how WE ARE GTA scored a touring gig with Rihanna. #BudweiserMadeInAmerica TURNING POINTS | GTA",
-          1380211668
+          "Get a free download from #BudweiserMadeInAmerica festival artists AlunaGeorge here: http://bit.ly/alunadl You Know You Like It Budweiser Made bring together some of our favorite musicians to share their stories of success. Watch them all here: http://bit.ly/15bw4mJ",
+          1377374401
         ],
         [
-          "Find out what put Robert DeLong on the path to perform at the #BudweiserMadeinAmerica festival. TURNING POINTS | ROBERT DELONG",
-          1377729074
+          "Take a 60-second look at the artistic journey of AlunaGeorge, from their early beginnings in a London squat to performing for 80,000 people. #BUDWEISERMADE MADE IN A MINUTE | ALUNAGEORGE",
+          1374587322
         ],
         [
-          "Watch Redlight unveil the moments that defined his career. #BudweiserMadeForMusic TURNING POINTS | REDLIGHT",
-          1377093600
+          "AlunaGeorge's dedication brought them from bonding over Radiohead in a London squat to performing for thousands at legendary Wembley Stadium.\n\n\"I have to do this because it's the most important thing, kind of keeps you going.\" #BUDWEISERMADE Timeline Photos",
+          1374495467
         ],
         [
-          "After being raised in a record shop, find out why Ab-Soul can never go back. TURNING POINTS | AB-SOUL",
-          1375813380
+          "Acclaimed London duo AlunaGeorge knew their first show was when they'd made it as a band. \n\n\"This was a moment to actually see if we could pull off any kind of existence and be actual instead of virtual.\" Timeline Photos",
+          1374189853
         ],
         [
-          "Watch acclaimed electronic duo AlunaGeorge talk about the moment when they knew they'd made it as a band. #BUDWEISERMADE TURNING POINTS | ALUNAGEORGE",
-          1374253200
+          "Breakout London duo AlunaGeorge talk about the song that made them \"You Know You Like It.\" \n\n\"People were going to let us do what we do\u2026 It kind of allowed us to trust our own instincts.\" #BUDWEISERMADE Timeline Photos",
+          1374091941
+        ],
+        [
+          "Watch emerging London duo AlunaGeorge take a close look at their breakthrough song \"You Know You Like It\" in the new episode of \"Made Me.\"  #BUDWEISERMADE MADE ME | ALUNAGEORGE",
+          1374080400
+        ],
+        [
+          "Breakthrough London pair AlunaGeorge prepare to reveal the stories that have brought them their current success. #BUDWEISERMADE Timeline Photos",
+          1374009408
+        ],
+        [
+          "Coming this summer, a series about the artistic journeys of our favorite musicians. #BUDWEISERMADE MADE ME | ALUNAGEORGE",
+          1373907600
+        ],
+        [
+          "Looks like the weekend is lining up nicely. Timeline Photos",
+          1368132146
         ]
       ],
-      "dates_start": 1376233356,
-      "dates_end": 1382593476,
-      "likes_avg": 28,
-      "likes_stdev": 18,
+      "dates_start": 1366482358,
+      "dates_end": 1401990137,
+      "likes_avg": 75,
+      "likes_stdev": 131,
       "comments_avg": 1,
-      "comments_stdev": 2,
-      "shares_avg": 5,
-      "shares_stdev": 8
+      "comments_stdev": 3,
+      "shares_avg": 6,
+      "shares_stdev": 10
     },
     {
-      "number": 32,
-      "important": [
-        "lineup",
-        "fifa manofthematch",
-        "fifa manofthematch present budweis worldcup",
-        "worldcup timelin",
-        "manofthematch present"
-      ],
+      "number": 31,
+      "important": [],
       "common": [
-        "fifa",
-        "fifa manofthematch",
-        "fifa manofthematch present",
-        "fifa manofthematch present budweis",
-        "fifa manofthematch present budweis worldcup",
-        "lineup",
-        "manofthematch present",
-        "manofthematch present budweis worldcup",
-        "manofthematch present budweis worldcup timelin",
-        "worldcup timelin"
+        "argvsirn",
+        "gervsgha start lineup",
+        "gervsgha start lineup fifa",
+        "gervsgha start lineup fifa manofthematch",
+        "korvsalg",
+        "korvsalg start",
+        "korvsalg start lineup",
+        "korvsalg start lineup fifa",
+        "korvsalg start lineup fifa manofthematch",
+        "nedvschi"
       ],
       "messages": [
         [
@@ -2538,209 +2672,89 @@
       "shares_stdev": 5
     },
     {
-      "number": 33,
+      "number": 32,
       "important": [
-        "world",
-        "world cup",
-        "budweis",
-        "vs",
-        "cup"
-      ],
-      "common": [
-        "budweis",
-        "cup",
-        "match",
-        "predict",
-        "predictor",
-        "puppi",
-        "puppi predictor",
-        "vs",
-        "world",
-        "world cup"
-      ],
-      "messages": [
-        [
-          "The games are getting bigger, but we're counting on our little guy to call them. See who the #PuppyPredictor has got for #NEDvsARG. Puppy Predictor: Netherlands vs. Argentina Semifinal | Budweiser World Cup 2014 Guess who's back? Watch the puppy's prediction for the Netherlands vs. Argentina semifinal match.",
-          1404910800
-        ],
-        [
-          "Not sure who'll win tomorrow\u2019s #WorldCup match? Never fear, the #PuppyPredictor is here. See who our little guy picks for #BRAvsGER. Puppy Predictor: Brazil vs. Germany Semifinal | Budweiser World Cup 2014 Guess who's back? Watch the puppy's prediction for the Brazil vs. Germany semifinal match.",
-          1404765001
-        ],
-        [
-          "Today's match is a tough one to call, let's see what our #PuppyPredictor says. Next up, #NEDvsCRC. Puppy Predictor: Netherlands vs. Costa Rica Quarterfinal | Budweiser World Cup 2014 Guess who's back? We're going to start predicting World Cup 2014 knockout matches with our Budweiser Puppy Predictor. Watch the puppy's prediction for the Ne...",
-          1404578191
-        ],
-        [
-          "It\u2019s a tough call for a human, but we have faith in our puppy. See who our Budweiser #PuppyPredictor picks for the win. #BRAvsCOL Puppy Predictor: Brazil vs. Colombia Quarterfinal | Budweiser World Cup 2014 Guess who's back? We're going to start predicting World Cup 2014 knockout matches with our Budweiser Puppy Predictor. Watch the puppy's prediction for the Br...",
-          1404490778
-        ],
-        [
-          "Take puppies. Add supermodels. See who'll win the #FRAvGER match with our new Budweiser #PuppyPredictor. Puppy Predictor: France vs. Germany Quarterfinal | Budweiser World Cup 2014 Guess who's back? We're going to start predicting World Cup 2014 knockout matches with our Budweiser Puppy Predictor. First up: France vs. Germany in the qua...",
-          1404476311
-        ],
-        [
-          "Guess who's back? This little guy. We're going to start predicting #WorldCup knockout matches with our Budweiser #PuppyPredictor. Timeline Photos",
-          1404406801
-        ]
-      ],
-      "dates_start": 1404427295,
-      "dates_end": 1404781998,
-      "likes_avg": 34,
-      "likes_stdev": 35,
-      "comments_avg": 1,
-      "comments_stdev": 1,
-      "shares_avg": 4,
-      "shares_stdev": 4
-    },
-    {
-      "number": 34,
-      "important": [
-        "festiv",
-        "philadelphia",
-        "budweisermadeinamerica",
-        "budweisermadeinamerica festiv",
-        "stage"
-      ],
-      "common": [
-        "budweisermadeinamerica",
-        "budweisermadeinamerica festiv",
-        "budweisermadeinamerica festiv timelin",
-        "budweisermadeinamerica philadelphia",
-        "festiv",
-        "live",
-        "miss",
-        "philadelphia",
-        "stage",
-        "timelin"
-      ],
-      "messages": [
-        [
-          "Imagine Dragons heated up the afternoon stage at #BudweiserMadeInAmerica in Philadelphia. Imagine Dragons at #BudweiserMadeInAmerica",
-          1378853099
-        ],
-        [
-          "Phoenix rocked the Rocky Stage on Day 1 of #BudweiserMadeInAmerica in Philadelphia. Phoenix at #BudweiserMadeInAmerica",
-          1378766535
-        ],
-        [
-          "Haim took to the Liberty Stage at #BudweiserMadeInAmerica in Philadelphia. Haim at #BudweiserMadeInAmerica",
-          1378575418
-        ],
-        [
-          "Click here to join us live at the #BudweiserMadeInAmerica festival: http://bit.ly/BMIALivestream Timeline Photos",
-          1378068074
-        ],
-        [
-          "THE GASLIGHT ANTHEM takes the Rocky Stage on Day 2 of #BudweiserMadeInAmerica in Philadelphia.\n\nCatch the rest of the action on the live stream: http://bit.ly/BMIALivestream The Gaslight Anthem at #BudweiserMadeInAmerica",
-          1378063262
-        ],
-        [
-          "Check out live photos and behind-the-scenes shots from Saturday at #BudweiserMadeInAmerica Festival in Philadelphia, featuring Empire of the Sun, Beyonc\u00e9, 2 Chainz, and more.\n\nThere's more to come \u2014 don't miss a beat all weekend long: http://bit.ly/BMIALivestream #BudweiserMadeInAmerica Festival: Day 1",
-          1378055990
-        ],
-        [
-          "Doors are open at #BudweiserMadeInAmerica festival.\r\n\r\nDon't miss a beat \u2014 check out the schedule and live stream here: http://bit.ly/BMIALivestream Timeline Photos",
-          1377962297
-        ],
-        [
-          "Don't miss out on the #BudweiserMadeInAmerica festival. We're streaming the whole festival starting Saturday. http://bit.ly/bmialineup Timeline Photos",
-          1377785819
-        ],
-        [
-          "Welcome Robert DeLong before he performs at the #BudweiserMadeInAmerica festival. Timeline Photos",
-          1377609167
-        ],
-        [
-          "MARK YOUR CALENDARS: We are only one week away from the live-stream of #BudweiserMadeInAmerica Festival. Timeline Photos",
-          1377360002
-        ]
-      ],
-      "dates_start": 1377646614,
-      "dates_end": 1378573317,
-      "likes_avg": 35,
-      "likes_stdev": 44,
-      "comments_avg": 1,
-      "comments_stdev": 1,
-      "shares_avg": 4,
-      "shares_stdev": 3
-    },
-    {
-      "number": 35,
-      "important": [
-        "minut",
         "watch",
-        "see",
-        "made",
-        "made minut"
+        "find",
+        "budweisermadeinamerica"
       ],
       "common": [
-        "empir",
-        "empir sun",
-        "haim",
-        "help",
-        "made",
-        "made minut",
-        "minut",
-        "robinson",
-        "see",
+        "absoul",
+        "budweisermadeinamerica",
+        "delong",
+        "django",
+        "find",
+        "phoenix",
+        "point phoenix",
+        "redlight",
+        "turn point phoenix",
         "watch"
       ],
       "messages": [
         [
-          "Watch BIG SEAN candidly talk about how Kanye West helped catapult his career. MADE IN A MINUTE | BIG SEAN",
-          1384361893
+          "Love \"Grand Theft Auto\"?  Learn how Yeasayer developed the sound that would eventually land them a spot in the video game. TURNING POINTS | YEASAYER",
+          1384448753
         ],
         [
-          "Don't quit your day job? Singer Kate Nash didn't follow that advice. Watch how she left behind the grind after one particularly pivotal gig. MADE IN A MINUTE | KATE NASH",
-          1382795540
+          "Watch Scottish rockers Django Django describe the \"musical funk nest\" that inspired their critically acclaimed first album. TURNING POINTS | DJANGO DJANGO",
+          1382618392
         ],
         [
-          "Watch how Kurt Vile went from banjo novice to selling out venues. MADE IN A MINUTE | KURT VILE",
-          1380896603
+          "Watch Phoenix trace their path to stardom through their Paris flat, early venues and hangouts. TURNING POINTS | PHOENIX",
+          1381319575
         ],
         [
-          "Learn how video games helped DJ Porter Robinson develop his unique sound. #BudweiserMadeInAmerica MADE IN A MINUTE | PORTER ROBINSON",
-          1380393648
+          "Learn how leaving their hometown helped Phoenix become the rock stars they are today. TURNING POINTS | PHOENIX",
+          1381233105
         ],
         [
-          "How do you know when you've made it? See what  Haim thinks. #BudweiserMadeForMusic MADE IN A MINUTE | HAIM",
-          1377264808
+          "Find out how WE ARE GTA scored a touring gig with Rihanna. #BudweiserMadeInAmerica TURNING POINTS | GTA",
+          1380211668
         ],
         [
-          "Empire of the Sun remembers the first time they stared into TV cameras. See why it was weird. MADE IN A MINUTE | EMPIRE OF THE SUN",
-          1375971526
+          "Find out what put Robert DeLong on the path to perform at the #BudweiserMadeinAmerica festival. TURNING POINTS | ROBERT DELONG",
+          1377729074
+        ],
+        [
+          "Watch Redlight unveil the moments that defined his career. #BudweiserMadeForMusic TURNING POINTS | REDLIGHT",
+          1377093600
+        ],
+        [
+          "After being raised in a record shop, find out why Ab-Soul can never go back. TURNING POINTS | AB-SOUL",
+          1375813380
+        ],
+        [
+          "Watch acclaimed electronic duo AlunaGeorge talk about the moment when they knew they'd made it as a band. #BUDWEISERMADE TURNING POINTS | ALUNAGEORGE",
+          1374253200
         ]
       ],
-      "dates_start": 1377364129,
-      "dates_end": 1383197209,
-      "likes_avg": 27,
-      "likes_stdev": 11,
+      "dates_start": 1376233356,
+      "dates_end": 1382593476,
+      "likes_avg": 28,
+      "likes_stdev": 18,
       "comments_avg": 1,
-      "comments_stdev": 1,
-      "shares_avg": 3,
-      "shares_stdev": 3
+      "comments_stdev": 2,
+      "shares_avg": 5,
+      "shares_stdev": 8
     },
     {
-      "number": 36,
+      "number": 33,
       "important": [
         "madeunderground",
-        "common",
-        "busker",
-        "ambassador",
-        "timelin"
+        "check",
+        "busker"
       ],
       "common": [
-        "ambassador",
+        "ambassador jami",
+        "ambassador jami common",
         "busker",
-        "common",
+        "check",
         "harri",
-        "jami",
-        "jami common",
+        "harri ambassador",
         "madeunderground",
         "sam",
         "sam harri",
-        "timelin"
+        "sam harri ambassador"
       ],
       "messages": [
         [
@@ -2764,55 +2778,324 @@
           1407762347
         ],
         [
-          "Every busker has a dream. We sent out Jamie N Commons and Sam Harris of X Ambassadors to make some of those dreams a reality on the Budweiser #MadeInAmerica stage: http://youtu.be/PlYeIDxFJ2Y #MADEUnderground Timeline Photos",
-          1407502801
-        ],
-        [
           "#MADEUnderground kicks off in London. We\u2019re looking for the 1st busker to perform with Jamie N Commons & X Ambassadors at the Budweiser #MADEinAmerica festival. Timeline Photos",
           1407070512
-        ],
-        [
-          "The search for an amazing busker to perform their hit single \"Jungle\" will take Sam Harris and Jamie N Commons to the concrete jungle, New York City.\n\nIt all goes down on #MadeUnderground #ComingSoon #MADEforMusic: http://youtu.be/I-FI0Eqx62M Timeline Photos",
-          1406724679
-        ],
-        [
-          "Sam Harris and Jamie N Commons scoping out local talent in London looking for the next busker to remix their hit \"Jungle\": http://youtu.be/I-FI0Eqx62M #MadeUnderground #MADEforMusic Timeline Photos",
-          1406638801
         ],
         [
           "The creators of the smash hit \u201cJungle\u201d, Sam Harris from X Ambassadors and Jamie N Commons are on a mission to put together the first global group of street performers from around the world.\n\nCheck out the trailer for #MadeUnderground. #MADEforMusic",
           1406558265
         ]
       ],
-      "dates_start": 1406462318,
-      "dates_end": 1410758521,
-      "likes_avg": 35,
-      "likes_stdev": 16,
+      "dates_start": 1407117375,
+      "dates_end": 1411522030,
+      "likes_avg": 33,
+      "likes_stdev": 17,
       "comments_avg": 0,
-      "comments_stdev": 0,
+      "comments_stdev": 1,
       "shares_avg": 3,
       "shares_stdev": 2
     },
     {
+      "number": 34,
+      "important": [
+        "take",
+        "win"
+      ],
+      "common": [
+        "chanc",
+        "nomin",
+        "nomin budweis",
+        "nomin budweis hero",
+        "send",
+        "take",
+        "win",
+        "worldcup nomin",
+        "worldcup nomin budweis",
+        "worldcup nomin budweis hero"
+      ],
+      "messages": [
+        [
+          "Dreaming of being in the stands for the #WorldCup? You could win a once-in-a-lifetime chance to be there live.\n\nThere's only 2 days left. Enter your Budweiser hero now: www.RiseAsOne.com Timeline Photos",
+          1399489200
+        ],
+        [
+          "It takes skill to play in the #WorldCup. It takes heart to win. It also takes heart to unite a community through #football. \n\nSubmit your Budweiser Hero story at www.RiseAsOne.com Timeline Photos",
+          1398868508
+        ],
+        [
+          "Vote for a Budweiser Hero who inspires you through #football at www.RiseAsOne.com. \n\nYou can send someone deserving to the #WorldCup.",
+          1398707137
+        ],
+        [
+          "It's hard not to be inspired by our Budweiser Heroes #football stories. Vote now to send a lucky favorite to the #WorldCup at www.RiseAsOne.com Timeline Photos",
+          1398429815
+        ],
+        [
+          "The #WorldCup is almost here. Would you like to be there?\n\nNominate a Budweiser Hero who's doing incredible work through #football, and you just might find yourself in Rio: www.RiseAsOne.com Timeline Photos",
+          1397486262
+        ],
+        [
+          "The biggest sporting event in the world only happens once every four years.\n\nFor a chance to go to the 2014 FIFA #WorldCup, nominate a Budweiser Hero who is doing amazing work through football, at www.RiseAsOne.com Timeline Photos",
+          1396880181
+        ],
+        [
+          "Dreaming of a trip to the 2014 FIFA #WorldCup? \n\nNominate your Budweiser Hero for a chance to win a trip to Brazil \u2013 here's how: www.RiseAsOne.com Timeline Photos",
+          1396020218
+        ]
+      ],
+      "dates_start": 1396843355,
+      "dates_end": 1399122735,
+      "likes_avg": 34,
+      "likes_stdev": 14,
+      "comments_avg": 1,
+      "comments_stdev": 0,
+      "shares_avg": 3,
+      "shares_stdev": 3
+    },
+    {
+      "number": 35,
+      "important": [
+        "minut",
+        "made minut",
+        "watch",
+        "budweisermadeinamerica"
+      ],
+      "common": [
+        "america",
+        "budweisermadeinamerica",
+        "budweisermadeinamerica made",
+        "kendrick",
+        "kendrick lamar",
+        "lamar",
+        "made america",
+        "made minut",
+        "minut",
+        "watch"
+      ],
+      "messages": [
+        [
+          "Cheers to the first day of Budweiser's MADE in America Festival. The weekend kicked off with a star-studded lineup and fans who rocked out all night. 2014 Budweiser MADE in America Day 1",
+          1409494097
+        ],
+        [
+          "Watch as Austin Brown, nephew of Michael Jackson, gives praise to the Jackson DNA while inventing a sound of his own. MADE ME | AUSTIN BROWN",
+          1384787678
+        ],
+        [
+          "Watch BIG SEAN candidly talk about how Kanye West helped catapult his career. MADE IN A MINUTE | BIG SEAN",
+          1384361893
+        ],
+        [
+          "Don't quit your day job? Singer Kate Nash didn't follow that advice. Watch how she left behind the grind after one particularly pivotal gig. MADE IN A MINUTE | KATE NASH",
+          1382795540
+        ],
+        [
+          "Watch how Kurt Vile went from banjo novice to selling out venues. MADE IN A MINUTE | KURT VILE",
+          1380896603
+        ],
+        [
+          "Watch Kurt Vile describe his transformation from blue collar beginnings to rock star in the making. MADE ME | KURT VILE",
+          1380636425
+        ],
+        [
+          "Snag a free download of #BudweiserMadeInAmerica artist Kendrick Lamar\u2019s song Compton here: http://bit.ly/madedl",
+          1380454223
+        ],
+        [
+          "Learn how video games helped DJ Porter Robinson develop his unique sound. #BudweiserMadeInAmerica MADE IN A MINUTE | PORTER ROBINSON",
+          1380393648
+        ],
+        [
+          "Check out the true meaning behind WALK THE MOON's most popular song. #BudweiserMadeInAmerica MADE ME | WALK THE MOON",
+          1379276672
+        ],
+        [
+          "Watch when Wolfgang Gartner realized he could make his dreams come true with music. #BudweiserMadeInAmerica MADE IN A MINUTE | WOLFGANG GARTNER",
+          1379080800
+        ],
+        [
+          "Watch a sneak peek of Ron Howard's documentary filmed at Budweiser Made in America 2012, debuting on September 7 at the Toronto International Film Festival: Made in America Trailer Don't miss the premiere of Made in America October 11th, 2013 on Showtime.",
+          1378468809
+        ],
+        [
+          "The crowd can't hold their excitement back for Macklemore at #BudweiserMadeInAmerica. Timeline Photos",
+          1378076360
+        ],
+        [
+          "Photos from Sunday afternoon at Budweiser Made in America, featuring Kendrick Lamar, Wiz Khalifa, Solange, and more.\n\nThe party continues all night \u2014 tune in: http://bit.ly/BMIALivestream Sunday Afternoon at #BudweiserMadeInAmerica",
+          1378072456
+        ],
+        [
+          "Excitement all around on Day 2 of #BudweiserMadeInAmerica. \n\nWatch all the action on the live stream: http://bit.ly/BMIALivestream Timeline Photos",
+          1378060610
+        ],
+        [
+          "See your favorite musicians streaming live from #BudweiserMadeInAmerica at http://bit.ly/bmialineup - check back this weekend. Made In America Festival Made In America Festival Official Lineup",
+          1377711804
+        ],
+        [
+          "Watch Kendrick Lamar talk about the track that put him in the room with a legend. #BudweiserMadeInAmerica MADE ME | KENDRICK LAMAR",
+          1377530365
+        ],
+        [
+          "Watch a quick video on Kendrick Lamar connecting with another Compton rapper. #BudweiserMadeInAmerica MADE FOR MUSIC | KENDRICK LAMAR",
+          1377440220
+        ],
+        [
+          "How do you know when you've made it? See what  Haim thinks. #BudweiserMadeForMusic MADE IN A MINUTE | HAIM",
+          1377264808
+        ],
+        [
+          "Empire of the Sun remembers the first time they stared into TV cameras. See why it was weird. MADE IN A MINUTE | EMPIRE OF THE SUN",
+          1375971526
+        ]
+      ],
+      "dates_start": 1374003718,
+      "dates_end": 1388183074,
+      "likes_avg": 24,
+      "likes_stdev": 13,
+      "comments_avg": 0,
+      "comments_stdev": 1,
+      "shares_avg": 3,
+      "shares_stdev": 2
+    },
+    {
+      "number": 36,
+      "important": [
+        "day"
+      ],
+      "common": [
+        "day",
+        "day budweisermadeinamerica",
+        "kendrick lamar",
+        "rocki",
+        "rocki stage",
+        "rocki stage day",
+        "rocki stage day budweisermadeinamerica",
+        "rocki stage day budweisermadeinamerica philadelphia",
+        "stage budweisermadeinamerica",
+        "stage budweisermadeinamerica philadelphia"
+      ],
+      "messages": [
+        [
+          "Imagine Dragons heated up the afternoon stage at #BudweiserMadeInAmerica in Philadelphia. Imagine Dragons at #BudweiserMadeInAmerica",
+          1378853099
+        ],
+        [
+          "Phoenix rocked the Rocky Stage on Day 1 of #BudweiserMadeInAmerica in Philadelphia. Phoenix at #BudweiserMadeInAmerica",
+          1378766535
+        ],
+        [
+          "Kendrick Lamar brought his energy to the Rocky Stage at #BudweiserMadeInAmerica in Philadelphia. Kendrick Lamar at #BudweiserMadeInAmerica",
+          1378653738
+        ],
+        [
+          "Haim took to the Liberty Stage at #BudweiserMadeInAmerica in Philadelphia. Haim at #BudweiserMadeInAmerica",
+          1378575418
+        ],
+        [
+          "THE GASLIGHT ANTHEM takes the Rocky Stage on Day 2 of #BudweiserMadeInAmerica in Philadelphia.\n\nCatch the rest of the action on the live stream: http://bit.ly/BMIALivestream The Gaslight Anthem at #BudweiserMadeInAmerica",
+          1378063262
+        ]
+      ],
+      "dates_start": 1378306067,
+      "dates_end": 1378858752,
+      "likes_avg": 2,
+      "likes_stdev": 1,
+      "comments_avg": 0,
+      "comments_stdev": 0,
+      "shares_avg": 2,
+      "shares_stdev": 1
+    },
+    {
       "number": 37,
       "important": [
-        "madeunderground",
+        "team",
+        "world"
+      ],
+      "common": [
+        "episod",
+        "modern",
+        "modern stori",
+        "one modern",
+        "one modern stori",
+        "rise one modern",
+        "rise one modern stori",
+        "team",
+        "vice",
+        "world"
+      ],
+      "messages": [
+        [
+          "\"We aren't going to let politics play a part in this,\" - Steve Sampson, 1998 U.S. Soccer Coach.\n\nWatch our #RiseAsOne doc, Breaking Barriers, to see America and Iran put aside political differences in the name of the beautiful game.  Breaking Barriers: United States vs. Iran, 1998 World Cup | Fox Sports Rise As One Series At the 1998 FIFA World Cup in France, The United States and Iran Men's National Teams put aside their political differences in the name of the Beautiful Game...",
+          1401191610
+        ],
+        [
+          "We captured the incredible story of our Budweiser Hero, Trevor Hutton, a man who brought a torn community together through the power of football.\n\nMay Trevor Hutton's legacy live on. #RiseAsOne  Budweiser Rise As One Hero Stories, Ep. 2: \"The Corner League\" Enjoy Responsibly \u00a92014 Anheuser-Busch, Budweiser\u00ae Beer, St. Louis, MO Brent is one of the most ethnically diverse neighborhoods in London, and that can lead...",
+          1400593304
+        ],
+        [
+          "A 47-year-old Chinese man worked for 9 years building his town a football pitch with his bare hands.\n\nKnown around town as \"The Football Pitch Builder,\" we're proud to call him our Budweiser Hero, and award him a trip to the World Cup: http://youtu.be/o2SIaOE74CY #RiseAsOne Budweiser Rise As One Hero Stories, Episode 1: \"30 Year Job\" Enjoy Responsibly \u00a92014 Anheuser-Busch, Budweiser\u00ae Beer, St. Louis, MO There aren't a lot of quality football pitches in rural China. One man in the central ...",
+          1399654800
+        ],
+        [
+          "The Palestinian Women's National Team has had to fight every step of the way. Our VICE documentary celebrates their incredible strength. #RiseAsOne  Budweiser Rise As One Modern Stories, Episode 6: The Right to Play In this episode of Rise As One we meet the Palestinian Women's National Team as they prepare to challenge a men's team to see how football can bridge cultura...",
+          1399470176
+        ],
+        [
+          "We are proud to announce that Budweiser will take the U.S. National Amputee Soccer Team to the Amputee World Cup in Mexico. \n\nThe team is a true inspiration and their story one of endurance and perseverance. Watch our latest VICE episode now.  Budweiser Rise As One Modern Stories, Episode 5: \"Play On\" Tryouts have begun for the U.S. National Amputee Football Team in advance of the Amputee Football World Cup. After a recruiting clinic with wounded veterans ...",
+          1398353411
+        ],
+        [
+          "With 21 million people and only 80 public pitches, watch how football fans in Beijing make it work.\n\nCheck out \"The People's Game,\" our latest VICE Episode. #RiseAsOne Budweiser Rise As One Modern Stories Episode 3: \"The People's Game\" China has never had much luck promoting football. You don't often see it played on the streets, in backyards, or schoolyards. Yet there are growing grassroot...",
+          1397128555
+        ],
+        [
+          "No field, no problem. With no land available, the Koh Panyee community came together to build a floating football field. \n\nWatch \"Floating Field\" in our latest VICE Episode: http://youtu.be/tDZeLujoLUA #RiseAsOne Budweiser Rise As One Modern Stories: Floating Field In Koh Panyee, a tiny island floating off the coast of Thailand, a group of football-crazed fisherman encounter a unique problem: not an inch of dry land on ...",
+          1396528744
+        ],
+        [
+          "We traveled to Rio to capture the incredible story of Urece, a football school for the blind.\n\nCheck out the first episode of our VICE #RiseAsOne online series now: Budweiser Rise As One Modern Stories: Football Is Believing We travel to Rio De Janeiro to explore \"Blind Football\" -- a highly competitive form of the sport played by blind and partially-sighted athletes -- and watch...",
+          1395932515
+        ],
+        [
+          "Our #RiseAsOne series with VICE tells stories about how football inspires individuals to unite and overcome adversity, personal challenges, or social barriers. \n\nCheck it out here. Budweiser Rise As One Modern Stories: Trailer As we approach the 2014 FIFA World Cup\u2122, Budweiser presents a journey around the globe to uncover the most inspiring football stories of triumph in the face ...",
+          1395328358
+        ],
+        [
+          "Football is more than a game. It is a force that has halted wars and inspired nations during their darkest hours.\n\nDiscover how in our #RiseAsOne documentary series with FOX Sports Originals. Rise As One Documentary Series: Budweiser 60s Trailer Leading up to the 2014 FIFA World Cup\u2122 Brazil, Budweiser has partnered with FOX Sports Originals to create a six-part documentary series, revealing how the b...",
+          1394035900
+        ]
+      ],
+      "dates_start": 1395548660,
+      "dates_end": 1400094813,
+      "likes_avg": 15,
+      "likes_stdev": 4,
+      "comments_avg": 0,
+      "comments_stdev": 0,
+      "shares_avg": 2,
+      "shares_stdev": 0
+    },
+    {
+      "number": 38,
+      "important": [
         "budweis",
+        "dream",
         "busker",
         "stage",
-        "best"
+        "madeunderground timelin"
       ],
       "common": [
         "best",
-        "best busker",
         "budweis",
         "budweis madeinamerica",
         "busker",
+        "dream",
         "festiv",
         "madeinamerica",
-        "madeunderground",
-        "stage",
-        "timelin"
+        "madeunderground timelin",
+        "madeunderground timelin photo",
+        "stage"
       ],
       "messages": [
         [
@@ -2832,6 +3115,10 @@
           1410008404
         ],
         [
+          "The first time you hear the crowd roar for you. http://youtu.be/SEgDg_luqPM #MADEUnderground Timeline Photos",
+          1409835600
+        ],
+        [
           "All dreams lead to #Budweiser #MADEinAmerica. Watch your favorite musicians perform on the biggest festival stage right now! http://www.madeinamericafest.com/ Timeline Photos",
           1409515201
         ],
@@ -2840,16 +3127,8 @@
           1409428803
         ],
         [
-          "Streets filled with culture, beautiful people and great music. Today\u2019s #MADEUnderground takes you to #Rio where we\u2019ll make one busker\u2019s dream come true.",
-          1409144401
-        ],
-        [
           "From the beach in #Rio to the main stage. Find out which Brazilian busker will have their dreams come true this weekend at  #Budweiser #MadeInAmerica. #MADEUnderground http://youtu.be/y1MzFwOmbOA Timeline Photos",
           1409058001
-        ],
-        [
-          "Football, dance, and music, #Rio has a culture of playing in the streets. Here\u2019s your sneak peek of #MADEunderground.",
-          1408971601
         ],
         [
           "Buskers in underground #Philly have to earn their spot. \u201cEvery day as a busker was a battle.\u201d #MADEUnderground http://youtu.be/M5TcTQ9E1h0 Timeline Photos",
@@ -2860,12 +3139,12 @@
           1408108423
         ],
         [
-          "Underground is a lifestyle, and every busker lives it. Check out our trip to NYC and meet the city\u2019s best buskers as they show us a day in the life. #MADEUnderground #MADEforMusic",
-          1407934831
-        ],
-        [
           "We took an up close & personal look at life as a busker in London on our global tour to recruit the world's best buskers for our Budweiser #MadeInAmerica festival: http://youtu.be/PlYeIDxFJ2Y Timeline Photos",
           1407589201
+        ],
+        [
+          "Every busker has a dream. We sent out Jamie N Commons and Sam Harris of X Ambassadors to make some of those dreams a reality on the Budweiser #MadeInAmerica stage: http://youtu.be/PlYeIDxFJ2Y #MADEUnderground Timeline Photos",
+          1407502801
         ],
         [
           "The wait is over. #MADEUnderground kicks off today with our 1st stop in Londontown to recruit a busker for our Budweiser #MadeInAmerica festival.",
@@ -2876,128 +3155,12 @@
           1407244866
         ]
       ],
-      "dates_start": 1407657440,
-      "dates_end": 1410765083,
-      "likes_avg": 39,
-      "likes_stdev": 23,
-      "comments_avg": 0,
-      "comments_stdev": 0,
-      "shares_avg": 3,
-      "shares_stdev": 2
-    },
-    {
-      "number": 38,
-      "important": [
-        "one",
-        "stori",
-        "worldcup",
-        "hero",
-        "footbal"
-      ],
-      "common": [
-        "budweis",
-        "budweis hero",
-        "episod",
-        "footbal",
-        "hero",
-        "one",
-        "rise",
-        "rise one",
-        "stori",
-        "worldcup"
-      ],
-      "messages": [
-        [
-          "Great stories demand a beer with a story of its own. #ThisBudsForYou Timeline Photos",
-          1467468000
-        ],
-        [
-          "It\u2019s a day he\u2019ll never forget. Meet Sandip, local football coach from India, who's inspiring story earned him the chance to present today\u2019s #ManOfTheMatch trophy.",
-          1403717025
-        ],
-        [
-          "Local coach Sandip Moitra reached out to us from India. We were so inspired by his story, we sent Sandip to the #WorldCup to present the #ManOfTheMatch trophy tomorrow, for the #ECUvsFRA match. \n\nWatch his heartwarming story now.",
-          1403645401
-        ],
-        [
-          "An incredible journey comes full circle. \n\nDavid shared his story with us, and we gave him the chance to present the #ManOfTheMatch award today at the #WorldCup. Watch his story.",
-          1403110857
-        ],
-        [
-          "We captured the incredible story of our Budweiser Hero, Trevor Hutton, a man who brought a torn community together through the power of football.\n\nMay Trevor Hutton's legacy live on. #RiseAsOne  Budweiser Rise As One Hero Stories, Ep. 2: \"The Corner League\" Enjoy Responsibly \u00a92014 Anheuser-Busch, Budweiser\u00ae Beer, St. Louis, MO Brent is one of the most ethnically diverse neighborhoods in London, and that can lead...",
-          1400593304
-        ],
-        [
-          "A 47-year-old Chinese man worked for 9 years building his town a football pitch with his bare hands.\n\nKnown around town as \"The Football Pitch Builder,\" we're proud to call him our Budweiser Hero, and award him a trip to the World Cup: http://youtu.be/o2SIaOE74CY #RiseAsOne Budweiser Rise As One Hero Stories, Episode 1: \"30 Year Job\" Enjoy Responsibly \u00a92014 Anheuser-Busch, Budweiser\u00ae Beer, St. Louis, MO There aren't a lot of quality football pitches in rural China. One man in the central ...",
-          1399654800
-        ],
-        [
-          "A Budweiser Hero proves that football can be a force for good, brightening the lives of millions. \n\nThanks to everyone from across the globe who entered. #RiseAsOne Timeline Photos",
-          1399640400
-        ],
-        [
-          "Dreaming of being in the stands for the #WorldCup? You could win a once-in-a-lifetime chance to be there live.\n\nThere's only 2 days left. Enter your Budweiser hero now: www.RiseAsOne.com Timeline Photos",
-          1399489200
-        ],
-        [
-          "The Palestinian Women's National Team has had to fight every step of the way. Our VICE documentary celebrates their incredible strength. #RiseAsOne  Budweiser Rise As One Modern Stories, Episode 6: The Right to Play In this episode of Rise As One we meet the Palestinian Women's National Team as they prepare to challenge a men's team to see how football can bridge cultura...",
-          1399470176
-        ],
-        [
-          "Vote for a Budweiser Hero who inspires you through #football at www.RiseAsOne.com. \n\nYou can send someone deserving to the #WorldCup.",
-          1398707137
-        ],
-        [
-          "It's hard not to be inspired by our Budweiser Heroes #football stories. Vote now to send a lucky favorite to the #WorldCup at www.RiseAsOne.com Timeline Photos",
-          1398429815
-        ],
-        [
-          "We are proud to announce that Budweiser will take the U.S. National Amputee Soccer Team to the Amputee World Cup in Mexico. \n\nThe team is a true inspiration and their story one of endurance and perseverance. Watch our latest VICE episode now.  Budweiser Rise As One Modern Stories, Episode 5: \"Play On\" Tryouts have begun for the U.S. National Amputee Football Team in advance of the Amputee Football World Cup. After a recruiting clinic with wounded veterans ...",
-          1398353411
-        ],
-        [
-          "They call it \"the beautiful game\" for a reason, and the #WorldCup is its grandest stage.\n\nSubmit a story about someone you know who does amazing work through football \u2013 you could win a trip to Rio: www.RiseAsOne.com Timeline Photos",
-          1398085200
-        ],
-        [
-          "The #WorldCup is almost here. Would you like to be there?\n\nNominate a Budweiser Hero who's doing incredible work through #football, and you just might find yourself in Rio: www.RiseAsOne.com Timeline Photos",
-          1397486262
-        ],
-        [
-          "With 21 million people and only 80 public pitches, watch how football fans in Beijing make it work.\n\nCheck out \"The People's Game,\" our latest VICE Episode. #RiseAsOne Budweiser Rise As One Modern Stories Episode 3: \"The People's Game\" China has never had much luck promoting football. You don't often see it played on the streets, in backyards, or schoolyards. Yet there are growing grassroot...",
-          1397128555
-        ],
-        [
-          "The biggest sporting event in the world only happens once every four years.\n\nFor a chance to go to the 2014 FIFA #WorldCup, nominate a Budweiser Hero who is doing amazing work through football, at www.RiseAsOne.com Timeline Photos",
-          1396880181
-        ],
-        [
-          "No field, no problem. With no land available, the Koh Panyee community came together to build a floating football field. \n\nWatch \"Floating Field\" in our latest VICE Episode: http://youtu.be/tDZeLujoLUA #RiseAsOne Budweiser Rise As One Modern Stories: Floating Field In Koh Panyee, a tiny island floating off the coast of Thailand, a group of football-crazed fisherman encounter a unique problem: not an inch of dry land on ...",
-          1396528744
-        ],
-        [
-          "Dreaming of a trip to the 2014 FIFA #WorldCup? \n\nNominate your Budweiser Hero for a chance to win a trip to Brazil \u2013 here's how: www.RiseAsOne.com Timeline Photos",
-          1396020218
-        ],
-        [
-          "We traveled to Rio to capture the incredible story of Urece, a football school for the blind.\n\nCheck out the first episode of our VICE #RiseAsOne online series now: Budweiser Rise As One Modern Stories: Football Is Believing We travel to Rio De Janeiro to explore \"Blind Football\" -- a highly competitive form of the sport played by blind and partially-sighted athletes -- and watch...",
-          1395932515
-        ],
-        [
-          "We are looking for great stories of amazing people who are changing the world through football \u2013 they could win a trip to the 2014 #WorldCup.\n\nNominate them here: www.bit.ly/WC_Hero Timeline Photos",
-          1395414001
-        ],
-        [
-          "Our #RiseAsOne series with VICE tells stories about how football inspires individuals to unite and overcome adversity, personal challenges, or social barriers. \n\nCheck it out here. Budweiser Rise As One Modern Stories: Trailer As we approach the 2014 FIFA World Cup\u2122, Budweiser presents a journey around the globe to uncover the most inspiring football stories of triumph in the face ...",
-          1395328358
-        ]
-      ],
-      "dates_start": 1387105382,
-      "dates_end": 1416807337,
-      "likes_avg": 24,
-      "likes_stdev": 13,
+      "dates_start": 1407603397,
+      "dates_end": 1410890388,
+      "likes_avg": 43,
+      "likes_stdev": 22,
       "comments_avg": 1,
-      "comments_stdev": 1,
+      "comments_stdev": 0,
       "shares_avg": 2,
       "shares_stdev": 2
     }

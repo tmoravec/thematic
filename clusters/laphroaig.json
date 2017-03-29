@@ -4,283 +4,34 @@
   "globalstats": {
     "fan_count": 336586,
     "messages": 613,
-    "likes_avg": 924,
-    "likes_stdev": 797,
-    "comments_avg": 51,
-    "comments_stdev": 112,
-    "shares_avg": 86,
-    "shares_stdev": 137,
+    "likes_avg": 847,
+    "likes_stdev": 755,
+    "comments_avg": 42,
+    "comments_stdev": 75,
+    "shares_avg": 77,
+    "shares_stdev": 113,
     "graph_uri": "clusters/laphroaig.png"
   },
   "clusters": [
     {
       "number": 1,
       "important": [
-        "make",
-        "onli",
-        "time",
-        "laphroaig",
-        "thing"
-      ],
-      "common": [
-        "ask",
-        "laphroaig",
-        "make",
-        "one",
-        "onli",
-        "peat",
-        "thing",
-        "time",
-        "timelin",
-        "whiski"
-      ],
-      "messages": [
-        [
-          "We only use 7 pot stills to make Laphroaig. When it\u2019s time to replace them, we make them exactly the same. Even down to the dents. Timeline Photos",
-          1488218521
-        ],
-        [
-          "The only thing our Friends seem to enjoy more than our whisky is our hospitality. Isn\u2019t it time you came to visit? Timeline Photos",
-          1488132061
-        ],
-        [
-          "One of the best things about being a Friend of Laphroaig? We pay you rent in the form of whisky. Find out more https://www.laphroaig.com/friends/registration/CodeCheck.aspx Timeline Photos",
-          1487268121
-        ],
-        [
-          "\"How many roads must a man walk down?\" Asked Bob Dylan. Just one. But it's more of a path really. Timeline Photos",
-          1484849041
-        ],
-        [
-          "In the time it takes to peat our malt, you could read Shakespeare\u2019s Hamlet 4 times from start to finish and still have time for a dram. Though there are normally other things we have to do at the distillery. Timeline Photos",
-          1483553161
-        ],
-        [
-          "What do you buy the person who has everything? Good whisky. You can never have too much. Timeline Photos",
-          1482343380
-        ],
-        [
-          "Seems there are nearly as many opinions about our Christmas jumper as our whisky! Only difference is, our whisky isn't just for Christmas http://www.laphroaig.com/shop/product.aspx?ShopItemID=115 Timeline Photos",
-          1481220000
-        ],
-        [
-          "Rik might be one of the newer Friends of Laphroaig, but that hasn't stopped him falling head over heels for Lore. Thanks Rik. Give us your opinion here http://www.laphroaig.com/opinions/ Timeline Photos",
-          1480617001
-        ],
-        [
-          "Some people might complain about the rain. We just get on with it. Without it, our glorious peat bogs wouldn\u2019t be possible. A fair trade we feel. Timeline Photos",
-          1479751441
-        ],
-        [
-          "Whisky. Water. The two things that Islay does best. Timeline Photos",
-          1479146642
-        ],
-        [
-          "One in four Ileach (residents of Islay) speak Scottish Gaelic. If you ever need directions, just ask \u201cC\u00e0ite a bheil an taigh-staile Laphroaig\u201d.\n\nWarning: Three in four will be very confused. Timeline Photos",
-          1478196061
-        ],
-        [
-          "The Master Distiller is waiting to hear your opinion on his creations and if it's good enough you can let him know it in person.\n\nEnter yours at laphroaig.com/opinions Timeline Photos",
-          1468684801
-        ],
-        [
-          "Four fathers, one whisky, many opinions.\n\nHappy Father's Day to all the dads out there!",
-          1466348400
-        ],
-        [
-          "If your Valentine likes whisky, there's only one thing you need in preparation for Sunday... Laphroaig lip balm.\n\nhttp://laphroaig.com/shop/product.aspx?ShopItemID=35 Timeline Photos",
-          1455130924
-        ],
-        [
-          "The temperatures might be dropping, but we're keeping warm by the peat fire. Timeline Photos",
-          1448737201
-        ],
-        [
-          "Take your time. Enjoy your dram responsibly.\n\nhttps://www.drinkaware.co.uk/ Timeline Photos",
-          1439058601
-        ],
-        [
-          "If you needed to describe Laphroaig with one word only, what would it be? \n\nhttp://www.laphroaig.com/opinions/ Timeline Photos",
-          1422995400
-        ],
-        [
-          "\u201cIf a sharknado combined with the great Chicago fire this whisky would be the result\u2026only with less death.\u201d - Colin J.\n\nClick the link to enter your opinion on our website. It just might make it in our ads - fame at last: http://bit.ly/OpinionsWelcome Timeline Photos",
-          1405625100
-        ],
-        [
-          "We asked a group of people to taste our whisky for the first time. This is what they said, 100% unscripted. \n\nNo feelings were hurt in the making of this video.",
-          1404918001
-        ],
-        [
-          "One is too little, but two is too much. Peat responsibly. Timeline Photos",
-          1404590400
-        ],
-        [
-          "\u201cThis is the only whisky I have that makes the dog leave the room.\u201d\n\nHave an opinion on Laphroaig? Click on the link below and enter yours. It might make it in one of our ads. http://bit.ly/OpinionsWelcome Timeline Photos",
-          1404231820
-        ],
-        [
-          "We asked a father and son to taste our whisky for the first time. This is what they said, 100% unscripted. \n\nHappy Father\u2019s Day from your friends at Laphroaig.",
-          1402515601
-        ],
-        [
-          "We asked 9 people to taste Laphroaig for the first time. This is what they said, 100% unscripted. #OpinionsWelcome",
-          1401995400
-        ],
-        [
-          "If aging in two types of wood is good, then it\u2019s only logical that our Triple Wood is even better.\n\nLearn More: http://www.laphroaig.com/whiskies/triple-wood.aspx Timeline Photos",
-          1400425800
-        ],
-        [
-          "Over the winter months, we have built a \u2018welly\u2019 room; now you can be sure you are stepping into warm dry wellies when heading off in search of your personal square foot of Islay. Have you had the pleasure of standing on your personal square foot of Islay? Photos from Laphroaig's post",
-          1393596945
-        ],
-        [
-          "One of our fans asked us how exactly we pronounce Laphroaig. Brian Cox it's over to you! How to Pronounce Laphroaig Proud Scot and esteemed actor Brian Cox helps order a scotch.",
-          1389696000
-        ],
-        [
-          "We had our first big storm of the season this morning with winds approaching 100 mph. So far no damage to the distillery \u2013 but our 200 year old sea walls are used to this  sort of thing. Timeline Photos",
-          1386257429
-        ],
-        [
-          "Catch of the day! Only available at the distillery, Scottish Salmon, cured in 10 Year Old Laphroaig and smoked using wood from ex-Laphroaig casks and some hand-cut Laphroaig Islay peat. What is your favourite Laphroaig and food pairing? Timeline Photos",
-          1383748801
-        ],
-        [
-          "We're proud to be the only distillery to own and cut peats on our own bog. Just another thing that makes our precious  Laphroaig so unique! Sl\u00e0inte to the weekend everyone. Peat-Cutting Season on Islay",
-          1368788592
-        ],
-        [
-          "One of our personal favourites is \"peat monster\"! How would you describe Laphroaig in just two words? Timeline Photos",
-          1368177991
-        ]
-      ],
-      "dates_start": 1395687664,
-      "dates_end": 1479566910,
-      "likes_avg": 1151,
-      "likes_stdev": 903,
-      "comments_avg": 85,
-      "comments_stdev": 160,
-      "shares_avg": 185,
-      "shares_stdev": 364
-    },
-    {
-      "number": 2,
-      "important": [
-        "make",
-        "friend",
-        "happi",
-        "laphroaig",
-        "islay"
-      ],
-      "common": [
-        "dram",
-        "friend",
-        "glass",
-        "happi",
-        "islay",
-        "laphroaig",
-        "make",
-        "rais",
-        "rais dram",
-        "timelin"
-      ],
-      "messages": [
-        [
-          "At Laphroaig there is a saying, \"We don't make friends easily but the ones we do are for life.\" Timeline Photos",
-          1484157757
-        ],
-        [
-          "Can\u2019t make it to our remote island but want to get to know our distillery? Take a video tour on our website. If you have a waterproof phone and would like an authentic Islay experience, watch in the shower. Just make sure you turn it to the coldest setting...\nhttp://bit.ly/2dLtvFm Timeline Photos",
-          1478887560
-        ],
-        [
-          "Wishing you all the happiness during the festive season. Timeline Photos",
-          1419442207
-        ],
-        [
-          "Lets raise a glass to our Celtic cousins. After all they did invent whiskey (they say), but it took the Scots to make it taste nice ;-)  Happy St. Patrick's day to all! Sl\u00e1inte. Timeline Photos",
-          1395050811
-        ],
-        [
-          "Here's to a happy and healthy 2014 for all of our friends! Did you raise a dram over the festive season? Timeline Photos",
-          1388661518
-        ],
-        [
-          "A very Happy Hogmanay to our Friends from the team at Laphroaig",
-          1388512619
-        ],
-        [
-          "Winter nights are drawing in on Islay, so here's a dram of Laphroaig to raise our spirits! Timeline Photos",
-          1382697602
-        ],
-        [
-          "Do you know where the tradition of clinking glasses comes from? Tradition has it that you or I would purposefully slosh whisky into the glass of our enemy, to make sure we weren't being poisoned. Thankfully, we're all friends here. Slainte! Timeline Photos",
-          1375702365
-        ],
-        [
-          "Here's raising a dram of Laphroaig to our American friends on the fourth of July! Timeline Photos",
-          1372936009
-        ],
-        [
-          "Will you be raising a dram of Laphroaig this weekend? Sl\u00e0inte! Timeline Photos",
-          1371207600
-        ],
-        [
-          "Here's to a happy and healthy 2013 for all of our friends! Did you raise a glass of Laphroaig over the festive season? Timeline Photos",
-          1357118676
-        ],
-        [
-          "It\u2019s looking festive, but not quite like the white Christmas from 2010 here on Islay. We wish all of our friends the warmest Season\u2019s Greetings, and a very Happy New Year. Sl\u00e0inte! Timeline Photos",
-          1355991187
-        ],
-        [
-          "A huge thank you to our Friends of Laphroaig and all who take part in our monthly website auctions \u2013 you\u2019ve helped raise more than \u00a35,000 to present to the Islay Museum Trustees. It will pay for the installation of a new system to keep all their artefacts in a temperature-controlled environment and will make the future of the museum more sustainable. A \u2018thumbs up\u2019 to all of you! http://bit.ly/IslayMuseum Timeline Photos",
-          1354270724
-        ],
-        [
-          "Raising a glass of Laphroaig to all of our friends in the US, wishing you a very happy Thanksgiving. Timeline Photos",
-          1353592733
-        ],
-        [
-          "October is Breast Cancer Awareness month and Friday 26th October is the 10th \u201cWear it Pink\u201d day.  \u201cWear it Pink\u201d is the Breast Cancer Campaign\u2019s biggest fundraiser, having raised more than \u00a322 million to date.\r\n\r\nAll you have to do is wear something pink on 26th October and donate \u00a32 or more to the Breast Cancer Campaign either via the website at www.breastcancercampaign.org or by making a donation at The Royal Bank of Scotland branch in Bowmore.\r\n\r\nhttp://www.wearitpink.org.uk/getinvolved Timeline Photos",
-          1351254846
-        ],
-        [
-          "Who has plans for World Whisky Day next week? I have some events to go to in Washington DC, where I will be sure to raise a dram to all Friends of Laphroaig!",
-          1332168209
-        ]
-      ],
-      "dates_start": 1343369725,
-      "dates_end": 1426836827,
-      "likes_avg": 2027,
-      "likes_stdev": 1130,
-      "comments_avg": 85,
-      "comments_stdev": 77,
-      "shares_avg": 182,
-      "shares_stdev": 146
-    },
-    {
-      "number": 3,
-      "important": [
-        "dram timelin",
-        "dram",
-        "laphroaig",
         "better",
-        "weekend"
+        "time",
+        "weekend",
+        "cut"
       ],
       "common": [
         "better",
-        "better way",
-        "dram",
-        "dram timelin",
-        "enjoy",
-        "enjoy dram",
-        "laphroaig",
+        "cut",
+        "cut peat",
+        "cut peat better",
+        "time",
+        "time pour",
+        "time pour dram",
         "time pour dram timelin",
-        "timelin",
-        "weekend"
+        "weekend",
+        "weekend time pour dram timelin"
       ],
       "messages": [
         [
@@ -308,202 +59,43 @@
           1396040401
         ],
         [
-          "Enjoy Laphroaig from your very own Laphroaig whisky tumbler, made exclusively for us by Glencairn Crystal of Edinburgh. What better way to raise a dram? http://bit.ly/LaphroaigShopWhiskyTumbler Timeline Photos",
-          1385042400
-        ],
-        [
           "Happy Halloween! Will you be tricky or treating, telling ghost stories or ignoring all the fuss while enjoying a dram? Timeline Photos",
           1383227401
-        ],
-        [
-          "The Scots are particularly fond of a midsummer festival, reveling in feasting, bonfires and merrymaking! So what better way to celebrate Midsummer's Day than with a dram of Laphroaig? Sl\u00e0inte Timeline Photos",
-          1372072249
         ],
         [
           "Sl\u00e0inte to the weekend! Which expression of Laphroaig will you be enjoying a dram of? Timeline Photos",
           1366364125
         ]
       ],
-      "dates_start": 1371324853,
-      "dates_end": 1439275685,
-      "likes_avg": 1617,
-      "likes_stdev": 628,
-      "comments_avg": 54,
-      "comments_stdev": 42,
-      "shares_avg": 173,
-      "shares_stdev": 102
+      "dates_start": 1377216742,
+      "dates_end": 1446755269,
+      "likes_avg": 1725,
+      "likes_stdev": 649,
+      "comments_avg": 59,
+      "comments_stdev": 46,
+      "shares_avg": 189,
+      "shares_stdev": 107
     },
     {
-      "number": 4,
+      "number": 2,
       "important": [
-        "celebr",
-        "night",
-        "dont forget",
-        "burn",
-        "one"
-      ],
-      "common": [
-        "burn",
-        "burn night",
-        "celebr",
-        "dont",
-        "dont forget",
-        "forget",
-        "night",
-        "one",
-        "share",
-        "timelin"
-      ],
-      "messages": [
-        [
-          "We hope you\u2019re enjoying Burns Night wherever you might be this evening. We\u2019re toasting the great man tonight. Sla\u0300inte mhath. A Burns Night Ode with Elvis Mcgonagall",
-          1485367320
-        ],
-        [
-          "What will be your expression of choice to help celebrate Burns night next week? Let us provide a little inspiration...\n\nAs always your Opinions are most welcome at http://laphroaig.com/opinions/ One ode, one whisky",
-          1453404300
-        ],
-        [
-          "Don't forget your loved one this Valentine's Day ... even if she is 200 years old. Timeline Photos",
-          1423935001
-        ],
-        [
-          "Let your bottles be opened and drams poured - Slainte from all of us at the distillery celebrating Burns night. Timeline Photos",
-          1422217801
-        ],
-        [
-          "Are your ready to celebrate Burns night this weekend?\n\nTo help with the festivities, we'd like to share one of our favourite recipes; Haggis and Clapshot with Laphroaig Sauce. Timeline Photos",
-          1422045000
-        ],
-        [
-          "Thanks to everyone for joining us this evening - we hope you enjoyed it as much as we did. Don't forget to share your photos of your #LaphroaigLive event. Here are just a few of our favourites received so far ... Photos from Laphroaig's post",
-          1411581600
-        ],
-        [
-          "We want to hear all about your Burns Night suppers this evening. Don't forget to share your pictures with us.",
-          1390660200
-        ],
-        [
-          "As Burns night approaches, are you all prepared for the celebrations? Here\u2019s our favourite haggis with a whisky sauce recipe. Don't forget to share yours with us too. Timeline Photos",
-          1390566600
-        ],
-        [
-          "Don't forget that Friday is the last day to order Laphroaig before Christmas if you live in the UK. \r\n\r\nhttp://bit.ly/LaphroaigShop Timeline Photos",
-          1387370701
-        ],
-        [
-          "Enjoy the haggis, tatties and neeps tonight - we'll be raising a glass of Laphroaig to Burns Night. Slainte! Timeline Photos",
-          1359109405
-        ],
-        [
-          "Happy Burns night everyone. This is what we'll be having tonight, I can't wait. Is anyone else planning a Burns supper? Timeline Photos",
-          1327492185
-        ]
-      ],
-      "dates_start": 1365587305,
-      "dates_end": 1447821806,
-      "likes_avg": 936,
-      "likes_stdev": 660,
-      "comments_avg": 36,
-      "comments_stdev": 31,
-      "shares_avg": 157,
-      "shares_stdev": 136
-    },
-    {
-      "number": 5,
-      "important": [
-        "laphroaig timelin",
-        "glass",
-        "rais",
-        "first",
-        "laphroaig"
-      ],
-      "common": [
-        "anyon",
-        "first",
-        "glass",
-        "guess",
-        "laphroaig",
-        "laphroaig timelin",
-        "rais",
-        "timelin",
-        "tomorrow",
-        "would"
-      ],
-      "messages": [
-        [
-          "Just like relationships, Laphroaig is complicated. Whether it's love at first sight or more of a slow burn, what was your first impression of Laphroaig? Timeline Photos",
-          1487095321
-        ],
-        [
-          "Tomorrow: Put down your phone. Talk to loved ones, raise a glass and make fond memories. Merry Christmas from all at Laphroaig. Timeline Photos",
-          1482602581
-        ],
-        [
-          "Laphroaig on the rocks anyone? Timeline Photos",
-          1476288180
-        ],
-        [
-          "We\u2019ve got plenty of Wellington boots ready to lend anyone that visits us here on Islay, but every single pair is a size 12 \u2013 can anyone guess why? Timeline Photos",
-          1474560420
-        ],
-        [
-          "Anyone able to solve this maths equation?\nTake your guesses and we will reveal the right answer tomorrow! Timeline Photos",
-          1409164201
-        ],
-        [
-          "How do you enjoy Laphroaig? Timeline Photos",
-          1378457930
-        ],
-        [
-          "If you could raise a glass of Laphroaig with anyone in the world, who would it be? Timeline Photos",
-          1373620315
-        ],
-        [
-          "Malt Milkshake anyone? What culinary delights would you create with Laphroaig? http://bit.ly/BallardsHotCakes Timeline Photos",
-          1367229066
-        ],
-        [
-          "When did you first discover Laphroaig? Timeline Photos",
-          1365159601
-        ],
-        [
-          "\"This whisky makes me reminisce about those carefree Easter Sundays you spent as a child on the beach.\" What are you reminded of when you taste Laphroaig? http://bit.ly/swedishvikingbgrReview Timeline Photos",
-          1361194662
-        ],
-        [
-          "Marmalade... with a touch of whisky! What other recipes do you think would work well with Laphroaig? Timeline Photos",
-          1360055620
-        ]
-      ],
-      "dates_start": 1359436377,
-      "dates_end": 1465186876,
-      "likes_avg": 1537,
-      "likes_stdev": 756,
-      "comments_avg": 237,
-      "comments_stdev": 249,
-      "shares_avg": 157,
-      "shares_stdev": 99
-    },
-    {
-      "number": 6,
-      "important": [
-        "mean",
+        "dram",
         "day",
-        "sl\u00e0int",
-        "dram"
+        "friend",
+        "laphroaig",
+        "make"
       ],
       "common": [
-        "andrew",
-        "andrew day",
+        "christma",
         "day",
         "dram",
-        "mean",
-        "sl\u00e0int",
-        "st",
-        "st andrew",
-        "st andrew day",
-        "timelin"
+        "friend",
+        "glass",
+        "happi",
+        "islay",
+        "laphroaig",
+        "make",
+        "rais"
       ],
       "messages": [
         [
@@ -515,12 +107,72 @@
           1485540601
         ],
         [
+          "We hope you\u2019re enjoying Burns Night wherever you might be this evening. We\u2019re toasting the great man tonight. Sla\u0300inte mhath. A Burns Night Ode with Elvis Mcgonagall",
+          1485367320
+        ],
+        [
+          "At Laphroaig there is a saying, \"We don't make friends easily but the ones we do are for life.\" Timeline Photos",
+          1484157757
+        ],
+        [
           "We\u2019re starting 2017 as we mean to go on. Sla\u0300inte. Timeline Photos",
           1483380061
         ],
         [
+          "Bliadhna Mhath U\u0300r (Happy New Year) to all of our friends across the world from everyone on Islay. Here\u2019s to more memories in 2017. Sla\u0300inte! Timeline Photos",
+          1483208520
+        ],
+        [
+          "Tomorrow: Put down your phone. Talk to loved ones, raise a glass and make fond memories. Merry Christmas from all at Laphroaig. Timeline Photos",
+          1482602581
+        ],
+        [
+          "We\u2019re going to enjoy Laphroaig in front of the fire, full of turkey and cheese this Christmas. What\u2019s your serving suggestion? Timeline Photos",
+          1482516361
+        ],
+        [
+          "If you really love the whisky-mad person in your life, you\u2019re going to have to get your skates on. The deadline for guaranteed delivery in the UK before Christmas is just 5 days away (20th December). Shop here: http://bit.ly/2fMreYi Timeline Photos",
+          1481824980
+        ],
+        [
+          "There's not much time to get your Christmas jumper before the big day if you're based in the EU. http://www.laphroaig.com/shop/product.aspx?ShopItemID=115 Timeline Photos",
+          1481738522
+        ],
+        [
           "At over 59%, our cask strength should be taken seriously. It is barrier-filtered only just to remove the small char particles. This means you will enjoy Laphroaig in its purest form. Expect a slightly sweet, vanilla nuttiness. Timeline Photos",
           1481652241
+        ],
+        [
+          "Strong, peaty and smokey whiskies like Laphroaig go perfectly with strong cheeses. This Christmas, make sure you have some Roquefort or stilton on your cheeseboard. Or really go for it with some of our own cheddar http://bit.ly/2eQMEkV Timeline Photos",
+          1481047382
+        ],
+        [
+          "Islay is pretty far from everything. If you live outside of the EU, the deadline for guaranteed Christmas delivery is just fours days away (8th December). Shop here: http://bit.ly/2fMreYi Timeline Photos",
+          1480874523
+        ],
+        [
+          "You asked. We listened. The newest Laphroaig Christmas jumpers are available now. Once they\u2019re gone, they\u2019re gone (...and they may be gone very soon). http://www.laphroaig.com/shop/product.aspx?ShopItemID=115 Timeline Photos",
+          1480788001
+        ],
+        [
+          "Happy St Andrew\u2019s day from Islay to Scots across the world. Or as we say up here, \u201cAghmhor Latha an Naoimh Anndrais\u201d. Sla\u0300inte. Timeline Photos",
+          1480528801
+        ],
+        [
+          "Paris. Milan. Islay. Make your fashionista friends' Christmas with a limited edition Laphroaig Christmas jumper! Available now here http://www.laphroaig.com/shop/product.aspx?ShopItemID=115 Timeline Photos",
+          1480079401
+        ],
+        [
+          "Whisky tasting tip: Catch the Laphroaig aromas in the right glass. A snifter is best - with a wide base and narrow opening. This allows you to swirl the whisky and release your favourite flavours. If you don\u2019t have one at home, a wine glass is a good substitute. Timeline Photos",
+          1479492120
+        ],
+        [
+          "Can\u2019t make it to our remote island but want to get to know our distillery? Take a video tour on our website. If you have a waterproof phone and would like an authentic Islay experience, watch in the shower. Just make sure you turn it to the coldest setting...\nhttp://bit.ly/2dLtvFm Timeline Photos",
+          1478887560
+        ],
+        [
+          "Every summer, thousands of birdwatchers descend upon Islay. We prefer to keep our eyes out for more common green-necked beauties, found behind bars across the world. Timeline Photos",
+          1478714641
         ],
         [
           "Sl\u00e0inte mhath Timeline Photos",
@@ -539,12 +191,56 @@
           1455475562
         ],
         [
+          "What will be your expression of choice to help celebrate Burns night next week? Let us provide a little inspiration...\n\nAs always your Opinions are most welcome at http://laphroaig.com/opinions/ One ode, one whisky",
+          1453404300
+        ],
+        [
+          "It's a well known fact that the last Saturday before Christmas should always be spent singing Laphroaig Christmas carols with a dram in hand.\n\nLet us know what's your favorite carol and what do you like drinking with it.",
+          1450551601
+        ],
+        [
+          "Today we wore our Christmas jumpers to raise money for charity. Mince pies, chocolate truffles, cheese, hot toddies and a dram or two were on offer for everyone who came to visit.\n\nIf you're still planning a visit, our festive opening hours are:\n\nOPEN: (9.45am -3.30pm) December 9th\nOPEN: (10am -2pm) December 22nd\nOPEN: (10am-4pm) December 27th, 28th, 29th, 30th, 31st\nOPEN: (10am -4pm) January 2nd\n\nCLOSED: December 23rd, 24th, 25th, 26th\nCLOSED: January 1st, 3rd Photos from Laphroaig's post",
+          1450465201
+        ],
+        [
+          "It's time to start singing Christmas carols again. Who remembers the lyrics?\n\nLet us remind you... Laphroaig Christmas carols",
+          1450292400
+        ],
+        [
+          "If you\u2019re looking for a present that will make a whisky fan smile on Christmas Day, you'll be spoilt for choice at our online store.\nTo make sure you receive your order just in time, here are the last shopping days for guaranteed Christmas delivery.\n\nUnited Kingdom - 18th of Decembed\nEurope - 11th of December\nRest of the world - 4th of December\n\nhttp://laphroaig.com/shop/ Photos from Laphroaig's post",
+          1449172801
+        ],
+        [
           "A glass of our finest to help celebrate St. Andrews day.\n\nSl\u00e0inte Mhath! Timeline Photos",
           1448909758
         ],
         [
+          "If you're looking for a perfect attire to wear during the Holiday season, we've got you covered!\n\nThis year you will be able to sip your Laphroaig whilst wearing our Limited Edition Christmas Jumper! It's now available for pre-order and will be shipped in the beginning of December - just in time for Christmas.\n\nIf your Santa is on Facebook... Tag them here and let them know.\n\nOrder now at http://laphroaig.com/shop/product.aspx?ShopItemID=101 Timeline Photos",
+          1445358601
+        ],
+        [
           "Why not share a dram this Fathers Day. Sl\u00e1inte Timeline Photos",
           1434905102
+        ],
+        [
+          "Don't forget your loved one this Valentine's Day ... even if she is 200 years old. Timeline Photos",
+          1423935001
+        ],
+        [
+          "Let your bottles be opened and drams poured - Slainte from all of us at the distillery celebrating Burns night. Timeline Photos",
+          1422217801
+        ],
+        [
+          "Are your ready to celebrate Burns night this weekend?\n\nTo help with the festivities, we'd like to share one of our favourite recipes; Haggis and Clapshot with Laphroaig Sauce. Timeline Photos",
+          1422045000
+        ],
+        [
+          "Wishing you all the happiness during the festive season. Timeline Photos",
+          1419442207
+        ],
+        [
+          "After a long day of last minute Christmas shopping\u2026\nYou know what helps. Timeline Photos",
+          1419366601
         ],
         [
           "Happy St. Andrews day to everyone! Timeline Photos",
@@ -563,251 +259,135 @@
           1395347062
         ],
         [
+          "Lets raise a glass to our Celtic cousins. After all they did invent whiskey (they say), but it took the Scots to make it taste nice ;-)  Happy St. Patrick's day to all! Sl\u00e1inte. Timeline Photos",
+          1395050811
+        ],
+        [
+          "We want to hear all about your Burns Night suppers this evening. Don't forget to share your pictures with us.",
+          1390660200
+        ],
+        [
+          "As Burns night approaches, are you all prepared for the celebrations? Here\u2019s our favourite haggis with a whisky sauce recipe. Don't forget to share yours with us too. Timeline Photos",
+          1390566600
+        ],
+        [
+          "Here's to a happy and healthy 2014 for all of our friends! Did you raise a dram over the festive season? Timeline Photos",
+          1388661518
+        ],
+        [
+          "A very Happy Hogmanay to our Friends from the team at Laphroaig",
+          1388512619
+        ],
+        [
+          "Don't forget that Friday is the last day to order Laphroaig before Christmas if you live in the UK. \r\n\r\nhttp://bit.ly/LaphroaigShop Timeline Photos",
+          1387370701
+        ],
+        [
+          "Tomorrow is the last order date for our fans outside of Europe to make sure they arrive in time for Christmas. Which expression is on your list?\n\nhttp://bit.ly/LaphroaigShop Timeline Photos",
+          1386823020
+        ],
+        [
+          "If you know someone who would love Laphroaig for Christmas be sure to get your orders in soon. Find out when the last date for orders is in your country here \r\n\r\nhttp://bit.ly/LaphroaigShop Timeline Photos",
+          1386675001
+        ],
+        [
           "Happy St Andrews Day. Celebrate with a dram. What\u2019s your ideal expression for St Andrews Day? Timeline Photos",
           1385716200
+        ],
+        [
+          "Winter nights are drawing in on Islay, so here's a dram of Laphroaig to raise our spirits! Timeline Photos",
+          1382697602
+        ],
+        [
+          "Do you know where the tradition of clinking glasses comes from? Tradition has it that you or I would purposefully slosh whisky into the glass of our enemy, to make sure we weren't being poisoned. Thankfully, we're all friends here. Slainte! Timeline Photos",
+          1375702365
+        ],
+        [
+          "Here's raising a dram of Laphroaig to our American friends on the fourth of July! Timeline Photos",
+          1372936009
         ],
         [
           "The longest dram to the longest day? Here's to Islay on its longest day in the sun! Timeline Photos",
           1371807407
         ],
         [
+          "Will you be raising a dram of Laphroaig this weekend? Sl\u00e0inte! Timeline Photos",
+          1371207600
+        ],
+        [
+          "Happy Valentine's Day! The perfect excuse for a glass of Laphroaig with your loved one. Do you have any romantic celebrations planned? Timeline Photos",
+          1360841524
+        ],
+        [
+          "Enjoy the haggis, tatties and neeps tonight - we'll be raising a glass of Laphroaig to Burns Night. Slainte! Timeline Photos",
+          1359109405
+        ],
+        [
+          "Here's to a happy and healthy 2013 for all of our friends! Did you raise a glass of Laphroaig over the festive season? Timeline Photos",
+          1357118676
+        ],
+        [
+          "It\u2019s looking festive, but not quite like the white Christmas from 2010 here on Islay. We wish all of our friends the warmest Season\u2019s Greetings, and a very Happy New Year. Sl\u00e0inte! Timeline Photos",
+          1355991187
+        ],
+        [
+          "All lit up in time for our Taste of Christmas Open Evening in the Visitor Centre at Laphroaig.  If you are on Islay \u2013 come and join us tonight between 6.30 and 9.00 for music, hot toddies, mince pies, local Christmas shopping and more. Local Christmas market with Islay Woollen Mill, Mary Knowles, Islay Choc Co, An Gleann and more! If you\u2019re not able to make it, join us in raising a glass to Friends across the world. Timeline Photos",
+          1355241423
+        ],
+        [
           "Sl\u00e1inte to all our Scottish fans on St Andrew's Day! Timeline Photos",
           1354285801
+        ],
+        [
+          "A huge thank you to our Friends of Laphroaig and all who take part in our monthly website auctions \u2013 you\u2019ve helped raise more than \u00a35,000 to present to the Islay Museum Trustees. It will pay for the installation of a new system to keep all their artefacts in a temperature-controlled environment and will make the future of the museum more sustainable. A \u2018thumbs up\u2019 to all of you! http://bit.ly/IslayMuseum Timeline Photos",
+          1354270724
+        ],
+        [
+          "Raising a glass of Laphroaig to all of our friends in the US, wishing you a very happy Thanksgiving. Timeline Photos",
+          1353592733
+        ],
+        [
+          "October is Breast Cancer Awareness month and Friday 26th October is the 10th \u201cWear it Pink\u201d day.  \u201cWear it Pink\u201d is the Breast Cancer Campaign\u2019s biggest fundraiser, having raised more than \u00a322 million to date.\r\n\r\nAll you have to do is wear something pink on 26th October and donate \u00a32 or more to the Breast Cancer Campaign either via the website at www.breastcancercampaign.org or by making a donation at The Royal Bank of Scotland branch in Bowmore.\r\n\r\nhttp://www.wearitpink.org.uk/getinvolved Timeline Photos",
+          1351254846
+        ],
+        [
+          "Who has plans for World Whisky Day next week? I have some events to go to in Washington DC, where I will be sure to raise a dram to all Friends of Laphroaig!",
+          1332168209
+        ],
+        [
+          "Happy Burns night everyone. This is what we'll be having tonight, I can't wait. Is anyone else planning a Burns supper? Timeline Photos",
+          1327492185
         ]
       ],
-      "dates_start": 1395775174,
-      "dates_end": 1479161235,
-      "likes_avg": 1657,
-      "likes_stdev": 1056,
-      "comments_avg": 47,
-      "comments_stdev": 41,
-      "shares_avg": 154,
-      "shares_stdev": 154
+      "dates_start": 1374785762,
+      "dates_end": 1474106066,
+      "likes_avg": 1392,
+      "likes_stdev": 1031,
+      "comments_avg": 53,
+      "comments_stdev": 53,
+      "shares_avg": 141,
+      "shares_stdev": 135
     },
     {
-      "number": 7,
+      "number": 3,
       "important": [
-        "drink",
-        "whiski",
+        "quarter",
         "laphroaig",
-        "perfect",
-        "look"
-      ],
-      "common": [
-        "drink",
-        "enjoy",
-        "laphroaig",
-        "look",
-        "make",
-        "perfect",
-        "send",
-        "thank",
-        "timelin",
-        "whiski"
-      ],
-      "messages": [
-        [
-          "Just in case you need an extra excuse to drink more whisky this Christmas, it works perfectly with smoked salmon. You can even cure your own with Laphroaig. We\u2019d rather drink it, but still. Here\u2019s a recipe by Graham Campbell: http://bit.ly/2fzqvsZ Timeline Photos",
-          1482084183
-        ],
-        [
-          "Looking for a perfect Father's Day gift?\n\nLook no further...\n\nhttp://laphroaig.com/shop/ Timeline Photos",
-          1465488000
-        ],
-        [
-          "Scott McKenzie has found a perfect way to keep warm in the winter chill - a dram of Laphroaig.\n\nWhat's the weather like where you are? Timeline Photos",
-          1454180401
-        ],
-        [
-          "If you're looking for some DIY inspiration have a look at this handrafted whisky shelf by Dennis Linow and his grandfather.\n\nIt's made out of an old cask and took them 30 hours to make.\n\nThank you for sending in the pictures Dennis! Photos from Laphroaig's post",
-          1453750077
-        ],
-        [
-          "Thank you Heather Carston for sending in this lovely recipe of Laphroaig Marmalade.\n\nWho's going to try it next weekend? Timeline Photos",
-          1452452401
-        ],
-        [
-          "\"The story of a whisky to be loved without measure ... Superbly illustrated, offering an accurate and rich insight into two hundred years of the life of a legendary whisky, this book is a milestone in the memory of Laphroaig and a definitive, heart felt \ncontribution to knowledge.\"\n\nLooking for a perfect gift for a Friend of Laphroaig?\nLook no further than the Legend of Laphroaig.\n\nNow available at our webstore at http://laphroaig.com/shop/product.aspx?ShopItemID=39\n\nExtract from the Foreword by Martine Nouet.\nThe copyright is held by Conceptual Continuity. Timeline Photos",
-          1447614001
-        ],
-        [
-          "Thank you Armin Grasberger for sending in this striking picture of Laphroaig and lake Inari in Finland.\n\nA dram was a perfect ending to a meal cooked on open fire after a day spent fishing. Timeline Photos",
-          1444237201
-        ],
-        [
-          "It takes time to make Laphroaig so make sure you do too.\n\nPlease  drink responsibly.\n\nhttps://www.drinkaware.co.uk/ Timeline Photos",
-          1436034602
-        ],
-        [
-          "What do you think about this 'How to drink whisky' infographic by the talented John Cheng?\n\nAnd what do you think is the best way to enjoy that perfect dram of Laphroaig?\n\nhttps://www.behance.net/gallery/Infographic-How-to-drink-whisky/6314739 Infographic: How to drink whisky Simple and fun info graphic on how to drink whisky.",
-          1422736200
-        ],
-        [
-          "Who would have thought that a dram of smoke can look so pretty?\n\nThank you Joss Thomas for sending this stunning Laphroaig picture in. Timeline Photos",
-          1422390601
-        ],
-        [
-          "Thank you Rob Andrew for sending this scrumptious Laphroaig Ice Cream recipe. No doubt it will be made by many FoL's this weekend...\nso send your pictures and let us know how you liked it!\n\n400ml double cream\n200ml whole milk\n120g caster sugar\na vanilla pod\n3 egg yolks\n50g of dark chocolate chunks\n4 table spoons of Laphroaig\n\nMix the cream, milk, half of the sugar and the vanilla pod together. Bring to the boil and then take off the heat. Meanwhile whisk the egg yolks and the remaining sugar together.\nCombine the two mixtures together slowly with 4 table spoons of Laphroaig (Quarter Cask in this instance) and whisk fully. \nStirring constantly in a pan, bring the mixture to about 80 degrees and take off heat. Refrigerate overnight.\n\nNext day, add the chocolate chunks, place in the ice cream maker and ENJOY! Timeline Photos",
-          1407952801
-        ],
-        [
-          "It\u2019s a family affair, enjoyed by candlelight. Timeline Photos",
-          1399647600
-        ],
-        [
-          "Keeping the spring chills at bay. \n\nThanks, Jamie for the photo. Mobile Uploads",
-          1399565844
-        ],
-        [
-          "Best enjoyed wherever you like. Timeline Photos",
-          1398352200
-        ],
-        [
-          "How do you enjoy your Laphroaig. However you like to enjoy it, remember to always drink responsibly. http://www.drinkaware.co.uk/ Alcohol Advice | Drinkaware - for the facts about Alcohol Learn about the effects of alcohol on your life and lifestyle, so that you can make informed decisions when it comes to drinking alcohol.",
-          1398188215
-        ],
-        [
-          "A traditional Scottish toast you can make your own. Fill in the blanks:\n\n\u201cMay the winds of ____ sail you,\nMay you sail a gentle sea.\nMay it always be the other _____,\nWho says this drink\u2019s \u2018on  ____;\u201d Timeline Photos",
-          1395691200
-        ],
-        [
-          "The perfect accompaniment to a crisp winter's afternoon. Our fan Kim Nilsson shares her Laphroaig. Can you do better? Upload your collection in the comments below. Timeline Photos",
-          1389331200
-        ],
-        [
-          "My perfect moment with Laphroaig would be ________? Timeline Photos",
-          1375187281
-        ],
-        [
-          "Where's the best place to enjoy a glass of Laphroaig? For Binny Varghese, this photo of Laphroaig against the Swiss Alps captures it perfectly! Timeline Photos",
-          1374061588
-        ],
-        [
-          "Laphroaig packaging helps provide the perfect finishing touch for this Ducati 748S, can you spot it? Timeline Photos",
-          1342096568
-        ]
-      ],
-      "dates_start": 1383074418,
-      "dates_end": 1453029798,
-      "likes_avg": 1395,
-      "likes_stdev": 1188,
-      "comments_avg": 62,
-      "comments_stdev": 92,
-      "shares_avg": 135,
-      "shares_stdev": 118
-    },
-    {
-      "number": 8,
-      "important": [
-        "dram",
-        "friday",
-        "laphroaig",
-        "weekend",
-        "fan"
-      ],
-      "common": [
-        "dram",
-        "enjoy",
-        "fan",
-        "friday",
-        "laphroaig",
-        "laphroaig fan",
-        "thank",
-        "timelin",
-        "weekend",
-        "weekend timelin"
-      ],
-      "messages": [
-        [
-          "Laphroaig fans kiss and tell\u2026 Timeline Photos",
-          1475164981
-        ],
-        [
-          "Spend your Friday night wisely Timeline Photos",
-          1472832301
-        ],
-        [
-          "Happy Sunday! What was your dram of choice for the weekend? Timeline Photos",
-          1467561601
-        ],
-        [
-          "What's your dram of choice for the beautiful weekend ahead? Timeline Photos",
-          1462550401
-        ],
-        [
-          "Enjoy the bank holiday weekend - We sure will! Timeline Photos",
-          1458928804
-        ],
-        [
-          "It's not uncommon to feel poetic after your Friday dram.\n\nThank you Judith Green for this beautiful ode to Laphroaig. Timeline Photos",
-          1457114990
-        ],
-        [
-          "Have a great weekend and enjoy your Laphroaig responsibly.\n\nhttps://www.drinkaware.co.uk/ Timeline Photos",
-          1455908401
-        ],
-        [
-          "As we've now moved on from January and are able to leave all healthy living resolutions behind\u2026 Here's a Laphroaig infused Chocolate Cake by The Cupcake Friday Project. http://bit.ly/laphroaigcupcake Timeline Photos",
-          1424289610
-        ],
-        [
-          "Soak in the flavors and smells of the great outdoors this weekend. Timeline Photos",
-          1399044600
-        ],
-        [
-          "Friday snacks for a proper dram. Thanks to fan Michael Wilson for sharing.  \n\nP.S. \u2013 That cheese is incredible. Timeline Photos",
-          1396630800
-        ],
-        [
-          "A huge thank you to our Laphroaig fans who joined us in Kilbeggan at the weekend for the Ultimate Whisky Battle, cheering on John as he took on the Irish and the US! \r\nSee the album here: http://bit.ly/UltimateWhiskyBattle Timeline Photos",
-          1377008659
-        ],
-        [
-          "Join Global Brand Ambassador Simon Brooking as he takes true Laphroaig fans on a bar tour of Seattle. The Laphroaig Kilt Hop: Seattle, 12 July 2013",
-          1376476306
-        ],
-        [
-          "Sl\u00e1inte to Good Friday and the four-day Easter weekend! Timeline Photos",
-          1364554800
-        ],
-        [
-          "Sl\u00e1inte, to Friday and the weekend!\r\n\r\n(With thanks to Ramzi Suudi for this stunning photo of the PX Cask) Timeline Photos",
-          1360321845
-        ],
-        [
-          "We may have just found the biggest Laphroaig fan in existence... Timeline Photos",
-          1347617901
-        ]
-      ],
-      "dates_start": 1374486684,
-      "dates_end": 1464980781,
-      "likes_avg": 1472,
-      "likes_stdev": 954,
-      "comments_avg": 50,
-      "comments_stdev": 30,
-      "shares_avg": 135,
-      "shares_stdev": 106
-    },
-    {
-      "number": 9,
-      "important": [
-        "year",
         "flavour",
-        "year old",
-        "laphroaig",
-        "old"
+        "tast",
+        "cask"
       ],
       "common": [
         "cask",
         "flavour",
         "laphroaig",
-        "old",
+        "laphroaig year old",
+        "last",
+        "note",
         "quarter",
         "quarter cask",
         "tast",
-        "timelin",
-        "year",
-        "year old"
+        "whiski"
       ],
       "messages": [
         [
@@ -889,414 +469,16 @@
       "shares_stdev": 95
     },
     {
-      "number": 10,
-      "important": [
-        "whiski",
-        "tour",
-        "made",
-        "laphroaig",
-        "water"
-      ],
-      "common": [
-        "jame",
-        "kilbrid",
-        "laphroaig",
-        "made",
-        "martin",
-        "suppli",
-        "timelin",
-        "tour",
-        "water",
-        "whiski"
-      ],
-      "messages": [
-        [
-          "We had a few late arrivals on the Water to Whisky Tour today. Fancy joining our next one? http://www.laphroaig.com/distillery/visiting.aspx Timeline Photos",
-          1489341720
-        ],
-        [
-          "Lore was created to be a complex marriage of all aspects of Laphroaig. That\u2019s why it\u2019s the richest whisky we\u2019ve ever made. Timeline Photos",
-          1485194640
-        ],
-        [
-          "We fought to protect our precious water supply. And for good reason. Without the peaty water from the Kilbride stream, Laphroaig wouldn't be the same. Timeline Photos",
-          1484330640
-        ],
-        [
-          "Our precious water source is the Kilbride stream.\n\nSo important is it that a little over 100 years ago we had what has become known as The Water Wars, when a rival distiller tried to divert it from us. After a lengthy court battle we regained our supply. As a result we bought all the land adjoining the stream, some of which is now the Friends of Laphroaig plots.\n\nIn the 1930\u2019s we constructed a dam creating The Kilbride Reservoir so that we always have a continuous water supply to the distillery throughout the year. Timeline Photos",
-          1445706660
-        ],
-        [
-          "Corks weren't made for wine. They were made to uncork whisky. Timeline Photos",
-          1405194000
-        ],
-        [
-          "To add a touch of water or not?  Difficult decisions to be made this weekend... Timeline Photos",
-          1398525000
-        ],
-        [
-          "Our friends Martin and James recently went on tour across Germany to promote their new album release, Life is a Show. Of course, no tour would be complete without a bottle of Laphroaig or two!\n\nCourtesy of Kroft Films (https://www.facebook.com/kroftfilms) Laphroaig on Tour with James & Martin Our friends James & Martin recently went on tour across Germany to promote their new album release, Life is a Show. Of course, no tour would be complete with...",
-          1384171801
-        ],
-        [
-          "How do you drink Laphroaig: with, or without, a drop of water? Timeline Photos",
-          1366193567
-        ],
-        [
-          "Laphroaig over ice, with water... or just as it is? Timeline Photos",
-          1358941057
-        ],
-        [
-          "FOLs filling their bottles during our Water to Whisky tour Laphroaig Water to Whisky Tour",
-          1341817249
-        ]
-      ],
-      "dates_start": 1362656459,
-      "dates_end": 1469226807,
-      "likes_avg": 1290,
-      "likes_stdev": 983,
-      "comments_avg": 280,
-      "comments_stdev": 454,
-      "shares_avg": 117,
-      "shares_stdev": 114
-    },
-    {
-      "number": 11,
-      "important": [
-        "whiski",
-        "smoke",
-        "still",
-        "way",
-        "peat"
-      ],
-      "common": [
-        "flavour",
-        "islay",
-        "laphroaig",
-        "malt",
-        "peat",
-        "smoke",
-        "still",
-        "timelin",
-        "way",
-        "whiski"
-      ],
-      "messages": [
-        [
-          "We still cut all our peat by hand. It means we can look after our special ingredient and safeguard its future. Timeline Photos",
-          1487181781
-        ],
-        [
-          "\u201cLang may your lum reek\u201d is an old Scottish proverb. It means: Long may your chimney smoke. You\u2019d say it to wish someone a long life. And well, our peat chimney has been smoking for over 200 years now. Timeline Photos",
-          1485021661
-        ],
-        [
-          "Cutting peat by hand means we can put some back to replenish the bog. Without it, we wouldn\u2019t be able to make our unique whisky. Timeline Photos",
-          1482861781
-        ],
-        [
-          "Working 9 to 5 is undoubtedly a great way to make a living, but no way to make a whisky. At 7:30 on Monday mornings our malting floor is a hive of activity. The barley is removed from the steeps after a weekend soaking and passed through hoppers into our Chariots, ready for the next stage of the production process. Timeline Photos",
-          1481565661
-        ],
-        [
-          "The shape of our stills affects the taste of our whisky. Many distilleries have switched to fewer, larger stills to reduce costs. That\u2019s not the Laphroaig way. We know how important they are to our flavour. When they finally do need replacing, we do so to the tiniest details, even down to the dents. Timeline Photos",
-          1481133661
-        ],
-        [
-          "The malting floor. It may look as though a horse lives here, but it\u2019s actually where germination occurs; an essential stage in our whisky making process. The temperature needs to be perfect to make your dram worth the wait. We control it by opening and closing the windows and turning the malt floors. Timeline Photos",
-          1479924000
-        ],
-        [
-          "Islay is known for being warmer than mainland Scotland. Bring your sun cream. And your wellies. Just in case... Timeline Photos",
-          1478541720
-        ],
-        [
-          "We still use this same traditional way of drawing whisky. Why change if it works? Timeline Photos",
-          1472060465
-        ],
-        [
-          "What a gorgeous day here on Islay.\n\nSpring is on it's way to the distillery and it'll bring some tasty surprises... Timeline Photos",
-          1456311119
-        ],
-        [
-          "These kilns have been here since 1840; we know this from the date on the original stone which is still in the kiln.\n\nThe salty air is drawn directly off the sea and mixes with the smoke from the peat. This mixture gives us the unique smoke \u2013 the sweetness of the heather and mosses combined with the medicinal tang of the lichens. After about 12 to 13 hours the malted barley is fully \u2018peated\u2019. To complete the process we have to continue drying the malt down to 4.5% moisture content, which stops the germination process. We do this by using hot air, which has been heated by surplus hot water from our still house.\n\nWe peat first and dry later whereas other distilleries peat and dry at the same time. We do it this way as we find that it gives us a better all round flavour to our spirit. Timeline Photos",
-          1449514801
-        ],
-        [
-          "What you see here is over 7 tonnes of green barley gently germinating.\n\nHere we are fooling nature into thinking its springtime. The barley starts to put out its shoots as it would in the soil. Technically speaking the important part for us is that the insoluble starch in the grain is being converted into a soluble sugar. Enzymes are also created which we need later in the process. Timeline Photos",
-          1446922808
-        ],
-        [
-          "Islay peat is very unique.\n\nWe still hand cut our peat the traditional way and look after our own peat beds very carefully. It\u2019s important to put the top layer back after cutting, so that the peat will be able to replenish itself over time. After all, it\u2019s been here for millions of years.\n\nThere aren\u2019t any forests like there are on the mainland, so our peat is made up of other decaying plant matter \u2013 namely heather, mosses and lichens. This makes for a different quality and flavour of peat.\nIt is the lichens that give our peat the medicinal flavours that are a hallmark of the Laphroaig flavour profile. Timeline Photos",
-          1444496402
-        ],
-        [
-          "At Laphroaig Live 2014, as well as tasting some fantastic whiskies, we will be enjoying a selection of  Swedish delicacies cooked in Laphroaig. We'll provide you with the recipes later, but here's the actual menu\u2026\n\nLet us know which ones you'd like to taste the most!\n\n\u2022       Laphroaig smoked elk with chanterelles and apples \n\u2022       Small Skagen toast with Kalix bleak roe \n\u2022       Laphroaig smoked salmon with spinach and fresh potatoes\n\u2022       Laphroaig marinated salmon with cider mustard and dressing\n\u2022       Laphroaig smoked deer filet with cloudberry compote\n\u2022       Swedish farm cheeses with Laphroaig marmalade Photos from Laphroaig's post",
-          1410546601
-        ],
-        [
-          "Tuesday means the stills are running. To be honest, the stills are always running here on Islay. Timeline Photos",
-          1404848400
-        ],
-        [
-          "Our Distillery Community Part 6: A millers tale from Arthur Holyoake and the three key stages of his work...\n\nDrying: When the Barley has germinated and grown to exactly the desired point, it is transferred to the Kiln floor to be spread out and slowly dried over a Peat Fire.  The grains absorb the smoke (the Peat Reek) to give Laphroaig it\u2019s characteristic smoky flavour.\nThe process of drying is completed using warm air.\n \nResting: The malt is allowed to cool and rest for several weeks in one of our Malt Bins before passing to The Malt Mill.\n \nMilling: The malted barley is crushed through two sets of stainless steel rollers, to create grist, a mixture of husk material, coarse and fine flour. Sugars will be extracted from the grist in the mashing process.\n\nMy question for you - how long does the barley rest for? Timeline Photos",
-          1403107201
-        ],
-        [
-          "Peat, the foundation of Laphroaig's Islay malts, is still cut & harvested by hand. Timeline Photos",
-          1400685000
-        ],
-        [
-          "Our distillery barrel tasting is a great way to end your Islay visit, sampling & bottling your very own special expression of Laphroiag. Timeline Photos",
-          1398871800
-        ],
-        [
-          "Life on Islay wouldn\u2019t be complete without a \"smoke break\". Timeline Photos",
-          1398438600
-        ],
-        [
-          "One of our travel retail favorites.  Aged in former Pedro Ximenez sherry casks which add rich, sweet notes that complement the smoke very well. \n\nLearn more about it here - http://www.laphroaig.com/whiskies/laph-px.aspx Timeline Photos",
-          1396890000
-        ],
-        [
-          "Nothing says traffic in Islay like two sheep on their way to the distillery. Timeline Photos",
-          1395864000
-        ],
-        [
-          "There's no smoke without \u2026 peat! Our unique Islay peat gives Laphroaig its distinctive flavour. Which overriding flavour do you pick up from Laphroaig? Timeline Photos",
-          1392892528
-        ],
-        [
-          "The traditional way to end a Burns supper is by singing Auld Lang Syne. Do you remember all of the words or do you print them out for you and your guests Timeline Photos",
-          1390662000
-        ],
-        [
-          "We believe one of the most important part of any Burns Night is the \u2018Parade of the Haggis\u2019. We like to ensure that is presented with the pomp and ceremony it deserves. Traditionally served to pipers playing, what are your traditions for the evening? Timeline Photos",
-          1390653000
-        ],
-        [
-          "During Laphroaig Live Bob Keller from the US asked us what our association with Maker's Mark was. Bob hopefully this sheds some light for you. \n\nhttp://bit.ly/LaphroaigCooperage Laphroaig Distillery Tour - Cooperage Because the maturation process is so important we maintain a traditional cooperage at the distillery. Here our cooper ensures that all the barrels we use are...",
-          1389294000
-        ],
-        [
-          "There's no smoke without\u2026 peat! Our unique Islay peat gives our whisky its distinctive flavour. Which overriding flavour do you take from Laphroaig? Timeline Photos",
-          1377222000
-        ],
-        [
-          "What does this chap have to do with us? The land now known as Laphroaig was originally used for rearing cattle which meant a need for \u201cfeed\u201d barley. The surplus barley was used to distil whisky \u2013 word of which rapidly spread - and Islay\u2019s infamous whisky was born! Timeline Photos",
-          1354700064
-        ]
-      ],
-      "dates_start": 1387752183,
-      "dates_end": 1469956359,
-      "likes_avg": 1157,
-      "likes_stdev": 602,
-      "comments_avg": 28,
-      "comments_stdev": 22,
-      "shares_avg": 91,
-      "shares_stdev": 92
-    },
-    {
-      "number": 12,
-      "important": [
-        "share",
-        "laphroaig",
-        "think",
-        "like",
-        "opinionswelcom"
-      ],
-      "common": [
-        "distilleri",
-        "islay",
-        "laphroaig",
-        "like",
-        "live",
-        "opinion",
-        "opinionswelcom",
-        "share",
-        "think",
-        "timelin"
-      ],
-      "messages": [
-        [
-          "We won\u2019t ask how Neel knows what a peat stove\u2019s ashtray tastes like. We just hope he\u2019s got enough whisky. #OpinionsWelcome Timeline Photos",
-          1487959561
-        ],
-        [
-          "Don't agree with Tristan? Share yours http://www.laphroaig.com/opinions/ #OpinionsWelcome Timeline Photos",
-          1484676421
-        ],
-        [
-          "Lauren Mote thinks Laphroaig is like \"Soft Salty Raindrops\". What's it like to you? Share yours #OpinionsWelcome Timeline Photos",
-          1483984922
-        ],
-        [
-          "We think this should be enough to get us through the festive period. Timeline Photos",
-          1481997660
-        ],
-        [
-          "Thanks to James Smith for this opinion. What does Laphroaig taste like to you? #opinionswelcome http://bit.ly/2achlRl Timeline Photos",
-          1479578521
-        ],
-        [
-          "This week, we've projected 100's of your opinions onto our distillery wall. Tonight is your last chance to get involved. Share your opinion on Laphroaig via Twitter using  #OpinionsWelcome and see it projected live. Timeline Photos",
-          1476552227
-        ],
-        [
-          "This week, we've projected 100's of your opinions onto our distillery wall.  Today's your last chance to get involved! Share your opinion on Laphroaig via Twitter using  #OpinionsWelcome and see it projected live. Timeline Photos",
-          1476547810
-        ],
-        [
-          "Tweet us with #OpinionsWelcome for your chance to see your opinion on this wall #OpinionsWelcome by Laphroaig Watch Laphroaig's #OpinionsWelcome on Livestream.com. Tweet your opinion to #OpinionsWelcome from 11th - 15th Oct for the chance to see it projected on our famous distillery wall on Islay.",
-          1476464400
-        ],
-        [
-          "What's your opinion of Laphroaig? If you're on Twitter, you have the chance for the next hour to have your opinion projected live onto the warehouse no.1 wall. Just tweet us using #OpinionsWelcome and follow the action live: www.laphroaig.com/opinions Timeline Photos",
-          1476379388
-        ],
-        [
-          "Something big is happening at the distillery from Tuesday until Saturday. For those of you on Twitter, you can tweet us your opinion between 7:30pm - 9:30pm (BST) using #OpinionsWelcome and your tweet will be projected onto our famous distillery wall. Timeline Photos",
-          1476122512
-        ],
-        [
-          "Want to come see where the salty sea air seeps into the very soul of Laphroaig?\n\nShare your opinion with us at Laphroaig.com/opinions and you may have a chance to.\n\nT&Cs apply.\n\n#OpinionsWelcome Laphroaig - Opinions Welcome Laphroaig is a complex beast - even our closest friends can describe us in seemingly disparaging terms\u2026 before saying \u2018they love us'!",
-          1471428000
-        ],
-        [
-          "We've adored the entries so far; some thought it was like  \"sucking cinder toffee straight after gargling mouthwash\" or tasted like \"burnt salted shoes\".\n\nHow would you describe our liquid? Share your Opinion at Laphroaig.com/opinions and win a trip for two to Islay.\n\nT&Cs apply.\n\n#OpinionsWelcome Laphroaig - Opinions Welcome Laphroaig is a complex beast - even our closest friends can describe us in seemingly disparaging terms\u2026 before saying \u2018they love us'!",
-          1471345201
-        ],
-        [
-          "Want to see where Laphroaig is made? Share your opinion on 10 Year Old, Select or PX Cask and you could win a trip for two to the distillery.\n\nEnter now at Laphroaig.com/opinions\n\nT&Cs apply.\n\n#OpinionsWelcome Timeline Photos",
-          1469455201
-        ],
-        [
-          "We've had some amazing entries to our Opinions Welcome competition. Here are just a few of our favourites.\n\nSubmit your own at laphroaig.com/opinions Photos from Laphroaig's post",
-          1469376000
-        ],
-        [
-          "Ever smelled a dragon?\n\nOur Friend Adam Biczok has and it made him think of Laphroaig. Or was it the other way around?\n\nPlease let us know your Opinion at laphroaig.com/opinions Timeline Photos",
-          1468080001
-        ],
-        [
-          "Opinions are like drams. Some are good, some bad and some are even excellent.\n\nIf your opinion on a dram is excellent, we'd like to hear it - no matter if the dram wasn't. laphroaig.com/opinions Timeline Photos",
-          1466697601
-        ],
-        [
-          "Sunday... Time to recap on the dram you had last night. Or talk about the one you're having tonight.\n\nWhichever it is, don't let your opinion go to waste; share it with us at laphroaig.com/opinions. If it was a dram of PX, 10yo or SELECT, you might just win a trip to Islay.\n\nSlainte! Timeline Photos",
-          1465747321
-        ],
-        [
-          "Do you think Laphroaig smells like a damp dog? Or would you say it's more like drinking liquqid smoke?\n\nIf both - or neither, we'd like to hear it from you directly at laphroaig.com/opinions. Timeline Photos",
-          1464624001
-        ],
-        [
-          "What do you think about these opinions from Dana Laberge and Simon Lillqvist?\n\nIf you think yours is better, share it with us at http://laphroaig.com/opinions/ to win one of our peaty prizes. Photos from Laphroaig's post",
-          1463414401
-        ],
-        [
-          "We are looking for 201 Opinions for each year we've been making whisky.\n\nSo whatever your opinion, please share it with us at laphroaig.com/opinions. You might win a trip for two to Islay.\n\nhttp://laphroaig.com/opinions/",
-          1462896000
-        ],
-        [
-          "Happy Hogmanay!\n\nIn 2015 we released 4 new expressions, got a visit from HRH Prince Charles the Duke of Rothesay, sought out your opinions with our #Opinionswanted competition and our annual Laphroaig live. \nWe unveiled our stone cairn at the distillery, launched Legacy Fund to support sustainability on Islay and premiered \u2018What do the locals think\u2019, our 200th Opinions Welcome film.\n\nIt was an astonishing year, and we'd like to thank each and every one of you for making it so special.\n\nLook out for a stunning new expression we plan to launch in Spring 2016 \u2013 the most richly flavoured of all Scotch Whiskies.\n\nSl\u00e0inte mhath! Timeline Photos",
-          1451589854
-        ],
-        [
-          "At Laphroaig Live we aired the latest film in our Opinions Welcome series.\n\nIn our anniversary year we asked the locals at home on the Isle of Islay to share their candid opinions on what Laphroaig tastes like to them personally. We think it\u2019s fantastic \u2013 and so do our friends on Islay, so we hope you do too.\n\nDon\u2019t forget to let us know your opinions at http://laphroaig.com/opinions/ The Worldwide premiere of our special 200th Opinions Welcome film",
-          1443978000
-        ],
-        [
-          "We\u2019ve already shared our 200 Opinions Wanted winners and we are delighted to announce our Grand Prize Winners. These winning opinions really impressed us, what a beautifully opinionated bunch you all are! We look forward to welcoming you all to Islay to join us for a very special 200th anniversary Laphroaig Live in September. \n\nSl\u00e1inte 200 Opinions Wanted Grand Prize Winners",
-          1440772108
-        ],
-        [
-          "Thank you to all those who entered \u201c200 Opinions Wanted\u201d, here is a little thank you from John\u2026   Sl\u00e0inte!",
-          1440579373
-        ],
-        [
-          "Thank you all for your opinions - we\u2019ve now selected all 200 winners of 200 Opinions Wanted\u2026 \nLook out for the tiled wall which will feature all opinions at the distillery AND stay tuned, to find out the names of our Grand Prize winners, \nwho\u2019ll be joining us on Islay for Laphroaig Live next month. Sl\u00e1inte 200 Opinions Wanted",
-          1439978166
-        ],
-        [
-          "\"Let's see\u2026 How does a little Scotch sound?\nI think I've got some Laphroaig open...\"\n\nFrom the Batman Gotham Knights October 2001 issue. Timeline Photos",
-          1437244202
-        ],
-        [
-          "We\u2019ve just announced our first batch of winners for the Laphroiag 200 Opinions Wanted competition! There is still time to enter the competition so do so here http://www.laphroaig.com/Opinions. We will be announcing more winners in the coming weeks. Laphroaig 200 Opinions Wanted Competition Winners",
-          1434724509
-        ],
-        [
-          "Don't forget to share your Opinion on Laphroaig, and you could win a trip for two to Laphroaig Live this September on Islay. www.laphroaig.com/opinions Timeline Photos",
-          1434132002
-        ],
-        [
-          "Share your Opinion in the Opinions Wanted tab above and you could have your personal Opinion immortalised at the distillery and even win a trip for two to Islay settling into front row seats at the Laphroaig Live this year ... www.laphroaig.com/opinions Timeline Photos",
-          1432233001
-        ],
-        [
-          "We\u2019ve been dividing people\u2019s opinions since 1815; that\u2019s 200 years of thick Islay skin! Throughout 2015 we will be rewarding the best 200 Opinions with 200 prizes; including your opinion immortalised at the distillery or a trip for two to Laphroaig Live this September on Islay. \n\nShare your opinion now ... http://www.laphroaig.com/Opinions/ Timeline Photos",
-          1430323202
-        ],
-        [
-          "Want to know what happened behind the scenes of our Christmas Carol video?\n\nWatch this video and remember to enter your own opinion at http://bit.ly/OpinionsWelcome",
-          1418807450
-        ],
-        [
-          "We hired this Scottish choir to sing what you said Laphroaig tastes like. Thanks to you, \u201cIt\u2019s like being kicked in the face by a horse\u201d is now a lyric in a Christmas Carol. \n\nEnter your Opinion: http://bit.ly/OpinionsWelcome",
-          1418329801
-        ],
-        [
-          "In the spirit of Halloween, we asked some guys and ghouls to taste Laphroaig.\n\nThis is what they said, 100% unscripted.\n\nhttps://www.youtube.com/watch?v=dp4isxDD5dE\n\nEnter your own opinion at http://www.laphroaig.com/opinions/ Laphroaig Opinions Welcome Halloween Edition We asked a group of Halloween party goers to taste the most richly flavored of all scotch whiskies. This is what they said, 100% unscripted. #OpinionsWelcome...",
-          1414787400
-        ],
-        [
-          "\u201cTastes like a war museum.\u201d - Daniel M.\n\nEnter your Opinion: http://bit.ly/OpinionsWelcome Timeline Photos",
-          1406229900
-        ],
-        [
-          "\u201cA volcanic eruption of fire and smoke.\u201d #OpinionsWelcome\n\nWant your Opinion in our ads? Click on the link and enter yours: http://bit.ly/OpinionsWelcome Timeline Photos",
-          1405021201
-        ],
-        [
-          "\u201cThe soil is on fire and your soul is a flame\u201d - Bernd\n\nEnter your opinion: http://bit.ly/OpinionsWelcome Timeline Photos",
-          1403894757
-        ],
-        [
-          "Have you tasted Laphroaig? Click on the link below and enter your opinion. \n\nIf it's as distinctive as our whisky, we may even use it in our campaign and name you personally on the ads \u2013 fame at last.  We've Been Called \"A Peaty Assault On Your Taste Buds\"...What's Your Opinion? Laphroaig is a whisky you can't fail to have a strong opinion about. #OpinionsWelcome is an open-arms invitation for you to share your thoughts on the richest of all Islay single malts. ",
-          1403653725
-        ],
-        [
-          "How about this for a new way to enjoy Laphroaig: the Game Of Thrones cocktail? http://bit.ly/GameOfThronesCocktail Cocktails #GameOfThronesCocktails The Magnificent Bastard recipe by Bryan Swanson 2 ounces Bulleit Bourbon 1 ounce Berentzen Apfelkorn Splash of Laphroaig 10-year scotch 2 dashes angostura bitters",
-          1384347000
-        ],
-        [
-          "Laphroaig fan Erik Priess has discovered a new way to make sure he gets his dram with the least inconvenience to himself! Genius, don't you think? Timeline Photos",
-          1373372084
-        ]
-      ],
-      "dates_start": 1418247246,
-      "dates_end": 1478538644,
-      "likes_avg": 523,
-      "likes_stdev": 501,
-      "comments_avg": 30,
-      "comments_stdev": 73,
-      "shares_avg": 86,
-      "shares_stdev": 195
-    },
-    {
-      "number": 13,
-      "important": [
-        "laphroaig"
-      ],
+      "number": 4,
+      "important": [],
       "common": [
         "den",
-        "den einzigartig torfigen geschmack von",
-        "f\u00f6r",
         "geschmack",
-        "laphroaig",
-        "timelin",
-        "torfigen",
+        "kommer",
+        "kommer att",
+        "torfigen geschmack",
+        "torfigen geschmack von",
+        "torfigen geschmack von laphroaig",
         "und",
         "von",
         "von laphroaig"
@@ -1341,25 +523,173 @@
       "shares_stdev": 77
     },
     {
-      "number": 14,
+      "number": 5,
       "important": [
-        "competit",
-        "fol",
+        "opinionswelcom",
+        "islay",
+        "laphroaig",
+        "want",
+        "share"
+      ],
+      "common": [
         "enter",
-        "visit",
+        "islay",
+        "laphroaig",
+        "opinionswelcom",
+        "photo",
+        "share",
+        "timelin",
+        "timelin photo",
+        "want",
+        "winner"
+      ],
+      "messages": [
+        [
+          "We won\u2019t ask how Neel knows what a peat stove\u2019s ashtray tastes like. We just hope he\u2019s got enough whisky. #OpinionsWelcome Timeline Photos",
+          1487959561
+        ],
+        [
+          "Don't agree with Tristan? Share yours http://www.laphroaig.com/opinions/ #OpinionsWelcome Timeline Photos",
+          1484676421
+        ],
+        [
+          "Lauren Mote thinks Laphroaig is like \"Soft Salty Raindrops\". What's it like to you? Share yours #OpinionsWelcome Timeline Photos",
+          1483984922
+        ],
+        [
+          "Thanks to James Smith for this opinion. What does Laphroaig taste like to you? #opinionswelcome http://bit.ly/2achlRl Timeline Photos",
+          1479578521
+        ],
+        [
+          "This week, we've projected 100's of your opinions onto our distillery wall. Tonight is your last chance to get involved. Share your opinion on Laphroaig via Twitter using  #OpinionsWelcome and see it projected live. Timeline Photos",
+          1476552227
+        ],
+        [
+          "This week, we've projected 100's of your opinions onto our distillery wall.  Today's your last chance to get involved! Share your opinion on Laphroaig via Twitter using  #OpinionsWelcome and see it projected live. Timeline Photos",
+          1476547810
+        ],
+        [
+          "Tweet us with #OpinionsWelcome for your chance to see your opinion on this wall #OpinionsWelcome by Laphroaig Watch Laphroaig's #OpinionsWelcome on Livestream.com. Tweet your opinion to #OpinionsWelcome from 11th - 15th Oct for the chance to see it projected on our famous distillery wall on Islay.",
+          1476464400
+        ],
+        [
+          "What's your opinion of Laphroaig? If you're on Twitter, you have the chance for the next hour to have your opinion projected live onto the warehouse no.1 wall. Just tweet us using #OpinionsWelcome and follow the action live: www.laphroaig.com/opinions Timeline Photos",
+          1476379388
+        ],
+        [
+          "Something big is happening at the distillery from Tuesday until Saturday. For those of you on Twitter, you can tweet us your opinion between 7:30pm - 9:30pm (BST) using #OpinionsWelcome and your tweet will be projected onto our famous distillery wall. Timeline Photos",
+          1476122512
+        ],
+        [
+          "Want to come see where the salty sea air seeps into the very soul of Laphroaig?\n\nShare your opinion with us at Laphroaig.com/opinions and you may have a chance to.\n\nT&Cs apply.\n\n#OpinionsWelcome Laphroaig - Opinions Welcome Laphroaig is a complex beast - even our closest friends can describe us in seemingly disparaging terms\u2026 before saying \u2018they love us'!",
+          1471428000
+        ],
+        [
+          "We've adored the entries so far; some thought it was like  \"sucking cinder toffee straight after gargling mouthwash\" or tasted like \"burnt salted shoes\".\n\nHow would you describe our liquid? Share your Opinion at Laphroaig.com/opinions and win a trip for two to Islay.\n\nT&Cs apply.\n\n#OpinionsWelcome Laphroaig - Opinions Welcome Laphroaig is a complex beast - even our closest friends can describe us in seemingly disparaging terms\u2026 before saying \u2018they love us'!",
+          1471345201
+        ],
+        [
+          "Want to see where Laphroaig is made? Share your opinion on 10 Year Old, Select or PX Cask and you could win a trip for two to the distillery.\n\nEnter now at Laphroaig.com/opinions\n\nT&Cs apply.\n\n#OpinionsWelcome Timeline Photos",
+          1469455201
+        ],
+        [
+          "Sunday... Time to recap on the dram you had last night. Or talk about the one you're having tonight.\n\nWhichever it is, don't let your opinion go to waste; share it with us at laphroaig.com/opinions. If it was a dram of PX, 10yo or SELECT, you might just win a trip to Islay.\n\nSlainte! Timeline Photos",
+          1465747321
+        ],
+        [
+          "We are looking for 201 Opinions for each year we've been making whisky.\n\nSo whatever your opinion, please share it with us at laphroaig.com/opinions. You might win a trip for two to Islay.\n\nhttp://laphroaig.com/opinions/",
+          1462896000
+        ],
+        [
+          "Enjoy the winning photo from our March competition - congratulations to all our winners.\n\nWill you be a winner in April? Timeline Photos",
+          1460044800
+        ],
+        [
+          "We\u2019ve already shared our 200 Opinions Wanted winners and we are delighted to announce our Grand Prize Winners. These winning opinions really impressed us, what a beautifully opinionated bunch you all are! We look forward to welcoming you all to Islay to join us for a very special 200th anniversary Laphroaig Live in September. \n\nSl\u00e1inte 200 Opinions Wanted Grand Prize Winners",
+          1440772108
+        ],
+        [
+          "Thank you to all those who entered \u201c200 Opinions Wanted\u201d, here is a little thank you from John\u2026   Sl\u00e0inte!",
+          1440579373
+        ],
+        [
+          "Thank you all for your opinions - we\u2019ve now selected all 200 winners of 200 Opinions Wanted\u2026 \nLook out for the tiled wall which will feature all opinions at the distillery AND stay tuned, to find out the names of our Grand Prize winners, \nwho\u2019ll be joining us on Islay for Laphroaig Live next month. Sl\u00e1inte 200 Opinions Wanted",
+          1439978166
+        ],
+        [
+          "We\u2019ve just announced our first batch of winners for the Laphroiag 200 Opinions Wanted competition! There is still time to enter the competition so do so here http://www.laphroaig.com/Opinions. We will be announcing more winners in the coming weeks. Laphroaig 200 Opinions Wanted Competition Winners",
+          1434724509
+        ],
+        [
+          "Don't forget to share your Opinion on Laphroaig, and you could win a trip for two to Laphroaig Live this September on Islay. www.laphroaig.com/opinions Timeline Photos",
+          1434132002
+        ],
+        [
+          "Share your Opinion in the Opinions Wanted tab above and you could have your personal Opinion immortalised at the distillery and even win a trip for two to Islay settling into front row seats at the Laphroaig Live this year ... www.laphroaig.com/opinions Timeline Photos",
+          1432233001
+        ],
+        [
+          "We\u2019ve been dividing people\u2019s opinions since 1815; that\u2019s 200 years of thick Islay skin! Throughout 2015 we will be rewarding the best 200 Opinions with 200 prizes; including your opinion immortalised at the distillery or a trip for two to Laphroaig Live this September on Islay. \n\nShare your opinion now ... http://www.laphroaig.com/Opinions/ Timeline Photos",
+          1430323202
+        ],
+        [
+          "Want to know what happened behind the scenes of our Christmas Carol video?\n\nWatch this video and remember to enter your own opinion at http://bit.ly/OpinionsWelcome",
+          1418807450
+        ],
+        [
+          "We hired this Scottish choir to sing what you said Laphroaig tastes like. Thanks to you, \u201cIt\u2019s like being kicked in the face by a horse\u201d is now a lyric in a Christmas Carol. \n\nEnter your Opinion: http://bit.ly/OpinionsWelcome",
+          1418329801
+        ],
+        [
+          "In the spirit of Halloween, we asked some guys and ghouls to taste Laphroaig.\n\nThis is what they said, 100% unscripted.\n\nhttps://www.youtube.com/watch?v=dp4isxDD5dE\n\nEnter your own opinion at http://www.laphroaig.com/opinions/ Laphroaig Opinions Welcome Halloween Edition We asked a group of Halloween party goers to taste the most richly flavored of all scotch whiskies. This is what they said, 100% unscripted. #OpinionsWelcome...",
+          1414787400
+        ],
+        [
+          "\u201cTastes like a war museum.\u201d - Daniel M.\n\nEnter your Opinion: http://bit.ly/OpinionsWelcome Timeline Photos",
+          1406229900
+        ],
+        [
+          "\u201cA volcanic eruption of fire and smoke.\u201d #OpinionsWelcome\n\nWant your Opinion in our ads? Click on the link and enter yours: http://bit.ly/OpinionsWelcome Timeline Photos",
+          1405021201
+        ],
+        [
+          "\u201cThe soil is on fire and your soul is a flame\u201d - Bernd\n\nEnter your opinion: http://bit.ly/OpinionsWelcome Timeline Photos",
+          1403894757
+        ],
+        [
+          "Have you tasted Laphroaig? Click on the link below and enter your opinion. \n\nIf it's as distinctive as our whisky, we may even use it in our campaign and name you personally on the ads \u2013 fame at last.  We've Been Called \"A Peaty Assault On Your Taste Buds\"...What's Your Opinion? Laphroaig is a whisky you can't fail to have a strong opinion about. #OpinionsWelcome is an open-arms invitation for you to share your thoughts on the richest of all Islay single malts. ",
+          1403653725
+        ]
+      ],
+      "dates_start": 1421670826,
+      "dates_end": 1477822199,
+      "likes_avg": 471,
+      "likes_stdev": 482,
+      "comments_avg": 30,
+      "comments_stdev": 83,
+      "shares_avg": 84,
+      "shares_stdev": 217
+    },
+    {
+      "number": 6,
+      "important": [
+        "enter httpbitlyfriendsoflaphroaig",
+        "fol",
+        "laphroaig",
+        "caption",
         "month"
       ],
       "common": [
         "caption",
-        "competit",
-        "enter",
+        "enter httpbitlyfriendsoflaphroaig",
+        "enter httpbitlyfriendsoflaphroaig timelin",
+        "enter httpbitlyfriendsoflaphroaig timelin photo",
         "fol",
+        "friend",
+        "friend laphroaig",
         "laphroaig",
         "month",
-        "timelin",
-        "visit",
-        "websit enter",
-        "yet"
+        "winner"
       ],
       "messages": [
         [
@@ -1369,6 +699,26 @@
         [
           "Only a few days left to enter this months #FOL caption competition. Have you entered yet? Just visit the website to enter: http://bit.ly/friendsoflaphroaig Timeline Photos",
           1398345113
+        ],
+        [
+          "Congratulations to our February FOL competition winners. Fancy being a March winner? Just enter here: http://bit.ly/FriendsOfLaphroaig Timeline Photos",
+          1394621948
+        ],
+        [
+          "Congratulations to Debbie and Georg our December Friends of Laphroaig winners! Fancy being a January winner? Just enter here: http://bit.ly/FriendsOfLaphroaig Timeline Photos",
+          1388749659
+        ],
+        [
+          "Congratulations to Svetlana and Ralf our November Friends of Laphroaig winners! Fancy being a December winner? Just enter here: http://bit.ly/FriendsOfLaphroaig Timeline Photos",
+          1386069817
+        ],
+        [
+          "Congratulations to Stephen and Brian our October Friends of Laphroaig winners! Fancy being a November winner? Just enter here: http://bit.ly/FriendsOfLaphroaig Timeline Photos",
+          1383571801
+        ],
+        [
+          "Congratulations to Ralf and Michael, our September Friends of Laphroaig winners! Fancy being an October winner? Just enter here: http://bit.ly/FriendsOfLaphroaig Timeline Photos",
+          1380630492
         ],
         [
           "Do you have a witty caption for this month's Friends of Laphroaig photo? Enter August's FoL competition here: http://bit.ly/FriendsOfLaphroaig Timeline Photos",
@@ -1383,6 +733,14 @@
           1372250184
         ],
         [
+          "Congratulations to Christopher Kocher who scooped last month's FoL Photo Competition prize. Will yours be this month's winner? Enter at laphroaig.com: http://bit.ly/FriendsOfLaphroaig Timeline Photos",
+          1370353774
+        ],
+        [
+          "It's your last chance to enter this month's FoL competitions! Submit your photo or caption for a chance to win: http://bit.ly/FriendsOfLaphroaig Timeline Photos",
+          1369998493
+        ],
+        [
           "Have you entered this month's Friends of Laphroaig caption competition yet? Visit http://bit.ly/FriendsOfLaphroaig to enter! Timeline Photos",
           1366800939
         ],
@@ -1395,143 +753,33 @@
           1361522768
         ]
       ],
-      "dates_start": 1362649706,
-      "dates_end": 1392885350,
-      "likes_avg": 927,
-      "likes_stdev": 441,
-      "comments_avg": 40,
-      "comments_stdev": 33,
-      "shares_avg": 78,
-      "shares_stdev": 58
+      "dates_start": 1367091458,
+      "dates_end": 1392393369,
+      "likes_avg": 983,
+      "likes_stdev": 406,
+      "comments_avg": 32,
+      "comments_stdev": 28,
+      "shares_avg": 81,
+      "shares_stdev": 60
     },
     {
-      "number": 15,
+      "number": 7,
       "important": [
-        "sea",
-        "whiski",
+        "love",
         "laphroaig",
-        "tri",
-        "islay"
+        "rememb"
       ],
       "common": [
-        "come",
-        "island",
-        "islay",
-        "laphroaig",
-        "like",
-        "sauc",
-        "sea",
-        "timelin",
-        "tri",
-        "whiski"
-      ],
-      "messages": [
-        [
-          "The power of the sea, the punch of the smoke, the perfume of Islay\u2019s streams. Laphroaig: The whisky drinker\u2019s whisky. Timeline Photos",
-          1486576981
-        ],
-        [
-          "Some of our friends swear they can taste the sea in our whisky. When you see how close the sea is to us, it's not so difficult to see why. Timeline Photos",
-          1483812181
-        ],
-        [
-          "Whisky tasting tip: Experience the flavours that no other whisky can give you by drinking a small amount of water prior to tasting. A clean palate unlocks all the hidden flavours. It\u2019s like trying Laphroaig for the very first time. Timeline Photos",
-          1482170520
-        ],
-        [
-          "We think of Islay as a treasure island. Without our peat bogs, our whisky wouldn't be the same. Timeline Photos",
-          1479319321
-        ],
-        [
-          "\u2018The sweat from God\u2019s brow\u2019;\u000b otherwise known as Lore. \u000bHave you tried it? Timeline Photos",
-          1474301460
-        ],
-        [
-          "Some of the islanders clearly aren\u2019t happy about our whisky leaving the Island\u2026 Timeline Photos",
-          1474034401
-        ],
-        [
-          "Happy Earth Day to all of our friends around the world!\n\nAs you know, for us at Laphroaig, taking care of our environment is very important. The beautiful peat fields and sea are integral in the process of what makes Laphroaig so special. For that reason, sustaining the ecosystem of the island is one of the most important parts of our legacy.\n\nWe are very lucky to be able to work and live here.\n\nWe'll leave you with these stunning pictures of Islay, but to truly appreciate the beauty of this island, we urge you to come and visit. Photos from Laphroaig's post",
-          1461341601
-        ],
-        [
-          "HRH Prince Charles, Duke of Rothesay tries his hand at stoking the famous peat kiln ... Timeline Photos",
-          1435326902
-        ],
-        [
-          "The sun is shining here today at Laphroaig so we are busy busy busy. The grass is now cut, the walls are getting their annual white paint, and the sea bank (undermined by the stormy waters during winter) is being built. \nAlso lovely to see the sea kayaks come in to the bay this afternoon - how will you be arriving for your visit? Photos from Laphroaig's post",
-          1429281000
-        ],
-        [
-          "Looking for something delicious to try out on the weekend? We've got you covered!\n\nCut and burn\n\n10 ml Laphroaig Select\n40 ml Maker\u2019s \n20 ml sea buckthorn pur\u00e9e from fresh sea buckthorn\n20 ml freshly squeezed lemon juice\n20 ml honey syrup \n\nShake all the ingredients and strain into a coupette glass and enjoy!\n\nCut and Burn was the official Laphroaig Live 2014 pre-drink crafted by the amazingly talented Madeleine Solo Rapp. Timeline Photos",
-          1412447401
-        ],
-        [
-          "Did anyone try out the Whisky Gum recipe?\nLaphroaig is proud to represent Islay whiskies in the original dish at Heston's Fat Duck restaurant. Looks yummy! Timeline Photos",
-          1409596201
-        ],
-        [
-          "As Rob's Laphroaig laced ice cream proved to be so popular, we have found another yummy treat for you to try out. Just in time for the weekend. Enjoy!\n\nHeston's Whisky Gums - Makes 20 sweets\n\nGroundnut or grapeseed oil\n200g Laphroaig whisky\n30g powdered gelatine\n200g liquid glucose\n150g unrefined caster sugar\n1/2 tsp cream of tartar\n100g white granulated sugar for dusting\n\nLightly grease a chocolate mould tray with a little groundnut or grapeseed oil. If you don\u2019t have moulds, line a 20 x 30cm baking tray with parchment paper.\n\nPour 130g of the whisky into a small saucepan and add the gelatine. Warm the pan over a low heat until the gelatine has dissolved in the liquid. Remove from the heat.\n\nPut the remaining whisky in a different saucepan with the glucose, caster sugar and cream of tartar. Place over a high heat and heat until the temperature of the liquid reaches 124\u00b0C / 255\u00b0F.\n\nRemove the pan from the heat and allow the liquid to cool to 100\u00b0C / 212\u00b0F before adding the whisky and gelatine mixture.\n\nMix the liquids together with a spatula until the gelatine is fully incorporated, then pour the mixture into the lightly greased moulds or onto the parchment-lined baking tray.\n\nPlace the moulds in the fridge and leave to set for at least 6 hours before de-moulding.\n\nCarefully remove the gums from the moulds, or cut the jelly on the tray into cubes. (You could also use a 1.5-2cm pastry cutter to cut out the gums.)\n\nOnce de-moulded, place the gums in a bowl with the granulated sugar and roll around until coated on all sides.\n\nOriginal recipe from: http://www.telegraph.co.uk/promotions/dine-home-heston/10616385/whisky-gums-heston.html Timeline Photos",
-          1408645801
-        ],
-        [
-          "Some pictures taken from this morning. The transport on and off the island continues to be disrupted by the weather. High tides has seen the sea come up against the walls of warehouse 1 leaving a trail of seaweed. More ferries are cancelled today. Christmas storm 2013",
-          1388141693
-        ],
-        [
-          "A combination of strong winds and high tides has seen the sea come up against the walls of Warehouse 1, leaving a trail of seaweed! Transport on and off the island continues to be disrupted by the weather, with more ferries cancelled today. Timeline Photos",
-          1388141493
-        ],
-        [
-          "Have you tried the official Laphroaig BBQ sauce?\n(With thanks to The Distant Thunder Whisky Club) The Distant Thunder Whisky Club: Getting your Laphroaig On \u2013 The Official Laphroaig BBQ Sauce The sauce sounds delicious to me, but here's my question: did any wives and children try this sauce (and like it)? I wonder if it's a gents-only sauce?",
-          1371032229
-        ],
-        [
-          "See what the Whiskyboys.com had to say about our Water to Whisky tour! So when will you be visiting us on Islay? Laphroaig - Water to Whisky Experience | Whisky Blog A few images always come to mind when I think of Islay\u2019s Laphroaig Whisky, one of them being the understated white label, another is the iconic white washed sea wall and another would be, of course, the peaty monster you experience on that first hit\u2026 On this trip to Islay my eyes were opened wide to...",
-          1368530029
-        ],
-        [
-          "Happy Shrove Tuesday! Why not give our Laphroaig & Orange Pancake Sauce a try? Or post us your own suggestions in the Comments below\u2026\n\nSimply melt butter and sugar in a pan and simmer for 5 minutes. Then add orange and lemon juice and zest until the mixture gently bubbles, add Laphroaig and simmer for 3 more minutes. Pour over your pancakes and heat in the oven for 10 minutes. Timeline Photos",
-          1360665858
-        ],
-        [
-          "Laphroaig ambassador Simon Brooking offers tasting tips from his session at The Pass and Provisions. Have you tried his method? http://bit.ly/HoustonTasting Drinking like the Scots: A mind-bending spirits pairing at a high-end Houston restaurant - 2013-Jan- When I\u2019m sending my whiskey on back to the sea Names will be shattered and glasses be filled The girls will get frisky and do what they will But the ...",
-          1358419275
-        ],
-        [
-          "A poem by FOL, Matthew Rymer...\n\nLaphroaig by the Beach\n\nScotch should never hit your stomach\nA simple tiny sip that should tumble and trip\nDown the palate like Lolita\u2019s legs are long\nWith a tug from a stogie that isn\u2019t too strong\n\nVapors rise through the nostrils\nA vague trace of smoky peat and brine\nAccompany the symphony of numb that is mine\n\nSeaweed kindles the embers on my tobacco tongue\nAnd dances on my lips as they drink in the sun\n\nA faint reverie ensues while my body imbues\nThe sweat of the sea as it drips from my cheeks\nAnd meets the crisp air from the wind that it seeks\n\nNumb\n\nDumb\n\nOrchards breath deep as the breeze starts to come\n\nWoolen clouds gather like an eruption of thought\nAnd remind of the window of time I have bought\nReturning to the sea, gazing at forever \nReminding of a time that until now, was never\n\nSand tingles and stings, like scotch in the throat\nRushing away from the shore\nAwestruck endlessness brings with it a note\nFor what tomorrow has in store",
-          1343040363
-        ]
-      ],
-      "dates_start": 1373530223,
-      "dates_end": 1470135535,
-      "likes_avg": 872,
-      "likes_stdev": 567,
-      "comments_avg": 26,
-      "comments_stdev": 12,
-      "shares_avg": 77,
-      "shares_stdev": 57
-    },
-    {
-      "number": 16,
-      "important": [
-        "alway",
-        "dram",
-        "laphroaig",
-        "rememb",
-        "enjoy"
-      ],
-      "common": [
-        "alway",
         "alway enjoy",
-        "dram",
+        "alway enjoy dram",
+        "alway enjoy dram respons",
         "dram respons",
-        "enjoy",
+        "enjoy dram",
+        "enjoy dram respons",
         "laphroaig",
         "love",
         "rememb",
-        "respons",
-        "timelin"
+        "rememb alway"
       ],
       "messages": [
         [
@@ -1581,24 +829,24 @@
       "shares_stdev": 53
     },
     {
-      "number": 17,
+      "number": 8,
       "important": [
-        "glass",
-        "nose glass",
-        "win",
-        "nose",
+        "competit",
+        "enter",
+        "friend",
+        "friend laphroaig",
         "win laphroaig"
       ],
       "common": [
         "competit",
         "enter",
-        "glass",
-        "laphroaig",
+        "friend",
+        "friend laphroaig",
+        "friend laphroaig competit win laphroaig",
+        "httpbitlyfriendsoflaphroaig timelin photo",
         "laphroaig nose",
-        "nose",
-        "nose glass",
-        "timelin",
-        "win",
+        "laphroaig nose glass",
+        "still",
         "win laphroaig"
       ],
       "messages": [
@@ -1657,506 +905,107 @@
       "shares_stdev": 48
     },
     {
-      "number": 18,
+      "number": 9,
       "important": [
-        "christma",
-        "decemb",
-        "time",
-        "laphroaig",
-        "day"
-      ],
-      "common": [
-        "christma",
-        "day",
-        "decemb",
-        "islay",
-        "laphroaig",
-        "laphroaig christma",
-        "make",
-        "open",
-        "time",
-        "timelin"
-      ],
-      "messages": [
-        [
-          "We\u2019re going to enjoy Laphroaig in front of the fire, full of turkey and cheese this Christmas. What\u2019s your serving suggestion? Timeline Photos",
-          1482516361
-        ],
-        [
-          "If you really love the whisky-mad person in your life, you\u2019re going to have to get your skates on. The deadline for guaranteed delivery in the UK before Christmas is just 5 days away (20th December). Shop here: http://bit.ly/2fMreYi Timeline Photos",
-          1481824980
-        ],
-        [
-          "There's not much time to get your Christmas jumper before the big day if you're based in the EU. http://www.laphroaig.com/shop/product.aspx?ShopItemID=115 Timeline Photos",
-          1481738522
-        ],
-        [
-          "Strong, peaty and smokey whiskies like Laphroaig go perfectly with strong cheeses. This Christmas, make sure you have some Roquefort or stilton on your cheeseboard. Or really go for it with some of our own cheddar http://bit.ly/2eQMEkV Timeline Photos",
-          1481047382
-        ],
-        [
-          "Islay is pretty far from everything. If you live outside of the EU, the deadline for guaranteed Christmas delivery is just fours days away (8th December). Shop here: http://bit.ly/2fMreYi Timeline Photos",
-          1480874523
-        ],
-        [
-          "You asked. We listened. The newest Laphroaig Christmas jumpers are available now. Once they\u2019re gone, they\u2019re gone (...and they may be gone very soon). http://www.laphroaig.com/shop/product.aspx?ShopItemID=115 Timeline Photos",
-          1480788001
-        ],
-        [
-          "Paris. Milan. Islay. Make your fashionista friends' Christmas with a limited edition Laphroaig Christmas jumper! Available now here http://www.laphroaig.com/shop/product.aspx?ShopItemID=115 Timeline Photos",
-          1480079401
-        ],
-        [
-          "It's a well known fact that the last Saturday before Christmas should always be spent singing Laphroaig Christmas carols with a dram in hand.\n\nLet us know what's your favorite carol and what do you like drinking with it.",
-          1450551601
-        ],
-        [
-          "Today we wore our Christmas jumpers to raise money for charity. Mince pies, chocolate truffles, cheese, hot toddies and a dram or two were on offer for everyone who came to visit.\n\nIf you're still planning a visit, our festive opening hours are:\n\nOPEN: (9.45am -3.30pm) December 9th\nOPEN: (10am -2pm) December 22nd\nOPEN: (10am-4pm) December 27th, 28th, 29th, 30th, 31st\nOPEN: (10am -4pm) January 2nd\n\nCLOSED: December 23rd, 24th, 25th, 26th\nCLOSED: January 1st, 3rd Photos from Laphroaig's post",
-          1450465201
-        ],
-        [
-          "It's time to start singing Christmas carols again. Who remembers the lyrics?\n\nLet us remind you... Laphroaig Christmas carols",
-          1450292400
-        ],
-        [
-          "If you\u2019re looking for a present that will make a whisky fan smile on Christmas Day, you'll be spoilt for choice at our online store.\nTo make sure you receive your order just in time, here are the last shopping days for guaranteed Christmas delivery.\n\nUnited Kingdom - 18th of Decembed\nEurope - 11th of December\nRest of the world - 4th of December\n\nhttp://laphroaig.com/shop/ Photos from Laphroaig's post",
-          1449172801
-        ],
-        [
-          "If you're looking for a perfect attire to wear during the Holiday season, we've got you covered!\n\nThis year you will be able to sip your Laphroaig whilst wearing our Limited Edition Christmas Jumper! It's now available for pre-order and will be shipped in the beginning of December - just in time for Christmas.\n\nIf your Santa is on Facebook... Tag them here and let them know.\n\nOrder now at http://laphroaig.com/shop/product.aspx?ShopItemID=101 Timeline Photos",
-          1445358601
-        ],
-        [
-          "After a long day of last minute Christmas shopping\u2026\nYou know what helps. Timeline Photos",
-          1419366601
-        ],
-        [
-          "It is a well known fact that a dram of Laphroaig makes you feel festive and sing. And keeps you warm even when Christmas Caroling on Islay.\n\nSl\u00e1inte!\n\nEnter your Opinion at http://bit.ly/OpinionsWelcome",
-          1419193800
-        ],
-        [
-          "Tomorrow is the last order date for our fans outside of Europe to make sure they arrive in time for Christmas. Which expression is on your list?\n\nhttp://bit.ly/LaphroaigShop Timeline Photos",
-          1386823020
-        ],
-        [
-          "We spent Sunday afternoon welcoming locals and visitors to our Christmas Open Day at our Visitor Centre. Lots of stories were shared over Laphroaig mince pies, hot toddies, and of course a few drams! Timeline Photos",
-          1386683848
-        ],
-        [
-          "If you know someone who would love Laphroaig for Christmas be sure to get your orders in soon. Find out when the last date for orders is in your country here \r\n\r\nhttp://bit.ly/LaphroaigShop Timeline Photos",
-          1386675001
-        ],
-        [
-          "Join us this festive season and help decorate our Friends of Laphroaig Christmas Tree. \n\nAnswer a quick question - if you answer correctly, you'll be entered into a prize draw. #MerryLaphroaig. \n\nOnly open to Friends of Laphroaig Members. \nhttp://bit.ly/MerryLaphroaig Timeline Photos",
-          1386213360
-        ],
-        [
-          "All lit up in time for our Taste of Christmas Open Evening in the Visitor Centre at Laphroaig.  If you are on Islay \u2013 come and join us tonight between 6.30 and 9.00 for music, hot toddies, mince pies, local Christmas shopping and more. Local Christmas market with Islay Woollen Mill, Mary Knowles, Islay Choc Co, An Gleann and more! If you\u2019re not able to make it, join us in raising a glass to Friends across the world. Timeline Photos",
-          1355241423
-        ]
-      ],
-      "dates_start": 1398813148,
-      "dates_end": 1480650728,
-      "likes_avg": 671,
-      "likes_stdev": 602,
-      "comments_avg": 31,
-      "comments_stdev": 28,
-      "shares_avg": 68,
-      "shares_stdev": 78
-    },
-    {
-      "number": 19,
-      "important": [
-        "whiski",
-        "tartan",
-        "like",
-        "islay",
-        "look"
-      ],
-      "common": [
-        "islay",
-        "laphroaig",
-        "like",
-        "look",
-        "spirit",
-        "still",
-        "tartan",
-        "timelin",
-        "today",
+        "world",
         "whiski"
       ],
+      "common": [
+        "laphroaig singl",
+        "laphroaig singl malt",
+        "laphroaig singl malt peat",
+        "laphroaig singl malt peat whiski",
+        "peat whiski islay rich",
+        "rich flavour scotch",
+        "rich flavour scotch whiski",
+        "rich flavour scotch whiski world",
+        "whiski",
+        "world"
+      ],
       "messages": [
         [
-          "Our peat bog might not look like much. But just like our whisky, it\u2019s beautiful once you\u2019ve experienced it. Timeline Photos",
-          1489082521
+          "Have you got your Feis Ile planned already?\n\nWe still have a very limited amount of tickets left to the Distillers Tasting where John Campbell, Denis Nicol, Murdo Reed and Robert Hicks will form the panel of Laphroaig Distillers.\n\nThey are looking forward to tasting their favourite drams with you and sharing stories of their time at Laphroaig, so if you're thinking of coming, book now to avoid disappointment!\n\nhttp://laphroaig.com/distillery/FeisIle2016.aspx Laphroaig Single Malt Whisky - Feis Ile 2016 Laphroaig Single Malt peated Whisky from Islay. The most richly flavoured scotch whisky in the World.",
+          1461772800
         ],
         [
-          "All our secrets are in this book\u2026who\u2019d like a look inside? Timeline Photos",
-          1476893221
+          "GEWINNSPIEL: Was sagst du zu dem Geschmack des Nr. 1 Single Malts aus Islay? Schreib es bis zum 27.11.2015 um 12:00 Uhr in die Kommentare und gewinne 1 Laphroaig Winterpaket oder 1 Flasche des limitierten Laphroaig 15 years.\nTeilnahmebedingungen unter http://bit.ly/LAPH_Winter-Geschenk Timeline Photos",
+          1448375520
         ],
         [
-          "It's officially the last day of summer, but we're already looking forward to some excellent autumn night drams.\n\nLet us know what was your favourite moment of the season? Timeline Photos",
-          1472659202
+          "Kannst du den Geschmack der Nr. 1 unter den Islay Single Malts beschreiben? Versuche es und gewinne ein Laphroaig Geschenkset \u2013 demn\u00e4chst auf unserer Facebook-Seite.",
+          1447171320
         ],
         [
-          "The best way to set a table full of Laphroaig must be on top of the official Friends of Laphroaig tartan. It was designed four years ago by Patrcik McCoy and still looks just as beautiful.\n\nThe black, white, and green are the official Laphroaig colours and the small blue strip represents the water which is so important to making the whisky. The light brown represents the malted barley, which gives Laphroaig its signature taste, as well the finished whisky itself.\n\nIt's made right here on Islay by the Islay Woolen Mill. Timeline Photos",
-          1462204800
+          "This month our Friend's of Laphroaig have a chance to bid in a very special auction - for a  bottle of 40 Year Old Laphroaig signed by His Royal Highness Prince Charles, Duke of Rothesay with all funds raised going to the Laphroaig Legacy fund for our islanders. Find out more here\nhttp://www.laphroaig.com/friends/auction/Default.aspx www.laphroaig.com Laphroaig Single Malt peated Whisky from Islay. The most richly flavoured scotch whisky in the World.",
+          1440151202
         ],
         [
-          "How does John Campbell describe the latest addition to the Laphroaig range... we look forward to receiving yours.\n\n#OpinionsWelcome Timeline Photos",
-          1458496806
+          "We have had a nice review of An Cuan Mor from our friends @ Gourmantic in Australia. Have you tried \"ACM\" yet? Laphroaig An Cuan Mor Review | Gourmantic Review of Laphroaig An Cuan Mor, a new single malt expression in Australia travel retail.",
+          1437644723
         ],
         [
-          "We look forward to hearing more of your Opinions in 2016.\n\nRemember to submit them at http://laphroaig.com/opinions/ Timeline Photos",
-          1451847601
-        ],
-        [
-          "Still looking for that Christmas spirit? We have almost as much of that as we have whisky.\n\nSl\u00e0inte mhath!",
-          1450731601
-        ],
-        [
-          "The famous Laphroaig floor maltings are slowly being transformed into the background of the biggest and best Laphroaig Live yet.\n\nThe winds are howling and we have suffered heavy rains here on Islay, but it looks like there may be a break in the weather just in time for the ferries, planes and cars to arrive with all our guests.\n\nJust five hours to go!\n\nwww.laphroaig.com/live Photos from Laphroaig's post",
-          1443096001
-        ],
-        [
-          "This is what it looked like today at the distillery.\n\nLuckily we have enough Laphroaig to keep us warm and cosy even in the strongest of storms.\n\nHow's the current weather where you are?",
-          1421353801
-        ],
-        [
-          "If you're still searching for that Christmas Spirit maybe another medley of beautifully worded carols will help?\n\nAnd remember to submit your own version at http://bit.ly/OpinionsWelcome",
-          1419021000
-        ],
-        [
-          "Meet the panel:\nWe're very excited about the fact that for the first time since Sydney in 2011 we have a woman on the Laphroaig Live panel; Nour El-Refai!\n\nAt the young age of 26 she is already a famous comedian, TV personality, host and a well-known radio presenter. Nour has a wide and genuine interest in whisky as is often interviewed in media about her enthusiasm towards it.\n\nNot being one to stand back, we look forward to her forthright and no doubt witty views. Timeline Photos",
-          1410892201
-        ],
-        [
-          "Introducing the Magnificent 7 (stills of course), meet William Campbell who looks after the wash stills, spirit Stills and keeps our spirit safe.\nMy question to you: What do we call the \u2018heart\u2019 on Islay?\nAny questions for me? Timeline Photos",
-          1404489601
+          "Remember that if you're looking to do some Christmas Shopping at the Laphroaig Shop, the last shipping dates for all orders are;\n\nUK: 19th December\nEurope: 15th December\nRest of the World: 12th December\n\nHappy shopping!\n\nhttp://www.laphroaig.com/shop Laphroaig Single Malt Whisky - Shop Laphroaig Single Malt peated Whisky from Islay. The most richly flavoured scotch whisky in the World.",
+          1418223139
         ],
         [
           "No matter the malt you choose, we think we\u2019ve captured the spirit of Islay in each.  Let the debate over which is best begin\u2026 Timeline Photos",
           1401635400
         ],
         [
-          "It\u2019s a Laphroaig Tartan get together.  Join us from wherever you are. Sl\u00e1inte! Timeline Photos",
-          1400253000
-        ],
-        [
           "Just like our malts, this is how we do a full-flavored breakfast on Islay. Haggis is optional. Timeline Photos",
           1400050800
         ],
         [
-          "A snow flurry this lunch time Brrr its cold up here today! Timeline Photos",
-          1392130071
+          "Congratulations to Alan Baverstock and Robin Nico Seifermann our January Friends of Laphroaig winners! Fancy being a February winner? Just enter here: http://bit.ly/FriendsOfLaphroaig\n http://bit.ly/FriendsOfLaphroaig Laphroaig Single Malt peated Whisky from Islay. The most richly flavoured scotch whisky in the World.",
+          1391435566
         ],
         [
-          "Movember starts today! The people have spoken and John is going to try the Undercover Brother out for size. This is what he looks like before the tash attempt. We'll keep you updated on his progress. Support the team here http://bit.ly/1a8ruaf Timeline Photos",
-          1383310801
+          "How much do you know about the history of Laphroaig? Laphroaig Single Malt Whisky - History Laphroaig Single Malt peated Whisky from Islay. The most richly flavoured scotch whisky in the World.",
+          1363857550
         ],
         [
-          "Meet Gordon Covell, owner of the Islay Woollen Mill. He\u2019s been weaving for over 30 years on Islay, producing tweeds for films such as Forrest Gump, Far And Away, Rob Roy and Braveheart \u2013 a tartan which is still available today! People of Islay - Gordon Covell, Islay Woollen Mill Gordon Covell is the owner of the Islay Woollen Mill. Gordon has been responsible for producing the Tartans for several films including Braveheart and Forres...",
-          1376653408
+          "It\u2019s official \u2013 we\u2019ve less than one month until Christmas! We don\u2019t think Christmas presents come much better than Laphroaig \u2013 if you\u2019re thinking the same then don\u2019t forget to order yours before the end of the week... Laphroaig Single Malt Whisky - Shop Laphroaig Single Malt peated Whisky from Islay. The most richly flavoured scotch whisky in the World.",
+          1353925002
         ],
         [
-          "Same great whisky, smart new look! What do you think? Timeline Photos",
-          1369297752
-        ],
-        [
-          "According to the Robb Report, \"Laphroaig [whiskies] possess an unmistakable aura of seaweed-soaked smoke laced with iodine\". Do you agree? The World\u2019s Smokiest Single Malts | Robb Report - The Global Luxury Source Of all the countless classifications of spirits, those with the widest spectrum of flavors are the single-malt whiskies from Scotland. Whether they come from the Highlands, the Lowlands, Campbeltown, or the surrounding islands, an abundance of descriptors abounds for these multifaceted spirits: hone...",
-          1366966724
-        ],
-        [
-          "Remember our Friends of Laphroaig Tartan competition? Well here\u2019s our winner Patrick McCoy from America modelling the official Friends of Laphroaig Tartan for the first time! What do you think? Timeline Photos",
-          1355148550
-        ],
-        [
-          "We take just as much pride in the home of our whisky as we do the spirit itself. Here\u2019s a first glimpse of the new cladding on our warehouses, keeping Laphroaig safe and warm for many generations to come! Timeline Photos",
-          1353410879
-        ],
-        [
-          "The first official FOL tartan is in production at the Islay woollen Mill, designed by FOL Patrick Mc.Coy in our recent competition The Official FOL Tartan",
-          1346245771
-        ],
-        [
-          "Our flowers are looking particularly lovely today in the Islay sun Timeline Photos",
-          1343633876
-        ],
-        [
-          "We've been overwhelmed by all of your wonderful tartan designs, I'm looking forward to spending some time this weekend looking through the gallery. If you haven't created yours yet, you can do so here: http://www.facebook.com/laphroaig/app_104056196386728  Laphroaig The world's best-selling Islay malt whisky in its 201st year and still known to be the most richly-flavoured of all Scotch whiskies. www.laphroaig.com",
-          1336724613
-        ],
-        [
-          "Happy 18th birthday Friends of Laphroaig! To celebrate this milestone we will be creating an official FOL tartan, and we need your help in designing it. This quick and simple tartan maker will help you to help us, have a go. http://www.facebook.com/laphroaig/app_104056196386728",
-          1336127270
-        ],
-        [
-          "Some of our American and Canadian friends are celebrating Groundhog Day today. According to folklore, if it's cloudy when a groundhog emerges from its burrow today then spring will come early. It has just hit minus degrees here for the first time this winter so an early spring would be very welcome! \n\nIf you could choose to live the same day over and over again, what would that day involve?",
-          1328173763
-        ],
-        [
-          "Happy new year everybody, things are now back in full swing here and we're all looking forward to a great 2012. Sl\u00e0inte!",
-          1325586029
+          "We've had emails from friends who have spotted a new member of the Laphroaig family at airports. We have recently launched Laphroaig PX, a Laphroaig that has been matured in Pedro Ximenez sherry barrels. There's some more information on our website: http://laphroaig.com/whiskies/laph-px.aspx Laphroaig Single Malt Whisky - PX Cask Laphroaig Single Malt peated Whisky from Islay. The most richly flavoured scotch whisky in the World.",
+          1333352118
         ]
       ],
-      "dates_start": 1350440490,
-      "dates_end": 1447853585,
-      "likes_avg": 934,
-      "likes_stdev": 846,
-      "comments_avg": 51,
-      "comments_stdev": 61,
-      "shares_avg": 67,
-      "shares_stdev": 83
+      "dates_start": 1368450916,
+      "dates_end": 1447814940,
+      "likes_avg": 657,
+      "likes_stdev": 860,
+      "comments_avg": 81,
+      "comments_stdev": 158,
+      "shares_avg": 68,
+      "shares_stdev": 100
     },
     {
-      "number": 20,
+      "number": 10,
       "important": [
-        "beauti",
-        "whiski",
-        "world",
-        "year",
-        "islay"
-      ],
-      "common": [
-        "beauti",
-        "find",
-        "islay",
-        "laphroaig",
-        "panel",
-        "scotch",
-        "timelin",
-        "whiski",
-        "world",
-        "year"
-      ],
-      "messages": [
-        [
-          "It\u2019s important to put your favourite whisky at the front of your whisky cabinet. What does yours look like? Timeline Photos",
-          1488304980
-        ],
-        [
-          "Bliadhna Mhath U\u0300r (Happy New Year) to all of our friends across the world from everyone on Islay. Here\u2019s to more memories in 2017. Sla\u0300inte! Timeline Photos",
-          1483208520
-        ],
-        [
-          "Is this your dream whisky cabinet? Timeline Photos",
-          1482429901
-        ],
-        [
-          "Happy St Andrew\u2019s day from Islay to Scots across the world. Or as we say up here, \u201cAghmhor Latha an Naoimh Anndrais\u201d. Sla\u0300inte. Timeline Photos",
-          1480528801
-        ],
-        [
-          "Whisky tasting tip: The aroma is one of the most important factors when assessing whisky. Don\u2019t dive in with your nose like you would with wine. At over 59% our cask strength might put hairs on your chest, but it could also blow you away if you breathe a whole dram at once. Let the aroma come to you and see what memories it evokes. Timeline Photos",
-          1480356301
-        ],
-        [
-          "Every summer, thousands of birdwatchers descend upon Islay. We prefer to keep our eyes out for more common green-necked beauties, found behind bars across the world. Timeline Photos",
-          1478714641
-        ],
-        [
-          "Happy Bonfire Night. Luckily, we light a fire more than once a year. We burn our peat to flavour our barley every day. It\u2019s what makes Laphroaig one of the most distinctive whiskies in the world.",
-          1478367180
-        ],
-        [
-          "Scottish poet Elvis McGonagall is given a glass of Laphroaig, a typewriter and 30 minutes to write his \"poetic opinion\" on the richest of all scotch whiskies.",
-          1471094142
-        ],
-        [
-          "Scottish poet Harry Giles was given a glass of Laphroaig, a typewriter and 30 minutes to create his poetic opinion of the richest of all scotch whiskies.\n\nThis is what happened.\ufeff",
-          1470329170
-        ],
-        [
-          "Spring is in the air on Islay and it gilds our barley with sunshine.\n\nWhat a beautiful sight. Timeline Photos",
-          1460566229
-        ],
-        [
-          "Beautiful peat fields of Islay. The land that makes our whisky. Timeline Photos",
-          1454700008
-        ],
-        [
-          "What better way to spend an evening than tasting whiskies and discussing the expressions? This year we'll certainly have a lot to talk about! Meet the panel of Laphroaig Live 2015... Laphroaig Live 2015 Panel",
-          1441697329
-        ],
-        [
-          "Last month we hosted a few lucky international whisky connoisseurs on Islay and showed them the inner workings of the Laphroaig Distillery to celebrate our 200th anniversary - Toni Passig from Germany, on behalf of Heldth.com, captured some beautiful images of the experience\u2026\n\nhttp://www.heldth.com/200-jahre-laphroaig-die-wahre-torfschoenheit/ 200 Jahre Laphroaig \u2013 Die wahre Torfsch\u00f6nheit Die Br\u00fcder Donald und Alex Johnston gr\u00fcndeten die Laphroaig Destillerie im Jahr 1815, 200 Jahre sp\u00e4ter hat der charakterstarke Scotch kein bisschen von seiner Faszination verloren. Fast 140 Jahre l...",
-          1433156401
-        ],
-        [
-          "It's been beautiful but stormy here by the broad bay on Islay - wellies essential...",
-          1424808001
-        ],
-        [
-          "This beautiful handout was distributed in Calcutta in the 1880's to sell Laphroaig (or Laphroag as they called it).\n\nFinest Old Scotch Whisky already then - Can't argue with that. Timeline Photos",
-          1413829801
-        ],
-        [
-          "Meet the panel:\nLast but not least we are thrilled to welcome Peter Borg to the panel of Laphroaig Live 2014.\n\nPeter is a heavyweight of the Swedish Whisky world, who as well as being a chairman of the whisky club Habost has received a honourable chair of the board at the Swedish Whisky Association due to his involvement. A true whisky connoisseur!\n\nPeter also runs the Swedish Laphroaig Facebook page. Timeline Photos",
-          1411065001
-        ],
-        [
-          "Meet the panel:\nAs the founder of the largest Swedish whisky blog 'I love whisky', Hakan Dahlberg has a job that most of us can only dream about.\n\nHe tests, reviews and writes about whisky.\n\nThis year he will be joining us at the panel of Laphroaig Live and we can not wait to hear his opinions on the chosen expressions!\n\nYou can find Hakan's blog from: http://www.ilovewhisky.se/ Timeline Photos",
-          1410978601
-        ],
-        [
-          "Great to see Transcendental Dram selecting \u2018SELECT\u2019 as their whisky of the month. Find out what Vicky Stevens had to say during her interview \u2026 http://bit.ly/transcendentaldram Timeline Photos",
-          1406743201
-        ],
-        [
-          "John will be celebrating World Whisky Day with our latest expression - SELECT. How will you be celebrating? To find out more visit our website http://bit.ly/laphroaigselect Timeline Photos",
-          1400338800
-        ],
-        [
-          "We're proud to announce our distillery was crowned Whisky Visitor Attraction of the Year. Thank you for making our Islay home your destination. Mobile Uploads",
-          1397922626
-        ],
-        [
-          "We are proud to announce that our Laphroaig Visitor Centre is officially the 2014 World Whisky Visitor Attraction of the Year (Icons of Whisky (world) Whisky Magazine Awards). Have you been on  one of our tours did you agree with Whisky Magazine? Timeline Photos",
-          1395400211
-        ],
-        [
-          "What are your memories of Islay, the home of Laphroaig whisky? Share your thoughts on Trip Advisor ... http://bit.ly/LaphroaigReview Timeline Photos",
-          1391683019
-        ],
-        [
-          "More awards for the year; thanks to Whisky Meet, Bergen who awarded Laphroaig with Distillery of the year and the 1989 Vintage (exclusive to Nordics) whisky of the year. Timeline Photos",
-          1391505194
-        ],
-        [
-          "What are your memories of Islay, the home of Laphroaig whisky? Timeline Photos",
-          1378728001
-        ],
-        [
-          "Don't forget that John will be going head to head with the Irish and the US to prove that Scotch deserves the title of Ultimate World Whisky! Find out more and join him in Ireland to lend your support\u2026 The Ultimate Whiskey Battle Can John take the crown for Scotch? Book your tickets to be there to support him on the day!",
-          1375873713
-        ],
-        [
-          "Our very own John Campbell will be taking on the Irish and the Americans to win Scotch whisky the title of Ultimate World Whisky! Find out more and get behind John. The Kilbeggan Distilling Company Join us at the oldest licenced distillery in Ireland for the Kilbeggan Gathering 2013. On Saturday 17th August 2013, the three giants of whiskey/whisky \u2013 Ireland, Scotland and the USA - go head to head, battling for the title of Ultimate World Whiskey in this interactive whiskey tasting event. Find ...",
-          1373889615
-        ],
-        [
-          "Meet Laphroaig\u2019s Master Ambassador Simon Brooking at the exclusive Sprits Confidential Cocktail Reception in Toronto this Wednesday! Find out more here: http://bit.ly/SpiritsConfidential Timeline Photos",
-          1372062694
-        ],
-        [
-          "Thanks to Whisky Connosr member Onibubba for a glowing review of the Triple Wood! http://bit.ly/OnibubbaReview Timeline Photos",
-          1358242742
-        ]
-      ],
-      "dates_start": 1387157331,
-      "dates_end": 1470451584,
-      "likes_avg": 931,
-      "likes_stdev": 744,
-      "comments_avg": 32,
-      "comments_stdev": 36,
-      "shares_avg": 63,
-      "shares_stdev": 61
-    },
-    {
-      "number": 21,
-      "important": [
-        "friend",
+        "chanc win",
         "fol",
-        "laphroaig",
+        "friend",
         "friend laphroaig",
-        "yet"
+        "rememb"
       ],
       "common": [
+        "chanc win",
+        "competit",
         "congratul",
         "fol",
         "friend",
         "friend laphroaig",
-        "friend laphroaig favourit",
-        "friend laphroaig favourit competit",
-        "laphroaig",
-        "laphroaig favourit competit",
-        "timelin",
-        "yet"
+        "photo competit",
+        "prize",
+        "rememb",
+        "win"
       ],
       "messages": [
         [
           "Friends of Laphroaig is turning 22 this July. Are you a FOL yet?\n\nIf not... Lets be Friends! Timeline Photos",
           1468425600
-        ],
-        [
-          "Are you a Friend yet?\n\nJoin now at https://www.laphroaig.com/friends Timeline Photos",
-          1438540201
-        ],
-        [
-          "As  Friends of Laphroaig are celebrating their 21st birthday this year, here are some examples of how to  showcase your love for the best whisky in the world. \n\nIf you think you've done better please share your pictures! FoL Fanatics",
-          1436985065
-        ],
-        [
-          "Are you a Friend of Laphroaig yet?\n\nhttps://www.laphroaig.com/friends/ Timeline Photos",
-          1418589000
-        ],
-        [
-          "Thanks to all our FOLS for a splendid Burns supper last night. An evening of Scottish food, poetry and piping, all washed down with some excellent whisky courtesy of Laphroaig Cairdeas and Select.\n\nYou can read all about it and look at some more photos of our FOLs on our blog. http://bit.ly/feisile2014 Timeline Photos",
-          1401096400
-        ],
-        [
-          "Congratulations to Alex Rowell - our 600,000th Friend of Laphroaig.  Are you a FOL? Why not join our community today at http://bit.ly/1gC2a1N Timeline Photos",
-          1395142749
-        ],
-        [
-          "Congratulations to the winner of March's Friends of Laphroaig 'Favourite Photo' competition, Mirco Demo! If you want to enter but you're not yet a FoL, you can sign up here: http://bit.ly/FoLApp Timeline Photos",
-          1364907799
-        ],
-        [
-          "Congratulations to the winner of February's Friends of Laphroaig 'Favourite Photo' competition, Freddy de Gendt! If you want to enter but you're not yet a FoL, you can sign up here: http://bit.ly/FoLApp Timeline Photos",
-          1363602416
-        ],
-        [
-          "Congratulations to Michael Reuter from Germany on winning January's Friends of Laphroaig 'Favourite Photo' competition. All FoLs can enter their photos for February so get snapping! Not yet a FoL? Register here: http://bit.ly/FoLApp Timeline Photos",
-          1359719650
-        ],
-        [
-          "NOTICE to all Friends of Laphroaig.\n\nThe 2012 (special 18th anniversary edition) of C\u00e1irdeas is on sale now at your private FOL shop on the Laphroaig website.\n\nPlease note that we cannot sell to some countries for legal reasons and it is sold on a first come first served basis as usual.\n\nhttp://www.laphroaig.com/shop/product.aspx?ShopItemID=68 Timeline Photos",
-          1340025810
-        ],
-        [
-          "Very momentous day for Laphroaig yesterday as we welcomed our 500,000th Friend of Laphroaig, Jarmo Maenpaa from Finland. Welcome to FOL Jarmo. Timeline Photos",
-          1334824420
-        ],
-        [
-          "A Laphroaig \"Art Attack\" from a creative FOL Timeline Photos",
-          1333538613
-        ]
-      ],
-      "dates_start": 1344548778,
-      "dates_end": 1431350842,
-      "likes_avg": 777,
-      "likes_stdev": 526,
-      "comments_avg": 31,
-      "comments_stdev": 24,
-      "shares_avg": 58,
-      "shares_stdev": 59
-    },
-    {
-      "number": 22,
-      "important": [
-        "prize",
-        "chanc win",
-        "win",
-        "laphroaig",
-        "chanc"
-      ],
-      "common": [
-        "chanc",
-        "chanc win",
-        "competit",
-        "congratul",
-        "fol",
-        "fol competit",
-        "laphroaig",
-        "prize",
-        "timelin",
-        "win"
-      ],
-      "messages": [
-        [
-          "If you haven't submitted your Opinion already, you have until 1st of August to do so for a chance to win one of our 201 prizes.\n\nHere are some of the winners from last year. Photos from Laphroaig's post",
-          1467308139
         ],
         [
           "Ben Makepeace (PlotNo: 348149) from Australia was the deserved winner of our May photo competition. Definitely a shot worth framing and hanging on every FoLs wall!\n\nTo see more of Ben's work go to https://www.facebook.com/BenMakepeaceArt/photos/?tab=album&album_id=1003789166326070\n\nRemember to submit your own photo at the Friends of Laphroaig site for a chance to win.\n\nlaphroaig.com/friends Timeline Photos",
@@ -2165,6 +1014,10 @@
         [
           "Does Laphroaig ever make you feel like you'd be able to walk on water?\n\nElke Nolden won last month's FoL photo competition with this aptly timed snap of someone doing just that at the distillery!\n\nRemember to take part in all our competitions at http://laphroaig.com/friends/ Timeline Photos",
           1452711601
+        ],
+        [
+          "Are you a Friend yet?\n\nJoin now at https://www.laphroaig.com/friends Timeline Photos",
+          1438540201
         ],
         [
           "Congratulations to all our March competition winners - your prize(s) will be with you shortly. One of our favourites, was the caption competition see here below. Will you be taking part this month? http://www.laphroaig.com/friends/ Timeline Photos",
@@ -2183,8 +1036,24 @@
           1419798600
         ],
         [
+          "Are you a Friend of Laphroaig yet?\n\nhttps://www.laphroaig.com/friends/ Timeline Photos",
+          1418589000
+        ],
+        [
+          "Last month the Friends of Laphroaig chose this great picture of the distillery as their favourite. Congratulations to Beate Hauser from Germany!\n\nRemember to submit your own photos at the FoL-site, every month the picture with the most votes wins a Laphroaig Offical Tartan Scarf. Timeline Photos",
+          1415392201
+        ],
+        [
           "Congratulations to Mika Hurme from Finland who won September's FoL photo competition with this gorgeous photo!\n\nRemember to submit your entries at the Friends of Laphroaig website for a chance of winning a Laphroaig Offical Tartan Scarf. Timeline Photos",
           1412706600
+        ],
+        [
+          "Thanks to all our FOLS for a splendid Burns supper last night. An evening of Scottish food, poetry and piping, all washed down with some excellent whisky courtesy of Laphroaig Cairdeas and Select.\n\nYou can read all about it and look at some more photos of our FOLs on our blog. http://bit.ly/feisile2014 Timeline Photos",
+          1401096400
+        ],
+        [
+          "Congratulations to Alex Rowell - our 600,000th Friend of Laphroaig.  Are you a FOL? Why not join our community today at http://bit.ly/1gC2a1N Timeline Photos",
+          1395142749
         ],
         [
           "Congratulations to Ralf K\u00e4hler and Philippe Girard who were both winners in our August Friends of Laphroaig competitions! Do you have a witty caption for September's photo competition? Submit them at http://bit.ly/FriendsOfLaphroaig for the chance to win this month! Timeline Photos",
@@ -2199,111 +1068,71 @@
           1372679324
         ],
         [
-          "It's your last chance to enter this month's FoL competitions! Submit your photo or caption for a chance to win: http://bit.ly/FriendsOfLaphroaig Timeline Photos",
-          1369998493
-        ],
-        [
           "Congratulations to Ian Mckeen and Nik Raschle for scooping April's FoL competition prizes! What do you think of Nik's winning photo? Timeline Photos",
           1367407369
+        ],
+        [
+          "Congratulations to the winner of March's Friends of Laphroaig 'Favourite Photo' competition, Mirco Demo! If you want to enter but you're not yet a FoL, you can sign up here: http://bit.ly/FoLApp Timeline Photos",
+          1364907799
+        ],
+        [
+          "Congratulations to the winner of February's Friends of Laphroaig 'Favourite Photo' competition, Freddy de Gendt! If you want to enter but you're not yet a FoL, you can sign up here: http://bit.ly/FoLApp Timeline Photos",
+          1363602416
+        ],
+        [
+          "Congratulations to Michael Reuter from Germany on winning January's Friends of Laphroaig 'Favourite Photo' competition. All FoLs can enter their photos for February so get snapping! Not yet a FoL? Register here: http://bit.ly/FoLApp Timeline Photos",
+          1359719650
+        ],
+        [
+          "Very momentous day for Laphroaig yesterday as we welcomed our 500,000th Friend of Laphroaig, Jarmo Maenpaa from Finland. Welcome to FOL Jarmo. Timeline Photos",
+          1334824420
+        ],
+        [
+          "A Laphroaig \"Art Attack\" from a creative FOL Timeline Photos",
+          1333538613
         ]
       ],
-      "dates_start": 1376973599,
-      "dates_end": 1446838160,
+      "dates_start": 1362439395,
+      "dates_end": 1438583228,
       "likes_avg": 799,
-      "likes_stdev": 606,
-      "comments_avg": 17,
-      "comments_stdev": 17,
-      "shares_avg": 56,
-      "shares_stdev": 66
+      "likes_stdev": 518,
+      "comments_avg": 22,
+      "comments_stdev": 19,
+      "shares_avg": 49,
+      "shares_stdev": 51
     },
     {
-      "number": 23,
+      "number": 11,
       "important": [
-        "enter",
-        "enter timelin",
-        "congratul",
-        "winner"
-      ],
-      "common": [
-        "congratul",
-        "enter",
-        "enter timelin",
-        "fanci",
-        "friend laphroaig winner",
-        "timelin",
-        "winner",
-        "winner enter",
-        "winner enter timelin",
-        "winner fanci"
-      ],
-      "messages": [
-        [
-          "Enjoy the winning photo from our March competition - congratulations to all our winners.\n\nWill you be a winner in April? Timeline Photos",
-          1460044800
-        ],
-        [
-          "Congratulations to our February FOL competition winners. Fancy being a March winner? Just enter here: http://bit.ly/FriendsOfLaphroaig Timeline Photos",
-          1394621948
-        ],
-        [
-          "Congratulations to Debbie and Georg our December Friends of Laphroaig winners! Fancy being a January winner? Just enter here: http://bit.ly/FriendsOfLaphroaig Timeline Photos",
-          1388749659
-        ],
-        [
-          "Congratulations to Svetlana and Ralf our November Friends of Laphroaig winners! Fancy being a December winner? Just enter here: http://bit.ly/FriendsOfLaphroaig Timeline Photos",
-          1386069817
-        ],
-        [
-          "Congratulations to Stephen and Brian our October Friends of Laphroaig winners! Fancy being a November winner? Just enter here: http://bit.ly/FriendsOfLaphroaig Timeline Photos",
-          1383571801
-        ],
-        [
-          "Congratulations to Ralf and Michael, our September Friends of Laphroaig winners! Fancy being an October winner? Just enter here: http://bit.ly/FriendsOfLaphroaig Timeline Photos",
-          1380630492
-        ],
-        [
-          "Congratulations to Christopher Kocher who scooped last month's FoL Photo Competition prize. Will yours be this month's winner? Enter at laphroaig.com: http://bit.ly/FriendsOfLaphroaig Timeline Photos",
-          1370353774
-        ]
-      ],
-      "dates_start": 1367362078,
-      "dates_end": 1422364290,
-      "likes_avg": 818,
-      "likes_stdev": 313,
-      "comments_avg": 14,
-      "comments_stdev": 10,
-      "shares_avg": 54,
-      "shares_stdev": 33
-    },
-    {
-      "number": 24,
-      "important": [
+        "year",
         "thursday",
-        "live",
-        "laphroaig",
-        "laphroaig live",
-        "septemb"
+        "septemb",
+        "broadcast"
       ],
       "common": [
-        "go",
-        "laphroaig",
-        "laphroaig live",
-        "live",
+        "broadcast",
         "new",
         "new york",
+        "photo",
         "septemb",
         "thursday",
         "timelin",
-        "year"
+        "timelin photo",
+        "year",
+        "york"
       ],
       "messages": [
         [
-          "We're slowly recovering from Laphroaig Live and what a night it was! Full of unforgettable moments with friends and plenty of great whisky.\n\nHere are some behind the scenes pictures to relive the night with. Photos from Laphroaig's post",
-          1443551401
+          "Don\u2019t forget to join us tonight for the live broadcast of our famous distillery wall\u20267:30pm (BST) http://www.laphroaig.com/opinions Laphroaig #OpinionsWelcome",
+          1476186448
         ],
         [
           "And we are LIVE at www.laphroaig.com/live. Laphroaig Live Islay 2015. Thursday 24th September 2015, 7PM GMT Laphroaig Live is coming home for the 200th Anniversary and will be taking place at the distillery here on Islay. It\u2019s going to be the biggest and best Laphroaig Live yet, so don\u2019t miss it!",
           1443114061
+        ],
+        [
+          "The famous Laphroaig floor maltings are slowly being transformed into the background of the biggest and best Laphroaig Live yet.\n\nThe winds are howling and we have suffered heavy rains here on Islay, but it looks like there may be a break in the weather just in time for the ferries, planes and cars to arrive with all our guests.\n\nJust five hours to go!\n\nwww.laphroaig.com/live Photos from Laphroaig's post",
+          1443096001
         ],
         [
           "We've had a few questions about the food that will be served on Thursday at Laphroaig Live.\n\nHere's our menu for the night - as you can see we have selected some of the highest quality local produce Islay has to offer. Timeline Photos",
@@ -2322,6 +1151,10 @@
           1441353966
         ],
         [
+          "Our Friends in the US ready for the live broadcast from Stockholm, join us on www.laphroaig.com/live Timeline Photos",
+          1411574531
+        ],
+        [
           "As the guests have now arrived and are enjoying the Special Laphroaig Live pre-drink 'Cut and burn' - Laphroaig Live 2014 will be LIVE from Stockholm in 15 minutes!\n\nWatch at bit.ly/LPH2014 and remember to submit your questions! Photos from Laphroaig's post",
           1411573492
         ],
@@ -2338,20 +1171,12 @@
           1411324201
         ],
         [
-          "You voted - We listened!\nThe 4th expression tasted at Laphroaig Live 2014 will be the Laphroaig 18YO with 66% of the vote!\nThank you for taking part in the decision making! Timeline Photos",
-          1409855401
-        ],
-        [
-          "This year we are letting You decide what will be the 4th expression tasted at Laphroaig Live 2014.\nGo to bit.ly/LPH2014 to give your opinion\u2026 Voting stops Tomorrow! Timeline Photos",
-          1409412602
-        ],
-        [
-          "Laphroaig Live comes to Sweden!\n4 fantastic panelists, 4 phenomenal whiskies, 4 great smoky dishes... Join us on the 24th of September at the beautiful island of Fj\u00e4derholmarna for the 8th annual evening of whisky, friends and chatter!\nFor more details go to bit.ly/LPH2014 Timeline Photos",
-          1409252620
-        ],
-        [
           "A question from fan Scott Roberts during Laphroaig Live. Which do you prefer? Timeline Photos",
           1390821901
+        ],
+        [
+          "During Laphroaig Live Bob Keller from the US asked us what our association with Maker's Mark was. Bob hopefully this sheds some light for you. \n\nhttp://bit.ly/LaphroaigCooperage Laphroaig Distillery Tour - Cooperage Because the maturation process is so important we maintain a traditional cooperage at the distillery. Here our cooper ensures that all the barrels we use are...",
+          1389294000
         ],
         [
           "Now online and on-demand - #LaphroaigLive 2013 from New York www.laphroaig.com/live Laphroaig Live New York 2013. Thursday 26th September 2013 EST Laphroaig Live is now in its seventh year and this year's show will be broadcast live from the city that never sleeps, New York. The venue for the evening is an original Hudson River Barge which, at over 99 years old, has seen cargo come and go into New York for almost a century. While the barge was...",
@@ -2398,123 +1223,35 @@
           1346845850
         ]
       ],
-      "dates_start": 1364545204,
-      "dates_end": 1430870663,
-      "likes_avg": 348,
-      "likes_stdev": 311,
-      "comments_avg": 24,
+      "dates_start": 1363099314,
+      "dates_end": 1436162869,
+      "likes_avg": 293,
+      "likes_stdev": 237,
+      "comments_avg": 22,
       "comments_stdev": 47,
-      "shares_avg": 41,
+      "shares_avg": 38,
       "shares_stdev": 82
     },
     {
-      "number": 25,
+      "number": 12,
       "important": [
-        "fei",
-        "open day",
-        "fei ile",
-        "open",
-        "day"
-      ],
-      "common": [
-        "cairdea",
-        "day",
-        "fei",
-        "fei ile",
-        "ile",
+        "would",
+        "distilleri manag john",
         "laphroaig",
-        "laphroaig open",
-        "laphroaig open day",
-        "open",
-        "open day"
-      ],
-      "messages": [
-        [
-          "What a fine day it's been at the distillery!\n\nWe've served almost as many drams as we've seen smiles and once again it's been an honour to show all our friends how we make our whisky.\n\nWe hope to see everyone soon again and to those who couldn't make it this year... We'll see you at Feis Ile 2017 - you won't want to miss it.\n\nSl\u00e0inte mhath! Feis Ile 2016 - Touring the Distillery at Laphroaig Open Day",
-          1464100670
-        ],
-        [
-          "Our very own Vicky Stevens needs no introductions, but here she is leading the Side by Side tasting at the D. Johnston tasting room. \n\nWe enjoyed different annual bottlings of Cairdeas alonside the liquids which came from the casks that Laphroaig used to mature Cairdeas.\n\nOn the menu were\n\nAmontillado Sherry alongside Cairdeas 2014\nMadeira alongside Cairdeas 2016\nPort alongside Cairdeas 2013 Feis Ile 2016 - Side by Side tasting at Laphroaig Open Day",
-          1464091655
-        ],
-        [
-          "Whisky, friends and sunshine... Does life get any better? Feis Ile 2016 - Laphroaig Open Day",
-          1464088402
-        ],
-        [
-          "The Laphroaig Open Day is in full swing and here are some photos of the day so far.\n\nThe first group of visitors already had the opportunity to join our past and present distillers including John Campbell, Denis Nicol, Murdo Reed and Robert Hicks to taste their favourite drams. \n\nWe enjoyed the latest Laphroaig expression LORE with the people that inspired the liquid and listened to stories from their time at the distillery.\n\nOn the menu we had:\n\nLaphroaig 10 year old\nLaphroaig 15 year old\nLaphroaig Quarter Cask\nLaphroaig Vintage 1989\nLaphroaig Cairdeas 30 year old from 2008\nLaphroaig Lore Feis Ile 2016 - Distillers Tasting at Laphroaig Open Day",
-          1464079524
-        ],
-        [
-          "Vertical tasting or Side by Side - which #FeisIle tour have you decided on?\n\nhttp://www.laphroaig.com/distillery/FeisIle2016.aspx\n\nLines are now open. Timeline Photos",
-          1459767601
-        ],
-        [
-          "Open day is in full swing - of course Feis Ile is a special occasion for us all, in addition to the festivities, its the time we release the annual Cairdeas bottling. What better occasion for John to introduce it \u2026 as always we welcome your Opinions too \u2026 www.laphroaig.com/opinions",
-          1432632000
-        ],
-        [
-          "Whisky with Friends ... Laphroaig Open Day 2015",
-          1432631638
-        ],
-        [
-          "The distillery already greeting its first visitors of the Feis Ile Open day. A full day of events lined up including a few special ones to celebrate our 200 years. John opens up for the day \u2013 keep up to date with all the happenings with our blog at: \nhttp://www.laphroaig.com/feisile/2015/default.aspx",
-          1432622376
-        ],
-        [
-          "Open day is in full swing - of course Feis Ile is a special occasion for us here, in addition to the festivities, its the time we release the annual Cairdeas bottling. What better occasion for John to share his thoughts.. http://bit.ly/laphroaigcairdeas2014 Timeline Photos",
-          1401199580
-        ],
-        [
-          "Welcome to Laphroaig Open Day - lots happening, with various whisky tasting events and distillery tours. Find out what John has to say on the morning of the big day. http://bit.ly/feisile2014 Timeline Photos",
-          1401173100
-        ],
-        [
-          "It's baseball opening day in America.  Like enjoying whisky, baseball is about patience, the people around you & passing along the same passion to someone else.\n\nWith that, enjoy opening night and a wee dram while you're at it! Timeline Photos",
-          1396281600
-        ],
-        [
-          "We're enjoying a specially selected Cairdeas Cheeseboard at Feis Ile with Global Ambassador Simon Brooking. Which cheese would you pair with which expression? Timeline Photos",
-          1369744955
-        ],
-        [
-          "Please download photos or tag yourself if you were there! Laphroaig Open Day - \"The Whisky Walks\"",
-          1338267600
-        ],
-        [
-          "We are pleased to announce an additional Feis Ile event at our open day on Tuesday 29th May \u2013 the Whisky/ey Debate!  For details go to http://www.laphroaig.com/feis-open-day/default.html Laphroaig Distillery Feis Ile 2012 Duration 1 hour                 Take a tour around Laphroaig  Distillery and experience first hand the Islay  magic that makes Laphroaig unique",
-          1337602260
-        ]
-      ],
-      "dates_start": 1374478361,
-      "dates_end": 1462419204,
-      "likes_avg": 477,
-      "likes_stdev": 388,
-      "comments_avg": 9,
-      "comments_stdev": 11,
-      "shares_avg": 36,
-      "shares_stdev": 44
-    },
-    {
-      "number": 26,
-      "important": [
-        "distilleri",
-        "distilleri manag",
-        "john",
-        "manag",
-        "laphroaig"
+        "like",
+        "campbel"
       ],
       "common": [
         "campbel",
-        "distilleri",
-        "distilleri manag",
         "distilleri manag john",
-        "john",
         "john campbel",
         "laphroaig",
-        "manag",
+        "like",
         "manag john",
-        "timelin"
+        "timelin",
+        "timelin photo",
+        "would",
+        "year"
       ],
       "messages": [
         [
@@ -2616,130 +1353,46 @@
       "shares_stdev": 32
     },
     {
-      "number": 27,
+      "number": 13,
       "important": [
-        "plot",
+        "day",
         "friend",
-        "laphroaig",
-        "visit",
-        "friend laphroaig"
+        "open day",
+        "open",
+        "distilleri"
       ],
       "common": [
+        "day",
         "distilleri",
-        "dram",
         "friend",
-        "friend laphroaig",
-        "islay",
         "laphroaig",
-        "plot",
-        "thank",
+        "open",
+        "open day",
+        "photo",
+        "tast",
         "timelin",
-        "visit"
-      ],
-      "messages": [
-        [
-          "We\u2019ve spread ashes, held wedding ceremonies and had a ceremonial Japanese garden on our turf. Once you become a Friend of Laphroaig, you lease your plot for life. Just remember you\u2019ve got neighbours. Timeline Photos",
-          1489600861
-        ],
-        [
-          "When you mix rain, peat and fire, magic happens. Discover the story behind your dram with a visit to our distillery http://www.laphroaig.com/distillery/visiting.aspx Timeline Photos",
-          1486490521
-        ],
-        [
-          "We treat our Friends well, so much so, we\u2019ll give you a plot of land here on Islay and even a bit of annual rent (a dram of the good stuff) when you visit. https://www.laphroaig.com/friends/registration/CodeCheck.aspx Timeline Photos",
-          1481306581
-        ],
-        [
-          "Property prices are through the roof. Become a Friend of Laphroaig and you\u2019ll get your own plot of land on Islay and a free dram whenever you visit. An unbeatable return on investment.\nhttp://bit.ly/2eIQIbh Timeline Photos",
-          1480096981
-        ],
-        [
-          "After heavy rains caused by the Abigail storm, we've had some special visitors paddling around the Friends of Laphroaig field.\n\nIt's the Geese of Laphroaig inspecting the plots. Photos from Laphroaig's post",
-          1448046000
-        ],
-        [
-          "The Friends of Laphroaig are 21 years old this weekend!\n\nIn 1994, the \"Friends of Laphroaig\" community was formed as a way to thank all of our friends for their support. We decided to give each \u2018Friend\u2019 a square foot plot of land at the distillery - and that we would pay them \u2018rent\u2019 of a dram of 10 year old each time they came to visit us.\n\nNo one then could have guessed that, 21 years later, over 680,000 plots would have been occupied! Over the years we have had everything from proposals and marriages to sculptures placed on your beloved plots, and visitors from over 100 countries around the world. And for that we can only thank you; our Friends.\n\nSo this weekend raise your glasses to celebrate Friendship.\n\nHappy Birthday and Sl\u00e1inte! Photos from Laphroaig's post",
-          1438453800
-        ],
-        [
-          "As a Friend and holder of Plot No.1 \u2013 the Prince is presented with two pairs of our much loved FOL green wellies \u2013 we hope the Duchess of Cornwall approves... Photos from Laphroaig's post",
-          1435330802
-        ],
-        [
-          "Our third Royal Visit. \n\nThank you to everyone for making it such a special day - even the Islay weather didn't dampen spirits. Royal Visit by HRH Prince Charles the Duke of Rothesay",
-          1435309200
-        ],
-        [
-          "Lovely story from our friends at Great Drams ... http://www.greatdrams.com/distillery-stories-laphroaig/ Distillery stories: Laphroaig - Great Drams On a recent trip to Islay, I was fortunate enough to learn about the history, the people and the romance of distillery life at Laphroaig since 1815.",
-          1429034402
-        ],
-        [
-          "Ever dreamt about building your own house?\n\nWhen Jane and Jerome visited their FoL plot last year, they did just that and even welcomed their first visitors.\n\nCongratulations to both and thank you for sending in these pictures! Photos from Laphroaig's post",
-          1421008200
-        ],
-        [
-          "Thank you everyone who visited us on the 12th for our Christmas Jumper Day!\n\nWe raised over \u00a3300 for charity.\n\nHere's a pic from the day - Now lets see your jumpers! Timeline Photos",
-          1418934600
-        ],
-        [
-          "We are proud to announce that Laphroaig Distillery has won the Best Visitor Attraction for Central West Scotland in the Scottish Thistle Awards!\n\nThank you everyone who has taken the time to visit us on our small, yet perfectly formed island of Islay and everyone who is planning to visit in the future.\n\nhttps://www.scottishthistleawards.co.uk/ Timeline Photos",
-          1416083401
-        ],
-        [
-          "\u201cBest Big Distillery Experience\u201d \r\n\r\nFind out what a visitor from Seattle thought when they visited the distillery. Have you been to visit us? Why not leave your own review? http://bit.ly/LaphroaigReview Timeline Photos",
-          1391009700
-        ],
-        [
-          "Have you been to visit us at the distillery? We'd love to hear what you think on Trip Advisor. \r\n\r\nhttp://bit.ly/distilleryreview Timeline Photos",
-          1389624900
-        ],
-        [
-          "Have you visited us at the Laphroaig distllery? Why not leave us a review on TripAdvisor! http://bit.ly/LaphroaigTripAdvisor Laphroaig Distillery Ranked #1 of 15 attractions in Islay. Been here too? Add it to your map!",
-          1371639003
-        ],
-        [
-          "On my American tour and loving it. This is yours truly and Simon having a great time visiting Rick Wasmund at the Copper Fox Distillery. Timeline Photos",
-          1351878187
-        ],
-        [
-          "It's amazing to see what some Friends of Laphroaig put on their plots of land! Timeline Photos",
-          1339591813
-        ]
-      ],
-      "dates_start": 1380763061,
-      "dates_end": 1469053286,
-      "likes_avg": 634,
-      "likes_stdev": 400,
-      "comments_avg": 22,
-      "comments_stdev": 19,
-      "shares_avg": 33,
-      "shares_stdev": 28
-    },
-    {
-      "number": 28,
-      "important": [
-        "distilleri",
-        "fei",
-        "friend",
-        "laphroaig",
-        "fei ile"
-      ],
-      "common": [
-        "distilleri",
-        "event",
-        "fei",
-        "fei ile",
-        "friend",
-        "ile",
-        "islay",
-        "laphroaig",
-        "live",
-        "timelin"
+        "timelin photo"
       ],
       "messages": [
         [
           "We kicked off our Feis Ile 2016 by inviting Friends of Laphroaig home to the distillery and finished it by inviting them to  a formal dinner.\n\nIn between these evenings we had a wonderful Open Day and officially released Caidreas 2016, an expression specially made FOLs.\n\nIt's been a week of whisky and friendships and we couldn't of hoped for anything more. Here are some pictures from our Friends of Laphroaig dinner.  \n\nThank you everyone for coming and see you at Feis Ile 2017! Feis Ile 2016 - Dress up for dinner",
           1464364814
+        ],
+        [
+          "What a fine day it's been at the distillery!\n\nWe've served almost as many drams as we've seen smiles and once again it's been an honour to show all our friends how we make our whisky.\n\nWe hope to see everyone soon again and to those who couldn't make it this year... We'll see you at Feis Ile 2017 - you won't want to miss it.\n\nSl\u00e0inte mhath! Feis Ile 2016 - Touring the Distillery at Laphroaig Open Day",
+          1464100670
+        ],
+        [
+          "Our very own Vicky Stevens needs no introductions, but here she is leading the Side by Side tasting at the D. Johnston tasting room. \n\nWe enjoyed different annual bottlings of Cairdeas alonside the liquids which came from the casks that Laphroaig used to mature Cairdeas.\n\nOn the menu were\n\nAmontillado Sherry alongside Cairdeas 2014\nMadeira alongside Cairdeas 2016\nPort alongside Cairdeas 2013 Feis Ile 2016 - Side by Side tasting at Laphroaig Open Day",
+          1464091655
+        ],
+        [
+          "Whisky, friends and sunshine... Does life get any better? Feis Ile 2016 - Laphroaig Open Day",
+          1464088402
+        ],
+        [
+          "The Laphroaig Open Day is in full swing and here are some photos of the day so far.\n\nThe first group of visitors already had the opportunity to join our past and present distillers including John Campbell, Denis Nicol, Murdo Reed and Robert Hicks to taste their favourite drams. \n\nWe enjoyed the latest Laphroaig expression LORE with the people that inspired the liquid and listened to stories from their time at the distillery.\n\nOn the menu we had:\n\nLaphroaig 10 year old\nLaphroaig 15 year old\nLaphroaig Quarter Cask\nLaphroaig Vintage 1989\nLaphroaig Cairdeas 30 year old from 2008\nLaphroaig Lore Feis Ile 2016 - Distillers Tasting at Laphroaig Open Day",
+          1464079524
         ],
         [
           "Last night we had the pleasure of hosting Friends of Laphroaig from near and far for a lovely, informal evening at the distillery.\n\nRents were collected, drams were drunk and new friends were made. Everyone felt right at home - as they should. Feis Ile 2016 - Welcome Home, Friends of Laphroaig",
@@ -2750,8 +1403,28 @@
           1463756400
         ],
         [
+          "Vertical tasting or Side by Side - which #FeisIle tour have you decided on?\n\nhttp://www.laphroaig.com/distillery/FeisIle2016.aspx\n\nLines are now open. Timeline Photos",
+          1459767601
+        ],
+        [
           "Save the date for Feis Ile - Tuesday 24th May is Laphroaig day!\n\nFor details of all our events and how to get involved, visit our website at: http://www.laphroaig.com/distillery/FeisIle2016.aspx Timeline Photos",
           1459699201
+        ],
+        [
+          "More tasting at this years Feis Ile, as John shares his thoughts on CS007 - 56.3% ABV. Available now in the online store at http://www.laphroaig.com/shop/",
+          1432836001
+        ],
+        [
+          "Open day is in full swing - of course Feis Ile is a special occasion for us all, in addition to the festivities, its the time we release the annual Cairdeas bottling. What better occasion for John to introduce it \u2026 as always we welcome your Opinions too \u2026 www.laphroaig.com/opinions",
+          1432632000
+        ],
+        [
+          "Whisky with Friends ... Laphroaig Open Day 2015",
+          1432631638
+        ],
+        [
+          "The distillery already greeting its first visitors of the Feis Ile Open day. A full day of events lined up including a few special ones to celebrate our 200 years. John opens up for the day \u2013 keep up to date with all the happenings with our blog at: \nhttp://www.laphroaig.com/feisile/2015/default.aspx",
+          1432622376
         ],
         [
           "Blue sky and sunshine, a beautiful festival day here at the distillery \u2013 is there a better place to enjoy a dram? \n\nLaphroaig day tomorrow as part of Feis Ile 2015; something for everyone, why not come and join us? Photos from Laphroaig's post",
@@ -2774,12 +1447,28 @@
           1427886601
         ],
         [
+          "Just the finishing touches to go before we open our new Tasting room here at the distillery - we hope to be sharing a dram with you here some day soon. Photos from Laphroaig's post",
+          1426104120
+        ],
+        [
+          "Thanks to everyone for joining us this evening - we hope you enjoyed it as much as we did. Don't forget to share your photos of your #LaphroaigLive event. Here are just a few of our favourites received so far ... Photos from Laphroaig's post",
+          1411581600
+        ],
+        [
           "Thanks to everyone who made this years Feis Ile special. Is been a great event and we look forward to seeing you all again in 2015! Feis Ile 2014",
           1401456575
         ],
         [
           "Hope you have enjoyed the tastings, tours and events over the past few days ... we certainly have! We'll be sharing more photos soon but a big thank you for the continued success of Feis Ile. Photos from Laphroaig's post",
           1401301266
+        ],
+        [
+          "Open day is in full swing - of course Feis Ile is a special occasion for us here, in addition to the festivities, its the time we release the annual Cairdeas bottling. What better occasion for John to share his thoughts.. http://bit.ly/laphroaigcairdeas2014 Timeline Photos",
+          1401199580
+        ],
+        [
+          "Welcome to Laphroaig Open Day - lots happening, with various whisky tasting events and distillery tours. Find out what John has to say on the morning of the big day. http://bit.ly/feisile2014 Timeline Photos",
+          1401173100
         ],
         [
           "We are getting very excited about the Burns supper at the Laphroaig distillery tonight as part of Feis Ile 2014.\n\nNot sure what a Burns supper entails? We'll be posting pictures and updates of the proceedings on Twitter - see @laphroaig and the Laphroaig Feis Ile Live blog at http://bit.ly/feisile2014 Laphroaig Feis Ile Live 2014 We\u2019ll be bringing you all the news and events live from Islay throughout Feis Ile. Stay tuned to join us for tastings, Friends of Laphroaig events and be the first to see and hear what is happening on the island.",
@@ -2790,8 +1479,20 @@
           1400869802
         ],
         [
+          "It's baseball opening day in America.  Like enjoying whisky, baseball is about patience, the people around you & passing along the same passion to someone else.\n\nWith that, enjoy opening night and a wee dram while you're at it! Timeline Photos",
+          1396281600
+        ],
+        [
+          "We spent Sunday afternoon welcoming locals and visitors to our Christmas Open Day at our Visitor Centre. Lots of stories were shared over Laphroaig mince pies, hot toddies, and of course a few drams! Timeline Photos",
+          1386683848
+        ],
+        [
           "We had a fantastic time at this year's Feis Ile - we were overwhelmed with avid fans of Laphroaig and also had the pleasure to launch this year's FoL exclusive Cairdeas. Feis Ile 2013",
           1370519639
+        ],
+        [
+          "We're enjoying a specially selected Cairdeas Cheeseboard at Feis Ile with Global Ambassador Simon Brooking. Which cheese would you pair with which expression? Timeline Photos",
+          1369744955
         ],
         [
           "Sl\u00e0inte from Islay to all our fans of Laphroaig at our exclusive FoL Feis Ile celebration! Timeline Photos",
@@ -2818,157 +1519,61 @@
           1338378379
         ],
         [
+          "Please download photos or tag yourself if you were there! Laphroaig Open Day - \"The Whisky Walks\"",
+          1338267600
+        ],
+        [
+          "We are pleased to announce an additional Feis Ile event at our open day on Tuesday 29th May \u2013 the Whisky/ey Debate!  For details go to http://www.laphroaig.com/feis-open-day/default.html Laphroaig Distillery Feis Ile 2012 Duration 1 hour                 Take a tour around Laphroaig  Distillery and experience first hand the Islay  magic that makes Laphroaig unique",
+          1337602260
+        ],
+        [
           "Our list of Feis Ile events are now online, places are limited so book soon http://www.laphroaig.com/feis-open-day/default.html http://www.laphroaig.com/feis-open-day/default.html",
           1332932321
         ]
       ],
-      "dates_start": 1363482092,
-      "dates_end": 1445232965,
-      "likes_avg": 467,
-      "likes_stdev": 331,
+      "dates_start": 1369566445,
+      "dates_end": 1451305176,
+      "likes_avg": 465,
+      "likes_stdev": 342,
       "comments_avg": 10,
       "comments_stdev": 11,
       "shares_avg": 32,
-      "shares_stdev": 33
+      "shares_stdev": 37
     },
     {
-      "number": 29,
+      "number": 14,
       "important": [
-        "warehous"
-      ],
-      "common": [
-        "atlant",
-        "door",
-        "insid",
-        "refresh laphroaig sign",
-        "refresh laphroaig sign gone",
-        "refresh laphroaig sign gone littl",
-        "replac",
-        "replac warehous",
-        "timelin",
-        "warehous"
-      ],
-      "messages": [
-        [
-          "Warehouse No. 1 is our dunnage warehouse. It\u2019s where some of our rarest barrels lie. Have you been inside? Timeline Photos",
-          1488045841
-        ],
-        [
-          "Behind the walls of legendary Warehouse No. 1 located on the Atlantic. Timeline Photos",
-          1438108200
-        ],
-        [
-          "Our famous warehouse next to the ocean is getting a refresh - the Laphroaig sign may be gone for a little bit, but the precious liquid inside is still safe and sound! Timeline Photos",
-          1382348755
-        ],
-        [
-          "The door to Warehouse 1 is being replaced. Warehouse 1 Door",
-          1362746386
-        ]
-      ],
-      "dates_start": 1368734317,
-      "dates_end": 1466890273,
-      "likes_avg": 722,
-      "likes_stdev": 557,
-      "comments_avg": 22,
-      "comments_stdev": 14,
-      "shares_avg": 31,
-      "shares_stdev": 18
-    },
-    {
-      "number": 30,
-      "important": [
-        "singl",
-        "whiski",
-        "world",
-        "singl malt",
-        "laphroaig"
-      ],
-      "common": [
+        "legaci",
         "islay",
-        "laphroaig",
-        "laphroaig singl",
-        "laphroaig singl malt",
-        "malt",
-        "singl",
-        "singl malt",
-        "singl malt peat whiski islay",
-        "whiski",
-        "world"
-      ],
-      "messages": [
-        [
-          "Have you got your Feis Ile planned already?\n\nWe still have a very limited amount of tickets left to the Distillers Tasting where John Campbell, Denis Nicol, Murdo Reed and Robert Hicks will form the panel of Laphroaig Distillers.\n\nThey are looking forward to tasting their favourite drams with you and sharing stories of their time at Laphroaig, so if you're thinking of coming, book now to avoid disappointment!\n\nhttp://laphroaig.com/distillery/FeisIle2016.aspx Laphroaig Single Malt Whisky - Feis Ile 2016 Laphroaig Single Malt peated Whisky from Islay. The most richly flavoured scotch whisky in the World.",
-          1461772800
-        ],
-        [
-          "GEWINNSPIEL: Was sagst du zu dem Geschmack des Nr. 1 Single Malts aus Islay? Schreib es bis zum 27.11.2015 um 12:00 Uhr in die Kommentare und gewinne 1 Laphroaig Winterpaket oder 1 Flasche des limitierten Laphroaig 15 years.\nTeilnahmebedingungen unter http://bit.ly/LAPH_Winter-Geschenk Timeline Photos",
-          1448375520
-        ],
-        [
-          "Kannst du den Geschmack der Nr. 1 unter den Islay Single Malts beschreiben? Versuche es und gewinne ein Laphroaig Geschenkset \u2013 demn\u00e4chst auf unserer Facebook-Seite.",
-          1447171320
-        ],
-        [
-          "This month our Friend's of Laphroaig have a chance to bid in a very special auction - for a  bottle of 40 Year Old Laphroaig signed by His Royal Highness Prince Charles, Duke of Rothesay with all funds raised going to the Laphroaig Legacy fund for our islanders. Find out more here\nhttp://www.laphroaig.com/friends/auction/Default.aspx www.laphroaig.com Laphroaig Single Malt peated Whisky from Islay. The most richly flavoured scotch whisky in the World.",
-          1440151202
-        ],
-        [
-          "We have had a nice review of An Cuan Mor from our friends @ Gourmantic in Australia. Have you tried \"ACM\" yet? Laphroaig An Cuan Mor Review | Gourmantic Review of Laphroaig An Cuan Mor, a new single malt expression in Australia travel retail.",
-          1437644723
-        ],
-        [
-          "Remember that if you're looking to do some Christmas Shopping at the Laphroaig Shop, the last shipping dates for all orders are;\n\nUK: 19th December\nEurope: 15th December\nRest of the World: 12th December\n\nHappy shopping!\n\nhttp://www.laphroaig.com/shop Laphroaig Single Malt Whisky - Shop Laphroaig Single Malt peated Whisky from Islay. The most richly flavoured scotch whisky in the World.",
-          1418223139
-        ],
-        [
-          "Congratulations to Alan Baverstock and Robin Nico Seifermann our January Friends of Laphroaig winners! Fancy being a February winner? Just enter here: http://bit.ly/FriendsOfLaphroaig\n http://bit.ly/FriendsOfLaphroaig Laphroaig Single Malt peated Whisky from Islay. The most richly flavoured scotch whisky in the World.",
-          1391435566
-        ],
-        [
-          "How much do you know about the history of Laphroaig? Laphroaig Single Malt Whisky - History Laphroaig Single Malt peated Whisky from Islay. The most richly flavoured scotch whisky in the World.",
-          1363857550
-        ],
-        [
-          "It\u2019s official \u2013 we\u2019ve less than one month until Christmas! We don\u2019t think Christmas presents come much better than Laphroaig \u2013 if you\u2019re thinking the same then don\u2019t forget to order yours before the end of the week... Laphroaig Single Malt Whisky - Shop Laphroaig Single Malt peated Whisky from Islay. The most richly flavoured scotch whisky in the World.",
-          1353925002
-        ],
-        [
-          "We've had emails from friends who have spotted a new member of the Laphroaig family at airports. We have recently launched Laphroaig PX, a Laphroaig that has been matured in Pedro Ximenez sherry barrels. There's some more information on our website: http://laphroaig.com/whiskies/laph-px.aspx Laphroaig Single Malt Whisky - PX Cask Laphroaig Single Malt peated Whisky from Islay. The most richly flavoured scotch whisky in the World.",
-          1333352118
-        ]
-      ],
-      "dates_start": 1366269825,
-      "dates_end": 1452911962,
-      "likes_avg": 289,
-      "likes_stdev": 177,
-      "comments_avg": 67,
-      "comments_stdev": 170,
-      "shares_avg": 26,
-      "shares_stdev": 18
-    },
-    {
-      "number": 31,
-      "important": [
-        "whiski",
-        "laphroaig",
-        "laphroaig post",
-        "post",
-        "islay"
-      ],
-      "common": [
-        "day",
+        "year",
         "distilleri",
+        "local"
+      ],
+      "common": [
+        "distilleri",
+        "friend",
+        "fund",
         "islay",
-        "laphroaig",
-        "laphroaig post",
-        "new",
-        "post",
-        "season",
-        "weve",
-        "whiski"
+        "laphroaig legaci",
+        "laphroaig legaci fund",
+        "legaci",
+        "legaci fund",
+        "local",
+        "year"
       ],
       "messages": [
+        [
+          "We've had some amazing entries to our Opinions Welcome competition. Here are just a few of our favourites.\n\nSubmit your own at laphroaig.com/opinions Photos from Laphroaig's post",
+          1469376000
+        ],
+        [
+          "If you haven't submitted your Opinion already, you have until 1st of August to do so for a chance to win one of our 201 prizes.\n\nHere are some of the winners from last year. Photos from Laphroaig's post",
+          1467308139
+        ],
+        [
+          "What do you think about these opinions from Dana Laberge and Simon Lillqvist?\n\nIf you think yours is better, share it with us at http://laphroaig.com/opinions/ to win one of our peaty prizes. Photos from Laphroaig's post",
+          1463414401
+        ],
         [
           "Storm Henry on it's way to Islay.\n\nAll ferries have been cancelled, so we've had no bread or papers today. But one thing we do have... Whisky. Photos from Laphroaig's post",
           1454353277
@@ -2978,12 +1583,72 @@
           1451415601
         ],
         [
+          "The last one of the Laphroaig Legacy Fund beneficiaries is ReJIG.\n\nSince 2006, Re-JIG has been removing marine litter from the shores of Islay and Jura, lifting a total of over 200 tons of litter. Due to a change in the government\u2019s funding policy, Re-JIG will have a shortfall of \u00a319,000 in 2015 and this deficit will continue to grow, soon making it impossible to keep Islay\u2019s beaches clean.\n\nThe Laphroaig Legacy fund is helping ensure this invaluable work continues by commissioning a digital project team to monetise the websites and create an online system that enables tourists to donate a small amounts to keep Islay\u2019s beaches clean. This will generate a regular income to finance not only paid employee\u2019s at Re-JIG, but help purchase equipment for the devoted volunteers who are already committed.\n\nRead more at http://www.laphroaig.com/our-islay/legacy-fund/rejig.aspx Photos from Laphroaig's post",
+          1448996436
+        ],
+        [
+          "The next Laphroaig Legacy Fund beneficiary we want to introduce is the Islay Canoe Club (ICC) and Kayak Wild Islay (KWI).\n\nKayal Wild Islay is a local business targeted at tourism whilst providing the use of their equipment to the local Islay Canoe Club which provides this leisure pursuit the locals at very low cost.\n\nAs an activity, sea kayaking is a hugely beneficial as develops both environmental awareness along with a number of positive mental and physical skills.\n\nThe Laphroaig Legacy Fund shall be working with both ICC and KWI to provide specialist canoes for locals and tourists who may have physical disabilities and to raise awareness of this service in the media, targeted at locals and tourists alike.\n\nRead more at http://www.laphroaig.com/our-islay/legacy-fund/icc-and-kwi.aspx Photos from Laphroaig's post",
+          1448397056
+        ],
+        [
           "Gewinne die perfekte \u00dcberraschung f\u00fcr Single-Malt-Fans: das Geschenkset mit einem von drei Nosing-Gl\u00e4sern zum Sammeln. Eines von zwei dieser Sets kannst du jetzt gewinnen. Poste einfach in die Kommentare, f\u00fcr wen du noch ein torfiges Weihnachtsgeschenk suchst \u2013 bis zum 23.11.2015, 12:00 Uhr.\nTeilnahmebedingungen unter http://bit.ly/LAPH_Geschenkset_2 Timeline Photos",
           1447943400
         ],
         [
+          "Islay Ales is the third of our Laphroaig Legacy Fund beneficiaries.\n\nIslay Ales is a small craft brewery producing a range of cask & bottle conditioned beers on the island. The business has been in continuous production since 2004 and whilst the majority of sales are on Islay, export has begun to France, Switzerland, Germany and Japan. It is the aim to continue this steady expansion of the business and increase the work force.\n\nTo achieve the increase in production, Islay Ales must have SALSA (Safe And Local Supplier Approval) accreditation, which is becoming a requirement of supermarkets and distributors. The Laphroaig Legacy Fund shall work alongside Islay Ales to fund the SALSA accreditation but also provide a training and development consultant. The combination of the accreditation matched with the training scheme shall not only see this small, family run business expand but will also generate employment opportunities for locals.\n\nFind out more at http://www.laphroaig.com/our-islay/legacy-fund/islay-ales.aspx Photos from Laphroaig's post",
+          1447786801
+        ],
+        [
+          "The first Scottish storm to have a name \u2013 Abigail - arrives at the distillery. Yesterday was a bit stormy \u2026 last night was pretty calm but this morning it was 3 degrees, hail stones and gusts \u2026 only one ferry yesterday left Islay, the rest were cancelled. Looks like it will be 2 days without newspapers or bread! Photos from Laphroaig's post",
+          1447434001
+        ],
+        [
+          "Our second Laphroaig Legacy Fun beneficiary is the Argyll College.\n\nThe University of Highlands & Islands was established to make higher education accessible to those living in rural areas in Scotland. Argyll College hosts the Islay branch, providing a variety of courses and training programs that are fully accredited and recognised by employers.\n\nThe Laphroaig Legacy Fund will help to provide additional IT equipment, improved video conferencing for remote lectures and fund vocational courses to allow more Illeach\u2019s the opportunity to take advantage of skilled work on the island.\n\nFind out more at http://bit.ly/argyllcollege Photos from Laphroaig's post",
+          1447182007
+        ],
+        [
+          "Let us introduce you to the first one of our Legacy Fund Beneficiaries: \nCelebrating their skills in needlework, The Islay Quilters.\n\nFormed in 1992, a small group of quilters whose aim is to leave a legacy in more ways than one, as not only are they teaching their craft to the new generation of Illeach\u2019s but they also provide a tourist attraction in the form of their shop.\n\nWorking with The Laphroaig Legacy Fund, additional machines shall be purchased, a sustainable heating system shall be installed reducing monthly bills and a project team shall help generate PR and a social media presence for Islay Quilters with the objective of driving footfall to their shop, increasing income.\n\nFind out more about them at: http://bit.ly/islayquilters Photos from Laphroaig's post",
+          1446577203
+        ],
+        [
+          "In Laphroaig\u2019s 200th year, we celebrate the past by looking to the future supporting the sustainability of local businesses, community projects and individual\u2019s skills on Islay.\n\nThe Laphroaig Legacy Fund will not only offer financial help but also advice and mentoring for those who are committed to increasing employment, attracting tourism and providing a service to make island life even more attractive. We invited several beneficiaries to join us for lunch at the distillery and celebrate their work.\n\nFrom next week onwards, every Tuesday we'll give you an insight into some of the great work being achieved by the beneficiaries here on FB. Perhaps you'll remember some of them from Laphroaig Live! Photos from Laphroaig's post",
+          1445972400
+        ],
+        [
+          "We're slowly recovering from Laphroaig Live and what a night it was! Full of unforgettable moments with friends and plenty of great whisky.\n\nHere are some behind the scenes pictures to relive the night with. Photos from Laphroaig's post",
+          1443551401
+        ],
+        [
           "We had a surprise visitor yesterday at the distillery. Likes good whisky and arrived in style... Anyone recognise the face? Photos from Laphroaig's post",
           1436295600
+        ],
+        [
+          "An honour for our Friend - HRH Prince Charles opens our beautiful traditional dry stone Cairn - a gift to our FOLs on their 21st and Laphroaig\u2019s bicentenary year. A toast to all our Friends with one our favourites the 15YO - Sl\u00e1inte. Photos from Laphroaig's post",
+          1435331400
+        ],
+        [
+          "As a Friend and holder of Plot No.1 \u2013 the Prince is presented with two pairs of our much loved FOL green wellies \u2013 we hope the Duchess of Cornwall approves... Photos from Laphroaig's post",
+          1435330802
+        ],
+        [
+          "The Prince signs a special barrel to be laid down and auctioned for charity many years from now... Photos from Laphroaig's post",
+          1435330200
+        ],
+        [
+          "The Prince learns more about the Laphroaig Legacy Fund, launched in this, our bicentenary year to help local islanders achieve their ambitions. Timeline Photos",
+          1435329180
+        ],
+        [
+          "A lovely reminder in black and white - celebrating 200 years of crafting your favourite whisky. Photos from Laphroaig's post",
+          1430823601
+        ],
+        [
+          "Lovely weather here on Islay; the perfect day for Jim Hanson (Friend and Stonemason) to start building the distillery Cairn in celebration of our 200th anniversary year. Photos from Laphroaig's post",
+          1426748246
+        ],
+        [
+          "Laphroaig Distillery wins the Thistle award for the Best Visitor Attraction in Scotland! Congratulations to all the team. Photos from Laphroaig's post",
+          1425840840
         ],
         [
           "For the past couple of days Scotland has been battered by storms and we've had our fair share of the action here at Islay.\n\nHere are some pictures from outside the Distillery. Photos from Laphroaig's post",
@@ -3014,8 +1679,24 @@
           1405360801
         ],
         [
+          "More celebrations on Islay - many will recognise Bryony from our tasting and tours at the distillery, on Friday she tied the knot. Huge congratulations from us all Mr & Mrs Bryony & Paddy McGranaghan! Photos from Laphroaig's post",
+          1402156801
+        ],
+        [
           "Busy time here at the distillery - all ready for the open day tomorrow. We've been welcoming new friends and familiar faces from across the globe. Lovely to meet you all ... Photos from Laphroaig's post",
           1401111901
+        ],
+        [
+          "Great Duty Free Tasting tor this morning at the distillery with Bryony, introducing friends to QA, An Cuan Mor and PX. Nose, Palate and Finish ... Photos from Laphroaig's post",
+          1401102001
+        ],
+        [
+          "I have just returned from a fantastic trip (on ferry) in Sweden where we tasted 2 of our new range of special duty free expressions \u2018QA Cask and An Cuan Mor\u2019. Now I know that many of you are fanatical about Laphroaig but a whole tattoo? Now that is a  \u2018Friend for life\u2019! Photos from Laphroaig's post",
+          1394537786
+        ],
+        [
+          "Over the winter months, we have built a \u2018welly\u2019 room; now you can be sure you are stepping into warm dry wellies when heading off in search of your personal square foot of Islay. Have you had the pleasure of standing on your personal square foot of Islay? Photos from Laphroaig's post",
+          1393596945
         ],
         [
           "Our new footpath is complete! Next time you visit, why not take a stroll along the scenic route - 1.5 miles from Port Ellen to the entrance of Laphroaig distillery. Stunning views to accompany your pilgrimage to claim your rent. \n\nhttp://bit.ly/1fhqlDE Photos from Laphroaig's post",
@@ -3024,148 +1705,20 @@
         [
           "We've been making progress with our new dry stone wall at the entrance to the distillery. Will you be making a visit soon? Photos from Laphroaig's post",
           1390398842
+        ],
+        [
+          "Happy Shrove Tuesday! Why not give our Laphroaig & Orange Pancake Sauce a try? Or post us your own suggestions in the Comments below\u2026\n\nSimply melt butter and sugar in a pan and simmer for 5 minutes. Then add orange and lemon juice and zest until the mixture gently bubbles, add Laphroaig and simmer for 3 more minutes. Pour over your pancakes and heat in the oven for 10 minutes. Timeline Photos",
+          1360665858
         ]
       ],
-      "dates_start": 1397138911,
-      "dates_end": 1438223583,
-      "likes_avg": 695,
-      "likes_stdev": 388,
-      "comments_avg": 59,
-      "comments_stdev": 126,
-      "shares_avg": 25,
-      "shares_stdev": 20
-    },
-    {
-      "number": 32,
-      "important": [
-        "distilleri",
-        "question",
-        "laphroaig",
-        "ani",
-        "introduc"
-      ],
-      "common": [
-        "ani",
-        "distilleri",
-        "introduc",
-        "laphroaig",
-        "part",
-        "peat",
-        "question",
-        "question timelin",
-        "respons",
-        "timelin"
-      ],
-      "messages": [
-        [
-          "Final part of our Distillery Community \u2013 let us introduce you to Vicky Stevens, responsible for the Visitor Centre here at Laphroaig. With our wide ranging tours, museum and Friends of Laphroaig lounge, there is always something happening. Our whisky is bottled to leave its Island home for friends across the globe to enjoy. \nMy question to you \u2013 how many visitors (on average) do we have here at the distillery each year? Timeline Photos",
-          1406311201
-        ],
-        [
-          "Part ten: The big sleep (angels share), introducing you to James MacGregor looking after the maturation (Dunnage) warehouse & different barrels (ie American/European/Quarter Casks)\nMy question to you: How many litres / gallons in a bourbon barrel?\nAny questions for me? Timeline Photos",
-          1405706402
-        ],
-        [
-          "Part nine of our Distillery Community introduces Andrew Hamilton - 'Into the wood for good', responsible for the distillery coopering and filling - an essential phase of our process. Any ideas what the implement in the image is called? Timeline Photos",
-          1405101601
-        ],
-        [
-          "Our Distillery Community, Part 7. Introducing Norrrie MacTavish\nResponsible for the mashing with water, fermentation and testing the strength of alcohol!\nMy question to you: What is the strength of our barley beer?\nAny questions for me? Timeline Photos",
-          1403712001
-        ],
-        [
-          "Part 5: \"The Big Smoke\", introducing you all to Norman MacDonald. Looks after our all-important peat kilns and the peating floor.\nMy question to you: How long do we peat the malted barley for? ... Any questions for me? Timeline Photos",
-          1400180701
-        ],
-        [
-          "There\u2019s no smoke without peat! Let us introduce William Johnston\nMy main responsibilities at the distillery include cutting and drying of the famous peat.\nMy question to you: What is the name of the cutting tool we use?                                        \nNow your questions for me \u2026 Timeline Photos",
-          1398448801
-        ],
-        [
-          "Indoor Farming! \nIntroducing Graham Holyoake responsible for regulating temperatures. This helps the barley thinks its Spring time and time to grow. My question to you: How many tons of barley do we use a week?                                          \nAny questions for me? Timeline Photos",
-          1397822100
-        ],
-        [
-          "\u201cIt\u2019s always spring at Laphroaig!\u201d Meet Barry MacAffer responsible for the important task of steeping and laying. My question to you: What is the name of the barrow we use?\n\nAny questions for me? ... Barry \u2014 at Laphroaig Distillery Timeline Photos",
-          1397232625
-        ],
-        [
-          "Aqua Vitae - heavens above! Meet David our Assistant manager, responsible for reporting how we manage our all-important (peaty) water supply. \nMy question to you: How many gallons of our water do we use a week?\n\nNow your questions for me? ... Timeline Photos",
-          1395925200
-        ],
-        [
-          "In the upcoming weeks, I'd like you to meet my team and show you how we make your whisky in 10 parts. As the weeks progress I\u2019d love you to ask questions on the various process' and my team, the experts will happily answer you. We'll be starting this week introducing David our Assistant Manager. Best questions will get a Laphroaig nosing glass!  Laphroaig - Drop To Dram",
-          1395761282
-        ]
-      ],
-      "dates_start": 1396648234,
-      "dates_end": 1404592148,
-      "likes_avg": 515,
-      "likes_stdev": 105,
-      "comments_avg": 15,
-      "comments_stdev": 9,
-      "shares_avg": 20,
-      "shares_stdev": 7
-    },
-    {
-      "number": 33,
-      "important": [
-        "local",
-        "legaci",
-        "laphroaig",
-        "work",
-        "islay"
-      ],
-      "common": [
-        "fund",
-        "islay",
-        "laphroaig",
-        "laphroaig legaci",
-        "laphroaig legaci fund",
-        "legaci",
-        "legaci fund",
-        "local",
-        "provid",
-        "work"
-      ],
-      "messages": [
-        [
-          "The last one of the Laphroaig Legacy Fund beneficiaries is ReJIG.\n\nSince 2006, Re-JIG has been removing marine litter from the shores of Islay and Jura, lifting a total of over 200 tons of litter. Due to a change in the government\u2019s funding policy, Re-JIG will have a shortfall of \u00a319,000 in 2015 and this deficit will continue to grow, soon making it impossible to keep Islay\u2019s beaches clean.\n\nThe Laphroaig Legacy fund is helping ensure this invaluable work continues by commissioning a digital project team to monetise the websites and create an online system that enables tourists to donate a small amounts to keep Islay\u2019s beaches clean. This will generate a regular income to finance not only paid employee\u2019s at Re-JIG, but help purchase equipment for the devoted volunteers who are already committed.\n\nRead more at http://www.laphroaig.com/our-islay/legacy-fund/rejig.aspx Photos from Laphroaig's post",
-          1448996436
-        ],
-        [
-          "The next Laphroaig Legacy Fund beneficiary we want to introduce is the Islay Canoe Club (ICC) and Kayak Wild Islay (KWI).\n\nKayal Wild Islay is a local business targeted at tourism whilst providing the use of their equipment to the local Islay Canoe Club which provides this leisure pursuit the locals at very low cost.\n\nAs an activity, sea kayaking is a hugely beneficial as develops both environmental awareness along with a number of positive mental and physical skills.\n\nThe Laphroaig Legacy Fund shall be working with both ICC and KWI to provide specialist canoes for locals and tourists who may have physical disabilities and to raise awareness of this service in the media, targeted at locals and tourists alike.\n\nRead more at http://www.laphroaig.com/our-islay/legacy-fund/icc-and-kwi.aspx Photos from Laphroaig's post",
-          1448397056
-        ],
-        [
-          "Islay Ales is the third of our Laphroaig Legacy Fund beneficiaries.\n\nIslay Ales is a small craft brewery producing a range of cask & bottle conditioned beers on the island. The business has been in continuous production since 2004 and whilst the majority of sales are on Islay, export has begun to France, Switzerland, Germany and Japan. It is the aim to continue this steady expansion of the business and increase the work force.\n\nTo achieve the increase in production, Islay Ales must have SALSA (Safe And Local Supplier Approval) accreditation, which is becoming a requirement of supermarkets and distributors. The Laphroaig Legacy Fund shall work alongside Islay Ales to fund the SALSA accreditation but also provide a training and development consultant. The combination of the accreditation matched with the training scheme shall not only see this small, family run business expand but will also generate employment opportunities for locals.\n\nFind out more at http://www.laphroaig.com/our-islay/legacy-fund/islay-ales.aspx Photos from Laphroaig's post",
-          1447786801
-        ],
-        [
-          "Our second Laphroaig Legacy Fun beneficiary is the Argyll College.\n\nThe University of Highlands & Islands was established to make higher education accessible to those living in rural areas in Scotland. Argyll College hosts the Islay branch, providing a variety of courses and training programs that are fully accredited and recognised by employers.\n\nThe Laphroaig Legacy Fund will help to provide additional IT equipment, improved video conferencing for remote lectures and fund vocational courses to allow more Illeach\u2019s the opportunity to take advantage of skilled work on the island.\n\nFind out more at http://bit.ly/argyllcollege Photos from Laphroaig's post",
-          1447182007
-        ],
-        [
-          "Let us introduce you to the first one of our Legacy Fund Beneficiaries: \nCelebrating their skills in needlework, The Islay Quilters.\n\nFormed in 1992, a small group of quilters whose aim is to leave a legacy in more ways than one, as not only are they teaching their craft to the new generation of Illeach\u2019s but they also provide a tourist attraction in the form of their shop.\n\nWorking with The Laphroaig Legacy Fund, additional machines shall be purchased, a sustainable heating system shall be installed reducing monthly bills and a project team shall help generate PR and a social media presence for Islay Quilters with the objective of driving footfall to their shop, increasing income.\n\nFind out more about them at: http://bit.ly/islayquilters Photos from Laphroaig's post",
-          1446577203
-        ],
-        [
-          "In Laphroaig\u2019s 200th year, we celebrate the past by looking to the future supporting the sustainability of local businesses, community projects and individual\u2019s skills on Islay.\n\nThe Laphroaig Legacy Fund will not only offer financial help but also advice and mentoring for those who are committed to increasing employment, attracting tourism and providing a service to make island life even more attractive. We invited several beneficiaries to join us for lunch at the distillery and celebrate their work.\n\nFrom next week onwards, every Tuesday we'll give you an insight into some of the great work being achieved by the beneficiaries here on FB. Perhaps you'll remember some of them from Laphroaig Live! Photos from Laphroaig's post",
-          1445972400
-        ],
-        [
-          "The Prince learns more about the Laphroaig Legacy Fund, launched in this, our bicentenary year to help local islanders achieve their ambitions. Timeline Photos",
-          1435329180
-        ]
-      ],
-      "dates_start": 1441388636,
-      "dates_end": 1450108815,
-      "likes_avg": 172,
-      "likes_stdev": 164,
-      "comments_avg": 3,
-      "comments_stdev": 2,
-      "shares_avg": 7,
-      "shares_stdev": 4
+      "dates_start": 1401975352,
+      "dates_end": 1452096375,
+      "likes_avg": 612,
+      "likes_stdev": 415,
+      "comments_avg": 32,
+      "comments_stdev": 82,
+      "shares_avg": 30,
+      "shares_stdev": 39
     }
   ]
 }

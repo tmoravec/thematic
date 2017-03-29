@@ -4,11 +4,11 @@
   "globalstats": {
     "fan_count": 14254,
     "messages": 396,
-    "likes_avg": 157,
-    "likes_stdev": 207,
-    "comments_avg": 13,
-    "comments_stdev": 39,
-    "shares_avg": 22,
+    "likes_avg": 148,
+    "likes_stdev": 203,
+    "comments_avg": 11,
+    "comments_stdev": 28,
+    "shares_avg": 21,
     "shares_stdev": 32,
     "graph_uri": "clusters/plzen.prazdroj.png"
   },
@@ -16,23 +16,23 @@
     {
       "number": 1,
       "important": [
-        "sl\u00e1dk\u016f",
+        "kde",
         "le\u017e\u00e1k",
-        "timelin",
-        "najdet",
-        "map\u011b"
+        "chutn\u00e1",
+        "map\u011b",
+        "sl\u00e1dk\u016f"
       ],
       "common": [
+        "chutn\u00e1",
         "kde",
         "le\u017e\u00e1k",
         "map\u011b",
-        "najdet",
         "sl\u00e1dk\u016f",
-        "timelin",
-        "volbasladku",
         "v\u00e1m",
         "zde",
-        "zde timelin"
+        "zde httpjmpvolbasladku",
+        "zde httpjmpvolbasladku timelin",
+        "zde httpjmpvolbasladku timelin photo"
       ],
       "messages": [
         [
@@ -113,22 +113,22 @@
       "number": 2,
       "important": [
         "plze\u0148sk\u00e9ho",
-        "timelin",
-        "pilsner",
+        "prazdroj",
         "pilsnerurquel",
-        "pilsner urquel"
+        "sklenic",
+        "piva"
       ],
       "common": [
-        "pilsner",
-        "pilsner urquel",
+        "historickasklenic timelin photo",
         "pilsnerurquel",
         "piva",
         "pivo",
         "pivovaru",
         "plze\u0148sk\u00e9ho",
         "prazdroj",
-        "timelin",
-        "urquel"
+        "prazdroj pilsnerurquel",
+        "sklenic",
+        "\u010desk\u00fdch"
       ],
       "messages": [
         [
@@ -142,6 +142,10 @@
         [
           "Tenkost\u011bnn\u00fd poh\u00e1rek z 60. let 20. stolet\u00ed s dominantn\u00edm znakem m\u011bsta Plze\u0148 a b\u00edl\u00fdm n\u00e1pisem Pilsner Urquell se objevoval ve v\u011bt\u0161in\u011b dom\u00e1cnost\u00ed p\u0159\u00edznivc\u016f kvalitn\u00edho plze\u0148sk\u00e9ho piva a vyu\u017e\u00edval se nap\u0159. p\u0159i rodinn\u00fdch oslav\u00e1ch. Kdo pamatuje? :) #prazdroj #pilsnerurquell #historickasklenice Timeline Photos",
           1455466141
+        ],
+        [
+          "Tato sklenice z roku 1968 je jednou z t\u011bch, na kter\u00fdch se objevil n\u00e1zev Plze\u0148sk\u00fd Prazdroj m\u00edsto obvykl\u00e9ho Pilsner Urquell. Tyto n\u00e1zvy se od roku 1898 pou\u017e\u00edvaly oba sou\u010dasn\u011b. N\u011bkolik let po sametov\u00e9 revoluci se ale definitivn\u011b rozd\u011blily, Pilsner Urquell je zna\u010dka piva a Plze\u0148sk\u00fd Prazdroj je n\u00e1zev spole\u010dnosti, pod kterou mimo jin\u00e9 pat\u0159\u00ed i pivovar Gambrinus, pivovar v No\u0161ovic\u00edch a pivovar ve Velk\u00fdch Popovic\u00edch. #prazdroj #pilsnerurquell #historickasklenice Timeline Photos",
+          1454858941
         ],
         [
           "Elegantn\u00ed sklenice na no\u017ece s patkou s dominantn\u00edm m\u011bstsk\u00fdm znakem a b\u00edl\u00fdm n\u00e1pisem Pilsner Urquell se b\u011bhem historie opakovala n\u011bkolikr\u00e1t. Poprv\u00e9 to bylo ve 30. letech, pot\u00e9 v 60. a s men\u0161\u00edm znakem znovu v 80. letech 20. stolet\u00ed. #prazdroj #pilsnerurquell #historickasklenice Timeline Photos",
@@ -160,20 +164,8 @@
           1446392940
         ],
         [
-          "Zveme v\u00e1s na slavnostn\u00ed varhann\u00ed koncert do katedr\u00e1ly sv. Bartolom\u011bje v Plzni, kter\u00fd se uskute\u010dn\u00ed 4. \u0159\u00edjna. Koncert po\u0159\u00e1d\u00e1me u p\u0159\u00edle\u017eitosti 173. v\u00fdro\u010d\u00ed uva\u0159en\u00ed prvn\u00ed v\u00e1rky plze\u0148sk\u00e9ho le\u017e\u00e1ku Pilsner Urquell. #prazdrojvisit #plzen Varhann\u00ed koncert 2015 4. \u0159\u00edjna 2015 \u2022  19:30 - 21:30 \u2022  katedr\u00e1la sv. Bartolom\u011bje na n\u00e1m\u011bst\u00ed Republiky v Plzni \u2022  VSTUP ZDARMA",
-          1443617100
-        ],
-        [
-          "U\u017e za p\u00e1r dn\u00ed startuje Pilsner Fest, oslava v\u00fdro\u010d\u00ed prvn\u00ed v\u00e1rky Pilsner Urquell. \u010cek\u00e1 na v\u00e1s nefiltrovan\u00fd le\u017e\u00e1k Pilsner Urquell, dobr\u00e9 j\u00eddlo, hudebn\u00ed a doprovodn\u00fd program. Nenechte si uj\u00edt kapely jako Xindl X, No Name, Divokej Bill, UDG, Monkey Business a dal\u0161\u00ed. T\u011b\u0161\u00edme se na v\u00e1s ji\u017e tuto sobotu 3.10. v Plzni. #pilsnerurquell #pilsnerfest2015 Pilsner Fest 2015 3. \u0159\u00edjna 2015 v Plzni \r\n\r\n",
-          1443598620
-        ],
-        [
           "Bu\u010fte RETRO s Pilsner Urquell. Pou\u017eit\u00e9 st\u0159ihy i materi\u00e1ly jsou modern\u00ed. Vyberte si tri\u010dko z NOV\u00c9 KOLEKCE dle libosti \u2192 http://j.mp/Retro-kolekce Timeline Photos",
           1442754784
-        ],
-        [
-          "P\u0159ij\u010fte v sobotu 3.10. s n\u00e1mi na Pilsner Fest 2015 oslavit prvn\u00ed v\u00e1rku Pilsner Urquell, kterou uva\u0159il Josef Groll. #pilsnerurquell #pilsnerfest2015 Pilsner Fest 2015 3. \u0159\u00edjna 2015 v Plzni",
-          1442323561
         ],
         [
           "Jak spr\u00e1vn\u011b na\u010depovat pivo \u201ena hladinku\u201c? Co je \u201e\u010dochtan\u201c, \u201e\u0161nyt\u201c \u010di \u201cml\u00edko\u201c? Sta\u0148te se pivn\u00edmi znalci a u\u017eijte si s p\u0159\u00e1teli nezapomenuteln\u00e9 chv\u00edle p\u0159\u00edmo v pivovaru. Jako d\u00e1rek si odnesete certifik\u00e1t a p\u016fllitr se sv\u00fdm jm\u00e9nem ;) #prazdrojvisit #skolacepovani #pilsnerurquell \u0160kola \u010depov\u00e1n\u00ed piva Pilsner Urquell L\u00e1k\u00e1 v\u00e1s v\u00fd\u010depn\u00ed \u0159emeslo? Vyzkou\u0161ejte si na vlastn\u00ed k\u016f\u017ei, jak spr\u00e1vn\u011b \u010depovat pivo Pilsner Urquell. Rezervujte si m\u00edsto!",
@@ -184,20 +176,12 @@
           1441464961
         ],
         [
-          "V\u0161ude dob\u0159e, v pivovarsk\u00fdch sklep\u00edch nejl\u00e9pe - obzvl\u00e1\u0161\u0165 v tak parn\u00e9m po\u010das\u00ed. U\u017e t\u00e9m\u011b\u0159 200 let tady pro v\u00e1s p\u0159i teplot\u011b kolem 5\u00b0C zraje ten prav\u00fd origin\u00e1l. Timeline Photos",
-          1439542801
-        ],
-        [
           "N\u011bkolikr\u00e1t t\u00fddn\u011b bude z plze\u0148sk\u00e9ho pivovaru vyj\u00ed\u017ed\u011bt do italsk\u00e9ho Mil\u00e1na speci\u00e1ln\u00ed v\u016fz s plze\u0148sk\u00fdm le\u017e\u00e1kem Pilsner Urquell v  nepasterovan\u00e9 podob\u011b, aby z\u00e1sobil \u010deskou hospodu, je\u017e vyrostla v \u010cesk\u00e9m pavilonu na sv\u011btov\u00e9 v\u00fdstav\u011b EXPO 2015. 20 milion\u016f n\u00e1v\u0161t\u011bvn\u00edk\u016f EXPO 2015 ochutn\u00e1 nepasterovan\u00fd Pilsner Urquell Krom\u011b hospody se n\u00e1v\u0161t\u011bvn\u00edci v\u00fdstavy mohou t\u011b\u0161it na expozici \u010desk\u00e9ho pivovarnictv\u00ed a uk\u00e1zky tradi\u010dn\u00edch \u0159emesel. ",
           1430398403
         ],
         [
           "Od 1.5. bude na n\u00e1dvo\u0159\u00ed Plze\u0148sk\u00e9ho Prazdroje otev\u0159ena Pilsner Urquell fan z\u00f3na, kter\u00e1 nab\u00eddne z\u00e1bavu spojenou s p\u0159enosy hokejov\u00fdch utk\u00e1n\u00ed \u010desk\u00e9 reprezentace. P\u0159ij\u010fte fandit na\u0161im hokejist\u016fm do pivovaru! T\u011b\u0161te se na velkoplo\u0161nou LED projekci, p\u0159\u00edjemn\u011b vybaven\u00fd stan s ob\u010derstven\u00edm a samoz\u0159ejm\u011b t\u00edm nejlep\u0161\u00edm pivem \u2013 Pilsner Urquell, sout\u011b\u017eemi a snad i v\u00edt\u011bzstv\u00edm \u010desk\u00fdch barev.",
           1430151056
-        ],
-        [
-          "\u010cesko je zn\u00e1m\u00e9 jako zem\u011b skv\u011bl\u00fdch hokejist\u016f, ale je\u0161t\u011b v\u00edce jako vlast vynikaj\u00edc\u00edho piva. Jak se p\u0159ipravujete na mistrovstv\u00ed vy? Spole\u010dn\u011b pro \u010desk\u00e9 zlato! | N\u00e1rodn\u00ed t\u00fdm a Pilsner Urquell Spojen\u00ed \u010cesk\u00e1 hokejov\u00e1 reprezentace a Pilsner Urquell nen\u00ed jen partnerstv\u00edm. Spole\u010dn\u00fdm znakem pro \u010desk\u00fd hokej a pivo je ZLATO. Pod\u00edvejte se na spot, ve kter\u00e9...",
-          1429603885
         ],
         [
           "V novin\u00e1\u0159sk\u00e9 anket\u011b Na\u0161e pivo 2015, po\u0159\u00e1dan\u00e9 \u010cesk\u00fdm svazem pivovar\u016f a sladoven, zv\u00edt\u011bzil v popularit\u011b plze\u0148sk\u00fd le\u017e\u00e1k Pilsner Urquell. Pilsner Urquell je nejobl\u00edben\u011bj\u0161\u00ed pivo \u010desk\u00fdch novin\u00e1\u0159\u016f Ankety se letos z\u00fa\u010dastnilo 235 novin\u00e1\u0159\u016f ze v\u0161ech druh\u016f m\u00e9di\u00ed a nap\u0159\u00ed\u010d celou \u010ceskou republikou.",
@@ -216,43 +200,31 @@
           1426488658
         ],
         [
-          "V na\u0161em e-shopu pr\u00e1v\u011b najdete za bezkonkuren\u010dn\u00ed ceny tri\u010dka, sklenice d\u00e1rkov\u00e9 bal\u00ed\u010dky a dal\u0161\u00ed zbo\u017e\u00ed na\u0161ich zna\u010dek Pilsner Urquell, Velkopopovick\u00fd Kozel, Radegast a Birell. Nev\u00e1hejte, nab\u00eddka plat\u00ed pouze do vyprod\u00e1n\u00ed z\u00e1sob!\n\nbit.ly/PU_eshop Timeline Photos",
-          1424800804
-        ],
-        [
-          "Darujte sv\u00fdm p\u0159\u00e1tel\u016fm poukaz na P\u00e1rty v pivovaru Gambrinus nebo \u0160kolu \u010depov\u00e1n\u00ed Pilsner Urquell a nebudete litovat ani vy ani obdarovan\u00ed. Spole\u010dn\u011b str\u00e1ven\u00e9 chv\u00edle jsou toti\u017e t\u00edm nejhez\u010d\u00edm a trval\u00fdm d\u00e1rkem.\n\nhttp://eshop.prazdroj.cz/vsechny-znacky/zazitky-v-pivovaru Timeline Photos",
-          1418212810
-        ],
-        [
           "Prazdroj z\u00edskal v\u010dera hned dv\u011b hlavn\u00ed ceny m\u011bs\u00ed\u010dn\u00edku Pivo, Bier & Ale. V pra\u017esk\u00e9 restauraci U Flek\u016f zv\u00edt\u011bzil s pivn\u00edm p\u016fllitrem Pilsner Urquell z d\u00edlny zn\u00e1m\u00e9ho \u010desk\u00e9ho design\u00e9ra Ronyho Plesla. Ocen\u011bn\u00ed \u201ePivn\u00ed patriot\u201c si pak za dlouholetou vzornou p\u00e9\u010di o tradi\u010dn\u00ed pivovarsk\u00e9 \u0159emeslo odnesl Ladislav Be\u0161\u0165\u00e1k, emeritn\u00ed bedn\u00e1\u0159 plze\u0148sk\u00e9ho pivovaru. \n\nbit.ly/cena_design Timeline Photos",
           1417791606
-        ],
-        [
-          "Pilsner Urquell bodoval a\u017e v dalek\u00e9 Ji\u017en\u00ed Koreji! Se sv\u00fdm le\u017e\u00e1kem Plze\u0148sk\u00fd Prazdroj toti\u017e zv\u00edt\u011bzil v televizn\u00ed sout\u011b\u017ei Complain Zero a usp\u011bl tak p\u0159ed zna\u010dkami jako Heineken, Stella, San Miquel, Kirin, Samuel Adams a p\u011bti dal\u0161\u00edmi pivy dom\u00e1c\u00ed v\u00fdroby.\n\nbit.ly/soutez_korea Timeline Photos",
-          1410189504
         ],
         [
           "Nejv\u011bt\u0161\u00ed cestovatelsk\u00fd port\u00e1l TripAdvisor.com znovu ocenil prohl\u00eddkovou trasu pivovaru Pilsner Urquell, kter\u00e1 tak i pro rok 2014 obh\u00e1jila Certificate of Excellence. Za\u0159adila se tak mezi 10% nejl\u00e9pe hodnocen\u00fdch turistick\u00fdch destinac\u00ed na cel\u00e9m sv\u011bt\u011b. \n\nhttp://bit.ly/TripAdvis Timeline Photos",
           1403109001
         ]
       ],
-      "dates_start": 1420902613,
-      "dates_end": 1453204465,
-      "likes_avg": 289,
-      "likes_stdev": 267,
-      "comments_avg": 8,
-      "comments_stdev": 11,
-      "shares_avg": 37,
-      "shares_stdev": 35
+      "dates_start": 1423332576,
+      "dates_end": 1457337095,
+      "likes_avg": 344,
+      "likes_stdev": 298,
+      "comments_avg": 11,
+      "comments_stdev": 12,
+      "shares_avg": 36,
+      "shares_stdev": 29
     },
     {
       "number": 3,
       "important": [
         "prazdrojvisit",
         "od",
+        "sobotu",
         "plzni",
-        "prazdroj",
-        "sobotu"
+        "v\u00e1s"
       ],
       "common": [
         "hodin",
@@ -261,10 +233,10 @@
         "od hodin",
         "plze\u0148sk\u00e9ho",
         "plzni",
-        "prazdroj",
         "prazdrojvisit",
         "p\u0159ij\u010ft",
-        "sobotu"
+        "sobotu",
+        "v\u00e1s"
       ],
       "messages": [
         [
@@ -274,10 +246,6 @@
         [
           "28. \u0159\u00edjna 1918 je datum, kter\u00e9 slav\u00edme dodnes. P\u0159ij\u010fte jej oslavit do Plze\u0148sk\u00e9ho Prazdroje! P\u0159ipravili jsme pro v\u00e1s speci\u00e1ln\u00ed prohl\u00eddky na\u0161eho pivovaru. Do oslav se zapoj\u00ed tak\u00e9 Pivovarsk\u00e9 muzeum v Plzni. Prohl\u00eddky budou st\u00e1t slavnostn\u00edch 28 K\u010d! #prazdrojvisit #pivovarskemuzeum #plzen Plze\u0148sk\u00e9 oslavy vzniku republiky | Vstup za 28 K\u010d 28. 10. od 10 do 17 hod \u2022 Pivovarsk\u00e9 muzeum a pivovar Plze\u0148sk\u00fd Prazdroj ",
           1477399860
-        ],
-        [
-          "V\u00edte, co byly stoln\u00ed spole\u010dnosti? \u0160lo o neofici\u00e1ln\u00ed spolky, ze kter\u00fdch vze\u0161ly v\u00fdznamn\u00e9 osobnosti sv\u00e9 doby. P\u0159ij\u010fte se pod\u00edvat na novou v\u00fdstavu Pivovarsk\u00e9ho muzea v Plzni, kter\u00e1 v\u00e1m o Zanikl\u00e9m sv\u011bte stoln\u00edch spole\u010dnost\u00ed \u0159ekne v\u00edce ;) #prazdrojvisit #pivovarskemuzeum\u202c \u202a#vystava V\u00fdstava: Zanikl\u00fd sv\u011bt stoln\u00edch spole\u010dnost\u00ed 27. 10. 2016 - 1. 5. 2017 od 10 do 17 hod \u2022 Pivovarsk\u00e9 muzeum v Plzni",
-          1476970440
         ],
         [
           "Tento \u010dtvrtek vystoup\u00ed na n\u00e1dvo\u0159\u00ed Plze\u0148sk\u00e9ho Prazdroje pop-rockov\u00e9 kapely Just a B\u00e1ra Zemanov\u00e1 & band. P\u0159ij\u010fte si je sv\u00fdmi p\u0159\u00e1teli poslechnout a u\u017e\u00edt si letn\u00ed ve\u010der pln\u00fd z\u00e1bavy! Vychlazen\u00e9 pivo zaji\u0161t\u011bno ;) #letovprazdroji #prazdrojvisit L\u00c9TO V PRAZDROJI 2016 KDY: Cel\u00e9 pr\u00e1zdniny ka\u017ed\u00fd \u010dtvrtek od 19 do 22 hod \u2022 KDE: N\u00e1dvo\u0159\u00ed pivovaru Plze\u0148sk\u00fd Prazdroj \u2022 VSTUP ZDARMA ",
@@ -304,6 +272,14 @@
           1461740881
         ],
         [
+          "BRAVO VIVALDI Koncert Lubom\u00edra Brabce a Pavla \u0160porcla s Brabec Baroque Ensemble a hostem Hedvikou \u0160vendovou v Plzni 19.dubna 2016 v N\u00e1v\u0161t\u011bvnick\u00e9m centru je ji\u017e dva m\u011bs\u00edce beznad\u011bjn\u011b vyprod\u00e1n!!!\nRozhodli jsme se proto p\u0159idat n\u011bjak\u00e9 l\u00edstky k st\u00e1n\u00ed!!!\nhttp://www.plzenskavstupenka.cz/\u2026/10754-pavel-sporcl-housle\u2026",
+          1459782650
+        ],
+        [
+          "Pivovarsk\u00e9 muzeum v Plzni vyhla\u0161uje 12. ro\u010dn\u00edk Sout\u011b\u017ee o nejkr\u00e1sn\u011bj\u0161\u00ed v\u00e1no\u010dn\u00ed pern\u00ed\u010dek. P\u0159ineste sv\u00e9 pern\u00ed\u010dky do Pivovarsk\u00e9ho muzea a vyhrajte zaj\u00edmav\u00e9 ceny! Pern\u00ed\u010dky m\u016f\u017eete nosit do 17. prosince, kdy v 17 hodin prob\u011bhne vyhl\u00e1\u0161en\u00ed v\u00edt\u011bz\u016f. #soutez #pivovarskemuzeum #prazdrojvisit Sout\u011b\u017e o nejkr\u00e1sn\u011bj\u0161\u00ed v\u00e1no\u010dn\u00ed pern\u00ed\u010dek P\u0159ineste sv\u00e9 poveden\u00e9 sout\u011b\u017en\u00ed pern\u00ed\u010dky do Pivovarsk\u00e9ho muzea v Plzni ka\u017ed\u00fd den od 28. listopadu od 10 do 16 hodin do 17. prosince do 17 hodin.",
+          1448709060
+        ],
+        [
           "Nav\u0161tivte tuto sobotu posledn\u00ed workshop z cyklu Podzimn\u00ed inspirace! Dom\u016f si odnesete ozdoby na strome\u010dek z dr\u00e1tu a pap\u00edru a vyzkou\u0161\u00edte si i zdoben\u00ed pern\u00ed\u010dk\u016f. T\u011b\u0161\u00edme se na v\u00e1s od 10 hod v Pivovarsk\u00e9m muzeu v Plzni! #pivovarskemuzeum #prazdrojvisit \n\nA pokud se pern\u00ed\u010dky povedou, m\u016f\u017eete je p\u0159ihl\u00e1sit do 12. ro\u010dn\u00edku Sout\u011b\u017ee o nejkr\u00e1sn\u011bj\u0161\u00ed v\u00e1no\u010dn\u00ed pern\u00ed\u010dek \u2192 http://j.mp/Soutez-Nejkrasnejsi_pernicek Tv\u016fr\u010d\u00ed d\u00edlny v Pivovarsk\u00e9m muzeu | sobota 28.11. Posledn\u00ed workshop z cyklu tv\u016fr\u010d\u00edch d\u00edlen Podzimn\u00ed inspirace prob\u011bhne ji\u017e tuto sobotu 28. listopadu od 10 do 16 hod.",
           1448527020
         ],
@@ -324,6 +300,18 @@
           1445521021
         ],
         [
+          "Zveme v\u00e1s na slavnostn\u00ed varhann\u00ed koncert do katedr\u00e1ly sv. Bartolom\u011bje v Plzni, kter\u00fd se uskute\u010dn\u00ed 4. \u0159\u00edjna. Koncert po\u0159\u00e1d\u00e1me u p\u0159\u00edle\u017eitosti 173. v\u00fdro\u010d\u00ed uva\u0159en\u00ed prvn\u00ed v\u00e1rky plze\u0148sk\u00e9ho le\u017e\u00e1ku Pilsner Urquell. #prazdrojvisit #plzen Varhann\u00ed koncert 2015 4. \u0159\u00edjna 2015 \u2022  19:30 - 21:30 \u2022  katedr\u00e1la sv. Bartolom\u011bje na n\u00e1m\u011bst\u00ed Republiky v Plzni \u2022  VSTUP ZDARMA",
+          1443617100
+        ],
+        [
+          "U\u017e za p\u00e1r dn\u00ed startuje Pilsner Fest, oslava v\u00fdro\u010d\u00ed prvn\u00ed v\u00e1rky Pilsner Urquell. \u010cek\u00e1 na v\u00e1s nefiltrovan\u00fd le\u017e\u00e1k Pilsner Urquell, dobr\u00e9 j\u00eddlo, hudebn\u00ed a doprovodn\u00fd program. Nenechte si uj\u00edt kapely jako Xindl X, No Name, Divokej Bill, UDG, Monkey Business a dal\u0161\u00ed. T\u011b\u0161\u00edme se na v\u00e1s ji\u017e tuto sobotu 3.10. v Plzni. #pilsnerurquell #pilsnerfest2015 Pilsner Fest 2015 3. \u0159\u00edjna 2015 v Plzni \r\n\r\n",
+          1443598620
+        ],
+        [
+          "P\u0159ij\u010fte v sobotu 3.10. s n\u00e1mi na Pilsner Fest 2015 oslavit prvn\u00ed v\u00e1rku Pilsner Urquell, kterou uva\u0159il Josef Groll. #pilsnerurquell #pilsnerfest2015 Pilsner Fest 2015 3. \u0159\u00edjna 2015 v Plzni",
+          1442323561
+        ],
+        [
           "Dorazte z\u00edtra na n\u00e1dvo\u0159\u00ed plze\u0148sk\u00e9ho pivovaru. Festival Jazz bez hranic sem toti\u017e p\u0159iveze p\u0159ehl\u00eddku velk\u00fdch kapel! \u010cesk\u00e9 a slovensk\u00e9 big bandy to v Plzni po\u0159\u00e1dn\u011b rozbal\u00ed! Za\u010d\u00edn\u00e1 se ve 12:30 na n\u00e1dvo\u0159\u00ed pivovaru a od 19. hodin se pokra\u010duje v restauraci Na Spilce.",
           1434642440
         ],
@@ -332,16 +320,8 @@
           1430237043
         ],
         [
-          "V\u00fdstava extraligov\u00fdch medail\u00ed pro velk\u00fd z\u00e1jem prodlou\u017eena a\u017e do 8.4. Vyra\u017ete za zlat\u00fdmi medailemi do No\u0161ovic P\u0159ij\u010fte se na 21 zlat\u00fdch medail\u00ed pro v\u00edt\u011bze hokejov\u00e9 extraligy a sadu medail\u00ed pro leto\u0161n\u00ed \u0161ampiony pod\u00edvat i b\u011bhem Velikonoc!",
-          1428158994
-        ],
-        [
           "P\u0159ij\u010fte oslavit jarn\u00ed sv\u00e1tky do Pivovarsk\u00e9ho muzea v Plzni, kde na v\u00e1s \u010dekaj\u00ed z\u00e1bavn\u00e9 \u00fakoly s velikono\u010dn\u00ed tematikou. Na speci\u00e1ln\u00ed velikono\u010dn\u00ed zpest\u0159en\u00ed se m\u016f\u017eete t\u011b\u0161it 4. a 5. dubna v\u017edy od 10 do 18 hodin!\n\nhttp://www.prazdrojvisit.cz/kalendar-akci/vesele-velikonoce-v-pivovarskem-muzeu/ Timeline Photos",
           1428049932
-        ],
-        [
-          "Poprv\u00e9 v d\u011bjin\u00e1ch \u010desk\u00e9 hokejov\u00e9 extraligy budou na jednom m\u00edst\u011b vystaveny v\u0161echny zlat\u00e9 medaile ud\u011blen\u00e9 \u010desk\u00fdm \u0161ampion\u016fm. \nKde: v pivovaru v No\u0161ovic\u00edch\nKdy: od 13.3. do 3.4.2015\nP\u0159ij\u010fte se pod\u00edvat, jak z\u00e1\u0159\u00ed extraligov\u00e9 zlato! ;)\n\nwww.pivovar.radegast.cz Timeline Photos",
-          1426230001
         ],
         [
           "Vok\u00e1ln\u00ed hudebn\u00ed skupina SKETY poprv\u00e9 v Plzni!\nP\u0159ij\u010fte si vychutnat nev\u0161edn\u00ed hudebn\u00ed z\u00e1\u017eitek a p\u0159esv\u011bd\u010dte se sami, \u017ee jejich jazzov\u00e1 srdce a zku\u0161enosti jsou na koncertech sly\u0161et!\nU\u017e tento p\u00e1tek od 20 hodin v N\u00e1v\u0161t\u011bvnick\u00e9m centru Plze\u0148sk\u00e9ho Prazdroje.\n\nhttp://www.prazdrojvisit.cz/kalendar-akci/skety-a-cappella-jazz-sextet/ Timeline Photos",
@@ -356,6 +336,18 @@
           1419249608
         ],
         [
+          "Ji\u017e v sobotu odstartuje 11. ro\u010dn\u00edk Sout\u011b\u017ee o nejkr\u00e1sn\u011bj\u0161\u00ed v\u00e1no\u010dn\u00ed pern\u00ed\u010dek v Pivovarsk\u00e9m muzeu. Z\u00fa\u010dastn\u011bte se i vy a vyhrajte hodnotn\u00e9 ceny.\n\nhttp://www.prazdrojvisit.cz/cz/kalendar-akci-v-pivovaru/aktualni-akce/soutez-o-nejkrasnejsi-vanocni-pernicek-19061/ Timeline Photos",
+          1416902405
+        ],
+        [
+          "V podzimn\u00edch sychrav\u00fdch dnech je \u010dasto t\u011b\u017ek\u00e9 se zabavit. Pivovarsk\u00e9 muzeum v Plzni si proto pro sv\u00e9 n\u00e1v\u0161t\u011bvn\u00edky p\u0159ipravilo po cel\u00fd listopad tv\u016fr\u010d\u00ed program na ka\u017edou sobotu nazvan\u00fd Podzimn\u00ed inspirace. Ka\u017ed\u00fd t\u00fdden si n\u00e1v\u0161t\u011bvn\u00edci m\u016f\u017eou vyzkou\u0161et jin\u00fd druh tvo\u0159en\u00ed. Lekto\u0159i v\u00e1s nau\u010d\u00ed upali\u010dkovat si drobnou Sedlickou krajku nebo vyrobit si dr\u00e1t\u011bnou v\u00e1no\u010dn\u00ed hv\u011bzdu z kor\u00e1lk\u016f.\nA jak tr\u00e1v\u00edte voln\u00e9 podzimn\u00ed dny vy? Pod\u011blte se s n\u00e1mi o va\u0161e tipy, jak se zabavit.\nP\u0159ejeme v\u0161em kr\u00e1sn\u00fd sv\u00e1te\u010dn\u00ed den :)\n\nhttp://www.prazdroj.cz/cz/media/archiv-tiskovych-zprav/1431-pivovarske-muzeum-nabizi-navstevnikum-cely-listopad-podzimni-inspiraci Timeline Photos",
+          1416246085
+        ],
+        [
+          "Nestihli jste si po\u0159\u00eddit l\u00edstky na ned\u011bln\u00ed fotbal \u010cesko : Island? Nev\u011b\u0161te hlavu! O skv\u011blou fotbalovou z\u00e1bavu nemus\u00edte v\u016fbec p\u0159ij\u00edt. P\u0159ij\u010fte s n\u00e1mi v ned\u011bli podpo\u0159it na\u0161e fotbalisty na n\u00e1dvo\u0159\u00ed plze\u0148sk\u00e9ho pivovaru, kde budeme sledovat z\u00e1pas na opravdu velik\u00e9m pl\u00e1tn\u011b a spole\u010dn\u011b fandit na\u0161ich fotbalist\u016f. \nVstup je zdarma, za\u010d\u00edn\u00e1me u\u017e v 18 hodin bohat\u00fdm doprovodn\u00fdm fotbalov\u00fdm programem. \n\nhttp://www.prazdroj.cz/cz/media/archiv-tiskovych-zprav/1435-nestihli-jste-koupit-listky-na-fotbalove-utkani-islandem-vzhuru-do-fanzony Timeline Photos",
+          1415901602
+        ],
+        [
           "P\u0159ij\u010fte se p\u0159\u00ed\u0161t\u00ed \u00fater\u00fd 28. \u0159\u00edjna, kdy slav\u00edme st\u00e1tn\u00ed sv\u00e1tek, pod\u00edvat do plze\u0148sk\u00e9ho podzem\u00ed a Pivovarsk\u00e9ho muzea. V tento den je toti\u017e mo\u017en\u00e9 nav\u0161t\u00edvit tyto kr\u00e1sn\u00e9 prostory za symbolick\u00e9 vstupn\u00e9 28,- K\u010d! Plze\u0148sk\u00fd Prazdroj t\u00edmto p\u0159isp\u011bje k akci \u201ePlze\u0148sk\u00e9 oslavy vzniku republiky\u201c. \n\nbit.ly/vstup_28Kc Timeline Photos",
           1413900396
         ],
@@ -364,33 +356,33 @@
           1406812419
         ]
       ],
-      "dates_start": 1424374931,
-      "dates_end": 1467287641,
-      "likes_avg": 106,
-      "likes_stdev": 159,
+      "dates_start": 1422931781,
+      "dates_end": 1463666324,
+      "likes_avg": 121,
+      "likes_stdev": 173,
       "comments_avg": 2,
-      "comments_stdev": 3,
-      "shares_avg": 32,
-      "shares_stdev": 54
+      "comments_stdev": 4,
+      "shares_avg": 36,
+      "shares_stdev": 55
     },
     {
       "number": 4,
       "important": [
+        "spr\u00e1vn\u011b",
         "sout\u011b\u017e",
         "timelin",
-        "spr\u00e1vn\u011b",
-        "radegast",
-        "pivo"
+        "photo",
+        "radegast"
       ],
       "common": [
         "gambrinus",
-        "nejlep\u0161\u00ed",
+        "photo",
         "piva",
-        "pivo",
         "radegast",
         "sout\u011b\u017e",
         "spr\u00e1vn\u011b",
         "timelin",
+        "timelin photo",
         "v\u00fd\u010depn\u00ed",
         "\u010depov\u00e1n\u00ed"
       ],
@@ -460,10 +452,6 @@
           1427440150
         ],
         [
-          "U n\u00e1s v plze\u0148sk\u00e9m pivovaru se u\u010dily \u010depovat pivo i Miss Universe a Miss USA. P\u0159ij\u010fte i vy nebo pozv\u011bte sv\u00e9 p\u0159\u00e1tele na \u0161kolu \u010depov\u00e1n\u00ed. Ur\u010dit\u011b na takov\u00fd z\u00e1\u017eitek jen tak nezapomenete! :)\n\nhttp://www.prazdrojvisit.cz/zazitky/skola-cepovani-piva-pilsner-urquell/ MissUniverse & DIC v Praze",
-          1424111891
-        ],
-        [
           "Leto\u0161n\u00ed ro\u010dn\u00edk sout\u011b\u017ee o nejlep\u0161\u00ed v\u00fd\u010depn\u00ed \u010di v\u00fd\u010depn\u00edho piva Gambrinus v \u010cesk\u00e9 republice ji\u017e zn\u00e1 prvn\u00ed finalisty. V Plzni se jimi stali Jakub Bruj z restaurace Sedm\u00fd Nebe Mor\u00e1vka, Viktor Palangari z restaurace U Rajch\u016f a Martin Anderle z Excelent Urban Pub Comix. Gratulujeme a dr\u017e\u00edme palce v boji o nejvy\u0161\u0161\u00ed stup\u00ednek 26. b\u0159ezna na republikov\u00e9m fin\u00e1le v Plzni!\n\nhttp://www.prazdroj.cz/cz/media/archiv-tiskovych-zprav/1462-plze-zn-mistra-v-epn-ho-2015-usp-l-by-hospodsk-z-va-eho-podniku Timeline Photos",
           1423504872
         ],
@@ -478,10 +466,6 @@
         [
           "5 rad jak spr\u00e1vn\u011b na\u010depovat pivo, aneb \u201ejsme pivn\u00ed n\u00e1rod, jen\u017ee bez pivn\u00ed kultury,\u201c jak \u0159\u00edk\u00e1 Luk\u00e1\u0161 Svoboda, mistr sv\u011bta v \u010depov\u00e1n\u00ed piva.V\u00edce \u010dt\u011bte v \u010dasopise Forbes. 5 rad mistra sv\u011bta v \u010depov\u00e1n\u00ed: Jak pozn\u00e1te \u0161patn\u00e9 pivo | Forbes Tuhle \u010d\u00e1st ve\u010dera m\u00e1 Luk\u00e1\u0161 Svoboda nejrad\u011bji. Stoj\u00ed u flipchartu, na kter\u00e9m je seznam d\u016fvod\u016f, pro\u010d p\u00edt pivo, a pobaven\u011b sleduje, jak si mu\u017es...",
           1418468407
-        ],
-        [
-          "Mo\u017en\u00e1 to nev\u00edte, ale prohl\u00eddky na\u0161ich pivovar\u016f jsou otev\u0159en\u00e9 celoro\u010dn\u011b. Nav\u00edc pro v\u00e1s m\u00e1me n\u011bkolik zaj\u00edmav\u00fdch novinek na prohl\u00eddkov\u00e9 trase Pilsner Urquell. Z\u00e1rove\u0148 u n\u00e1s m\u016f\u017eete v r\u00e1mci z\u00e1\u017eitkov\u00e9ho programu absolvovat \u0160kolu \u010depov\u00e1n\u00ed a pod veden\u00edm odborn\u00edka se nau\u010dit, jak spr\u00e1vn\u011b na\u010depovat pivo. Tak n\u00e1s p\u0159ij\u010fte nav\u0161t\u00edvit! T\u011b\u0161\u00edme se na v\u00e1s v Plzni.\nbit.ly/PU_prohl Timeline Photos",
-          1415965270
         ],
         [
           "Jak spr\u00e1vn\u011b \u010depovat pivo? \"P\u011bkn\u011b po skle, pomalinku ut\u00edkat s hubi\u010dkou, aby n\u00e1m tam nevznikla \u017e\u00e1dn\u00e1 bublinka, pak v\u00e1m z toho vyjde hladinka. Pak m\u00e1 pivo kr\u00e1sn\u00fd vzhled a dobrou chu\u0165.\" P\u0159esn\u011b tak \u010depuje pivo na\u0161e v\u00fd\u010depn\u00ed legenda Bohumil \u201eBohou\u0161\u201c Kundrt ve vyhl\u00e1\u0161en\u00e9 pra\u017esk\u00e9 hospod\u011b \"U Jel\u00ednk\u016f\".\n\nhttp://bit.ly/vycepni_legenda V\u00fd\u010depn\u00ed legenda - Bohou\u0161 Kundrt Bohou\u0161 Kundrt se v\u011bnuje \u010depov\u00e1n\u00ed plze\u0148sk\u00e9ho piva u\u017e od roku 1978. Jeho doporu\u010den\u00ed zn\u00ed, d\u00edvat se na ty, co to um\u00ed, m\u00edt trp\u011blivost, mluvit s lidmi, nepovy\u0161ovat...",
@@ -512,33 +496,33 @@
           1406717397
         ]
       ],
-      "dates_start": 1411645716,
-      "dates_end": 1451537260,
-      "likes_avg": 166,
-      "likes_stdev": 164,
-      "comments_avg": 10,
+      "dates_start": 1412064546,
+      "dates_end": 1452829971,
+      "likes_avg": 177,
+      "likes_stdev": 165,
+      "comments_avg": 11,
       "comments_stdev": 12,
-      "shares_avg": 32,
+      "shares_avg": 34,
       "shares_stdev": 35
     },
     {
       "number": 5,
       "important": [
         "od",
-        "speci\u00e1ln\u00ed",
-        "pivovaru",
         "pivn\u00ed",
-        "radegast"
+        "speci\u00e1ln\u00ed",
+        "m\u016f\u017eete",
+        "piva"
       ],
       "common": [
+        "m\u016f\u017eete",
         "od",
+        "piva",
         "pivn\u00ed",
         "pivovar",
-        "pivovaru",
         "pivovaru radegast",
         "prohl\u00eddki",
         "prvn\u00ed",
-        "radegast",
         "speci\u00e1ln\u00ed",
         "velk\u00e9"
       ],
@@ -616,99 +600,99 @@
     {
       "number": 6,
       "important": [
-        "pod",
-        "sout\u011b\u017e",
-        "timelin",
-        "alkohol",
-        "m\u016f\u017eete"
+        "plze\u0148sk\u00e9ho",
+        "prazdroj",
+        "nebo",
+        "v\u00e1s",
+        "pivovaru"
       ],
       "common": [
-        "alkohol",
-        "alkoholu",
-        "kva\u0161en\u00ed",
-        "m\u016f\u017eete",
-        "odpov\u011bd\u00ed",
-        "pod",
-        "pod t\u00edmto p\u0159\u00edsp\u011bvkem vyhr\u00e1v\u00e1",
+        "nebo",
+        "photo",
+        "pivovaru",
+        "plze\u0148sk\u00e9ho",
+        "prazdroj",
+        "p\u0159\u00e1n\u00ed",
         "sout\u011b\u017e",
         "timelin",
-        "t\u011bhotenstv\u00ed"
+        "timelin photo",
+        "v\u00e1s"
       ],
       "messages": [
         [
-          "SOUT\u011a\u017d: Jak\u00e9 upozorn\u011bn\u00ed nab\u00e1daj\u00edc\u00ed k odpov\u011bdn\u00e9 konzumaci najdete na na\u0161ich plechovk\u00e1ch? Prvn\u00edch 10 spr\u00e1vn\u00fdch odpov\u011bd\u00ed pod t\u00edmto p\u0159\u00edsp\u011bvkem vyhr\u00e1v\u00e1 pouk\u00e1zku do e-shopu Plze\u0148sk\u00e9ho Prazdroje v hodnot\u011b 500 K\u010d! #soutez #alkoholatehotenstvi\n\nA - Alkohol v t\u011bhotenstv\u00ed jen pod dohledem l\u00e9ka\u0159e\nB - P\u0159e\u0161krtnut\u00e1 ikona t\u011bhotn\u00e9 \u017eeny (T\u011bhotn\u00e9 \u017eeny by nem\u011bly p\u00edt alkohol)\nC - Alkohol v t\u011bhotenstv\u00ed nemus\u00edte \u0159e\u0161it\n\nPravidla sout\u011b\u017ee \u2192 http://bit.ly/Pravidla-Upozorneni_na_plechovce Timeline Photos",
-          1474639200
+          "M\u00e1me pro v\u00e1s tip na jedine\u010dn\u00fd v\u00e1no\u010dn\u00ed d\u00e1rek! Koncerty v rytmu jazzu, swingu a blues v kr\u00e1sn\u00fdch prostor\u00e1ch p\u0159\u00edmo v srdci plze\u0148sk\u00e9ho pivovaru. \u010cek\u00e1 na v\u00e1s komorn\u00ed atmosf\u00e9ra - na ka\u017ed\u00e9m ve\u010deru bude jen 72 host\u016f. Ud\u011blejte radost sob\u011b nebo sv\u00fdm bl\u00edzk\u00fdm ;) #prazdrojvisit #secese Cyklus koncert\u016f v SECESI T\u011b\u0161it se m\u016f\u017eete na interprety jako Ond\u0159ej Ruml, Komici s. r. o. nebo Ivu Kubelkovou. Je mo\u017en\u00e9 zakoupit dv\u011b \u00farovn\u011b l\u00edstk\u016f \u2013 z\u00e1kladn\u00ed a s ob\u010derstven\u00edm (raut a produkty Plze\u0148sk\u00e9ho Prazdroje). ",
+          1481892300
         ],
         [
-          "SOUT\u011a\u017d: Tipn\u011bte si, kolik mu\u017e\u016f je p\u0159ipraveno vzd\u00e1t se alkoholu b\u011bhem t\u011bhotenstv\u00ed sv\u00e9 partnerky, aby ji podpo\u0159ilo. Prvn\u00edch 10 spr\u00e1vn\u00fdch odpov\u011bd\u00ed pod t\u00edmto p\u0159\u00edsp\u011bvkem vyhr\u00e1v\u00e1 4 plechovky Birellu! #soutez #alkoholatehotenstvi\n\nA - 42 %\nB - 65 %\nC - 90 %\n\nPravidla sout\u011b\u017ee \u2192 http://bit.ly/Pravidla-Kolik_muzu_se_vzda_alkoholu Timeline Photos",
-          1474034401
+          "Bedn\u00e1\u0159i Plze\u0148sk\u00e9ho Prazdroje vyhla\u0161uj\u00ed Bedn\u00e1\u0159skou v\u00fdzvu 2016 \ud83d\udc49\nV\u0161ichni kutilov\u00e9, sly\u0161te, ka\u017ed\u00fd, kdo p\u0159inese vlastnoru\u010dn\u011b vyrobenou v\u00e1no\u010dn\u00ed ozdobu do N\u00e1v\u0161t\u011bvnick\u00e9ho centra plze\u0148sk\u00e9ho pivovaru do 14. 12., m\u00e1 u n\u00e1s vstup do pivovarsk\u00fdch sklep\u016f ZDARMA a m\u016f\u017ee vyhr\u00e1t dal\u0161\u00ed pivn\u00ed ceny! V\u00edt\u011bze vyhl\u00e1s\u00edme 15. 12. v r\u00e1mci P\u0159edv\u00e1no\u010dn\u00edho podve\u010dera s pivovarsk\u00fdmi bedn\u00e1\u0159i. Hodn\u011b \u0161t\u011bst\u00ed! \u2b50 \ud83c\udf84  #soutez #bednarskavyzva Sout\u011b\u017e o nejkr\u00e1sn\u011bj\u0161\u00ed v\u00e1no\u010dn\u00ed ozdobu V\u00e1no\u010dn\u00ed ozdoby noste do 14. 12. na recepci N\u00e1v\u0161t\u011bvnick\u00e9ho centra plze\u0148sk\u00e9ho pivovaru!",
+          1480951695
         ],
         [
-          "SOUT\u011a\u017d: Jak\u00e9 je zaru\u010den\u011b bezpe\u010dn\u00e9 mno\u017estv\u00ed alkoholu b\u011bhem t\u011bhotenstv\u00ed? Prvn\u00edch 10 spr\u00e1vn\u00fdch odpov\u011bd\u00ed pod t\u00edmto p\u0159\u00edsp\u011bvkem vyhr\u00e1v\u00e1 vstupenku na prohl\u00eddku pivovaru pro 2! #soutez #alkoholatehotenstvi\n\nA - \u017d\u00e1dn\u00e9\nB - 1 velk\u00e9 pivo t\u00fddn\u011b\nC - 1 mal\u00e9 pivo denn\u011b\n\nPravidla sout\u011b\u017ee \u2192 http://bit.ly/Pravidla-Bezpecne_mnozstvi Timeline Photos",
-          1473429601
+          "V\u00c1NO\u010cN\u00cd SOUT\u011a\u017d! \ud83c\udf84\nVymyslete origin\u00e1ln\u00ed v\u00e1no\u010dn\u00ed koledu (r\u00fdm alespo\u0148 o dvou ver\u0161\u00edch), kter\u00e1 bude obsahovat slova \"V\u00e1noce\", \"p\u0159\u00e1tele\" a \u201ehospoda\u201c. Ty nejorigin\u00e1ln\u011bj\u0161\u00ed b\u00e1sni\u010dky obdarujeme nap\u0159\u00edklad pouk\u00e1zkou do na\u0161eho e-shopu, kurzem \u010depov\u00e1n\u00ed piva nebo vstupenkami do pivovaru! Ud\u011blejte radost sob\u011b nebo sv\u00fdm bl\u00edzk\u00fdm :) \ud83c\udf81  #soutez \n\nPravidla a v\u00fdhry \u2192 bit.ly/Pravidla-Vanocni_koleda Timeline Photos",
+          1480867201
         ],
         [
-          "SOUT\u011a\u017d: V srpnu m\u016f\u017eete ochutnat v r\u00e1mci Volby sl\u00e1dk\u016f v\u016fbec poprv\u00e9 ALE americk\u00e9ho typu. Vyberte, co je pro n\u011bj typick\u00e9. Prvn\u00edch 10 spr\u00e1vn\u00fdch odpov\u011bd\u00ed pod t\u00edmto p\u0159\u00edsp\u011bvkem vyhr\u00e1v\u00e1! #soutez #volbasladku\n\nA \u2013 spodn\u00ed kva\u0161en\u00ed, del\u0161\u00ed doba zr\u00e1n\u00ed\nB \u2013 svrchn\u00ed kva\u0161en\u00ed, krat\u0161\u00ed doba zr\u00e1n\u00ed\nC \u2013 spodn\u00ed kva\u0161en\u00ed, kva\u0161en\u00ed p\u0159i vy\u0161\u0161\u00edch teplot\u00e1ch\nD \u2013 svrchn\u00ed kva\u0161en\u00ed, kva\u0161en\u00ed p\u0159i ni\u017e\u0161\u00edch teplot\u00e1ch\n\nPravidla sout\u011b\u017ee a v\u00fdhry \u2192 http://bit.ly/Pravidla-ALE_pivo Timeline Photos",
-          1469628001
+          "V\u00c1NO\u010cN\u00cd SOUT\u011a\u017d!\nChcete vyhr\u00e1t pro sebe \u010di va\u0161e bl\u00edzk\u00e9 pod strome\u010dek limitovanou v\u00e1no\u010dn\u00ed lahev Pilsner Urquell, knihu \u010cesk\u00e9 Pivo, p\u016fllitr se jm\u00e9nem nebo z\u00e1\u017eitek s \u010depov\u00e1n\u00edm piva? Vymyslete origin\u00e1ln\u00ed v\u00e1no\u010dn\u00ed koledu (r\u00fdm alespo\u0148 o dvou ver\u0161\u00edch), kter\u00e1 bude obsahovat slova \"v\u00e1noce\", \"pivo\" a \"\u010cesko\" a napi\u0161te ji zde do koment\u00e1\u0159e. Nejorigin\u00e1ln\u011bj\u0161\u00ed koledy odm\u011bn\u00edme origin\u00e1ln\u00edmi cenami! #soutez\n\nPravidla a v\u00fdhry \u2192 http://j.mp/Pravidla-Nejoriginalnejsi_koleda Timeline Photos",
+          1449417601
         ],
         [
-          "SOUT\u011a\u017d: Kolik procent je minim\u00e1ln\u00ed pod\u00edl p\u0161eni\u010dn\u00e9ho sladu u svrchn\u011b kva\u0161en\u00fdch p\u0161eni\u010dn\u00fdch piv? Prvn\u00edch 10 spr\u00e1vn\u00fdch odpov\u011bd\u00ed pod t\u00edmto p\u0159\u00edsp\u011bvkem vyhr\u00e1v\u00e1! #soutez #volbasladku\n\nA \u2013 minim\u00e1ln\u011b 50 % \nB \u2013 minim\u00e1ln\u011b 33 % \nC \u2013 minim\u00e1ln\u011b 66 % \nD \u2013 mus\u00ed b\u00fdt 100 %\n\nPravidla sout\u011b\u017ee a v\u00fdhry \u2192 http://j.mp/Pravidla-Psenicne_pivo\n\nV \u010dervnu si na p\u0161eni\u010dn\u00e9m piv\u011b bavorsk\u00e9ho typu m\u016f\u017eete pochutnat ve vybran\u00fdch hospod\u00e1ch, ji\u017e brzy v\u00e1m d\u00e1me v\u011bd\u011bt kde ;) Timeline Photos",
-          1464098400
+          "Uspo\u0159\u00e1dejte pro sv\u00e9 kolegy \u010di zam\u011bstnance v\u00e1no\u010dn\u00ed ve\u010d\u00edrek v pivovaru! Nab\u00edz\u00edme \u0161irokou \u0161k\u00e1lu mo\u017enost\u00ed pron\u00e1jmu reprezenta\u010dn\u00edch a historick\u00fdch prostor pivovaru Plze\u0148sk\u00fd Prazdroj i Pivovarsk\u00e9ho muzea v Plzni. #prazdrojvisit #pivovar #prazdroj #pronajem V\u00e1no\u010dn\u00ed ve\u010d\u00edrek v pivovaru? Pro\u010d ne? Hled\u00e1te prostory pro firemn\u00ed v\u00e1no\u010dn\u00ed ve\u010d\u00edrek \u010di p\u00e1rty s p\u0159\u00e1teli? Nab\u00edz\u00edme prostory s jedine\u010dnou atmosf\u00e9rou a prvot\u0159\u00eddn\u00edm servisem. Zajist\u011bte si prostory pro ve\u010d\u00edrek v\u010das.",
+          1448470381
         ],
         [
-          "Bl\u00ed\u017e\u00ed se silvestrovsk\u00e9 oslavy a ur\u010dit\u011b nebude na \u0161kodu si p\u0159ipomenout p\u00e1r cenn\u00fdch rad jak bezpe\u010dn\u011b konzumovat alkohol :) Dodr\u017eujete je? ;) #napivosrozumem \n\n1. Nepijte na la\u010dn\u00fd \u017ealudek.\n2. St\u0159\u00eddejte alkoholick\u00e9 n\u00e1poje s nealkoholick\u00fdmi.\n3. Alkohol a l\u00e9ky nejdou opravdu dohromady.\n4. Pit\u00ed alkoholu nen\u00ed z\u00e1vod.\n5. C\u00edlem je pobavit se a ne op\u00edt.\n6. Opilost opravdu norm\u00e1ln\u00ed nen\u00ed.\n7. Je vhodn\u00e9 m\u00edt v\u017edy p\u0159edem zaji\u0161t\u011bnu dopravu.\n8. Po\u010dkejte do 18 let, alkohol nezletil\u00fdm neslu\u0161\u00ed.\n9. Vyb\u00edrejte si spole\u010dnost. Kdyby se v\u00e1m ud\u011blalo zle, kamar\u00e1di neute\u010dou.\n10. Neriskujte. Pod vlivem alkoholu m\u016f\u017eete ubl\u00ed\u017eit sob\u011b i ostatn\u00edm.\n11. NIKDY nesedejte za volant po po\u017eit\u00ed alkoholu!!! Timeline Photos",
-          1451476741
+          "Jak pos\u00edl\u00e1te v\u00e1no\u010dn\u00ed p\u0159\u00e1n\u00ed sv\u00fdm kamar\u00e1d\u016fm, koleg\u016fm a zn\u00e1m\u00fdm? Nap\u00ed\u0161ete e-mail, nahrajete p\u0159\u00e1n\u00ed na sv\u016fj facebook, po\u0161lete SMS nebo p\u011bkn\u011b postaru dokonce pohled?\nM\u00e1me pro v\u00e1s tip, jak origin\u00e1ln\u011b letos vy\u0159e\u0161it v\u00e1no\u010dn\u00ed p\u0159\u00e1n\u00ed ;)\n\nhttp://www.pilsner-urquell.cz/vanocni-prani.html V\u00e1no\u010dn\u00ed p\u0159\u00e1n\u00ed V\u00e1no\u010dn\u00ed p\u0159\u00e1n\u00ed",
+          1419073202
         ],
         [
-          "Snad ka\u017ed\u00fd v\u00ed nebo alespo\u0148 tu\u0161\u00ed, jak spr\u00e1vn\u011b konzumovat alkohol. Ur\u010dit\u011b ale nebude na \u0161kodu si p\u00e1r cenn\u00fdch rad p\u0159ipomenout. Obzvl\u00e1\u0161\u0165 v tomto obdob\u00ed v\u00e1no\u010dn\u00edch ve\u010d\u00edrk\u016f a bl\u00ed\u017e\u00edc\u00edch se silvestrovsk\u00fdch oslav. Tak schv\u00e1ln\u011b, dodr\u017eujete je? ;) #napivosrozumem\n\n1. Nepijte na la\u010dn\u00fd \u017ealudek.\n2. St\u0159\u00eddejte alkoholick\u00e9 n\u00e1poje s nealkoholick\u00fdmi.\n3. Alkohol a l\u00e9ky nejdou opravdu dohromady.\n4. Pit\u00ed alkoholu nen\u00ed z\u00e1vod.\n5. C\u00edlem je pobavit se a ne op\u00edt.\n6. Opilost opravdu norm\u00e1ln\u00ed nen\u00ed.\n7. Je vhodn\u00e9 m\u00edt v\u017edy p\u0159edem zaji\u0161t\u011bnu dopravu.\n8. Po\u010dkejte do 18 let, alkohol nezletil\u00fdm neslu\u0161\u00ed.\n9. Vyb\u00edrejte si spole\u010dnost. Kdyby se v\u00e1m ud\u011blalo zle, kamar\u00e1di neute\u010dou.\n10. Neriskujte. Pod vlivem alkoholu m\u016f\u017eete ubl\u00ed\u017eit sob\u011b i ostatn\u00edm.\n11. NIKDY nesedejte za volant po po\u017eit\u00ed alkoholu!!! Timeline Photos",
-          1450459021
+          "U\u017e m\u00e1te nazdoben\u00e9 v\u00e1no\u010dn\u00ed pern\u00ed\u010dky? A\u017e do \u00fater\u00fd 16.12. m\u016f\u017eete ty nejpoveden\u011bj\u0161\u00ed p\u0159ihl\u00e1sit do sout\u011b\u017ee o nejkr\u00e1sn\u011bj\u0161\u00ed v\u00e1no\u010dn\u00ed pern\u00ed\u010dek v Pivovarsk\u00e9m muzeu. V\u00fdherci z\u00edskaj\u00ed pivn\u00ed d\u00e1rek.\n\nhttp://www.prazdrojvisit.cz/cz/kalendar-akci-v-pivovaru/aktualni-akce/soutez-o-nejkrasnejsi-vanocni-pernicek-19061/ Timeline Photos",
+          1418554806
         ],
         [
-          "Dnes je den FAS (fet\u00e1ln\u00ed alkoholov\u00fd syndrom). Tento syndrom vznik\u00e1 u d\u011bt\u00ed, jejich\u017e matka b\u011bhem t\u011bhotenstv\u00ed pila alkohol. Plze\u0148sk\u00fd Prazdroj dlouhodob\u011b usiluje o to, aby spot\u0159ebitel\u00e9 p\u0159ijali odpov\u011bdn\u00e9 chov\u00e1n\u00ed spojen\u00e9 s konzumac\u00ed piva. #fas #napivosrozumem #FASday\r\n\r\nJak\u00fd je n\u00e1zor odborn\u00edk\u016f na tuto problematiku? T\u011bhotn\u00e9 \u017eeny by nem\u011bly p\u00edt alkohol Alkohol k t\u011bhotenstv\u00ed nepat\u0159\u00ed. Podle odborn\u00edk\u016f je nejrizikov\u011bj\u0161\u00ed hlavn\u011b n\u00e1razov\u00e9 pit\u00ed a pit\u00ed b\u011bhem...",
-          1441783860
+          "Jak jste str\u00e1vili druhou adventn\u00ed ned\u011bli? Byli jste se pod\u00edvat na v\u00e1no\u010dn\u00ed v\u00fdzdobu ve va\u0161em m\u011bst\u011b? Pokud ne, ur\u010dit\u011b byste to m\u011bli napravit a p\u0159i t\u00e9 p\u0159\u00edle\u017eitosti se vyfotit u v\u00e1no\u010dn\u00edho stromku s n\u011bkter\u00fdm z n\u00e1poj\u016f Plze\u0148sk\u00e9ho Prazdroje a zapojit se do na\u0161\u00ed v\u00e1no\u010dn\u00ed sout\u011b\u017ee. Vyhr\u00e1t m\u016f\u017eete prohl\u00eddku n\u011bkter\u00e9ho z na\u0161ich pivovar\u016f, grav\u00edrovanou sklenici pivo pod strome\u010dek, nebo v\u00e1no\u010dn\u00ed balen\u00ed nov\u00e9ho h\u0159ejiv\u00e9ho n\u00e1poje Kingswood Cider hot. Na\u0161e porota se t\u011b\u0161\u00ed na va\u0161e v\u00e1no\u010dn\u011b lad\u011bn\u00e9 fotky! :) \n\nbit.ly/Prazdroj_pravidla_vanocni_souteze Timeline Photos",
+          1418061612
         ],
         [
-          "Projekt Plze\u0148sk\u00e9ho Prazdroje zam\u011b\u0159en\u00fd na prevenci konzumace alkoholu u nezletil\u00fdch se pr\u00e1v\u011b uch\u00e1z\u00ed o ocen\u011bn\u00ed v presti\u017en\u00ed sout\u011b\u017ei European Business Awards o titul National Public Champion.\nI vy m\u016f\u017eete podpo\u0159it my\u0161lenku, \u017ee alkohol d\u011btem do ruky nepat\u0159\u00ed. Svou podporu m\u016f\u017eete vyj\u00e1d\u0159it hlasov\u00e1n\u00edm ZDE http://www.businessawardseurope.com/vote/detail/czech-republic/11558 Plzensky Prazdroj - 2014 | The European Business Awards The European Business Awards, the organisation which recognises excellence, innovation and best practice in Europe. We reward businesses of all sizes from nearly 30 countries.",
-          1422601201
+          "U\u017e p\u0159\u00ed\u0161t\u00ed ned\u011bli v\u00e1s \u010dek\u00e1 Kozl\u00ed nad\u00edlka, kdy si budete moct naj\u00edt b\u011bhem speci\u00e1ln\u00ed prohl\u00eddky pivovaru sv\u016fj v\u00e1no\u010dn\u00ed d\u00e1rek. Pom\u016f\u017eete vybrat nejlep\u0161\u00ed v\u00e1no\u010dku Velkopopovicka, poslechnete si v\u00e1no\u010dn\u00ed koledy, zapoj\u00edte se do v\u00fdroby Velkopopovick\u00e9ho betl\u00e9mu z pern\u00edku a v Kozl\u00edm obch\u016fdku se pak m\u016f\u017eete inspirovat tipy pod v\u00e1no\u010dn\u00ed stromek. Tak nezapome\u0148te - v ned\u011bli 7.12. od 12 hodin ve Velk\u00fdch Popovic\u00edch. T\u011b\u0161\u00edme se na v\u00e1s! Timeline Photos",
+          1417370412
         ],
         [
-          "Souhlas\u00edte, \u017ee nezletil\u00ed by nem\u011bli konzumovat alkohol? Podpo\u0159te v sout\u011b\u017ei European Business Awards n\u00e1\u0161 projekt Respektuj 18 zam\u011b\u0159en\u00fd na prevenci konzumace alkoholu u d\u011bt\u00ed a nezletil\u00fdch. Hlasovat pro Respektuj 18 - stop alkoholu u nezletil\u00fdch Podpo\u0159te na\u0161i my\u0161lenku, \u017ee alkohol d\u011btem do ruky nepat\u0159\u00ed  a vypl\u0148te V\u00e1\u0161 email do oran\u017eov\u00e9ho formul\u00e1\u0159e pod videem. V\u00e1\u0161 hlas potvrd\u00edte kliknut\u00edm na odkaz, kter\u00fd v\u00e1m automaticky p\u0159ijde na zadanou emailovou adresu. Sv\u00e9 hlasy m\u016f\u017eete pos\u00edlat a\u017e do24.2. ",
-          1421172001
+          "Dnes rozsv\u00edt\u00edme v are\u00e1lu Plze\u0148sk\u00e9ho Prazdroje v\u00e1no\u010dn\u00ed stromek. Ozdobit ho pom\u016f\u017eou na\u0161i bedn\u00e1\u0159i i v\u0161ichni ti, kte\u0159\u00ed maj\u00ed r\u00e1di pr\u00e1ci se d\u0159evem.\nJak jsme ji\u017e upozor\u0148ovali, m\u00e1me i pro v\u00e1s, na\u0161e facebookov\u00e9 fanou\u0161ky p\u0159ipravenou v\u00e1no\u010dn\u00ed sout\u011b\u017e. \nVyfo\u0165te se s n\u011bkter\u00fdm z na\u0161ich piv, nebo n\u00e1poj\u016f u v\u00e1no\u010dn\u00edho stromku ve va\u0161em okol\u00ed, nahrajte fotku na na\u0161i Ze\u010f a sout\u011b\u017ete o prohl\u00eddku n\u011bkter\u00e9ho z na\u0161ich pivovar\u016f, grav\u00edrovanou sklenici, pivo Pilsner Urquell a v\u00e1no\u010dn\u00ed balen\u00ed nov\u00e9ho h\u0159ejiv\u00e9ho n\u00e1poje Kingswood Cider hot. \nV\u00edt\u011bze vybere nez\u00e1visl\u00e1 porota slo\u017een\u00e1 z pracovn\u00edk\u016f Plze\u0148sk\u00e9ho Prazdroje. \nV\u00edce o pravidlech sout\u011b\u017ee najdete zde bit.ly/Prazdroj_pravidla_vanocni_souteze Timeline Photos",
+          1417334409
         ],
         [
-          "P\u0159ipn\u011bte si z\u00edtra placku RESPEKTUJ 18 a podpo\u0159te tak symbolicky hlavn\u00ed my\u0161lenku kampan\u011b: \"Alkohol d\u011btem do ruky nepat\u0159\u00ed!\" \nwww.respektuj18.cz Timeline Photos",
-          1403705795
+          "Na\u0161i bedn\u00e1\u0159i se letos rozhodli pochlubit se sv\u00fdm truhl\u00e1\u0159sk\u00fdm umem a vyrobili ozdoby na p\u011btadvacetilet\u00fd smrk st\u0159\u00edbrn\u00fd, kter\u00fd letos p\u0159ed V\u00e1noci proz\u00e1\u0159\u00ed n\u00e1dvo\u0159\u00ed plze\u0148sk\u00e9ho pivovaru. Aby bedn\u00e1\u0159i podpo\u0159ili \u0159emeslnou bedn\u00e1\u0159skou a truhl\u00e1\u0159skou tradi\u010dn\u00ed v\u00fdrobu ze d\u0159eva, vyz\u00fdvaj\u00ed i \u0161irokou ve\u0159ejnost a v\u0161echny, kte\u0159\u00ed miluj\u00ed pr\u00e1ci se d\u0159evem aby i oni uk\u00e1zali sv\u016fj talent a p\u0159isp\u011bli na v\u00e1no\u010dn\u00ed strom vlastn\u00ed d\u0159ev\u011bnou ozdobou. Ty budou v p\u00e1tek 19. prosince slavnostn\u011b zav\u011b\u0161en\u00e9 na v\u00e1no\u010dn\u00ed strom a na ka\u017ed\u00e9ho, kdo p\u0159isp\u011bje sv\u00fdm v\u00fdrobkem, \u010dek\u00e1 v\u00e1no\u010dn\u00ed pivn\u00ed d\u00e1rek.\nA my pro v\u00e1s m\u00e1me v\u00e1no\u010dn\u00ed sout\u011b\u017e i zde na facebooku, kter\u00e1 rovn\u011b\u017e vy\u017eaduje talent. \nSledujte na\u0161i Ze\u010f a u\u017e v ned\u011bli se dozv\u00edte v\u00edc!\n\nbit.ly/vanocni_vyzva_bednaru Photos from Plze\u0148sk\u00fd Prazdroj's post",
+          1417172825
         ]
       ],
-      "dates_start": 1426158463,
-      "dates_end": 1473301213,
-      "likes_avg": 212,
-      "likes_stdev": 211,
-      "comments_avg": 103,
-      "comments_stdev": 116,
-      "shares_avg": 26,
-      "shares_stdev": 22
+      "dates_start": 1413562013,
+      "dates_end": 1468104612,
+      "likes_avg": 183,
+      "likes_stdev": 184,
+      "comments_avg": 23,
+      "comments_stdev": 45,
+      "shares_avg": 21,
+      "shares_stdev": 23
     },
     {
       "number": 7,
       "important": [
-        "pilsner urquel master",
-        "pilsner",
-        "master",
-        "bartend",
-        "pilsner urquel"
+        "v\u00fd\u010depn\u00ed",
+        "sout\u011b\u017e",
+        "timelin",
+        "photo",
+        "restaurac"
       ],
       "common": [
-        "bartend",
-        "master",
-        "master bartend",
-        "pilsner",
-        "pilsner urquel",
-        "pilsner urquel master",
-        "pilsner urquel master bartend",
-        "urquel",
-        "urquel master",
-        "urquel master bartend"
+        "photo",
+        "restaurac",
+        "sout\u011b\u017e",
+        "sout\u011b\u017e pilsner",
+        "sout\u011b\u017e pilsner urquel",
+        "sout\u011b\u017e pilsner urquel master",
+        "sout\u011b\u017e pilsner urquel master bartend",
+        "timelin",
+        "timelin photo",
+        "v\u00fd\u010depn\u00ed"
       ],
       "messages": [
         [
@@ -763,17 +747,14 @@
     },
     {
       "number": 8,
-      "important": [
-        "d\u00e1rek",
-        "origin\u00e1ln\u00ed"
-      ],
+      "important": [],
       "common": [
-        "darujt",
-        "d\u00e1rek",
-        "origin\u00e1ln\u00ed",
-        "origin\u00e1ln\u00ed d\u00e1rek",
+        "polovi\u010dc origin\u00e1ln\u00ed d\u00e1rek l\u00e1ski kter\u00fd",
         "pot\u011b\u0161\u00ed",
         "pot\u011b\u0161\u00ed valentyn",
+        "pot\u011b\u0161\u00ed valentyn zlaski",
+        "pot\u011b\u0161\u00ed valentyn zlaski prazdroj",
+        "valentyn",
         "valentyn zlaski",
         "valentyn zlaski prazdroj",
         "valentyn zlaski prazdroj l\u00e1skou",
@@ -809,110 +790,22 @@
     {
       "number": 9,
       "important": [
-        "pivovaru",
-        "plze\u0148sk\u00e9ho",
-        "nebo",
-        "v\u00e1s",
-        "prazdroj"
-      ],
-      "common": [
-        "bedn\u00e1\u0159i",
-        "nebo",
-        "nejkr\u00e1sn\u011bj\u0161\u00ed",
-        "pivovaru",
-        "plze\u0148sk\u00e9ho",
-        "prazdroj",
-        "sout\u011b\u017e",
-        "timelin",
-        "v\u00e1no\u010dn\u00ed",
-        "v\u00e1s"
-      ],
-      "messages": [
-        [
-          "M\u00e1me pro v\u00e1s tip na jedine\u010dn\u00fd v\u00e1no\u010dn\u00ed d\u00e1rek! Koncerty v rytmu jazzu, swingu a blues v kr\u00e1sn\u00fdch prostor\u00e1ch p\u0159\u00edmo v srdci plze\u0148sk\u00e9ho pivovaru. \u010cek\u00e1 na v\u00e1s komorn\u00ed atmosf\u00e9ra - na ka\u017ed\u00e9m ve\u010deru bude jen 72 host\u016f. Ud\u011blejte radost sob\u011b nebo sv\u00fdm bl\u00edzk\u00fdm ;) #prazdrojvisit #secese Cyklus koncert\u016f v SECESI T\u011b\u0161it se m\u016f\u017eete na interprety jako Ond\u0159ej Ruml, Komici s. r. o. nebo Ivu Kubelkovou. Je mo\u017en\u00e9 zakoupit dv\u011b \u00farovn\u011b l\u00edstk\u016f \u2013 z\u00e1kladn\u00ed a s ob\u010derstven\u00edm (raut a produkty Plze\u0148sk\u00e9ho Prazdroje). ",
-          1481892300
-        ],
-        [
-          "Bedn\u00e1\u0159i Plze\u0148sk\u00e9ho Prazdroje vyhla\u0161uj\u00ed Bedn\u00e1\u0159skou v\u00fdzvu 2016 \ud83d\udc49\nV\u0161ichni kutilov\u00e9, sly\u0161te, ka\u017ed\u00fd, kdo p\u0159inese vlastnoru\u010dn\u011b vyrobenou v\u00e1no\u010dn\u00ed ozdobu do N\u00e1v\u0161t\u011bvnick\u00e9ho centra plze\u0148sk\u00e9ho pivovaru do 14. 12., m\u00e1 u n\u00e1s vstup do pivovarsk\u00fdch sklep\u016f ZDARMA a m\u016f\u017ee vyhr\u00e1t dal\u0161\u00ed pivn\u00ed ceny! V\u00edt\u011bze vyhl\u00e1s\u00edme 15. 12. v r\u00e1mci P\u0159edv\u00e1no\u010dn\u00edho podve\u010dera s pivovarsk\u00fdmi bedn\u00e1\u0159i. Hodn\u011b \u0161t\u011bst\u00ed! \u2b50 \ud83c\udf84  #soutez #bednarskavyzva Sout\u011b\u017e o nejkr\u00e1sn\u011bj\u0161\u00ed v\u00e1no\u010dn\u00ed ozdobu V\u00e1no\u010dn\u00ed ozdoby noste do 14. 12. na recepci N\u00e1v\u0161t\u011bvnick\u00e9ho centra plze\u0148sk\u00e9ho pivovaru!",
-          1480951695
-        ],
-        [
-          "V\u00c1NO\u010cN\u00cd SOUT\u011a\u017d! \ud83c\udf84\nVymyslete origin\u00e1ln\u00ed v\u00e1no\u010dn\u00ed koledu (r\u00fdm alespo\u0148 o dvou ver\u0161\u00edch), kter\u00e1 bude obsahovat slova \"V\u00e1noce\", \"p\u0159\u00e1tele\" a \u201ehospoda\u201c. Ty nejorigin\u00e1ln\u011bj\u0161\u00ed b\u00e1sni\u010dky obdarujeme nap\u0159\u00edklad pouk\u00e1zkou do na\u0161eho e-shopu, kurzem \u010depov\u00e1n\u00ed piva nebo vstupenkami do pivovaru! Ud\u011blejte radost sob\u011b nebo sv\u00fdm bl\u00edzk\u00fdm :) \ud83c\udf81  #soutez \n\nPravidla a v\u00fdhry \u2192 bit.ly/Pravidla-Vanocni_koleda Timeline Photos",
-          1480867201
-        ],
-        [
-          "V\u00c1NO\u010cN\u00cd SOUT\u011a\u017d!\nChcete vyhr\u00e1t pro sebe \u010di va\u0161e bl\u00edzk\u00e9 pod strome\u010dek limitovanou v\u00e1no\u010dn\u00ed lahev Pilsner Urquell, knihu \u010cesk\u00e9 Pivo, p\u016fllitr se jm\u00e9nem nebo z\u00e1\u017eitek s \u010depov\u00e1n\u00edm piva? Vymyslete origin\u00e1ln\u00ed v\u00e1no\u010dn\u00ed koledu (r\u00fdm alespo\u0148 o dvou ver\u0161\u00edch), kter\u00e1 bude obsahovat slova \"v\u00e1noce\", \"pivo\" a \"\u010cesko\" a napi\u0161te ji zde do koment\u00e1\u0159e. Nejorigin\u00e1ln\u011bj\u0161\u00ed koledy odm\u011bn\u00edme origin\u00e1ln\u00edmi cenami! #soutez\n\nPravidla a v\u00fdhry \u2192 http://j.mp/Pravidla-Nejoriginalnejsi_koleda Timeline Photos",
-          1449417601
-        ],
-        [
-          "Pivovarsk\u00e9 muzeum v Plzni vyhla\u0161uje 12. ro\u010dn\u00edk Sout\u011b\u017ee o nejkr\u00e1sn\u011bj\u0161\u00ed v\u00e1no\u010dn\u00ed pern\u00ed\u010dek. P\u0159ineste sv\u00e9 pern\u00ed\u010dky do Pivovarsk\u00e9ho muzea a vyhrajte zaj\u00edmav\u00e9 ceny! Pern\u00ed\u010dky m\u016f\u017eete nosit do 17. prosince, kdy v 17 hodin prob\u011bhne vyhl\u00e1\u0161en\u00ed v\u00edt\u011bz\u016f. #soutez #pivovarskemuzeum #prazdrojvisit Sout\u011b\u017e o nejkr\u00e1sn\u011bj\u0161\u00ed v\u00e1no\u010dn\u00ed pern\u00ed\u010dek P\u0159ineste sv\u00e9 poveden\u00e9 sout\u011b\u017en\u00ed pern\u00ed\u010dky do Pivovarsk\u00e9ho muzea v Plzni ka\u017ed\u00fd den od 28. listopadu od 10 do 16 hodin do 17. prosince do 17 hodin.",
-          1448709060
-        ],
-        [
-          "Uspo\u0159\u00e1dejte pro sv\u00e9 kolegy \u010di zam\u011bstnance v\u00e1no\u010dn\u00ed ve\u010d\u00edrek v pivovaru! Nab\u00edz\u00edme \u0161irokou \u0161k\u00e1lu mo\u017enost\u00ed pron\u00e1jmu reprezenta\u010dn\u00edch a historick\u00fdch prostor pivovaru Plze\u0148sk\u00fd Prazdroj i Pivovarsk\u00e9ho muzea v Plzni. #prazdrojvisit #pivovar #prazdroj #pronajem V\u00e1no\u010dn\u00ed ve\u010d\u00edrek v pivovaru? Pro\u010d ne? Hled\u00e1te prostory pro firemn\u00ed v\u00e1no\u010dn\u00ed ve\u010d\u00edrek \u010di p\u00e1rty s p\u0159\u00e1teli? Nab\u00edz\u00edme prostory s jedine\u010dnou atmosf\u00e9rou a prvot\u0159\u00eddn\u00edm servisem. Zajist\u011bte si prostory pro ve\u010d\u00edrek v\u010das.",
-          1448470381
-        ],
-        [
-          "Jak pos\u00edl\u00e1te v\u00e1no\u010dn\u00ed p\u0159\u00e1n\u00ed sv\u00fdm kamar\u00e1d\u016fm, koleg\u016fm a zn\u00e1m\u00fdm? Nap\u00ed\u0161ete e-mail, nahrajete p\u0159\u00e1n\u00ed na sv\u016fj facebook, po\u0161lete SMS nebo p\u011bkn\u011b postaru dokonce pohled?\nM\u00e1me pro v\u00e1s tip, jak origin\u00e1ln\u011b letos vy\u0159e\u0161it v\u00e1no\u010dn\u00ed p\u0159\u00e1n\u00ed ;)\n\nhttp://www.pilsner-urquell.cz/vanocni-prani.html V\u00e1no\u010dn\u00ed p\u0159\u00e1n\u00ed V\u00e1no\u010dn\u00ed p\u0159\u00e1n\u00ed",
-          1419073202
-        ],
-        [
-          "U\u017e m\u00e1te nazdoben\u00e9 v\u00e1no\u010dn\u00ed pern\u00ed\u010dky? A\u017e do \u00fater\u00fd 16.12. m\u016f\u017eete ty nejpoveden\u011bj\u0161\u00ed p\u0159ihl\u00e1sit do sout\u011b\u017ee o nejkr\u00e1sn\u011bj\u0161\u00ed v\u00e1no\u010dn\u00ed pern\u00ed\u010dek v Pivovarsk\u00e9m muzeu. V\u00fdherci z\u00edskaj\u00ed pivn\u00ed d\u00e1rek.\n\nhttp://www.prazdrojvisit.cz/cz/kalendar-akci-v-pivovaru/aktualni-akce/soutez-o-nejkrasnejsi-vanocni-pernicek-19061/ Timeline Photos",
-          1418554806
-        ],
-        [
-          "Jak jste str\u00e1vili druhou adventn\u00ed ned\u011bli? Byli jste se pod\u00edvat na v\u00e1no\u010dn\u00ed v\u00fdzdobu ve va\u0161em m\u011bst\u011b? Pokud ne, ur\u010dit\u011b byste to m\u011bli napravit a p\u0159i t\u00e9 p\u0159\u00edle\u017eitosti se vyfotit u v\u00e1no\u010dn\u00edho stromku s n\u011bkter\u00fdm z n\u00e1poj\u016f Plze\u0148sk\u00e9ho Prazdroje a zapojit se do na\u0161\u00ed v\u00e1no\u010dn\u00ed sout\u011b\u017ee. Vyhr\u00e1t m\u016f\u017eete prohl\u00eddku n\u011bkter\u00e9ho z na\u0161ich pivovar\u016f, grav\u00edrovanou sklenici pivo pod strome\u010dek, nebo v\u00e1no\u010dn\u00ed balen\u00ed nov\u00e9ho h\u0159ejiv\u00e9ho n\u00e1poje Kingswood Cider hot. Na\u0161e porota se t\u011b\u0161\u00ed na va\u0161e v\u00e1no\u010dn\u011b lad\u011bn\u00e9 fotky! :) \n\nbit.ly/Prazdroj_pravidla_vanocni_souteze Timeline Photos",
-          1418061612
-        ],
-        [
-          "U\u017e p\u0159\u00ed\u0161t\u00ed ned\u011bli v\u00e1s \u010dek\u00e1 Kozl\u00ed nad\u00edlka, kdy si budete moct naj\u00edt b\u011bhem speci\u00e1ln\u00ed prohl\u00eddky pivovaru sv\u016fj v\u00e1no\u010dn\u00ed d\u00e1rek. Pom\u016f\u017eete vybrat nejlep\u0161\u00ed v\u00e1no\u010dku Velkopopovicka, poslechnete si v\u00e1no\u010dn\u00ed koledy, zapoj\u00edte se do v\u00fdroby Velkopopovick\u00e9ho betl\u00e9mu z pern\u00edku a v Kozl\u00edm obch\u016fdku se pak m\u016f\u017eete inspirovat tipy pod v\u00e1no\u010dn\u00ed stromek. Tak nezapome\u0148te - v ned\u011bli 7.12. od 12 hodin ve Velk\u00fdch Popovic\u00edch. T\u011b\u0161\u00edme se na v\u00e1s! Timeline Photos",
-          1417370412
-        ],
-        [
-          "Dnes rozsv\u00edt\u00edme v are\u00e1lu Plze\u0148sk\u00e9ho Prazdroje v\u00e1no\u010dn\u00ed stromek. Ozdobit ho pom\u016f\u017eou na\u0161i bedn\u00e1\u0159i i v\u0161ichni ti, kte\u0159\u00ed maj\u00ed r\u00e1di pr\u00e1ci se d\u0159evem.\nJak jsme ji\u017e upozor\u0148ovali, m\u00e1me i pro v\u00e1s, na\u0161e facebookov\u00e9 fanou\u0161ky p\u0159ipravenou v\u00e1no\u010dn\u00ed sout\u011b\u017e. \nVyfo\u0165te se s n\u011bkter\u00fdm z na\u0161ich piv, nebo n\u00e1poj\u016f u v\u00e1no\u010dn\u00edho stromku ve va\u0161em okol\u00ed, nahrajte fotku na na\u0161i Ze\u010f a sout\u011b\u017ete o prohl\u00eddku n\u011bkter\u00e9ho z na\u0161ich pivovar\u016f, grav\u00edrovanou sklenici, pivo Pilsner Urquell a v\u00e1no\u010dn\u00ed balen\u00ed nov\u00e9ho h\u0159ejiv\u00e9ho n\u00e1poje Kingswood Cider hot. \nV\u00edt\u011bze vybere nez\u00e1visl\u00e1 porota slo\u017een\u00e1 z pracovn\u00edk\u016f Plze\u0148sk\u00e9ho Prazdroje. \nV\u00edce o pravidlech sout\u011b\u017ee najdete zde bit.ly/Prazdroj_pravidla_vanocni_souteze Timeline Photos",
-          1417334409
-        ],
-        [
-          "Na\u0161i bedn\u00e1\u0159i se letos rozhodli pochlubit se sv\u00fdm truhl\u00e1\u0159sk\u00fdm umem a vyrobili ozdoby na p\u011btadvacetilet\u00fd smrk st\u0159\u00edbrn\u00fd, kter\u00fd letos p\u0159ed V\u00e1noci proz\u00e1\u0159\u00ed n\u00e1dvo\u0159\u00ed plze\u0148sk\u00e9ho pivovaru. Aby bedn\u00e1\u0159i podpo\u0159ili \u0159emeslnou bedn\u00e1\u0159skou a truhl\u00e1\u0159skou tradi\u010dn\u00ed v\u00fdrobu ze d\u0159eva, vyz\u00fdvaj\u00ed i \u0161irokou ve\u0159ejnost a v\u0161echny, kte\u0159\u00ed miluj\u00ed pr\u00e1ci se d\u0159evem aby i oni uk\u00e1zali sv\u016fj talent a p\u0159isp\u011bli na v\u00e1no\u010dn\u00ed strom vlastn\u00ed d\u0159ev\u011bnou ozdobou. Ty budou v p\u00e1tek 19. prosince slavnostn\u011b zav\u011b\u0161en\u00e9 na v\u00e1no\u010dn\u00ed strom a na ka\u017ed\u00e9ho, kdo p\u0159isp\u011bje sv\u00fdm v\u00fdrobkem, \u010dek\u00e1 v\u00e1no\u010dn\u00ed pivn\u00ed d\u00e1rek.\nA my pro v\u00e1s m\u00e1me v\u00e1no\u010dn\u00ed sout\u011b\u017e i zde na facebooku, kter\u00e1 rovn\u011b\u017e vy\u017eaduje talent. \nSledujte na\u0161i Ze\u010f a u\u017e v ned\u011bli se dozv\u00edte v\u00edc!\n\nbit.ly/vanocni_vyzva_bednaru Photos from Plze\u0148sk\u00fd Prazdroj's post",
-          1417172825
-        ],
-        [
-          "Ji\u017e v sobotu odstartuje 11. ro\u010dn\u00edk Sout\u011b\u017ee o nejkr\u00e1sn\u011bj\u0161\u00ed v\u00e1no\u010dn\u00ed pern\u00ed\u010dek v Pivovarsk\u00e9m muzeu. Z\u00fa\u010dastn\u011bte se i vy a vyhrajte hodnotn\u00e9 ceny.\n\nhttp://www.prazdrojvisit.cz/cz/kalendar-akci-v-pivovaru/aktualni-akce/soutez-o-nejkrasnejsi-vanocni-pernicek-19061/ Timeline Photos",
-          1416902405
-        ],
-        [
-          "V podzimn\u00edch sychrav\u00fdch dnech je \u010dasto t\u011b\u017ek\u00e9 se zabavit. Pivovarsk\u00e9 muzeum v Plzni si proto pro sv\u00e9 n\u00e1v\u0161t\u011bvn\u00edky p\u0159ipravilo po cel\u00fd listopad tv\u016fr\u010d\u00ed program na ka\u017edou sobotu nazvan\u00fd Podzimn\u00ed inspirace. Ka\u017ed\u00fd t\u00fdden si n\u00e1v\u0161t\u011bvn\u00edci m\u016f\u017eou vyzkou\u0161et jin\u00fd druh tvo\u0159en\u00ed. Lekto\u0159i v\u00e1s nau\u010d\u00ed upali\u010dkovat si drobnou Sedlickou krajku nebo vyrobit si dr\u00e1t\u011bnou v\u00e1no\u010dn\u00ed hv\u011bzdu z kor\u00e1lk\u016f.\nA jak tr\u00e1v\u00edte voln\u00e9 podzimn\u00ed dny vy? Pod\u011blte se s n\u00e1mi o va\u0161e tipy, jak se zabavit.\nP\u0159ejeme v\u0161em kr\u00e1sn\u00fd sv\u00e1te\u010dn\u00ed den :)\n\nhttp://www.prazdroj.cz/cz/media/archiv-tiskovych-zprav/1431-pivovarske-muzeum-nabizi-navstevnikum-cely-listopad-podzimni-inspiraci Timeline Photos",
-          1416246085
-        ]
-      ],
-      "dates_start": 1412153464,
-      "dates_end": 1463707106,
-      "likes_avg": 148,
-      "likes_stdev": 177,
-      "comments_avg": 18,
-      "comments_stdev": 41,
-      "shares_avg": 18,
-      "shares_stdev": 22
-    },
-    {
-      "number": 10,
-      "important": [
-        "timelin",
         "zde",
         "jste",
-        "v\u00edce",
-        "informac\u00ed"
+        "ne",
+        "timelin",
+        "photo"
       ],
       "common": [
-        "chmelov\u00fdm",
-        "chmelov\u00fdm aroma",
-        "informac\u00ed",
         "jste",
-        "mustang",
+        "najdet",
+        "ne",
+        "photo",
         "pivo",
         "timelin",
-        "v\u00edce",
-        "v\u00edce informac\u00ed",
+        "timelin photo",
+        "v\u00edce informac\u00ed dozv\u00edt",
+        "v\u00edce informac\u00ed dozv\u00edt zde",
         "zde"
       ],
       "messages": [
@@ -959,249 +852,84 @@
       "shares_stdev": 12
     },
     {
-      "number": 11,
+      "number": 10,
       "important": [
-        "tak",
-        "piva",
-        "timelin",
-        "gambrinus",
-        "prvn\u00ed"
-      ],
-      "common": [
-        "chmel",
-        "chmele",
-        "gambrinus",
-        "piva",
-        "pivovaru",
-        "pivovaru gambrinus",
-        "prvn\u00ed",
-        "prvn\u00ed chmel",
-        "tak",
+        "photo",
+        "\u017ee",
+        "m\u016f\u017eete",
         "timelin"
       ],
-      "messages": [
-        [
-          "Ochutnejte b\u011bhem Dny \u010desk\u00e9ho piva n\u00e1\u0161 Gambrinus Prvn\u00ed chmel. \ud83c\udf7a Pivo s \u010derstv\u00fdm chmelem m\u016f\u017eeme va\u0159it pouze jednou v roce, tak nev\u00e1hejte a ur\u010dit\u011b jej vyzkou\u0161ejte! ;) #gambrinus #prvnichmel #dnyceskehopiva Timeline Photos",
-          1474615372
-        ],
-        [
-          "1. \u010cesk\u00fd chmel.\n2. Drcen\u00ed chmelu bez p\u0159\u00edstupu vzduchu.\n3. Cel\u00fd proces bez pou\u017eit\u00ed chemik\u00e1li\u00ed.\n\n= chmelov\u00e9 produkty. Co to je? V na\u0161em p\u0159\u00edpad\u011b se jedn\u00e1 o granulovan\u00fd chmel, kter\u00fd se p\u0159ipravuje mechanick\u00fdm drcen\u00edm chmelov\u00fdch \u0161i\u0161tic ihned po sklizni bez p\u0159\u00edstupu vzduchu. Uchov\u00e1v\u00e1 tak v sob\u011b intenzitu a kvalitu ho\u0159kosti i unik\u00e1tn\u00ed aroma, proto nemus\u00ed b\u00fdt chemicky o\u0161et\u0159en proti pl\u00edsn\u00edm. Granulovan\u00fd chmel je tak vlastn\u011b chmel v jin\u00e9 podob\u011b. #pivo #chmel Timeline Photos",
-          1447603921
-        ],
-        [
-          "Dnes za\u010d\u00ednaj\u00ed Dny \u010desk\u00e9ho piva. Do soboty 3.10. m\u016f\u017eete ve vybran\u00fdch restaurac\u00edch ochutnat vynikaj\u00edc\u00ed \u010desk\u00e1 piva, jako nap\u0159\u00edklad speci\u00e1ln\u00ed Gambrinus Prvn\u00ed chmel. T\u011b\u0161\u00edme se na v\u00e1s! \ud83c\udf7a #gambrinus #prvnichmel Timeline Photos",
-          1443332581
-        ],
-        [
-          "Hled\u00e1te origin\u00e1ln\u00ed m\u00edsto, kde uspo\u0159\u00e1dat oslavu narozenin nebo t\u0159eba jen p\u00e1rty s p\u0159\u00e1teli?\nM\u00e1me pro v\u00e1s skv\u011bl\u00fd tip ;) P\u00e1rty v pivovaru Gambrinus Z\u00e1\u017eitkov\u00fd bal\u00ed\u010dek nabit\u00fd z\u00e1bavou str\u00e1v\u00edte v doprovodu pivovarsk\u00fdch odborn\u00edk\u016f i nejobl\u00edben\u011bj\u0161\u00edho \u010desk\u00e9ho piva Gambrinus.",
-          1437109201
-        ],
-        [
-          "P\u0159ij\u010fte 8. - 10. kv\u011btna na speci\u00e1ln\u00ed prohl\u00eddku pivovaru Gambrinus a ochutnejte jako prvn\u00ed limitovanou jarn\u00ed v\u00e1rku Gambrinus Nov\u00fd Boh\u00e9m! Gambrinus je boh\u00e9m! V\u00edce informac\u00ed najdete zde",
-          1430925007
-        ],
-        [
-          "Prvn\u00ed m\u00e1jov\u00e9 dny bude v plze\u0148sk\u00e9m pivovaru opravdu \u017eivo! \nV pivovaru Gambrinus budete moci b\u011bhem prodlou\u017een\u00e9ho v\u00edkendu 1. - 3. kv\u011btna ochutnat Gambrinus s americk\u00fdm chmelem, kter\u00fd byl uva\u0159en u p\u0159\u00edle\u017eitosti oslav 70.v\u00fdro\u010d\u00ed osvobozen\u00ed Plzn\u011b americkou arm\u00e1dou. Chu\u0165 svobody v pivovaru Gambrinus Doprovodn\u00fd program k Slavnostem svobody najdete zde.  ",
-          1429807605
-        ],
-        [
-          "Uspo\u0159\u00e1dejte p\u00e1rty v pivovaru Gambrinus, na kterou jen tak nezapomenete! Jedine\u010dn\u00e9 prost\u0159ed\u00ed Gambrinus varny a t\u0159\u00edhodinov\u00e9 posezen\u00ed se sl\u00e1dkem a pivy zna\u010dky Gambrinus. \nV\u00edce na bit.ly/party_v_pivovaru_Gambrinus Timeline Photos",
-          1416765340
-        ],
-        [
-          "Chutnal v\u00e1m Gambrinus Prvn\u00ed Chmel? Tak to pro v\u00e1s m\u00e1me skv\u011blou zpr\u00e1vu. Te\u010f si toti\u017e pivo dochmelen\u00e9 \u010derstv\u00fdm \u017eateck\u00fdm chmelem m\u016f\u017eete u\u017e\u00edt i doma! Nov\u011b k dost\u00e1n\u00ed v hypermarketech Albert. Ale posp\u011b\u0161te si, jde o limitovanou edici!\n\nhttps://www.youtube.com/watch?v=HiFq9rVP_-I&feature=youtu.be Gambrinus Prvn\u00ed Chmel - od kl\u00ed\u010dku a\u017e do lahve Z \u010derstv\u011b sklizen\u00e9ho chmele jsme uva\u0159ili mimo\u0159\u00e1dnou v\u00e1rku le\u017e\u00e1ku Gambrinus, Prvn\u00ed chmel. Pod\u00edvejte se na cestu chmele od kl\u00ed\u010dku a\u017e do d\u00e1rkov\u00e9 jednolitrov\u00e9 la...",
-          1414158383
-        ],
-        [
-          "Mil\u00ed sout\u011b\u017e\u00edc\u00ed, na\u0161e porota se p\u0159i vyb\u00edr\u00e1n\u00ed v\u00fdherc\u016f dost zapotila, proto\u017ee hodn\u011b b\u00e1sni\u010dek bylo opravdu p\u011bkn\u00fdch, nicm\u00e9n\u011b je to tu - m\u016f\u017eeme vyhl\u00e1sit v\u00edt\u011bze na\u0161\u00ed facebookv\u00e9 sout\u011b\u017ee o nejorigin\u00e1ln\u011bj\u0161\u00ed b\u00e1sni\u010dku ke Dni \u010desk\u00e9ho piva, kter\u00fdmi se st\u00e1vaj\u00ed:\n\n1. m\u00edsto @Ladislav Bag\u00e1ri \nPan Ladislav vyhr\u00e1v\u00e1 30l sud Nepasterizovan\u00e9ho Gambrinusu, prohl\u00eddku pivovaru Gambrinus v Plzni pro 2 osoby a 24x 0,5l Gambrinus Origin\u00e1l plech.\n\n2. a 3. m\u00edsto obsadily @Kate\u0159ina Davidov\u00e1 a @Ali Bauerov\u00e1 \nTyto v\u00edt\u011bzky z\u00edsk\u00e1vaj\u00ed ka\u017ed\u00e1 30l sud Nepasterizovan\u00e9ho Gambrinusu a prohl\u00eddku pivovaru Gambrinus v Plzni pro 2 osoby.\n\n4. a 5. m\u00edsto @Katka Soukupka a @Jirka Lari\u0161\nZ\u00edsk\u00e1vaj\u00ed ka\u017ed\u00fd prohl\u00eddku pivovaru Gambrinus v Plzni pro 2 osoby a 24x 0,5l Gambrinus Origin\u00e1l plech.\n\n6. a 7. m\u00edsto @R\u00e1dik Ku-\u0159e a @Kate\u0159ina Soukupov\u00e1 \nZ\u00edsk\u00e1vaj\u00ed ka\u017ed\u00fd 24x 0,5l Gambrinus Origin\u00e1l plech.\n\nV\u00fdherc\u016fm gratulujeme a pros\u00edme je, aby n\u00e1m do zpr\u00e1v napsali adresy, kam jim m\u016f\u017eeme v\u00fdhry doru\u010dit.\n\nV\u0161em ostatn\u00edm d\u011bkujeme za \u00fa\u010dast a kr\u00e1sn\u00e9 origin\u00e1ln\u00ed b\u00e1sni\u010dky :)",
-          1412226000
-        ],
-        [
-          "\"Pivo Excelent  va\u0159\u00edme unik\u00e1tn\u00edm zp\u016fsobem trojit\u00e9ho chmelen\u00ed. D\u00edky tomu si pivo zachov\u00e1v\u00e1 velk\u00e9 mno\u017estv\u00ed vo\u0148av\u00fdch chmelov\u00fdch l\u00e1tek a vynik\u00e1 jak plnou chut\u00ed, tak sv\u011b\u017e\u00edm chmelov\u00fdm aroma,\" \u0159\u00edk\u00e1 sl\u00e1dek pivovaru Gambrinus Pavel Z\u00edtek. A \u017ee chutn\u00e1 nejen piva\u0159\u016fm, ale i odborn\u00edk\u016fm, to potvrdilo leto\u0161n\u00ed v\u00edtezstv\u00ed v sout\u011b\u017ei \u010cesk\u00e9 pivo, kter\u00e9 si Excelent odnesl v kategorii jeden\u00e1ctistup\u0148ov\u00fdch piv podruh\u00e9 za sebou. Na zdrav\u00ed!\nbit.ly/ceske_pivo Timeline Photos",
-          1412154655
-        ],
-        [
-          "Oslavy Dne \u010desk\u00e9ho piva prob\u00edhaly po cel\u00e9 republice. \nT\u0159eba v Plzni oslavy zah\u00e1jil prim\u00e1tor Martin Baxa s obchodn\u00edm sl\u00e1dkem pivovaru Gambrinus Pavlem Z\u00edtkem. Spole\u010dn\u011b narazili  a na\u010depovali p\u0159\u00edtomn\u00fdm host\u016fm restaurace Sedm\u00e9 nebe pivo Gambrinus Prvn\u00ed Chmel uva\u0159en\u00e9 z \u010derstv\u00e9ho chmele speci\u00e1ln\u011b pro tuto p\u0159\u00edle\u017eitost. Pivo Gambrinus Prvn\u00ed Chmel m\u016f\u017eete ochutnat v n\u00e1sleduj\u00edc\u00edch dnech ve v\u00edce ne\u017e 2000 hospod\u00e1ch po cel\u00e9 \u010cR. Mapu hospod a restaurac\u00ed najdete zde http://www.gambrinus.cz/cz/#/kam-na-pivo/prvni-chmel Timeline Photos",
-          1412003988
-        ],
-        [
-          "Nen\u00ed na\u010d \u010dekat, Den \u010desk\u00e9ho piva je tady a u n\u00e1s je NARA\u017dENO. Mimo\u0159\u00e1dnou v\u00e1rkou le\u017e\u00e1ku Gambrinus Prvn\u00ed Chmel - z \u010derstv\u00e9ho, pr\u00e1v\u011b sklizen\u00e9ho chmele m\u016f\u017eete ochutnat ve v\u00edce ne\u017e 2000 hospod\u00e1ch a restaurac\u00edch nap\u0159\u00ed\u010d celou republikou. \n\nhttp://www.prazdroj.cz/cz/media/archiv-tiskovych-zprav/1413-gambrinus-narazil-sud-mimoradne-varky-prvni-chmel-v-hospodach-bude-od-teto-soboty Timeline Photos",
-          1411807210
-        ],
-        [
-          "U\u017e z\u00edtra nar\u00e1\u017e\u00edme! M\u00e1te se na co t\u011b\u0161it! Pt\u00e1te se, o co jde? P\u0159eci o mimo\u0159\u00e1dnou v\u00e1rku le\u017e\u00e1ku Gambrinus Prvn\u00ed Chmel - z \u010derstv\u00e9ho pr\u00e1v\u011b sklizen\u00e9ho chmele. Takov\u00e9 pivo se m\u016f\u017ee va\u0159it jen jednou do roka po chmelov\u00e9 sklizni, tak a\u0165 v\u00e1m chutn\u00e1! :) Timeline Photos",
-          1411725986
-        ],
-        [
-          "U\u017e jste nahr\u00e1li svou b\u00e1sni\u010dku na na\u0161i Ze\u010f? Nezapome\u0148te, \u017ee jednou z podm\u00ednek je pou\u017eit\u00ed slov DEN, \u010cESK\u00c9HO, PIVA! Auto\u0159i prvn\u00edch 5 b\u00e1sni\u010dek s nejvy\u0161\u0161\u00edm po\u010dtem lajk\u016f, z\u00edskaj\u00ed 30l sud nepasterizovan\u00e9ho Gambrinusu, prohl\u00eddku pivovaru Gambrinus v Plzni pro 2 osoby nebo 24x 0,5l Gambrinus Origin\u00e1l plech! \nCeny jsou tu p\u0159ipraveny pro v\u00e1s! :) Timeline Photos",
-          1411308001
-        ],
-        [
-          "A je to tady\u2026 Den \u010desk\u00e9ho piva se bl\u00ed\u017e\u00ed a tak jsme si pro v\u00e1s p\u0159ipravili malou sout\u011b\u017e. Nahrajte na na\u0161i facebookovou Ze\u010f kr\u00e1tkou b\u00e1sni\u010dku s pou\u017eit\u00edm slov DEN, \u010cESK\u00c9HO, PIVA, z\u00edskejte nejv\u00edc lajk\u016f a vyhrajte 30l sud Nepasterizovan\u00e9ho Gambrinusu, prohl\u00eddku pivovaru Gambrinus v Plzni pro 2 osoby nebo 24x 0,5l Gambrinus Origin\u00e1l plech! Za\u010d\u00edn\u00e1me pr\u00e1v\u011b te\u010f a kon\u010d\u00edme 28.9. v 17 hodin!\nV\u00edce informac\u00ed v pravidlech na bit.ly/DCP_FB_pravidla Timeline Photos",
-          1410951553
-        ],
-        [
-          "Zdena Malafov\u00e1 dok\u00e1zala b\u011bhem necel\u00fdch \u010dty\u0159 hodin sklidit 7 v\u011brtel\u016f chmele! Zaslou\u017een\u011b tak z\u00edskala titul Gambrinus Mistr v ru\u010dn\u00edm \u010des\u00e1n\u00ed chmele 2014. Gratulujeme! Gambrinus Mistrovstv\u00ed v ru\u010dn\u00edm \u010des\u00e1n\u00ed chmele vyhr\u00e1la k\u0159ehk\u00e1 blond\u00fdnka Vlastn\u00edma rukama sklidila b\u011bhem necel\u00fdch \u010dty\u0159 hodin sedm v\u011brtel\u016f chmele a zaslou\u017eila si tak titul Gambrinus Mistr v ru\u010dn\u00edm \u010des\u00e1n\u00ed chmele 2014 a hlavn\u00ed v\u00fdhru, sud Nepasterizovan\u00e9ho Gambrinusu. \u201eNa chmel chod\u00edm od mala, je to sice tvrd\u00e1 pr\u00e1ce, ale m\u011b bav\u00ed,\u201c \u0159ekla s \u00fasm\u011bvem Mistryn\u011b Zdena Malafov\u00e1. Ta porazila dlouholet\u00e9 \u010des\u00e1\u010de a sklidila obdiv i p\u0159\u00edtomn\u00fdch slavn\u00fdch osobnost\u00ed, kter\u00e9 nejen, \u017ee sout\u011b\u017e\u00edc\u00ed v pr\u016fb\u011bhu Mistrovstv\u00ed povzbuzovaly, ale zapojily se i do samotn\u00e9ho \u010des\u00e1n\u00ed.",
-          1409126434
-        ]
-      ],
-      "dates_start": 1406125459,
-      "dates_end": 1442077195,
-      "likes_avg": 144,
-      "likes_stdev": 158,
-      "comments_avg": 5,
-      "comments_stdev": 5,
-      "shares_avg": 15,
-      "shares_stdev": 15
-    },
-    {
-      "number": 12,
-      "important": [
-        "plze\u0148sk\u00fd",
-        "plze\u0148sk\u00fd prazdroj",
-        "prazdroj",
-        "pivo",
-        "pilsner urquel"
-      ],
       "common": [
-        "pilsner",
-        "pilsner urquel",
-        "piva",
-        "pivo",
-        "plze\u0148sk\u00fd",
-        "plze\u0148sk\u00fd prazdroj",
-        "plzn\u011b",
-        "prazdroj",
+        "alkoholu",
+        "busi",
+        "m\u016f\u017eete",
+        "nepat\u0159\u00ed",
+        "photo",
+        "pit\u00ed",
+        "respektuj",
         "timelin",
-        "urquel"
+        "timelin photo",
+        "\u017ee"
       ],
       "messages": [
         [
-          "Jak\u00e9 speci\u00e1ln\u00ed pivo zvolili na\u0161i sl\u00e1dci na tento m\u011bs\u00edc? A kde si jej m\u016f\u017eete vychutnat? Pod\u00edvejte se zde \u2192 http://j.mp/Volba-sladku Plze\u0148sk\u00fd Prazdroj's cover photo",
-          1474631612
+          "SOUT\u011a\u017d: Jak\u00e9 upozorn\u011bn\u00ed nab\u00e1daj\u00edc\u00ed k odpov\u011bdn\u00e9 konzumaci najdete na na\u0161ich plechovk\u00e1ch? Prvn\u00edch 10 spr\u00e1vn\u00fdch odpov\u011bd\u00ed pod t\u00edmto p\u0159\u00edsp\u011bvkem vyhr\u00e1v\u00e1 pouk\u00e1zku do e-shopu Plze\u0148sk\u00e9ho Prazdroje v hodnot\u011b 500 K\u010d! #soutez #alkoholatehotenstvi\n\nA - Alkohol v t\u011bhotenstv\u00ed jen pod dohledem l\u00e9ka\u0159e\nB - P\u0159e\u0161krtnut\u00e1 ikona t\u011bhotn\u00e9 \u017eeny (T\u011bhotn\u00e9 \u017eeny by nem\u011bly p\u00edt alkohol)\nC - Alkohol v t\u011bhotenstv\u00ed nemus\u00edte \u0159e\u0161it\n\nPravidla sout\u011b\u017ee \u2192 http://bit.ly/Pravidla-Upozorneni_na_plechovce Timeline Photos",
+          1474639200
         ],
         [
-          "Intenzivn\u00ed ho\u0159kost s karamelov\u00fdmi t\u00f3ny si m\u016f\u017eete vychutnat v na\u0161\u00ed nov\u00e9 Volb\u011b sl\u00e1dk\u016f - polotmav\u00e9m jantarov\u00e9m le\u017e\u00e1ku z pivovaru \u0160ari\u0161. U\u017e jste jej vyzkou\u0161eli? ;) #volbasladku #saris Plze\u0148sk\u00fd Prazdroj",
-          1474037340
+          "Bl\u00ed\u017e\u00ed se silvestrovsk\u00e9 oslavy a ur\u010dit\u011b nebude na \u0161kodu si p\u0159ipomenout p\u00e1r cenn\u00fdch rad jak bezpe\u010dn\u011b konzumovat alkohol :) Dodr\u017eujete je? ;) #napivosrozumem \n\n1. Nepijte na la\u010dn\u00fd \u017ealudek.\n2. St\u0159\u00eddejte alkoholick\u00e9 n\u00e1poje s nealkoholick\u00fdmi.\n3. Alkohol a l\u00e9ky nejdou opravdu dohromady.\n4. Pit\u00ed alkoholu nen\u00ed z\u00e1vod.\n5. C\u00edlem je pobavit se a ne op\u00edt.\n6. Opilost opravdu norm\u00e1ln\u00ed nen\u00ed.\n7. Je vhodn\u00e9 m\u00edt v\u017edy p\u0159edem zaji\u0161t\u011bnu dopravu.\n8. Po\u010dkejte do 18 let, alkohol nezletil\u00fdm neslu\u0161\u00ed.\n9. Vyb\u00edrejte si spole\u010dnost. Kdyby se v\u00e1m ud\u011blalo zle, kamar\u00e1di neute\u010dou.\n10. Neriskujte. Pod vlivem alkoholu m\u016f\u017eete ubl\u00ed\u017eit sob\u011b i ostatn\u00edm.\n11. NIKDY nesedejte za volant po po\u017eit\u00ed alkoholu!!! Timeline Photos",
+          1451476741
         ],
         [
-          "Tato sklenice z roku 1968 je jednou z t\u011bch, na kter\u00fdch se objevil n\u00e1zev Plze\u0148sk\u00fd Prazdroj m\u00edsto obvykl\u00e9ho Pilsner Urquell. Tyto n\u00e1zvy se od roku 1898 pou\u017e\u00edvaly oba sou\u010dasn\u011b. N\u011bkolik let po sametov\u00e9 revoluci se ale definitivn\u011b rozd\u011blily, Pilsner Urquell je zna\u010dka piva a Plze\u0148sk\u00fd Prazdroj je n\u00e1zev spole\u010dnosti, pod kterou mimo jin\u00e9 pat\u0159\u00ed i pivovar Gambrinus, pivovar v No\u0161ovic\u00edch a pivovar ve Velk\u00fdch Popovic\u00edch. #prazdroj #pilsnerurquell #historickasklenice Timeline Photos",
-          1454858941
+          "Snad ka\u017ed\u00fd v\u00ed nebo alespo\u0148 tu\u0161\u00ed, jak spr\u00e1vn\u011b konzumovat alkohol. Ur\u010dit\u011b ale nebude na \u0161kodu si p\u00e1r cenn\u00fdch rad p\u0159ipomenout. Obzvl\u00e1\u0161\u0165 v tomto obdob\u00ed v\u00e1no\u010dn\u00edch ve\u010d\u00edrk\u016f a bl\u00ed\u017e\u00edc\u00edch se silvestrovsk\u00fdch oslav. Tak schv\u00e1ln\u011b, dodr\u017eujete je? ;) #napivosrozumem\n\n1. Nepijte na la\u010dn\u00fd \u017ealudek.\n2. St\u0159\u00eddejte alkoholick\u00e9 n\u00e1poje s nealkoholick\u00fdmi.\n3. Alkohol a l\u00e9ky nejdou opravdu dohromady.\n4. Pit\u00ed alkoholu nen\u00ed z\u00e1vod.\n5. C\u00edlem je pobavit se a ne op\u00edt.\n6. Opilost opravdu norm\u00e1ln\u00ed nen\u00ed.\n7. Je vhodn\u00e9 m\u00edt v\u017edy p\u0159edem zaji\u0161t\u011bnu dopravu.\n8. Po\u010dkejte do 18 let, alkohol nezletil\u00fdm neslu\u0161\u00ed.\n9. Vyb\u00edrejte si spole\u010dnost. Kdyby se v\u00e1m ud\u011blalo zle, kamar\u00e1di neute\u010dou.\n10. Neriskujte. Pod vlivem alkoholu m\u016f\u017eete ubl\u00ed\u017eit sob\u011b i ostatn\u00edm.\n11. NIKDY nesedejte za volant po po\u017eit\u00ed alkoholu!!! Timeline Photos",
+          1450459021
         ],
         [
-          "Pivo z tanku = nej\u010derstv\u011bj\u0161\u00ed pivo p\u0159\u00edmo z pivovaru!\nV\u00edce o tankov\u00e9m piv\u011b \u2192 http://j.mp/Prazdroj-tankove_pivo Plze\u0148sk\u00fd Prazdroj's cover photo",
-          1454497118
+          "Dnes je den FAS (fet\u00e1ln\u00ed alkoholov\u00fd syndrom). Tento syndrom vznik\u00e1 u d\u011bt\u00ed, jejich\u017e matka b\u011bhem t\u011bhotenstv\u00ed pila alkohol. Plze\u0148sk\u00fd Prazdroj dlouhodob\u011b usiluje o to, aby spot\u0159ebitel\u00e9 p\u0159ijali odpov\u011bdn\u00e9 chov\u00e1n\u00ed spojen\u00e9 s konzumac\u00ed piva. #fas #napivosrozumem #FASday\r\n\r\nJak\u00fd je n\u00e1zor odborn\u00edk\u016f na tuto problematiku? T\u011bhotn\u00e9 \u017eeny by nem\u011bly p\u00edt alkohol Alkohol k t\u011bhotenstv\u00ed nepat\u0159\u00ed. Podle odborn\u00edk\u016f je nejrizikov\u011bj\u0161\u00ed hlavn\u011b n\u00e1razov\u00e9 pit\u00ed a pit\u00ed b\u011bhem...",
+          1441783860
         ],
         [
-          "Kultura, pam\u00e1tky, festivaly, z\u00e1bava, netradi\u010dn\u00ed z\u00e1\u017eitky a samoz\u0159ejm\u011b i plze\u0148sk\u00fd pivovar - to v\u0161e letos, v\u00edce jak kdy d\u0159\u00edv, l\u00e1k\u00e1 nav\u0161t\u00edvit plze\u0148sk\u00fd kraj. Plze\u0148 Evropsk\u00e9 hlavn\u00ed m\u011bsto kultury 2015 Plze\u0148sk\u00fd Prazdroj je gener\u00e1ln\u00edm partnerem projektu Plze\u0148 \u2013 Evropsk\u00e9 hlavn\u00ed m\u011bsto kultury 2015",
-          1438675200
+          "Den Respektuj 18 podpo\u0159ilo v Plzni p\u0159es 3000 lid\u00ed. \nPodpo\u0159\u00edte i vy my\u0161lenku, \u017ee alkohol d\u011btem do rukou nepat\u0159\u00ed?",
+          1435910400
         ],
         [
-          "P\u0159\u00edjemn\u00fd chl\u00e1dek pivovarsk\u00fdch sklep\u016f, b\u00e1je\u010dn\u00e9 pivo \u010depovan\u00e9 p\u0159\u00edmo z d\u0159ev\u011bn\u00fdch sud\u016f, trocha t\u00e9 kultury a vzd\u011bl\u00e1n\u00ed\u2026 Zkr\u00e1tka skv\u011bl\u00fd z\u00e1\u017eitek tam, kde se zrodila legenda Pilsner Urquell! \nNa to v\u0161e se m\u016f\u017eete t\u011b\u0161it v pivovaru Plze\u0148sk\u00fd Prazdroj. Setkejte se s legendou Pilsner Urquell \u010casy prohl\u00eddek pivovaru a dal\u0161\u00ed informace se dozv\u00edte zde.",
-          1436198401
+          "Projekt Plze\u0148sk\u00e9ho Prazdroje zam\u011b\u0159en\u00fd na prevenci konzumace alkoholu u nezletil\u00fdch se pr\u00e1v\u011b uch\u00e1z\u00ed o ocen\u011bn\u00ed v presti\u017en\u00ed sout\u011b\u017ei European Business Awards o titul National Public Champion.\nI vy m\u016f\u017eete podpo\u0159it my\u0161lenku, \u017ee alkohol d\u011btem do ruky nepat\u0159\u00ed. Svou podporu m\u016f\u017eete vyj\u00e1d\u0159it hlasov\u00e1n\u00edm ZDE http://www.businessawardseurope.com/vote/detail/czech-republic/11558 Plzensky Prazdroj - 2014 | The European Business Awards The European Business Awards, the organisation which recognises excellence, innovation and best practice in Europe. We reward businesses of all sizes from nearly 30 countries.",
+          1422601201
         ],
         [
-          "Z\u00edt\u0159ej\u0161\u00ed den je na v\u00fdstav\u011b Expo 2015 v Mil\u00e1n\u011b v\u011bnov\u00e1n \u010cesku. Plze\u0148sk\u00fd Prazdroj tedy nem\u016f\u017ee samoz\u0159ejm\u011b chyb\u011bt! Timeline Photos",
-          1431619202
+          "Souhlas\u00edte, \u017ee nezletil\u00ed by nem\u011bli konzumovat alkohol? Podpo\u0159te v sout\u011b\u017ei European Business Awards n\u00e1\u0161 projekt Respektuj 18 zam\u011b\u0159en\u00fd na prevenci konzumace alkoholu u d\u011bt\u00ed a nezletil\u00fdch. Hlasovat pro Respektuj 18 - stop alkoholu u nezletil\u00fdch Podpo\u0159te na\u0161i my\u0161lenku, \u017ee alkohol d\u011btem do ruky nepat\u0159\u00ed  a vypl\u0148te V\u00e1\u0161 email do oran\u017eov\u00e9ho formul\u00e1\u0159e pod videem. V\u00e1\u0161 hlas potvrd\u00edte kliknut\u00edm na odkaz, kter\u00fd v\u00e1m automaticky p\u0159ijde na zadanou emailovou adresu. Sv\u00e9 hlasy m\u016f\u017eete pos\u00edlat a\u017e do24.2. ",
+          1421172001
         ],
         [
-          "Dejte lajk a tipn\u011bte si, jak\u00e9 bude sk\u00f3re dne\u0161n\u00edho utk\u00e1n\u00ed \u010cesko:\u0160v\u00fdcarsko a vyhrajte karton piva! Za\u010d\u00edn\u00e1me pr\u00e1v\u011b te\u010f a kon\u010d\u00edme p\u0159ed za\u010d\u00e1tkem dne\u0161n\u00edho z\u00e1pasu, tedy v 20:15!\n\nPravidla: bit.ly/pravidla_minisout\u011b\u017e_MS2015 Timeline Photos",
-          1431417600
+          "Alkohol za volant nepat\u0159\u00ed - to je zn\u00e1m\u00e1 v\u011bc, ale je dobr\u00e9 si ji ob\u010das p\u0159ipomenout i v ter\u00e9nu. Proto minul\u00fd t\u00fdden prob\u011bhla na na\u0161ich silnic\u00edch akce \"\u0158\u00edd\u00edm, piju nealko pivo\", kter\u00e1 se v\u011bnuje prevenci po\u017eit\u00ed alkoholu p\u0159ed \u0159\u00edzen\u00edm dopravn\u00edch prost\u0159edk\u016f a propaguje zodpov\u011bdn\u00fd p\u0159\u00edstup ke konzumaci alkoholu. Timeline Photos",
+          1418676987
         ],
         [
-          "Hokejov\u00ed fanou\u0161ci, u\u017e se t\u011b\u0161\u00edte na za\u010d\u00e1tek leto\u0161n\u00edho mistrovstv\u00ed?\nM\u00e1me pro v\u00e1s skv\u011blou zpr\u00e1vu! V Praze, Plzni a Ostrav\u011b se m\u016f\u017eete t\u011b\u0161it na speci\u00e1ln\u00ed fanou\u0161kovsk\u00e9 z\u00f3ny, kde budete moct sledovat z\u00e1pas, vychutnat si pr\u00e9miov\u00e9 pivo a nav\u00edc sout\u011b\u017ei to hokejov\u00e9 ceny!\nV\u00edce informac\u00edch o fanz\u00f3n\u00e1ch se dozv\u00edte ji\u017e brzy na na\u0161em Facebooku a webu. Sledujte n\u00e1s! Timeline Photos",
-          1429678801
+          "Jen jeden z deseti lid\u00ed je ochotn\u00fd aktivn\u011b upozornit na fakt, \u017ee prodej alkoholu mladistv\u00fdm je zak\u00e1z\u00e1n a upozornit prodejce na nez\u00e1konn\u00e9 jedn\u00e1n\u00ed v p\u0159\u00edpad\u011b, \u017ee se stane sv\u011bdkem takov\u00e9 \u010dinnosti. To vypl\u00fdv\u00e1 z pr\u016fzkumu uskute\u010dn\u011bn\u00e9ho v r\u00e1mci projektu proti toleranci pit\u00ed alkoholu mladistv\u00fdmi Respektuj 18. \nJak byste v takov\u00e9m p\u0159\u00edpad\u011b jednali vy?\n\nbit.ly/resp_18 Timeline Photos",
+          1415607337
         ],
         [
-          "Z\u00e1silka 2015 t\u0159etinkov\u00fdch lahv\u00ed velikono\u010dn\u00edho po\u017eehnan\u00e9ho piva a tak\u00e9 unik\u00e1tn\u00ed pivn\u00ed poh\u00e1r pro pape\u017ee Franti\u0161ka z d\u00edlny Bo\u0159ka \u0160\u00edpka dorazil dnes do Vatik\u00e1nu Vatik\u00e1n p\u0159ijal tradi\u010dn\u00ed pozdrav z Plzn\u011b \u2013 po\u017eehnan\u00e9 pivo a origin\u00e1ln\u00ed dar Pilsner Urquell \u201eNa\u0161e plze\u0148sk\u00e9 pivo se u\u017e d\u0159\u00edve ve Vatik\u00e1nu nepravideln\u011b objevovalo a my se nyn\u00ed sna\u017e\u00edme na tuto tradici nav\u00e1zat a vybudovat pravidelnou velikono\u010dn\u00ed zvyklost po\u017eehnan\u00e9ho daru z Plzn\u011b.\" Vysv\u011btlil sl\u00e1dek V\u00e1clav Berka.",
-          1427817600
-        ],
-        [
-          "Plze\u0148sk\u00fd Prazdroj jako jedin\u00fd pivovar v cel\u00e9 Evrop\u011b m\u00e1 svoji bedn\u00e1\u0159skou partu! A co v\u0161echno na\u0161i bedn\u00e1\u0159i um\u00ed, se m\u016f\u017eete do\u010d\u00edst zde: Prazdroj m\u00e1 evropsk\u00fd unik\u00e1t. Z\u00e1jem o d\u0159ev\u011bn\u00e9 sudy roste D\u00edlna plze\u0148sk\u00fdch bedn\u00e1\u0159\u016f se nach\u00e1z\u00ed v n\u00edzk\u00e9 budov\u011b pod typickou siluetou pivovarsk\u00e9 vod\u00e1rensk\u00e9 v\u011b\u017ee. Pod\u00edvejte se dovnit\u0159.",
-          1427180715
-        ],
-        [
-          "Chce\u0161 se st\u00e1t sou\u010d\u00e1st\u00ed p\u0159\u00edb\u011bhu piva, kter\u00e9 proslavilo na\u0161i zem po cel\u00e9m sv\u011bt\u011b? Plze\u0148sk\u00fd Prazdroj pr\u00e1v\u011b otev\u00edr\u00e1 letn\u00ed st\u00e1\u017ee pro studenty vysok\u00fdch \u0161kol. V l\u00e9t\u011b chci na st\u00e1\u017e v Prazdroji P\u0159\u00edb\u011bh, zapsan\u00fd zlat\u00fdm p\u00edsmem do historie \u010desk\u00e9ho n\u00e1roda. P\u0159\u00edb\u011bh, kter\u00fd nep\u0159est\u00e1v\u00e1 inspirovat. Bu\u010f jeho sou\u010d\u00e1st\u00ed!",
-          1425560270
-        ],
-        [
-          "Od za\u010d\u00e1tku leto\u0161n\u00edho roku je Plze\u0148sk\u00fd pivovar je\u0161t\u011b o n\u011bco ekologi\u010dt\u011bj\u0161\u00ed. N\u00e1v\u0161t\u011bvn\u00edky ze v\u0161ech kout\u016f sv\u011bta v r\u00e1mci prohl\u00eddkov\u00fdch okruh\u016f Plze\u0148sk\u00e9ho Prazdroje p\u0159epravuje toti\u017e nov\u00fd autobus na stla\u010den\u00fd zemn\u00ed plyn.\n\nhttp://www.prazdroj.cz/cz/media/archiv-tiskovych-zprav/1476-v-plze-sk-m-prazdroji-voz-n-vit-vn-ky-novs-ekologicks-autobus Timeline Photos",
-          1424714402
-        ],
-        [
-          "Sl\u00e1dci Plze\u0148sk\u00e9ho Prazdroje uva\u0159ili slavnostn\u00ed velikono\u010dn\u00ed v\u00e1rku le\u017e\u00e1ku Pilsner Urquell. Surovin\u00e1m na\u0161eho velikono\u010dn\u00edho piva po\u017eehnal plze\u0148sk\u00fd Monsignore Franti\u0161ek Radkovsk\u00fd, biskup plze\u0148sk\u00fd. 2015 lahv\u00ed velikono\u010dn\u00ed v\u00e1rky zlat\u00e9ho le\u017e\u00e1ku bude po p\u011bti t\u00fddnech zr\u00e1n\u00ed a le\u017een\u00ed odesl\u00e1no do Vatik\u00e1nu jako dar m\u011bsta Plzn\u011b a Plze\u0148an\u016f k oslav\u00e1m velikono\u010dn\u00edch sv\u00e1tk\u016f.  Krom\u011b symbolick\u00fdch 2015 lahv\u00ed zlat\u00e9ho le\u017e\u00e1ku poputuje do Vatik\u00e1nu tak\u00e9 unik\u00e1tn\u00ed dar z d\u00edlny \u010desk\u00e9ho designera Bo\u0159ka \u0160\u00edpka. \n\nhttp://www.prazdroj.cz/cz/media/archiv-tiskovych-zprav/1472-plze-sk-biskup-po-ehnal-u-pop-t-velikono-n-v-rce-pilsner-urquell Timeline Photos",
-          1424451602
-        ],
-        [
-          "Podle student\u016f pat\u0159\u00ed Plze\u0148sk\u00fd Prazdroj mezi t\u0159i TOP zam\u011bstnavatele roku 2014/2015 v kategorii spot\u0159ebitelsk\u00fd pr\u016fmysl. Timeline Photos",
-          1423158234
-        ],
-        [
-          "Plze\u0148sk\u00fd Prazdroj vloni p\u0159il\u00e1kal do Plzn\u011b p\u0159es 600 000 lid\u00ed! \nV \"Evropsk\u00e9m kulturn\u00edm\" roce bude n\u00e1v\u0161t\u011bvn\u00edk\u016f a akc\u00ed je\u0161t\u011b v\u00edc! U\u017e v druh\u00e9 polovin\u011b \u00fanora se m\u016f\u017eete v r\u00e1mci Festivalu sv\u011btla t\u011b\u0161it na sv\u011bteln\u00e9 instalace, v l\u00e9t\u011b na koncerty a festival L\u00e9to v Prazdroji, v \u0159\u00edjnu pak na oslavu v\u00fdro\u010d\u00ed uva\u0159en\u00ed prvn\u00ed v\u00e1rky le\u017e\u00e1ku Pilsner Urquell \u2013 Pilsner Fest, a v neposledn\u00ed \u0159ad\u011b na prvom\u00e1jov\u00e9 a podzimn\u00ed vyj\u00ed\u017e\u010fky motorek \u010di s\u00e9rie koncert\u016f Lubom\u00edra Brabce s jeho hosty. \n\nhttp://www.prazdroj.cz/cz/media/archiv-tiskovych-zprav/1457-prazdroj-loni-peil-kal-do-plzn-pees-600-tis-c-lid-v-evropsk-m-kulturn-m-roce-jich-bude-jeit-v-c Timeline Photos",
-          1421910194
-        ],
-        [
-          "Tak takhle v sobotu vypadalo zah\u00e1jen\u00ed Plzn\u011b Evropsk\u00e9ho hlavn\u00edho m\u011bsta kultury pro rok 2015. Atmosf\u00e9ra byla opravdu slavnostn\u00ed :) Timeline Photos",
-          1421691402
-        ],
-        [
-          "Plze\u0148sk\u00fd Prazdroj m\u00e1 jedinou bedn\u00e1\u0159skou d\u00edlnu v Evrop\u011b, kter\u00e1 vyr\u00e1b\u00ed pivn\u00ed sudy. Pod\u00edvejte se s n\u00e1mi, jak vypad\u00e1 zabed\u0148ov\u00e1n\u00ed sudu a co takov\u00e1 bedn\u00e1\u0159sk\u00e1 pr\u00e1ce obn\u00e1\u0161\u00ed.\n\nhttps://www.youtube.com/watch?v=cwBBPvUtOSM Timeline Photos",
-          1417863610
-        ],
-        [
-          "\u010casopis \"Za branou\" v sout\u011b\u017ei Czech Top 100 p\u0159esv\u011bd\u010dil odborn\u00edky, \u017ee nejkvalitn\u011bj\u0161\u00ed zam\u011bstnaneck\u00fd \u010dasopis v \u010cesk\u00e9 republice m\u00e1 Plze\u0148sk\u00fd Prazdroj. O ocen\u011bn\u00ed p\u0159ihl\u00e1\u0161en\u00fdch firemn\u00edch \u010dasopis\u016f rozhodovala porota slo\u017een\u00e1 z p\u0159edn\u00edch \u010desk\u00fdch auditor\u016f, analytik\u016f, grafik\u016f, fotograf\u016f, ale i odborn\u00edk\u016f na komunikaci. Timeline Photos",
-          1416333041
-        ],
-        [
-          "V\u010dera, pr\u00e1v\u011b na svat\u00e9ho Martina, tedy 172 let od prvn\u00edho nara\u017een\u00ed piva Pilsner Urquell na\u0161i bedn\u00e1\u0159i zabednili speci\u00e1ln\u00ed Sud P\u011btat\u0159ic\u00e1tn\u00edk\u016f, kter\u00fd spole\u010dn\u011b se sl\u00e1dky v\u011bnuj\u00ed v souvislosti s v\u00fdro\u010d\u00edm 100 let od za\u010d\u00e1tku Prvn\u00ed sv\u011btov\u00e9 v\u00e1lky pam\u00e1tce state\u010dn\u00e9ho 35. p\u011b\u0161\u00edho pluku slo\u017een\u00e9ho z mlad\u00fdch mu\u017e\u016f m\u011bsta Plzn\u011b. Timeline Photos",
-          1415808906
-        ],
-        [
-          "Mysleli jste si, \u017ee pivo je hlavn\u011b mu\u017eskou z\u00e1le\u017eitost\u00ed? Tak to ur\u010dit\u011b ne. Miss Universe Gabriela Isler a Miss USA Nia Sanchez dnes nav\u0161t\u00edvily v r\u00e1mci sv\u00e9ho pobytu v \u010cesk\u00e9 republice Plze\u0148sk\u00fd Prazdroj a vychutnaly si s na\u0161\u00edm sl\u00e1dkem pivo p\u0159\u00edmo v pivovarsk\u00fdch sklep\u00edch. Timeline Photos",
-          1415370967
-        ],
-        [
-          "Plze\u0148sk\u00fd Prazdroj op\u011bt bodoval, tentokr\u00e1t ji\u017e v 16. ro\u010dn\u00edku presti\u017en\u00ed sout\u011b\u017ee Rhodos - cena za image, kde si odnesl nejvy\u0161\u0161\u00ed uzn\u00e1n\u00ed v kategorii \u201eCena ve\u0159ejnosti\u201c a potvrdil tak sv\u00e9 m\u00edsto mezi \u010deskou firemn\u00ed \u0161pi\u010dkou. Prazdroj nav\u00e1zal na lo\u0148sk\u00e9 v\u00edt\u011bzstv\u00ed v kategorii \u201eV\u00fdrobci a dodavatel\u00e9 n\u00e1poj\u016f\u201c. \n\nbit.ly/cena_image Timeline Photos",
-          1413464108
-        ],
-        [
-          "Kdo by aspo\u0148 jednou v \u017eivot\u011b nejel na lanovce...? U\u017e jste ale potkali na vedlej\u0161\u00ed seda\u010dce n\u011bco takov\u00e9ho?\nNa lanov\u00e9 dr\u00e1ze Pekelsk\u00fd Vrch v ly\u017ea\u0159sk\u00e9m are\u00e1lu Mlad\u00e9 Buky se minul\u00fd \u010dtvrtek svezlo celkem 230 pades\u00e1tilitrov\u00fdch sud\u016f pln\u00fdch piva Gambrinus Nepasterizovan\u00fd o celkov\u00e9 v\u00e1ze 14,5 tuny. Tomu tedy \u0159\u00edk\u00e1me p\u0159edsez\u00f3nn\u00ed z\u00e1t\u011b\u017eov\u00fd test ;) Photos from Plze\u0148sk\u00fd Prazdroj's post",
-          1412342524
-        ],
-        [
-          "Plze\u0148sk\u00fd Prazdroj se stal gener\u00e1ln\u00edm partnerem Plzn\u011b \u2013 evropsk\u00e9ho hlavn\u00edho m\u011bsta kultury 2015. Jako gener\u00e1ln\u00ed partner se zam\u011b\u0159\u00ed pr\u00e1v\u011b na projekty, kter\u00e9 podpo\u0159\u00ed komunitn\u00ed a kulturn\u00ed \u017eivot v Plzni, p\u0159it\u00e1hnou turisty a pos\u00edl\u00ed ekonomiku regionu.\nbit.ly/PP_ehmk Timeline Photos",
-          1412064049
-        ],
-        [
-          "Plze\u0148sk\u00fd Prazdroj z\u00edskal Cenu N\u00e1rodn\u00edho mistra v presti\u017en\u00ed sout\u011b\u017ei European Business Awards. \u010ceskou republiku bude reprezentovat s projektem Respektuj 18 v dal\u0161\u00edm kole sout\u011b\u017ee, kde se utk\u00e1 s ostatn\u00edmi evropsk\u00fdmi zem\u011bmi. Usilovat bude o ocen\u011bn\u00ed v oblasti \u017divotn\u00ed prost\u0159ed\u00ed a firemn\u00ed udr\u017eitelnost. \nwww.respektuj18.cz Timeline Photos",
-          1410361970
-        ],
-        [
-          "Plze\u0148sk\u00fd Prazdroj je pr\u00e1vem py\u0161n\u00fd na sv\u00e9 bedn\u00e1\u0159e. Tentokr\u00e1t p\u0159ed nimi stoj\u00ed velk\u00e1 v\u00fdzva! Vyrob\u00ed speci\u00e1ln\u00ed Sud P\u011btat\u0159ic\u00e1tn\u00edk\u016f, kter\u00fd spole\u010dn\u011b se sl\u00e1dky v\u011bnuj\u00ed v souvislosti s v\u00fdro\u010d\u00edm 100 let od za\u010d\u00e1tku Prvn\u00ed sv\u011btov\u00e9 v\u00e1lky pam\u00e1tce state\u010dn\u00e9ho 35. p\u011b\u0161\u00edho pluku slo\u017een\u00e9ho z mlad\u00fdch mu\u017e\u016f m\u011bsta Plzn\u011b.\n\nbit.ly/35_pesi_pluk Timeline Photos",
-          1406134516
-        ],
-        [
-          "Stabiln\u00ed, produktivn\u00ed, \u010dist\u00fd, spole\u010densk\u00fd, prosperuj\u00edc\u00ed. Jak m\u016f\u017eeme dos\u00e1hnout takov\u00e9ho sv\u011bta? V\u00edce o na\u0161em programu trvale udr\u017eiteln\u00e9ho rozvoje Prosperita se dozv\u00edte zde bit.ly/Prazdroj_Prosperita.",
-          1405449973
+          "P\u0159ipn\u011bte si z\u00edtra placku RESPEKTUJ 18 a podpo\u0159te tak symbolicky hlavn\u00ed my\u0161lenku kampan\u011b: \"Alkohol d\u011btem do ruky nepat\u0159\u00ed!\" \nwww.respektuj18.cz Timeline Photos",
+          1403705795
         ]
       ],
-      "dates_start": 1409821212,
-      "dates_end": 1445533772,
-      "likes_avg": 112,
-      "likes_stdev": 179,
-      "comments_avg": 13,
-      "comments_stdev": 56,
-      "shares_avg": 12,
-      "shares_stdev": 17
+      "dates_start": 1413414499,
+      "dates_end": 1453792009,
+      "likes_avg": 119,
+      "likes_stdev": 201,
+      "comments_avg": 27,
+      "comments_stdev": 61,
+      "shares_avg": 11,
+      "shares_stdev": 11
     },
     {
-      "number": 13,
+      "number": 11,
       "important": [
-        "piva",
+        "velkopopovick\u00e9ho",
         "prohl\u00eddku",
-        "pivovaru",
-        "timelin",
-        "velkopopovick\u00e9ho"
+        "kozla",
+        "piva",
+        "v\u00e1s"
       ],
       "common": [
         "kozel",
@@ -1209,11 +937,11 @@
         "m\u016f\u017eete",
         "n\u00e1m",
         "piva",
-        "pivovaru",
         "prohl\u00eddku",
         "prohl\u00eddku pivovaru",
-        "timelin",
-        "velkopopovick\u00e9ho"
+        "velkopopovick\u00e9ho",
+        "velkopopovick\u00e9ho pivovaru",
+        "v\u00e1s"
       ],
       "messages": [
         [
@@ -1295,34 +1023,162 @@
       "shares_stdev": 15
     },
     {
-      "number": 14,
+      "number": 12,
       "important": [
-        "plze\u0148sk\u00e9ho",
-        "rok",
-        "p\u0159ij\u010ft",
-        "prazdroj",
-        "plze\u0148sk\u00e9ho prazdroj"
+        "timelin",
+        "\u010desk\u00e9ho",
+        "\u010desk\u00e9ho piva",
+        "prvn\u00ed",
+        "piva"
       ],
       "common": [
+        "chmel",
+        "den",
+        "photo",
+        "piva",
+        "pivovaru",
+        "prvn\u00ed",
+        "timelin",
+        "timelin photo",
+        "\u010desk\u00e9ho",
+        "\u010desk\u00e9ho piva"
+      ],
+      "messages": [
+        [
+          "Ochutnejte b\u011bhem Dny \u010desk\u00e9ho piva n\u00e1\u0161 Gambrinus Prvn\u00ed chmel. \ud83c\udf7a Pivo s \u010derstv\u00fdm chmelem m\u016f\u017eeme va\u0159it pouze jednou v roce, tak nev\u00e1hejte a ur\u010dit\u011b jej vyzkou\u0161ejte! ;) #gambrinus #prvnichmel #dnyceskehopiva Timeline Photos",
+          1474615372
+        ],
+        [
+          "1. \u010cesk\u00fd chmel.\n2. Drcen\u00ed chmelu bez p\u0159\u00edstupu vzduchu.\n3. Cel\u00fd proces bez pou\u017eit\u00ed chemik\u00e1li\u00ed.\n\n= chmelov\u00e9 produkty. Co to je? V na\u0161em p\u0159\u00edpad\u011b se jedn\u00e1 o granulovan\u00fd chmel, kter\u00fd se p\u0159ipravuje mechanick\u00fdm drcen\u00edm chmelov\u00fdch \u0161i\u0161tic ihned po sklizni bez p\u0159\u00edstupu vzduchu. Uchov\u00e1v\u00e1 tak v sob\u011b intenzitu a kvalitu ho\u0159kosti i unik\u00e1tn\u00ed aroma, proto nemus\u00ed b\u00fdt chemicky o\u0161et\u0159en proti pl\u00edsn\u00edm. Granulovan\u00fd chmel je tak vlastn\u011b chmel v jin\u00e9 podob\u011b. #pivo #chmel Timeline Photos",
+          1447603921
+        ],
+        [
+          "Dnes za\u010d\u00ednaj\u00ed Dny \u010desk\u00e9ho piva. Do soboty 3.10. m\u016f\u017eete ve vybran\u00fdch restaurac\u00edch ochutnat vynikaj\u00edc\u00ed \u010desk\u00e1 piva, jako nap\u0159\u00edklad speci\u00e1ln\u00ed Gambrinus Prvn\u00ed chmel. T\u011b\u0161\u00edme se na v\u00e1s! \ud83c\udf7a #gambrinus #prvnichmel Timeline Photos",
+          1443332581
+        ],
+        [
+          "Hled\u00e1te origin\u00e1ln\u00ed m\u00edsto, kde uspo\u0159\u00e1dat oslavu narozenin nebo t\u0159eba jen p\u00e1rty s p\u0159\u00e1teli?\nM\u00e1me pro v\u00e1s skv\u011bl\u00fd tip ;) P\u00e1rty v pivovaru Gambrinus Z\u00e1\u017eitkov\u00fd bal\u00ed\u010dek nabit\u00fd z\u00e1bavou str\u00e1v\u00edte v doprovodu pivovarsk\u00fdch odborn\u00edk\u016f i nejobl\u00edben\u011bj\u0161\u00edho \u010desk\u00e9ho piva Gambrinus.",
+          1437109201
+        ],
+        [
+          "P\u0159ij\u010fte 8. - 10. kv\u011btna na speci\u00e1ln\u00ed prohl\u00eddku pivovaru Gambrinus a ochutnejte jako prvn\u00ed limitovanou jarn\u00ed v\u00e1rku Gambrinus Nov\u00fd Boh\u00e9m! Gambrinus je boh\u00e9m! V\u00edce informac\u00ed najdete zde",
+          1430925007
+        ],
+        [
+          "Prvn\u00ed m\u00e1jov\u00e9 dny bude v plze\u0148sk\u00e9m pivovaru opravdu \u017eivo! \nV pivovaru Gambrinus budete moci b\u011bhem prodlou\u017een\u00e9ho v\u00edkendu 1. - 3. kv\u011btna ochutnat Gambrinus s americk\u00fdm chmelem, kter\u00fd byl uva\u0159en u p\u0159\u00edle\u017eitosti oslav 70.v\u00fdro\u010d\u00ed osvobozen\u00ed Plzn\u011b americkou arm\u00e1dou. Chu\u0165 svobody v pivovaru Gambrinus Doprovodn\u00fd program k Slavnostem svobody najdete zde.  ",
+          1429807605
+        ],
+        [
+          "Uspo\u0159\u00e1dejte p\u00e1rty v pivovaru Gambrinus, na kterou jen tak nezapomenete! Jedine\u010dn\u00e9 prost\u0159ed\u00ed Gambrinus varny a t\u0159\u00edhodinov\u00e9 posezen\u00ed se sl\u00e1dkem a pivy zna\u010dky Gambrinus. \nV\u00edce na bit.ly/party_v_pivovaru_Gambrinus Timeline Photos",
+          1416765340
+        ],
+        [
+          "Chutnal v\u00e1m Gambrinus Prvn\u00ed Chmel? Tak to pro v\u00e1s m\u00e1me skv\u011blou zpr\u00e1vu. Te\u010f si toti\u017e pivo dochmelen\u00e9 \u010derstv\u00fdm \u017eateck\u00fdm chmelem m\u016f\u017eete u\u017e\u00edt i doma! Nov\u011b k dost\u00e1n\u00ed v hypermarketech Albert. Ale posp\u011b\u0161te si, jde o limitovanou edici!\n\nhttps://www.youtube.com/watch?v=HiFq9rVP_-I&feature=youtu.be Gambrinus Prvn\u00ed Chmel - od kl\u00ed\u010dku a\u017e do lahve Z \u010derstv\u011b sklizen\u00e9ho chmele jsme uva\u0159ili mimo\u0159\u00e1dnou v\u00e1rku le\u017e\u00e1ku Gambrinus, Prvn\u00ed chmel. Pod\u00edvejte se na cestu chmele od kl\u00ed\u010dku a\u017e do d\u00e1rkov\u00e9 jednolitrov\u00e9 la...",
+          1414158383
+        ],
+        [
+          "Autorem v\u00edt\u011bzn\u00e9 b\u00e1sni\u010dky ke Dni \u010desk\u00e9ho piva se stal pan Ladislav Bag\u00e1ri.\n\nDvac\u00e1t\u00fd sedm\u00fd den v z\u00e1\u0159\u00ed\nzv\u00fdraznil jsem v kalend\u00e1\u0159i.\nSvat\u00fd V\u00e1clav zve n\u00e1s ven, \npoj\u010fme slavit piva den.\nNesty\u010f se a nest\u016fj vzadu, \np\u0159ive\u010f partu kamar\u00e1d\u016f.\nCo slav\u00edme hezk\u00e9ho? \nSv\u00e1tek piva \u010desk\u00e9ho.",
+          1412398800
+        ],
+        [
+          "Mil\u00ed sout\u011b\u017e\u00edc\u00ed, na\u0161e porota se p\u0159i vyb\u00edr\u00e1n\u00ed v\u00fdherc\u016f dost zapotila, proto\u017ee hodn\u011b b\u00e1sni\u010dek bylo opravdu p\u011bkn\u00fdch, nicm\u00e9n\u011b je to tu - m\u016f\u017eeme vyhl\u00e1sit v\u00edt\u011bze na\u0161\u00ed facebookv\u00e9 sout\u011b\u017ee o nejorigin\u00e1ln\u011bj\u0161\u00ed b\u00e1sni\u010dku ke Dni \u010desk\u00e9ho piva, kter\u00fdmi se st\u00e1vaj\u00ed:\n\n1. m\u00edsto @Ladislav Bag\u00e1ri \nPan Ladislav vyhr\u00e1v\u00e1 30l sud Nepasterizovan\u00e9ho Gambrinusu, prohl\u00eddku pivovaru Gambrinus v Plzni pro 2 osoby a 24x 0,5l Gambrinus Origin\u00e1l plech.\n\n2. a 3. m\u00edsto obsadily @Kate\u0159ina Davidov\u00e1 a @Ali Bauerov\u00e1 \nTyto v\u00edt\u011bzky z\u00edsk\u00e1vaj\u00ed ka\u017ed\u00e1 30l sud Nepasterizovan\u00e9ho Gambrinusu a prohl\u00eddku pivovaru Gambrinus v Plzni pro 2 osoby.\n\n4. a 5. m\u00edsto @Katka Soukupka a @Jirka Lari\u0161\nZ\u00edsk\u00e1vaj\u00ed ka\u017ed\u00fd prohl\u00eddku pivovaru Gambrinus v Plzni pro 2 osoby a 24x 0,5l Gambrinus Origin\u00e1l plech.\n\n6. a 7. m\u00edsto @R\u00e1dik Ku-\u0159e a @Kate\u0159ina Soukupov\u00e1 \nZ\u00edsk\u00e1vaj\u00ed ka\u017ed\u00fd 24x 0,5l Gambrinus Origin\u00e1l plech.\n\nV\u00fdherc\u016fm gratulujeme a pros\u00edme je, aby n\u00e1m do zpr\u00e1v napsali adresy, kam jim m\u016f\u017eeme v\u00fdhry doru\u010dit.\n\nV\u0161em ostatn\u00edm d\u011bkujeme za \u00fa\u010dast a kr\u00e1sn\u00e9 origin\u00e1ln\u00ed b\u00e1sni\u010dky :)",
+          1412226000
+        ],
+        [
+          "\"Pivo Excelent  va\u0159\u00edme unik\u00e1tn\u00edm zp\u016fsobem trojit\u00e9ho chmelen\u00ed. D\u00edky tomu si pivo zachov\u00e1v\u00e1 velk\u00e9 mno\u017estv\u00ed vo\u0148av\u00fdch chmelov\u00fdch l\u00e1tek a vynik\u00e1 jak plnou chut\u00ed, tak sv\u011b\u017e\u00edm chmelov\u00fdm aroma,\" \u0159\u00edk\u00e1 sl\u00e1dek pivovaru Gambrinus Pavel Z\u00edtek. A \u017ee chutn\u00e1 nejen piva\u0159\u016fm, ale i odborn\u00edk\u016fm, to potvrdilo leto\u0161n\u00ed v\u00edtezstv\u00ed v sout\u011b\u017ei \u010cesk\u00e9 pivo, kter\u00e9 si Excelent odnesl v kategorii jeden\u00e1ctistup\u0148ov\u00fdch piv podruh\u00e9 za sebou. Na zdrav\u00ed!\nbit.ly/ceske_pivo Timeline Photos",
+          1412154655
+        ],
+        [
+          "Oslavy Dne \u010desk\u00e9ho piva prob\u00edhaly po cel\u00e9 republice. \nT\u0159eba v Plzni oslavy zah\u00e1jil prim\u00e1tor Martin Baxa s obchodn\u00edm sl\u00e1dkem pivovaru Gambrinus Pavlem Z\u00edtkem. Spole\u010dn\u011b narazili  a na\u010depovali p\u0159\u00edtomn\u00fdm host\u016fm restaurace Sedm\u00e9 nebe pivo Gambrinus Prvn\u00ed Chmel uva\u0159en\u00e9 z \u010derstv\u00e9ho chmele speci\u00e1ln\u011b pro tuto p\u0159\u00edle\u017eitost. Pivo Gambrinus Prvn\u00ed Chmel m\u016f\u017eete ochutnat v n\u00e1sleduj\u00edc\u00edch dnech ve v\u00edce ne\u017e 2000 hospod\u00e1ch po cel\u00e9 \u010cR. Mapu hospod a restaurac\u00ed najdete zde http://www.gambrinus.cz/cz/#/kam-na-pivo/prvni-chmel Timeline Photos",
+          1412003988
+        ],
+        [
+          "DEN, \u010cESK\u00c9HO, PIVA je tu \u0160imon Garbinus hl\u00edd\u00e1 proto\u017ee je v n\u00edm s\u00edla :)",
+          1411903545
+        ],
+        [
+          "Nen\u00ed na\u010d \u010dekat, Den \u010desk\u00e9ho piva je tady a u n\u00e1s je NARA\u017dENO. Mimo\u0159\u00e1dnou v\u00e1rkou le\u017e\u00e1ku Gambrinus Prvn\u00ed Chmel - z \u010derstv\u00e9ho, pr\u00e1v\u011b sklizen\u00e9ho chmele m\u016f\u017eete ochutnat ve v\u00edce ne\u017e 2000 hospod\u00e1ch a restaurac\u00edch nap\u0159\u00ed\u010d celou republikou. \n\nhttp://www.prazdroj.cz/cz/media/archiv-tiskovych-zprav/1413-gambrinus-narazil-sud-mimoradne-varky-prvni-chmel-v-hospodach-bude-od-teto-soboty Timeline Photos",
+          1411807210
+        ],
+        [
+          "U\u017e z\u00edtra nar\u00e1\u017e\u00edme! M\u00e1te se na co t\u011b\u0161it! Pt\u00e1te se, o co jde? P\u0159eci o mimo\u0159\u00e1dnou v\u00e1rku le\u017e\u00e1ku Gambrinus Prvn\u00ed Chmel - z \u010derstv\u00e9ho pr\u00e1v\u011b sklizen\u00e9ho chmele. Takov\u00e9 pivo se m\u016f\u017ee va\u0159it jen jednou do roka po chmelov\u00e9 sklizni, tak a\u0165 v\u00e1m chutn\u00e1! :) Timeline Photos",
+          1411725986
+        ],
+        [
+          "Den \u010desk\u00e9ho piva se bude slavit ve velk\u00e9m! Kde v\u0161ude se do oslav m\u016f\u017eete zapojit a na jak\u00e9 doprovodn\u00e9 akce se m\u016f\u017eete t\u011b\u0161it, sledujte na http://www.denceskehopiva.cz/#podniky Timeline Photos",
+          1411654514
+        ],
+        [
+          "V\u0161ude kolem mraky dav\u016f. Co se d\u011bje? Co za sl\u00e1vu? \nDnes n\u00e1rod \u010desk\u00fd m\u00e1 se hezky. \nSta\u0159\u00ed, mlad\u00ed cht\u011bj\u00ed slavit, m\u00e1me piva, jdem se bavit! \nDen \u010desk\u00e9ho piva nastal, ka\u017ed\u00fd pije \u010di u\u017e chlastal. \nM\u00e1\u0161 se smutn\u011b? Nejsi s\u00e1m, radu jednu ti v\u0161ak d\u00e1m. \nKa\u017ed\u00fd p\u0159ece m\u00e1 sv\u016fj pech, v pivu utop\u00ed ho \u010cech!\nN\u00e1rod si t\u011b \u017e\u00e1d\u00e1 ven, poj\u010f se nap\u00edt v pivn\u00ed den! :-)",
+          1411400125
+        ],
+        [
+          "Dne\u0161n\u00ed kv\u00edzov\u00e1 ot\u00e1zka zn\u00ed: Co je to \u0161nyt nebo \u0161n\u00fdtek? \nOdpov\u011b\u010f pi\u0161te do koment\u00e1\u0159\u016f, sd\u00edlejte na sv\u00e9m profilu a z\u00edskejte co nejv\u00edce lajk\u016f od sv\u00fdch p\u0159\u00e1tel. Prvn\u00ed spr\u00e1vn\u00e1 odpov\u011bd s nejv\u011bt\u0161\u00edm po\u010dtem lajk\u016f do dne\u0161n\u00edch 18 hodin z\u00edsk\u00e1 24x 0,5l Gambrinus Origin\u00e1l plech! \n\nA) na\u010depov\u00e1n\u00ed mal\u00e9ho piva na ochutn\u00e1n\u00ed\nB) kus l\u00e1tky, kterou pou\u017e\u00edvali \u0161enk\u00fd\u0159i na ut\u00ed\u0159\u00e1n\u00ed stol\u016f\nC) alergick\u00e1 reakce na v\u00fdpary ve varn\u011b\nD) ozn\u00e1men\u00ed v hostinc\u00edch, \u017ee \u010depuj\u00ed posledn\u00edch deset piv Timeline Photos",
+          1411364951
+        ],
+        [
+          "U\u017e jste nahr\u00e1li svou b\u00e1sni\u010dku na na\u0161i Ze\u010f? Nezapome\u0148te, \u017ee jednou z podm\u00ednek je pou\u017eit\u00ed slov DEN, \u010cESK\u00c9HO, PIVA! Auto\u0159i prvn\u00edch 5 b\u00e1sni\u010dek s nejvy\u0161\u0161\u00edm po\u010dtem lajk\u016f, z\u00edskaj\u00ed 30l sud nepasterizovan\u00e9ho Gambrinusu, prohl\u00eddku pivovaru Gambrinus v Plzni pro 2 osoby nebo 24x 0,5l Gambrinus Origin\u00e1l plech! \nCeny jsou tu p\u0159ipraveny pro v\u00e1s! :) Timeline Photos",
+          1411308001
+        ],
+        [
+          "A je tu dal\u0161\u00ed rychlosout\u011b\u017e! V\u00edte, kde vyr\u00e1b\u00edme slad pro v\u00fdrobu piva Gambrinus?\nPrvn\u00ed spr\u00e1vn\u00e1 odpov\u011b\u010f s nejv\u011bt\u0161\u00edm po\u010dtem lajk\u016f do dne\u0161n\u00edch 18. hodin op\u011bt z\u00edsk\u00e1 24x 0,5l Gambrinus Origin\u00e1l plech!\n\nA) ve sladovn\u011b v P\u00edsku\nB) v cukr\u00e1\u0159stv\u00ed Hor\u00e1k & synov\u00e9\nC) v na\u0161\u00ed vlastn\u00ed sladovn\u011b\nD) ve sladovn\u011b v Rakousku Timeline Photos",
+          1411189201
+        ],
+        [
+          "K pivu neodmyslyteln\u011b pat\u0159\u00ed i dobr\u00e9 j\u00eddlo. A nasnad\u011b je taky ot\u00e1zka, co va\u0159it o v\u00edkendu...? Nechte se inspirovat pivn\u00edmi recepty na www.denceskehopiva.cz/#pivni-gastronomie Den \u010desk\u00e9ho piva | V\u0161ichni milovn\u00edci \u010desk\u00e9ho piva a gastronomie na sv\u011btov\u00e9 \u00farovni si odedne\u0161ka... Velkolep\u00e1 oslava obl\u00edben\u00e9ho zlatav\u00e9ho moku je tady! Den p\u0159ed sv\u00e1tkem Svat\u00e9ho V\u00e1clava, tedy v sobotu 27. z\u00e1\u0159\u00ed, se ve vybran\u00fdch hospod\u00e1ch po cel\u00e9 zemi rozb\u011bhne druh\u00fd ro\u010dn\u00edk Dne \u010desk\u00e9ho piva. Oslava nejobl\u00edben\u011bj\u0161\u00edho n\u00e1poje \u010cech\u016f s sebou p\u0159inese \u0159adu doprovodn\u00fdch akc\u00ed, jejich\u017e \u00fast\u0159edn\u00edm t\u00e9matem je, jak\u2026",
+          1411113718
+        ],
+        [
+          "Pozor, m\u00e1me tu prvn\u00ed rychlou kv\u00edzovou ot\u00e1zku! Kdo byli be\u010dv\u00e1\u0159i? Odpov\u011b\u010f pi\u0161te do koment\u00e1\u0159\u016f, sd\u00edlejte na sv\u00e9m profilu a z\u00edskejte co nejv\u00edce lajk\u016f od sv\u00fdch p\u0159\u00e1tel. Prvn\u00ed spr\u00e1vn\u00e1 odpov\u011bd s nejv\u011bt\u0161\u00edm po\u010dtem lajk\u016f do dne\u0161n\u00edch 18. hodin z\u00edsk\u00e1 24x 0,5l Gambrinus Origin\u00e1l plech!   \n\n- sl\u00e1dci, kte\u0159\u00ed u va\u0159en\u00ed piva hlasit\u011b zp\u00edvali (be\u010deli)\n- piva\u0159i, kte\u0159\u00ed vypili za den v\u00edce jak be\u010dku piva\n- pivovarn\u00edci, kte\u0159\u00ed pou\u017e\u00edvali p\u0159i v\u00fdrob\u011b piva v\u00fdhradn\u011b vodu z \u0159eky Be\u010dvy\n- \u0159emesln\u00edci, kte\u0159\u00ed zhotovovali be\u010dky, k\u00e1d\u011b a sudy z tvrd\u00e9ho dubov\u00e9ho d\u0159eva Timeline Photos",
+          1411017567
+        ],
+        [
+          "Den \u010desk\u00e1 Piva je tu brzy\nkdy\u017e d\u00e1\u0161 Gambrinus  bude\u0161\nnebude\u0161 m\u00edt o z\u00e1bavu nouzi\n\u017e\u00e1dn\u00fd r\u00fdmu tu nebudu hlavu tu l\u00e1mat        Jdu si d\u00e1t pivo      pak jdu  postely sny tvo\u0159it , jak budu z\u00edtra z pivem na dvo\u0159e mo\u0159it .",
+          1410984955
+        ],
+        [
+          "A je to tady\u2026 Den \u010desk\u00e9ho piva se bl\u00ed\u017e\u00ed a tak jsme si pro v\u00e1s p\u0159ipravili malou sout\u011b\u017e. Nahrajte na na\u0161i facebookovou Ze\u010f kr\u00e1tkou b\u00e1sni\u010dku s pou\u017eit\u00edm slov DEN, \u010cESK\u00c9HO, PIVA, z\u00edskejte nejv\u00edc lajk\u016f a vyhrajte 30l sud Nepasterizovan\u00e9ho Gambrinusu, prohl\u00eddku pivovaru Gambrinus v Plzni pro 2 osoby nebo 24x 0,5l Gambrinus Origin\u00e1l plech! Za\u010d\u00edn\u00e1me pr\u00e1v\u011b te\u010f a kon\u010d\u00edme 28.9. v 17 hodin!\nV\u00edce informac\u00ed v pravidlech na bit.ly/DCP_FB_pravidla Timeline Photos",
+          1410951553
+        ],
+        [
+          "Zdena Malafov\u00e1 dok\u00e1zala b\u011bhem necel\u00fdch \u010dty\u0159 hodin sklidit 7 v\u011brtel\u016f chmele! Zaslou\u017een\u011b tak z\u00edskala titul Gambrinus Mistr v ru\u010dn\u00edm \u010des\u00e1n\u00ed chmele 2014. Gratulujeme! Gambrinus Mistrovstv\u00ed v ru\u010dn\u00edm \u010des\u00e1n\u00ed chmele vyhr\u00e1la k\u0159ehk\u00e1 blond\u00fdnka Vlastn\u00edma rukama sklidila b\u011bhem necel\u00fdch \u010dty\u0159 hodin sedm v\u011brtel\u016f chmele a zaslou\u017eila si tak titul Gambrinus Mistr v ru\u010dn\u00edm \u010des\u00e1n\u00ed chmele 2014 a hlavn\u00ed v\u00fdhru, sud Nepasterizovan\u00e9ho Gambrinusu. \u201eNa chmel chod\u00edm od mala, je to sice tvrd\u00e1 pr\u00e1ce, ale m\u011b bav\u00ed,\u201c \u0159ekla s \u00fasm\u011bvem Mistryn\u011b Zdena Malafov\u00e1. Ta porazila dlouholet\u00e9 \u010des\u00e1\u010de a sklidila obdiv i p\u0159\u00edtomn\u00fdch slavn\u00fdch osobnost\u00ed, kter\u00e9 nejen, \u017ee sout\u011b\u017e\u00edc\u00ed v pr\u016fb\u011bhu Mistrovstv\u00ed povzbuzovaly, ale zapojily se i do samotn\u00e9ho \u010des\u00e1n\u00ed.",
+          1409126434
+        ]
+      ],
+      "dates_start": 1403932949,
+      "dates_end": 1435158939,
+      "likes_avg": 123,
+      "likes_stdev": 141,
+      "comments_avg": 8,
+      "comments_stdev": 10,
+      "shares_avg": 11,
+      "shares_stdev": 14
+    },
+    {
+      "number": 13,
+      "important": [
+        "tak",
+        "timelin",
+        "rok",
+        "t\u0159eba",
+        "photo"
+      ],
+      "common": [
+        "byla",
         "movemb",
-        "plze\u0148sk\u00e9ho",
-        "plze\u0148sk\u00e9ho prazdroj",
-        "prazdroj",
-        "p\u0159ij\u010ft",
+        "photo",
         "rok",
         "tak",
         "timelin",
+        "timelin photo",
         "t\u0159eba",
-        "zam\u011bstnanc"
+        "zam\u011bstnanc",
+        "zapojili"
       ],
       "messages": [
         [
           "P\u0159ij\u010fte oslavit Nov\u00fd rok do plze\u0148sk\u00e9ho Prazdroje s hv\u011bzdami budoucnosti !!!\nJan Mr\u00e1\u010dek v\u00edt\u011bz nejv\u011bt\u0161\u00ed houslov\u00e9 sout\u011b\u017ee Fritze Kreislera ve V\u00eddni 2015!!!\nAnna Paulov\u00e1 laure\u00e1tka Pra\u017esk\u00e9ho Jara 2015 !!!!",
           1451813971
-        ],
-        [
-          "Nab\u00edz\u00edme \u0159adu zna\u010dek, prost\u0159ednictv\u00edm kter\u00fdch d\u00e1v\u00e1me smysl na\u0161emu podnik\u00e1n\u00ed a p\u0159isp\u00edv\u00e1me k vytv\u00e1\u0159en\u00ed p\u0159\u00edjemn\u00fdch pro\u017eitk\u016f na\u0161ich spot\u0159ebitel\u016f po cel\u00e9m sv\u011bt\u011b. V\u00edce o zna\u010dk\u00e1ch Plze\u0148sk\u00e9ho Prazdroje na www.prazdroj.cz/cz/nase-znacky/pribeh-nase-znacky Plze\u0148sk\u00fd Prazdroj's cover photo",
-          1441889266
         ],
         [
           "Od Josefa Grolla a\u017e po Jana Engeho. To je l\u00e1ska a p\u00e9\u010de 16 sl\u00e1dk\u016f Plze\u0148sk\u00e9ho Prazdroje Timeline Photos",
@@ -1353,12 +1209,12 @@
           1423904401
         ],
         [
-          "Takhle vypad\u00e1 podpora kampan\u011b Movember v pod\u00e1n\u00ed na\u0161ich bedn\u00e1\u0159\u016f a star\u0161\u00edho obchodn\u00edho sl\u00e1dka Plze\u0148sk\u00e9ho Prazdroje. Photos from Plze\u0148sk\u00fd Prazdroj's post",
-          1417111121
-        ],
-        [
           "M\u00e1me tu za\u010d\u00e1tek listopadu a s t\u00edm i za\u010d\u00e1tek dal\u0161\u00edho ro\u010dn\u00edku Movember. Letos se do t\u00e9to kampan\u011b zapojili i na\u0161i kolegov\u00e9 z Plze\u0148sk\u00e9ho Prazdroje, aby podpo\u0159ili hnut\u00ed Movember za zm\u011bnu tv\u00e1\u0159e mu\u017esk\u00e9ho zdrav\u00ed. Symbolick\u00fd kn\u00edrek tedy v pr\u016fb\u011bhu cel\u00e9ho m\u011bs\u00edce budeme pozorovat t\u0159eba u star\u0161\u00edho obchodn\u00edho sl\u00e1dka V\u00e1clava Berky a bedn\u00e1\u0159\u016f Plze\u0148sk\u00e9ho Prazdroje.\nA jak jste na tom vy? Taky se p\u0159id\u00e1v\u00e1te k \"movember\u016fm\" a nech\u00e1v\u00e1te si nar\u016fst kn\u00edr? Pochlubte se n\u00e1m! Timeline Photos",
           1415032193
+        ],
+        [
+          "Drahom\u00edra Mand\u00edkov\u00e1, \u010dlenka p\u0159edstavenstva a nejvy\u0161\u0161\u00edho veden\u00ed Plze\u0148sk\u00e9ho Prazdroje, byla nominov\u00e1na v sout\u011b\u017ei o nejodpov\u011bdn\u011bj\u0161\u00ed osobnost byznysu. I V\u00e1\u0161 hlas m\u016f\u017ee rozhodnout. Za Va\u0161i podporu d\u011bkujeme.   Sout\u011b\u017e za\u010d\u00edn\u00e1: Volte nejodpov\u011bdn\u011bj\u0161\u00ed osobnost byznysu Hlasujte o cen\u011b pro lidi, kte\u0159\u00ed nemysl\u00ed jen na sebe a denn\u011b to dokazuj\u00ed.",
+          1412697601
         ],
         [
           "Zam\u011bstnanci Plze\u0148sk\u00e9ho Prazdroje se zapojili do dobrovolnick\u00e9ho dne Engage Day. Pom\u00e1hali v neziskov\u00fdch organizac\u00edch v Praze, Plzni i Moravskoslezsk\u00e9m kraji.\n\nbit.ly/engage_day Timeline Photos",
@@ -1369,35 +1225,33 @@
           1403769789
         ]
       ],
-      "dates_start": 1415013357,
-      "dates_end": 1441318502,
+      "dates_start": 1413268617,
+      "dates_end": 1440040433,
       "likes_avg": 67,
-      "likes_stdev": 108,
-      "comments_avg": 1,
+      "likes_stdev": 113,
+      "comments_avg": 0,
       "comments_stdev": 1,
       "shares_avg": 6,
       "shares_stdev": 7
     },
     {
-      "number": 15,
+      "number": 14,
       "important": [
-        "piva",
-        "piva pilsner",
-        "pilsner",
-        "prvn\u00ed",
-        "pilsner urquel"
+        "co",
+        "odpov\u011b\u010f",
+        "karton piva"
       ],
       "common": [
         "co",
+        "karton piva",
+        "karton piva pilsner",
+        "karton piva pilsner urquel",
         "lajk\u016f",
-        "pilsner",
-        "pilsner urquel",
-        "piva",
-        "piva pilsner",
-        "piva pilsner urquel",
-        "prvn\u00ed",
-        "timelin",
-        "urquel"
+        "odpov\u011b\u010f",
+        "pilsner urquel plechovc timelin photo",
+        "urquel plechovc",
+        "urquel plechovc timelin",
+        "urquel plechovc timelin photo"
       ],
       "messages": [
         [
@@ -1419,6 +1273,10 @@
         [
           "Nestihli jste si s n\u00e1mi zasout\u011b\u017eit v b\u00e1snick\u00e9m kl\u00e1n\u00ed?\nNev\u011b\u0161te hlavu, jako ka\u017edou prvn\u00ed st\u0159edu v m\u011bs\u00edci pro v\u00e1s m\u00e1me i dnes p\u0159ipravenou na\u0161i minisout\u011b\u017e.\nSpo\u010d\u00edtejte, kolik litr\u016f (s p\u0159esnost\u00ed na 2 desetinn\u00e1 m\u00edsta) na\u0161ich n\u00e1poj\u016f je na obr\u00e1zku.\nSout\u011b\u017e\u00edc\u00ed, kter\u00fd jako t\u0159ic\u00e1t\u00fd v po\u0159ad\u00ed spr\u00e1vn\u011b odpov\u00ed, z\u00edsk\u00e1 karton piva Pilsner Urquell v plechovce. Timeline Photos",
           1425452401
+        ],
+        [
+          "Festival sv\u011btla rozsv\u00edt\u00ed p\u0159\u00ed\u0161t\u00ed p\u00e1tek a sobotu Plze\u0148 i pivovar Plze\u0148sk\u00fd Prazdroj. Bude z\u00e1\u0159it des\u00edtka sv\u011bteln\u00fdch instalac\u00ed a projekc\u00ed \u010desk\u00fdch i zahrani\u010dn\u00edch um\u011blc\u016f.V pivovarsk\u00fdch sklepech bude p\u0159ipravena sv\u011bteln\u00e1 instalace s n\u00e1zvem Die Herde. \n \nV\u00edte, kdo je jej\u00edm autorem?\n \nPrvn\u00ed 3 z v\u00e1s, kte\u0159\u00ed spr\u00e1vn\u011b odpov\u00ed na na\u0161i ot\u00e1zku, odm\u011bn\u00edme vstupenkami pro dv\u011b osoby na prohl\u00eddku pivovaru s ochutn\u00e1vkou nefiltrovan\u00e9ho piva Pilsner Urquell! Timeline Photos",
+          1423724401
         ],
         [
           "A m\u00e1me tu dal\u0161\u00ed minisout\u011b\u017e. V\u00edte, ke kter\u00e9mu roku je prvn\u011b p\u00edsemn\u011b zmi\u0148ov\u00e1na v\u00fdroba piva v \u010cech\u00e1ch?\nA) 1295\nB) 993\nC) 1312\nD) 1015\n\nPrvn\u00ed spr\u00e1vn\u00e1 odpov\u011b\u010f z\u00edsk\u00e1 karton piva Pilsner Urquell v plechovce. Timeline Photos",
@@ -1469,103 +1327,187 @@
           1406890803
         ]
       ],
-      "dates_start": 1406664888,
-      "dates_end": 1429502882,
-      "likes_avg": 60,
-      "likes_stdev": 59,
+      "dates_start": 1407225016,
+      "dates_end": 1429569478,
+      "likes_avg": 59,
+      "likes_stdev": 58,
       "comments_avg": 20,
-      "comments_stdev": 34,
+      "comments_stdev": 33,
       "shares_avg": 6,
-      "shares_stdev": 5
+      "shares_stdev": 4
+    },
+    {
+      "number": 15,
+      "important": [
+        "plze\u0148sk\u00fd prazdroj",
+        "timelin",
+        "den",
+        "plze\u0148sk\u00fd",
+        "bude"
+      ],
+      "common": [
+        "bude",
+        "den",
+        "m\u011bsta",
+        "pilsner",
+        "piva",
+        "plze\u0148sk\u00fd",
+        "plze\u0148sk\u00fd prazdroj",
+        "plzn\u011b",
+        "timelin",
+        "timelin photo"
+      ],
+      "messages": [
+        [
+          "Nab\u00edz\u00edme \u0159adu zna\u010dek, prost\u0159ednictv\u00edm kter\u00fdch d\u00e1v\u00e1me smysl na\u0161emu podnik\u00e1n\u00ed a p\u0159isp\u00edv\u00e1me k vytv\u00e1\u0159en\u00ed p\u0159\u00edjemn\u00fdch pro\u017eitk\u016f na\u0161ich spot\u0159ebitel\u016f po cel\u00e9m sv\u011bt\u011b. V\u00edce o zna\u010dk\u00e1ch Plze\u0148sk\u00e9ho Prazdroje na www.prazdroj.cz/cz/nase-znacky/pribeh-nase-znacky Plze\u0148sk\u00fd Prazdroj's cover photo",
+          1441889266
+        ],
+        [
+          "Kultura, pam\u00e1tky, festivaly, z\u00e1bava, netradi\u010dn\u00ed z\u00e1\u017eitky a samoz\u0159ejm\u011b i plze\u0148sk\u00fd pivovar - to v\u0161e letos, v\u00edce jak kdy d\u0159\u00edv, l\u00e1k\u00e1 nav\u0161t\u00edvit plze\u0148sk\u00fd kraj. Plze\u0148 Evropsk\u00e9 hlavn\u00ed m\u011bsto kultury 2015 Plze\u0148sk\u00fd Prazdroj je gener\u00e1ln\u00edm partnerem projektu Plze\u0148 \u2013 Evropsk\u00e9 hlavn\u00ed m\u011bsto kultury 2015",
+          1438675200
+        ],
+        [
+          "Z\u00edt\u0159ej\u0161\u00ed den je na v\u00fdstav\u011b Expo 2015 v Mil\u00e1n\u011b v\u011bnov\u00e1n \u010cesku. Plze\u0148sk\u00fd Prazdroj tedy nem\u016f\u017ee samoz\u0159ejm\u011b chyb\u011bt! Timeline Photos",
+          1431619202
+        ],
+        [
+          "Dejte lajk a tipn\u011bte si, jak\u00e9 bude sk\u00f3re dne\u0161n\u00edho utk\u00e1n\u00ed \u010cesko:\u0160v\u00fdcarsko a vyhrajte karton piva! Za\u010d\u00edn\u00e1me pr\u00e1v\u011b te\u010f a kon\u010d\u00edme p\u0159ed za\u010d\u00e1tkem dne\u0161n\u00edho z\u00e1pasu, tedy v 20:15!\n\nPravidla: bit.ly/pravidla_minisout\u011b\u017e_MS2015 Timeline Photos",
+          1431417600
+        ],
+        [
+          "Z\u00e1silka 2015 t\u0159etinkov\u00fdch lahv\u00ed velikono\u010dn\u00edho po\u017eehnan\u00e9ho piva a tak\u00e9 unik\u00e1tn\u00ed pivn\u00ed poh\u00e1r pro pape\u017ee Franti\u0161ka z d\u00edlny Bo\u0159ka \u0160\u00edpka dorazil dnes do Vatik\u00e1nu Vatik\u00e1n p\u0159ijal tradi\u010dn\u00ed pozdrav z Plzn\u011b \u2013 po\u017eehnan\u00e9 pivo a origin\u00e1ln\u00ed dar Pilsner Urquell \u201eNa\u0161e plze\u0148sk\u00e9 pivo se u\u017e d\u0159\u00edve ve Vatik\u00e1nu nepravideln\u011b objevovalo a my se nyn\u00ed sna\u017e\u00edme na tuto tradici nav\u00e1zat a vybudovat pravidelnou velikono\u010dn\u00ed zvyklost po\u017eehnan\u00e9ho daru z Plzn\u011b.\" Vysv\u011btlil sl\u00e1dek V\u00e1clav Berka.",
+          1427817600
+        ],
+        [
+          "Plze\u0148sk\u00fd Prazdroj jako jedin\u00fd pivovar v cel\u00e9 Evrop\u011b m\u00e1 svoji bedn\u00e1\u0159skou partu! A co v\u0161echno na\u0161i bedn\u00e1\u0159i um\u00ed, se m\u016f\u017eete do\u010d\u00edst zde: Prazdroj m\u00e1 evropsk\u00fd unik\u00e1t. Z\u00e1jem o d\u0159ev\u011bn\u00e9 sudy roste D\u00edlna plze\u0148sk\u00fdch bedn\u00e1\u0159\u016f se nach\u00e1z\u00ed v n\u00edzk\u00e9 budov\u011b pod typickou siluetou pivovarsk\u00e9 vod\u00e1rensk\u00e9 v\u011b\u017ee. Pod\u00edvejte se dovnit\u0159.",
+          1427180715
+        ],
+        [
+          "V \u00fater\u00fd 17.3. se slav\u00ed v Irsku Den svat\u00e9ho Patrika.\nN\u00e1v\u0161t\u011bvnick\u00e9 centrum Plze\u0148sk\u00e9ho Prazdroje ale u\u017e tento p\u00e1tek p\u0159ipravilo pro sv\u00e9 n\u00e1v\u0161t\u011bvn\u00edky jedine\u010dn\u00fd ve\u010der, kter\u00fd se ponese v duchu tradi\u010dn\u00ed irsk\u00e9 hudby a tance, a bude jakousi p\u0159edzv\u011bst\u00ed oslav dne Sv. Patrika. \u017div\u00e1 hudba, na kterou tane\u010dn\u00edci p\u0159edvedou sv\u00e1 dech berouc\u00ed \u010d\u00edsla, v\u00e1s nabije energi\u00ed a d\u00e1 v\u00e1m mo\u017enost se alespo\u0148 na chv\u00edli p\u0159esunout do atmosf\u00e9ry zelen\u00e9ho ostrova.\n\nhttp://www.prazdrojvisit.cz/kalendar-akci/noc-sv-patrika-poitin-a-inspiral-dance-company/ Timeline Photos",
+          1425884400
+        ],
+        [
+          "Chce\u0161 se st\u00e1t sou\u010d\u00e1st\u00ed p\u0159\u00edb\u011bhu piva, kter\u00e9 proslavilo na\u0161i zem po cel\u00e9m sv\u011bt\u011b? Plze\u0148sk\u00fd Prazdroj pr\u00e1v\u011b otev\u00edr\u00e1 letn\u00ed st\u00e1\u017ee pro studenty vysok\u00fdch \u0161kol. V l\u00e9t\u011b chci na st\u00e1\u017e v Prazdroji P\u0159\u00edb\u011bh, zapsan\u00fd zlat\u00fdm p\u00edsmem do historie \u010desk\u00e9ho n\u00e1roda. P\u0159\u00edb\u011bh, kter\u00fd nep\u0159est\u00e1v\u00e1 inspirovat. Bu\u010f jeho sou\u010d\u00e1st\u00ed!",
+          1425560270
+        ],
+        [
+          "Od za\u010d\u00e1tku leto\u0161n\u00edho roku je Plze\u0148sk\u00fd pivovar je\u0161t\u011b o n\u011bco ekologi\u010dt\u011bj\u0161\u00ed. N\u00e1v\u0161t\u011bvn\u00edky ze v\u0161ech kout\u016f sv\u011bta v r\u00e1mci prohl\u00eddkov\u00fdch okruh\u016f Plze\u0148sk\u00e9ho Prazdroje p\u0159epravuje toti\u017e nov\u00fd autobus na stla\u010den\u00fd zemn\u00ed plyn.\n\nhttp://www.prazdroj.cz/cz/media/archiv-tiskovych-zprav/1476-v-plze-sk-m-prazdroji-voz-n-vit-vn-ky-novs-ekologicks-autobus Timeline Photos",
+          1424714402
+        ],
+        [
+          "Sl\u00e1dci Plze\u0148sk\u00e9ho Prazdroje uva\u0159ili slavnostn\u00ed velikono\u010dn\u00ed v\u00e1rku le\u017e\u00e1ku Pilsner Urquell. Surovin\u00e1m na\u0161eho velikono\u010dn\u00edho piva po\u017eehnal plze\u0148sk\u00fd Monsignore Franti\u0161ek Radkovsk\u00fd, biskup plze\u0148sk\u00fd. 2015 lahv\u00ed velikono\u010dn\u00ed v\u00e1rky zlat\u00e9ho le\u017e\u00e1ku bude po p\u011bti t\u00fddnech zr\u00e1n\u00ed a le\u017een\u00ed odesl\u00e1no do Vatik\u00e1nu jako dar m\u011bsta Plzn\u011b a Plze\u0148an\u016f k oslav\u00e1m velikono\u010dn\u00edch sv\u00e1tk\u016f.  Krom\u011b symbolick\u00fdch 2015 lahv\u00ed zlat\u00e9ho le\u017e\u00e1ku poputuje do Vatik\u00e1nu tak\u00e9 unik\u00e1tn\u00ed dar z d\u00edlny \u010desk\u00e9ho designera Bo\u0159ka \u0160\u00edpka. \n\nhttp://www.prazdroj.cz/cz/media/archiv-tiskovych-zprav/1472-plze-sk-biskup-po-ehnal-u-pop-t-velikono-n-v-rce-pilsner-urquell Timeline Photos",
+          1424451602
+        ],
+        [
+          "Podle student\u016f pat\u0159\u00ed Plze\u0148sk\u00fd Prazdroj mezi t\u0159i TOP zam\u011bstnavatele roku 2014/2015 v kategorii spot\u0159ebitelsk\u00fd pr\u016fmysl. Timeline Photos",
+          1423158234
+        ],
+        [
+          "Pivovar Velk\u00e9 Popovice nav\u0161t\u00edvilo v jubilejn\u00edm roce p\u0159es 91 tis\u00edc lid\u00ed.\nLo\u0148sk\u00fd rok se nesl ve znamen\u00ed 140. v\u00fdro\u010d\u00ed zalo\u017een\u00ed pivovaru. Letos se m\u016f\u017eete u\u017e v \u00fanoru t\u011b\u0161it na vep\u0159ov\u00e9 hody, v dubnu se chyst\u00e1 turistick\u00fd pochod nau\u010dnou stezkou barona Ringhoffera s prohl\u00eddkou pivovaru. Nebudou chyb\u011bt ani tradi\u010dn\u00ed \u010dervnov\u00e9 pivn\u00ed slavnosti Den Kozla v are\u00e1lu pivovaru, z\u00e1\u0159ijov\u00fd Klob\u00e1skofest a adventn\u00ed Kozl\u00ed nad\u00edlka. \nUr\u010dit\u011b p\u0159ije\u010fte, t\u011b\u0161\u00edme se my i kozel Olda! :)\n\nhttp://www.prazdroj.cz/cz/media/archiv-tiskovych-zprav/1459-pivovar-velk-popovice-navit-vilo-v-jubilejn-m-roce-pees-91-tis-c-lid Timeline Photos",
+          1421995571
+        ],
+        [
+          "Plze\u0148sk\u00fd Prazdroj vloni p\u0159il\u00e1kal do Plzn\u011b p\u0159es 600 000 lid\u00ed! \nV \"Evropsk\u00e9m kulturn\u00edm\" roce bude n\u00e1v\u0161t\u011bvn\u00edk\u016f a akc\u00ed je\u0161t\u011b v\u00edc! U\u017e v druh\u00e9 polovin\u011b \u00fanora se m\u016f\u017eete v r\u00e1mci Festivalu sv\u011btla t\u011b\u0161it na sv\u011bteln\u00e9 instalace, v l\u00e9t\u011b na koncerty a festival L\u00e9to v Prazdroji, v \u0159\u00edjnu pak na oslavu v\u00fdro\u010d\u00ed uva\u0159en\u00ed prvn\u00ed v\u00e1rky le\u017e\u00e1ku Pilsner Urquell \u2013 Pilsner Fest, a v neposledn\u00ed \u0159ad\u011b na prvom\u00e1jov\u00e9 a podzimn\u00ed vyj\u00ed\u017e\u010fky motorek \u010di s\u00e9rie koncert\u016f Lubom\u00edra Brabce s jeho hosty. \n\nhttp://www.prazdroj.cz/cz/media/archiv-tiskovych-zprav/1457-prazdroj-loni-peil-kal-do-plzn-pees-600-tis-c-lid-v-evropsk-m-kulturn-m-roce-jich-bude-jeit-v-c Timeline Photos",
+          1421910194
+        ],
+        [
+          "Pivovar Radegast vloni nav\u0161t\u00edvilo p\u0159es 35 tis\u00edc lid\u00ed. Letos se n\u00e1v\u0161t\u011bvn\u00edci m\u016f\u017eou t\u011b\u0161it na oslavy 45. v\u00fdro\u010d\u00ed prvn\u00ed v\u00e1rky, v kv\u011btnu pak na akce spojen\u00e9 s mistrovstv\u00edm sv\u011bta v ledn\u00edm hokeji a 5.9. na ji\u017e tradi\u010dn\u00ed Radegast Den.\nP\u0159ij\u010fte n\u00e1s nav\u0161t\u00edvit i vy a dozv\u00edte se, jak se va\u0159\u00ed Radegast!\n\nhttp://www.prazdroj.cz/cz/media/archiv-tiskovych-zprav/1458-pivovar-radegast-loni-navit-vilo-pees-35-tis-c-lid-letos-peipomene-n-vit-vn-k-m-45-vsro-prvn-v-rky Photos from Plze\u0148sk\u00fd Prazdroj's post",
+          1421825889
+        ],
+        [
+          "Tak takhle v sobotu vypadalo zah\u00e1jen\u00ed Plzn\u011b Evropsk\u00e9ho hlavn\u00edho m\u011bsta kultury pro rok 2015. Atmosf\u00e9ra byla opravdu slavnostn\u00ed :) Timeline Photos",
+          1421691402
+        ],
+        [
+          "Rok 2015 bude u n\u00e1s v Plzni rokem kultury a za\u010dne to opravdu brzy. U\u017e v sobotu 17. ledna se uskute\u010dn\u00ed Slavnosti otev\u0159en\u00ed m\u011bsta Plze\u0148 2015 - Evropsk\u00e9ho hlavn\u00edho m\u011bsta kultury. A proto\u017ee je Plze\u0148sk\u00fd Prazdroj gener\u00e1ln\u00ed partnerem tohoto projektu, r\u00e1di bychom v\u00e1s v tento slavnostn\u00ed den p\u0159iv\u00edtali ve slavnostn\u00edm pr\u016fvodu m\u011bstem, kter\u00fd je takov\u00fdm prvn\u00edm vykro\u010den\u00edm do roku pln\u00e9ho p\u0159ekr\u00e1sn\u00fdch kulturn\u00edch z\u00e1\u017eitk\u016f. Timeline Photos",
+          1420180955
+        ],
+        [
+          "V \u010cesku byly vydra\u017eeny nejdra\u017e\u0161\u00ed pivn\u00ed l\u00e1hve a jejich dobro\u010dinn\u00e1 aukce pro Centrum Paraple vynesla p\u0159es 700 000 korun. Leto\u0161n\u00ed des\u00edtka designov\u00fdch lahv\u00ed se z\u00e1rove\u0148 za\u0159adila mezi nejdra\u017e\u0161\u00ed pivn\u00ed l\u00e1hve v\u016fbec. Ka\u017ed\u00e1 z nich byla toti\u017e vydra\u017eena za pr\u016fm\u011brnou\u010d\u00e1stku p\u0159es 72 000 K\u010d.\n\nbit.ly/aukce_sek Timeline Photos",
+          1418321613
+        ],
+        [
+          "Plze\u0148sk\u00fd Prazdroj m\u00e1 jedinou bedn\u00e1\u0159skou d\u00edlnu v Evrop\u011b, kter\u00e1 vyr\u00e1b\u00ed pivn\u00ed sudy. Pod\u00edvejte se s n\u00e1mi, jak vypad\u00e1 zabed\u0148ov\u00e1n\u00ed sudu a co takov\u00e1 bedn\u00e1\u0159sk\u00e1 pr\u00e1ce obn\u00e1\u0161\u00ed.\n\nhttps://www.youtube.com/watch?v=cwBBPvUtOSM Timeline Photos",
+          1417863610
+        ],
+        [
+          "Takhle vypad\u00e1 podpora kampan\u011b Movember v pod\u00e1n\u00ed na\u0161ich bedn\u00e1\u0159\u016f a star\u0161\u00edho obchodn\u00edho sl\u00e1dka Plze\u0148sk\u00e9ho Prazdroje. Photos from Plze\u0148sk\u00fd Prazdroj's post",
+          1417111121
+        ],
+        [
+          "\u010casopis \"Za branou\" v sout\u011b\u017ei Czech Top 100 p\u0159esv\u011bd\u010dil odborn\u00edky, \u017ee nejkvalitn\u011bj\u0161\u00ed zam\u011bstnaneck\u00fd \u010dasopis v \u010cesk\u00e9 republice m\u00e1 Plze\u0148sk\u00fd Prazdroj. O ocen\u011bn\u00ed p\u0159ihl\u00e1\u0161en\u00fdch firemn\u00edch \u010dasopis\u016f rozhodovala porota slo\u017een\u00e1 z p\u0159edn\u00edch \u010desk\u00fdch auditor\u016f, analytik\u016f, grafik\u016f, fotograf\u016f, ale i odborn\u00edk\u016f na komunikaci. Timeline Photos",
+          1416333041
+        ],
+        [
+          "V\u010dera, pr\u00e1v\u011b na svat\u00e9ho Martina, tedy 172 let od prvn\u00edho nara\u017een\u00ed piva Pilsner Urquell na\u0161i bedn\u00e1\u0159i zabednili speci\u00e1ln\u00ed Sud P\u011btat\u0159ic\u00e1tn\u00edk\u016f, kter\u00fd spole\u010dn\u011b se sl\u00e1dky v\u011bnuj\u00ed v souvislosti s v\u00fdro\u010d\u00edm 100 let od za\u010d\u00e1tku Prvn\u00ed sv\u011btov\u00e9 v\u00e1lky pam\u00e1tce state\u010dn\u00e9ho 35. p\u011b\u0161\u00edho pluku slo\u017een\u00e9ho z mlad\u00fdch mu\u017e\u016f m\u011bsta Plzn\u011b. Timeline Photos",
+          1415808906
+        ],
+        [
+          "Mysleli jste si, \u017ee pivo je hlavn\u011b mu\u017eskou z\u00e1le\u017eitost\u00ed? Tak to ur\u010dit\u011b ne. Miss Universe Gabriela Isler a Miss USA Nia Sanchez dnes nav\u0161t\u00edvily v r\u00e1mci sv\u00e9ho pobytu v \u010cesk\u00e9 republice Plze\u0148sk\u00fd Prazdroj a vychutnaly si s na\u0161\u00edm sl\u00e1dkem pivo p\u0159\u00edmo v pivovarsk\u00fdch sklep\u00edch. Timeline Photos",
+          1415370967
+        ],
+        [
+          "Plze\u0148sk\u00fd Prazdroj op\u011bt bodoval, tentokr\u00e1t ji\u017e v 16. ro\u010dn\u00edku presti\u017en\u00ed sout\u011b\u017ee Rhodos - cena za image, kde si odnesl nejvy\u0161\u0161\u00ed uzn\u00e1n\u00ed v kategorii \u201eCena ve\u0159ejnosti\u201c a potvrdil tak sv\u00e9 m\u00edsto mezi \u010deskou firemn\u00ed \u0161pi\u010dkou. Prazdroj nav\u00e1zal na lo\u0148sk\u00e9 v\u00edt\u011bzstv\u00ed v kategorii \u201eV\u00fdrobci a dodavatel\u00e9 n\u00e1poj\u016f\u201c. \n\nbit.ly/cena_image Timeline Photos",
+          1413464108
+        ],
+        [
+          "Kdo by aspo\u0148 jednou v \u017eivot\u011b nejel na lanovce...? U\u017e jste ale potkali na vedlej\u0161\u00ed seda\u010dce n\u011bco takov\u00e9ho?\nNa lanov\u00e9 dr\u00e1ze Pekelsk\u00fd Vrch v ly\u017ea\u0159sk\u00e9m are\u00e1lu Mlad\u00e9 Buky se minul\u00fd \u010dtvrtek svezlo celkem 230 pades\u00e1tilitrov\u00fdch sud\u016f pln\u00fdch piva Gambrinus Nepasterizovan\u00fd o celkov\u00e9 v\u00e1ze 14,5 tuny. Tomu tedy \u0159\u00edk\u00e1me p\u0159edsez\u00f3nn\u00ed z\u00e1t\u011b\u017eov\u00fd test ;) Photos from Plze\u0148sk\u00fd Prazdroj's post",
+          1412342524
+        ],
+        [
+          "Plze\u0148sk\u00fd Prazdroj se stal gener\u00e1ln\u00edm partnerem Plzn\u011b \u2013 evropsk\u00e9ho hlavn\u00edho m\u011bsta kultury 2015. Jako gener\u00e1ln\u00ed partner se zam\u011b\u0159\u00ed pr\u00e1v\u011b na projekty, kter\u00e9 podpo\u0159\u00ed komunitn\u00ed a kulturn\u00ed \u017eivot v Plzni, p\u0159it\u00e1hnou turisty a pos\u00edl\u00ed ekonomiku regionu.\nbit.ly/PP_ehmk Timeline Photos",
+          1412064049
+        ],
+        [
+          "Nast\u00e1v\u00e1 \u010das oslav piva,\ndes\u00edtka,le\u017e\u00e1k,speci\u00e1l.\nKa\u017edoro\u010dn\u011b-odjak\u017eiva,\nnebudem st\u00e1t opod\u00e1l.\n\nHosp\u016fdky a pivn\u00ed bary,\ndve\u0159e host\u016fm otev\u0159ou,\nrozjedem to od podlahy,\nnastane tak velk\u00e1 \u0161ou.\n\nPiva \u010desk\u00e9ho den i noc,\nbudeme slavit,budeme p\u00edt.\nI tan\u010dit m\u016f\u017eeme p\u0159es p\u016flnoc,\nnejd\u016fle\u017eit\u011bj\u0161\u00ed je p\u0159ece-\u017d\u00cdT!!!",
+          1411736333
+        ],
+        [
+          "Plze\u0148sk\u00fd Prazdroj z\u00edskal Cenu N\u00e1rodn\u00edho mistra v presti\u017en\u00ed sout\u011b\u017ei European Business Awards. \u010ceskou republiku bude reprezentovat s projektem Respektuj 18 v dal\u0161\u00edm kole sout\u011b\u017ee, kde se utk\u00e1 s ostatn\u00edmi evropsk\u00fdmi zem\u011bmi. Usilovat bude o ocen\u011bn\u00ed v oblasti \u017divotn\u00ed prost\u0159ed\u00ed a firemn\u00ed udr\u017eitelnost. \nwww.respektuj18.cz Timeline Photos",
+          1410361970
+        ],
+        [
+          "Pilsner Urquell bodoval a\u017e v dalek\u00e9 Ji\u017en\u00ed Koreji! Se sv\u00fdm le\u017e\u00e1kem Plze\u0148sk\u00fd Prazdroj toti\u017e zv\u00edt\u011bzil v televizn\u00ed sout\u011b\u017ei Complain Zero a usp\u011bl tak p\u0159ed zna\u010dkami jako Heineken, Stella, San Miquel, Kirin, Samuel Adams a p\u011bti dal\u0161\u00edmi pivy dom\u00e1c\u00ed v\u00fdroby.\n\nbit.ly/soutez_korea Timeline Photos",
+          1410189504
+        ],
+        [
+          "Plze\u0148sk\u00fd Prazdroj je pr\u00e1vem py\u0161n\u00fd na sv\u00e9 bedn\u00e1\u0159e. Tentokr\u00e1t p\u0159ed nimi stoj\u00ed velk\u00e1 v\u00fdzva! Vyrob\u00ed speci\u00e1ln\u00ed Sud P\u011btat\u0159ic\u00e1tn\u00edk\u016f, kter\u00fd spole\u010dn\u011b se sl\u00e1dky v\u011bnuj\u00ed v souvislosti s v\u00fdro\u010d\u00edm 100 let od za\u010d\u00e1tku Prvn\u00ed sv\u011btov\u00e9 v\u00e1lky pam\u00e1tce state\u010dn\u00e9ho 35. p\u011b\u0161\u00edho pluku slo\u017een\u00e9ho z mlad\u00fdch mu\u017e\u016f m\u011bsta Plzn\u011b.\n\nbit.ly/35_pesi_pluk Timeline Photos",
+          1406134516
+        ],
+        [
+          "Jezd\u00edte do pr\u00e1ce tramvaj\u00ed? Nep\u0159ehl\u00e9dn\u011bte pozv\u00e1nku na DEN RESPEKTUJ 18! V\u00edce na www.respektuj18.cz Timeline Photos",
+          1403282461
+        ]
+      ],
+      "dates_start": 1411597965,
+      "dates_end": 1429092515,
+      "likes_avg": 56,
+      "likes_stdev": 58,
+      "comments_avg": 10,
+      "comments_stdev": 53,
+      "shares_avg": 6,
+      "shares_stdev": 6
     },
     {
       "number": 16,
       "important": [
-        "prazdroji",
-        "plze\u0148sk\u00e9m prazdroji",
-        "dozv\u00edt",
-        "plze\u0148sk\u00e9m",
-        "v\u00edce"
+        "plze\u0148sk\u00fd prazdroj",
+        "timelin",
+        "plze\u0148sk\u00fd",
+        "kter\u00e9",
+        "programu"
       ],
       "common": [
-        "dozv\u00edt",
-        "pivo",
-        "plze\u0148sk\u00e9m",
-        "plze\u0148sk\u00e9m prazdroji",
-        "prazdroj",
-        "prazdroji",
-        "rozvoji plze\u0148sk\u00e9m prazdroji",
-        "rozvoji plze\u0148sk\u00e9m prazdroji rok",
-        "timelin",
-        "v\u00edce"
-      ],
-      "messages": [
-        [
-          "Skv\u011bl\u00e1 p\u0159\u00edle\u017eitost pro v\u0161echny V\u0160 studenty! Z\u00edskejte p\u0159es l\u00e9to jedine\u010dnou pracovn\u00ed zku\u0161enost v Plze\u0148sk\u00e9m Prazdroji. Kam na letn\u00ed brig\u00e1du? Do Prazdroje! V\u00edce informac\u00ed se dozv\u00edte zde.",
-          1432291132
-        ],
-        [
-          "U\u017e jen do konce b\u0159ezna m\u016f\u017eou studenti vysok\u00fdch \u0161kol zas\u00edlat sv\u00e9 p\u0159ihl\u00e1\u0161ky na st\u00e1\u017e v Plze\u0148sk\u00e9m Prazdroji! Z\u00e1jem je letos opravdu velik\u00fd, tak nev\u00e1hejte a p\u0159ihlaste se!\n\nhttp://www.prazdroj.cz/cz/o-nas/prilezitost-pro-studenty Timeline Photos",
-          1427352106
-        ],
-        [
-          "St\u00e1\u017e ve spole\u010dnosti jakou je Plze\u0148sk\u00fd Prazdroj m\u016f\u017ee b\u00fdt prvn\u00edm krokem k \u00fasp\u011b\u0161n\u00e9 kari\u00e9\u0159e.\nP\u0159esn\u011b takovou zku\u0161enost m\u00e1 jeden z b\u00fdval\u00fdch st\u00e1\u017eist\u016f a sou\u010dasn\u00fdch koleg\u016f - Michal \u0160koda, kter\u00fd nyn\u00ed pracuje v Plze\u0148sk\u00e9m Prazdroji na pozici specialisty trade marketingu a je zodpov\u011bdn\u00fd za realizaci promo akc\u00ed v oblasti pohostinstv\u00ed i maloobchodu.\n\nhttp://www.prazdroj.cz/cz/o-nas/prilezitost-pro-studenty Timeline Photos",
-          1426788001
-        ],
-        [
-          "Jste studentem 4. nebo 5. ro\u010dn\u00edku vysok\u00e9 \u0161koly a sh\u00e1n\u00edte letn\u00ed st\u00e1\u017e?\nNyn\u00ed m\u00e1te mo\u017enost z\u00edskat praxi u n\u00e1s v Plze\u0148sk\u00e9m Prazdroji. O unik\u00e1tn\u00edch letn\u00edch placen\u00fdch st\u00e1\u017e\u00edch se v\u00edce dozv\u00edte zde http://www.prazdroj.cz/cz/o-nas/prilezitost-pro-studenty. \nP\u0159ihl\u00e1\u0161ky m\u016f\u017eete pos\u00edlat do konce b\u0159ezna 2015! Timeline Photos",
-          1426068678
-        ],
-        [
-          "Va\u0159\u00edme pivo z m\u00edstn\u00edch surovin a na\u0161ich dodavatel\u016f si v\u00e1\u017e\u00edme Plze\u0148sk\u00fd Prazdroj je na dom\u00e1c\u00edm trhu 2. nejv\u011bt\u0161\u00edm odb\u011bratelem sladovnick\u00e9ho je\u010dmene a nejv\u011bt\u0161\u00edm odb\u011bratelem odr\u016fd je\u010dmene schv\u00e1len\u00fdch pro v\u00fdrobky s chr\u00e1n\u011bn\u00fdm zem\u011bpisn\u00fdm ozna\u010den\u00edm \u010cesk\u00e9 pivo. Tyto odr\u016fdy tvo\u0159ily 90 % odebran\u00e9ho je\u010dmene. V\u00edce o tom jak spolupracujeme s na\u0161imi dodavateli, se dozv\u00edte v nov\u00e9 Zpr\u00e1v\u011b o trvale udr\u017eiteln\u00e9m rozvoji v Plze\u0148sk\u00e9m Prazdroji pro rok 2014. \nbit.ly/spol_odpov Timeline Photos",
-          1418886007
-        ],
-        [
-          "V Plze\u0148sk\u00e9m Prazdroji usilujeme o \u010dist\u00fd sv\u011bt - v roce 2013 jsme v na\u0161ich provozech vyprodukovali celkem 161.369 tun odpad\u016f, z toho jsme dok\u00e1zali 98,97 % druhotn\u011b vyu\u017e\u00edt. Db\u00e1me na to, aby se odpad d\u016fsledn\u011b t\u0159\u00eddil ve v\u0161ech provozech Plze\u0148sk\u00e9ho Prazdroje, tedy jak ve v\u00fdrob\u011b, tak v administrativn\u00edch a obchodn\u00edch prostorech. V\u00edce se dozv\u00edte v nov\u00e9 Zpr\u00e1v\u011b o trvale udr\u017eiteln\u00e9m rozvoji v Plze\u0148sk\u00e9m Prazdroji pro rok 2014. bit.ly/spol_odpov Timeline Photos",
-          1418752806
-        ],
-        [
-          "V\u00edte, \u017ee voda tvo\u0159\u00ed v\u00edce ne\u017e 90 % piva? Bez kvalitn\u00ed vody by nebylo ani kvalitn\u00ed pivo, proto usilujeme o zaji\u0161t\u011bn\u00ed st\u00e1l\u00e9ho p\u0159\u00edstupu ke zdravotn\u011b nez\u00e1vadn\u00e9 vod\u011b a sni\u017eujeme spot\u0159ebu vody ve v\u00fdrob\u011b. V pivovaru Radegast jsme v uplynul\u00e9m roce uva\u0159ili pivo se spot\u0159ebou 2,82 hl vody na 1 hl piva, \u010d\u00edm\u017e se dostal na sv\u011btovou \u0161pi\u010dku ve spot\u0159eb\u011b vody. Bylo to hlavn\u011b d\u00edky projekt\u016fm, kter\u00e9 vze\u0161ly z iniciativy na\u0161ich zam\u011bstnanc\u016f. V\u00edce se dozv\u00edte v nov\u00e9 Zpr\u00e1v\u011b o trvale udr\u017eiteln\u00e9m rozvoji v Plze\u0148sk\u00e9m Prazdroji pro rok 2014. \n\nhttp://www.prazdroj.cz/data/web/spolecenska-odpovednost-2014/snizujeme-spotrebu-vody/ Timeline Photos",
-          1417075210
-        ],
-        [
-          "Chceme, aby se pivo stalo p\u0159irozenou volbou pro um\u00edrn\u011bnou a zodpov\u011bdnou konzumaci. Pivo pat\u0159\u00ed v \u010cesk\u00e9 republice k nejobl\u00edben\u011bj\u0161\u00edm n\u00e1poj\u016fm zp\u0159\u00edjem\u0148uj\u00edc\u00edm \u017eivot naprost\u00e9 v\u011bt\u0161in\u011b lid\u00ed, kte\u0159\u00ed jej ale pij\u00ed zodpov\u011bdn\u011b. Ve\u0161ker\u00e1 na\u0161e reklama se proto vyh\u00fdb\u00e1 prvk\u016fm, kter\u00e9 by mohly oslovovat nezletil\u00e9 spot\u0159ebitele. Herc\u016fm v reklam\u00e1ch na na\u0161e produkty mus\u00ed b\u00fdt minim\u00e1ln\u011b 25 let. Pro\u010d? V\u00edce se dozv\u00edte v nov\u00e9 Zpr\u00e1v\u011b o trvale udr\u017eiteln\u00e9m rozvoji v Plze\u0148sk\u00e9m Prazdroji pro rok 2014.\n\nhttp://www.prazdroj.cz/data/web/spolecenska-odpovednost-2014/podporujeme-odpovednou-konzumaci-alkoholu/ Timeline Photos",
-          1416988810
-        ],
-        [
-          "Kde se toul\u00e1te o letn\u00edch v\u00edkendech? Jak\u00e1 zaj\u00edmav\u00e1 m\u00edsta nav\u0161t\u011bvujete? Nechv\u00e1v\u00e1te se inspirovat t\u0159eba Toulavou kamerou? T\u00fdm tohoto po\u0159adu n\u00e1s nav\u0161t\u00edvil v Plze\u0148sk\u00e9m Prazdroji. T\u011b\u0161\u00edme se i na v\u00e1s! Video \u2014 Toulav\u00e1 kamera \u2014 \u010cesk\u00e1 televize Po\u0159ad v \u010cesk\u00e9 televizi",
-          1406567972
-        ]
-      ],
-      "dates_start": 1413924433,
-      "dates_end": 1428469060,
-      "likes_avg": 21,
-      "likes_stdev": 10,
-      "comments_avg": 0,
-      "comments_stdev": 0,
-      "shares_avg": 2,
-      "shares_stdev": 1
-    },
-    {
-      "number": 17,
-      "important": [
-        "lidem",
+        "kter\u00e9",
         "plze\u0148sk\u00fd",
-        "timelin",
-        "prazdroj lidem",
-        "prazdroj"
-      ],
-      "common": [
-        "lidem",
-        "plze\u0148sk\u00fd",
-        "prazdroj",
-        "prazdroj lidem",
+        "plze\u0148sk\u00fd prazdroj",
         "programu",
         "programu prazdroj",
         "programu prazdroj lidem",
         "projekti",
         "region",
-        "timelin"
+        "timelin",
+        "timelin photo"
       ],
       "messages": [
         [
@@ -1619,24 +1561,92 @@
       "shares_stdev": 1
     },
     {
-      "number": 18,
+      "number": 17,
       "important": [
-        "projekt",
-        "timelin",
-        "plr",
-        "sms"
+        "pivo",
+        "v\u00edce",
+        "dozv\u00edt",
+        "rok"
       ],
       "common": [
-        "plr",
-        "plr tel",
-        "projekt",
-        "sms",
-        "sms tvaru",
-        "tel",
-        "timelin",
-        "tvaru",
-        "tvaru plr",
-        "tvaru plr tel"
+        "dozv\u00edt",
+        "dozv\u00edt nov\u00e9 zpr\u00e1v\u011b trvale udr\u017eiteln\u00e9m",
+        "nov\u00e9 zpr\u00e1v\u011b trvale",
+        "nov\u00e9 zpr\u00e1v\u011b trvale udr\u017eiteln\u00e9m",
+        "pivo",
+        "rok",
+        "rozvoji",
+        "vodi",
+        "v\u00edce",
+        "zpr\u00e1v\u011b trvale udr\u017eiteln\u00e9m rozvoji"
+      ],
+      "messages": [
+        [
+          "Skv\u011bl\u00e1 p\u0159\u00edle\u017eitost pro v\u0161echny V\u0160 studenty! Z\u00edskejte p\u0159es l\u00e9to jedine\u010dnou pracovn\u00ed zku\u0161enost v Plze\u0148sk\u00e9m Prazdroji. Kam na letn\u00ed brig\u00e1du? Do Prazdroje! V\u00edce informac\u00ed se dozv\u00edte zde.",
+          1432291132
+        ],
+        [
+          "U\u017e jen do konce b\u0159ezna m\u016f\u017eou studenti vysok\u00fdch \u0161kol zas\u00edlat sv\u00e9 p\u0159ihl\u00e1\u0161ky na st\u00e1\u017e v Plze\u0148sk\u00e9m Prazdroji! Z\u00e1jem je letos opravdu velik\u00fd, tak nev\u00e1hejte a p\u0159ihlaste se!\n\nhttp://www.prazdroj.cz/cz/o-nas/prilezitost-pro-studenty Timeline Photos",
+          1427352106
+        ],
+        [
+          "St\u00e1\u017e ve spole\u010dnosti jakou je Plze\u0148sk\u00fd Prazdroj m\u016f\u017ee b\u00fdt prvn\u00edm krokem k \u00fasp\u011b\u0161n\u00e9 kari\u00e9\u0159e.\nP\u0159esn\u011b takovou zku\u0161enost m\u00e1 jeden z b\u00fdval\u00fdch st\u00e1\u017eist\u016f a sou\u010dasn\u00fdch koleg\u016f - Michal \u0160koda, kter\u00fd nyn\u00ed pracuje v Plze\u0148sk\u00e9m Prazdroji na pozici specialisty trade marketingu a je zodpov\u011bdn\u00fd za realizaci promo akc\u00ed v oblasti pohostinstv\u00ed i maloobchodu.\n\nhttp://www.prazdroj.cz/cz/o-nas/prilezitost-pro-studenty Timeline Photos",
+          1426788001
+        ],
+        [
+          "Jste studentem 4. nebo 5. ro\u010dn\u00edku vysok\u00e9 \u0161koly a sh\u00e1n\u00edte letn\u00ed st\u00e1\u017e?\nNyn\u00ed m\u00e1te mo\u017enost z\u00edskat praxi u n\u00e1s v Plze\u0148sk\u00e9m Prazdroji. O unik\u00e1tn\u00edch letn\u00edch placen\u00fdch st\u00e1\u017e\u00edch se v\u00edce dozv\u00edte zde http://www.prazdroj.cz/cz/o-nas/prilezitost-pro-studenty. \nP\u0159ihl\u00e1\u0161ky m\u016f\u017eete pos\u00edlat do konce b\u0159ezna 2015! Timeline Photos",
+          1426068678
+        ],
+        [
+          "Va\u0159\u00edme pivo z m\u00edstn\u00edch surovin a na\u0161ich dodavatel\u016f si v\u00e1\u017e\u00edme Plze\u0148sk\u00fd Prazdroj je na dom\u00e1c\u00edm trhu 2. nejv\u011bt\u0161\u00edm odb\u011bratelem sladovnick\u00e9ho je\u010dmene a nejv\u011bt\u0161\u00edm odb\u011bratelem odr\u016fd je\u010dmene schv\u00e1len\u00fdch pro v\u00fdrobky s chr\u00e1n\u011bn\u00fdm zem\u011bpisn\u00fdm ozna\u010den\u00edm \u010cesk\u00e9 pivo. Tyto odr\u016fdy tvo\u0159ily 90 % odebran\u00e9ho je\u010dmene. V\u00edce o tom jak spolupracujeme s na\u0161imi dodavateli, se dozv\u00edte v nov\u00e9 Zpr\u00e1v\u011b o trvale udr\u017eiteln\u00e9m rozvoji v Plze\u0148sk\u00e9m Prazdroji pro rok 2014. \nbit.ly/spol_odpov Timeline Photos",
+          1418886007
+        ],
+        [
+          "V Plze\u0148sk\u00e9m Prazdroji usilujeme o \u010dist\u00fd sv\u011bt - v roce 2013 jsme v na\u0161ich provozech vyprodukovali celkem 161.369 tun odpad\u016f, z toho jsme dok\u00e1zali 98,97 % druhotn\u011b vyu\u017e\u00edt. Db\u00e1me na to, aby se odpad d\u016fsledn\u011b t\u0159\u00eddil ve v\u0161ech provozech Plze\u0148sk\u00e9ho Prazdroje, tedy jak ve v\u00fdrob\u011b, tak v administrativn\u00edch a obchodn\u00edch prostorech. V\u00edce se dozv\u00edte v nov\u00e9 Zpr\u00e1v\u011b o trvale udr\u017eiteln\u00e9m rozvoji v Plze\u0148sk\u00e9m Prazdroji pro rok 2014. bit.ly/spol_odpov Timeline Photos",
+          1418752806
+        ],
+        [
+          "V\u00edte, \u017ee voda tvo\u0159\u00ed v\u00edce ne\u017e 90 % piva? Bez kvalitn\u00ed vody by nebylo ani kvalitn\u00ed pivo, proto usilujeme o zaji\u0161t\u011bn\u00ed st\u00e1l\u00e9ho p\u0159\u00edstupu ke zdravotn\u011b nez\u00e1vadn\u00e9 vod\u011b a sni\u017eujeme spot\u0159ebu vody ve v\u00fdrob\u011b. V pivovaru Radegast jsme v uplynul\u00e9m roce uva\u0159ili pivo se spot\u0159ebou 2,82 hl vody na 1 hl piva, \u010d\u00edm\u017e se dostal na sv\u011btovou \u0161pi\u010dku ve spot\u0159eb\u011b vody. Bylo to hlavn\u011b d\u00edky projekt\u016fm, kter\u00e9 vze\u0161ly z iniciativy na\u0161ich zam\u011bstnanc\u016f. V\u00edce se dozv\u00edte v nov\u00e9 Zpr\u00e1v\u011b o trvale udr\u017eiteln\u00e9m rozvoji v Plze\u0148sk\u00e9m Prazdroji pro rok 2014. \n\nhttp://www.prazdroj.cz/data/web/spolecenska-odpovednost-2014/snizujeme-spotrebu-vody/ Timeline Photos",
+          1417075210
+        ],
+        [
+          "Chceme, aby se pivo stalo p\u0159irozenou volbou pro um\u00edrn\u011bnou a zodpov\u011bdnou konzumaci. Pivo pat\u0159\u00ed v \u010cesk\u00e9 republice k nejobl\u00edben\u011bj\u0161\u00edm n\u00e1poj\u016fm zp\u0159\u00edjem\u0148uj\u00edc\u00edm \u017eivot naprost\u00e9 v\u011bt\u0161in\u011b lid\u00ed, kte\u0159\u00ed jej ale pij\u00ed zodpov\u011bdn\u011b. Ve\u0161ker\u00e1 na\u0161e reklama se proto vyh\u00fdb\u00e1 prvk\u016fm, kter\u00e9 by mohly oslovovat nezletil\u00e9 spot\u0159ebitele. Herc\u016fm v reklam\u00e1ch na na\u0161e produkty mus\u00ed b\u00fdt minim\u00e1ln\u011b 25 let. Pro\u010d? V\u00edce se dozv\u00edte v nov\u00e9 Zpr\u00e1v\u011b o trvale udr\u017eiteln\u00e9m rozvoji v Plze\u0148sk\u00e9m Prazdroji pro rok 2014.\n\nhttp://www.prazdroj.cz/data/web/spolecenska-odpovednost-2014/podporujeme-odpovednou-konzumaci-alkoholu/ Timeline Photos",
+          1416988810
+        ],
+        [
+          "Kde se toul\u00e1te o letn\u00edch v\u00edkendech? Jak\u00e1 zaj\u00edmav\u00e1 m\u00edsta nav\u0161t\u011bvujete? Nechv\u00e1v\u00e1te se inspirovat t\u0159eba Toulavou kamerou? T\u00fdm tohoto po\u0159adu n\u00e1s nav\u0161t\u00edvil v Plze\u0148sk\u00e9m Prazdroji. T\u011b\u0161\u00edme se i na v\u00e1s! Video \u2014 Toulav\u00e1 kamera \u2014 \u010cesk\u00e1 televize Po\u0159ad v \u010cesk\u00e9 televizi",
+          1406567972
+        ]
+      ],
+      "dates_start": 1413924433,
+      "dates_end": 1428469060,
+      "likes_avg": 21,
+      "likes_stdev": 10,
+      "comments_avg": 0,
+      "comments_stdev": 0,
+      "shares_avg": 2,
+      "shares_stdev": 1
+    },
+    {
+      "number": 18,
+      "important": [
+        "projektu",
+        "tento",
+        "kter\u00e9",
+        "ale",
+        "m\u016f\u017eete"
+      ],
+      "common": [
+        "ale",
+        "d\u011bti",
+        "d\u011bt\u00ed",
+        "kter\u00e9",
+        "m\u016f\u017eete",
+        "po\u0161let sms tvaru plr tel",
+        "projektu",
+        "sportovn\u00ed",
+        "tento",
+        "tento projekt"
       ],
       "messages": [
         [

@@ -4,46 +4,37 @@
   "globalstats": {
     "fan_count": 130460,
     "messages": 1095,
-    "likes_avg": 292,
-    "likes_stdev": 555,
-    "comments_avg": 13,
-    "comments_stdev": 29,
-    "shares_avg": 21,
-    "shares_stdev": 43,
+    "likes_avg": 305,
+    "likes_stdev": 534,
+    "comments_avg": 15,
+    "comments_stdev": 34,
+    "shares_avg": 23,
+    "shares_stdev": 47,
     "graph_uri": "clusters/TheHarpoonBrewery.png"
   },
   "clusters": [
     {
       "number": 1,
       "important": [
-        "fresh",
-        "timelin photo",
-        "make",
-        "new",
         "near",
-        "weekend",
-        "ale",
-        "find",
-        "hop",
-        "near timelin"
+        "find near",
+        "near timelin",
+        "find near timelin",
+        "find"
       ],
       "common": [
-        "beer",
         "find",
         "find near",
+        "find near timelin",
         "harpoon",
-        "harpoonbrewery",
         "near",
-        "near www",
-        "near www harpoonbrewery",
-        "www",
-        "www harpoonbrewery"
+        "near timelin",
+        "timelin",
+        "warmer",
+        "winter",
+        "winter warmer"
       ],
       "messages": [
-        [
-          "Looking forward to making some fresh tracks this weekend? Yeah, us too! \n\nFind our new Single Hop Pale Ale near you! http://bit.ly/2heSRKr Timeline Photos",
-          1483723639
-        ],
         [
           "Subtle vanilla sweetness complements roasted maltiness in this robust, always a party pleaser, porter.\n\nFind it near you! http://bit.ly/2hnyYnr Timeline Photos",
           1481580303
@@ -53,8 +44,20 @@
           1481382523
         ],
         [
+          "Is anyone else counting down the days to Christmas?! In case you weren't it's 22 and 10 hours... We hear Winter Warmer helps pass the time! Timeline Photos",
+          1480698131
+        ],
+        [
+          "A little throwback to the Harpoon Winter Warmer changes since 1988...\n\nNew look, same beer! Find it: http://www.harpoonbrewery.com/beer/100/winter-warmer Timeline Photos",
+          1478204100
+        ],
+        [
           "Subtle vanilla sweetness meets a hint of cold brew coffee in our new winter UFO seasonal Winter Blonde! \n\nFind it near you: http://www.harpoonbrewery.com/beer/419976/ufo-winter-blonde-ale Timeline Photos",
           1478125801
+        ],
+        [
+          "You know what Halloween means....\n\nWinter Warmer is back! Timeline Photos",
+          1477954179
         ],
         [
           "Sweet Spot. It\u2019s what we love about game days. \n\nFind it near you! http://www.harpoonbrewery.com/beer-finder Timeline Photos",
@@ -73,16 +76,16 @@
           1449015293
         ],
         [
+          "Merry and spiced and everything nice...\n\nWho's excited for Winter Warmer season?! Find it: http://www.harpoonbrewery.com/beer/100/winter-warmer Timeline Photos",
+          1447978273
+        ],
+        [
+          "Beer for snow tradesies anyone?! \n\nFind IPA Adventure: http://bit.ly/1AMt7Kf Timeline Photos",
+          1423611008
+        ],
+        [
           "Are you ready for the big game?!\n\nFind Harpoon near you: http://www.harpoonbrewery.com/beer-finder Timeline Photos",
           1422735134
-        ],
-        [
-          "An apple a day...\n\nFind Harpoon Craft Cider near you: http://www.harpoonbrewery.com/beer/91/harpoon-craft-cider Timeline Photos",
-          1420758606
-        ],
-        [
-          "An apple a day, right? Happy Cider Day! \n\nFind Harpoon Craft Cider near you: http://shout.lt/LlDW Timeline Photos",
-          1416348010
         ],
         [
           "An arctic invasion is coming... best prepare yourself! \n\nFind Snowed In near you: http://shout.lt/KXsR Timeline Photos",
@@ -93,6 +96,10 @@
           1415319128
         ],
         [
+          "Join us in welcoming the newest member to the Harpoon can family... Harpoon Winter Warmer!\n\nFind Winter Warmer near you: http://www.harpoonbrewery.com/beer/100/winter-warmer Mobile Uploads",
+          1415058817
+        ],
+        [
           "Harpoon's gift to Friday. \n\nFind Harpoon IPA near you: http://shout.lt/HCRP Timeline Photos",
           1413571424
         ],
@@ -101,12 +108,24 @@
           1409868031
         ],
         [
-          "Are you crazy enough to celebrate #TheLongThaw with us in your beach wear Thursday, January 30th? #proveit Find a party near you: http://shout.lt/pPgY Timeline Photos",
-          1390953618
-        ],
-        [
           "You worked hard all week, you earned these! Find the IPA Adventure Mix Pack near you: http://www.harpoonbrewery.com/beerFinder Timeline Photos",
           1390579978
+        ],
+        [
+          "Happy Christmas Eve! For all you Harpoon Winter Warmer fans out there, consider sparing a bottle for this Honey and Winter Warmer Spice Cake! http://www.harpoonbrewery.com/blog/338771/honey-winter-warmer-spice-cake Timeline Photos",
+          1387910701
+        ],
+        [
+          "The next time you're drinking Winter Warmer, consider singing it Happy Birthday...It turned the big 2 5 this year! http://www.harpoonbrewery.com/blog/338300/Happy-25th-Winter-Warmer Timeline Photos",
+          1385080201
+        ],
+        [
+          "Tilted Kilt Pub and Eatery is now pouring Winter Warmer! With happy hour specials running all week long, you gotta get over there! Timeline Photos",
+          1385064000
+        ],
+        [
+          "Let Winter Warmer light up your weekend...Cheers! Timeline Photos",
+          1384540201
         ],
         [
           "Summer. Beer. Enough said. \r\n\r\nFind it near you: http://www.harpoonbrewery.com/beerFinder Timeline Photos",
@@ -117,49 +136,60 @@
           1364338801
         ],
         [
+          "Chef Tiffani Faison of Sweet Cheeks in Boston and Top Chef fame recently gave us a little advice on Winter Warmer cooking. Who else stays warm with a beer inspired winter meal? Winter Warmer Cooking We recently teamed up with Chef Tiffani Faison to produce a series of Winter Warmer Nights at her restaurant Sweet Cheeks in Boston. Aimed at curing the winter blues, the Tuesday night series pairs...",
+          1361837441
+        ],
+        [
           "Winter is coming. Here comes Chocolate Stout to the rescue! \u201cLike\u201d this if you hope Chocolate Stout is waiting for you at your home bar. Or make it happen by finding it near you: http://www.harpoonbrewery.com/beerFinder Timeline Photos",
           1354666800
+        ],
+        [
+          "It\u2019s November and officially Winter Warmer season friends! Can we get a \u201ccheers\u201d from the crowd?! \r\n\r\nFind it near you on our beer finder: http://www.harpoonbrewery.com/beerFinder Timeline Photos",
+          1351810801
         ]
       ],
-      "dates_start": 1387072746,
-      "dates_end": 1470606081,
-      "likes_avg": 607,
-      "likes_stdev": 1162,
-      "comments_avg": 36,
-      "comments_stdev": 60,
-      "shares_avg": 62,
-      "shares_stdev": 150
+      "dates_start": 1378590898,
+      "dates_end": 1467462834,
+      "likes_avg": 515,
+      "likes_stdev": 999,
+      "comments_avg": 32,
+      "comments_stdev": 52,
+      "shares_avg": 49,
+      "shares_stdev": 129
     },
     {
       "number": 2,
       "important": [
         "ufo",
+        "beer",
         "timelin",
-        "winter",
-        "make",
-        "new",
-        "timelin photo",
-        "recip",
-        "win",
-        "ale",
-        "recip timelin"
+        "recip timelin",
+        "pumpkin"
       ],
       "common": [
         "beer",
         "harpoon",
         "ipa",
-        "lt",
-        "recipe",
-        "recipe shout",
-        "recipe shout lt",
-        "shout",
-        "shout lt",
-        "ufo"
+        "pumpkin",
+        "recip",
+        "recip timelin",
+        "timelin",
+        "ufo",
+        "ufo white",
+        "white"
       ],
       "messages": [
         [
-          "Impress your coworkers, win over a new boo, or hoard it for yourself - whatever you do... Make. This. Ale. Bread.\n\nUFO Winter Blonde Ale Banana Bread recipe: http://bit.ly/2h3GpNo Timeline Photos",
-          1481071467
+          "Pick the perfect pumpkin...\n\nFind UFO Pumpkin near you: http://www.harpoonbrewery.com/beer/93/ufo-pumpkin Timeline Photos",
+          1476911700
+        ],
+        [
+          "Fireside beers are the best kind of beers!\n\nFind UFO Pumpkin near you: http://www.harpoonbrewery.com/beer/93/ufo-pumpkin Timeline Photos",
+          1476734401
+        ],
+        [
+          "It's baaaaack! \n\nFind UFO Pumpkin near you: http://www.harpoonbrewery.com/beer-finder Timeline Photos",
+          1473715804
         ],
         [
           "Our full-flavored Golden Ale elevates an otherwise ordinary marinade for your next backyard grill session!\n\nGet the recipe: http://bit.ly/1X0CO3H Timeline Photos",
@@ -174,6 +204,14 @@
           1459460220
         ],
         [
+          "Kicked off the first Harpoon Harpoon X-Night of the year with an Espresso Chili Stout! \n\nLearn more from Harpoon Brewer Fred Williams  http://bit.ly/1nmI0QQ Timeline Photos",
+          1453334104
+        ],
+        [
+          "May your Sunday Funday be long and your UFO Whites tall! \n\nFind UFO White near you: www.harpoonbrewery.com/beer/10/UFO-white Timeline Photos",
+          1451238170
+        ],
+        [
           "Too good not to share - UFO Gingerland Banana Bread from our friends Merrimack Valley Distributing Company!\n\nGet the recipe: http://bit.ly/1QvVwxg Timeline Photos",
           1450395300
         ],
@@ -182,16 +220,36 @@
           1449622855
         ],
         [
+          "Can't make it to our BBQ Fest in Windsor, VT this weekend (:()?\n\nMake your own beer braised pulled pork courtesy of The Bacon Truck at home! Recipe >>> http://bit.ly/1JxMAyY Timeline Photos",
+          1437572101
+        ],
+        [
+          "Happy World UFO Day! Which UnFiltered Offering is your favorite?! \n\nFind UFO this weekend: http://www.harpoonbrewery.com/beer/ufo Mobile Uploads",
+          1435843316
+        ],
+        [
+          "Not your average shrimp on the barbie.... Spicy UFO White Beer Shrimp! \n\nRecipe: http://www.harpoonbrewery.com/blog/385218/spicy-ufo-white-beer-shrimp Mobile Uploads",
+          1435184695
+        ],
+        [
+          "Are you a fan of UFO White? You can now enjoy your favorite beer 30,000+ feet in the air on your next JetBlue flight! http://bit.ly/1LL3lYF Timeline Photos",
+          1424992264
+        ],
+        [
           "Santa wants beer cookies. Period. \n\nHarpoon Chocolate Stout recipe here: http://shout.lt/PZDC Timeline Photos",
           1419449405
         ],
         [
-          "No need to be intimidated by Shepherd's Pie, it's simpler than you think (especially if Harpoon IPA is involved)!\n\nRecipe here: http://shout.lt/MYZg Timeline Photos",
-          1417652107
+          "There's a new UFO seasonal joining us this winter. Welcome to Gingerland! \n\nLearn more about UFO Gingerland: http://www.harpoonbrewery.com/beer/368698/ufo-gingerland Mobile Uploads",
+          1414957458
         ],
         [
           "Average Pumpkin Cheesecake < Harpoon Imperial Pumpkin Cheesecake\n\nRecipe: http://shout.lt/HSfJ Timeline Photos",
           1413909064
+        ],
+        [
+          "Kick off crock-pot season with a big bowl of UFO Pumpkin Curry!\n\nRecipe: http://www.harpoonbrewery.com/blog/368720/ufo-pumpkin-curry Mobile Uploads",
+          1413500435
         ],
         [
           "Betcha can't eat just one of these Harpoon Pumpkin Cider Donut Holes!\n\nRecipe here: http://shout.lt/FN7Y Timeline Photos",
@@ -202,32 +260,40 @@
           1410622520
         ],
         [
-          "The Harpoon Championships of New England Barbecue is THIS Saturday & Sunday! These fall off the bone ribs made with Harpoon Craft Cider will get you in full BBQ mode...\n\nRecipe: http://shout.lt/zwkB Timeline Photos",
-          1406149329
+          "Just because UFO Pumpkin is on the shelves doesn\u2019t mean summer is over\u2026 #bestofbothworlds UFO Pumpkin is back!",
+          1407360600
         ],
         [
           "Beer. Garlic. Butter. Yup, we said it.\n\nHarpoon Citra Victorious Shrimp w/ Garlic Butter Recipe: http://shout.lt/zbJM Timeline Photos",
           1405546506
         ],
         [
+          "Would you rather see a UFO or drink a UFO? Happy UFO Day earthlings! http://www.harpoonbrewery.com/beer/ufo Timeline Photos",
+          1404324010
+        ],
+        [
           "Looking to change up your typical Mussel recipe? Try adding in some Harpoon Craft Cider or UFO White! Recipe here: http://shout.lt/v56q Timeline Photos",
           1403214313
         ],
         [
-          "A short work week, hump day BBQ, Harpoon IPA hamburgers\u2026 does it get much better folks?! \n\nHappy National Hamburger Day! Recipe here: http://shout.lt/t5WL Timeline Photos",
-          1401293411
+          "Summer Beer Grilled Chicken + a fridge full of Harpoon = the perfect Memorial Day weekend! Recipe here: http://shout.lt/tRNH Timeline Photos",
+          1400711405
+        ],
+        [
+          "We're celebrating Earth Day with UFO Hefeweizen! What about you? Timeline Photos",
+          1398202749
         ],
         [
           "Like our beers, Harpoon beer bread is best when shared with friends. Recipe here: http://shout.lt/slJh Timeline Photos",
           1397686509
         ],
         [
-          "Is your mouth watering too? \n\nPulled Pork Sliders made with Rich & Dan's Rye IPA. Recipe here: http://shout.lt/r434 Timeline Photos",
-          1397079910
-        ],
-        [
           "Celebrate National PB & J Day with this UFO Raspberry Jam recipe! http://shout.lt/rR8v Timeline Photos",
           1396471513
+        ],
+        [
+          "When Harpoon IPA & UFO White area at the finish line, 10 miles is all the more worth it! Are you running the Newport 10 Miler on 4/27? Register now! http://www.newport10miler.com/ Timeline Photos",
+          1396103401
         ],
         [
           "Craft beer + waffles = breakfast of champions! Recipe here: http://shout.lt/rprD Timeline Photos",
@@ -242,145 +308,83 @@
           1394063109
         ],
         [
-          "Harpoon IPA + Chili = delicious. Celebrate National Chili Day tomorrow the right way! Harpoon IPA Turkey Chili recipe: http://shout.lt/qKSd Timeline Photos",
-          1393460110
-        ],
-        [
           "Do you love #TheLongThaw White IPA? Then you've got to try these beer battered fish tacos! Recipe here: http://shout.lt/qs8f Timeline Photos",
           1392854412
         ],
         [
           "For Valentine's Day, consider whipping up a batch of these easy to make brownies made with our new limited release Cherry Chocolate Porter! Recipe here: http://shout.lt/qf3B Timeline Photos",
           1392247825
+        ],
+        [
+          "It's a beer float kind of Thursday. Try a Harpoon Chocolate Stout float and tell us what you think! http://www.harpoonbrewery.com/beer/98/chocolate-stout Timeline Photos",
+          1389312000
+        ],
+        [
+          "Where are our beer and science fans at?!  NASA\u2019s Voyager 1 left the solar system last week. But did you know the design for UFO White was inspired by Carl Sagan's pulsar map on the cover of the golden record on the Voyager 1 spacecraft? You do now\u2026 cheers! http://ow.ly/oZxz8 Timeline Photos",
+          1379524801
+        ],
+        [
+          "Move over largest pumpkin at the state fair\u2026 we give you Imperial Pumpkin! Read up on where it \"weighs in\": http://ow.ly/o6kvG Timeline Photos",
+          1377013390
+        ],
+        [
+          "UFO Pumpkin is debuting in cans! Packing for fall fun just got a little easier... where will you take them? Timeline Photos",
+          1376499601
+        ],
+        [
+          "We know what we're doing this weekend... how about you? \r\n\r\nBeer lineup: IPA, Rye IPA, Boston Irish Stout, Summer Beer, Midsummer Fling, UFO White, Raspberry UFO, and Pumpkin Cider. \r\nBBQ Details: http://ow.ly/nlCaZ Timeline Photos",
+          1374848400
+        ],
+        [
+          "We are busy filling cans of UFO White today! Currently, we have Harpoon IPA, UFO White, Summer Beer and Honey Cider in cans... which one is your favorite to enjoy when it's hot out? Timeline Photos",
+          1372860601
+        ],
+        [
+          "The Bonnaroo crew showcasing IPA, UFO White, and mohawks. If you're festival bound, mention you are a Friend of Harpoon at our booth in the \"Broo'ers\" tent, and we'll hook you up with koozies and hats. Timeline Photos",
+          1371143619
+        ],
+        [
+          "Happy International Stout Day! Our latest Leviathan, Czernobog, is just in time for the party. This Imperial Stout is named after the ancient god of darkness and features notes of unsweetened chocolate, molasses, and dark fruit. Who is celebrating with Czernobog?! http://ow.ly/f8IzU Timeline Photos",
+          1352419202
+        ],
+        [
+          "We always get asked - hey what's going to be on tap at HarpoonFest? \nHere is your answer... 7 different beers and Harpoon Cider! Yum....\n\nHarpoon IPA\nUFO Hefewiezen\nUFO White\nUFO Raspberry Hefewiezen\nRich & Dan's Rye IPA\n100 Barrel Series # 42 Ginger Wheat\nHarpoon Cider\nHarpoon Summer\n\nSo now we get to ask the questions: Which day are you coming to, Friday or Saturday?",
+          1337171162
+        ],
+        [
+          "Smoky Lobster Roll & UFO White - perfect for a Super Bowl Sunday afternoon! Super Bowl Sandwich Showdown! Here at D'Artagnan, like much of the country, we've come down with a serious case of Super Bowl Fever. Our \"home team\" is playing and there are A LOT of football fans on staff (and an equal number ...",
+          1328181993
         ]
       ],
-      "dates_start": 1390014521,
-      "dates_end": 1444249298,
-      "likes_avg": 310,
-      "likes_stdev": 220,
-      "comments_avg": 16,
-      "comments_stdev": 20,
-      "shares_avg": 43,
-      "shares_stdev": 39
+      "dates_start": 1375241207,
+      "dates_end": 1446309741,
+      "likes_avg": 334,
+      "likes_stdev": 279,
+      "comments_avg": 21,
+      "comments_stdev": 23,
+      "shares_avg": 42,
+      "shares_stdev": 44
     },
     {
       "number": 3,
       "important": [
-        "harpoon st",
-        "fest",
-        "open",
-        "need",
-        "onli",
-        "harpoon st pat",
-        "keg",
-        "pat",
-        "tent",
-        "st pat"
-      ],
-      "common": [
-        "fest",
-        "harpoon",
-        "harpoon st",
-        "harpoon st pat",
-        "harpoon st pat fest",
-        "pat",
-        "pat fest",
-        "st",
-        "st pat",
-        "st pat fest"
-      ],
-      "messages": [
-        [
-          "Happy Saturday! The tents are HEATED, the kegs are tapped, the only thing we need is YOU! \n\nHarpoon St. Pat's Fest opens at 1 PM: http://www.harpoonbrewery.com/festivals/2914/2017-harpoon-st-patricks-festival Timeline Photos",
-          1488642658
-        ],
-        [
-          "Craic [krak] n. mischievous fun, laughs, and good company. \n\nUsed in a sentence: \"Come to Harpoon St. Pat's Fest for the beer, stay for the craic!\" Learn more about our Irish Red IPA: https://goo.gl/mO5s0T Timeline Photos",
-          1488325160
-        ],
-        [
-          "How many pretzels did you party-people eat at last year\u2019s fest?! Tag a friend and guess. Closest person wins 4 Harpoon St. Pat's Fest passes!\n\nHarpoon St. Patrick's Fest: http://www.harpoonbrewery.com/festivals/2914/2017-harpoon-st-patricks-festival Timeline Photos",
-          1488232800
-        ],
-        [
-          "Checkout what\u2019s going to be on tap at Harpoon St. Pat\u2019s Fest! Which one will you your friends go for first?! Tag \u2018em! Timeline Photos",
-          1488047436
-        ],
-        [
-          "Harpoon St. Pat\u2019s Fest is only 8 days away! Post a fest TBT & tag us for a chance to win 4 tickets to this year\u2019s fest! Check out the event page for more info: http://www.harpoonbrewery.com/festivals/2914/2017-harpoon-st-patricks-festival Timeline Photos",
-          1487891107
-        ],
-        [
-          "Hate lines? Us too! Friends of Harpoon have the exclusive option to purchase Early Access passes for Saturday of Harpoon St. Pat's Fest! \n\nLogin to access the access code: https://goo.gl/75H5lo Timeline Photos",
-          1487449213
-        ],
-        [
-          "We look forward to this weekend all winter long \u2013 thousands of our friends, dancing to live music, enjoying beers, and loving the heck out of life at our Boston brewery. What could be better?! 2016 Harpoon St. Pat's Fest",
-          1457451021
-        ],
-        [
-          "You sure know how to party Boston! Happy Harpoon St. Pat's Fest! Timeline Photos",
-          1457207826
-        ],
-        [
-          "A brand spankin' new Harpoon beer is traveling down our canning line.... Say hello to Camp Wannamango - our new summer seasonal available in April! Try it first at Harpoon St. Pat's Fest!\n\nBeer details: http://www.harpoonbrewery.com/beer/401169/camp-wannamango Timeline Photos",
-          1457026100
-        ],
-        [
-          "Looking for weekend plans? We. Got. You. \n\nHarpoon St. Pat's Fest is this Friday and Saturday: http://harpoonstpats.com Timeline Photos",
-          1456962048
-        ],
-        [
-          "Love Beer. Love Life. Love Boston! Thanks for partying with us this weekend at Harpoon St. Pat's fest! Mobile Uploads",
-          1394325863
-        ],
-        [
-          "What better place to kick off the St. Patrick's Holiday season than at the largest brewery in Boston?! Doors open at 5:30 PM tomorrow & 2 PM Saturday for Harpoon St. Pat's fest! http://shout.lt/qZbc Timeline Photos",
-          1394136035
-        ],
-        [
-          "Which beers are you most excited to drink THIS weekend at Harpoon St. Pat\u2019s Fest? Details: http://shout.lt/qS8p Timeline Photos",
-          1393892109
-        ],
-        [
-          "Hey Boston, you ready to get your Harpoon St. Pat's fest on next Friday & Saturday?! Fest Details: http://shout.lt/qQfj Timeline Photos",
-          1393687812
-        ]
-      ],
-      "dates_start": 1413302502,
-      "dates_end": 1491451381,
-      "likes_avg": 348,
-      "likes_stdev": 479,
-      "comments_avg": 47,
-      "comments_stdev": 102,
-      "shares_avg": 34,
-      "shares_stdev": 68
-    },
-    {
-      "number": 4,
-      "important": [
-        "mobil",
-        "adventur",
+        "beer",
+        "happi",
         "upload",
-        "take",
-        "flannel",
-        "cheer",
-        "ipa",
-        "beer",
-        "find",
-        "friend"
+        "mobil",
+        "cheer"
       ],
       "common": [
         "beer",
+        "cheer",
         "day",
-        "happy",
-        "harpoon",
-        "harpoonbrewery",
-        "mobile",
-        "mobile uploads",
-        "uploads",
-        "www",
-        "www harpoonbrewery"
+        "day mobil",
+        "day mobil upload",
+        "happi",
+        "made",
+        "mobil",
+        "mobil upload",
+        "upload"
       ],
       "messages": [
         [
@@ -392,8 +396,8 @@
           1445189676
         ],
         [
-          "Fridays are better when you flannel. \n\nFind your weekend beer: http://www.harpoonbrewery.com/beer-finder Mobile Uploads",
-          1445018462
+          "25 mile winds & 50 degree weather didn't stop you crazy fools from partying this weekend. Cheers to you Boston!  #HarpoonOFest Mobile Uploads",
+          1443981984
         ],
         [
           "Wherever you are Sunday Fundaying... Cheers! Mobile Uploads",
@@ -408,10 +412,6 @@
           1440115072
         ],
         [
-          "#HarpoonBBQ Fest Day 2 is on! Come Sunday Funday with us! \n\nDoors close at 3:30: http://www.harpoonbrewery.com/festivals/2130/2015-harpoon-championships-of-new-england-barbecue Mobile Uploads",
-          1437920221
-        ],
-        [
           "Beer, friends, and BBQ... It's #HarpoonBBQ time! Mobile Uploads",
           1437833464
         ],
@@ -422,10 +422,6 @@
         [
           "Alright America, let's celebrate! Mobile Uploads",
           1435926245
-        ],
-        [
-          "Happy Take Your Dog to Work Day! Show us where your dog put in 8 hours! Mobile Uploads",
-          1435340525
         ],
         [
           "Buy your dad some beers today... He deserves it! Happy Father's Day! Mobile Uploads",
@@ -528,20 +524,12 @@
           1412887843
         ],
         [
-          "TGIF! Who is ready for #HarpoonOFest?! Doors open at 5:30 PM! Mobile Uploads",
-          1412360396
-        ],
-        [
           "Pumpkin anyone? Mobile Uploads",
           1409263772
         ],
         [
           "Floaties optional. Swim at your own risk. Mobile Uploads",
           1408825058
-        ],
-        [
-          "Beers, Bands & BBQ - you in or what?! Join us July 26th & 27th at our Windsor brewery! \n\nDetails: http://www.harpoonbrewery.com/festivals/871/2014-harpoon-championships-of-new-england-barbecue Mobile Uploads",
-          1405266999
         ],
         [
           "238 never tasted so good. Happy birthday America! Mobile Uploads",
@@ -560,10 +548,6 @@
           1398003946
         ],
         [
-          "Whether you're traveling or staying local for #Thanksgiving, it's time to stock up for the holiday weekend! Find Harpoon near you http://www.harpoonbrewery.com/beerFinder Mobile Uploads",
-          1385568612
-        ],
-        [
           "What a night New England!Cheers to a great Series and VICTORY!!! #gosox Mobile Uploads",
           1383186525
         ],
@@ -572,189 +556,387 @@
           1382657173
         ]
       ],
-      "dates_start": 1405431048,
-      "dates_end": 1437186011,
-      "likes_avg": 634,
-      "likes_stdev": 876,
-      "comments_avg": 15,
-      "comments_stdev": 23,
-      "shares_avg": 31,
-      "shares_stdev": 44
+      "dates_start": 1406808797,
+      "dates_end": 1437191567,
+      "likes_avg": 690,
+      "likes_stdev": 910,
+      "comments_avg": 17,
+      "comments_stdev": 24,
+      "shares_avg": 34,
+      "shares_stdev": 46
+    },
+    {
+      "number": 4,
+      "important": [
+        "harpoon st pat",
+        "st pat",
+        "pat",
+        "fest",
+        "harpoon st"
+      ],
+      "common": [
+        "fest",
+        "harpoon",
+        "harpoon st",
+        "harpoon st pat",
+        "harpoon st pat fest",
+        "pat",
+        "pat fest",
+        "st",
+        "st pat",
+        "st pat fest"
+      ],
+      "messages": [
+        [
+          "Happy Saturday! The tents are HEATED, the kegs are tapped, the only thing we need is YOU! \n\nHarpoon St. Pat's Fest opens at 1 PM: http://www.harpoonbrewery.com/festivals/2914/2017-harpoon-st-patricks-festival Timeline Photos",
+          1488642658
+        ],
+        [
+          "Craic [krak] n. mischievous fun, laughs, and good company. \n\nUsed in a sentence: \"Come to Harpoon St. Pat's Fest for the beer, stay for the craic!\" Learn more about our Irish Red IPA: https://goo.gl/mO5s0T Timeline Photos",
+          1488325160
+        ],
+        [
+          "How many pretzels did you party-people eat at last year\u2019s fest?! Tag a friend and guess. Closest person wins 4 Harpoon St. Pat's Fest passes!\n\nHarpoon St. Patrick's Fest: http://www.harpoonbrewery.com/festivals/2914/2017-harpoon-st-patricks-festival Timeline Photos",
+          1488232800
+        ],
+        [
+          "Checkout what\u2019s going to be on tap at Harpoon St. Pat\u2019s Fest! Which one will you your friends go for first?! Tag \u2018em! Timeline Photos",
+          1488047436
+        ],
+        [
+          "Harpoon St. Pat\u2019s Fest is only 8 days away! Post a fest TBT & tag us for a chance to win 4 tickets to this year\u2019s fest! Check out the event page for more info: http://www.harpoonbrewery.com/festivals/2914/2017-harpoon-st-patricks-festival Timeline Photos",
+          1487891107
+        ],
+        [
+          "Hate lines? Us too! Friends of Harpoon have the exclusive option to purchase Early Access passes for Saturday of Harpoon St. Pat's Fest! \n\nLogin to access the access code: https://goo.gl/75H5lo Timeline Photos",
+          1487449213
+        ],
+        [
+          "We look forward to this weekend all winter long \u2013 thousands of our friends, dancing to live music, enjoying beers, and loving the heck out of life at our Boston brewery. What could be better?! 2016 Harpoon St. Pat's Fest",
+          1457451021
+        ],
+        [
+          "You sure know how to party Boston! Happy Harpoon St. Pat's Fest! Timeline Photos",
+          1457207826
+        ],
+        [
+          "A brand spankin' new Harpoon beer is traveling down our canning line.... Say hello to Camp Wannamango - our new summer seasonal available in April! Try it first at Harpoon St. Pat's Fest!\n\nBeer details: http://www.harpoonbrewery.com/beer/401169/camp-wannamango Timeline Photos",
+          1457026100
+        ],
+        [
+          "Looking for weekend plans? We. Got. You. \n\nHarpoon St. Pat's Fest is this Friday and Saturday: http://harpoonstpats.com Timeline Photos",
+          1456962048
+        ],
+        [
+          "Love Beer. Love Life. Love Boston! Thanks for partying with us this weekend at Harpoon St. Pat's fest! Mobile Uploads",
+          1394325863
+        ],
+        [
+          "What better place to kick off the St. Patrick's Holiday season than at the largest brewery in Boston?! Doors open at 5:30 PM tomorrow & 2 PM Saturday for Harpoon St. Pat's fest! http://shout.lt/qZbc Timeline Photos",
+          1394136035
+        ],
+        [
+          "Which beers are you most excited to drink THIS weekend at Harpoon St. Pat\u2019s Fest? Details: http://shout.lt/qS8p Timeline Photos",
+          1393892109
+        ],
+        [
+          "Hey Boston, you ready to get your Harpoon St. Pat's fest on next Friday & Saturday?! Fest Details: http://shout.lt/qQfj Timeline Photos",
+          1393687812
+        ]
+      ],
+      "dates_start": 1413302502,
+      "dates_end": 1491451381,
+      "likes_avg": 348,
+      "likes_stdev": 479,
+      "comments_avg": 47,
+      "comments_stdev": 102,
+      "shares_avg": 34,
+      "shares_stdev": 68
     },
     {
       "number": 5,
       "important": [
-        "keep",
-        "barrel",
-        "barrel seri",
-        "new",
-        "behind",
-        "seri",
-        "mani",
-        "learn",
-        "beer",
-        "releas"
+        "ufo",
+        "summer",
+        "squeez",
+        "squeez summer",
+        "tour"
       ],
       "common": [
-        "100",
-        "100 barrel",
-        "100 barrel series",
-        "barrel",
-        "barrel series",
-        "beer",
-        "brewer",
-        "harpoon",
-        "ipa",
-        "series"
+        "big",
+        "big squeez",
+        "squeez",
+        "squeez summer",
+        "squeez summer tour",
+        "summer",
+        "summer tour",
+        "timelin",
+        "tour",
+        "ufo"
       ],
       "messages": [
         [
-          "In America, you fork over your credit card to keep a tab. In Germany, bartenders mark your coaster to keep track of how many beers you've had. This unique transaction was the inspiration behind the label for New 100 Barrel Series #57- Sticke Alt! \n\nLearn about the beer and the release parties: http://bit.ly/1Z0gKng Timeline Photos",
-          1462113689
+          "We took our UFO beers on the road this summer and hit up 9 awesome cities! The tour might be over, but here's to squeezing the most out of the last few weeks of summer - preferably with a UFO in hand!\n\nFind UFO near you: http://www.harpoonbrewery.com/beer-finder Squeeze the Most Out of Summer Tour",
+          1472668732
         ],
         [
-          "Curious and intrepid voyagers of the 1800\u2019s were the inspiration behind this deep-flavored ale - clocking in at 13% ABV \u2013 for our limited release Imperial Series. Arctic Ale's history is both fascinating and overlain by tragedy. \n\nGet the full scoop from Brewer Scott Shirley: http://bit.ly/1SUnX8t Timeline Photos",
-          1458396372
+          "If sunsets, beach parties, and UFO beers sound like your ideal weekend, join us in Rhode Island THIS eekend for our Squeeze the Most out of Summer Tour!\n\nTour details: http://ufobeer.com/rhodeisland Timeline Photos",
+          1470310619
         ],
         [
-          "Excited to make DRAFT Magazine's Top 25 beers of 2015 with our 100 Barrel Series #53 Braggot Rights - a big juicy Double IPA  infused with Wildflower Honey!\n\nLearn more about the beer: http://www.harpoonbrewery.com/beer/377024/100-barrel-series-53-braggot-rights Top 25 beers of 2015",
-          1449531001
+          "If live music, rooftop beers, and corn hole sound like your ideal weekend, join us in New York City August 4th-6th for our Squeeze the Most out of Summer Tour!\n\nTour details: http://ufobeer.com/nyc Timeline Photos",
+          1470172740
         ],
         [
-          "Introducing new 100 Barrel Series #55 - EHOP Collaboration w/ our friends from Deschutes Brewery!\n\nLearn more and use our beer finder to locate it near you: http://www.harpoonbrewery.com/beer/390884/100-barrel-series-55-ehop-collaboration Mobile Uploads",
-          1444146206
+          "If yard games, a 6th Street Bar Crawl, and a River Float sound like your ideal weekend, join in us Austin July 28-30 for our Squeeze the Most out of Summer Tour!\n\nGet the details and join us: http://ufobeer.com/austin Timeline Photos",
+          1469483280
         ],
         [
-          "Join us in welcoming the newest 100 Barrel Series Beer - #53 Braggot Rights! The brewers name & face is on the back so you know who to thank. Cheers to Kettle Cup winner and brewer, Steve Theoharides! \n\nLearn more: http://bit.ly/1EZMPUD Timeline Photos",
-          1426113323
+          "In a few short days we're headed down to Orlando for the Squeeze the Most Out of Summer Tour!\n\nFind out where we're headed July 21st through 23rd: http://ufobeer.com/orlando Timeline Photos",
+          1468755300
         ],
         [
-          "Have you tried 100 Barrel Series #52 - Tuscan Pool Party?!\n\nLearn more about our collaboration beer with Birrificio Olmaia: http://www.harpoonbrewery.com/beer/369348/100-barrel-series-52-tuscan-pool-party Mobile Uploads",
-          1419987041
+          "Forget peaches, it was all about that grapefruit this weekend! Cheers from Georgia! \n\nSee where else the Squeeze the Most Out of Summer Tour is stoppin': www.ufobeer.com Timeline Photos",
+          1468696822
         ],
         [
-          "Wonder why our new 100 Barrel Series beer is called Tuscan Pool Party? Read the story behind the collaboration with Birrificio Olmaia!\n\nRead more: http://www.harpoonbrewery.com/blog/369266/italy-with-a-touch-of-boston-100-barrel-series-52-tuscan-pool-party Timeline Photos",
-          1418169480
+          "We just landed in Atlanta for the Squeeze the Most Out of Summer Tour! \n\nCheckout where were stoppin' July 14th through 16th: http://ufobeer.com/atlanta Timeline Photos",
+          1468516455
         ],
         [
-          "Brewmancing at its finest. Have you tried 100 Barrel Series #51 - Cambridge Uncommon yet?!\n\nFind it near you: http://www.harpoonbrewery.com/beer/352476/100-barrel-series-51-cambridge-uncommon Mobile Uploads",
-          1410386726
+          "We're headed to Atlanta this weekend for the Squeeze the Most out of Summer Tour! Think arcade games Joystick Gamebar, cornhole Riggy's Grill, a UFO beer river float & more!\n\nGet the details: http://ufobeer.com/atlanta Timeline Photos",
+          1468272604
         ],
         [
-          "Meet the brewers behind our newest 100 Barrel Series #51 Cambridge Uncommon - an India Style Pale Lager! \n\nFind it near you: http://www.harpoonbrewery.com/beer/352476/100-barrel-series-51-cambridge-uncommon",
-          1409002017
+          "From June 25th - August 6th, we\u2019ll be on the road with our main squeeze, UFO Big Squeeze, visiting 9 different cities to find the best outdoor bars and adventures! \n\nCheck out where we're stoppin': http://ufobeer.com Timeline Photos",
+          1465909200
         ],
         [
-          "Join us at the Exclusive Release Party for the newest 100 Barrel Series beer #50 Citra Victorious in Boston on 4/14! \n\nMust be a Friend of Harpoon to get tickets. Login or become a Friend here: http://www.harpoonbrewery.com/friendofharpoon Timeline Photos",
-          1397147623
+          "What do lawn games, good times, and great beer have in common? They\u2019re what the UFO \u201cSqueeze the Most out of Summer Tour\u201d is all about! Get the tour details and see if we\u2019ll be stopping by your city! http://ufobeer.com Squeeze the Most Out of Summer Tour",
+          1465572330
         ],
         [
-          "We're excited to release new 100 Barrel Series Beer #50 at an exclusive event on April 14th at our Boston Beer Hall. Tickets will be available starting tomorrow at 11 AM. Login to Friend of Harpoon or create an account for more information: http://www.harpoonbrewery.com/friendofharpoon",
-          1396562664
+          "Can we be your Summer squeeze? We're hitting the road and touring 9 cities to squeeze the most out of Summer!\n\nJoin us? http://ufobeer.com",
+          1465425713
         ],
         [
-          "Have you tried our latest 100 Barrel Series Beer #49 Brown IPA? Fill your fridge with something special this weekend! http://shout.lt/qzkC Timeline Photos",
-          1393002011
+          "Brunch without beer is just a really sad breakfast... Join us for the UFO Big Squeeze Brunch on June 26th at the Harpoon Beer Hall! \n\nEvent details: http://bit.ly/1X1fi6E Timeline Photos",
+          1465131720
         ],
         [
-          "\"Science, a good excuse to brew & drink more beer.\" -John Cataldo \n\nWatch the video of our latest 100 Barrel Series & tell us if you agree! Harpoon 100 Barrel Series #49 - Brown IPA Sweet, roasted notes of chocolate and honey malts combine with Chinook, Simcoe and Amarillo hops in this welcome addition to our family of IPAs.  ",
-          1391558400
+          "It's baaaaaaaack!  #BigSqueeze Big Squeeze",
+          1456512753
         ],
         [
-          "Any guesses what 100 Barrel Series #49 is going to be? It gets bottled next week! Timeline Photos",
-          1390521600
+          "three words... UFO. BIG. SQUEEZE.\n\nFind it, drink it, love it. #nojudgement Real Men Drink Shandy (I Swear) The shandy-shaming ends NOW.",
+          1432836705
         ],
         [
-          "This awesome video helps explain the unique story behind 100 Barrel Series Beer - #48 Polskie Mastne. Enjoy the video...and the beer! Na zdrowie!\nhttp://www.youtube.com/watch?v=dXUdGd3TApo Harpoon 100 Barrel Series #48 - Polskie Mastne It was a trip to Cieszyn Brewery, during a Harpoon European beer trip to Poland in September 2013, that inspired the newest 100 Barrel Series Beer - #48 Pols...",
-          1386782982
+          "Anyone Big Squeeze brunchin' today?! Mobile Uploads",
+          1430666550
         ],
         [
-          "Introducing our newest 100 Barrel Series Beer - #48 Polskie Mastne! Na zdrowie! Learn more and find out where to find it: http://www.harpoonbrewery.com/beer/2832/100-Barrel-Series-48-Polskie-Mastne Timeline Photos",
-          1384992001
+          "Out of Office.\n\nFind UFO Big Squeeze Shandy this weekend: http://bit.ly/1IvW018 Timeline Photos",
+          1430493550
         ],
         [
-          "Voting is underway to crown this year's Harpoon Kettle Cup. The Prize: the next 100 Barrel Series beer. What would you brew? Timeline Photos",
-          1378764600
+          "Happy Easter! Celebrating with any Big Squeeze today?! Mobile Uploads",
+          1428244916
         ],
         [
-          "Our latest 100 Barrel Series to hit the shelves... Saison Various!\nBeer details: http://ow.ly/nIYJg Harpoon 100 Barrel #47 - Saison Various This complex, spiced golden ale is a blend of four unique saisons, each brewed by a different Harpoon brewer. In the spirit of collaboration, Ryan balanced E...",
-          1375898865
+          "Wrapped up and ready for your fridge.\n\nUFO Big Squeeze is back! http://bit.ly/1F9W2Kb Timeline Photos",
+          1427235007
         ],
         [
-          "Welcome our latest 100 Barrel Series: Kettle Cup 2013, a delightfully drinkable Belgian-style ale with a big kick of American hops. This is the winner of our employee homebrew competition from last fall. Who's ready for a pint?! \r\n\r\nBeer Facts: http://ow.ly/kqbjx Timeline Photos",
-          1366905600
+          "Spice up your typical Sunday Funday and head to Anna Liffey's Sunday, June 1st! They'll be hosting a special Harpoon Sunday brunch plus, cans of UFO Big Squeeze Shandy will be on special for $4! http://shout.lt/t5V0 Timeline Photos",
+          1401386400
         ],
         [
-          "Ladies and gentlemen, we give you our next 100 Barrel Series... El Triunfo Coffee Porter. We are bottling now. Look for it near you in coming weeks. Let us hear those \"Cheers!\" http://ow.ly/f6OCV Timeline Photos",
-          1352332802
+          "Oh we went there... UFO Big Squeeze Bundt Cake! \n\nRecipe: http://www.harpoonbrewery.com/blog/347279/ufo-big-squeeze-bundt-cake Timeline Photos",
+          1398895508
         ],
         [
-          "Patiently awaiting our next 100 Barrel Series release? Watch out next month for El Triunfo Coffee Porter. Jesse from Harpoon and Mike from Equal Exchange are hard at work blending beer and coffee! http://www.harpoonbrewery.com/beer/443/El-Triunfo-Coffee-Porter Timeline Photos",
-          1351639800
-        ],
-        [
-          "Harpoon brewer Ken Hermann talks about what it was like to brew the brand new 100 Barrel Series White IPA! Have you tried some yet? Brewer Ken Hermann chats about 100 Barrel Series #43 White IPA Ken Hermann has taken our exploration of -- and adoration for -- the IPA style in a completely new direction. With notes of orange peel and coriander, the so...",
-          1344873903
-        ],
-        [
-          "When we aren't hosting awesome festivals and road races, we actually brew beer! If you were at HarpoonFest, the Harpoon 5-Miler, or had a chance to visit our brewery in Windsor this weekend, maybe you got to enjoy our latest 100 Barrel Series beer. Here's brewer Scott Shirley sharing his thoughts and inspiration for 100 Barrel Series Ginger Wheat! Brewer Scott Shirley talks about brewing 100 Barrel Series Ginger Wheat The Harpoon 100 Barrel Series Ginger Wheat Ale is an ode to brewer Scott Shirley's favorite spice, ginger. The earthy, warming flavor of this golden-hued ale...",
-          1337624235
-        ],
-        [
-          "Harpoon 100 Barrel Series Ginger Wheat: Harpoon Brewery Scott Shirley talks about his latest brew http://www.youtube.com/watch?v=sYklGrXCiDE Brewer Scott Shirley talks about brewing 100 Barrel Series Ginger Wheat The Harpoon 100 Barrel Series Ginger Wheat Ale is an ode to brewer Scott Shirley's favorite spice, ginger. The earthy, warming flavor of this golden-hued ale...",
-          1337431611
-        ],
-        [
-          "Harpoon brewer Matt DeLuca (who recently brewed the 100 Barrel Series #40 Black IPA), along with 20 other Harpoon employees, is in Europe as part of the annual Harpoon Beer Culture Trip! He\u2019ll be blogging about their experience in The Netherlands this week \u2013 so stay tuned! http://www.lovebeerlovelife.com/2012/04/23/day-one-boston-to-amsterdam Day one: Boston to Amsterdam! Harpoon brewer Matt DeLuca (who recently brewed the 100 Barrel Series #40 Black IPA), along with 20 other Harpoon employees, is hanging out in Europe this week! He\u2019ll be blogging about their ...",
-          1335181504
-        ],
-        [
-          "http://www.youtube.com/watch?v=6MObHh6yxR0 Harpoon Brewer Matt DeLuca talks about Black IPA The 100 Barrel Series celebrates the brewing talents and creativity of Harpoon Brewers. We have enjoyed brewing and drinking beers brewed in the IPA style fo...",
-          1327042800
-        ],
-        [
-          "BEER SPECIFICATIONS \r\nStyle: Black IPA\r\nOriginal Gravity: 18\r\nAlcohol by Volume: (ABV) - 7.0% \r\nIBU\u2019S: 67\r\n\r\nAbout Black IPA\r\nWe have enjoyed brewing and drinking beers brewed in the IPA style for a long time. Our flagship Harpoon IPA and our Leviathan Imperial IPA are two of our favorites. We thought it was about time to take a crack at the Black IPA style.\r\n \r\nHarpoon brewer Matt DeLuca took over the brewhouse for our 40th 100 Barrel Series offering. A newly released specialty malt from Briess called Midnight Wheat gives this beer an almost stout-like appearance without the overly roasty attributes often associated with traditional dark malts. Flaked barley is also used in the malt bill for head retention. An intense yet diverse hop addition schedule is executed during the boil that results in a well balanced offering.\r\n \r\nOn top of the Chinook, Simcoe, Cascade, and Citra hops is an ample addition of Ahtanum hops that provides a fruity aroma to complement the earthy, spicy bitterness of this dark ale.\r\n \r\nBrewed on: 12/15/11\r\nPackaged on: 1/5/12 \r\n \r\nBREWED BY\r\nHarpoon Brewer Matt Deluca\r\n \r\nAVAILABLE FROM \r\nJanuary 2012 to .... Past 100 Barrel Series Beers",
-          1326161094
-        ],
-        [
-          "We wanted to let you know that today we are bottling our latest 100 Barrel Series beer \u2013 #40 Black IPA - in Boston today. Brewer Matt DeLuca crafted this delicious beer, and we really hope you enjoy it as much as we do! Timeline Photos",
-          1325879551
+          "Say hello to our new UFO seasonal, Big Squeeze Shandy! It's just now rolling out of the brewery, so expect to find it near you soon! Learn more: http://shout.lt/rqLw Timeline Photos",
+          1395336909
         ]
       ],
-      "dates_start": 1345034104,
-      "dates_end": 1426262288,
-      "likes_avg": 314,
-      "likes_stdev": 438,
-      "comments_avg": 17,
-      "comments_stdev": 17,
-      "shares_avg": 25,
-      "shares_stdev": 28
+      "dates_start": 1422723082,
+      "dates_end": 1474469662,
+      "likes_avg": 286,
+      "likes_stdev": 515,
+      "comments_avg": 15,
+      "comments_stdev": 24,
+      "shares_avg": 31,
+      "shares_stdev": 78
     },
     {
       "number": 6,
       "important": [
-        "patrick day",
-        "find harpoon",
-        "day",
-        "fun",
-        "compani",
-        "near",
-        "patrick",
+        "chanc win",
+        "win",
+        "chanc",
         "harpoon",
-        "find",
-        "st"
+        "friend"
       ],
       "common": [
-        "festival",
+        "beer",
+        "chanc",
+        "chanc win",
+        "friend",
+        "harpoon",
+        "tag",
+        "thelongthaw",
+        "timelin",
+        "weekend",
+        "win"
+      ],
+      "messages": [
+        [
+          "Login to your Friend of Harpoon account to start earning points for things like brewery visits, video watching, and more! Points can then be used towards the chance to win some awesome Harpoon prizes - like the ultimate Brew Weekend for you plus three friends! \n\nLearn more: https://www.harpoonbrewery.com/blog/421497/let-s-take-our-relationship-to-the-next-level Harpoon Brewery's cover photo",
+          1487362641
+        ],
+        [
+          "Do you and your boo face love Harpoon?! SHOW US! Post a picture of your love in the comment section for a chance to win a Harpoon Date Night! \n\nHappy Valentine's Day! Timeline Photos",
+          1487111401
+        ],
+        [
+          "Starting today, Friends of Harpoon can start earning points for things like visiting the brewery, taking quizzes, watching videos, and more! \n\nPoints can then be used for chances to win some sweet prizes - like a chance to come brew a beer with us! Learn more: https://goo.gl/s6r7vR Timeline Photos",
+          1487012704
+        ],
+        [
+          "Simply text \"UFO\" TO 82257 - You\u2019ll be entered for a chance to win an all-expenses-paid ski trip for you +3 friends to Sugarbush Resort!\n\nLearn more: http://ufobeer.com Harpoon Brewery's cover photo",
+          1482864464
+        ],
+        [
+          "We're giving one lucky fan and three of their friends the chance to win a UFO weekend getaway to Sugarbush Resort in March 2017! \n\nText 'UFO' to 82257 or enter here (once a day through January 16th!): http://bit.ly/2fWBRsl Timeline Photos",
+          1479253500
+        ],
+        [
+          "Show us your favorite Harpoon moment on the water! Post a photo in the comments section below by September 7th for a chance to WIN the Ultimate Harpoon Boating Bag, complete with a Harpoon towel, hat, and koozie, PLUS four complimentary tickets to the Newport International Boat Show September15-18th in Rhode Island!",
+          1472645220
+        ],
+        [
+          "Looking for one more awesome weekend before summer winds down? WIN a FREE spot on the upcoming Social Boston Sports Kennebec Rafting Getaway on Sept. 9th & 10th! TAG a friend AND SHARE this post for a chance to win! We'll choose a winner on Monday, 8/29.\n\nLearn more: http://www.socialbostonsports.com/events/97045-kennebec-rafting-trip-2016 Timeline Photos",
+          1472074200
+        ],
+        [
+          "Still got the weekend on your mind? Us too.\n\nBUT - we've got something to cheer you up. We're giving away this awesome Tivoli Audio speaker to a lucky winner. Just comment & tag a friend for a chance to win! Timeline Photos",
+          1470692761
+        ],
+        [
+          "Beer and barbecue. Barbecue and beer.... 10 Must-Haves for Throwing a Backyard Party from our friends Sweet Baby Ray's! http://lovebeerlovelife.com/\n\nWant to win some sauce and swag for your next party?! Tag a friend to win a Sweet Baby Ray's/Harpoon giftbox! Timeline Photos",
+          1467928201
+        ],
+        [
+          "Want to win a summer supply of sausage and cool gear from Kayem? Tag a friend and share this post for a chance to win!  \n\nAnd give this Kayem Artisan Sausage Banh Mi recipe with Harpoon Sweet a try Spot: http://bit.ly/1V0XxhO Timeline Photos",
+          1466543520
+        ],
+        [
+          "Bring your backyard party grub game to the next level with this Kayem Artisan Sausage Hash! Plus, want to win a summer supply of sausage and cool gear from Kayem? Tag a friend below for a chance to win! \n\nRecipe: http://bit.ly/1Xfy0aV Timeline Photos",
+          1465650001
+        ],
+        [
+          "Want to win a Summer's supply of Abbott's Frozen Custard?! Tag the friend you'd invite over for a custard party! We'll pick a winner tomorrow at 5pm!\n\nWhile you wait, check out this Camp Wannamango Beer Float Recipe: http://bit.ly/1OJAc2i Timeline Photos",
+          1464202801
+        ],
+        [
+          "Who do you like to enjoy a beer and pretzel with? Tag 'em! Timeline Photos",
+          1460672501
+        ],
+        [
+          "We want to fly you and your 3 friends to Boston for HarpoonFest in May... Just show us how you Love Harpoon and Love Life for a chance to win! \n\nContest ends 3/17: www.lovebeerlovelife.com",
+          1457880499
+        ],
+        [
+          "Beer our Valentine?? Tag yours! Timeline Photos",
+          1455475606
+        ],
+        [
+          "How do you \u201cLove Beer. Love Life.\u201d?! Show us for a chance to win a trip for four to HarpoonFest in May! \n\nEnter here: www.lovebeerlovelife.com Timeline Photos",
+          1452890685
+        ],
+        [
+          "Wild card action this weekend and we\u2019re prepping for game day with Sweet Baby Ray's! Want to get in on the fun? Tag a friend below for a chance to win some Harpoon and SBR swag!\n\nFind Harpoon this weekend: http://www.harpoonbrewery.com/beer-finder Timeline Photos",
+          1452178359
+        ],
+        [
+          "Any guess as to what this is?? Find us on Instagram & Twitter @HarpoonBrewery for a chance to win $25 to Harpoon! Timeline Photos",
+          1449103495
+        ],
+        [
+          "Harpoon Helps Cupid Splash is on Saturday, March 21st! Plunge into Boston Harbor with us to raise funds for Save the Harbor/Save the Bay. Harpoon beer and lunch from Tasty Burger will be served right on the beach, and all participants will have a chance to win great prizes, including round trip flights on JetBlue! Learn more: http://www.cupidsplash.org/ Harpoon Brewery's cover photo",
+          1425861095
+        ],
+        [
+          "How are you embracing the Blizzard of 2015? Show us using #thelongthaw in your post for a chance to win a trip to Iceland!\n\nAnd don't forget - Our Boston Brewery is closed today. Stay safe people! Timeline Photos",
+          1422370822
+        ],
+        [
+          "You've got less than a week to enter #TheLongThaw sweepstakes for a chance to win the Best Weekend Ever with Harpoon! To enter, go to www.thelongthaw.com! Timeline Photos",
+          1393774989
+        ],
+        [
+          "Let the thaw begin! Share how you're enjoying #TheLongThaw at www.thelongthaw.com for a chance to win awesome Harpoon prizes! Timeline Photos",
+          1393083007
+        ],
+        [
+          "How are you enjoying #TheLongThaw this President's Day Weekend? Tell us at http://shout.lt/qlGn for a chance to win some great Harpoon prizes! Timeline Photos",
+          1392480020
+        ],
+        [
+          "Hopefully you stocked up for this hump day snow day! Share how you enjoy #TheLongThaw for a chance to win the Best Weekend Ever with Harpoon! http://shout.lt/p1RV Timeline Photos",
+          1391619611
+        ],
+        [
+          "Looking for Superbowl plans? Head to Pier6 Boston Waterfront for drafts of The Long Thaw White IPA and a chance to win a K2 Snowboard, ski lift tickets, & more! We'll see you there! Timeline Photos",
+          1390946400
+        ],
+        [
+          "This is how we're enjoying The Long Thaw!\n\nShare how you're enjoying #TheLongThaw at www.thelongthaw.com & you could win the Best Weekend Ever with Harpoon & other cool prizes - like tickets to Harpoon St. Patrick's Fest! Timeline Photos",
+          1390345201
+        ],
+        [
+          "Let #TheLongThaw continue this weekend! Share how you enjoy it: http://www.thelongthaw.com Timeline Photos",
+          1389977361
+        ],
+        [
+          "How do u enjoy #TheLongThaw? Go to www.thelongthaw.com for a chance to win the Best Weekend Ever with Harpoon! The 1st 250 people to enter get a Long Thaw long sleeve t-shirt! Timeline Photos",
+          1389744000
+        ],
+        [
+          "From January 14 through March 6, we\u2019re giving you a chance to win an all-inclusive trip with a friend for the Best Weekend Ever with Harpoon! Go to www.thelongthaw.com to enter! #TheLongThaw Harpoon Brewery's cover photo",
+          1389728418
+        ]
+      ],
+      "dates_start": 1404751209,
+      "dates_end": 1478109030,
+      "likes_avg": 293,
+      "likes_stdev": 462,
+      "comments_avg": 32,
+      "comments_stdev": 68,
+      "shares_avg": 24,
+      "shares_stdev": 32
+    },
+    {
+      "number": 7,
+      "important": [
+        "harpoon st patrick",
+        "timelin",
+        "harpoon",
+        "st",
+        "patrick"
+      ],
+      "common": [
+        "festiv",
         "harpoon",
         "harpoon st",
         "harpoon st patrick",
-        "harpoon st patrick festival",
         "patrick",
-        "patrick festival",
+        "patrick festiv",
         "st",
         "st patrick",
-        "st patrick festival"
+        "st patrick festiv",
+        "timelin"
       ],
       "messages": [
         [
@@ -888,18 +1070,181 @@
       "shares_stdev": 28
     },
     {
-      "number": 7,
+      "number": 8,
       "important": [
-        "timelin photo",
-        "new",
-        "pilot",
-        "craft",
-        "avail",
-        "learn",
-        "ipa",
-        "breweri",
         "beer",
-        "craft beer"
+        "barrel seri",
+        "timelin",
+        "barrel",
+        "seri"
+      ],
+      "common": [
+        "barrel",
+        "barrel seri",
+        "beer",
+        "brew",
+        "brewer",
+        "harpoon",
+        "ipa",
+        "seri",
+        "seri beer",
+        "timelin"
+      ],
+      "messages": [
+        [
+          "In America, you fork over your credit card to keep a tab. In Germany, bartenders mark your coaster to keep track of how many beers you've had. This unique transaction was the inspiration behind the label for New 100 Barrel Series #57- Sticke Alt! \n\nLearn about the beer and the release parties: http://bit.ly/1Z0gKng Timeline Photos",
+          1462113689
+        ],
+        [
+          "Curious and intrepid voyagers of the 1800\u2019s were the inspiration behind this deep-flavored ale - clocking in at 13% ABV \u2013 for our limited release Imperial Series. Arctic Ale's history is both fascinating and overlain by tragedy. \n\nGet the full scoop from Brewer Scott Shirley: http://bit.ly/1SUnX8t Timeline Photos",
+          1458396372
+        ],
+        [
+          "The Harpoon Distributing Company Road Crew didn't mess around with this years Kettle Cup - our employee brewing competition Their robust porter made with ancho and fresh poblano peppers and cocoa nibs hits shelves in early Feb as part of our 100 Barrel Series. \n\nJoin us for the release party of Thunder Foam in Boston on 2/2! Tickets go on sale at 11 AM on 1/7: http://bit.ly/1mDovDa Harpoon Brewery",
+          1452127843
+        ],
+        [
+          "Excited to make DRAFT Magazine's Top 25 beers of 2015 with our 100 Barrel Series #53 Braggot Rights - a big juicy Double IPA  infused with Wildflower Honey!\n\nLearn more about the beer: http://www.harpoonbrewery.com/beer/377024/100-barrel-series-53-braggot-rights Top 25 beers of 2015",
+          1449531001
+        ],
+        [
+          "Introducing new 100 Barrel Series #55 - EHOP Collaboration w/ our friends from Deschutes Brewery!\n\nLearn more and use our beer finder to locate it near you: http://www.harpoonbrewery.com/beer/390884/100-barrel-series-55-ehop-collaboration Mobile Uploads",
+          1444146206
+        ],
+        [
+          "Join us in welcoming the newest 100 Barrel Series Beer - #53 Braggot Rights! The brewers name & face is on the back so you know who to thank. Cheers to Kettle Cup winner and brewer, Steve Theoharides! \n\nLearn more: http://bit.ly/1EZMPUD Timeline Photos",
+          1426113323
+        ],
+        [
+          "Have you tried 100 Barrel Series #52 - Tuscan Pool Party?!\n\nLearn more about our collaboration beer with Birrificio Olmaia: http://www.harpoonbrewery.com/beer/369348/100-barrel-series-52-tuscan-pool-party Mobile Uploads",
+          1419987041
+        ],
+        [
+          "Wonder why our new 100 Barrel Series beer is called Tuscan Pool Party? Read the story behind the collaboration with Birrificio Olmaia!\n\nRead more: http://www.harpoonbrewery.com/blog/369266/italy-with-a-touch-of-boston-100-barrel-series-52-tuscan-pool-party Timeline Photos",
+          1418169480
+        ],
+        [
+          "Brewmancing at its finest. Have you tried 100 Barrel Series #51 - Cambridge Uncommon yet?!\n\nFind it near you: http://www.harpoonbrewery.com/beer/352476/100-barrel-series-51-cambridge-uncommon Mobile Uploads",
+          1410386726
+        ],
+        [
+          "Meet the brewers behind our newest 100 Barrel Series #51 Cambridge Uncommon - an India Style Pale Lager! \n\nFind it near you: http://www.harpoonbrewery.com/beer/352476/100-barrel-series-51-cambridge-uncommon",
+          1409002017
+        ],
+        [
+          "Join us at the Exclusive Release Party for the newest 100 Barrel Series beer #50 Citra Victorious in Boston on 4/14! \n\nMust be a Friend of Harpoon to get tickets. Login or become a Friend here: http://www.harpoonbrewery.com/friendofharpoon Timeline Photos",
+          1397147623
+        ],
+        [
+          "We're excited to release new 100 Barrel Series Beer #50 at an exclusive event on April 14th at our Boston Beer Hall. Tickets will be available starting tomorrow at 11 AM. Login to Friend of Harpoon or create an account for more information: http://www.harpoonbrewery.com/friendofharpoon",
+          1396562664
+        ],
+        [
+          "Have you tried our latest 100 Barrel Series Beer #49 Brown IPA? Fill your fridge with something special this weekend! http://shout.lt/qzkC Timeline Photos",
+          1393002011
+        ],
+        [
+          "\"Science, a good excuse to brew & drink more beer.\" -John Cataldo \n\nWatch the video of our latest 100 Barrel Series & tell us if you agree! Harpoon 100 Barrel Series #49 - Brown IPA Sweet, roasted notes of chocolate and honey malts combine with Chinook, Simcoe and Amarillo hops in this welcome addition to our family of IPAs.  ",
+          1391558400
+        ],
+        [
+          "Any guesses what 100 Barrel Series #49 is going to be? It gets bottled next week! Timeline Photos",
+          1390521600
+        ],
+        [
+          "This awesome video helps explain the unique story behind 100 Barrel Series Beer - #48 Polskie Mastne. Enjoy the video...and the beer! Na zdrowie!\nhttp://www.youtube.com/watch?v=dXUdGd3TApo Harpoon 100 Barrel Series #48 - Polskie Mastne It was a trip to Cieszyn Brewery, during a Harpoon European beer trip to Poland in September 2013, that inspired the newest 100 Barrel Series Beer - #48 Pols...",
+          1386782982
+        ],
+        [
+          "Introducing our newest 100 Barrel Series Beer - #48 Polskie Mastne! Na zdrowie! Learn more and find out where to find it: http://www.harpoonbrewery.com/beer/2832/100-Barrel-Series-48-Polskie-Mastne Timeline Photos",
+          1384992001
+        ],
+        [
+          "Voting is underway to crown this year's Harpoon Kettle Cup. The Prize: the next 100 Barrel Series beer. What would you brew? Timeline Photos",
+          1378764600
+        ],
+        [
+          "The vaunted Harpoon Kettle Cup is underway! Who will win this year\u2019s employee homebrew competition and get their beer bottled in our 100 Barrel Series? Follow all the action on our blog: http://ow.ly/ojbwE Timeline Photos",
+          1377613800
+        ],
+        [
+          "Our latest 100 Barrel Series to hit the shelves... Saison Various!\nBeer details: http://ow.ly/nIYJg Harpoon 100 Barrel #47 - Saison Various This complex, spiced golden ale is a blend of four unique saisons, each brewed by a different Harpoon brewer. In the spirit of collaboration, Ryan balanced E...",
+          1375898865
+        ],
+        [
+          "Welcome our latest 100 Barrel Series: Kettle Cup 2013, a delightfully drinkable Belgian-style ale with a big kick of American hops. This is the winner of our employee homebrew competition from last fall. Who's ready for a pint?! \r\n\r\nBeer Facts: http://ow.ly/kqbjx Timeline Photos",
+          1366905600
+        ],
+        [
+          "Ladies and gentlemen, we give you our next 100 Barrel Series... El Triunfo Coffee Porter. We are bottling now. Look for it near you in coming weeks. Let us hear those \"Cheers!\" http://ow.ly/f6OCV Timeline Photos",
+          1352332802
+        ],
+        [
+          "Patiently awaiting our next 100 Barrel Series release? Watch out next month for El Triunfo Coffee Porter. Jesse from Harpoon and Mike from Equal Exchange are hard at work blending beer and coffee! http://www.harpoonbrewery.com/beer/443/El-Triunfo-Coffee-Porter Timeline Photos",
+          1351639800
+        ],
+        [
+          "For those of you who have been keeping up with our annual Harpoon Employee Homebrew Competition, you probably have been eagerly awaiting this announcement... The winning beer - which you will able to enjoy next year as part of our 100 Barrel Series - is the Hoppy Belgian Blonde! \r\n\r\nRead more about the finals on our blog! \r\n\r\nhttp://lovebeerlovelife.wordpress.com/2012/09/18/behind-the-scenes-we-have-a-winner/ Timeline Photos",
+          1347980271
+        ],
+        [
+          "The finalists for the annual Harpoon Employee Homebrew Competition have been chosen! There is a Coconut Porter and a Green Tea IPA up for votes, along with eight others... check out all the beers have made the cut on our blog.\n\nWhich of these beers would you like to stock your fridge up with if it becomes part of our 100 Barrel Series? Behind the Scenes: The Finalists Have Been Announced! For those who have been following \u2013we\u2019re in the midst of our annual Harpoon Employee Homebrew Competition. This week, there have been two solid days of tasting. With 20 entries, the competition was...",
+          1347645189
+        ],
+        [
+          "Behind the Scenes: Our first round of tastings for the Annual Harpoon Employee Homebrew competition are underway... We'll have a list of the finalists posted as soon as the votes have been tallied. The winning beer from the competition will be featured next year in our 100 Barrel Series - What style of beer would you like to win? Timeline Photos",
+          1347557166
+        ],
+        [
+          "The stakes are high. The competition fierce. Go behind the scenes of Harpoon\u2019s Employee Homebrew Competition. The winning brew will be featured next year as a member of our 100 Barrel Series! What would you brew? http://ow.ly/duLcd Timeline Photos",
+          1346882401
+        ],
+        [
+          "Harpoon brewer Ken Hermann talks about what it was like to brew the brand new 100 Barrel Series White IPA! Have you tried some yet? Brewer Ken Hermann chats about 100 Barrel Series #43 White IPA Ken Hermann has taken our exploration of -- and adoration for -- the IPA style in a completely new direction. With notes of orange peel and coriander, the so...",
+          1344873903
+        ],
+        [
+          "When we aren't hosting awesome festivals and road races, we actually brew beer! If you were at HarpoonFest, the Harpoon 5-Miler, or had a chance to visit our brewery in Windsor this weekend, maybe you got to enjoy our latest 100 Barrel Series beer. Here's brewer Scott Shirley sharing his thoughts and inspiration for 100 Barrel Series Ginger Wheat! Brewer Scott Shirley talks about brewing 100 Barrel Series Ginger Wheat The Harpoon 100 Barrel Series Ginger Wheat Ale is an ode to brewer Scott Shirley's favorite spice, ginger. The earthy, warming flavor of this golden-hued ale...",
+          1337624235
+        ],
+        [
+          "Harpoon 100 Barrel Series Ginger Wheat: Harpoon Brewery Scott Shirley talks about his latest brew http://www.youtube.com/watch?v=sYklGrXCiDE Brewer Scott Shirley talks about brewing 100 Barrel Series Ginger Wheat The Harpoon 100 Barrel Series Ginger Wheat Ale is an ode to brewer Scott Shirley's favorite spice, ginger. The earthy, warming flavor of this golden-hued ale...",
+          1337431611
+        ],
+        [
+          "Harpoon brewer Matt DeLuca (who recently brewed the 100 Barrel Series #40 Black IPA), along with 20 other Harpoon employees, is in Europe as part of the annual Harpoon Beer Culture Trip! He\u2019ll be blogging about their experience in The Netherlands this week \u2013 so stay tuned! http://www.lovebeerlovelife.com/2012/04/23/day-one-boston-to-amsterdam Day one: Boston to Amsterdam! Harpoon brewer Matt DeLuca (who recently brewed the 100 Barrel Series #40 Black IPA), along with 20 other Harpoon employees, is hanging out in Europe this week! He\u2019ll be blogging about their ...",
+          1335181504
+        ],
+        [
+          "http://www.youtube.com/watch?v=6MObHh6yxR0 Harpoon Brewer Matt DeLuca talks about Black IPA The 100 Barrel Series celebrates the brewing talents and creativity of Harpoon Brewers. We have enjoyed brewing and drinking beers brewed in the IPA style fo...",
+          1327042800
+        ],
+        [
+          "BEER SPECIFICATIONS \r\nStyle: Black IPA\r\nOriginal Gravity: 18\r\nAlcohol by Volume: (ABV) - 7.0% \r\nIBU\u2019S: 67\r\n\r\nAbout Black IPA\r\nWe have enjoyed brewing and drinking beers brewed in the IPA style for a long time. Our flagship Harpoon IPA and our Leviathan Imperial IPA are two of our favorites. We thought it was about time to take a crack at the Black IPA style.\r\n \r\nHarpoon brewer Matt DeLuca took over the brewhouse for our 40th 100 Barrel Series offering. A newly released specialty malt from Briess called Midnight Wheat gives this beer an almost stout-like appearance without the overly roasty attributes often associated with traditional dark malts. Flaked barley is also used in the malt bill for head retention. An intense yet diverse hop addition schedule is executed during the boil that results in a well balanced offering.\r\n \r\nOn top of the Chinook, Simcoe, Cascade, and Citra hops is an ample addition of Ahtanum hops that provides a fruity aroma to complement the earthy, spicy bitterness of this dark ale.\r\n \r\nBrewed on: 12/15/11\r\nPackaged on: 1/5/12 \r\n \r\nBREWED BY\r\nHarpoon Brewer Matt Deluca\r\n \r\nAVAILABLE FROM \r\nJanuary 2012 to .... Past 100 Barrel Series Beers",
+          1326161094
+        ],
+        [
+          "We wanted to let you know that today we are bottling our latest 100 Barrel Series beer \u2013 #40 Black IPA - in Boston today. Brewer Matt DeLuca crafted this delicious beer, and we really hope you enjoy it as much as we do! Timeline Photos",
+          1325879551
+        ]
+      ],
+      "dates_start": 1342215029,
+      "dates_end": 1423547097,
+      "likes_avg": 273,
+      "likes_stdev": 408,
+      "comments_avg": 16,
+      "comments_stdev": 16,
+      "shares_avg": 22,
+      "shares_stdev": 27
+    },
+    {
+      "number": 9,
+      "important": [
+        "beer",
+        "breweri",
+        "craft beer",
+        "craft",
+        "american"
       ],
       "common": [
         "american",
@@ -907,11 +1252,11 @@
         "american craft beer",
         "beer",
         "boston",
-        "brewers",
+        "brewer",
+        "breweri",
         "craft",
         "craft beer",
-        "fest",
-        "mass"
+        "fest"
       ],
       "messages": [
         [
@@ -1033,30 +1378,25 @@
       "shares_stdev": 28
     },
     {
-      "number": 8,
+      "number": 10,
       "important": [
-        "adventur",
-        "drink",
-        "check",
-        "timelin photo",
         "timelin",
         "happi",
+        "flannel",
         "friday timelin",
-        "friday",
-        "friend",
-        "flannel"
+        "friday"
       ],
       "common": [
         "beer",
         "flannel",
         "flannel friday",
         "friday",
-        "happy",
-        "happy friday",
-        "harpoonbrewery",
-        "together",
-        "www",
-        "www harpoonbrewery beer"
+        "friday timelin",
+        "happi",
+        "happi friday",
+        "happi friday timelin",
+        "night",
+        "timelin"
       ],
       "messages": [
         [
@@ -1080,6 +1420,10 @@
           1473427470
         ],
         [
+          "We couldn't be more excited that Fall is finally here, and our new beer Flannel Friday makes it's arrival even more exciting. So we're celebrating with a movie night: Harpoon style (read:watching a movie under the stars out in our keg yard! BYO(blankets & chairs)). Friday Night Lights will be the feature film (ahem, it's football season after all). Wear your best flannel, bring a friend, and enjoy the show.\n \nTickets are $25 and include:\n- Two cans of Harpoon beer\n- Viewing of Friday Night Lights\n- Delicious Buttered Popcorn Flannel Friday Flicks We couldn't be more excited that Fall is finally here, and our new beer Flannel Friday makes it's arrival even more exciting. So we're celebrating with a movie night: Harpoon style (read:watching a movie under the stars out in our keg yard! BYO(blankets & chairs)). Friday Night Lights will be the feature film (ahem, it's football season after all). Wear your best flannel, bring a friend, and enjoy the show.\n \nTickets are $25 and include:\n- Two cans of Harpoon beer\n- Viewing of Friday Night Lights\n- Delicious Buttered Popcorn",
+          1472735720
+        ],
+        [
           "Jumping into the long weekend like CANNONBALLLL! \n\nHappy Friday!",
           1467372639
         ],
@@ -1092,6 +1436,10 @@
           1450475627
         ],
         [
+          "Fridays are better when you flannel. \n\nFind your weekend beer: http://www.harpoonbrewery.com/beer-finder Mobile Uploads",
+          1445018462
+        ],
+        [
           "May your weekend be long and your beer supply endless... Happy Friday!\n\nFind Harpoon: http://www.harpoonbrewery.com/beer-finder Mobile Uploads",
           1438348259
         ],
@@ -1100,8 +1448,8 @@
           1434732237
         ],
         [
-          "HarpoonFest + Take 5 = the perfect Friday Timeline Photos",
-          1431723455
+          "To Friday and the friends that make it the best night of the week. Mobile Uploads",
+          1427496150
         ],
         [
           "Work with Mother Nature, not against her. Happy Friday!\n\nEmbrace the season: www.thelongthaw.com #thelongthaw Timeline Photos",
@@ -1138,528 +1486,145 @@
         [
           "Crack open, enjoy, recycle, repeat. Happy Friday! Timeline Photos",
           1383333223
-        ],
-        [
-          "Oh hey there 70 degree weather! Pick something up tonight that pairs well with this beautiful New England Friday! Timeline Photos",
-          1382116801
         ]
       ],
-      "dates_start": 1399774235,
-      "dates_end": 1467106047,
-      "likes_avg": 362,
-      "likes_stdev": 355,
-      "comments_avg": 13,
+      "dates_start": 1405954829,
+      "dates_end": 1469831811,
+      "likes_avg": 343,
+      "likes_stdev": 356,
+      "comments_avg": 12,
       "comments_stdev": 14,
-      "shares_avg": 20,
-      "shares_stdev": 18
-    },
-    {
-      "number": 9,
-      "important": [
-        "harpoon beer",
-        "tri",
-        "hall",
-        "special",
-        "best",
-        "rais",
-        "beer hall",
-        "come",
-        "pretzel",
-        "harpoon beer hall"
-      ],
-      "common": [
-        "beer",
-        "beer hall",
-        "boston",
-        "brewery",
-        "fund",
-        "grateful",
-        "hall",
-        "harpoon",
-        "night",
-        "pint"
-      ],
-      "messages": [
-        [
-          "Come compete for Best \u2018Stache, eat some Movember-themed pretzels, try our special Movember beer, and raise a glass to men\u2019s health! \n\n11/30 at the Harpoon Beer Hall: http://harpoonmovember.splashthat.com/FBevent Timeline Photos",
-          1480256463
-        ],
-        [
-          "For the month of October, Harpoon Helps will donate $1 per pint of UFO R.A.Z. sold at our breweries in Boston, MA, and Windsor, VT, to local breast cancer charities (Ellie Fund & Casting for Recovery)!\n\nLearn how you can get involved: http://bit.ly/2dlV4X0 Timeline Photos",
-          1475668800
-        ],
-        [
-          "Harpoon 192 is a toast to Pan-Mass Challenge riders, volunteers, staff, and all who make the incredible 192 mile ride happen each year. The goal is simple: Fight cancer. For every bottle/pint sold, Harpoon Helps will make a $1 donation to the PMC!\n\nLearn more about the beer and where to find it: http://bit.ly/28VF8US Timeline Photos",
-          1466632262
-        ],
-        [
-          "Thank you to everyone who joined us for the 15th annual Harpoon 5-Miler to benefit The Angel Fund! 3,900 runners, 300 volunteers and hundreds of spectators helped us raise $215,500 (and counting!) for The Angel Fund, which supports critical research for Dr. Robert Brown and his team at UMass Medical Center. The 2016 Harpoon 5-Miler",
-          1464114409
-        ],
-        [
-          "Will run for beer AND a cure! Today, 5,000 folks ran for an important cause: to help cure ALS. Cheers to all of our runners, volunteers, sponsors, and The Angel Fund for ALS Research for their relentless work towards a cure!",
-          1463932319
-        ],
-        [
-          "The lottery for the Harpoon 5-Miler to benefit The Angel Fund for ALS Research on May 22nd is OPEN!\n\nHurry though, it closes 3/21 at Noon: http://www.harpoon5miler.com/register Timeline Photos",
-          1458167400
-        ],
-        [
-          "New Beer Hall Event: Harpoon Brews & Foods Night! \n\nWe're hosting an epic food night once a month in the Beer Hall. Ten local restaurants will cook up bites to enjoy while you drink beers with friends. Plus, a portion of the profits will go to charity! Join us January 25th for Soups & Stews!\n\nLearn more and get your tickets now: http://bit.ly/1O6nDNM Harpoon Brew & Foods Night",
-          1451921567
-        ],
-        [
-          "Harpoon X-Night is back! And it's not your average Mug Club...\n\nEvery month, enjoy a limited batch pilot beer in the Harpoon Beer Hall with 300 other beer loving folks! We don't give away the beer of night ahead of time, so you come ready for anything. You'll get a special mug etched with your name and all of the dates you attend in 2016, hear from the Brewer(s) responsible, and then we collect your honest feedback of the beer!\n\nTickets go on sale tomorrow for the first X-Night of 2016 - January 18th. Learn more: http://bit.ly/1O4Tq1P Timeline Photos",
-          1451863533
-        ],
-        [
-          "Yesterday we decked the halls at community centers and homeless shelters all around Boston, Providence, RI,  Springfield, MA, and Plymouth, MA with hundreds of awesome volunteers at the 12th Annual Harpoon Helps Spread Holiday Cheer event! \n\nLooking to help out? Check out the cities spreading cheer on 12/9 and 12/12: http://harpoonhelpsspreadholidaycheer.splashthat.com Timeline Photos",
-          1449412626
-        ],
-        [
-          "Proud to support the fight against cancer! Cheers 2015 Pan-Mass Challenge riders and volunteer! Mobile Uploads",
-          1438520352
-        ],
-        [
-          "We've been the proud sponsor of the Pan-Mass Challenge since 1998 BUT this year, you'll see a new beer at the finish line (and at our breweries and other limited locations)! \n\nFor every bottle of Harpoon 192 sold, Harpoon Helps will make a $1 donation to the PMC. Learn more: http://bit.ly/1FY0GbB Timeline Photos",
-          1434402557
-        ],
-        [
-          "The Harpoon 5-Miler raised $180,600 (and counting) this year, for The Angel Fund. That puts the races 14 year total at over $1,147,000! It wouldn't be possible without our amazing volunteers and runners! THANK YOU! \n\nLearn how you can help support the fight against ALS: http://www.harpoon5miler.com/Harpoon-5-miler-2015 Timeline Photos",
-          1431984241
-        ],
-        [
-          "What happens when Harpoon and New Balance get together? One delicious way to carbo load. \n\nCome check out our newest beer on tap for a limited time at the Harpoon Beer Hall! Timeline Photos",
-          1429047001
-        ],
-        [
-          "Was volunteering more one of your New Year's resolutions? We could use your help on 6 Harpoon Helps volunteer opportunities this year! \n\nLearn more: http://bit.ly/1BLKd99 Timeline Photos",
-          1420986963
-        ],
-        [
-          "Harpoon X-Night is tomorrow night at 7:30. Do you have your tickets yet?! \n\nBuy now: https://www.eventbrite.com/e/harpoon-x-night-at-harpoon-brewery-beer-hall-1216-tickets-14384629815 Harpoon X-Night at Harpoon Brewery & Beer Hall 12/16 As you know, we\u2019re always tapping unique batches from our 10 barrel pilot system for you to enjoy in the Beer Hall. Some of these beers are tests when we\u2019re considering introducing a new beer. Others are simply creative experiments with different brewing techniques and ingredients. As fans of our be\u2026",
-          1418678738
-        ],
-        [
-          "Ring in 2015 the right way... with Harpoon! Buy tickets today for our NYE party! Harpoon Beer Hall | Gilt City Boston New Year\u2019s Eve Party Admission with Dinner, Beer & More",
-          1418494081
-        ],
-        [
-          "Thank you to all the awesome Harpoon Helpers who helped us spread holiday cheer in Boston, Springfield, Newport, and Plymouth today! Mobile Uploads",
-          1417905939
-        ],
-        [
-          "Harvest season might be over but find (& drink) Grateful Harvest & give back! $1 of every 6-pack sold goes to the local food bank!\n\nLearn more: http://www.harpoonbrewery.com/blog/369112/harpoon-helps-is-fighting-hunger-this-holiday-season Timeline Photos",
-          1417563900
-        ],
-        [
-          "The cast of the Boston Tea Party Ships & Museum is transforming our Beer Hall into a colonial tavern on Wednesday, December 10th!  Join us and try a special batch of Harpoon beer, brewed with an authentic colonial style tea!\n\nBuy tickets here: http://shout.lt/L3kq Timeline Photos",
-          1416931238
-        ],
-        [
-          "Help Harpoon fight hunger this holiday season - drink Grateful Harvest Cranberry Ale!\n\nWe donate $1 to the local food bank where it was purchased. Learn more! http://shout.lt/KRTv Timeline Photos",
-          1415837595
-        ],
-        [
-          "Thanks for joining us for Harpoon X-Night! We hope you enjoyed our West Coast IPA. \n\nSave the Date: the next Harpoon X-Night is November 18th at our Boston Beer Hall! Mobile Uploads",
-          1414022194
-        ],
-        [
-          "Join us in welcoming back Grateful Harvest Cranberry Ale! We donate $1 per six-pack to the local food bank in the area in which it was purchased. \n\nLearn more and find it near you: http://www.harpoonbrewery.com/beer/101/grateful-harvest-ale Timeline Photos",
-          1413325801
-        ],
-        [
-          "Some of our beers are tests when we\u2019re considering introducing something new. Others are simply creative experiments. We thought you might enjoy being one of the first to try our latest test batch. Join us for Harpoon X-Night on September 16th at our Boston Beer Hall!\n\nTickets include etched mug + beer of the night: https://www.eventbrite.com/e/harpoon-x-night-at-harpoon-brewery-beer-hall-916-tickets-12909549811 Timeline Photos",
-          1410298200
-        ],
-        [
-          "I\u2019m Warren Dibble, CFO of Harpoon Brewery and I\u2019ve accepted the #IceBucketChallenge from Corey Johnson on behalf of Dan Kenary to help raise awareness of ALS and support Pete Frates. We now nominate Odell Brewing Co, Saranac, Deschutes Brewery, and Dogfish Head Beer for the Ice Bucket Challenge! You\u2019ve got 24 hours to complete this challenge or donate to #teamFrateTrain Cheers! http://www.petefrates.com/ Ice Bucket Challenge to #StrikeOutALS",
-          1407259463
-        ],
-        [
-          "Congrats Pan-Mass Challenge riders! An awesome ride for such an important cause... Cheers! Mobile Uploads",
-          1406998705
-        ],
-        [
-          "Head to our Boston Beer Hall for a pint of our special Pan-Mass Challenge beer! $1 of every pint goes to the PMC! Grab one before it's gone & help fight cancer! \n http://www.harpoonbrewery.com/blog/350607/brewing-up-a-fight-against-cancer Timeline Photos",
-          1406063701
-        ],
-        [
-          "Brewing Up a Fight Against Cancer for the Pan-Mass Challenge! Read our blog to see how you can help: http://www.harpoonbrewery.com/blog/350607/brewing-up-a-fight-against-cancer #PMC2014 Timeline Photos",
-          1403640000
-        ],
-        [
-          "Thanks to everyone who ran the Harpoon 5-Miler on Sunday May 18th. You joined 4K+ runners in the fight against ALS and raised over $200K! The post-race party was well deserved! 2014 Harpoon 5-Miler",
-          1400676995
-        ],
-        [
-          "Would you like to taste test a Harpoon test brew? Join us for Harpoon X-Night on 4/23 in our Boston Beer Hall!  Purchase tickets here: http://shout.lt/srHB Timeline Photos",
-          1397912407
-        ],
-        [
-          "The Lottery is now open for the Harpoon 5-Miler on May 18th to benefit The Angel Fund! Lottery closes on 3/17 at 1 PM. Register here: https://register.racepartner.com/harpoon5miler/ Timeline Photos",
-          1394474401
-        ],
-        [
-          "With the help of friends and volunteers, Harpoon Helps supported many worthy organizations and are very proud to announce (drumroll, please) charitable contributions totaling $904,365 for 2013! http://ow.ly/sut9k \n\nA big thanks to: Vermont Foodbank, Save the Harbor / Save the Bay, The One Fund Boston, Pan-Mass Challenge, Movember USA, A.D. Makepeace Company The Greater Boston Food Bank Timeline Photos",
-          1389468085
-        ],
-        [
-          "Cheers to all of our awesome volunteers today for #HarpoonSpreadsCheer! We had a blast decorating and celebrating with you. Stay tuned for more photos! Mobile Uploads",
-          1386459210
-        ],
-        [
-          "Dress London style with us Wednesday, December 4th from 6:30 \u2013 8:30 PM to benefit The Angel Fund at Bella Luna Restaurant and Milky Way Lounge! It\u2019s a $20 suggested donation at the door, or buy tickets in advance: http://angelfund.brownpapertickets.com/ Hope to see you there! Pass The Hat for The Angel Fund Guest Bartenders include Harpoon Brewery owner Dan Kenary and Boston Beer Brewer Dean Giancostas ",
-          1386030600
-        ],
-        [
-          "Keep drinking Grateful Harvest everyone! With your help, we've raised over $4,000 to the Vermont Foodbank! Special thanks to Hannaford Supermarkets & Farrell Distributing. Find Grateful Harvest near you and drink on! http://ow.ly/qPwf1 Timeline Photos",
-          1384455601
-        ],
-        [
-          "Tonight, reach for something good that also does good. Check out Grateful Harvest Cranberry Ale. $1 per six pack goes to a local foodbank. http://www.harpoonbrewery.com/beer/101/Grateful-Harvest-Ale Timeline Photos",
-          1383069601
-        ],
-        [
-          "We invite you and yours to join us for the a Harpoon-style Thanksgiving meal in our Boston Beer Hall on 11/10. 100% of the profits will go to The Greater Boston Food Bank! https://harpoonharvestbeerdinner.eventbrite.com/ Timeline Photos",
-          1382635801
-        ],
-        [
-          "Today at our breweries we tapped the first kegs of our Grateful Harvest Cranberry Ale to kick off the busiest and most impactful time for our charitable program, Harpoon Helps. $1 of each pint/6-pack/growler sold goes to the local food bank! Read more from our blog: http://ow.ly/pAdd7 Timeline Photos",
-          1381186800
-        ],
-        [
-          "Cheers to all the Pan Mass Challenge riders! Timeline Photos",
-          1375538401
-        ],
-        [
-          "As a proud supporter of the Pan-Mass Challenge, we have teamed up with Kappy's Fine Wine & Spirits to offer a $1 donation for every 12-pack of Harpoon and UFO purchased in the month of July. Read our latest blog post for details on our long-standing relationship with the PMC! Harpoon & Kappy's Proudly Support The Pan-Mass Challenge The Harpoon Brewery has been an integral part of The Pan Mass Challenge since 1998. Over the course of the 3 day event, (the kickoff party in Sturbridge, and the finish lines in Bourne and in Provincetown),...",
-          1374530400
-        ],
-        [
-          "Since the Bruins fell to the Blackhawks on Monday, we are now holding up our end of the bet we made with Half Acre Beer Company from Chicago. We've renamed one of our pilot beers \"Ruined Bruin\", and Half Acre sent us a tap handle to go along with it. It's currently at our Boston Beer Hall, so enjoy this (bittersweet) pint with us! Timeline Photos",
-          1372525277
-        ],
-        [
-          "Harpoon is hosting a dinner for over 100 beer bloggers in July as part of the 2013 Beer Bloggers Conference. For this event, we'd like to brew something special! We asked the bloggers to submit suggestions on what we should brew, but we need your help to decide what gets added on tap as a pilot batch in the Boston Beer Hall. Vote for your favorite: http://bit.ly/11juw53 Timeline Photos",
-          1370613601
-        ],
-        [
-          "Have you had a pint of our Ales for ALS beer?\n\n It's an American Session IPA and $1 of every pint sold of this beer goes to ALS TDI, a nonprofit biotechnology organization located in Cambridge that is dedicated to developing effective treatments for ALS.\n\nIt's on tap only at our Boston Beer Hall and at Harpoon Riverbend Taps & Beer Garden at the Harpoon Brewery in Windsor, VT. \n\nWe hope to enjoy a pint of it with you soon! Timeline Photos",
-          1370295000
-        ],
-        [
-          "We have a winner of the You Brew for Boston Raffle\u2026  Nick Coe of Cambridge, MA!  We are truly grateful for everyone who came for a pint at our Brewed for Boston Nights or entered the raffle.  Together we raised over $35,000 for The One Fund. To that, we raise a pint! http://ow.ly/lkl3L Timeline Photos",
-          1369317600
-        ],
-        [
-          "In order to raise more money for The One Fund, we have extended our YOU Brew For Boston raffle until HarpoonFest. Tickets are $50 and can be purchased at both breweries. \r\n\r\nCan\u2019t make it to a brewery, but still want to buy a ticket? Email youbrew@harpoonbrewery.com. Here are all the details: http://bit.ly/15V6GE3 Timeline Photos",
-          1368108003
-        ],
-        [
-          "A big THANK YOU to everyone who attended a \u201cBrewed for Boston\u201d Night and waited patiently to get in the beer hall. There was a tremendous outpouring of support. Over three nights we raised $30,950 for The One Fund!\r\n\r\nCheers to you for enjoying a pint and pretzel with us for a great cause. We are all Boston Strong. Timeline Photos",
-          1368103244
-        ],
-        [
-          "Our final Brewed for Boston Night is tomorrow from 6-9p at our Boston Beer Hall. Come have a pint and a pretzel! 100% of proceeds benefit The One Fund.  Brewed for Boston Nights to Benefit The One Fund Like most in and around Boston, Harpoon employees immediately felt compelled to \u201cdo something\u201d after the tragic events of Marathon Monday in Boston. So for the next three Tuesday nights Harpoon employees from every department will be donating their time, and the brewery will be donating 100% of pint and pretzel sales, at \u201cBrewed for Boston Nights at Harpoon\u201d in an effort to raise funds for victims of the tragedy.\n\nThe Brewed for Boston Nights at Harpoon will take place during extended hours, from 6:00 pm to 9:00 pm, in the Harpoon Beer Hall. During that three-hour period, 100% of sales on all Harpoon pints of beer and pretzels will be donated to http://www.onefundboston.org/, an organization created to provide support to victims of the tragedy.\n\n\nDates & Times: \n6:00pm - 9:00pm EST\nTuesday, April 23rd \nTuesday, April 30th\nTuesday, May 7th \n\nLocation: \nThe Harpoon Brewery Beer Hall\n306 Northern Avenue\nBoston, MA \n\nDetails: \nThe Harpoon Brewery Beer Hall will be open for extended hours the next three Tuesday nights to raise funds for victims of the Marathon Monday tragedy. Harpoon employees from every department of the brewery will donate their time to work these evenings and serve guests beer and pretzels.100% of Harpoon pint sales and 100% of pretzel sales will be donated to The One Fund. Light appetizers will be donated by local caterers for attendees.\n\nAdmission:\t\nFree of charge, no tickets necessary\n\nFor more details, please visit: http://www.harpoonbrewery.com/news/974/Brewed-for-Boston-Nights-at-Harpoon",
-          1367859855
-        ],
-        [
-          "A big THANK YOU to everyone who attended \u201cBrewed for Boston\u201d Tues night and waited patiently to get in the beer hall. There was a tremendous outpouring of support. We raised $11,790 for the One Fund in just three hours! \r\n\r\nThere is one more of these events on 5/7. Please come down and have a pint and pretzel. 100% of proceeds go to the One Fund. Details: http://ow.ly/kDHEI Timeline Photos",
-          1367503201
-        ],
-        [
-          "Cheers to everyone who attended \u201cBrewed for Boston\u201d at the Beer Hall last night\u2026 Together, we raised $8,835 for the One Fund in just three hours! We will be hosting two more of these nights on 4/30 and 5/7. Please come down, have a pint and pretzel, and help us surpass that total. 100% of proceeds go to the One Fund. \n\nWe'd also like to thank our neighbors in the Seaport area who handled our overflow and also donated to the One Fund from pints of Harpoon beer. \n\nUpcoming event details: http://ow.ly/kobOo Timeline Photos",
-          1366823456
-        ],
-        [
-          "Please join us tomorrow night from 6-9p for Brewed for Boston Night. The Boston Beer Hall will be open extended hours and 100% of proceeds from pints and pretzels purchased will be donated to One Fund Boston. Together, we are #BostonStrong.  Brewed for Boston Nights to Benefit The One Fund Like most in and around Boston, Harpoon employees immediately felt compelled to \u201cdo something\u201d after the tragic events of Marathon Monday in Boston. So for the next three Tuesday nights Harpoon employees from every department will be donating their time, and the brewery will be donating 100% of pint and pretzel sales, at \u201cBrewed for Boston Nights at Harpoon\u201d in an effort to raise funds for victims of the tragedy.\n\nThe Brewed for Boston Nights at Harpoon will take place during extended hours, from 6:00 pm to 9:00 pm, in the Harpoon Beer Hall.  During that three-hour period, 100% of sales on all Harpoon pints of beer and pretzels will be donated to http://www.onefundboston.org, an organization created to provide support to victims of the tragedy.\n\n\nDates & Times: \t\t\n6:00pm - 9:00pm EST\nTuesday, April 23rd \nTuesday, April 30th\nTuesday, May 7th \n\nLocation:  \t\t\nThe Harpoon Brewery Beer Hall\n306 Northern Avenue\nBoston, MA  \n \nDetails:  \t\nThe Harpoon Brewery Beer Hall will be open for extended hours the next three Tuesday nights to raise funds for victims of the Marathon Monday tragedy. Harpoon employees from every department of the brewery will donate their time to work these evenings and serve guests beer and pretzels.100% of Harpoon pint sales and 100% of pretzel sales will be donated to The One Fund. Light appetizers will be donated by local caterers for attendees.\n\nAdmission:\t\t\nFree of charge, no tickets necessary\n\nFor more details, please visit: http://www.harpoonbrewery.com/news/974/Brewed-for-Boston-Nights-at-Harpoon",
-          1366650775
-        ],
-        [
-          "Did you know you can reserve our private area at the Boston Beer Hall for meetings and events? Well, you do now! Boston Beer Hall: Private Groups Groups can arrange private events that can include an assortment of Harpoon experiences, including private guided tours and tastings, catered food/dining, and audio visual capabilities for business meetings. Please contact us via email for details and to reserve a spot. Note we have replaced our 5:3...",
-          1365517800
-        ],
-        [
-          "Ready to plunge into Boston Harbor with Matt Light? Help him  raise $30K for Save the Harbor/Save the Bay and the Matt Light Foundation by March 23rd and he'll be splashing along with us! Join or donate: http://ow.ly/iPnYD Timeline Photos",
-          1363111437
-        ],
-        [
-          "We'll do anything for something we love, including plunge into Boston Harbor, costumes and all! Come join us in March for the Cupid Splash... are you brave enough?! Show your LOVE for your beach! It is still a winter wonderland outside, so we wanted to warm you up with news of Harpoon Helps\u2019 Spring event, Harpoon Helps Cupid Splash! On Saturday, March 23rd, we'll be plunging into Boston...",
-          1360859400
-        ],
-        [
-          "Join us in raising a pint to our fellow Harpoon employees for their partnership with the Kraft Family Blood Donor Center over the past two years! Harpoon Helps the Kraft Family Blood Donor Center We would like to congratulate two of our fellow employees on a job well done! For the past two years, Harpoon employees Jamie Rudavsky and Jaime Schier have been making bi-weekly trips to the Kraft...",
-          1360081801
-        ],
-        [
-          "It's the weekend... so we thought we'd officially open up the new Visitor Center and Beer Hall at 5pm today! NBD, right? Details: http://ow.ly/hlhVe Timeline Photos",
-          1359745456
-        ],
-        [
-          "Update on Beer Hall Opening: We are still working through final permit approvals and are still aiming to open in early Feb. Please stay tuned for an official opening date! New Visitor Center and Beer Hall opening soon! If you\u2019ve visited the Harpoon Brewery during a busy weekend lately, you know that we have outgrown our Visitor Center. After many months of planning and construction, we expect to open our new...",
-          1359490152
-        ],
-        [
-          "Counting down the days! Check out the Boston Globe article and please visit our website for more information on the new Visitor Center: http://ow.ly/gPFuO Harpoon opening new beer hall on South Boston waterfront - The Boston Globe Harpoon recently underwent a $3.5 million renovation in order to better accommodate the visitors who have flocked to the revitalized neighborhood search of suds. A new European-style beer hall will cap a revitalized visitors center and is scheduled to open on Feb. 1. Patrons will be able to choose f...",
-          1358266801
-        ],
-        [
-          "We give you the first beer in the new Beer Hall and Visitor Center! Who else is counting down the days until we open the doors in mid-February?! Timeline Photos",
-          1355875201
-        ],
-        [
-          "We are very proud, excited and a little bit dumbfounded to announce that in 2012, the Harpoon Helps program has contributed $830,000 to support local charitable organizations. We'll raise a pint to that! Who is with us for $1 Million in 2013?! http://ow.ly/g59GN Timeline Photos",
-          1355427260
-        ],
-        [
-          "Ready for Harpoon Helps Spread Holiday Cheer today?! We have over 300 volunteers in both Boston and Providence decorating locations across the city for those in need this Holiday season. Raise a pint for all our volunteers! Timeline Photos",
-          1354372201
-        ],
-        [
-          "The bottle cap wall is going up in the new beer hall! Sneak Preview: Harpoon Beer Hall - Boston",
-          1354307341
-        ],
-        [
-          "Movember ends today but we closed the month out right with a Harpoon Mustache bash last night! Check out the album of \u201cwinners\u201d from the brewery. Harpoon had 70+ employees sport staches and raised over $8K to support Movember. What is your favorite look? Mustache Bash 2012",
-          1354215600
-        ],
-        [
-          "Time to brine the turkey with Harpoon Grateful Harvest! Does Harpoon play a role in your Thanksgiving Day tradition? Timeline Photos",
-          1353515400
-        ],
-        [
-          "The new Beer Hall is starting to take shape at our Brewery in Boston! Check out some of our architect's renderings of what the space will look like: http://studioluz.net/post/work/harpoon-brewery-visitors-center/ Timeline Photos",
-          1353024001
-        ],
-        [
-          "Free Thursday night? Never had Grateful Harvest on draft? We've teamed up with the British Beer Company and all 12 of their locations across MA & NH for a special tapping of Grateful Harvest. Come have a pint and support your local food bank!  Grateful Harvest Night at All 12 British Beer Company Locations! Join the Harpoon Helps team on Thursday, November 15th at 5pm, at any of the British Beer Company\u2019s 12 locations, enjoy a pint of Harpoon Grateful Harvest Cranberry Ale, and help us support your local food bank!\n\nFull details here: http://ow.ly/f8uBE.\n \nWe will be tapping a keg of Grateful Harvest Cranberry Ale at each BBC location. This is the only place you can enjoy a pint of Grateful Harvest on draft! Proceeds from each pint sold will be donated to the Greater Boston Food Bank, the largest hunger-relief organization in New England, which distributes more than 40 million pounds of food to 550 hunger-relief agencies that serve eastern Massachusetts.\n \nThis promotion is part of our larger Grateful Harvest fundraising effort through Harpoon Helps, where we are donating $1 per every 6-pack to the local food bank in the area where the beer was purchased.\n \nGrateful Harvest will be on tap at the following locations:\nBristol, RI\nCedarville, MA\nFalmouth, MA\nFramingham, MA\nFranklin, MA\nHyannis, MA\nManchester, NH\nPembroke, MA\nPlymouth, MA\nSandwich, MA\nWalpole, MA\nWestford, MA\n \nWe hope you can come raise a pint with us and help support local food banks!",
-          1352741408
-        ],
-        [
-          "We raise a pint to honor all Veterans! Special recognition to our Harpoon Veterans \u2013 Chris, Jay, Clinton & Ed (and those not pictured here - Joe, Scott, Todd, and Tim). Thank you for your service to our country and for being a part of our team to make great beer! Timeline Photos",
-          1352655841
-        ],
-        [
-          "Nearly 10 years ago we held our very first Harpoon Helps event at the Greater Boston Food Bank.  It marked the beginning of a wonderful and lasting partnership with our friends at the The Greater Boston Food Bank. We invited Erin Caron from GBFB to share some thoughts on the upcoming Thanksgiving season. \n\nAnd remember, every time you buy a 6-pack of Harpoon Grateful Harvest Cranberry Ale, we donate $1 to your local food bank! Harpoon Helps The Greater Boston Food Bank Nearly 10 years ago we held our very first Harpoon Helps event at the Greater Boston Food Bank. It marked the beginning of a wonderful and lasting partnership with our friends at the Greater Boston...",
-          1351622521
-        ],
-        [
-          "So you've heard about the new beer hall in Boston... how about joining our team to staff it? We are looking for \"Beer Captains.\" Step up to the bar and grab this title! Beer Captain - Boston Beer Hall Position Overview: Harpoon Beer Hall Beer Captains will be a key component of the visitor\u2019s experience at the Harpoon Brewery Beer Hall. Beer Captains will lead tours of the brewery and a tasting...",
-          1351461601
-        ],
-        [
-          "Sneak Peak! You may have heard some rumblings about our new Harpoon Beer Hall\u2026 and yes, we are hard at work creating the next great Harpoon experience here in Boston. We\u2019ll have a 20 tap draft system, an automated growler filler, big wooden tables and benches, ovens for freshly baked pretzels, and an 80 ft long bar that will be serving your favorite Harpoon beer. When you belly up to the bar, what will be your first order? Sneak Preview: Harpoon Beer Hall - Boston",
-          1351193399
-        ],
-        [
-          "Six packs of Harpoon Grateful Harvest Cranberry Ale are currently shipping out to stores near you! $1 from every six pack sold will go directly to your local foodbank. \r\n\r\nWe hope you enjoy it as much as we do! \r\n\r\nLearn more about it here - http://www.harpoonbrewery.com/beer/101/Grateful-Harvest-Ale Timeline Photos",
-          1350948556
-        ],
-        [
-          "Last night at our Windsor Brewery, we hosted 50 emergency workers, volunteers, and their families who have worked tirelessly over the last year to help rebuild Vermont from the devastation of Tropical Storm Irene. Please join all of us at the brewery in raising a pint in their honor! Timeline Photos",
-          1350398401
-        ],
-        [
-          "True to our Boston roots, we raise our tankards of ale for the Matt Light Foundation and, of course, our Colonial past! Thanks again for a great night at the Celebrity Shoot-Out and for the \u201ctips\u201d from the End Zone Militia. Timeline Photos",
-          1348092001
-        ]
-      ],
-      "dates_start": 1355147306,
-      "dates_end": 1428658100,
-      "likes_avg": 187,
-      "likes_stdev": 292,
-      "comments_avg": 9,
-      "comments_stdev": 17,
       "shares_avg": 19,
-      "shares_stdev": 28
-    },
-    {
-      "number": 10,
-      "important": [
-        "love life",
-        "life",
-        "hall",
-        "beer hall",
-        "love",
-        "beer love",
-        "beer love life",
-        "love beer",
-        "harpoon beer hall",
-        "love beer love"
-      ],
-      "common": [
-        "beer",
-        "beer love",
-        "beer love life",
-        "harpoon",
-        "life",
-        "love",
-        "love beer",
-        "love beer love",
-        "love beer love life",
-        "love life"
-      ],
-      "messages": [
-        [
-          "Come Love Beer. Love Life. with us at the Harpoon Beer Hall! Here is what's on the docket... Harpoon Brewery",
-          1483465500
-        ],
-        [
-          "Loving beer and loving life this weekend at our brewery in Windsor, VT for Harpoon Octoberfest! Join us today and tomorrow! \n\nDetails: http://harpoonoctoberfestvermont.com Timeline Photos",
-          1475938523
-        ],
-        [
-          "Take your love for Camp Wannamango to the next level with this beer marinade and mango salsa recipe!\n\nHappy cooking: http://bit.ly/1OTsMtq Timeline Photos",
-          1464442494
-        ],
-        [
-          "Happy Mother's Day to all you Harpoon loving moms out there! Timeline Photos",
-          1462717134
-        ],
-        [
-          "Thank you to everyone who entered our  #LoveBeerLoveLife Sweepstakes! We are excited to announce Instagram fan, Cheryl McIntyre as the winner! \n\nKeep on Loving Beer and Loving Life, friends: http://bit.ly/1pZJKRf Timeline Photos",
-          1459288207
-        ],
-        [
-          "We asked some Harpooners what Love Beer. Love Life means to them. Get inspired and share your own Love Beer. Love Life. moments with us at www.lovebeerlovelife.com. One winner will be randomly selected and Harpoon with fly 3 of their friends to Boston for HarpoonFest in May! (Sweepstakes ends March 17th). #LoveBeerLoveLife: A Harpooner Perspective",
-          1455383256
-        ],
-        [
-          "Happy New Year! We're keeping resolutions simple: Love Beer. Love Life. What about you? \n\n(Photo credit: Dooster Films) Timeline Photos",
-          1451673455
-        ],
-        [
-          "From the quality of our beers to our welcoming breweries, from our large seasonal festivals to our steadfast commitment to the community, we \u2013 the employee-owners at Harpoon \u2013 live and breathe our motto \u201cLove Beer. Love Life.\u201d. Love Beer. Love Life.",
-          1447445046
-        ],
-        [
-          "Love beer? Hate Zombies? \n\nThis blog by resident Harpoon Prepper is right up your alley... http://www.harpoonbrewery.com/blog/399023/love-beer-hate-zombies Timeline Photos",
-          1446425779
-        ],
-        [
-          "Love beer and the Boston Bruins? Share a pic of you enjoying both with the hashtag #HarpoonBrewin to win weekly prizes! \n\nOfficial rules: http://bruins.nhl.com/club/page.htm?id=108185 Timeline Photos",
-          1445465159
-        ],
-        [
-          "Love Beer. Love Life. Happy Friday! \n\nFind Harpoon with our Beer Finder: http://www.harpoonbrewery.com/beer-finder Mobile Uploads",
-          1444414212
-        ],
-        [
-          "Love beer. Love Life. Happy Labor Day friends! Timeline Photos",
-          1441638806
-        ],
-        [
-          "Love Beer. Love Life. Fight Hunger! Congrats and thank you to all of our Harpoon Point to Point riders and volunteers! Mobile Uploads",
-          1439050716
-        ],
-        [
-          "It's a beautiful day to love beer, love life... Cheers! Timeline Photos",
-          1434806885
-        ],
-        [
-          "Today the Harpoon 5-Miler reached the $1M mark for  The Angel Fund! Thank you to all of our amazing runners and volunteers! \n\nLove Beer. Love Running. Harpoon. Mobile Uploads",
-          1431885871
-        ],
-        [
-          "Your pets seem to love our beer just as much as you do...http://bit.ly/1LksUQl\n\nHappy National Love your Pet Day! Timeline Photos",
-          1424471944
-        ],
-        [
-          "What does Employee Ownership mean to Harpoon? Hint: We're loving beer and loving life more than ever! \n\nRead more: http://www.harpoonbrewery.com/blog/368885/what-employee-ownership-means-to-harpoon-brewery Mobile Uploads",
-          1414850282
-        ],
-        [
-          "Happy National Cat Day! \n\n16 Cats Who Are Loving Beer & Loving Life: http://www.harpoonbrewery.com/blog/368892/16-cats-who-are-loving-beer-loving-life Timeline Photos",
-          1414620001
-        ],
-        [
-          "Love beer. Love long weekends. Harpoon. Mobile Uploads",
-          1412965883
-        ],
-        [
-          "Thanks for another awesome Harpoon BBQ fest from all of us here at Harpoon! Love Beer. Love BBQ. Harpoon! Mobile Uploads",
-          1406499449
-        ],
-        [
-          "Love Beer. Love Life. Go Pats! Thanks for stopping by #HarpoonFest Julian Edelman, Shane Vereen & Chandler Jones! Timeline Photos",
-          1400362830
-        ],
-        [
-          "Love Beer. Love Life. Love Boston. #HarpoonOFest Timeline Photos",
-          1381004897
-        ],
-        [
-          "Cheers to the Harpoon / Native Staffing squad for taking home the championship in the Lake Placid Summit Lacrosse Tournament in the Masters II Division! Love beer. Love life. Timeline Photos",
-          1376483400
-        ],
-        [
-          "Throwback: Summer of \u201993. Brewery parking lot.  IPA on ice. Love beer. Love life.  \n\nWhat\u2019s your version? Tell us YOUR IPA Story in our contest for a chance to win a VIP experience at all of our festivals: http://bit.ly/17ca7FA Timeline Photos",
-          1367335334
-        ],
-        [
-          "Love beer. Love life. Glad Foursquare users agree! Check out Harpoon in the \"Best Beer\" category. The 17 Best Places in Boston, According to Foursquare Users Looking for a killer place to eat pizza? How about the best place to chill outdoors in Boston? Get on your phone. Today, Fourquare released its new \u201cBest",
-          1359657915
-        ],
-        [
-          "Great work everyone spreading Holiday cheer across the city! Thanks again to all 300+ volunteers today. We're glad you could love beer and love life with us! Timeline Photos",
-          1354391298
-        ],
-        [
-          "Nice effort guys! We'll raise a pint to that...  Edward Sharing some Winter Warmer and Rich and Dan's Rye IPA in the snow atop Temple Basin in NZ w/ Kyle Foote Love Beer. Love Life. Love NZ.",
-          1353432994
-        ],
-        [
-          "Thanks @Todd Basile for this great picture - perfect way to get in the Halloween spirit! Love Beer. Love Life! Timeline Photos",
-          1351185875
-        ],
-        [
-          "New record: 12,400+ people through the gates for Harpoon Octoberfest yesterday! We raise a pint to each and every one of you! Love beer. Love life. Timeline Photos",
-          1349016070
-        ],
-        [
-          "Our annual Brewery to Brewery Ride raised $80,000 for the Kenary Brain Tumor Research at Dana Farber Cancer Institute and $55,000 for Team Psycho Elite Development Fund.\n\nThanks to our 800 riders, 100 volunteers, every sponsor and Otis Grove - you helped make this an unforgettable event! Cheers to Harrison Buck for putting together this recap video for us... Enjoy! B2B Harpoon Brewery to Brewery Ride 2012- Love Beer Love Life",
-          1343741891
-        ],
-        [
-          "We just posted a video of brewer Matt DeLuca discussing our new Harpoon 100 Barrel Series Black IPA! Congrats to Matt for brewing a great beer!  http://www.lovebeerlovelife.com/ Love Beer. Love Life. Harpoon!",
-          1326831490
-        ]
-      ],
-      "dates_start": 1369257276,
-      "dates_end": 1457897084,
-      "likes_avg": 411,
-      "likes_stdev": 958,
-      "comments_avg": 10,
-      "comments_stdev": 16,
-      "shares_avg": 18,
-      "shares_stdev": 31
+      "shares_stdev": 18
     },
     {
       "number": 11,
       "important": [
-        "owner",
-        "system",
-        "idea",
-        "becom",
-        "fellow",
-        "meet",
-        "benefit",
-        "contribut",
-        "employeeown",
-        "practic"
+        "harpoon breweri",
+        "breweri cover",
+        "harpoon",
+        "cover",
+        "find"
       ],
       "common": [
-        "brewery",
-        "brewery month",
-        "employee",
-        "feature",
-        "ideas",
-        "ideas wall",
-        "month employee",
-        "put practice showcased ideas",
-        "system",
-        "wall"
+        "beer",
+        "breweri",
+        "breweri cover",
+        "cover",
+        "find",
+        "harpoon",
+        "harpoon breweri",
+        "harpoon breweri cover",
+        "near",
+        "near harpoon breweri cover"
+      ],
+      "messages": [
+        [
+          "A bright, floral, hoppy Pale Ale for the spring - introducing new Harpoon Fresh Tracks! \n\nFind it: http://www.harpoonbrewery.com/beer/420589/harpoon-fresh-tracks Harpoon Brewery's cover photo",
+          1488893978
+        ],
+        [
+          "We\u2019ve assembled a mix of four great Harpoon beers with the holidays in mind! Find it near you: http://bit.ly/2fZxXik Harpoon Brewery's cover photo",
+          1480527670
+        ],
+        [
+          "Holidays in a bottle.\n\nFind Harpooon Winter Warmer near you!  http://www.harpoonbrewery.com/beer/100/winter-warmer Harpoon Brewery's cover photo",
+          1479910366
+        ],
+        [
+          "Harpoon Flannel Friday, available now! \nFind it: http://bit.ly/2b4e3nJ Harpoon Brewery's cover photo",
+          1471622279
+        ],
+        [
+          "To celebrate 30 years, we released our first beer, Harpoon Ale, in limited time 6-packs. Learn more: http://www.harpoonbrewery.com/beer/12/harpoon-ale Harpoon Brewery's cover photo",
+          1465820701
+        ],
+        [
+          "Kick Off Summer With Us at our Brewery!\n\nGet early access tickets now: http://harpoonfest.com/ Harpoon Brewery's cover photo",
+          1463061528
+        ],
+        [
+          "Shop online this weekend and get free shipping! You'll find something for every Harpoon lover out there! https://shop.harpoonbrewery.com Harpoon Brewery's cover photo",
+          1448720541
+        ],
+        [
+          "What do you mean you don't follow us on Instagram!?\n\nhttp://instagram.com/harpoonbrewery Harpoon Brewery's cover photo",
+          1427118531
+        ],
+        [
+          "You could win a trip to Iceland! See recent entries at www.thelongthaw.com Harpoon Brewery's cover photo",
+          1420640625
+        ],
+        [
+          "Tailgating 101: Pack the Essentials Harpoon Brewery's cover photo",
+          1413217064
+        ],
+        [
+          "Join us to celebrate fall with Harpoon beers, bratwursts, chicken dancing and chocolate cake-eating contests all in one place. Harpoon Octoberfest! Harpoon Brewery's cover photo",
+          1411672099
+        ],
+        [
+          "Take our BuzzFeed beer quiz! http://www.harpoonbrewery.com/fridgefull Harpoon Brewery's cover photo",
+          1401206952
+        ],
+        [
+          "Mark your calendar: HarpoonFest is May 16th & 17th! More info here: http://www.harpoonbrewery.com/festivals/724/2014-harpoonfest Harpoon Brewery's cover photo",
+          1399293679
+        ],
+        [
+          "Join us March 7th & 8th in Boston for #HarpoonStPats Fest! More details: http://shout.lt/qDhB Harpoon Brewery's cover photo",
+          1394120684
+        ],
+        [
+          "Wishing you all the best in 2014! Harpoon Brewery's cover photo",
+          1388495167
+        ],
+        [
+          "Octoberfest Details: http://www.harpoonbrewery.com/events-and-festivals Harpoon Brewery's cover photo",
+          1378989724
+        ],
+        [
+          "Have you tried our White IPA yet? Find it near you http://www.harpoonbrewery.com/beerfinder Harpoon Brewery's cover photo",
+          1375443517
+        ],
+        [
+          "Happy #IPADay! Harpoon Brewery's cover photo",
+          1375356765
+        ],
+        [
+          "Take an IPA Adventure: http://www.harpoonbrewery.com/news/532/Take-an-IPA-Adventure Harpoon Brewery's cover photo",
+          1359137434
+        ]
+      ],
+      "dates_start": 1382801269,
+      "dates_end": 1463856551,
+      "likes_avg": 210,
+      "likes_stdev": 420,
+      "comments_avg": 13,
+      "comments_stdev": 34,
+      "shares_avg": 18,
+      "shares_stdev": 38
+    },
+    {
+      "number": 12,
+      "important": [
+        "idea",
+        "owner",
+        "breweri",
+        "practic",
+        "sinc"
+      ],
+      "common": [
+        "breweri",
+        "breweri month employe owner",
+        "breweri month employe owner featur",
+        "idea",
+        "idea wall breweri month employe",
+        "owner",
+        "owner featur",
+        "owner featur come",
+        "practic",
+        "sinc"
       ],
       "messages": [
         [
@@ -1709,163 +1674,25 @@
       "shares_stdev": 11
     },
     {
-      "number": 12,
-      "important": [
-        "fresh",
-        "introduc",
-        "find harpoon",
-        "harpoon breweri",
-        "new",
-        "harpoon",
-        "cover",
-        "breweri cover",
-        "ale",
-        "find"
-      ],
-      "common": [
-        "brewery",
-        "brewery cover",
-        "brewery cover photo",
-        "cover",
-        "cover photo",
-        "harpoon",
-        "harpoon brewery",
-        "harpoon brewery cover",
-        "harpoon brewery cover photo",
-        "photo"
-      ],
-      "messages": [
-        [
-          "A bright, floral, hoppy Pale Ale for the spring - introducing new Harpoon Fresh Tracks! \n\nFind it: http://www.harpoonbrewery.com/beer/420589/harpoon-fresh-tracks Harpoon Brewery's cover photo",
-          1488893978
-        ],
-        [
-          "Simply text \"UFO\" TO 82257 - You\u2019ll be entered for a chance to win an all-expenses-paid ski trip for you +3 friends to Sugarbush Resort!\n\nLearn more: http://ufobeer.com Harpoon Brewery's cover photo",
-          1482864464
-        ],
-        [
-          "We\u2019ve assembled a mix of four great Harpoon beers with the holidays in mind! Find it near you: http://bit.ly/2fZxXik Harpoon Brewery's cover photo",
-          1480527670
-        ],
-        [
-          "Holidays in a bottle.\n\nFind Harpooon Winter Warmer near you!  http://www.harpoonbrewery.com/beer/100/winter-warmer Harpoon Brewery's cover photo",
-          1479910366
-        ],
-        [
-          "Because we are beer drinkers, we all have stories to tell. And if the past thirty years have taught us anything, it's that beer is the foundation for some of the most unforgettable stories. Learn more at http://www.harpoon30.com! Harpoon Brewery's cover photo",
-          1476123337
-        ],
-        [
-          "Harpoon Flannel Friday, available now! \nFind it: http://bit.ly/2b4e3nJ Harpoon Brewery's cover photo",
-          1471622279
-        ],
-        [
-          "To celebrate 30 years, we released our first beer, Harpoon Ale, in limited time 6-packs. Learn more: http://www.harpoonbrewery.com/beer/12/harpoon-ale Harpoon Brewery's cover photo",
-          1465820701
-        ],
-        [
-          "Kick Off Summer With Us at our Brewery!\n\nGet early access tickets now: http://harpoonfest.com/ Harpoon Brewery's cover photo",
-          1463061528
-        ],
-        [
-          "Shop online this weekend and get free shipping! You'll find something for every Harpoon lover out there! https://shop.harpoonbrewery.com Harpoon Brewery's cover photo",
-          1448720541
-        ],
-        [
-          "What do you mean you don't follow us on Instagram!?\n\nhttp://instagram.com/harpoonbrewery Harpoon Brewery's cover photo",
-          1427118531
-        ],
-        [
-          "Harpoon Helps Cupid Splash is on Saturday, March 21st! Plunge into Boston Harbor with us to raise funds for Save the Harbor/Save the Bay. Harpoon beer and lunch from Tasty Burger will be served right on the beach, and all participants will have a chance to win great prizes, including round trip flights on JetBlue! Learn more: http://www.cupidsplash.org/ Harpoon Brewery's cover photo",
-          1425861095
-        ],
-        [
-          "You could win a trip to Iceland! See recent entries at www.thelongthaw.com Harpoon Brewery's cover photo",
-          1420640625
-        ],
-        [
-          "Tailgating 101: Pack the Essentials Harpoon Brewery's cover photo",
-          1413217064
-        ],
-        [
-          "Join us to celebrate fall with Harpoon beers, bratwursts, chicken dancing and chocolate cake-eating contests all in one place. Harpoon Octoberfest! Harpoon Brewery's cover photo",
-          1411672099
-        ],
-        [
-          "Beers, Bands & BBQ! Join us at at our Windsor, VT brewery July 26th & 27th!\n\nDetails: http://www.harpoonbrewery.com/festivals/871/2014-harpoon-championships-of-new-england-barbecue Harpoon Brewery's cover photo",
-          1404757198
-        ],
-        [
-          "Take our BuzzFeed beer quiz! http://www.harpoonbrewery.com/fridgefull Harpoon Brewery's cover photo",
-          1401206952
-        ],
-        [
-          "Mark your calendar: HarpoonFest is May 16th & 17th! More info here: http://www.harpoonbrewery.com/festivals/724/2014-harpoonfest Harpoon Brewery's cover photo",
-          1399293679
-        ],
-        [
-          "Join us March 7th & 8th in Boston for #HarpoonStPats Fest! More details: http://shout.lt/qDhB Harpoon Brewery's cover photo",
-          1394120684
-        ],
-        [
-          "From January 14 through March 6, we\u2019re giving you a chance to win an all-inclusive trip with a friend for the Best Weekend Ever with Harpoon! Go to www.thelongthaw.com to enter! #TheLongThaw Harpoon Brewery's cover photo",
-          1389728418
-        ],
-        [
-          "Wishing you all the best in 2014! Harpoon Brewery's cover photo",
-          1388495167
-        ],
-        [
-          "Octoberfest Details: http://www.harpoonbrewery.com/events-and-festivals Harpoon Brewery's cover photo",
-          1378989724
-        ],
-        [
-          "Have you tried our White IPA yet? Find it near you http://www.harpoonbrewery.com/beerfinder Harpoon Brewery's cover photo",
-          1375443517
-        ],
-        [
-          "Happy #IPADay! Harpoon Brewery's cover photo",
-          1375356765
-        ],
-        [
-          "Take an IPA Adventure: http://www.harpoonbrewery.com/news/532/Take-an-IPA-Adventure Harpoon Brewery's cover photo",
-          1359137434
-        ]
-      ],
-      "dates_start": 1385704400,
-      "dates_end": 1466177584,
-      "likes_avg": 173,
-      "likes_stdev": 381,
-      "comments_avg": 11,
-      "comments_stdev": 30,
-      "shares_avg": 16,
-      "shares_stdev": 34
-    },
-    {
       "number": 13,
       "important": [
-        "adventur",
-        "octob",
+        "harpoon octoberfest",
+        "breweri",
         "timelin",
-        "timelin photo",
-        "run",
-        "come",
-        "cheer",
-        "sunday",
-        "pat",
-        "monday"
+        "octoberfest",
+        "harpoon"
       ],
       "common": [
         "beer",
         "boston",
-        "brewery",
+        "breweri",
         "harpoon",
         "harpoon octoberfest",
         "octoberfest",
+        "timelin",
         "vt",
         "windsor",
-        "windsor vt",
-        "www"
+        "windsor vt"
       ],
       "messages": [
         [
@@ -1873,12 +1700,12 @@
           1485197792
         ],
         [
-          "Dress up, run then drink with us at the Boston Costume Dash 5K on October 29th!",
-          1476542134
+          "If only every 5K ended this way, right?! Way to go Harpoon Octoberfest Road Race runners!\n\nAnd now, we fest! Photos from Harpoon Brewery's post",
+          1476024352
         ],
         [
-          "Dress up, run, then drink with us Halloween weekend for the Costume Dash 5K in Charlotte on October 29th!",
-          1475771949
+          "Live music, tasty eats, games, and kegs upon kegs of Harpoon beer... what could be better?!\n\nJoin us for Harpoon Octoberfest Vermont 10/8 & 10/9: http://harpoonoctoberfestvermont.com/FB Timeline Photos",
+          1475755501
         ],
         [
           "Cheers from Harpoon Octoberfest! Timeline Photos",
@@ -1889,12 +1716,28 @@
           1475235260
         ],
         [
+          "New look, same great beer... Prost! \n\nFind Harpoon Octoberfest: http://www.harpoonbrewery.com/beer/13/octoberfest Timeline Photos",
+          1475068201
+        ],
+        [
+          "If running 3.6 miles for a good cause followed by beers, brats, and Oompah music, sounds like your ideal Sunday, join us October 9th for the Harpoon Octoberfest Road Race in Windsor, Vermont!\n\nRegister today: http://www.harpoonoctoberfestrace.com Photos from Harpoon Brewery's post",
+          1474200000
+        ],
+        [
           "Harpoon Octoberfest Vermont is one month away (October 8th & 9th)! Who's in?! Harpoon Brewery",
           1473343603
         ],
         [
           "T-minus 30 days until our biggest festival of the year kicks off - Harpoon Octoberfest Boston! \n\nEarly Access Saturday tickets (read: skip the line!) go on sale 9/1. Festival details here: http://harpoonoctoberfestboston.com/fb Timeline Photos",
           1472596155
+        ],
+        [
+          "Harpoon Octoberfest, then and now \ud83c\udf7b New skin this year but the liquid's still the same (read: delicious). Look out for it this September and October!  #tbt Timeline Photos",
+          1471556973
+        ],
+        [
+          "Registration is NOW OPEN for the Harpoon Octoberfest Road Race presented by Norris Cotton Cancer Center on October 9th at our Vermont Brewery! \n\nLearn more and register here: http://www.harpoonoctoberfestrace.com/ Photos from Harpoon Brewery's post",
+          1470085561
         ],
         [
           "You know what pairs well with sunshine? Outdoor beers in our beer garden!\n\nCome visit us in Windsor, VT: http://www.harpoonbrewery.com/breweries/windsor Timeline Photos",
@@ -1907,6 +1750,10 @@
         [
           "This. Changes. EVERYTHING! Introducing new Crowlers (can + growler)- 32oz of Harpoon deliciousness fresh from the taps! Now available at our brewery in Windsor, VT! \n\nCome visit us! http://www.harpoonbrewery.com/breweries/windsor Timeline Photos",
           1452346314
+        ],
+        [
+          "Fresh off our Windsor, VT bottling line today... The 2015 batch of Czernobog!\n\nLearn more about our Russsian Imperial Stout: http://www.harpoonbrewery.com/beer/368826/czernobog Timeline Photos",
+          1445607001
         ],
         [
           "Octoberfest weekend in Vermont is capped by a Sunday morning 3.7 mile road race through beautiful fall foliage and up long, windy hills. Runners are greeted at the finish with an Octoberfest mug and live Oompah music. Check out the fun we had all weekend long by exploring the gallery. Harpoon Octoberfest & Road Race Vermont 2015",
@@ -1929,24 +1776,16 @@
           1443747962
         ],
         [
+          "Have you registered for the Harpoon Octoberfest Race on 10/11?\n\nCheck out 10 of our favorite costumes and register today: http://bit.ly/1h5d0kh Timeline Photos",
+          1443481549
+        ],
+        [
           "Roll out the barrels...Harpoon Octoberfest Boston is in t-minus 18 days!\n\nGet the details and tell us you're coming: harpoonoctoberfestboston.com Timeline Photos",
           1442265721
         ],
         [
           "Goals.\n\nCome visit us!\nBoston: http://www.harpoonbrewery.com/breweries/boston\nWindsor: http://www.harpoonbrewery.com/breweries/windsor Timeline Photos",
           1440334416
-        ],
-        [
-          "Love seafood? Love beer? Then don't miss the 4th Annual Boston Seafood Festival on August 2nd at the historic Boston Fish Pier!\n\nEvent Details: http://www.harpoonbrewery.com/events/2339/2015-boston-seafood-festival Timeline Photos",
-          1436475481
-        ],
-        [
-          "If you're in Boston and not at #HarpoonStPats you are missing out! \n\nGet. Here. Now. http://bit.ly/1Hv8wiG Timeline Photos",
-          1425679729
-        ],
-        [
-          "Earn your beer by running a St. Paddy\u2019s Day themed race with us! \n\nhttp://bit.ly/1xtkgrd Timeline Photos",
-          1423338546
         ],
         [
           "Got the day off? We'd love to see you! \n\nWhat's on tap Boston: http://bit.ly/1CthupM\nWhat's on tap Windsor, VT: http://bit.ly/1Cthw0W Timeline Photos",
@@ -1969,16 +1808,8 @@
           1413152071
         ],
         [
-          "We're celebrating Harpoon Octoberfest at our Windsor brewery this weekend. \n\nDon't miss out. Prost! http://www.harpoonbrewery.com/festivals/872/2014-harpoon-octoberfest-vermont Mobile Uploads",
-          1413049898
-        ],
-        [
-          "Thank you for coming to Harpoon Octoberfest 2014! You all came out to see us in record numbers with over 23,000 of you coming to celebrate over the two days! On Friday, we had our largest crowd ever with Harpoon fans pouring through the gates for fresh beer, live Oompah, and keg bowling! We appreciate everyone's efforts to \"Love Beer. Love Life.\" during Harpoon Octoberfest!\n\nPhoto Cred: Pretty Instant & The Harpoon Design Team 2014 Harpoon Octoberfest",
-          1412695198
-        ],
-        [
-          "Thanks for celebrating 25 years of Harpoon Octoberfest in Boston with us! In case you missed out or didn't get enough, we'll be celebrating Octoberfest at our Windsor brewery this weekend!\n\nFest details: http://www.harpoonbrewery.com/festivals/872/2014-harpoon-octoberfest-vermont Timeline Photos",
-          1412632801
+          "To prepare for Octoberfest tomorrow, we took a look back at some of our favorite moments over the past 25 years! Check 'em out: http://shout.lt/GnYs Timeline Photos",
+          1412288705
         ],
         [
           "This special barrel will be making an appearance this Friday and Saturday to celebrate 25 years of Harpoon Octoberfest in Boston. Will you be there?!\n\nFull festival details: http://www.harpoonbrewery.com/festivals/873/2014-harpoon-octoberfest Timeline Photos",
@@ -1991,18 +1822,6 @@
         [
           "Harpoon Octoberfest has become a beloved New England fall celebration - and this year, we celebrate its 25th anniversary! Join us October 3rd & 4th in Boston!\n\nFestival Details: http://shout.lt/Ff4F Timeline Photos",
           1410991211
-        ],
-        [
-          "Because you can never be too careful on your Friday beer run. Timeline Photos",
-          1409937825
-        ],
-        [
-          "That awkward moment when you realize your fridge IS running...",
-          1408121027
-        ],
-        [
-          "Is your refrigerator running? You better\u2026 Never mind, just watch our video! \n\nWho's In? http://www.harpoonbrewery.com/fridgefull Is Your Refrigerator Running?",
-          1405091492
         ],
         [
           "The 100 Barrel Series - #50 Citra Victorious Release Party is on 4/22 at the Harpoon Riverbend Taps & Beer Garden at the Harpoon Brewery in Windsor, VT. You're coming right?!\n\n Buy tickets here: http://www.eventbrite.com/e/100-barrel-series-50-citra-victorious-night-vt-tickets-11284406965 Timeline Photos",
@@ -2081,16 +1900,28 @@
           1369405800
         ],
         [
-          "Spring is in the air! Since we can't wait to get outside for a run and  a great bike ride, we're offering $10 off our black New Balance  running jackets for the month of April! \n\nIt's perfect for that early morning jog or enjoying a beautiful spring day.\n\nShop Now! Harpoon Brewery - New Balance Harpoon Black Running Jacket This moisture-wicking jacket protects you from the wind and has a reflexctive Harpoon logo on the front and back. Vented, reflective, and music-friendly, it is a must-have for the dedicated runner or everyday athlete.",
-          1364937000
-        ],
-        [
           "Boston Beer Hall in your weekend plans? See what our visitors are saying about their trip to the brewery: http://ow.ly/hXMFa. Come visit! Timeline Photos",
           1361556002
         ],
         [
+          "We had a great time with everyone who came to Harpoon Octoberfest in Windsor this year! It was a fun fall weekend and we hope you had as much fun as we did! Timeline Photos",
+          1349715505
+        ],
+        [
+          "Can\u2019t make it to Octoberfest in Boston?  You\u2019ll be missed\u2026 but can make it up to us by joining the fun @ our VT Octoberfest next weekend! Fall foliage, a Strongman Exhibition, and Harpoon beer \u2013 sounds like a nice little weekend, right? http://ow.ly/e1eqH Timeline Photos",
+          1348696800
+        ],
+        [
+          "Thinking about running in our Octoberfest Road Race at our Windsor, VT brewery on 10/7? You will be now! The \"Boot\" will be waiting at the finish line for the winners of our six team categories to pass around in victory! Who wants to raise the boot? \r\n\r\nhttp://www.harpoonoctoberfestrace.com/race Timeline Photos",
+          1348523904
+        ],
+        [
           "Will you be running our Harpoon Octoberfest Road Race in Windsor, VT this year? Break out the lederhosen and enjoy a great fall run for a good cause since proceeds will benefit The Friends of Norris Cotton Cancer Center! Fundraise for the Friends of Norris Cotton Center!",
           1348076058
+        ],
+        [
+          "Roll out the barrels! The Harpoon Octoberfest Race is back for its 10th running on October 7th at 11:00 AM.\r\n \r\nRegistration for individuals and teams is now open. Enjoy a fun, challenging 3.6 mile course, starting and finishing at the Harpoon Brewery in Windsor, VT. Costumes encouraged! http://ow.ly/dFn9P Timeline Photos",
+          1347472349
         ],
         [
           "How did you enjoy Harpoon this weekend? We were at the Canal Diggers 5K Road Race in Worcester on Saturday! Timeline Photos",
@@ -2105,152 +1936,162 @@
           1335880215
         ]
       ],
-      "dates_start": 1372955941,
-      "dates_end": 1448449426,
-      "likes_avg": 201,
-      "likes_stdev": 289,
+      "dates_start": 1368198737,
+      "dates_end": 1455323318,
+      "likes_avg": 197,
+      "likes_stdev": 295,
       "comments_avg": 8,
       "comments_stdev": 14,
-      "shares_avg": 16,
-      "shares_stdev": 24
+      "shares_avg": 15,
+      "shares_stdev": 22
     },
     {
       "number": 14,
       "important": [
-        "citi",
-        "road",
-        "ufo",
-        "last",
-        "awesom",
-        "week",
-        "squeez",
-        "summer",
-        "tour",
-        "squeez summer"
+        "beer love",
+        "love",
+        "beer love life",
+        "love beer love",
+        "love life"
       ],
       "common": [
-        "big",
-        "big squeeze",
-        "squeeze",
-        "squeeze summer",
-        "squeeze summer tour",
-        "summer",
-        "summer tour",
-        "tour",
-        "ufo",
-        "ufobeer"
+        "beer",
+        "beer love",
+        "beer love life",
+        "harpoon",
+        "life",
+        "love",
+        "love beer",
+        "love beer love",
+        "love beer love life",
+        "love life"
       ],
       "messages": [
         [
-          "We took our UFO beers on the road this summer and hit up 9 awesome cities! The tour might be over, but here's to squeezing the most out of the last few weeks of summer - preferably with a UFO in hand!\n\nFind UFO near you: http://www.harpoonbrewery.com/beer-finder Squeeze the Most Out of Summer Tour",
-          1472668732
+          "Come Love Beer. Love Life. with us at the Harpoon Beer Hall! Here is what's on the docket... Harpoon Brewery",
+          1483465500
         ],
         [
-          "If sunsets, beach parties, and UFO beers sound like your ideal weekend, join us in Rhode Island THIS eekend for our Squeeze the Most out of Summer Tour!\n\nTour details: http://ufobeer.com/rhodeisland Timeline Photos",
-          1470310619
+          "Loving beer and loving life this weekend at our brewery in Windsor, VT for Harpoon Octoberfest! Join us today and tomorrow! \n\nDetails: http://harpoonoctoberfestvermont.com Timeline Photos",
+          1475938523
         ],
         [
-          "If live music, rooftop beers, and corn hole sound like your ideal weekend, join us in New York City August 4th-6th for our Squeeze the Most out of Summer Tour!\n\nTour details: http://ufobeer.com/nyc Timeline Photos",
-          1470172740
+          "Thank you to everyone who entered our  #LoveBeerLoveLife Sweepstakes! We are excited to announce Instagram fan, Cheryl McIntyre as the winner! \n\nKeep on Loving Beer and Loving Life, friends: http://bit.ly/1pZJKRf Timeline Photos",
+          1459288207
         ],
         [
-          "If yard games, a 6th Street Bar Crawl, and a River Float sound like your ideal weekend, join in us Austin July 28-30 for our Squeeze the Most out of Summer Tour!\n\nGet the details and join us: http://ufobeer.com/austin Timeline Photos",
-          1469483280
+          "We asked some Harpooners what Love Beer. Love Life means to them. Get inspired and share your own Love Beer. Love Life. moments with us at www.lovebeerlovelife.com. One winner will be randomly selected and Harpoon with fly 3 of their friends to Boston for HarpoonFest in May! (Sweepstakes ends March 17th). #LoveBeerLoveLife: A Harpooner Perspective",
+          1455383256
         ],
         [
-          "In a few short days we're headed down to Orlando for the Squeeze the Most Out of Summer Tour!\n\nFind out where we're headed July 21st through 23rd: http://ufobeer.com/orlando Timeline Photos",
-          1468755300
+          "Happy New Year! We're keeping resolutions simple: Love Beer. Love Life. What about you? \n\n(Photo credit: Dooster Films) Timeline Photos",
+          1451673455
         ],
         [
-          "Forget peaches, it was all about that grapefruit this weekend! Cheers from Georgia! \n\nSee where else the Squeeze the Most Out of Summer Tour is stoppin': www.ufobeer.com Timeline Photos",
-          1468696822
+          "From the quality of our beers to our welcoming breweries, from our large seasonal festivals to our steadfast commitment to the community, we \u2013 the employee-owners at Harpoon \u2013 live and breathe our motto \u201cLove Beer. Love Life.\u201d. Love Beer. Love Life.",
+          1447445046
         ],
         [
-          "We just landed in Atlanta for the Squeeze the Most Out of Summer Tour! \n\nCheckout where were stoppin' July 14th through 16th: http://ufobeer.com/atlanta Timeline Photos",
-          1468516455
+          "Love Beer. Love Life. Happy Friday! \n\nFind Harpoon with our Beer Finder: http://www.harpoonbrewery.com/beer-finder Mobile Uploads",
+          1444414212
         ],
         [
-          "We're headed to Atlanta this weekend for the Squeeze the Most out of Summer Tour! Think arcade games Joystick Gamebar, cornhole Riggy's Grill, a UFO beer river float & more!\n\nGet the details: http://ufobeer.com/atlanta Timeline Photos",
-          1468272604
+          "Love beer. Love Life. Happy Labor Day friends! Timeline Photos",
+          1441638806
         ],
         [
-          "From June 25th - August 6th, we\u2019ll be on the road with our main squeeze, UFO Big Squeeze, visiting 9 different cities to find the best outdoor bars and adventures! \n\nCheck out where we're stoppin': http://ufobeer.com Timeline Photos",
-          1465909200
+          "Love Beer. Love Life. Fight Hunger! Congrats and thank you to all of our Harpoon Point to Point riders and volunteers! Mobile Uploads",
+          1439050716
         ],
         [
-          "What do lawn games, good times, and great beer have in common? They\u2019re what the UFO \u201cSqueeze the Most out of Summer Tour\u201d is all about! Get the tour details and see if we\u2019ll be stopping by your city! http://ufobeer.com Squeeze the Most Out of Summer Tour",
-          1465572330
+          "It's a beautiful day to love beer, love life... Cheers! Timeline Photos",
+          1434806885
         ],
         [
-          "Can we be your Summer squeeze? We're hitting the road and touring 9 cities to squeeze the most out of Summer!\n\nJoin us? http://ufobeer.com",
-          1465425713
+          "What does Employee Ownership mean to Harpoon? Hint: We're loving beer and loving life more than ever! \n\nRead more: http://www.harpoonbrewery.com/blog/368885/what-employee-ownership-means-to-harpoon-brewery Mobile Uploads",
+          1414850282
         ],
         [
-          "Brunch without beer is just a really sad breakfast... Join us for the UFO Big Squeeze Brunch on June 26th at the Harpoon Beer Hall! \n\nEvent details: http://bit.ly/1X1fi6E Timeline Photos",
-          1465131720
+          "Happy National Cat Day! \n\n16 Cats Who Are Loving Beer & Loving Life: http://www.harpoonbrewery.com/blog/368892/16-cats-who-are-loving-beer-loving-life Timeline Photos",
+          1414620001
         ],
         [
-          "It's baaaaaaaack!  #BigSqueeze Big Squeeze",
-          1456512753
+          "Thank you for coming to Harpoon Octoberfest 2014! You all came out to see us in record numbers with over 23,000 of you coming to celebrate over the two days! On Friday, we had our largest crowd ever with Harpoon fans pouring through the gates for fresh beer, live Oompah, and keg bowling! We appreciate everyone's efforts to \"Love Beer. Love Life.\" during Harpoon Octoberfest!\n\nPhoto Cred: Pretty Instant & The Harpoon Design Team 2014 Harpoon Octoberfest",
+          1412695198
         ],
         [
-          "three words... UFO. BIG. SQUEEZE.\n\nFind it, drink it, love it. #nojudgement Real Men Drink Shandy (I Swear) The shandy-shaming ends NOW.",
-          1432836705
+          "Love Beer. Love Life. Go Pats! Thanks for stopping by #HarpoonFest Julian Edelman, Shane Vereen & Chandler Jones! Timeline Photos",
+          1400362830
         ],
         [
-          "Anyone Big Squeeze brunchin' today?! Mobile Uploads",
-          1430666550
+          "Love Beer. Love Life. Love Boston. #HarpoonOFest Timeline Photos",
+          1381004897
         ],
         [
-          "Out of Office.\n\nFind UFO Big Squeeze Shandy this weekend: http://bit.ly/1IvW018 Timeline Photos",
-          1430493550
+          "Cheers to the Harpoon / Native Staffing squad for taking home the championship in the Lake Placid Summit Lacrosse Tournament in the Masters II Division! Love beer. Love life. Timeline Photos",
+          1376483400
         ],
         [
-          "Happy Easter! Celebrating with any Big Squeeze today?! Mobile Uploads",
-          1428244916
+          "Throwback: Summer of \u201993. Brewery parking lot.  IPA on ice. Love beer. Love life.  \n\nWhat\u2019s your version? Tell us YOUR IPA Story in our contest for a chance to win a VIP experience at all of our festivals: http://bit.ly/17ca7FA Timeline Photos",
+          1367335334
         ],
         [
-          "Wrapped up and ready for your fridge.\n\nUFO Big Squeeze is back! http://bit.ly/1F9W2Kb Timeline Photos",
-          1427235007
+          "Love beer. Love life. Glad Foursquare users agree! Check out Harpoon in the \"Best Beer\" category. The 17 Best Places in Boston, According to Foursquare Users Looking for a killer place to eat pizza? How about the best place to chill outdoors in Boston? Get on your phone. Today, Fourquare released its new \u201cBest",
+          1359657915
         ],
         [
-          "Oh we went there... UFO Big Squeeze Bundt Cake! \n\nRecipe: http://www.harpoonbrewery.com/blog/347279/ufo-big-squeeze-bundt-cake Timeline Photos",
-          1398895508
+          "Great work everyone spreading Holiday cheer across the city! Thanks again to all 300+ volunteers today. We're glad you could love beer and love life with us! Timeline Photos",
+          1354391298
+        ],
+        [
+          "Nice effort guys! We'll raise a pint to that...  Edward Sharing some Winter Warmer and Rich and Dan's Rye IPA in the snow atop Temple Basin in NZ w/ Kyle Foote Love Beer. Love Life. Love NZ.",
+          1353432994
+        ],
+        [
+          "Thanks @Todd Basile for this great picture - perfect way to get in the Halloween spirit! Love Beer. Love Life! Timeline Photos",
+          1351185875
+        ],
+        [
+          "New record: 12,400+ people through the gates for Harpoon Octoberfest yesterday! We raise a pint to each and every one of you! Love beer. Love life. Timeline Photos",
+          1349016070
+        ],
+        [
+          "Our annual Brewery to Brewery Ride raised $80,000 for the Kenary Brain Tumor Research at Dana Farber Cancer Institute and $55,000 for Team Psycho Elite Development Fund.\n\nThanks to our 800 riders, 100 volunteers, every sponsor and Otis Grove - you helped make this an unforgettable event! Cheers to Harrison Buck for putting together this recap video for us... Enjoy! B2B Harpoon Brewery to Brewery Ride 2012- Love Beer Love Life",
+          1343741891
+        ],
+        [
+          "We just posted a video of brewer Matt DeLuca discussing our new Harpoon 100 Barrel Series Black IPA! Congrats to Matt for brewing a great beer!  http://www.lovebeerlovelife.com/ Love Beer. Love Life. Harpoon!",
+          1326831490
         ]
       ],
-      "dates_start": 1432781294,
-      "dates_end": 1474987179,
-      "likes_avg": 187,
-      "likes_stdev": 189,
-      "comments_avg": 10,
+      "dates_start": 1359307902,
+      "dates_end": 1452251604,
+      "likes_avg": 213,
+      "likes_stdev": 323,
+      "comments_avg": 6,
       "comments_stdev": 9,
-      "shares_avg": 14,
-      "shares_stdev": 13
+      "shares_avg": 11,
+      "shares_stdev": 12
     },
     {
       "number": 15,
       "important": [
-        "adventur",
-        "enjoy",
-        "head",
-        "tell",
-        "stori",
-        "three",
-        "like",
         "beer",
-        "time",
-        "idea"
+        "stori",
+        "tell",
+        "harpoon",
+        "ipa stori"
       ],
       "common": [
         "beer",
-        "beer drinkers",
+        "beer drinker",
         "contest",
-        "drinkers",
+        "drinker",
         "harpoon",
         "harpoon ipa",
         "ipa",
-        "ipa story",
-        "story",
+        "ipa stori",
+        "stori",
         "tell"
       ],
       "messages": [
@@ -2277,6 +2118,14 @@
         [
           "Everybody has a beer drinking story. Hear ours, tell us yours!\n\nhttp://www.harpoon30.com We Are Beer Drinkers",
           1476125425
+        ],
+        [
+          "Because we are beer drinkers, we all have stories to tell. And if the past thirty years have taught us anything, it's that beer is the foundation for some of the most unforgettable stories. Learn more at http://www.harpoon30.com! Harpoon Brewery's cover photo",
+          1476123337
+        ],
+        [
+          "In honor of Breast Cancer Awareness Month, we invited Kathy Pruett, Harpoon Southeast Regional Manager and all around bad ass, to tell her story.  \n\nMeet Kathy and learn more about her involvement with the breast cancer survivor community: http://www.harpoonbrewery.com/blog/398927/harpoon-helps-breast-cancer-awareness-month Timeline Photos",
+          1445957651
         ],
         [
           "You flooded us with Harpoon IPA stories! Here are a few highlights from our contest. \n\nHave one of your own? The contest runs until 5/13. There is time yet... you know you want to be a VIP at all of our festivals! Tell Us Your IPA Story - Your Stories! Almost a month ago we asked you to \"Tell Us Your IPA Story,\" and many of you jumped at the opportunity to tell us how Harpoon IPA has played a role in your lives. There are plenty of great...",
@@ -2323,129 +2172,35 @@
           1365092045
         ]
       ],
-      "dates_start": 1352436121,
-      "dates_end": 1460116624,
-      "likes_avg": 180,
-      "likes_stdev": 219,
+      "dates_start": 1358188906,
+      "dates_end": 1465893127,
+      "likes_avg": 198,
+      "likes_stdev": 242,
       "comments_avg": 10,
-      "comments_stdev": 13,
-      "shares_avg": 12,
-      "shares_stdev": 12
+      "comments_stdev": 12,
+      "shares_avg": 11,
+      "shares_stdev": 11
     },
     {
       "number": 16,
       "important": [
-        "april",
-        "breweri post",
-        "post",
-        "brewer",
-        "hall",
-        "local",
-        "beer hall",
-        "breweri",
-        "brew",
-        "releas"
-      ],
-      "common": [
-        "beer",
-        "breweries",
-        "brewery",
-        "brewery post",
-        "day",
-        "harpoon",
-        "harpoon brewery",
-        "harpoon brewery post",
-        "post",
-        "www"
-      ],
-      "messages": [
-        [
-          "Happy International Women's Day! To celebrate... we brewed a beer of course! \n\nWe teamed up with the Pink Boots Society and 5 female brewers from local breweries to brew up a special beer we'll release April 5th at our Beer Hall. Join us: https://goo.gl/wXNoN9 Photos from Harpoon Brewery's post",
-          1489007157
-        ],
-        [
-          "Have the day off? We'd love to have a beer (or two) with you!\n\nBoston Brewery info: http://www.harpoonbrewery.com/breweries/boston\nWindsor Brewery info: http://www.harpoonbrewery.com/breweries/windsor Photos from Harpoon Brewery's post",
-          1487603793
-        ],
-        [
-          "Tired of the same old games with beer? Throw it back to your childhood... Enter: Twister. \n\nHere's how to adult-ify it up with our UFO Jet Pack: https://goo.gl/vS9IKx Photos from Harpoon Brewery's post",
-          1486825287
-        ],
-        [
-          "Tonight we kicked off the first Harpoon X-Night of the year with a Spiced Biere de Garde! \n\nWhat's Harpoon X-Night? We brew a mystery beer, you taste test it first! Don't miss the next one on 2/21: http://www.harpoonbrewery.com/events/2940/harpoon-x-night Photos from Harpoon Brewery's post",
-          1484700753
-        ],
-        [
-          "One of our favorite things about UFO Winter Blonde? It\u2019s versatility, of course.\n\nTry these 3 unique was to enjoy it before it's gone! http://bit.ly/2hhcuF0 Photos from Harpoon Brewery's post",
-          1482765661
-        ],
-        [
-          "We are fortunate to have such a strong community of friends that are as enthusiastic as we are, about being a good neighbor and giving back. Through Harpoon Helps, we can encourage philanthropy through events and are so proud of what we\u2019ve been able to accomplish, together. \n\nWant to see the full impact? http://bit.ly/2hf67ie Photos from Harpoon Brewery's post",
-          1481468521
-        ],
-        [
-          "If only every 5K ended this way, right?! Way to go Harpoon Octoberfest Road Race runners!\n\nAnd now, we fest! Photos from Harpoon Brewery's post",
-          1476024352
-        ],
-        [
-          "If running 3.6 miles for a good cause followed by beers, brats, and Oompah music, sounds like your ideal Sunday, join us October 9th for the Harpoon Octoberfest Road Race in Windsor, Vermont!\n\nRegister today: http://www.harpoonoctoberfestrace.com Photos from Harpoon Brewery's post",
-          1474200000
-        ],
-        [
-          "Registration is NOW OPEN for the Harpoon Octoberfest Road Race presented by Norris Cotton Cancer Center on October 9th at our Vermont Brewery! \n\nLearn more and register here: http://www.harpoonoctoberfestrace.com/ Photos from Harpoon Brewery's post",
-          1470085561
-        ],
-        [
-          "It's a beautiful day for some beers and BBQ! Harpoon Brewery BBQ Fest day 2 starts at 11AM!\n\nFestival details: bbqfest.harpoonbrewery.com Photos from Harpoon Brewery's post",
-          1469361855
-        ],
-        [
-          "Get game day ready with these snacks - all made with beer (obviously)! http://bit.ly/1nUbJka Photos from Harpoon Brewery's post",
-          1454785639
-        ],
-        [
-          "'Tis the season of giving! Tonight we helped fight hunger at our breweries with our annual Harpoon Helps Grateful Harvest Dinner! Photos from Harpoon Brewery's post",
-          1447032754
-        ],
-        [
-          "Growlers are $7.50 for year-round and seasonals and $13.50 for specialty and pilots at our Beer Hall in Boston now through 11/30. Happy (almost) Thanksgiving!\n\nSee what's on tap: http://www.harpoonbrewery.com/breweries/boston/whats-on-tap\n\nFor growler details in Windsor, checkout our Facebook page: https://www.facebook.com/harpoonvt?ref=hl Photos from Harpoon Brewery's post",
-          1416858147
-        ]
-      ],
-      "dates_start": 1451030650,
-      "dates_end": 1490618500,
-      "likes_avg": 215,
-      "likes_stdev": 324,
-      "comments_avg": 6,
-      "comments_stdev": 9,
-      "shares_avg": 11,
-      "shares_stdev": 17
-    },
-    {
-      "number": 17,
-      "important": [
-        "year",
-        "instagram fan",
-        "last",
-        "count",
-        "fan",
-        "timelin photo",
-        "make",
+        "cred",
         "timelin",
-        "friday",
-        "instagram"
+        "instagram fan",
+        "instagram",
+        "fan"
       ],
       "common": [
         "cred",
         "cred instagram",
+        "cred instagram fan",
         "fan",
         "instagram",
         "instagram fan",
-        "mobile",
-        "mobile uploads",
-        "photo",
-        "photo cred",
-        "uploads"
+        "mobil",
+        "mobil upload",
+        "timelin",
+        "upload"
       ],
       "messages": [
         [
@@ -2471,10 +2226,6 @@
         [
           "How's the blizzard treating everyone?!\n\n(Photo cred: Instagram fan @f.8ight!) Timeline Photos",
           1453591897
-        ],
-        [
-          "If you hate rainy days, you're doing it wrong. (Photo cred: insta fan @kchysmith!)\n\nJoin us for a beer & pretzel? http://bit.ly/1H0qxVQ Timeline Photos",
-          1452442605
         ],
         [
           "\u270c\ufe0fsummer, it's been real!\n\n(Photo credit - Instagram fan @chadoconnor) Mobile Uploads",
@@ -2509,28 +2260,23 @@
           1417290134
         ]
       ],
-      "dates_start": 1430221902,
-      "dates_end": 1465609932,
-      "likes_avg": 203,
-      "likes_stdev": 138,
-      "comments_avg": 6,
+      "dates_start": 1429320398,
+      "dates_end": 1465864766,
+      "likes_avg": 215,
+      "likes_stdev": 134,
+      "comments_avg": 7,
       "comments_stdev": 6,
       "shares_avg": 8,
       "shares_stdev": 6
     },
     {
-      "number": 18,
+      "number": 17,
       "important": [
-        "fight hunger",
-        "harpoon point",
-        "group",
         "point",
-        "ride",
-        "fight",
-        "nation",
-        "need",
-        "follow",
-        "plan"
+        "harpoon point",
+        "vermont",
+        "harpoon",
+        "ride"
       ],
       "common": [
         "foodbank",
@@ -2608,30 +2354,25 @@
       "shares_stdev": 8
     },
     {
-      "number": 19,
+      "number": 18,
       "important": [
-        "learn timelin",
         "rug",
+        "obstacl",
+        "maniac obstacl",
+        "maniac",
+        "race"
+      ],
+      "common": [
         "maniac",
         "maniac obstacl",
         "obstacl",
-        "ever",
+        "obstacl race",
         "race",
-        "learn",
-        "thought",
-        "friend"
-      ],
-      "common": [
-        "5k obstacle",
-        "maniac",
-        "maniac 5k",
-        "maniac 5k obstacle",
-        "maniac 5k obstacle race",
-        "obstacle",
-        "obstacle race",
-        "race",
-        "rugged",
-        "rugged maniac"
+        "rug",
+        "rug maniac",
+        "rug maniac obstacl",
+        "rug maniac obstacl race",
+        "timelin"
       ],
       "messages": [
         [
@@ -2685,41 +2426,40 @@
         [
           "Thanks to everyone who came out for the Rugged Maniac in North Carolina yesterday and for sharing their love for Boston! Timeline Photos",
           1366554816
+        ],
+        [
+          "We'd crawl through the mud if this was waiting for us too! Cheers to all of the competitors at Rugged Maniac in South Carolina today! What would you do for a Harpoon? Timeline Photos",
+          1362848040
         ]
       ],
-      "dates_start": 1390674895,
-      "dates_end": 1463307022,
-      "likes_avg": 126,
-      "likes_stdev": 114,
+      "dates_start": 1383711251,
+      "dates_end": 1461107391,
+      "likes_avg": 128,
+      "likes_stdev": 110,
       "comments_avg": 2,
-      "comments_stdev": 1,
-      "shares_avg": 5,
+      "comments_stdev": 2,
+      "shares_avg": 6,
       "shares_stdev": 5
     },
     {
-      "number": 20,
+      "number": 19,
       "important": [
-        "free",
-        "today",
         "ship",
+        "timelin",
         "free ship",
-        "vermont",
-        "friend",
-        "brew",
-        "onli",
-        "one",
-        "plus"
+        "today",
+        "free"
       ],
       "common": [
-        "12",
-        "12 days",
+        "day",
+        "day day",
+        "day day harpoon",
         "free",
-        "free shipping",
+        "free ship",
         "harpoon",
-        "shipping",
+        "ship",
         "shop",
-        "shout",
-        "shout lt",
+        "timelin",
         "today"
       ],
       "messages": [
@@ -2788,6 +2528,10 @@
           1387204200
         ],
         [
+          "This month, spend $40 or more at the Harpoon online store & get a free Brewer's hat (moustache not included)! Shop today! http://shop.harpoonbrewery.com/ Timeline Photos",
+          1386000002
+        ],
+        [
           "The best part of shopping online is you can enjoy a beer while doing it! Enjoy FREE Shipping from 11/29 - 12/2 at the Harpoon eStore! http://shop.harpoonbrewery.com/ Timeline Photos",
           1385735401
         ],
@@ -2812,12 +2556,12 @@
           1353886801
         ]
       ],
-      "dates_start": 1372951876,
-      "dates_end": 1440455597,
-      "likes_avg": 64,
-      "likes_stdev": 74,
-      "comments_avg": 2,
-      "comments_stdev": 3,
+      "dates_start": 1372524683,
+      "dates_end": 1439082465,
+      "likes_avg": 63,
+      "likes_stdev": 73,
+      "comments_avg": 1,
+      "comments_stdev": 2,
       "shares_avg": 3,
       "shares_stdev": 2
     }

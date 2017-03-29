@@ -4,561 +4,48 @@
   "globalstats": {
     "fan_count": 54590559,
     "messages": 1094,
-    "likes_avg": 107214,
-    "likes_stdev": 285100,
-    "comments_avg": 5441,
-    "comments_stdev": 11321,
-    "shares_avg": 9394,
-    "shares_stdev": 41010,
+    "likes_avg": 72435,
+    "likes_stdev": 214994,
+    "comments_avg": 4223,
+    "comments_stdev": 9439,
+    "shares_avg": 5550,
+    "shares_stdev": 26045,
     "graph_uri": "clusters/barackobama.png"
   },
   "clusters": [
     {
       "number": 1,
       "important": [
-        "year timelin",
-        "top",
-        "photo",
-        "face",
-        "obamacar",
         "timelin",
-        "time",
+        "favorit",
+        "one",
         "year",
-        "think",
-        "abl"
+        "year timelin"
       ],
       "common": [
-        "day",
-        "favorite",
-        "happy",
-        "let",
-        "obama",
+        "favorit",
+        "favorit year",
         "one",
-        "president",
-        "president obama",
-        "share",
-        "year"
+        "one favorit",
+        "one favorit year",
+        "one favorit year timelin",
+        "presid",
+        "timelin",
+        "year",
+        "year timelin"
       ],
       "messages": [
         [
-          "Gracias al Obamacare, es m\u00e1s f\u00e1cil mantenerse sano con cuidado preventivo. Timeline Photos",
-          1478106451
-        ],
-        [
-          "Think anyone can top baby Pope this year? Timeline Photos",
-          1477951819
-        ],
-        [
-          "Face time. Timeline Photos",
-          1477339045
-        ],
-        [
-          "Your voice is powerful. Never stop using it. Timeline Photos",
-          1477317214
-        ],
-        [
-          "The choice between protecting our planet and building a strong economy is a false one. Timeline Photos",
-          1476799440
-        ],
-        [
-          "Dancing through 24 years. Happy Anniversary. Timeline Photos",
-          1475506276
-        ],
-        [
-          "This is not how to treat your country with respect. http://ofa.bo/2d1UbNK Timeline Photos",
-          1475258732
-        ],
-        [
-          "Speak out. Organize. Inspire. http://ofa.bo/2cm4dO0 Timeline Photos",
-          1473354042
-        ],
-        [
-          "Show them what you're organizing for. http://ofa.bo/2bMVxva Timeline Photos",
-          1472500728
-        ],
-        [
-          "When women succeed, America succeeds. Timeline Photos",
-          1472236960
-        ],
-        [
-          "Whether in your neighborhood or beyond\u2014organize. Timeline Photos",
-          1471877760
-        ],
-        [
-          "Never lose hope. Timeline Photos",
-          1470940038
-        ],
-        [
-          "In the weekly address, President Obama wishes our Olympic athletes well:\n\n\"To all of our Olympic and Paralympic athletes wearing the red, white, and blue\u2014know that your country couldn\u2019t be prouder of you. We admire all the work you\u2019ve done to get to Rio and everything you\u2019ll do there. Thank you for showing the world the best of America. And know that when you get up on that podium, we\u2019ll be singing the National Anthem\u2014and maybe even shedding a tear\u2014right alongside you. \n\n \"Now go bring home the gold!\" \u2014President Obama",
-          1470502620
-        ],
-        [
-          "It's President Obama's last birthday as Organizer-in-Chief. Let's make it count. http://ofa.bo/2axqWqc Timeline Photos",
-          1470313760
-        ],
-        [
-          "Show President Obama some birthday love for eight sweet years of progress. http://ofa.bo/2ach4MP Timeline Photos",
-          1469898529
-        ],
-        [
-          "Change looks good on you. Shop the OFA Store - OFA Classic Tee For some it represents progress, for others it means family. It's the mark of our movement and whatever it means to you, wear it with pride wherever you go. Choose from two color options.   Union printed and made right here in the USA. ",
-          1469719938
-        ],
-        [
-          "We shouldn't accept this as normal. Timeline Photos",
-          1469546365
-        ],
-        [
-          "Enjoy the fireworks. Happy Fourth of July. Timeline Photos",
-          1467641148
-        ],
-        [
-          "Eight justices isn't enough. Timeline Photos",
-          1467122170
-        ],
-        [
-          "Enough is enough. We need Congress to serve the American people and pass common-sense gun legislation. Timeline Photos",
-          1466712283
-        ],
-        [
-          "To all the dads out there, thanks for all you do. Happy Father's Day. Timeline Photos",
-          1466347910
-        ],
-        [
-          "#OrlandoUnited Timeline Photos",
-          1465829471
-        ],
-        [
-          "This could be an experience you'll never forget. http://ofa.bo/yYf Timeline Photos",
-          1464787697
-        ],
-        [
-          "\"With love, grace, and reflection, let us honor our fallen fellow Americans, known and unknown, who sacrificed their freedom to ensure our own.\" \u2014President Obama Timeline Photos",
-          1464625170
-        ],
-        [
-          "It's a classic. http://ofa.bo/d5vt Timeline Photos",
-          1462566216
-        ],
-        [
-          "Happy Earth Day. Timeline Photos",
-          1461356386
-        ],
-        [
-          "Share if you agree. #EqualPayDay Timeline Photos",
-          1460475344
-        ],
-        [
-          "\"We wish all who celebrate a blessed and joyful Easter.\" \u2014President Obama Timeline Photos",
-          1459090521
-        ],
-        [
-          "Share if you agree. Timeline Photos",
-          1457965906
-        ],
-        [
-          "Refusing to even meet with the President's nominee is unprecedented\u2014and irresponsible. Timeline Photos",
-          1456511761
-        ],
-        [
-          "Equality is worth fighting for. Timeline Photos",
-          1455476140
-        ],
-        [
-          "It's a beautiful world, and President Obama is fighting to preserve it. Timeline Photos",
-          1455308566
-        ],
-        [
-          "Love out loud. http://ofa.bo/y7j Timeline Photos",
-          1455122881
-        ],
-        [
-          "Who are you rooting for? Timeline Photos",
-          1454877329
-        ],
-        [
-          "This is worth celebrating. Timeline Photos",
-          1454690129
-        ],
-        [
-          "Help spread the facts about the issues you care about most: http://ofa.bo/a5ad Timeline Photos",
-          1454431073
-        ],
-        [
-          "97 percent of climate scientists agree that climate change is real, man-made and dangerous. Timeline Photos",
-          1453743647
-        ],
-        [
-          "Lift off. Timeline Photos",
-          1453494683
-        ],
-        [
-          "\"As Americans of all races and beliefs come together on this day of service to honor the life and legacy of the Reverend Dr. Martin Luther King, Jr., let us pledge to recognize the common humanity of all people.\" \u2014President Obama Timeline Photos",
-          1453126898
-        ],
-        [
-          "Happy birthday to the First Lady\u2014thank you for inspiring millions. Timeline Photos",
-          1453064968
-        ],
-        [
-          "Change isn't easy\u2014you have to fight for it. Timeline Photos",
-          1452805358
-        ],
-        [
-          "Tomorrow night. 9 p.m. ET. Don't miss it. http://ofa.bo/j9bF Timeline Photos",
-          1452550570
-        ],
-        [
-          "Hello, 2016. Timeline Photos",
-          1451668068
-        ],
-        [
-          "We can't afford to go back now. http://ofa.bo/g9XN Five reasons 2015 was a historic year We made crucial progress this year, and now we're looking ahead. Ready to keep the momentum going in 2016?",
-          1451506828
-        ],
-        [
-          "Stand up for long-term progress\u2014become an OFA Champion today. http://ofa.bo/h9hB Timeline Photos",
-          1450638528
-        ],
-        [
-          "Don't miss this once-in-a-lifetime opportunity. http://ofa.bo/d5Ln Timeline Photos",
-          1450450448
-        ],
-        [
-          "If you're on the No-Fly List, you shouldn't be able to buy a weapon of war. Timeline Photos",
-          1449604153
-        ],
-        [
-          "If you're on the No-Fly list, you shouldn't be able to purchase a weapon of war. Timeline Photos",
-          1449510141
-        ],
-        [
-          "Sixty years ago today, Rosa Parks refused to give up her seat\u2014and changed America. Timeline Photos",
-          1449007298
-        ],
-        [
-          "Happy Birthday, Vice President Biden. Timeline Photos",
-          1448052508
-        ],
-        [
-          "Climate change is real\u2014and we have to act now. http://ofa.bo/q9PM Fresh Climate Data Confirms 2015 Is Unlike Any Other Year in Human History Over the past few days, a bevy of climate data has come together to tell a familiar yet shocking story: Humans have profoundly altered the planet\u2019s life-su",
-          1447443599
-        ],
-        [
-          "\"Today, we gather once more to salute every patriot who has ever proudly worn the uniform of the United States of America.\" \u2014President Obama Timeline Photos",
-          1447262920
-        ],
-        [
-          "Happy Halloween. Timeline Photos",
-          1446326715
-        ],
-        [
-          "REMINDER: Timeline Photos",
-          1446241494
-        ],
-        [
-          "Share to spread the word: Open enrollment is almost here. Timeline Photos",
-          1446059061
-        ],
-        [
-          "Mark your calendar. Timeline Photos",
-          1445989103
-        ],
-        [
-          "Repealing Obamacare would be devastating for millions of families. Timeline Photos",
-          1444750702
-        ],
-        [
-          "Hello, fall. Timeline Photos",
-          1443039191
-        ],
-        [
-          "People shouldn't have to choose between taking care of a sick loved one and getting a paycheck. http://ofa.bo/d5Aq Why Paid Leave Matters for the Future of Business Leading business school faculty from across the U.S. make their case.",
-          1442588028
-        ],
-        [
-          "Pursuing a higher education shouldn't mean taking on a lifetime of debt. Timeline Photos",
-          1442255213
-        ],
-        [
-          "\"In memory of those we lost, we resolved to shape a world where events like those of September 11, 2001, could never happen again, and we see this unbreakable spirit live on every day across America.\" \u2014President Obama Timeline Photos",
-          1441981747
-        ],
-        [
-          "\"This Labor Day, let us remember the struggles and the progress that have defined America, and let us resolve to continue building a nation where everyone is treated fairly, where hard work pays off, and where all things are possible for all people.\" \u2014President Obama Timeline Photos",
-          1441661006
-        ],
-        [
-          "Facts matter\u2014spread the word. http://ofa.bo/i9H0 Why it\u2019s impossible to hide nuclear work in 24 days \u2013 or 24 years Even a nanogram, or one-billionth of a gram, of leftover dust from nuclear-weapons related work \u2014 could be detectable.",
-          1441310533
-        ],
-        [
-          "Spread the word. Timeline Photos",
-          1439911293
-        ],
-        [
-          "Cleaner air means healthier people. Timeline Photos",
-          1439212222
-        ],
-        [
-          "People like Conner Adams prove that second chances can lead to amazing things. Read more: http://ofa.bo/j90N Asked & Answered: Conner\u2019s Recovery Story By Michael Botticelli",
-          1436968323
-        ],
-        [
-          "Best wishes. Timeline Photos",
-          1436559949
-        ],
-        [
-          "Happy Fourth. Timeline Photos",
-          1436014845
-        ],
-        [
-          "LAST CHANCE: Don't miss this opportunity. Enter now to win a trip to Hawaii. http://ofa.bo/p8jk Timeline Photos",
-          1435683903
-        ],
-        [
-          "Love just won. Timeline Photos",
-          1435321464
-        ],
-        [
-          "16 million covered\u2014and counting. Timeline Photos",
-          1435243956
-        ],
-        [
-          "We believe. Timeline Photos",
-          1435007865
-        ],
-        [
-          "Happy Father's Day to all the dads out there. Timeline Photos",
-          1434895219
-        ],
-        [
-          "Game six. Timeline Photos",
-          1434405257
-        ],
-        [
-          "On the third anniversary of DACA, see how it's working to help thousands of people. Timeline Photos",
-          1434386733
-        ],
-        [
-          "97 percent of climate scientists agree: It's real. It's man-made. And it's time to do something about it. Timeline Photos",
-          1433342913
-        ],
-        [
-          "Share what the fight for LGBT equality means to you: http://ofa.bo/q6kR Share your story of progress on LGBT rights OFA is collecting stories from supporters who know what progress means.",
-          1433276952
-        ],
-        [
-          "Be proud. Timeline Photos",
-          1433252522
-        ],
-        [
-          "This is big for anyone who drinks water. Timeline Photos",
-          1432732812
-        ],
-        [
-          "\"These Americans gave everything they had\u2014not for glory, not even for gratitude, but for something greater than themselves.\" \u2014President Obama Timeline Photos",
-          1432558408
-        ],
-        [
-          "\"We've grown up with you ... You've given us a great gift and we love you.\" \u2014President Obama to David Letterman Timeline Photos",
-          1432149454
-        ],
-        [
-          "This is no longer a problem to leave for the next generation to fix. We have to act now. Timeline Photos",
-          1431717967
-        ],
-        [
-          "To all the moms out there: Thank you for all you do. Happy Mother's Day. Timeline Photos",
-          1431266397
-        ],
-        [
-          "Great teachers influence us for life. Tell your story and share who's helped shape you: http://ofa.bo/g4tO Timeline Photos",
-          1430503393
-        ],
-        [
-          "Spring is in the air. Timeline Photos",
-          1429296624
-        ],
-        [
-          "Up top. Timeline Photos",
-          1429197301
-        ],
-        [
-          "Happy Easter. Timeline Photos",
-          1428239700
-        ],
-        [
-          "The science is clear. Timeline Photos",
-          1427491527
-        ],
-        [
-          "Happy Saint Patrick's Day. Timeline Photos",
-          1426626275
-        ],
-        [
-          "\"Selma isn\u2019t just about commemorating our past ... Selma is now. \u201c \u2014President Obama http://ofa.bo/f3Sq Selma to Montgomery: 50 Years Later Learn about the history of the marches. Listen to the stories of those who marched. And tell us how you'll honor their legacy and #MarchOn.",
-          1425677774
-        ],
-        [
-          "For the health and safety of our generation and the next, we have to act now. Timeline Photos",
-          1425309758
-        ],
-        [
-          "First Steps. Timeline Photos",
-          1424465513
-        ],
-        [
-          "For the sake of millions of families, we can't go back. Timeline Photos",
-          1424194293
-        ],
-        [
-          "Happy Presidents Day. Timeline Photos",
-          1424110429
-        ],
-        [
-          "No more waiting: http://ofa.bo/e2mp Timeline Photos",
-          1424017696
-        ],
-        [
-          "Don't miss it: http://ofa.bo/f2rY Timeline Photos",
-          1423847872
-        ],
-        [
-          "Don't miss your chance to get covered for 2015: http://ofa.bo/a2gX Timeline Photos",
-          1423088652
-        ],
-        [
-          "Who'll it be? Timeline Photos",
-          1422825681
-        ],
-        [
-          "Life is as unpredictable as the Oregon Trail. Be prepared: http://ofa.bo/i2dc Timeline Photos",
-          1422544809
-        ],
-        [
-          "No joke. Timeline Photos",
-          1422042406
-        ],
-        [
-          "Let's go. Timeline Photos",
-          1421807216
-        ],
-        [
-          "Add your name to stand up for an agenda that supports middle-class families: http://ofa.bo/h2Tr Two years left: Let's fight for change The President is working to move our country forward. It's never been more important to take a stand.",
-          1421780536
-        ],
-        [
-          "Tonight. http://ofa.bo/r2UX Timeline Photos",
-          1421758966
-        ],
-        [
-          "\"Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.\" \u2014Martin Luther King, Jr. Timeline Photos",
-          1421680018
-        ],
-        [
-          "Happy birthday to an amazing, inspiring First Lady. Timeline Photos",
-          1421532134
-        ],
-        [
-          "Ready to go? Timeline Photos",
-          1421443428
-        ],
-        [
           "Hello, 2015. Here's to a great year. Timeline Photos",
           1420126996
-        ],
-        [
-          "Look back on all we accomplished in 2014: http://ofa.bo/d23L Timeline Photos",
-          1419950496
-        ],
-        [
-          "\"Merry Christmas, everybody ... We wish you and your family a happy and healthy 2015.\" \u2014President Obama\n\nWatch the President and the First Lady wish all Americans a merry Christmas: http://ofa.bo/c22b Timeline Photos",
-          1419523760
         ],
         [
           "It's the most wonderful time of the year. Timeline Photos",
           1419432192
         ],
         [
-          "\"May this Hanukkah embolden us to do what is right, shine a light on the miracles we enjoy, and kindle in all of us the desire to share those miracles with others. From my family to yours, Chag Sameach.\" \u2014President Obama Timeline Photos",
-          1418767381
-        ],
-        [
-          "\"Everyone eventually grows older at sometimes a faster rate than others.\" \u2014President Obama filling in for Stephen Colbert during \"The Word\" segment on The Colbert Report\n\nWatch the full clip: http://ofa.bo/r1wU Timeline Photos",
-          1418139216
-        ],
-        [
-          "You treat your home well. Do the same for your health. http://ofa.bo/p1wO Timeline Photos",
-          1417628236
-        ],
-        [
-          "\"It\u2019s easy to focus on what separates us. But as we gather with loved ones on this Thanksgiving, let\u2019s remember and be grateful for what binds us together. Our love of country. Our commitment to justice and equality. Our belief that America\u2019s best days are ahead, and that her destiny is ours to shape.\" \u2014President Obama\n\nWatch President Obama wish everyone a happy Thanksgiving: http://ofa.bo/g1jd Timeline Photos",
-          1417103617
-        ],
-        [
-          "Best wishes for a great birthday, Vice President Biden. Timeline Photos",
-          1416495514
-        ],
-        [
-          "\"This Veterans Day, and every day, let\u2019s make sure all our veterans know how much we appreciate them.\" \u2014President Obama Timeline Photos",
-          1415723129
-        ],
-        [
-          "Real change can't happen without people like you: http://ofa.bo/e1UA This work has never mattered more Add your name to say you'll help in the grassroots fight for change.",
-          1415711296
-        ],
-        [
-          "All ready for Halloween. Timeline Photos",
-          1414780932
-        ],
-        [
-          "No ghost is as terrifying as this. Timeline Photos",
-          1414686446
-        ],
-        [
-          "Get ready. Timeline Photos",
-          1413376978
-        ],
-        [
-          "These are the names of people building this movement from the ground up. Are you in? http://ofa.bo/jC Timeline Photos",
-          1388270404
-        ],
-        [
-          "Peace on Earth. Timeline Photos",
-          1387902490
-        ],
-        [
-          "The sincerest form of flattery. Timeline Photos",
-          1387555269
-        ],
-        [
-          "Here's how to be covered on January 1st: http://OFA.BO/F5yp8t Timeline Photos",
-          1387381453
-        ],
-        [
           "Enroll by December 23rd and have a very happy New Year. http://OFA.BO/SqSgCF Timeline Photos",
           1387295495
-        ],
-        [
-          "Getting covered is at your fingertips: http://OFA.BO/UpHXQB Timeline Photos",
-          1387123018
-        ],
-        [
-          "Getting in the spirit. Timeline Photos",
-          1386891985
-        ],
-        [
-          "Santa's helpers. Timeline Photos",
-          1386622914
-        ],
-        [
-          "To be covered on the first day of the new year, follow these simple steps: http://OFA.BO/3Fa82A Timeline Photos",
-          1386608310
-        ],
-        [
-          "\"Let us pause and give thanks for the fact that Nelson Mandela lived\u2014a man who took history in his hands and bent the arc of the moral universe toward justice.\" \u2014President Obama Timeline Photos",
-          1386281722
         ],
         [
           "Happy New Year! Timeline Photos",
@@ -567,10 +54,6 @@
         [
           "A favorite photo (and moment) from this year: Winning. Timeline Photos",
           1356882225
-        ],
-        [
-          "Worth sharing: A look back at the big moments that made this year, and this campaign, what it was. http://OFA.BO/QTDEJN Timeline Photos",
-          1356721850
         ],
         [
           "One of our favorite photos from this year: Can't lose. Timeline Photos",
@@ -589,10 +72,6 @@
           1356533039
         ],
         [
-          "Barack and Michelle wish you a Merry Christmas and Happy Holidays: http://OFA.BO/i1d9u3 Timeline Photos",
-          1356447020
-        ],
-        [
           "Check out the kids in the back row to see why this is one of our favorite photos from this year. Timeline Photos",
           1356272998
         ],
@@ -603,14 +82,6 @@
         [
           "\u201cWe don\u2019t turn back. We leave no one behind. We pull each other up.\u201d \u2014 President Obama at the Democratic National Convention, and one of our favorite photos from this year. Timeline Photos",
           1356018916
-        ],
-        [
-          "\"I will use all the powers of this office to help advance efforts aimed at preventing more tragedies.\" \u2014President Obama, announcing a new effort led by Vice President Biden to reduce gun violence: http://OFA.BO/pc6eDQ Timeline Photos",
-          1355945774
-        ],
-        [
-          "Photo of the day: President Obama gets caught in Spider-Man's web. Timeline Photos",
-          1355927145
         ],
         [
           "One of our favorite 2012 photos: The President and First Lady hugging at his final campaign rally. Timeline Photos",
@@ -625,64 +96,8 @@
           1355322710
         ],
         [
-          "To everyone celebrating Hanukkah, Chag Sameach. Timeline Photos",
-          1354994816
-        ],
-        [
-          "Add your voice: http://OFA.BO/hJ5LFw Timeline Photos",
-          1354738207
-        ],
-        [
           "A favorite photo from this year: President Obama sits on the Rosa Parks bus at the Henry Ford Museum in Dearborn, Michigan. Timeline Photos",
           1354666008
-        ],
-        [
-          "President Obama is asking you to think about what $2,000 means to you and your family\u2014because Congress needs to hear it. Share your story: http://OFA.BO/pkAbop Timeline Photos",
-          1354547945
-        ],
-        [
-          "\"We are going to win this fight. But the fight is not over.\" \u2014President Obama on World AIDS Day Timeline Photos",
-          1354376614
-        ],
-        [
-          "Last call for limited-edition victory magnets: Get yours today for 40% off with the code VICTORY. http://OFA.BO/qXv3DG Timeline Photos",
-          1354291113
-        ],
-        [
-          "Celebrate four more years with a limited-edition victory magnet\u2014get 40% off with the coupon code VICTORY: http://OFA.BO/mD1cNr Timeline Photos",
-          1354062601
-        ],
-        [
-          "Sasha and her first mate. Timeline Photos",
-          1354031155
-        ],
-        [
-          "President Obama and his daughters visited One More Page Books in Virginia yesterday for Small Business Saturday. If you visited a small business this weekend, share where in the comments. Timeline Photos",
-          1353860062
-        ],
-        [
-          "2.2 million volunteers, nearly 1.8 million voters registered, and more on this campaign by the numbers: http://OFA.BO/qnouvU Timeline Photos",
-          1353770385
-        ],
-        [
-          "From this family to yours, happy Thanksgiving. Timeline Photos",
-          1353592948
-        ],
-        [
-          "This movement belongs to you. Take a few minutes to help write its next chapter: http://OFA.BO/qCx3KA Timeline Photos",
-          1353454200
-        ],
-        [
-          "Happy 70th, Mr. Vice President. Timeline Photos",
-          1353418491
-        ],
-        [
-          "Oval Office tour. Timeline Photos",
-          1353281870
-        ],
-        [
-          "McKayla Maroney: \"Did I just do the 'Not impressed' face with the President...?\" Yes. Timeline Photos",
-          1353167051
         ],
         [
           "Daniel, a student, took this photo in May when the President visited Albany: \"It was by far the greatest excuse to miss a class that I have ever had.\" Share your own story or favorite moment here: http://OFA.BO/UARQwW Timeline Photos",
@@ -693,160 +108,226 @@
           1352908256
         ],
         [
-          "Take a look at some favorite photos from election night: http://OFA.BO/ST6uy4 Timeline Photos",
-          1352853001
-        ],
-        [
-          "\"Today, a proud nation expresses our gratitude. But we do so mindful that no ceremony or parade, no hug or handshake is enough to truly honor that service. For that, we must do more. For that, we must commit\u2014this day and every day\u2014to serving you as well as you\u2019ve served us.\" \u2014President Obama Timeline Photos",
-          1352659806
-        ],
-        [
-          "The definition of hope is you still believe, even when it's hard. Timeline Photos",
-          1352415728
-        ],
-        [
-          "Thank you. Timeline Photos",
-          1352320535
-        ],
-        [
           "Four more years. Timeline Photos",
           1352258108
-        ],
-        [
-          "Let your friends know you had the President's back today: http://OFA.BO/7PT2Wd Timeline Photos",
-          1352239201
-        ],
-        [
-          "We've come too far to turn back now. Let\u2019s go vote. Let\u2019s go do this. http://OFA.BO/9PMpkY Timeline Photos",
-          1352164665
-        ],
-        [
-          "If you\u2019ve got the President\u2019s back tomorrow, let him know. Timeline Photos",
-          1352144968
-        ],
-        [
-          "President Obama is fighting for the American Dream because he's lived it. http://OFA.BO/kV8SNu Timeline Photos",
-          1352043291
-        ],
-        [
-          "A special message from Will Ferrell: http://OFA.BO/uuVED4 Timeline Photos",
-          1351987201
-        ],
-        [
-          "The choice on education: http://OFA.BO/H6J6uh Timeline Photos",
-          1351966146
-        ],
-        [
-          "The choice for commander in chief: President Obama\u2019s four years of strong leadership vs. Mitt Romney\u2019s reckless statements and poor judgment. http://OFA.BO/egwL2s Timeline Photos",
-          1351952105
-        ],
-        [
-          "This is the choice on choice\u2014and it\u2019s something every American needs to know before voting: http://OFA.BO/ovBHSS Timeline Photos",
-          1351866340
-        ],
-        [
-          "This weekend is one of the last chances we have to get out the vote\u2014pick up a shift for the President: http://OFA.BO/R8Z8M2 Timeline Photos",
-          1351778878
-        ],
-        [
-          "Our thoughts this morning are with everyone who's been affected by the storm. Help support relief efforts where they're needed most by donating to the Red Cross: http://OFA.BO/ruDtEw Timeline Photos",
-          1351605452
-        ],
-        [
-          "Help get the word out on President Obama\u2019s accomplishments\u2014as quickly as you can: http://OFA.BO/ewJdZv Timeline Photos",
-          1351470186
-        ],
-        [
-          "States along the East Coast are preparing for Hurricane Sandy. If you can, please support American Red Cross disaster relief efforts here: http://OFA.BO/JdnJ23 Timeline Photos",
-          1351447305
-        ],
-        [
-          "\u201cNothing can stand in the way of the power of millions of voices calling for change.\u201d Use your voice this weekend\u2014canvass for the President: http://OFA.BO/szAFkA Timeline Photos",
-          1351289125
-        ],
-        [
-          "\u201cOur destiny is not written for us, it\u2019s written by us. And we\u2019re going to write the next chapter together.\u201d Check out the President\u2019s plan to keep us moving forward\u2014then pass it along: http://OFA.BO/sNyEof Timeline Photos",
-          1351189904
-        ],
-        [
-          "President Obama on day one of his 8-state, 48-hour tour: \"The crowds are great\u2014the enthusiasm is unbelievable. People are working so hard.\" Follow along with the rest of the trip here: http://OFA.BO/TJh6K4 Timeline Photos",
-          1351121308
-        ],
-        [
-          "Say cheese. Timeline Photos",
-          1351030449
-        ],
-        [
-          "Share this if you agree: Mitt Romney has failed to stand up for our veterans, and he\u2019s the wrong choice for commander in chief. Veterans for Obama A few things to keep in mind while you\u2019re watching the debate tonight: http://OFA.BO/FdRnFY",
-          1350939684
-        ],
-        [
-          "Somebody order some Joe? Joe Biden Joe photo of the day: Provisioning an Obama for America - Florida field office in Orlando.",
-          1350864900
-        ],
-        [
-          "President Obama paid Jon Stewart a visit yesterday\u2014watch the interview here, and pass it on: http://OFA.BO/vQaox4 Timeline Photos",
-          1350670748
-        ],
-        [
-          "Fired up in Ohio. Timeline Photos",
-          1350654830
-        ],
-        [
-          "\u201cBeing married to Michelle, and having these tall, beautiful, strong-willed girls in my house, never allows me to underestimate women.\u201d \u2013President Obama Timeline Photos",
-          1350600231
-        ],
-        [
-          "Forward, not back. http://OFA.BO/9Eaycy Timeline Photos",
-          1350566453
-        ],
-        [
-          "Share this if you\u2019re ready to cheer on Team Obama in tonight\u2019s debate: http://OFA.BO/fbArd8 Timeline Photos",
-          1350419284
-        ],
-        [
-          "This campaign is in the palm of your hand. Give $10 to Obama for America by texting GIVE to 62262. Timeline Photos",
-          1350249634
-        ],
-        [
-          "From all of us on the campaign, thanks for an amazing 2011\u2014and here's to a great 2012. Timeline Photos",
-          1325390642
         ]
       ],
-      "dates_start": 1366164292,
-      "dates_end": 1455637659,
-      "likes_avg": 296105,
-      "likes_stdev": 521145,
-      "comments_avg": 11709,
-      "comments_stdev": 20443,
-      "shares_avg": 26207,
-      "shares_stdev": 79015
+      "dates_start": 1343501939,
+      "dates_end": 1384413942,
+      "likes_avg": 498597,
+      "likes_stdev": 1033773,
+      "comments_avg": 21665,
+      "comments_stdev": 47017,
+      "shares_avg": 45773,
+      "shares_stdev": 145410
     },
     {
       "number": 2,
       "important": [
-        "commonsens",
-        "gun",
-        "violenc",
+        "day",
+        "timelin",
+        "thank",
+        "happi"
+      ],
+      "common": [
+        "dad",
+        "day",
+        "day timelin",
+        "father",
+        "father day",
+        "fourth",
+        "happi",
+        "thank",
+        "thank happi",
+        "timelin"
+      ],
+      "messages": [
+        [
+          "Dancing through 24 years. Happy Anniversary. Timeline Photos",
+          1475506276
+        ],
+        [
+          "Enjoy the fireworks. Happy Fourth of July. Timeline Photos",
+          1467641148
+        ],
+        [
+          "To all the dads out there, thanks for all you do. Happy Father's Day. Timeline Photos",
+          1466347910
+        ],
+        [
+          "Happy Earth Day. Timeline Photos",
+          1461356386
+        ],
+        [
+          "Happy Halloween. Timeline Photos",
+          1446326715
+        ],
+        [
+          "Happy Fourth. Timeline Photos",
+          1436014845
+        ],
+        [
+          "Happy Father's Day to all the dads out there. Timeline Photos",
+          1434895219
+        ],
+        [
+          "To all the moms out there: Thank you for all you do. Happy Mother's Day. Timeline Photos",
+          1431266397
+        ],
+        [
+          "Happy Easter. Timeline Photos",
+          1428239700
+        ],
+        [
+          "Happy Saint Patrick's Day. Timeline Photos",
+          1426626275
+        ],
+        [
+          "Happy Presidents Day. Timeline Photos",
+          1424110429
+        ],
+        [
+          "From this family to yours, happy Thanksgiving. Timeline Photos",
+          1353592948
+        ],
+        [
+          "Happy 70th, Mr. Vice President. Timeline Photos",
+          1353418491
+        ]
+      ],
+      "dates_start": 1394120796,
+      "dates_end": 1468239625,
+      "likes_avg": 602346,
+      "likes_stdev": 316594,
+      "comments_avg": 17275,
+      "comments_stdev": 8749,
+      "shares_avg": 21958,
+      "shares_stdev": 11409
+    },
+    {
+      "number": 3,
+      "important": [
+        "timelin"
+      ],
+      "common": [
+        "air",
+        "remind timelin",
+        "root",
+        "root timelin",
+        "santa",
+        "santa helper",
+        "santa helper timelin",
+        "scienc",
+        "scienc clear",
+        "timelin"
+      ],
+      "messages": [
+        [
+          "Whether in your neighborhood or beyond\u2014organize. Timeline Photos",
+          1471877760
+        ],
+        [
+          "#OrlandoUnited Timeline Photos",
+          1465829471
+        ],
+        [
+          "It's a classic. http://ofa.bo/d5vt Timeline Photos",
+          1462566216
+        ],
+        [
+          "Who are you rooting for? Timeline Photos",
+          1454877329
+        ],
+        [
+          "Lift off. Timeline Photos",
+          1453494683
+        ],
+        [
+          "Hello, 2016. Timeline Photos",
+          1451668068
+        ],
+        [
+          "REMINDER: Timeline Photos",
+          1446241494
+        ],
+        [
+          "Game six. Timeline Photos",
+          1434405257
+        ],
+        [
+          "Spring is in the air. Timeline Photos",
+          1429296624
+        ],
+        [
+          "The science is clear. Timeline Photos",
+          1427491527
+        ],
+        [
+          "No more waiting: http://ofa.bo/e2mp Timeline Photos",
+          1424017696
+        ],
+        [
+          "Who'll it be? Timeline Photos",
+          1422825681
+        ],
+        [
+          "No joke. Timeline Photos",
+          1422042406
+        ],
+        [
+          "Tonight. http://ofa.bo/r2UX Timeline Photos",
+          1421758966
+        ],
+        [
+          "No ghost is as terrifying as this. Timeline Photos",
+          1414686446
+        ],
+        [
+          "The sincerest form of flattery. Timeline Photos",
+          1387555269
+        ],
+        [
+          "Getting in the spirit. Timeline Photos",
+          1386891985
+        ],
+        [
+          "Santa's helpers. Timeline Photos",
+          1386622914
+        ],
+        [
+          "Fired up in Ohio. Timeline Photos",
+          1350654830
+        ]
+      ],
+      "dates_start": 1396180697,
+      "dates_end": 1458009262,
+      "likes_avg": 166977,
+      "likes_stdev": 155679,
+      "comments_avg": 6488,
+      "comments_stdev": 4080,
+      "shares_avg": 9697,
+      "shares_stdev": 9496
+    },
+    {
+      "number": 4,
+      "important": [
         "prevent",
         "gun violenc",
-        "add",
-        "face",
-        "voic",
-        "gun violenc prevent",
-        "add voic"
+        "gun",
+        "violenc",
+        "gun violenc prevent"
       ],
       "common": [
         "action",
         "congress",
         "gun",
-        "gun violence",
-        "gun violence prevention",
-        "prevention",
+        "gun violenc",
+        "gun violenc prevent",
+        "obama",
+        "prevent",
         "stand",
-        "violence",
-        "violence prevention",
-        "voice"
+        "violenc",
+        "violenc prevent"
       ],
       "messages": [
         [
@@ -888,6 +369,10 @@
         [
           "President Obama's common-sense actions are progress on gun violence prevention\u2014but Congress needs to pass a long-term solution. http://ofa.bo/d5Ni Stand up for bold action on gun violence President Obama has announced he's taking a big step forward for gun violence prevention. Now it's time for Congress to step up.",
           1452214504
+        ],
+        [
+          "Tune in to CNN at 8 p.m. ET to watch President Obama speak at a town hall event on reducing gun violence in America. Timeline Photos",
+          1452201849
         ],
         [
           "Excuses for inaction just can't stand any longer. It's time for Congress to step up and help stop gun violence in America. Timeline Photos",
@@ -950,165 +435,35 @@
           1356127677
         ]
       ],
-      "dates_start": 1424988588,
-      "dates_end": 1469886213,
-      "likes_avg": 71667,
-      "likes_stdev": 74920,
-      "comments_avg": 4277,
-      "comments_stdev": 3463,
-      "shares_avg": 8432,
-      "shares_stdev": 19451
+      "dates_start": 1425588717,
+      "dates_end": 1469652580,
+      "likes_avg": 69783,
+      "likes_stdev": 74067,
+      "comments_avg": 4170,
+      "comments_stdev": 3437,
+      "shares_avg": 8212,
+      "shares_stdev": 19105
     },
     {
-      "number": 3,
+      "number": 5,
       "important": [
-        "abl",
-        "got",
-        "peopl",
-        "make sure",
-        "better",
-        "everyon",
-        "sure",
-        "obama",
-        "economi",
-        "make"
-      ],
-      "common": [
-        "1st",
-        "covered",
-        "health",
-        "health insurance",
-        "insurance",
-        "january",
-        "january 1st",
-        "make",
-        "make sure",
-        "sure"
-      ],
-      "messages": [
-        [
-          "\"Our goal wasn't just to make sure more people have coverage\u2014it was to make sure more people have better coverage.\" \u2014President Obama",
-          1478358311
-        ],
-        [
-          "We've got to make sure that our economy works for everyone. Timeline Photos",
-          1475607253
-        ],
-        [
-          "This is good news. We've got to keep building on this progress to make sure our economy works for everyone\u2014not just those at the top. Timeline Photos",
-          1475074605
-        ],
-        [
-          "This is great news\u2014but we can do more to make sure our economy works for everyone. Timeline Photos",
-          1470406196
-        ],
-        [
-          "We've seen important progress over the last seven years\u2014but there's still more to do to make sure our economy works for everyone. Timeline Photos",
-          1468510269
-        ],
-        [
-          "DEADLINE: Today's the day. Make sure you're covered. http://ofa.bo/d5Wm Timeline Photos",
-          1454258708
-        ],
-        [
-          "Share this and make sure your friends have the security of health insurance. http://ofa.bo/v6b Timeline Photos",
-          1453832638
-        ],
-        [
-          "These Tucson volunteers are taking action to make their community a better place. http://ofa.bo/d5Cg Fulfilling the Promise in Tucson Organizers all over the country are working to make sure everyone's voices are heard. Read the latest from Arizona.",
-          1442866622
-        ],
-        [
-          "Share this, and make sure your voice is heard about these attacks on women's rights. http://ofa.bo/h8aT Hundreds of restrictions on women's rights introduced in the past three months By the end of the first quarter of the year, legislators had introduced 791 provisions related to sexual and reproductive health and rights.",
-          1434549921
-        ],
-        [
-          "You've got everything else covered. Make sure you have health insurance, too. http://ofa.bo/p2wC",
-          1423592451
-        ],
-        [
-          "Got covered on the marketplace? Make sure you're getting the best health care deal starting in 2015. Check out your options by December 15: http://ofa.bo/e1t1 Timeline Photos",
-          1418230093
-        ],
-        [
-          "Celebrate Christmas knowing you're already enrolled: http://OFA.BO/HY1HmK Be covered on the 1st Apply, shop, and buy health insurance before December 23rd to make sure you are covered on January 1st.",
-          1387822534
-        ],
-        [
-          "Tell your friends and family: Affordable health care is here. Enroll today. http://OFA.BO/78qW5R Be covered on the 1st Apply, shop, and buy health insurance before December 23rd to make sure you are covered on January 1st.",
-          1387473657
-        ],
-        [
-          "It's beginning to look a lot like Christmas. Give yourself the gift of health insurance: http://OFA.BO/W6x9rd Be covered on the 1st Apply, shop, and buy health insurance before December 23rd to make sure you are covered on January 1st.",
-          1387215749
-        ],
-        [
-          "Be covered on January 1st and start 2014 the right way: http://OFA.BO/TSCi7V Be covered on the 1st Apply, shop, and buy before December 23rd to make sure you are covered on January 1st.",
-          1386951762
-        ],
-        [
-          "Shop for health insurance without leaving your desk. http://OFA.BO/MzCM8r #GetCovered Be covered on the 1st Apply, shop, and buy before December 23rd to make sure you are covered on January 1st.",
-          1386877674
-        ],
-        [
-          "There are less than two weeks left to apply for health insurance that starts on January 1st. Find a plan that's right for you: http://OFA.BO/mJw76X Be covered on the 1st Apply, shop, and buy before December 23rd to make sure you are covered on January 1st.",
-          1386776761
-        ],
-        [
-          "Make sure your friends know where to vote today: http://OFA.BO/d23aUK Barack Obama's cover photo",
-          1352201107
-        ],
-        [
-          "Make sure your friends know how Obamacare is making health insurance more affordable for their families: http://OFA.BO/YSZUEq Timeline Photos",
-          1351693872
-        ],
-        [
-          "Make sure your friends get the facts on how President Obama is fighting for women: http://OFA.BO/AnNUoH Timeline Photos",
-          1351372781
-        ],
-        [
-          "Make sure your friends and family see President Obama\u2019s second-term plans to keep us moving forward: http://OFA.BO/AefFhG Timeline Photos",
-          1351080850
-        ],
-        [
-          "Share this if you agree: Our daughters should have the same opportunities as our sons. Michelle Obama If you support the President\u2019s record\u2014from fair pay to making sure women can make their own health choices\u2014share this post: http://OFA.BO/1KsCED",
-          1350514187
-        ]
-      ],
-      "dates_start": 1366650728,
-      "dates_end": 1458373634,
-      "likes_avg": 78174,
-      "likes_stdev": 82258,
-      "comments_avg": 7310,
-      "comments_stdev": 13180,
-      "shares_avg": 6988,
-      "shares_stdev": 8511
-    },
-    {
-      "number": 4,
-      "important": [
-        "wage",
-        "secur",
-        "like",
-        "plan",
-        "thing",
+        "watch",
+        "watch week",
         "week",
-        "whi",
-        "minimum",
-        "pay",
-        "effort"
+        "obama watch week",
+        "obama watch"
       ],
       "common": [
         "address",
         "obama",
-        "president",
-        "president obama",
-        "president obama watch weekly address",
+        "obama watch",
+        "obama watch week",
+        "obama watch week address",
         "watch",
-        "watch weekly",
-        "watch weekly address",
-        "weekly",
-        "weekly address"
+        "watch week",
+        "watch week address",
+        "week",
+        "week address"
       ],
       "messages": [
         [
@@ -1198,10 +553,6 @@
         [
           "\"In too many cases, our criminal justice system is a pipeline from underfunded schools to overcrowded jails.\" \u2014President Obama\n\nWatch the weekly address.",
           1445099040
-        ],
-        [
-          "\"This week, after five years of effort with eleven other nations, we reached agreement on a new trade deal that promotes American values and protects American workers.\" \u2014President Obama\n\nWatch the weekly address. http://ofa.bo/e5DV Timeline Photos",
-          1444494953
         ],
         [
           "\"Congress should do its job, stop kicking the can down the road, and pass a serious budget rather than flirt with another shutdown. A serious budget is one that keeps America strong.\" \u2014President Obama\n\nWatch the weekly address.",
@@ -1300,12 +651,12 @@
           1429368081
         ],
         [
-          "\"This week, together with our allies and partners, we reached a historic understanding with Iran.\" \u2014President Obama\n\nWatch the weekly address.",
-          1428154412
+          "\"To make sure everyone is part of this resurgence, we need to build on what we know widens the path to the middle class\u2014and you all know what it is: access to education.\" \u2014Vice President Biden \n\nWatch the weekly address.",
+          1428764045
         ],
         [
-          "\"I don\u2019t think our top economic priority should be helping a tiny number of Americans who are already doing extraordinarily well, and asking everybody else to foot the bill. I think our top priority should be helping everybody who works hard get ahead.\" \u2014President Obama\n\nWatch the weekly address.",
-          1427567551
+          "\"This week, together with our allies and partners, we reached a historic understanding with Iran.\" \u2014President Obama\n\nWatch the weekly address.",
+          1428154412
         ],
         [
           "\"Congress should stop playing politics with law enforcement and national security ... And that means they should end the longest confirmation process for an Attorney General in three decades, and give Loretta Lynch a vote.\" \u2014President Obama\n\nWatch the weekly address.",
@@ -1322,10 +673,6 @@
         [
           "\"In America, we believe that a lifetime of hard work and responsibility should be rewarded with a shot at a secure, dignified retirement.\"\n\nWatch the weekly address.",
           1425164035
-        ],
-        [
-          "\"While we\u2019ve come a long way, we\u2019ve got more work to do to make sure that our recovery reaches more Americans, not just those at the top. That\u2019s what middle-class economics is all about.\"\n\nWatch the weekly address: http://ofa.bo/a2jD",
-          1423341151
         ],
         [
           "\"Middle-class economics: the idea that this country does best when everyone gets their fair shot, everyone does their fair share, and everyone plays by the same set of rules.\" \u2014President Obama\n\nWatch the weekly address: http://ofa.bo/d2XX Timeline Photos",
@@ -1388,40 +735,399 @@
           1386430642
         ]
       ],
-      "dates_start": 1419472584,
-      "dates_end": 1454818463,
-      "likes_avg": 69977,
-      "likes_stdev": 47538,
-      "comments_avg": 6218,
-      "comments_stdev": 3717,
-      "shares_avg": 6965,
-      "shares_stdev": 4342
+      "dates_start": 1419436368,
+      "dates_end": 1455083080,
+      "likes_avg": 69681,
+      "likes_stdev": 48467,
+      "comments_avg": 6200,
+      "comments_stdev": 3776,
+      "shares_avg": 6956,
+      "shares_stdev": 4390
     },
     {
-      "number": 5,
+      "number": 6,
       "important": [
-        "nomin process",
-        "nomin",
-        "senat leader",
-        "leader",
-        "process",
-        "continu",
-        "american peopl",
-        "way",
-        "respons",
+        "timelin",
+        "sure",
+        "make sure",
+        "make",
+        "cover"
+      ],
+      "common": [
+        "cover",
+        "friend",
+        "health",
+        "health insur",
+        "insur",
+        "januari",
+        "make",
+        "make sure",
+        "sure",
+        "timelin"
+      ],
+      "messages": [
+        [
+          "\"Our goal wasn't just to make sure more people have coverage\u2014it was to make sure more people have better coverage.\" \u2014President Obama",
+          1478358311
+        ],
+        [
+          "We've got to make sure that our economy works for everyone. Timeline Photos",
+          1475607253
+        ],
+        [
+          "This is good news. We've got to keep building on this progress to make sure our economy works for everyone\u2014not just those at the top. Timeline Photos",
+          1475074605
+        ],
+        [
+          "This is great news\u2014but we can do more to make sure our economy works for everyone. Timeline Photos",
+          1470406196
+        ],
+        [
+          "We've seen important progress over the last seven years\u2014but there's still more to do to make sure our economy works for everyone. Timeline Photos",
+          1468510269
+        ],
+        [
+          "DEADLINE: Today's the day. Make sure you're covered. http://ofa.bo/d5Wm Timeline Photos",
+          1454258708
+        ],
+        [
+          "Share this and make sure your friends have the security of health insurance. http://ofa.bo/v6b Timeline Photos",
+          1453832638
+        ],
+        [
+          "These Tucson volunteers are taking action to make their community a better place. http://ofa.bo/d5Cg Fulfilling the Promise in Tucson Organizers all over the country are working to make sure everyone's voices are heard. Read the latest from Arizona.",
+          1442866622
+        ],
+        [
+          "Share this, and make sure your voice is heard about these attacks on women's rights. http://ofa.bo/h8aT Hundreds of restrictions on women's rights introduced in the past three months By the end of the first quarter of the year, legislators had introduced 791 provisions related to sexual and reproductive health and rights.",
+          1434549921
+        ],
+        [
+          "You've got everything else covered. Make sure you have health insurance, too. http://ofa.bo/p2wC",
+          1423592451
+        ],
+        [
+          "It's time to listen to your friends and family. Get covered right now. http://ofa.bo/d2Pt",
+          1422025235
+        ],
+        [
+          "Talk to your loved ones this holiday season about taking this important step: http://ofa.bo/d205 Talk to your friends and family about getting covered It\u2019s never too late to start talking about health care.",
+          1419349429
+        ],
+        [
+          "Got covered on the marketplace? Make sure you're getting the best health care deal starting in 2015. Check out your options by December 15: http://ofa.bo/e1t1 Timeline Photos",
+          1418230093
+        ],
+        [
+          "Celebrate Christmas knowing you're already enrolled: http://OFA.BO/HY1HmK Be covered on the 1st Apply, shop, and buy health insurance before December 23rd to make sure you are covered on January 1st.",
+          1387822534
+        ],
+        [
+          "Tell your friends and family: Affordable health care is here. Enroll today. http://OFA.BO/78qW5R Be covered on the 1st Apply, shop, and buy health insurance before December 23rd to make sure you are covered on January 1st.",
+          1387473657
+        ],
+        [
+          "Here's how to be covered on January 1st: http://OFA.BO/F5yp8t Timeline Photos",
+          1387381453
+        ],
+        [
+          "It's beginning to look a lot like Christmas. Give yourself the gift of health insurance: http://OFA.BO/W6x9rd Be covered on the 1st Apply, shop, and buy health insurance before December 23rd to make sure you are covered on January 1st.",
+          1387215749
+        ],
+        [
+          "Getting covered is at your fingertips: http://OFA.BO/UpHXQB Timeline Photos",
+          1387123018
+        ],
+        [
+          "Be covered on January 1st and start 2014 the right way: http://OFA.BO/TSCi7V Be covered on the 1st Apply, shop, and buy before December 23rd to make sure you are covered on January 1st.",
+          1386951762
+        ],
+        [
+          "Shop for health insurance without leaving your desk. http://OFA.BO/MzCM8r #GetCovered Be covered on the 1st Apply, shop, and buy before December 23rd to make sure you are covered on January 1st.",
+          1386877674
+        ],
+        [
+          "There are less than two weeks left to apply for health insurance that starts on January 1st. Find a plan that's right for you: http://OFA.BO/mJw76X Be covered on the 1st Apply, shop, and buy before December 23rd to make sure you are covered on January 1st.",
+          1386776761
+        ],
+        [
+          "Make sure your friends know where to vote today: http://OFA.BO/d23aUK Barack Obama's cover photo",
+          1352201107
+        ],
+        [
+          "Make sure your friends know how Obamacare is making health insurance more affordable for their families: http://OFA.BO/YSZUEq Timeline Photos",
+          1351693872
+        ],
+        [
+          "Make sure your friends get the facts on how President Obama is fighting for women: http://OFA.BO/AnNUoH Timeline Photos",
+          1351372781
+        ],
+        [
+          "Make sure your friends and family see President Obama\u2019s second-term plans to keep us moving forward: http://OFA.BO/AefFhG Timeline Photos",
+          1351080850
+        ],
+        [
+          "Share this if you agree: Our daughters should have the same opportunities as our sons. Michelle Obama If you support the President\u2019s record\u2014from fair pay to making sure women can make their own health choices\u2014share this post: http://OFA.BO/1KsCED",
+          1350514187
+        ]
+      ],
+      "dates_start": 1368392275,
+      "dates_end": 1454003657,
+      "likes_avg": 74673,
+      "likes_stdev": 80197,
+      "comments_avg": 6984,
+      "comments_stdev": 12264,
+      "shares_avg": 6456,
+      "shares_stdev": 8016
+    },
+    {
+      "number": 7,
+      "important": [
+        "energi",
+        "year",
+        "ad",
+        "economi",
+        "job"
+      ],
+      "common": [
+        "ad",
+        "clean",
+        "clean energi",
+        "economi",
+        "energi",
+        "growth",
+        "job",
+        "new",
+        "solar",
+        "year"
+      ],
+      "messages": [
+        [
+          "The economic progress we're making is undeniable\u2014and it's up to all of us to keep building an economy that works for all Americans. U.S. Added 161,000 New Jobs In October; Wages Rise By 10 Cents The unemployment rate was little changed, ticking back down to 4.9 percent. Hourly earnings rose 10 cents over last month \u2014 in total, wages are up 2.8 percent year over year.",
+          1478277846
+        ],
+        [
+          "According to a new report, renewable energy will be the world\u2019s fastest-growing source of electricity over the next five years.\n\nThis is another great example of how the U.S. is helping lead the fight to act on climate. Record Green Power Installations Beat Fossil Fuel for First Time Renewable energy reached an important turning point last year with record new installations of emissions-free power surpassing sources that burn fossil fuel, according the International Energy Agency.",
+          1477511535
+        ],
+        [
+          "This chart shows just how significantly the cost of clean energy technology has declined since President Obama took office. Watch clean energy costs fall, in one chart Nobody\u2019s got time for two charts.",
+          1475765333
+        ],
+        [
+          "Solar power continues to gain traction across the country. Read how this important industry is growing. Big increase for US solar in 2016: Report Over two gigawatts of solar photovoltaic installations took place in the U.S. during the second quarter of 2016, according to a new report.",
+          1473773356
+        ],
+        [
+          "Improving energy efficiency saves American families money and fights climate change\u2014and President Obama has made it a priority. Obama has done more to save energy than any other president Call him the energy efficiency president.",
+          1470764281
+        ],
+        [
+          "Thanks to President Obama's new initiative, solar panels will be within reach for millions of Americans. How Ida Went Solar (And Why It Means You Can, Too) In 1990, the electric company shut off power to Ida Rhyne\u2019s home in Baltimore for the first time. They did it because she simply couldn\u2019t\u2026",
+          1469196275
+        ],
+        [
+          "The lowest uninsured rate ever recorded.\nAn unemployment rate below five percent.\nAnd the longest streak of private-sector job growth on record.\nAll while cutting the deficit by two-thirds. Timeline Photos",
+          1465306507
+        ],
+        [
+          "Investments in clean energy are investments in a more sustainable future. Timeline Photos",
+          1461247053
+        ],
+        [
+          "Investing in clean energy like solar power is good for our country. Timeline Photos",
+          1461096624
+        ],
+        [
+          "The future looks bright for clean energy. http://ofa.bo/fA4b Clean energy employs 2.5 million in US: Report The clean energy industry in the U.S. employs over 2.5 million people, according to new analysis.",
+          1459870242
+        ],
+        [
+          "The American labor force just posted \"the strongest totals we've seen in 16 years.\" http://ofa.bo/e5oO Hot streak continues for American job market In light of the new jobs report, presidential candidates calling for a radical shift in U.S. economic policy now have a much tougher case to make.",
+          1459532502
+        ],
+        [
+          "Don't listen to the critics: American job growth continues at a robust pace. Timeline Photos",
+          1459518902
+        ],
+        [
+          "The solar industry is expected to add more new electricity-generating capacity than any other sector this year. http://ofa.bo/i9yM Solar energy is poised for an unforgettable year Installations set a record in 2015 -- but just wait.",
+          1457453324
+        ],
+        [
+          "The demand for solar energy is through the roof. http://ofa.bo/yDO U.S. Solar Surged 17% in 2015 Led by Demand for Rooftop Power Solar power developers added a record 7.3 gigawatts of capacity in the U.S. last year, up 17 percent from 2014 and surpassing natural gas installations for the first time.",
+          1456437574
+        ],
+        [
+          "4.9 percent unemployment: \u2713\nRising wages: \u2713\nThe longest streak of private-sector job growth on record: \u2713\n\nIt's hard to argue against facts. Timeline Photos",
+          1455821324
+        ],
+        [
+          "2015 was another big year for clean energy. http://ofa.bo/u8K The Majority of the New Energy Capacity Added to U.S. Grids Was Renewable For the second year in a row.",
+          1455037237
+        ],
+        [
+          "Jobs and wages are up, and the employment rate is down. Today is a good day for the American economy. http://ofa.bo/b5cW Wages Rise as U.S. Unemployment Rate Falls Below 5% Although employers added only 151,000 jobs last month, the wage bump suggested that some of the benefits from the falling unemployment rate were flowing to ordinary workers.",
+          1454707534
+        ],
+        [
+          "The solar industry is booming. gph.is",
+          1453395136
+        ],
+        [
+          "The solar industry added 35,000 jobs in 2015 alone\u2014up 20 percent from 2014. http://ofa.bo/g9db Solar energy jobs double in 5 years There are more solar energy workers in the U.S. than oil and gas extraction workers.",
+          1452787203
+        ],
+        [
+          "From the lowest uninsured rate on record to 70 straight months of private-sector job growth, this country has come a long way in the past seven years. Take a look at some of the progress. http://ofa.bo/d5S5 The Nation He Built A POLITICO review of Barack Obama\u2019s domestic policy legacy\u2014and the changes he made while nobody was paying attention.",
+          1452610367
+        ],
+        [
+          "The economy continues to improve, adding 292,000 jobs in December\u2014surpassing original predictions. http://ofa.bo/y0I U.S. economy has 2nd best year of jobs gains since 1999 For 2015, the economy added over 2.5 million jobs, the second best gain since 1999.",
+          1452285580
+        ],
+        [
+          "In 2007, wind power generated less than 1 percent of total electricity in the United States. Today, it's on track to reach 20 percent by 2030. http://ofa.bo/j9Xi Wind Power Continues Steady Growth Across The U.S. The wind power industry is celebrating a milestone in November: 70 gigawatts of generating capacity. Researchers say that's enough to power 19 million homes.",
+          1452180466
+        ],
+        [
+          "The deficit cut by two-thirds, the lowest unemployment rate in seven years, and the longest streak of private-sector job growth on record\u2014but there's more work to do. Timeline Photos",
+          1442419386
+        ],
+        [
+          "Solar energy is breaking records every quarter\u2014and this one is no different. http://ofa.bo/e54F Why solar energy is poised for yet another record year The solar boom continues -- but growth could be impaired after 2016.",
+          1441894706
+        ],
+        [
+          "The unemployment rate just fell to 5.1 percent\u2014the lowest since April 2008.\n\nThat's good news\u2014but there's more work to do. http://ofa.bo/q9CJ Employment report: U.S. added 173K jobs in August The unemployment rate declined to 5.1 percent, the Labor Department said Friday",
+          1441374146
+        ],
+        [
+          "Lower costs and new financial incentives will allow homeowners easier access to renewable energy. http://ofa.bo/f9Fl White House aims to boost homeowner renewable energy use The White House on Monday expanded its push for greater renewable energy adoption, announcing fresh financial incentives for solar panels, smart grid technology and other alternative energies for",
+          1440446307
+        ],
+        [
+          "Wind energy is now providing 73,000 jobs\u2014and counting. http://ofa.bo/q96a The boom in wind energy couldn\u2019t be coming at a better time Electricity from wind is now cheaper than ever before, says the Energy Department.",
+          1439317328
+        ],
+        [
+          "July marks 65 consecutive months of private-sector job growth\u2014the longest streak on record. http://ofa.bo/c4xL Payroll Rise of 215,000 in July Keeps Fed on Track for September The U.S. job market is chugging ahead, making the type of progress Federal Reserve policy makers want to see in order to raise interest rates as soon as September.",
+          1438957157
+        ],
+        [
+          "President Obama is making it easier for low-income homeowners and renters to switch to clean energy. http://ofa.bo/j8mc White House Solar Plan Aims at Low- and Middle-Income People The administration announced an initiative to make solar energy more accessible to Americans at lower income levels.",
+          1436299696
+        ],
+        [
+          "June marked 64 consecutive months of private-sector job growth. http://ofa.bo/t8g4 The Employment Situation in June The economy added 223,000 jobs in June as the unemployment rate fell to 5.3 percent. Our economy has now added 5.6 million jobs over the past two years, the strongest two-year job growth since 2000. But despite this progress, there is more work to do.",
+          1435866182
+        ],
+        [
+          "American leadership is making a big difference in the global fight against climate change. http://ofa.bo/s8hN China, Brazil, and the U.S. announce new climate and clean energy goals The three major emitters collectively pushed the ball downfield considerably Tuesday, as the world moves towards a major Paris summit at the end of the year.",
+          1435768639
+        ],
+        [
+          "Great news for the fight against climate change. http://ofa.bo/g8Qe White House raises $4 billion for clean energy The White House is touting $4 billion in commitments from the private sector to invest in clean energy technologies as it convenes a Clean Energy Investment Summit Tuesday.",
+          1434467724
+        ],
+        [
+          "200 trillion gallons of rain in only one month. http://ofa.bo/r7qr May was the wettest month in U.S. history, new data shows So much rain fell that if converted into gallons it would amount to more than 200 trillion gallons of water.",
+          1434041433
+        ],
+        [
+          "States are leading in the fight against climate change. Read about Hawaii's plan to switch to 100 percent clean energy. http://ofa.bo/g7Wy Gov. Ige signs bill setting 100 percent renewable energy goal for state Gov. David Ige on Monday signed into law four energy bills, including one that strengthens Hawaii's commitment to clean energy by directing the state's utilities to generate 100 percent of their el...",
+          1433948869
+        ],
+        [
+          "This isn't just good news for our economy\u2014it's good news for working families. http://ofa.bo/q6yo Strong Job Growth Data Eases Concerns After Winter Dip in Economy Employers added 280,000 jobs in May, a figure that is likely to strengthen the resolve of Federal Reserve officials who are hoping to start raising interest rates later this year.",
+          1433526285
+        ],
+        [
+          "223,000 jobs were added in April, making it the 62nd consecutive month of private-sector job growth. Read more in today's jobs report: http://ofa.bo/r5DS Good news: U.S. economy adds 223,000 jobs The U.S. economy added 223,000 jobs in April, a healthy pick up after March's jobs report was disappointing. Unemployment falls to 5.4%.",
+          1431099595
+        ],
+        [
+          "Countries across the world are investing in clean energy. Climate change deniers are running out of excuses. Timeline Photos",
+          1428689568
+        ],
+        [
+          "\"Caribbean countries are particularly vulnerable to the effects of climate change, and we have to act now.\" \u2014President Obama\n\nRead more on how the United States and the Caribbean are making progress on clean energy. http://ofa.bo/g4bT Obama pledges effort to fight energy cost in Caribbean \u201cThis region has some of the highest energy costs in the world,\u201d the president says.",
+          1428674853
+        ],
+        [
+          "Read about the President's initiative to train 75,000 Americans for jobs in the booming solar industry. http://ofa.bo/t4d7 Obama wants to train 75,000 new solar workers by 2020 During a visit to Utah's Hill Air Force Base Friday, President Obama will launch a new initiative to expand the nation's solar industry workforce.",
+          1428081641
+        ],
+        [
+          "Nations across the world are fighting climate change by making big investments in clean energy. http://ofa.bo/r4bV Renewable energy investment heats up worldwide From China to Mexico, renewable energy investments are hot.",
+          1427996218
+        ],
+        [
+          "The wind industry could support 600,000 American jobs by 2050\u2014that's real economic growth. http://ofa.bo/f3et Report: Wind power could be 35% of supply by 2050 The Obama administration is setting new goals for the production of wind power, saying it will supply 35% of the nation's electricity by the year 2050.",
+          1426198327
+        ],
+        [
+          "Last month, the unemployment rate dropped to its lowest point in seven years, and our streak of private-sector job growth reached its 60th consecutive month. http://ofa.bo/e3Ex U.S. Economy Added 295,000 Jobs in February, but Wages Continued to Lag The gains exceeded economists\u2019 expectations and added to encouragement about the continued recovery, though wage growth has barely budged in months.",
+          1425657948
+        ],
+        [
+          "ICYMI: The economy added 252,000 jobs in December, making 2014 the best year for job growth since 1999. http://ofa.bo/r2Ms The Employment Situation in December Today\u2019s solid employment report caps off a strong year for the U.S. labor market, which achieved a number of important milestones in 2014. Total job growth last year was the strongest since 1999, while the unemployment rate fell at the fastest pace in three decades.",
+          1421093414
+        ],
+        [
+          "FACT: The economy grew during the third quarter at its strongest rate in 11 years. http://ofa.bo/t28I Third Estimate of GDP for the Third Quarter of 2014 Today\u2019s upward revision indicates that the economy grew in the third quarter at the fastest pace in over a decade. The strong GDP growth is consistent with a broad range of other indicators showing improvement in the labor market, increasing domestic energy security, and continued low health cost gr\u2026",
+          1419616202
+        ],
+        [
+          "In 2014, the U.S. economic recovery took major strides forward, and we set a new record for job growth\u2013\u201357 consecutive months and counting. Read more about the year in review: http://ofa.bo/r21z The Economy in 2014 The U.S. economic recovery took a major step forward in 2014, achieving a number of important milestones. American businesses set a new record for the most consecutive months of job growth: now 57 straight months and counting. By November, the economy had already added more jobs than in any full cal\u2026",
+          1418758019
+        ],
+        [
+          "\"Everyone eventually grows older at sometimes a faster rate than others.\" \u2014President Obama filling in for Stephen Colbert during \"The Word\" segment on The Colbert Report\n\nWatch the full clip: http://ofa.bo/r1wU Timeline Photos",
+          1418139216
+        ],
+        [
+          "So far this year, our economy has added 2.65 million jobs\u2014that's on track for the best year of job growth since the late 1990s. Timeline Photos",
+          1417803728
+        ],
+        [
+          "Inauguration is just a month away. Sign up for updates on the new 2013 Presidential Inauguration website: http://2013pic.org/ Timeline Photos",
+          1356104409
+        ],
+        [
+          "The economy has added 5.6 million private sector jobs over 33 consecutive months, including 147,000 new jobs in November: http://OFA.BO/peVvJH Timeline Photos",
+          1354907778
+        ]
+      ],
+      "dates_start": 1417253715,
+      "dates_end": 1466245262,
+      "likes_avg": 56587,
+      "likes_stdev": 30532,
+      "comments_avg": 3029,
+      "comments_stdev": 1505,
+      "shares_avg": 5067,
+      "shares_stdev": 3260
+    },
+    {
+      "number": 8,
+      "important": [
+        "fair",
+        "senat",
+        "suprem",
+        "suprem court",
         "court"
       ],
       "common": [
         "court",
         "fair",
         "garland",
-        "hearing",
-        "judge",
+        "hear",
+        "judg",
         "obama",
-        "president",
-        "senate",
-        "supreme",
-        "supreme court"
+        "presid",
+        "senat",
+        "suprem",
+        "suprem court"
       ],
       "messages": [
         [
@@ -1473,6 +1179,10 @@
           1473192114
         ],
         [
+          "The Constitution is the law of the land. Senate leaders should not ignore it. Timeline Photos",
+          1472759564
+        ],
+        [
           "The Senate returns from recess next week. Filling the Supreme Court vacancy should be at the top of their to-do list. Call on Senate obstructionists to do their jobs There's still time for senators to hold a hearing for Judge Merrick Garland\u2014but we have to keep up the pressure.",
           1472740795
         ],
@@ -1517,6 +1227,10 @@
           1467037721
         ],
         [
+          "Senate leaders' refusal to do their jobs is affecting our entire judicial system. This obstruction is unacceptable. Timeline Photos",
+          1466791136
+        ],
+        [
           "Based on his merits alone, Judge Garland deserves a fair hearing in the Senate. Yet Another Legal Organization Throws Its Weight Behind Merrick Garland Obama\u2019s Supreme Court nominee is deemed \u201cwell qualified.\u201d",
           1466604734
         ],
@@ -1539,6 +1253,10 @@
         [
           "Share if you stand with the majority of Americans who believe Judge Merrick Garland should get a fair hearing. Timeline Photos",
           1464110077
+        ],
+        [
+          "Senate leaders: Do your jobs. Timeline Photos",
+          1463948459
         ],
         [
           "\"The epitome of a careful, fair, non-partisan judge.\"\n\"He treated every party with dignity and respect.\"\n\"One of the greatest jurists of the past century.\"\n\nThese are the kinds of things that Judge Garland's former clerks say about their former boss. http://ofa.bo/b62f Chief Judge Merrick Garland: The Public Servant In his professional life, Chief Judge Merrick Garland has been a lot of things:",
@@ -1657,6 +1375,10 @@
           1457045000
         ],
         [
+          "These headlines say it all\u2014it's time for Senate leaders to do their job. i.giphy.com",
+          1457021998
+        ],
+        [
           "Fourteen presidents have appointed 21 Supreme Court justices during an election year. The Senate has no excuse not to act. http://ofa.bo/d5gn One-third of all U.S. presidents appointed a Supreme Court justice in an election year Six presidents did so as classic lame ducks, after the election.",
           1456938967
         ],
@@ -1701,390 +1423,35 @@
           1456077205
         ]
       ],
-      "dates_start": 1457134133,
-      "dates_end": 1470859403,
-      "likes_avg": 39794,
-      "likes_stdev": 32774,
-      "comments_avg": 2494,
-      "comments_stdev": 1471,
-      "shares_avg": 4996,
-      "shares_stdev": 6862
+      "dates_start": 1457251781,
+      "dates_end": 1470865977,
+      "likes_avg": 38813,
+      "likes_stdev": 32173,
+      "comments_avg": 2458,
+      "comments_stdev": 1439,
+      "shares_avg": 4870,
+      "shares_stdev": 6693
     },
     {
-      "number": 6,
+      "number": 9,
       "important": [
-        "wage",
-        "unemploy rate",
-        "econom",
-        "ad",
-        "rate",
-        "unemploy",
-        "year",
-        "percent",
-        "month",
-        "rise"
-      ],
-      "common": [
-        "added",
-        "clean",
-        "clean energy",
-        "economy",
-        "energy",
-        "growth",
-        "job",
-        "jobs",
-        "solar",
-        "year"
-      ],
-      "messages": [
-        [
-          "The economic progress we're making is undeniable\u2014and it's up to all of us to keep building an economy that works for all Americans. U.S. Added 161,000 New Jobs In October; Wages Rise By 10 Cents The unemployment rate was little changed, ticking back down to 4.9 percent. Hourly earnings rose 10 cents over last month \u2014 in total, wages are up 2.8 percent year over year.",
-          1478277846
-        ],
-        [
-          "According to a new report, renewable energy will be the world\u2019s fastest-growing source of electricity over the next five years.\n\nThis is another great example of how the U.S. is helping lead the fight to act on climate. Record Green Power Installations Beat Fossil Fuel for First Time Renewable energy reached an important turning point last year with record new installations of emissions-free power surpassing sources that burn fossil fuel, according the International Energy Agency.",
-          1477511535
-        ],
-        [
-          "This chart shows just how significantly the cost of clean energy technology has declined since President Obama took office. Watch clean energy costs fall, in one chart Nobody\u2019s got time for two charts.",
-          1475765333
-        ],
-        [
-          "Solar power continues to gain traction across the country. Read how this important industry is growing. Big increase for US solar in 2016: Report Over two gigawatts of solar photovoltaic installations took place in the U.S. during the second quarter of 2016, according to a new report.",
-          1473773356
-        ],
-        [
-          "Improving energy efficiency saves American families money and fights climate change\u2014and President Obama has made it a priority. Obama has done more to save energy than any other president Call him the energy efficiency president.",
-          1470764281
-        ],
-        [
-          "Thanks to President Obama's new initiative, solar panels will be within reach for millions of Americans. How Ida Went Solar (And Why It Means You Can, Too) In 1990, the electric company shut off power to Ida Rhyne\u2019s home in Baltimore for the first time. They did it because she simply couldn\u2019t\u2026",
-          1469196275
-        ],
-        [
-          "The lowest uninsured rate ever recorded.\nAn unemployment rate below five percent.\nAnd the longest streak of private-sector job growth on record.\nAll while cutting the deficit by two-thirds. Timeline Photos",
-          1465306507
-        ],
-        [
-          "Investments in clean energy are investments in a more sustainable future. Timeline Photos",
-          1461247053
-        ],
-        [
-          "Investing in clean energy like solar power is good for our country. Timeline Photos",
-          1461096624
-        ],
-        [
-          "The future looks bright for clean energy. http://ofa.bo/fA4b Clean energy employs 2.5 million in US: Report The clean energy industry in the U.S. employs over 2.5 million people, according to new analysis.",
-          1459870242
-        ],
-        [
-          "The American labor force just posted \"the strongest totals we've seen in 16 years.\" http://ofa.bo/e5oO Hot streak continues for American job market In light of the new jobs report, presidential candidates calling for a radical shift in U.S. economic policy now have a much tougher case to make.",
-          1459532502
-        ],
-        [
-          "Don't listen to the critics: American job growth continues at a robust pace. Timeline Photos",
-          1459518902
-        ],
-        [
-          "The solar industry is expected to add more new electricity-generating capacity than any other sector this year. http://ofa.bo/i9yM Solar energy is poised for an unforgettable year Installations set a record in 2015 -- but just wait.",
-          1457453324
-        ],
-        [
-          "The demand for solar energy is through the roof. http://ofa.bo/yDO U.S. Solar Surged 17% in 2015 Led by Demand for Rooftop Power Solar power developers added a record 7.3 gigawatts of capacity in the U.S. last year, up 17 percent from 2014 and surpassing natural gas installations for the first time.",
-          1456437574
-        ],
-        [
-          "4.9 percent unemployment: \u2713\nRising wages: \u2713\nThe longest streak of private-sector job growth on record: \u2713\n\nIt's hard to argue against facts. Timeline Photos",
-          1455821324
-        ],
-        [
-          "2015 was another big year for clean energy. http://ofa.bo/u8K The Majority of the New Energy Capacity Added to U.S. Grids Was Renewable For the second year in a row.",
-          1455037237
-        ],
-        [
-          "Jobs and wages are up, and the employment rate is down. Today is a good day for the American economy. http://ofa.bo/b5cW Wages Rise as U.S. Unemployment Rate Falls Below 5% Although employers added only 151,000 jobs last month, the wage bump suggested that some of the benefits from the falling unemployment rate were flowing to ordinary workers.",
-          1454707534
-        ],
-        [
-          "The solar industry is booming. gph.is",
-          1453395136
-        ],
-        [
-          "The solar industry added 35,000 jobs in 2015 alone\u2014up 20 percent from 2014. http://ofa.bo/g9db Solar energy jobs double in 5 years There are more solar energy workers in the U.S. than oil and gas extraction workers.",
-          1452787203
-        ],
-        [
-          "From the lowest uninsured rate on record to 70 straight months of private-sector job growth, this country has come a long way in the past seven years. Take a look at some of the progress. http://ofa.bo/d5S5 The Nation He Built A POLITICO review of Barack Obama\u2019s domestic policy legacy\u2014and the changes he made while nobody was paying attention.",
-          1452610367
-        ],
-        [
-          "The economy continues to improve, adding 292,000 jobs in December\u2014surpassing original predictions. http://ofa.bo/y0I U.S. economy has 2nd best year of jobs gains since 1999 For 2015, the economy added over 2.5 million jobs, the second best gain since 1999.",
-          1452285580
-        ],
-        [
-          "The deficit cut by two-thirds, the lowest unemployment rate in seven years, and the longest streak of private-sector job growth on record\u2014but there's more work to do. Timeline Photos",
-          1442419386
-        ],
-        [
-          "Solar energy is breaking records every quarter\u2014and this one is no different. http://ofa.bo/e54F Why solar energy is poised for yet another record year The solar boom continues -- but growth could be impaired after 2016.",
-          1441894706
-        ],
-        [
-          "The unemployment rate just fell to 5.1 percent\u2014the lowest since April 2008.\n\nThat's good news\u2014but there's more work to do. http://ofa.bo/q9CJ Employment report: U.S. added 173K jobs in August The unemployment rate declined to 5.1 percent, the Labor Department said Friday",
-          1441374146
-        ],
-        [
-          "Lower costs and new financial incentives will allow homeowners easier access to renewable energy. http://ofa.bo/f9Fl White House aims to boost homeowner renewable energy use The White House on Monday expanded its push for greater renewable energy adoption, announcing fresh financial incentives for solar panels, smart grid technology and other alternative energies for",
-          1440446307
-        ],
-        [
-          "Wind energy is now providing 73,000 jobs\u2014and counting. http://ofa.bo/q96a The boom in wind energy couldn\u2019t be coming at a better time Electricity from wind is now cheaper than ever before, says the Energy Department.",
-          1439317328
-        ],
-        [
-          "July marks 65 consecutive months of private-sector job growth\u2014the longest streak on record. http://ofa.bo/c4xL Payroll Rise of 215,000 in July Keeps Fed on Track for September The U.S. job market is chugging ahead, making the type of progress Federal Reserve policy makers want to see in order to raise interest rates as soon as September.",
-          1438957157
-        ],
-        [
-          "President Obama is making it easier for low-income homeowners and renters to switch to clean energy. http://ofa.bo/j8mc White House Solar Plan Aims at Low- and Middle-Income People The administration announced an initiative to make solar energy more accessible to Americans at lower income levels.",
-          1436299696
-        ],
-        [
-          "June marked 64 consecutive months of private-sector job growth. http://ofa.bo/t8g4 The Employment Situation in June The economy added 223,000 jobs in June as the unemployment rate fell to 5.3 percent. Our economy has now added 5.6 million jobs over the past two years, the strongest two-year job growth since 2000. But despite this progress, there is more work to do.",
-          1435866182
-        ],
-        [
-          "Great news for the fight against climate change. http://ofa.bo/g8Qe White House raises $4 billion for clean energy The White House is touting $4 billion in commitments from the private sector to invest in clean energy technologies as it convenes a Clean Energy Investment Summit Tuesday.",
-          1434467724
-        ],
-        [
-          "States are leading in the fight against climate change. Read about Hawaii's plan to switch to 100 percent clean energy. http://ofa.bo/g7Wy Gov. Ige signs bill setting 100 percent renewable energy goal for state Gov. David Ige on Monday signed into law four energy bills, including one that strengthens Hawaii's commitment to clean energy by directing the state's utilities to generate 100 percent of their el...",
-          1433948869
-        ],
-        [
-          "This isn't just good news for our economy\u2014it's good news for working families. http://ofa.bo/q6yo Strong Job Growth Data Eases Concerns After Winter Dip in Economy Employers added 280,000 jobs in May, a figure that is likely to strengthen the resolve of Federal Reserve officials who are hoping to start raising interest rates later this year.",
-          1433526285
-        ],
-        [
-          "223,000 jobs were added in April, making it the 62nd consecutive month of private-sector job growth. Read more in today's jobs report: http://ofa.bo/r5DS Good news: U.S. economy adds 223,000 jobs The U.S. economy added 223,000 jobs in April, a healthy pick up after March's jobs report was disappointing. Unemployment falls to 5.4%.",
-          1431099595
-        ],
-        [
-          "Countries across the world are investing in clean energy. Climate change deniers are running out of excuses. Timeline Photos",
-          1428689568
-        ],
-        [
-          "\"Caribbean countries are particularly vulnerable to the effects of climate change, and we have to act now.\" \u2014President Obama\n\nRead more on how the United States and the Caribbean are making progress on clean energy. http://ofa.bo/g4bT Obama pledges effort to fight energy cost in Caribbean \u201cThis region has some of the highest energy costs in the world,\u201d the president says.",
-          1428674853
-        ],
-        [
-          "Read about the President's initiative to train 75,000 Americans for jobs in the booming solar industry. http://ofa.bo/t4d7 Obama wants to train 75,000 new solar workers by 2020 During a visit to Utah's Hill Air Force Base Friday, President Obama will launch a new initiative to expand the nation's solar industry workforce.",
-          1428081641
-        ],
-        [
-          "Nations across the world are fighting climate change by making big investments in clean energy. http://ofa.bo/r4bV Renewable energy investment heats up worldwide From China to Mexico, renewable energy investments are hot.",
-          1427996218
-        ],
-        [
-          "The wind industry could support 600,000 American jobs by 2050\u2014that's real economic growth. http://ofa.bo/f3et Report: Wind power could be 35% of supply by 2050 The Obama administration is setting new goals for the production of wind power, saying it will supply 35% of the nation's electricity by the year 2050.",
-          1426198327
-        ],
-        [
-          "Last month, the unemployment rate dropped to its lowest point in seven years, and our streak of private-sector job growth reached its 60th consecutive month. http://ofa.bo/e3Ex U.S. Economy Added 295,000 Jobs in February, but Wages Continued to Lag The gains exceeded economists\u2019 expectations and added to encouragement about the continued recovery, though wage growth has barely budged in months.",
-          1425657948
-        ],
-        [
-          "The President talks about job growth, Obamacare, and a lot more with Vox. Read the full interview: http://ofa.bo/t2pc Obama on American politics and economy: the Vox conversation The president discusses health care, the economy, and the political polarization of the American people.",
-          1423506619
-        ],
-        [
-          "ICYMI: The economy added 252,000 jobs in December, making 2014 the best year for job growth since 1999. http://ofa.bo/r2Ms The Employment Situation in December Today\u2019s solid employment report caps off a strong year for the U.S. labor market, which achieved a number of important milestones in 2014. Total job growth last year was the strongest since 1999, while the unemployment rate fell at the fastest pace in three decades.",
-          1421093414
-        ],
-        [
-          "FACT: The economy grew during the third quarter at its strongest rate in 11 years. http://ofa.bo/t28I Third Estimate of GDP for the Third Quarter of 2014 Today\u2019s upward revision indicates that the economy grew in the third quarter at the fastest pace in over a decade. The strong GDP growth is consistent with a broad range of other indicators showing improvement in the labor market, increasing domestic energy security, and continued low health cost gr\u2026",
-          1419616202
-        ],
-        [
-          "So far this year, our economy has added 2.65 million jobs\u2014that's on track for the best year of job growth since the late 1990s. Timeline Photos",
-          1417803728
-        ],
-        [
-          "Great news: The unemployment rate in this country is falling as fast as at any point in the last 30 years. We have to keep the momentum going. Timeline Photos",
-          1415377203
-        ]
-      ],
-      "dates_start": 1428242872,
-      "dates_end": 1463334802,
-      "likes_avg": 52312,
-      "likes_stdev": 24500,
-      "comments_avg": 2878,
-      "comments_stdev": 1348,
-      "shares_avg": 4780,
-      "shares_stdev": 2861
-    },
-    {
-      "number": 7,
-      "important": [
-        "chang timelin",
-        "fight climat chang",
-        "slow",
-        "cant afford",
-        "effort",
-        "climat chang timelin",
-        "cant",
-        "afford",
-        "climat chang",
-        "fight climat"
-      ],
-      "common": [
-        "change",
-        "clean",
-        "clean power",
-        "clean power plan",
-        "climate",
-        "climate change",
-        "plan",
-        "power",
-        "power plan",
-        "support"
-      ],
-      "messages": [
-        [
-          "We can't afford to slow down our efforts to fight against climate change. Timeline Photos",
-          1476192229
-        ],
-        [
-          "This is our best possible shot to save the planet from the devastating effects of climate change. Timeline Photos",
-          1475696449
-        ],
-        [
-          "We have to keep building on the progress we've made in tackling climate change. Timeline Photos",
-          1473953295
-        ],
-        [
-          "The Clean Power Plan is a significant step in combating climate change\u2014and we need to keep moving forward. Timeline Photos",
-          1471022270
-        ],
-        [
-          "Ninety-seven percent of climate scientists agree that climate change is real and man-made\u2014and the Clean Power Plan is a bold step to address it. \n\nBut deniers still want to hold that progress back. Support the Clean Power Plan We can't let deniers stand in the way of progress. Say you support the Clean Power Plan.",
-          1470240284
-        ],
-        [
-          "The Clean Power Plan helped pave the way for the historic Paris Climate Agreement\u2014the first-ever global climate deal. Timeline Photos",
-          1470231522
-        ],
-        [
-          "This is a big step forward in the fight to curb climate change. Timeline Photos",
-          1463149855
-        ],
-        [
-          "The Clean Power Plan is a key part of U.S. leadership in fighting climate change. Timeline Photos",
-          1461936760
-        ],
-        [
-          "Thanks to American leadership, the world is coming together to tackle climate change. Timeline Photos",
-          1461333020
-        ],
-        [
-          "The Paris Agreement marks the biggest global step toward combating climate change. Timeline Photos",
-          1450798597
-        ],
-        [
-          "With American leadership, more than 180 nations have committed to cut pollution and fight climate change. Timeline Photos",
-          1449762834
-        ],
-        [
-          "The global community is coming together to work toward progress on climate change. Timeline Photos",
-          1449677876
-        ],
-        [
-          "The Clean Power Plan is part of American leadership on climate change. Timeline Photos",
-          1449072785
-        ],
-        [
-          "Read why the Clean Power Plan is an essential part of American leadership in the global effort to tackle climate change. http://ofa.bo/j9So Don't let deniers stand in the way We can't let a vocal minority stand in the way of critical progress on this issue.",
-          1448995493
-        ],
-        [
-          "The science is clear: Climate change is real and man-made\u2014which is why the Clean Power Plan is so important. Timeline Photos",
-          1447780895
-        ],
-        [
-          "Don't let climate change deniers and big polluters derail the Clean Power Plan\u2014show your support: http://ofa.bo/b5Ly Support the Clean Power Plan We can't let deniers stand in the way of progress. Say you support the Clean Power Plan.",
-          1446216917
-        ],
-        [
-          "Another important step forward in the fight to curb climate change. Timeline Photos",
-          1440423584
-        ],
-        [
-          "Don't let climate change deniers have the final say. Add your name to support the Clean Power Plan: http://ofa.bo/f9E1 Support the Clean Power Plan Finalizing the Clean Power Plan is a truly historic step in the fight against climate change. But climate change deniers and special interests will be spending millions to derail it.",
-          1439822090
-        ],
-        [
-          "Read President Obama's message on how you can support the Clean Power Plan: http://ofa.bo/h9HC President Obama: Show your support for the Clean Power Plan The President sent a message to OFA supporters about supporting state leaders who are acting on climate.",
-          1438871513
-        ],
-        [
-          "Add your name if you support the Clean Power Plan\u2014the biggest step America has ever taken in the fight against climate change. http://ofa.bo/s99U Support the Clean Power Plan Finalizing the Clean Power Plan is a truly historic step in the fight against climate change. But climate change deniers and special interests will be spending millions to derail it.",
-          1438792107
-        ],
-        [
-          "The Clean Power Plan will create tens of thousands of jobs, lower the cost of renewable energy, and reduce carbon pollution.\n\nRead more from White House Senior Advisor Brian Deese. http://ofa.bo/e4vJ President Obama\u2019s Clean Power Plan is a Strong Signal of International Leadership From drought-parched Brazil to the increasingly ice-free Arctic Ocean, from the rising seas along the Florida coast to t\u2026",
-          1438707981
-        ],
-        [
-          "Support the Clean Power Plan\u2014be a part of the biggest action our country has taken to tackle climate change: http://ofa.bo/j95i Support the Clean Power Plan Finalizing the Clean Power Plan is a truly historic step in the fight against climate change. But climate change deniers and special interests will be spending millions to derail it.",
-          1438626579
-        ],
-        [
-          "The Clean Power Plan is good news for our economy and for public health. Timeline Photos",
-          1438613787
-        ],
-        [
-          "It\u2019s time to fight back against climate change. Timeline Photos",
-          1433965516
-        ],
-        [
-          "A new study found that the President's Clean Power Plan could save thousands of lives.\n\nRead more: http://ofa.bo/i587 Scientists: EPA\u2019s curbs on coal-burning will save thousands of lives The proposed rules have drawn a fierce backlash from the Republican-controlled Congress, with members calling them harmful to the coal industry and the economy.",
-          1430935965
-        ]
-      ],
-      "dates_start": 1438081302,
-      "dates_end": 1466304313,
-      "likes_avg": 45992,
-      "likes_stdev": 24968,
-      "comments_avg": 2635,
-      "comments_stdev": 1177,
-      "shares_avg": 3399,
-      "shares_stdev": 2361
-    },
-    {
-      "number": 8,
-      "important": [
+        "climat",
         "global",
-        "climat agreement",
-        "offici",
-        "accord",
-        "pari",
-        "put",
-        "enter",
         "climat chang",
-        "mark",
-        "climat"
+        "fight climat chang",
+        "chang"
       ],
       "common": [
         "action",
-        "change",
-        "climate",
-        "climate change",
+        "chang",
+        "climat",
+        "climat chang",
         "fight",
-        "fight climate",
+        "fight climat",
+        "fight climat chang",
         "global",
         "obama",
-        "president",
-        "president obama"
+        "presid"
       ],
       "messages": [
         [
@@ -2104,12 +1471,16 @@
           1476474063
         ],
         [
+          "We can't afford to slow down our efforts to fight against climate change. Timeline Photos",
+          1476192229
+        ],
+        [
           "\"Today the world meets the moment.\u201d \u2014President Obama Obama hails \u2018historic\u2019 ratification of Paris climate agreement The accord, which the president said could be a \u201cturning point for our planet,\u201d will enter into force after 30 days.",
           1475846874
         ],
         [
-          "Fighting the big fights can be a lot of work. Stay hydrated. http://ofa.bo/2dbTce0 Shop the OFA Store - Organizing& Bottle Stay hydrated with this one-of-a-kind, 24 oz. water bottle and fight for progress at the same time.   Made in the USA by Liberty Bottles. Produced from recycled and recyclable, non-toxic materials. BPA-free. Their factory is built with state of the art equipment that uses less energy and conserves r...",
-          1475590707
+          "This is our best possible shot to save the planet from the devastating effects of climate change. Timeline Photos",
+          1475696449
         ],
         [
           "According to a new report, climate change is likely to pose a threat to national security\u2014we can't afford to deny it. Report cites national security risks from climate change WASHINGTON (AP) \u2014 A government report released Wednesday said climate change is likely to pose a significant national security challenge for the U.S. over the next two decades by heightening social and political tensions,\u2026",
@@ -2124,12 +1495,12 @@
           1474641754
         ],
         [
-          "In the words of a champion for climate action: \"We are the first generation to feel the sting of climate change, and we are the last generation that can do something about it.\" \n\nWhat kind of future we leave for our children depends on the work we do today.",
-          1474485490
-        ],
-        [
           "American leadership on the global stage has helped create progress like the Paris Climate Agreement and the Iran nuclear deal. http://ofa.bo/2cO62BY President Obama Addresses the 71st United Nations General Assembly Watch as the President delivers his final address to the United Nations in New York City.",
           1474392866
+        ],
+        [
+          "We have to keep building on the progress we've made in tackling climate change. Timeline Photos",
+          1473953295
         ],
         [
           "The Paris Climate Agreement is now a step closer to going into effect. But we can't stop there. Obama on Climate Change: The Trends Are \u2018Terrifying\u2019 More than health care, race or the economy, Mr. Obama believes his efforts to slow global warming will be the most consequential legacy of his presidency.",
@@ -2188,6 +1559,10 @@
           1463409804
         ],
         [
+          "This is a big step forward in the fight to curb climate change. Timeline Photos",
+          1463149855
+        ],
+        [
           "This new rule will help curb methane pollution\u2014and improve public health. http://ofa.bo/gA96 Obama administration announces historic new regulations for methane emissions from oil and gas The EPA said it will regulate new sources immediately, and called for more information from industry to advance rules for existing sources.",
           1463092152
         ],
@@ -2216,8 +1591,8 @@
           1461342203
         ],
         [
-          "Climate change is not a problem for the distant future. We're already seeing its effects today.",
-          1461176848
+          "Thanks to American leadership, the world is coming together to tackle climate change. Timeline Photos",
+          1461333020
         ],
         [
           "This year, our country made big steps forward in combating climate change. We can't let climate change deniers derail progress. http://ofa.bo/d5tM Say you support progress in the fight against climate change Add your name to say you're committed to this fight.",
@@ -2228,28 +1603,12 @@
           1461075787
         ],
         [
-          "Find out how climate change is making wildfires a continual threat in some areas\u2014and why it's so important to act now: http://ofa.bo/yQJ Wildfires, Once Confined to a Season, Burn Earlier and Longer Increasingly, fire crews are making calculated decisions to let blazes consume the land, concentrating their efforts on safeguarding communities and watersheds.",
-          1460665021
-        ],
-        [
           "Here's how climate change could impact sea level rise\u2014and why it's so important to act now: http://ofa.bo/uOE Antarctic loss could double expected sea level rise by 2100, scientists say If carbon emissions continue unabated, expanding oceans and massive ice melt would threaten global coastal communities, according to new projections.",
           1459952481
         ],
         [
-          "The United States and Canada just agreed to reduce methane emissions from oil and gas by as much as 45 percent by 2025. http://ofa.bo/vJV Obama Finds Common Cause on Climate Change With Canada's Trudeau U.S. President Barack Obama and Canadian Prime Minister Justin Trudeau will release the details, which oil and gas companies are likely to fight, as they meet Thursday in Washington.",
-          1457645645
-        ],
-        [
-          "\"Most Americans want to see President Barack Obama nominate someone to fill the vacancy on the Supreme Court.\" http://ofa.bo/z0If For the next Justice, Americans want a nominee and a hearing Most Americans want to see President Barack Obama nominate someone to fill the vacancy on the Supreme Court created by the death of Justice Antonin Scalia, but the public is divided on what ideological tilt they'd prefer to see in a nominee, according to a new CNN/ORC poll published Thursday.",
-          1457122351
-        ],
-        [
           "Climate change denial is foolish in the face of facts. http://ofa.bo/f9nS Earth Kicks Off 2016 With the Most Abnormally Warm Month Ever Measured It would be hard to top 2015\u2014a year unlike any other in human history\u2014but 2016 seems to be giving it a shot. According to the latest data from NASA, is ...",
           1455900023
-        ],
-        [
-          "\"When young people are excited about science, technology, engineering, and math, that\u2019s not just good for them. That\u2019s good for America.\" \u2014President Obama\n\nRead more from the President's interview with Popular Science on climate change, the future, and why investing in science and technology is so important: http://ofa.bo/e5VC President Obama on Science, Technology, and How to Win The Future In an exclusive interview with Popular Science, President Barack Obama lays out his plan for science and technology in America. He covers new initiatives in space and exploration, climate change, and more.",
-          1455214191
         ],
         [
           "2015 was the hottest year ever recorded. Here's what scientists are saying\u2014and why climate action is so important: http://ofa.bo/x6D Record Warmth 'Almost Certainly' Due to Humans, Scientists Say The odds are \u201cvanishingly small\u201d that recent years of record warmth aren\u2019t due to human emissions of greenhouse gases, researchers in the U.S. and Germany said, adding to pressure on world governments to cut back on fossil fuel use.",
@@ -2264,12 +1623,8 @@
           1453303478
         ],
         [
-          "The United States is leading global efforts to tackle climate change\u2014but extreme voices in Congress are trying to stand in the way of progress. http://ofa.bo/i9ZA Obama vetoes anti-climate change measures passed by Congress HONOLULU (AP) \u2014 President Barack Obama has vetoed two measures that would have blocked steps that his administration is taking to address climate change.",
-          1450894026
-        ],
-        [
-          "There's still more work to do in the fight against climate change\u2014on every level. Check out what happens when organizers come together to discuss the path forward in their communities: http://ofa.bo/j9Vj Volunteers join together to lead on climate change As the international community joined together to #ActOnClimate, OFA volunteers geared up.",
-          1450469964
+          "The Paris Agreement marks the biggest global step toward combating climate change. Timeline Photos",
+          1450798597
         ],
         [
           "The global climate agreement is a huge step forward. http://ofa.bo/s9Yb The Paris Climate Deal Is President Obama\u2019s Biggest Accomplishment Five reasons why Paris will top Obama's legacy.",
@@ -2280,16 +1635,20 @@
           1450051236
         ],
         [
-          "\"We must not forget the power we have locally.\"\n\nFind out how these volunteers are helping shape the discussion on climate change in their community: http://ofa.bo/d5L4 #UnitedOnClimate starts at home The international climate talks in Paris are underway, and OFA volunteers are doing their part to support climate action at the grassroots level.",
-          1449867553
-        ],
-        [
           "As the global climate talks continue, don't miss your chance to be part of this historic moment. Here's how you can get involved: http://ofa.bo/e5I7 Join the global conversation on climate change The international community is coming together for global action on climate change. Join the conversation.",
           1449784683
         ],
         [
+          "With American leadership, more than 180 nations have committed to cut pollution and fight climate change. Timeline Photos",
+          1449762834
+        ],
+        [
           "The time to act on climate change is now.",
           1449694179
+        ],
+        [
+          "The global community is coming together to work toward progress on climate change. Timeline Photos",
+          1449677876
         ],
         [
           "The global community is coming together to tackle climate change. You can join the conversation: http://ofa.bo/b5O2 Join the global conversation on climate change The international community is coming together for global action on climate change. Join the conversation.",
@@ -2352,52 +1711,28 @@
           1444769484
         ],
         [
-          "Read how one OFA organizer got her start and eventually landed her dream job fighting for a good cause. http://ofa.bo/g9Qr A former OFA Professional Fellow lands a dream job Read how a former OFA professional fellow used OFA tools and trainings to land a job fighting for a great cause.",
-          1444140272
-        ],
-        [
           "In this exclusive interview with Rolling Stone, President Obama discusses the importance of creativity when it comes to fighting climate change. http://ofa.bo/f9SQ Obama Takes on Climate Change: The Rolling Stone Interview \"I don't want to get paralyzed by the magnitude of this thing. I'm a big believer that imagination can solve problems,\" says the president",
           1443532722
-        ],
-        [
-          "Climate change is an urgent problem. Read more from Pope Francis: http://ofa.bo/e5Bf Papa! Pope stirs excitement in DC, calls for climate action WASHINGTON \u2014 Cheered by jubilant crowds across the nation's capital, Pope Francis forged common cause Wednesday with President Barack Obama on climate change, immigration and inequality, as the popular pontiff signaled he would not sidestep issues that have deeply divided Americans.",
-          1443190883
         ],
         [
           "This is what it looks like when countries work together on climate change. http://ofa.bo/p9SQ Chinese cities pledge early carbon emissions peak under deal with U.S. Leaders of 11 Chinese cities and provinces are to announce that their carbon emissions will start to fall earlier than China's national target of 2030 at a U.S.-China meeting on Tuesday, a move meant to build momentum for a global climate change accord in December.",
           1442518848
         ],
         [
-          "Change starts with you. Be part of the team fighting for progress. http://ofa.bo/t9I3 Join OFA Democracy isn't a spectator sport. Join the movement fighting for real, lasting change.",
-          1442329998
-        ],
-        [
           "Speaking in Alaska this week, President Obama emphasized the urgent global need to take action on climate change. Read more: http://ofa.bo/t9DT Obama Makes Urgent Appeal in Alaska for Climate Change Action President Obama said at an international conference that \u201cwe\u2019re not acting fast enough,\u201d challenging leaders and citizens to reduce emissions to \u201cprotect the one planet that we\u2019ve got while we still can.\u201d",
           1441135364
         ],
         [
-          "The renaming of Mount McKinley to Denali is a historically significant move for the people of Alaska. Read more: http://ofa.bo/s9G9 McKinley no more: North America's tallest peak to be renamed Denali It\u2019s official: Denali is now the mountain formerly known as Mount McKinley. With the approval of President Barack Obama, Interior Secretary Sally Jewell has signed a \u201csecretarial order\u201d to officially change the name of North America's highest peak.",
-          1441040059
-        ],
-        [
-          "The first two women to graduate from the United States Army's Ranger School are making history\u2014and paving the way for future generations: http://ofa.bo/h9L3 First Female Army Rangers Say They Thought Of 'Future Generations Of Women' Some male Rangers admitted they were at first \"skeptical\" of the women. That changed. Some shared stores of how the women carried heavy loads when men were \"too broken\" to help.",
-          1440183018
+          "Another important step forward in the fight to curb climate change. Timeline Photos",
+          1440423584
         ],
         [
           "Read about another unprecedented step in President Obama's plan to combat climate change. http://ofa.bo/p9Ir U.S. proposes to cut methane from oil and gas by nearly half The Obama administration is proposing to cut methane emissions from U.S. oil and gas production by nearly half over the next decade in an unprecedented step to curb climate change.",
           1440011629
         ],
         [
-          "Read one organizer\u2019s story about the fight for women\u2019s rights\u2014and why it\u2019s important not to let up now. http://ofa.bo/h9Kn An important anniversary for women's rights A personal story about how community organizers like Susan B. Anthony and Grandma Evelyn fought for the 19th Amendment\u2014and how we need to continue their fight.",
-          1439996391
-        ],
-        [
           "This is big. http://ofa.bo/a4zG Apple, Microsoft, Google and other US firms to commit $140bn to address climate change Bank of America, General Motors, Cargill, Wal-Mart Stores, Coca-Cola and PepsiCo will also contribute.",
           1438007406
-        ],
-        [
-          "American leadership is making a big difference in the global fight against climate change. http://ofa.bo/s8hN China, Brazil, and the U.S. announce new climate and clean energy goals The three major emitters collectively pushed the ball downfield considerably Tuesday, as the world moves towards a major Paris summit at the end of the year.",
-          1435768639
         ],
         [
           "Climate change is not some distant threat. It's already impacting the health of millions. http://ofa.bo/p8c9 Climate change poses a severe risk to global health, says new report The Lancet Commission states bluntly that unchecked warming could be the worst health threat of the 21st century.",
@@ -2410,6 +1745,10 @@
         [
           "\"The American people and the American economy have faced enormous pollution challenges before, and history proves we can turn incredible challenges into incredible opportunity.\" \u2014EPA Administrator Gina McCarthy\n\nRead more on the economic case for fighting climate change: http://ofa.bo/r8Xs The Economic Case for Fighting Climate Change A strong, competitive American economy depends on climate action.",
           1434719754
+        ],
+        [
+          "It\u2019s time to fight back against climate change. Timeline Photos",
+          1433965516
         ],
         [
           "Read how the Obama administration is strengthening clean water protections. http://ofa.bo/j688 EPA strengthens federal protections for small streams The controversial rule places smaller waterways under U.S. safeguards, setting up fight with states and Congress.",
@@ -2452,10 +1791,6 @@
           1428523157
         ],
         [
-          "Climate change doesn't just fuel more extreme weather\u2014it also poses a health risk to our families. http://ofa.bo/f4fZ Obama presents climate change as hazard to your health President Barack Obama will ask Americans to think of climate change as a threat not just to the environment, but also to their health.",
-          1428430305
-        ],
-        [
           "U.S. leadership at home and abroad is crucial if we're going to solve global climate change. Read more about today's step forward: http://ofa.bo/a4ED We\u2019re taking action on climate change \u2014 and the world is joining us Last November, President Obama stood in the Great Hall of the People in Beijing alongside Chinese President Xi Jinping \u2014\u2026",
           1427894806
         ],
@@ -2466,14 +1801,6 @@
         [
           "One of these elected officials threw a snowball while on the floor of the Senate to disprove man-made climate change.\n\nVote now on who should advance to the Denial Finals: http://ofa.bo/j424 Jim Inhofe vs. Duncan Hunter - Climate Change Fantasy Tournament Who's the worst climate change denier? Cast your vote now and help OFA pick a \"winner\".",
           1426789618
-        ],
-        [
-          "\"It's nice being just a little bit of the underdog.\" \u2014President Obama\n\nCheck out the Presidential Bracket: http://ofa.bo/f43n Barack-etology 2015 ESPN Video: President Barack Obama makes his picks for the 2015 NCAA tournament.",
-          1426693086
-        ],
-        [
-          "President Obama sat down with American students and VICE News to discuss college affordability and the challenges of student debt. http://ofa.bo/r420 A Roundtable with President Barack Obama: The Cost of Education | VICE News VICE News hosted a roundtable discussion, moderated by VICE founder Shane Smith, with President Barack Obama and five students who discussed the challenges surrounding student debt and the pursuit of higher education in the US.",
-          1426606471
         ],
         [
           "Check out the regional finals match-ups in the Climate Change Fantasy Tournament and vote before the Tuesday night deadline: http://ofa.bo/a3in Vote in the Climate Change Fantasy Tournament Who's the worst climate change denier in America? Vote for your favorite, and OFA will honor the \"winner\" with a prize to highlight their denial.",
@@ -2488,24 +1815,8 @@
           1426184394
         ],
         [
-          "Our future leaders can already see the dangers of climate change. Let's follow their lead. Timeline Photos",
-          1426105413
-        ],
-        [
-          "Read about the safeguards President Obama is proposing to make sure Americans can retire with dignity and security: http://ofa.bo/i3Au President Obama proposes improved protections of IRA investors WASHINGTON \u2014 President Barack Obama proposed tougher regulations on investment brokers who handle retirement funds Monday, saying new rules would limit hidden fees, \u201cback-door payments\u201d and conflicts of interest that eat into the savings of middle-class Americans.",
-          1424889050
-        ],
-        [
           "The science is clear on climate change. It's time to call out elected officials who deny the facts: http://ofa.bo/j2yv Call out climate change deniers 97 percent of scientists agree that climate change is real and man-made\u2014but too many elected officials still publicly deny it. Let them know that it's time to stop denying basic science and act on climate change.",
           1424297656
-        ],
-        [
-          "\"What I\u2019m very proud of is to see how rapidly the country has shifted and maybe the small part that I\u2019ve played.\" \u2014President Obama on marriage equality progress during his interview with BuzzFeed\n\nRead more here: http://ofa.bo/b2o8 Obama Defends His Legacy: \"These Are The Kinds Of Things You Learn\" In the BuzzFeed News interview with President Barack Obama, the president celebrates Obamacare and marriage equality, blasts Vladimir Putin and Staples, and sets down a marker for Hillary Clinton.",
-          1423673880
-        ],
-        [
-          "President Obama's 2016 budget is taking the fight on climate change to the states. http://ofa.bo/d2aY Exclusive: Obama 2016 budget urges U.S. states to cut emissions faster WASHINGTON (Reuters) - President Barack Obama's fiscal 2016 budget proposes $7.4 billion to fund clean energy technologies and a $4 billion fund to encourage U.S. states to make faster and deeper cuts",
-          1422918375
         ],
         [
           "The vast majority of Americans agree that something must be done to combat climate change. It's time for climate change deniers to get on board. http://ofa.bo/a2bG Most Americans Support Government Action on Climate Change, Poll Finds An overwhelming majority, including nearly half of Republicans, back government steps to curb global warming, according to a poll conducted by The Times and others.",
@@ -2516,14 +1827,6 @@
           1421271624
         ],
         [
-          "These folks are ready to fight on the front lines against climate change: http://ofa.bo/t28K These folks are why we can win on climate Fired-up volunteers gathered for an advanced climate leaders training.",
-          1419692943
-        ],
-        [
-          "Ready to make history? Only a few hours left to apply to become an OFA spring fellow: http://ofa.bo/c1sA This is a movement of millions of Americans fighting for real, lasting change. OFA volunteers are building this organization from the ground up, community by community, one conversation at a time. Let's go.",
-          1418058789
-        ],
-        [
           "This is a massive investment in fighting climate change across the world: http://ofa.bo/p1k1 Obama to pledge $3 billion in climate aid for developing countries President Obama will pledge $3 billion to an international climate fund aimed at helping developing countries prepare for and slow the effects of climate change, a White House official said Friday.",
           1416254914
         ],
@@ -2532,53 +1835,52 @@
           1415837093
         ],
         [
-          "OFA volunteers are ready to hit the ground running come November 15th: http://ofa.bo/f1MO We made history, but we're not stopping there We\u2019ve got to hit the ground running on November 15th, so here's an important question: Are you in?",
-          1414507759
-        ],
-        [
           "The clock is ticking for you to show your support for aggressive action on climate change. Add your name before OFA's deadline tonight: http://ofa.bo/i1Dx  Stand with President Obama and support aggressive action to fight climate change President Obama has proposed action to fight climate change in the face of intense opposition from polluters. Add your name and stand with the President.",
           1413303207
+        ],
+        [
+          "Peace on Earth. Timeline Photos",
+          1387902490
         ]
       ],
-      "dates_start": 1429818365,
-      "dates_end": 1465487162,
-      "likes_avg": 40344,
-      "likes_stdev": 28354,
-      "comments_avg": 2668,
-      "comments_stdev": 1457,
-      "shares_avg": 3131,
-      "shares_stdev": 2875
+      "dates_start": 1431313965,
+      "dates_end": 1468402755,
+      "likes_avg": 46804,
+      "likes_stdev": 75203,
+      "comments_avg": 2901,
+      "comments_stdev": 2926,
+      "shares_avg": 3567,
+      "shares_stdev": 4481
     },
     {
-      "number": 9,
+      "number": 10,
       "important": [
-        "thing",
-        "rate",
+        "health care",
         "uninsur",
         "coverag",
-        "health care",
-        "cant afford",
-        "cant",
         "afford",
-        "back",
-        "access"
+        "care"
       ],
       "common": [
-        "act",
-        "affordable",
-        "affordable care",
-        "americans",
+        "afford",
+        "american",
         "care",
-        "care act",
+        "coverag",
         "health",
         "health care",
-        "obamacare",
-        "uninsured"
+        "insur",
+        "million",
+        "obamacar",
+        "uninsur"
       ],
       "messages": [
         [
           "Obamacare was designed on the principle that health care coverage that's affordable, accessible to all, and free from discrimination should be a right, not a privilege. We can't afford to let opponents roll that back. Obamacare is working Since it became law, the uninsured rate has been cut in half, lifetime caps are a thing of the past\u2014and more.",
           1478205658
+        ],
+        [
+          "Gracias al Obamacare, es m\u00e1s f\u00e1cil mantenerse sano con cuidado preventivo. Timeline Photos",
+          1478106451
         ],
         [
           "Team Obamacare is pushing back against misinformation and fighting for quality, affordable health care for all Americans. Join Team Obamacare Use your voice to help protect access to health care for millions of Americans.",
@@ -2601,12 +1903,20 @@
           1470060176
         ],
         [
+          "Millions of people now have the security of health insurance, thanks to Obamacare. Say you're proud of Obamacare Since Obamacare became the law of the land, 20 million people have gained access to health coverage\u2014that's progress to be proud of.",
+          1469804723
+        ],
+        [
           "Thanks to people like you demanding change, millions of Americans now have access to health care. Timeline Photos",
           1469728022
         ],
         [
           "Since Obamacare passed, experts are projecting significantly lower spending on health care than they originally expected\u2014all while reducing the uninsured rate. The US is spending trillions less than expected on health care The United States is spending trillions \u2014 yes, trillions \u2014 less on health care than government forecasters expected when Obamacare passed in 2010. Back then, the Center for Medicare and Medicaid...",
           1467394467
+        ],
+        [
+          "The overwhelming majority of Obamacare customers are satisfied with their coverage. http://ofa.bo/a65D Survey: Obamacare Customers Satisfied With Coverage - Morning Consult The percentage of Obamacare customers who say they are \u201cvery satisfied\u201d with their health insurance coverage rose after the third open enrollment period, which ended in 2016, according to a survey released today by the Commonwealth Fund. Nearly half of the respondents (44 percent) said they were \u201cve...",
+          1464729436
         ],
         [
           "More than 90 precent of Americans now have health coverage. http://ofa.bo/c5xn Uninsured rate hits record low under ObamaCare Only 9.1 percent were uninsured in 2015, down from 14.4 percent in 2013.",
@@ -2629,12 +1939,20 @@
           1444837307
         ],
         [
+          "Repealing Obamacare would be devastating for millions of families. Timeline Photos",
+          1444750702
+        ],
+        [
           "This number is great news. But there's still more work to do to get people covered. http://ofa.bo/p9W3 Feds say nearly 18 million now insured through Obamacare The number of people enrolled in health insurance on the New analysis shows 17.6 million have gained coverage as Affordable Care Act provisions have taken effect; about 10.",
           1443017263
         ],
         [
           "The number of Americans without health insurance continues to drop\u2014thanks to Obamacare. http://ofa.bo/q9H4 2014 Census Data Confirm Dramatic Impact of the Affordable Care Act New census numbers confirm that the ACA is working to expand health care coverage in every state, but millions more Americans could be covered if the states that have not yet expanded Medicaid were to do so.",
           1442434306
+        ],
+        [
+          "Under Obamacare, 16 million people gained health insurance and it's not the \u201cjob killer\u201d opponents said it would be. http://ofa.bo/c4z5 No, Obamacare isn\u2019t killing full-time jobs, new evidence shows The law's opponents predicted that employers would give workers fewer hours once the law went into effect.",
+          1439558892
         ],
         [
           "The uninsured rate is down to single digits for the first time ever. That's a reason to celebrate. http://ofa.bo/f9Cx 16 million fewer uninsured since Obamacare, study finds The CDC report finds the uninsured rate fell by about a third since 2013. ",
@@ -2657,6 +1975,10 @@
           1435260254
         ],
         [
+          "16 million covered\u2014and counting. Timeline Photos",
+          1435243956
+        ],
+        [
           "Repealing Obamacare would have serious economic consequences. http://ofa.bo/h8cg CBO: Repealing Obamacare Would Leave 19 Million Uninsured; Raise Federal Deficit The Congressional Budget Office released a new estimate on the effects of repealing the Affordable Care Act.",
           1434996887
         ],
@@ -2665,8 +1987,16 @@
           1434138236
         ],
         [
+          "It's time to put politics aside and do what's right. http://ofa.bo/p76X White House: Medicaid expansion would save billions, 5,200 lives The number of people with coverage through Medicaid or the Children's Health Insurance Program (CHIP) has risen by 12.2 million people from the start of the first open enrollment period under Obamacare.",
+          1433513930
+        ],
+        [
           "This is why health care reform is so important. Timeline Photos",
           1432043048
+        ],
+        [
+          "When it comes to health insurance, having options is a good thing. http://ofa.bo/t4u4 Obamacare creates choice. That\u2019s why people like it. Obamacare enrollees are more satisfied with their health insurance plans than those who get coverage outside the health law's marketplaces, a new survey finds.",
+          1430145488
         ],
         [
           "This is why we can't move backward on health care reform. http://ofa.bo/b4On Uninsured Rate Gets Lower And Lower, Thanks To Obamacare WASHINGTON-- The Affordable Care Act was designed to slash the percentage of Americans who lack health insurance, and it's working. The uninsured rate fell to 11.9 percent during the first quarter of this year, 1 percentage point below the rate at...",
@@ -2707,6 +2037,10 @@
         [
           "WATCH: Last week, President Obama met with people from all over the country whose lives are better off thanks to the Affordable Care Act.",
           1423518180
+        ],
+        [
+          "The President talks about job growth, Obamacare, and a lot more with Vox. Read the full interview: http://ofa.bo/t2pc Obama on American politics and economy: the Vox conversation The president discusses health care, the economy, and the political polarization of the American people.",
+          1423506619
         ],
         [
           "Thanks to the Affordable Care Act, this graduate student can focus on his studies without worrying about expensive medical bills. Timeline Photos",
@@ -2795,39 +2129,630 @@
         [
           "\"I\u2019m here to tell you that I\u2019m going to be right there with you the entire way until we get this done.\" \u2014President Obama on the fight to make Obamacare a success. Read more: http://OFA.BO/7ym5Mx President Obama to Dallas Health Care Volunteers: \"Nothing Is Going to Stop Us from Getting This... President Obama traveled to Dallas, Texas to meet with local volunteers who have been helping their neighbors enroll in affordable health insurance plans through the Marketplace.",
           1386345101
+        ],
+        [
+          "2.2 million volunteers, nearly 1.8 million voters registered, and more on this campaign by the numbers: http://OFA.BO/qnouvU Timeline Photos",
+          1353770385
         ]
       ],
-      "dates_start": 1409281576,
-      "dates_end": 1455325025,
-      "likes_avg": 43825,
-      "likes_stdev": 30570,
-      "comments_avg": 3254,
-      "comments_stdev": 1143,
-      "shares_avg": 2784,
-      "shares_stdev": 2033
+      "dates_start": 1408225486,
+      "dates_end": 1457922579,
+      "likes_avg": 46980,
+      "likes_stdev": 34950,
+      "comments_avg": 3339,
+      "comments_stdev": 1410,
+      "shares_avg": 3065,
+      "shares_stdev": 2893
     },
     {
-      "number": 10,
+      "number": 11,
       "important": [
-        "weve",
-        "leadership",
+        "organ",
+        "fight",
+        "progress",
+        "chang",
+        "support"
+      ],
+      "common": [
+        "chang",
+        "equal",
+        "fight",
+        "join",
+        "movement",
+        "organ",
+        "progress",
+        "support",
+        "timelin",
+        "work"
+      ],
+      "messages": [
+        [
+          "The facts matter. Organizing for Action's Truth Team will deliver them straight to your inbox. http://ofa.bo/2eVnCn5 giphy.com",
+          1477669916
+        ],
+        [
+          "This sun is still rising. Shop the OFA Store - Vintage Tee Fighting for change doesn't go out of style -- show off your support with this vintage-inspired T-shirt. Made in the USA.",
+          1477331234
+        ],
+        [
+          "Fighting the big fights can be a lot of work. Stay hydrated. http://ofa.bo/2dbTce0 Shop the OFA Store - Organizing& Bottle Stay hydrated with this one-of-a-kind, 24 oz. water bottle and fight for progress at the same time.   Made in the USA by Liberty Bottles. Produced from recycled and recyclable, non-toxic materials. BPA-free. Their factory is built with state of the art equipment that uses less energy and conserves r...",
+          1475590707
+        ],
+        [
+          "There's a lot of misinformation out there\u2014and it shouldn't go unchallenged.\n\nOrganizing for Action's Truth Team delivers the facts straight to your inbox. Join the OFA Truth Team Add your name to join the group of OFA supporters dedicated to fighting back against misinformation with facts.",
+          1474989758
+        ],
+        [
+          "Speak out. Organize. Inspire. http://ofa.bo/2cm4dO0 Timeline Photos",
+          1473354042
+        ],
+        [
+          "Show them what you're organizing for. http://ofa.bo/2bMVxva Timeline Photos",
+          1472500728
+        ],
+        [
+          "When women succeed, America succeeds. Timeline Photos",
+          1472236960
+        ],
+        [
+          "We've come a long way, but there's still work to do to make sure our daughters have the same opportunities as our sons. Stand with women Join OFA in fighting for the equality and security that all women\u2014and their families\u2014deserve.",
+          1472221089
+        ],
+        [
+          "Protecting access to affordable health care, economic opportunity, and equal pay for women makes a difference for everyone. Stand with women Join OFA in fighting for the equality and security that all women\u2014and their families\u2014deserve.",
+          1471290850
+        ],
+        [
+          "Gender equality in the 21st century has come a long way, but there's still work to be done. Timeline Photos",
+          1471269424
+        ],
+        [
+          "\"There\u2019s still a lot of work we need to do to improve the prospects of women and girls here and around the world. And while I\u2019ll keep working on good policies\u2014from equal pay for equal work to protecting reproductive rights\u2014there are some changes that have nothing to do with passing new laws.\n\n\"In fact, the most important change may be the toughest of all\u2014and that\u2019s changing ourselves.\" \u2014President Obama Glamour Exclusive: President Obama On Feminism and the World He Wants to Leave His Daughters \"Yes, it's important that their dad is a feminist, because now that's what they expect of all men.\"",
+          1470331399
+        ],
+        [
+          "LAST CALL: Make your move before the fundraising deadline\u2014chip in now. Keep the momentum going Pitch in now\u2014this movement depends on supporters like you.",
+          1467333230
+        ],
+        [
+          "It's the final stretch of OFA's fundraising deadline\u2014can you chip in? Keep the momentum going Pitch in now\u2014this movement depends on supporters like you.",
+          1467294165
+        ],
+        [
+          "You can help drive this movement forward. Keep the momentum going Pitch in now\u2014this movement depends on supporters like you.",
+          1467055469
+        ],
+        [
+          "Celebrate the progress we've made together\u2014and recommit to the fight for full equality for LGBT Americans. Timeline Photos",
+          1466968789
+        ],
+        [
+          "We've made big strides toward equality, but the work to end discrimination against the LGBT community isn't over. http://ofa.bo/vbV Stand up for equality It's been one year since the Supreme Court ruled in favor of marriage equality in all 50 states\u2014but we still have work to do to end LGBT discrimination.",
+          1466956911
+        ],
+        [
+          "We've made so much progress together in the last eight years, but there's still work to do to end discrimination against the LGBT community. http://ofa.bo/vaG Add your name to the fight for full equality Join the fight to end discrimination against LGBT Americans.",
+          1465589556
+        ],
+        [
+          "This month, we stand with the LGBT community and all who believe in true equality. Timeline Photos",
+          1465414157
+        ],
+        [
+          "Find out how climate change is making wildfires a continual threat in some areas\u2014and why it's so important to act now: http://ofa.bo/yQJ Wildfires, Once Confined to a Season, Burn Earlier and Longer Increasingly, fire crews are making calculated decisions to let blazes consume the land, concentrating their efforts on safeguarding communities and watersheds.",
+          1460665021
+        ],
+        [
+          "It's past time for equal pay. http://ofa.bo/gA4U Study: Women lose $500B a year from unequal pay The National Partnership for Women & Families released the findings ahead of Equal Pay Day.",
+          1460465819
+        ],
+        [
+          "LAST CALL: Get your donation in before midnight's deadline. http://ofa.bo/d5qW Timeline Photos",
+          1459446098
+        ],
+        [
+          "Time to pitch in for progress: http://ofa.bo/uMu Chip in to fund this work OFA supporters across the country are stepping up to show their commitment to progressive change.",
+          1459368309
+        ],
+        [
+          "The fundraising deadline is coming in at full speed. http://ofa.bo/a5sf Chip in to fund this work OFA supporters across the country are stepping up to show their commitment to progressive change.",
+          1459270626
+        ],
+        [
+          "Join the OFA Truth Team and give your family and friends the facts on issues that matter: http://ofa.bo/yKc Join the OFA Truth Team Add your name to join the group of OFA supporters dedicated to fighting back against misinformation with facts.",
+          1458065912
+        ],
+        [
+          "Keep on dancing. Timeline Photos",
+          1456783662
+        ],
+        [
+          "Equality is worth fighting for. Timeline Photos",
+          1455476140
+        ],
+        [
+          "Marriage equality is the law of the land\u2014but discrimination against LGBT Americans still exists in too many states. http://ofa.bo/e5W8 Fight for Equality Add your name, and join the fight to end discrimination against LGBT Americans.",
+          1455374249
+        ],
+        [
+          "This Valentine's Day, stand up for equality. http://ofa.bo/y7p Timeline Photos",
+          1455227087
+        ],
+        [
+          "Progress is only possible when people fight for it\u2014say you're in. http://ofa.bo/h9sr Keep the momentum going Say you'll keep up the fight for progress.",
+          1454533778
+        ],
+        [
+          "Look good while fighting for progress in 2016: http://ofa.bo/d5X3 The OFA Store - Vintage Tee Fighting for change doesn't go out of style -- show off your support with this vintage-inspired T-shirt. Made in the USA.",
+          1454452477
+        ],
+        [
+          "Change isn't easy\u2014you have to fight for it. Timeline Photos",
+          1452805358
+        ],
+        [
+          "Fired up? Join this grassroots movement today. http://ofa.bo/g9dB Let's get to work in 2016 It's President Obama's final year in office, but this movement isn't slowing down. Say you'll help keep the momentum going in 2016.",
+          1452651396
+        ],
+        [
+          "FINAL CHANCE: Time's running out to support the fight for progress in 2016. Chip in by midnight. http://ofa.bo/i9Zm Pitch in to help the fight for progress 2015 has been a big year. Help make sure next year is just as great.",
+          1451607623
+        ],
+        [
+          "DEADLINE: Time's running out\u2014beat the buzzer and chip in $5 before the fundraising deadline. http://ofa.bo/j9Wg Chip in to keep up the progress Continue the fight for real, lasting change. Chip in $5 or more today.",
+          1451588064
+        ],
+        [
+          "Get ready to pitch in\u2014the fundraising deadline is here. http://ofa.bo/c5LV Timeline Photos",
+          1451574521
+        ],
+        [
+          "We can't afford to go back now. http://ofa.bo/g9XN Five reasons 2015 was a historic year We made crucial progress this year, and now we're looking ahead. Ready to keep the momentum going in 2016?",
+          1451506828
+        ],
+        [
+          "Time to get pumped up for the fights in 2016. Here's how you can help. http://ofa.bo/f9aV Pitch in to help the fight for progress 2015 has been a big year. Help make sure next year is just as great.",
+          1451491795
+        ],
+        [
+          "Marriage equality is the law of the land\u2014but in most states, someone can still be fired because of who they love. Continue to fight for equal rights into 2016 and beyond: http://ofa.bo/g9XI Support the fight for equality Progress on LGBT rights made big strides in 2015, but we can't let up now. Chip in $5 or more to keep the movement going strong.",
+          1451422024
+        ],
+        [
+          "You can't aaargue with progress. Do your part to keep up the fight before the deadline. http://ofa.bo/t9VT Join the fight for progress Commit to continue the fight for real, lasting change. Chip in $5 or more today.",
+          1451338396
+        ],
+        [
+          "Chip in today, and help give this grassroots movement a lift heading into 2016. http://ofa.bo/h9ha Timeline Photos",
+          1451148713
+        ],
+        [
+          "The window to chip in before the fundraising deadline is closing. http://ofa.bo/g9Wj Pitch in to help the fight for progress 2015 has been a big year. Help make sure next year is just as great.",
+          1450730831
+        ],
+        [
+          "Don't cruise past the big fundraising deadline. http://ofa.bo/i9Yl Pitch in to help the fight for progress 2015 has been a big year. Help make sure next year is just as great.",
+          1450564727
+        ],
+        [
+          "There's still more work to do in the fight against climate change\u2014on every level. Check out what happens when organizers come together to discuss the path forward in their communities: http://ofa.bo/j9Vj Volunteers join together to lead on climate change As the international community joined together to #ActOnClimate, OFA volunteers geared up.",
+          1450469964
+        ],
+        [
+          "Marriage equality for all: \u2714\nA global climate agreement: \u2714\nThe longest streak of job growth on record: \u2714\n\nBut there's still more work to do. http://ofa.bo/c5KQ Pitch in to help the fight for progress 2015 has been a big year. Help make sure next year is just as great.",
+          1450381166
+        ],
+        [
+          "\"We must not forget the power we have locally.\"\n\nFind out how these volunteers are helping shape the discussion on climate change in their community: http://ofa.bo/d5L4 #UnitedOnClimate starts at home The international climate talks in Paris are underway, and OFA volunteers are doing their part to support climate action at the grassroots level.",
+          1449867553
+        ],
+        [
+          "Some people suspected of terrorist activity on the No-Fly List can still legally purchase assault weapons because of a loophole in current laws\u2014but Congress can change that.\n\nAdd your name to show your support for closing this dangerous loophole: http://ofa.bo/a5N5 Support common-sense gun safety laws Some people on the FBI's No-Fly List can still legally get their hands on a gun. Tell Congress to close this loophole now.",
+          1449616333
+        ],
+        [
+          "Add your name to show your support for common-sense gun safety measures, like closing the No-Fly List loophole. http://ofa.bo/i9Wn Support common-sense gun safety laws Some people on the FBI's No-Fly List can still legally get their hands on a gun. Tell Congress to close this loophole now.",
+          1449528875
+        ],
+        [
+          "After the OFA Fall Summit, these organizers are fired up and ready to keep working. http://ofa.bo/p9bI OFA's Fall Summit with President Obama Organizers from across the country gathered in Washington, D.C., to learn from each other\u2014and from the Organizer-in-Chief himself.",
+          1447947513
+        ],
+        [
+          "Add your name in support of a sensible, bipartisan budget agreement: http://ofa.bo/c5G1 Show your support for the bipartisan budget deal Tell Congress you they need to finish the job, and avoid another manufactured crisis.",
+          1446664001
+        ],
+        [
+          "Student organizers from schools across the country came together to develop their skills and learn from each other. Check it out: http://ofa.bo/e5Ey OFA's first annual Campus Organizing Summit 35 passionate organizers came together from across the country to learn how to improve the impact of their work on campuses nationwide. Check it out.",
+          1446481545
+        ],
+        [
+          "Federal limits on methane pollution will help fight climate change and improve public health. Show your support: http://ofa.bo/r9VV Support strong standards for methane pollution Say you support the first-ever federal standards for methane pollution\u2014a big contributor to climate change.",
+          1445970550
+        ],
+        [
+          "Join the team spreading the truth about the issues of the day: ofa.bo/s9Tv Join the OFA Truth Team Add your name to join the group of OFA supporters dedicated to fighting back against misinformation with facts.",
+          1445890921
+        ],
+        [
+          "We need new standards to help curb methane pollution\u2014and improve public health. Show your support: http://ofa.bo/j9Qc Support strong standards for methane pollution Say you support the first-ever federal standards for methane pollution\u2014a big contributor to climate change.",
+          1445621989
+        ],
+        [
+          "Read how one OFA organizer got her start and eventually landed her dream job fighting for a good cause. http://ofa.bo/g9Qr A former OFA Professional Fellow lands a dream job Read how a former OFA professional fellow used OFA tools and trainings to land a job fighting for a great cause.",
+          1444140272
+        ],
+        [
+          "DEADLINE: It's your last chance to make a big play. Show your support. http://ofa.bo/d5FK Keep this movement going strong. Make a donation to fight for progress on big issues.",
+          1443653177
+        ],
+        [
+          "DEADLINE: Chip in to support this movement before time runs out. http://ofa.bo/r9Su Timeline Photos",
+          1443629850
+        ],
+        [
+          "The clock's ticking\u2014chip in before the big fundraising deadline. http://ofa.bo/f9SS Keep this movement going strong. Make a donation to fight for progress on big issues.",
+          1443545349
+        ],
+        [
+          "Fight to keep this powerful movement going. Chip in: http://ofa.bo/b5J0 Timeline Photos",
+          1443379524
+        ],
+        [
+          "Lend a hand\u2014chip in to support this movement: http://ofa.bo/q9Lh You can keep this movement going strong. Make a donation to fight for progress on big issues.",
+          1443116482
+        ],
+        [
+          "Change starts with you. Be part of the team fighting for progress. http://ofa.bo/t9I3 Join OFA Democracy isn't a spectator sport. Join the movement fighting for real, lasting change.",
+          1442329998
+        ],
+        [
+          "The facts matter\u2014be part of the team that's getting them out. http://ofa.bo/g9EC Join the OFA Truth Team Add your name to join the group of OFA supporters dedicated to fighting back against misinformation with facts.",
+          1440695809
+        ],
+        [
+          "The fight for women's rights is far from over. Say you'll stand up for equality today. http://ofa.bo/h9MN Stand up for women's rights We've made progress, but there's more the do\u2014join the team that's fighting for women's equality.",
+          1440679829
+        ],
+        [
+          "Read one organizer\u2019s story about the fight for women\u2019s rights\u2014and why it\u2019s important not to let up now. http://ofa.bo/h9Kn An important anniversary for women's rights A personal story about how community organizers like Susan B. Anthony and Grandma Evelyn fought for the 19th Amendment\u2014and how we need to continue their fight.",
+          1439996391
+        ],
+        [
+          "Organizing for Action is giving the next generation of digital organizers the tools they need to succeed. Read how: http://ofa.bo/h9Eh Training organizers in the digital age Read how OFA is bringing digital organizing training to volunteers across the country.",
+          1438178163
+        ],
+        [
+          "Another step toward a more perfect union. http://ofa.bo/r8xp Federal marriage benefits now available to same-sex couples nationwide Attorney General Loretta Lynch said benefits would be available to people who had previously been limited by where they lived.",
+          1436538821
+        ],
+        [
+          "Women are saving more than a billion dollars\u2014thanks to Obamacare. http://ofa.bo/t8rb Obamacare's big 'cost control' of birth control American women are spending less out of pocket for birth control, with more savings on the horizon.",
+          1436458911
+        ],
+        [
+          "Beat the buzzer\u2014come in with the clutch donation before tonight's deadline. http://ofa.bo/h8mY Timeline Photos",
+          1435692766
+        ],
+        [
+          "DEADLINE: This movement has momentum. Keep it going\u2014give $5 right now: http://ofa.bo/j8ai Chip in before tonight's fundraising deadline Donate to the team that's fighting for progressive change on issues that matter.",
+          1435672995
+        ],
+        [
+          "Chip in today\u2014don't let this deadline slide past you: http://ofa.bo/r8fa Donate - Organizing for Action Donate online to Organizing for Action.",
+          1435583550
+        ],
+        [
+          "Hundreds of bills attacking women's rights are being introduced in states across the country. Help fight back. http://ofa.bo/r8Yz Join the team that's fighting for choice Legislators are attacking women's rights all across the country. It's time to stand up for choice and fight back.",
+          1434976605
+        ],
+        [
+          "Too many students are being priced out of an education. That's why the President's plan for free community college is so important. Show your support: http://ofa.bo/h7Ud Make community college free for deserving students Add your name to support President Obama's proposal to make the first two years of community college free for those who work for it.",
+          1433881503
+        ],
+        [
+          "A recent poll shows that a clear majority of Americans oppose rolling back federal Obamacare subsidies. http://ofa.bo/g7G4 Public to Supreme Court: Don\u2019t gut Obamacare Americans say 55-38 that the court should to leave the federal subsidies intact.",
+          1433863017
+        ],
+        [
+          "This is about the future of America's economy. Make your voice heard today. http://ofa.bo/i78W Make community college free for deserving students Add your name to support President Obama's proposal to make the first two years of community college free for those who work for it.",
+          1433770739
+        ],
+        [
+          "Change only happens when people make it happen. Stand up for LGBT equality. http://ofa.bo/s6xk Say you're proud to fight for LGBT equality More than 1 million OFA supporters have taken a stand for LGBT equality. Add your voice, and join the movement.",
+          1433437822
+        ],
+        [
+          "\"Our journey is not complete until our lesbian, gay, bisexual, and transgender brothers and sisters are treated like anyone else under the law.\" \u2014President Obama\n\nThis Pride Month, stand on the side of equality. Add your name today: http://ofa.bo/f6h1 Say you're proud to fight for LGBT equality More than 1 million OFA supporters have taken a stand for LGBT equality. Add your voice, and join the movement.",
+          1433173106
+        ],
+        [
+          "This is big for anyone who drinks water. Timeline Photos",
+          1432732812
+        ],
+        [
+          "This is why the fight for change matters: It's working. http://ofa.bo/t5p0 Record-High 60% of Americans Support Same-Sex Marriage As the Supreme Court prepares to rule next month, 60% of Americans now support same-sex marriage. This is up from 55% last year, and represents a new high in Gallup's polling.",
+          1432240738
+        ],
+        [
+          "There's never been a better time to take your organizing skills to the next level. Apply to be a summer fellow with Organizing for Action: http://ofa.bo/s592 Apply for the OFA Fellowship Program Get hands-on training and join the ranks of top grassroots organizers fighting for change in communities nationwide.",
+          1430920849
+        ],
+        [
+          "One voice can change the world. That's what the OFA Summer Fellowship is all about: http://ofa.bo/f4s5 Apply for the OFA Fellowship Program Get hands-on training and join the ranks of top grassroots organizers fighting for change in communities nationwide.",
+          1429802023
+        ],
+        [
+          "OFA is training organizers across the country to be part of the big fights for years to come. Help build that: http://ofa.bo/i4Tm Chip in to fund this grassroots movement OFA is fighting for the issues that matter while building the progressive infrastructure of tomorrow. Make a donation today.",
+          1427814492
+        ],
+        [
+          "Read how Obamacare positively impacted the careers and lives of these three women. http://ofa.bo/j4Ie Speaking Up: How the ACA Changed Three Women's Lives - SELF Women spill how Obamacare was a game-changer for their individual careers.",
+          1427465537
+        ],
+        [
+          "What inspired you to join this grassroots movement? Share your story, and you'll be automatically entered for the chance to meet President Obama. http://ofa.bo/i4Gw Organizing for Action OFA works to ensure the voices of ordinary Americans are heard in Washington, while training the next generation of grassroots organizers who will keep fighting for change.",
+          1427211108
+        ],
+        [
+          "For the sake of millions of families, we can't go back. Timeline Photos",
+          1424194293
+        ],
+        [
+          "Share this with your friends and make sure they're covered before the February 15th enrollment deadline: http://ofa.bo/q2rp Timeline Photos",
+          1423607274
+        ],
+        [
+          "Be smart. Get covered before the February 15th deadline. http://ofa.bo/f2lM Timeline Photos",
+          1423169337
+        ],
+        [
+          "Let's go. Timeline Photos",
+          1421807216
+        ],
+        [
+          "Add your name to stand up for an agenda that supports middle-class families: http://ofa.bo/h2Tr Two years left: Let's fight for change The President is working to move our country forward. It's never been more important to take a stand.",
+          1421780536
+        ],
+        [
+          "LAST CALL: Chip in right now to support this grassroots movement. http://ofa.bo/s2Bc Chip in to support grassroots organizing Donate $5 or more today. ",
+          1420074278
+        ],
+        [
+          "This is going to take everything we've got: http://ofa.bo/r2C4 Chip in to support grassroots organizing Donate $5 or more today.",
+          1420060125
+        ],
+        [
+          "Today's the deadline: Chip in right now. http://ofa.bo/p2Fu Chip in to support grassroots organizing Donate $5 or more today.",
+          1420033158
+        ],
+        [
+          "In 2015, which issue matters most to you? http://ofa.bo/h29F Take OFA's one-question survey There are big things to do in 2015\u2014tell us which issue you're most fired up to work on.",
+          1419981466
+        ],
+        [
+          "This movement for change has always been about you. Step up and own a piece of it: http://ofa.bo/c254 Chip in to support grassroots organizing Donate $5 or more today.",
+          1419964737
+        ],
+        [
+          "Answer this one-question survey: http://ofa.bo/g26N Take OFA's one-question survey There are big things to do in 2015\u2014tell us which issue you're most fired up to work on.",
+          1419867545
+        ],
+        [
+          "These folks are ready to fight on the front lines against climate change: http://ofa.bo/t28K These folks are why we can win on climate Fired-up volunteers gathered for an advanced climate leaders training.",
+          1419692943
+        ],
+        [
+          "Is your name on this card? Here's your chance to wish President Obama a happy holiday and say what you're fighting for in the new year: http://ofa.bo/r22W Organizing for Action OFA works to ensure the voices of ordinary Americans are heard in Washington, while training the next generation of grassroots organizers who will keep fighting for change.",
+          1418839824
+        ],
+        [
+          "Ready to make history? Only a few hours left to apply to become an OFA spring fellow: http://ofa.bo/c1sA This is a movement of millions of Americans fighting for real, lasting change. OFA volunteers are building this organization from the ground up, community by community, one conversation at a time. Let's go.",
+          1418058789
+        ],
+        [
+          "Want to make a difference in your community? Learn all about the OFA Fellows Program from Deputy Training Director Chelsey Wininger and former OFA fellow Aquiles Damiron in a Q&A on OFA's page at 1 p.m. ET. Organizing for Action Organizing for Action is the grassroots movement built by millions of Americans.",
+          1417707741
+        ],
+        [
+          "President Obama will address the nation tonight and lay out steps to help fix our broken immigration system. Add your name to show your support for taking action right now: http://ofa.bo/a1fs Organizing for Action OFA works to ensure the voices of ordinary Americans are heard in Washington, while training the next generation of grassroots organizers who will keep fighting for change.",
+          1416506498
+        ],
+        [
+          "Sign this petition: The internet should remain open and free. http://ofa.bo/q1fH Add your name: Stand up for net neutrality Tell the FCC you support the President's plan to keep the internet open and free.",
+          1416414926
+        ],
+        [
+          "LAST CHANCE: Have your donation go twice as far with supporters matching contributions dollar for dollar. http://ofa.bo/a1ak This work has never been more important Chip in $5 to support this grassroots movement.",
+          1416004258
+        ],
+        [
+          "Chip in today, and your donation will be matched dollar for dollar. http://ofa.bo/e1YV This work has never been more important Chip in $5 to support this grassroots movement.",
+          1415914583
+        ],
+        [
+          "Don't let this fundraising deadline drip away. Chip in today: http://ofa.bo/e1Wf Timeline Photos",
+          1415884498
+        ],
+        [
+          "Real change can't happen without people like you: http://ofa.bo/e1UA This work has never mattered more Add your name to say you'll help in the grassroots fight for change.",
+          1415711296
+        ],
+        [
+          "\"I'm urging the Federal Communications Commission to do everything they can to protect net neutrality for everyone.\" \u2014President Obama\n\nAdd your name if you support keeping the internet open and free: http://ofa.bo/d1S1 Add your name: Stand up for net neutrality Tell the FCC you support the President's plan to keep the internet open and free.",
+          1415656244
+        ],
+        [
+          "This is what Organizing for Action is all about. Join the movement: http://ofa.bo/e1TF",
+          1415625315
+        ],
+        [
+          "OFA volunteers are ready to hit the ground running come November 15th: http://ofa.bo/f1MO We made history, but we're not stopping there We\u2019ve got to hit the ground running on November 15th, so here's an important question: Are you in?",
+          1414507759
+        ],
+        [
+          "Not much time left\u2014chip in to support OFA in 2013, and help start 2014 strong: http://ofa.bo/hJ Not much time left Donate online to Organizing for Action.",
+          1388447304
+        ],
+        [
+          "Send a message\u2014show you stand with progress in 2014: http://ofa.bo/bI Make a difference in 2014 Donate online to Organizing for Action.",
+          1388416836
+        ],
+        [
+          "OFA has plans to train thousands of organizers to join the big fights in 2014.\n\nKeep this movement going strong\u2014chip in before midnight on December 31st. http://ofa.bo/jD Donate - Organizing for Action Donate online to Organizing for Action.",
+          1388354416
+        ],
+        [
+          "End the year with a big smile, and a spot on the OFA Donor Wall: http://ofa.bo/sH Organizing for Action Donor Wall The next big step for our grassroots movement is being launched: Organizing for Action.",
+          1388333358
+        ],
+        [
+          "These are the names of people building this movement from the ground up. Are you in? http://ofa.bo/jC Timeline Photos",
+          1388270404
+        ],
+        [
+          "To keeping progress going in 2014: http://ofa.bo/i5 Timeline Photos",
+          1388245705
+        ],
+        [
+          "OFA has big plans for next year, but one thing will never change: We're a grassroots organization built one donation at a time.\r\n\r\nLet's end this year strong: http://ofa.bo/p6 Timeline Photos",
+          1388182785
+        ],
+        [
+          "Show your support for progress and become an OFA 2013 founding member: http://OFA.BO/t5 Timeline Photos",
+          1388163400
+        ],
+        [
+          "There is a lot to be proud of in 2013. Help shape what this movement accomplishes in 2014: http://OFA.BO/Z52FTY Donate - Organizing for Action Donate online to Organizing for Action.",
+          1388096927
+        ],
+        [
+          "Worth sharing: A look back at the big moments that made this year, and this campaign, what it was. http://OFA.BO/QTDEJN Timeline Photos",
+          1356721850
+        ],
+        [
+          "We've come too far to turn back now. Let\u2019s go vote. Let\u2019s go do this. http://OFA.BO/9PMpkY Timeline Photos",
+          1352164665
+        ]
+      ],
+      "dates_start": 1412674066,
+      "dates_end": 1462889057,
+      "likes_avg": 44718,
+      "likes_stdev": 66667,
+      "comments_avg": 2722,
+      "comments_stdev": 2503,
+      "shares_avg": 2890,
+      "shares_stdev": 5129
+    },
+    {
+      "number": 12,
+      "important": [
+        "clean",
+        "power",
+        "clean power plan",
+        "clean power",
+        "plan"
+      ],
+      "common": [
+        "chang",
+        "clean",
+        "clean power",
+        "clean power plan",
+        "climat",
+        "climat chang",
+        "plan",
+        "power",
+        "power plan",
+        "support"
+      ],
+      "messages": [
+        [
+          "The Clean Power Plan is a significant step in combating climate change\u2014and we need to keep moving forward. Timeline Photos",
+          1471022270
+        ],
+        [
+          "Ninety-seven percent of climate scientists agree that climate change is real and man-made\u2014and the Clean Power Plan is a bold step to address it. \n\nBut deniers still want to hold that progress back. Support the Clean Power Plan We can't let deniers stand in the way of progress. Say you support the Clean Power Plan.",
+          1470240284
+        ],
+        [
+          "The Clean Power Plan helped pave the way for the historic Paris Climate Agreement\u2014the first-ever global climate deal. Timeline Photos",
+          1470231522
+        ],
+        [
+          "The Clean Power Plan is a key part of U.S. leadership in fighting climate change. Timeline Photos",
+          1461936760
+        ],
+        [
+          "The Clean Power Plan is part of American leadership on climate change. Timeline Photos",
+          1449072785
+        ],
+        [
+          "Read why the Clean Power Plan is an essential part of American leadership in the global effort to tackle climate change. http://ofa.bo/j9So Don't let deniers stand in the way We can't let a vocal minority stand in the way of critical progress on this issue.",
+          1448995493
+        ],
+        [
+          "The science is clear: Climate change is real and man-made\u2014which is why the Clean Power Plan is so important. Timeline Photos",
+          1447780895
+        ],
+        [
+          "Don't let climate change deniers and big polluters derail the Clean Power Plan\u2014show your support: http://ofa.bo/b5Ly Support the Clean Power Plan We can't let deniers stand in the way of progress. Say you support the Clean Power Plan.",
+          1446216917
+        ],
+        [
+          "Don't let climate change deniers have the final say. Add your name to support the Clean Power Plan: http://ofa.bo/f9E1 Support the Clean Power Plan Finalizing the Clean Power Plan is a truly historic step in the fight against climate change. But climate change deniers and special interests will be spending millions to derail it.",
+          1439822090
+        ],
+        [
+          "Read President Obama's message on how you can support the Clean Power Plan: http://ofa.bo/h9HC President Obama: Show your support for the Clean Power Plan The President sent a message to OFA supporters about supporting state leaders who are acting on climate.",
+          1438871513
+        ],
+        [
+          "Add your name if you support the Clean Power Plan\u2014the biggest step America has ever taken in the fight against climate change. http://ofa.bo/s99U Support the Clean Power Plan Finalizing the Clean Power Plan is a truly historic step in the fight against climate change. But climate change deniers and special interests will be spending millions to derail it.",
+          1438792107
+        ],
+        [
+          "The Clean Power Plan will create tens of thousands of jobs, lower the cost of renewable energy, and reduce carbon pollution.\n\nRead more from White House Senior Advisor Brian Deese. http://ofa.bo/e4vJ President Obama\u2019s Clean Power Plan is a Strong Signal of International Leadership From drought-parched Brazil to the increasingly ice-free Arctic Ocean, from the rising seas along the Florida coast to t\u2026",
+          1438707981
+        ],
+        [
+          "Support the Clean Power Plan\u2014be a part of the biggest action our country has taken to tackle climate change: http://ofa.bo/j95i Support the Clean Power Plan Finalizing the Clean Power Plan is a truly historic step in the fight against climate change. But climate change deniers and special interests will be spending millions to derail it.",
+          1438626579
+        ],
+        [
+          "The Clean Power Plan is good news for our economy and for public health. Timeline Photos",
+          1438613787
+        ],
+        [
+          "A new study found that the President's Clean Power Plan could save thousands of lives.\n\nRead more: http://ofa.bo/i587 Scientists: EPA\u2019s curbs on coal-burning will save thousands of lives The proposed rules have drawn a fierce backlash from the Republican-controlled Congress, with members calling them harmful to the coal industry and the economy.",
+          1430935965
+        ]
+      ],
+      "dates_start": 1435746598,
+      "dates_end": 1461568994,
+      "likes_avg": 37833,
+      "likes_stdev": 16760,
+      "comments_avg": 2589,
+      "comments_stdev": 1120,
+      "shares_avg": 2638,
+      "shares_stdev": 1396
+    },
+    {
+      "number": 13,
+      "important": [
         "birthday",
-        "sign",
         "presid obama",
-        "card",
-        "celebr",
-        "issu",
+        "sign",
         "happi",
-        "turn"
+        "card"
       ],
       "common": [
         "birthday",
         "card",
-        "happy",
-        "happy birthday",
+        "happi",
+        "happi birthday",
         "obama",
-        "president",
-        "president obama",
+        "presid",
+        "presid obama",
         "sign",
         "sign card",
         "wish"
@@ -2892,291 +2817,25 @@
       "shares_stdev": 1737
     },
     {
-      "number": 11,
+      "number": 14,
       "important": [
-        "giphycom",
-        "organ",
-        "action",
-        "matter",
-        "pitch",
-        "deliv",
-        "abl",
-        "fact",
-        "team",
-        "straight"
-      ],
-      "common": [
-        "action",
-        "big",
-        "chip",
-        "deadline",
-        "grassroots",
-        "help",
-        "keep",
-        "movement",
-        "organizing",
-        "organizing action"
-      ],
-      "messages": [
-        [
-          "The facts matter. Organizing for Action's Truth Team will deliver them straight to your inbox. http://ofa.bo/2eVnCn5 giphy.com",
-          1477669916
-        ],
-        [
-          "LAST CALL: Make your move before the fundraising deadline\u2014chip in now. Keep the momentum going Pitch in now\u2014this movement depends on supporters like you.",
-          1467333230
-        ],
-        [
-          "It's the final stretch of OFA's fundraising deadline\u2014can you chip in? Keep the momentum going Pitch in now\u2014this movement depends on supporters like you.",
-          1467294165
-        ],
-        [
-          "You can help drive this movement forward. Keep the momentum going Pitch in now\u2014this movement depends on supporters like you.",
-          1467055469
-        ],
-        [
-          "LAST CALL: Get your donation in before midnight's deadline. http://ofa.bo/d5qW Timeline Photos",
-          1459446098
-        ],
-        [
-          "Time to pitch in for progress: http://ofa.bo/uMu Chip in to fund this work OFA supporters across the country are stepping up to show their commitment to progressive change.",
-          1459368309
-        ],
-        [
-          "The fundraising deadline is coming in at full speed. http://ofa.bo/a5sf Chip in to fund this work OFA supporters across the country are stepping up to show their commitment to progressive change.",
-          1459270626
-        ],
-        [
-          "Keep on dancing. Timeline Photos",
-          1456783662
-        ],
-        [
-          "Progress is only possible when people fight for it\u2014say you're in. http://ofa.bo/h9sr Keep the momentum going Say you'll keep up the fight for progress.",
-          1454533778
-        ],
-        [
-          "Fired up? Join this grassroots movement today. http://ofa.bo/g9dB Let's get to work in 2016 It's President Obama's final year in office, but this movement isn't slowing down. Say you'll help keep the momentum going in 2016.",
-          1452651396
-        ],
-        [
-          "FINAL CHANCE: Time's running out to support the fight for progress in 2016. Chip in by midnight. http://ofa.bo/i9Zm Pitch in to help the fight for progress 2015 has been a big year. Help make sure next year is just as great.",
-          1451607623
-        ],
-        [
-          "DEADLINE: Time's running out\u2014beat the buzzer and chip in $5 before the fundraising deadline. http://ofa.bo/j9Wg Chip in to keep up the progress Continue the fight for real, lasting change. Chip in $5 or more today.",
-          1451588064
-        ],
-        [
-          "Get ready to pitch in\u2014the fundraising deadline is here. http://ofa.bo/c5LV Timeline Photos",
-          1451574521
-        ],
-        [
-          "Time to get pumped up for the fights in 2016. Here's how you can help. http://ofa.bo/f9aV Pitch in to help the fight for progress 2015 has been a big year. Help make sure next year is just as great.",
-          1451491795
-        ],
-        [
-          "You can't aaargue with progress. Do your part to keep up the fight before the deadline. http://ofa.bo/t9VT Join the fight for progress Commit to continue the fight for real, lasting change. Chip in $5 or more today.",
-          1451338396
-        ],
-        [
-          "Chip in today, and help give this grassroots movement a lift heading into 2016. http://ofa.bo/h9ha Timeline Photos",
-          1451148713
-        ],
-        [
-          "The window to chip in before the fundraising deadline is closing. http://ofa.bo/g9Wj Pitch in to help the fight for progress 2015 has been a big year. Help make sure next year is just as great.",
-          1450730831
-        ],
-        [
-          "Don't cruise past the big fundraising deadline. http://ofa.bo/i9Yl Pitch in to help the fight for progress 2015 has been a big year. Help make sure next year is just as great.",
-          1450564727
-        ],
-        [
-          "Marriage equality for all: \u2714\nA global climate agreement: \u2714\nThe longest streak of job growth on record: \u2714\n\nBut there's still more work to do. http://ofa.bo/c5KQ Pitch in to help the fight for progress 2015 has been a big year. Help make sure next year is just as great.",
-          1450381166
-        ],
-        [
-          "After the OFA Fall Summit, these organizers are fired up and ready to keep working. http://ofa.bo/p9bI OFA's Fall Summit with President Obama Organizers from across the country gathered in Washington, D.C., to learn from each other\u2014and from the Organizer-in-Chief himself.",
-          1447947513
-        ],
-        [
-          "Student organizers from schools across the country came together to develop their skills and learn from each other. Check it out: http://ofa.bo/e5Ey OFA's first annual Campus Organizing Summit 35 passionate organizers came together from across the country to learn how to improve the impact of their work on campuses nationwide. Check it out.",
-          1446481545
-        ],
-        [
-          "DEADLINE: It's your last chance to make a big play. Show your support. http://ofa.bo/d5FK Keep this movement going strong. Make a donation to fight for progress on big issues.",
-          1443653177
-        ],
-        [
-          "DEADLINE: Chip in to support this movement before time runs out. http://ofa.bo/r9Su Timeline Photos",
-          1443629850
-        ],
-        [
-          "The clock's ticking\u2014chip in before the big fundraising deadline. http://ofa.bo/f9SS Keep this movement going strong. Make a donation to fight for progress on big issues.",
-          1443545349
-        ],
-        [
-          "Fight to keep this powerful movement going. Chip in: http://ofa.bo/b5J0 Timeline Photos",
-          1443379524
-        ],
-        [
-          "Lend a hand\u2014chip in to support this movement: http://ofa.bo/q9Lh You can keep this movement going strong. Make a donation to fight for progress on big issues.",
-          1443116482
-        ],
-        [
-          "Organizing for Action is giving the next generation of digital organizers the tools they need to succeed. Read how: http://ofa.bo/h9Eh Training organizers in the digital age Read how OFA is bringing digital organizing training to volunteers across the country.",
-          1438178163
-        ],
-        [
-          "Beat the buzzer\u2014come in with the clutch donation before tonight's deadline. http://ofa.bo/h8mY Timeline Photos",
-          1435692766
-        ],
-        [
-          "DEADLINE: This movement has momentum. Keep it going\u2014give $5 right now: http://ofa.bo/j8ai Chip in before tonight's fundraising deadline Donate to the team that's fighting for progressive change on issues that matter.",
-          1435672995
-        ],
-        [
-          "Chip in today\u2014don't let this deadline slide past you: http://ofa.bo/r8fa Donate - Organizing for Action Donate online to Organizing for Action.",
-          1435583550
-        ],
-        [
-          "There's never been a better time to take your organizing skills to the next level. Apply to be a summer fellow with Organizing for Action: http://ofa.bo/s592 Apply for the OFA Fellowship Program Get hands-on training and join the ranks of top grassroots organizers fighting for change in communities nationwide.",
-          1430920849
-        ],
-        [
-          "One voice can change the world. That's what the OFA Summer Fellowship is all about: http://ofa.bo/f4s5 Apply for the OFA Fellowship Program Get hands-on training and join the ranks of top grassroots organizers fighting for change in communities nationwide.",
-          1429802023
-        ],
-        [
-          "OFA is training organizers across the country to be part of the big fights for years to come. Help build that: http://ofa.bo/i4Tm Chip in to fund this grassroots movement OFA is fighting for the issues that matter while building the progressive infrastructure of tomorrow. Make a donation today.",
-          1427814492
-        ],
-        [
-          "What inspired you to join this grassroots movement? Share your story, and you'll be automatically entered for the chance to meet President Obama. http://ofa.bo/i4Gw Organizing for Action OFA works to ensure the voices of ordinary Americans are heard in Washington, while training the next generation of grassroots organizers who will keep fighting for change.",
-          1427211108
-        ],
-        [
-          "Share this with your friends and make sure they're covered before the February 15th enrollment deadline: http://ofa.bo/q2rp Timeline Photos",
-          1423607274
-        ],
-        [
-          "Be smart. Get covered before the February 15th deadline. http://ofa.bo/f2lM Timeline Photos",
-          1423169337
-        ],
-        [
-          "LAST CALL: Chip in right now to support this grassroots movement. http://ofa.bo/s2Bc Chip in to support grassroots organizing Donate $5 or more today. ",
-          1420074278
-        ],
-        [
-          "This is going to take everything we've got: http://ofa.bo/r2C4 Chip in to support grassroots organizing Donate $5 or more today.",
-          1420060125
-        ],
-        [
-          "Today's the deadline: Chip in right now. http://ofa.bo/p2Fu Chip in to support grassroots organizing Donate $5 or more today.",
-          1420033158
-        ],
-        [
-          "In 2015, which issue matters most to you? http://ofa.bo/h29F Take OFA's one-question survey There are big things to do in 2015\u2014tell us which issue you're most fired up to work on.",
-          1419981466
-        ],
-        [
-          "This movement for change has always been about you. Step up and own a piece of it: http://ofa.bo/c254 Chip in to support grassroots organizing Donate $5 or more today.",
-          1419964737
-        ],
-        [
-          "Answer this one-question survey: http://ofa.bo/g26N Take OFA's one-question survey There are big things to do in 2015\u2014tell us which issue you're most fired up to work on.",
-          1419867545
-        ],
-        [
-          "Is your name on this card? Here's your chance to wish President Obama a happy holiday and say what you're fighting for in the new year: http://ofa.bo/r22W Organizing for Action OFA works to ensure the voices of ordinary Americans are heard in Washington, while training the next generation of grassroots organizers who will keep fighting for change.",
-          1418839824
-        ],
-        [
-          "Want to make a difference in your community? Learn all about the OFA Fellows Program from Deputy Training Director Chelsey Wininger and former OFA fellow Aquiles Damiron in a Q&A on OFA's page at 1 p.m. ET. Organizing for Action Organizing for Action is the grassroots movement built by millions of Americans.",
-          1417707741
-        ],
-        [
-          "President Obama will address the nation tonight and lay out steps to help fix our broken immigration system. Add your name to show your support for taking action right now: http://ofa.bo/a1fs Organizing for Action OFA works to ensure the voices of ordinary Americans are heard in Washington, while training the next generation of grassroots organizers who will keep fighting for change.",
-          1416506498
-        ],
-        [
-          "LAST CHANCE: Have your donation go twice as far with supporters matching contributions dollar for dollar. http://ofa.bo/a1ak This work has never been more important Chip in $5 to support this grassroots movement.",
-          1416004258
-        ],
-        [
-          "Chip in today, and your donation will be matched dollar for dollar. http://ofa.bo/e1YV This work has never been more important Chip in $5 to support this grassroots movement.",
-          1415914583
-        ],
-        [
-          "Don't let this fundraising deadline drip away. Chip in today: http://ofa.bo/e1Wf Timeline Photos",
-          1415884498
-        ],
-        [
-          "This is what Organizing for Action is all about. Join the movement: http://ofa.bo/e1TF",
-          1415625315
-        ],
-        [
-          "Not much time left\u2014chip in to support OFA in 2013, and help start 2014 strong: http://ofa.bo/hJ Not much time left Donate online to Organizing for Action.",
-          1388447304
-        ],
-        [
-          "Send a message\u2014show you stand with progress in 2014: http://ofa.bo/bI Make a difference in 2014 Donate online to Organizing for Action.",
-          1388416836
-        ],
-        [
-          "OFA has plans to train thousands of organizers to join the big fights in 2014.\n\nKeep this movement going strong\u2014chip in before midnight on December 31st. http://ofa.bo/jD Donate - Organizing for Action Donate online to Organizing for Action.",
-          1388354416
-        ],
-        [
-          "End the year with a big smile, and a spot on the OFA Donor Wall: http://ofa.bo/sH Organizing for Action Donor Wall The next big step for our grassroots movement is being launched: Organizing for Action.",
-          1388333358
-        ],
-        [
-          "To keeping progress going in 2014: http://ofa.bo/i5 Timeline Photos",
-          1388245705
-        ],
-        [
-          "OFA has big plans for next year, but one thing will never change: We're a grassroots organization built one donation at a time.\r\n\r\nLet's end this year strong: http://ofa.bo/p6 Timeline Photos",
-          1388182785
-        ],
-        [
-          "There is a lot to be proud of in 2013. Help shape what this movement accomplishes in 2014: http://OFA.BO/Z52FTY Donate - Organizing for Action Donate online to Organizing for Action.",
-          1388096927
-        ]
-      ],
-      "dates_start": 1409945396,
-      "dates_end": 1456332455,
-      "likes_avg": 40223,
-      "likes_stdev": 61623,
-      "comments_avg": 2613,
-      "comments_stdev": 2225,
-      "shares_avg": 1842,
-      "shares_stdev": 2840
-    },
-    {
-      "number": 12,
-      "important": [
-        "hear judg merrick",
-        "job",
-        "nomin",
+        "merrick",
         "judg",
-        "fair hear judg merrick",
-        "garland",
         "senat",
-        "qualifi",
-        "candid suprem",
-        "candid"
+        "garland",
+        "job"
       ],
       "common": [
         "court",
         "garland",
-        "hearing",
+        "hear",
         "job",
-        "judge",
+        "judg",
+        "judg merrick",
         "merrick",
-        "merrick garland",
-        "senate",
-        "supreme",
-        "supreme court"
+        "senat",
+        "suprem",
+        "suprem court"
       ],
       "messages": [
         [
@@ -3278,30 +2937,25 @@
       "shares_stdev": 2680
     },
     {
-      "number": 13,
+      "number": 15,
       "important": [
         "meet presid obama",
-        "tell",
-        "deadlin",
-        "thank",
-        "chanc",
-        "summer",
-        "alway",
-        "want",
-        "enter",
-        "meet presid"
+        "presid obama",
+        "meet presid",
+        "presid",
+        "chanc"
       ],
       "common": [
-        "chance",
-        "chance meet",
-        "chance meet president",
-        "chance meet president obama",
+        "chanc",
+        "chanc meet",
+        "chanc meet presid",
+        "could",
         "meet",
-        "meet president",
-        "meet president obama",
+        "meet presid",
+        "meet presid obama",
         "obama",
-        "president",
-        "president obama"
+        "presid",
+        "presid obama"
       ],
       "messages": [
         [
@@ -3399,28 +3053,23 @@
       "shares_stdev": 542
     },
     {
-      "number": 14,
+      "number": 16,
       "important": [
-        "health insur marketplac open",
-        "onli",
-        "limit time check",
-        "limit",
-        "check option",
+        "check",
         "time",
-        "enrol",
         "open",
-        "limit time",
-        "health insur marketplac open onli"
+        "check option",
+        "limit"
       ],
       "common": [
         "check",
-        "check options",
+        "check option",
         "health",
-        "health insurance",
-        "insurance",
-        "limited",
+        "health insur",
+        "insur",
+        "limit",
         "open",
-        "options",
+        "option",
         "time",
         "time check"
       ],
@@ -3544,25 +3193,20 @@
       "shares_stdev": 323
     },
     {
-      "number": 15,
+      "number": 17,
       "important": [
-        "friend could",
-        "final",
-        "friend",
-        "win",
-        "chanc meet",
-        "chanc",
         "trip",
-        "see",
-        "pass",
-        "summer"
+        "could",
+        "chanc",
+        "enter",
+        "win"
       ],
       "common": [
-        "automatically",
-        "automatically entered",
-        "chance",
+        "automat",
+        "automat enter",
+        "chanc",
         "could",
-        "entered",
+        "enter",
         "free",
         "free trip",
         "hawaii",

@@ -4,34 +4,31 @@
   "globalstats": {
     "fan_count": 39671298,
     "messages": 387,
-    "likes_avg": 20652,
-    "likes_stdev": 47590,
-    "comments_avg": 479,
-    "comments_stdev": 811,
-    "shares_avg": 1962,
-    "shares_stdev": 6226,
+    "likes_avg": 13774,
+    "likes_stdev": 39054,
+    "comments_avg": 353,
+    "comments_stdev": 590,
+    "shares_avg": 1308,
+    "shares_stdev": 4680,
     "graph_uri": "clusters/House.png"
   },
   "clusters": [
     {
       "number": 1,
       "important": [
-        "timelin photo",
-        "adam",
-        "timelin",
-        "photo"
+        "timelin"
       ],
       "common": [
         "rise",
         "rise shine",
-        "role model",
-        "safe",
-        "safe weekend",
-        "said",
-        "said role",
+        "rise shine timelin",
         "shine",
+        "shine timelin",
         "stay",
-        "weekend"
+        "timelin",
+        "veri",
+        "weekend",
+        "weekend timelin"
       ],
       "messages": [
         [
@@ -135,153 +132,22 @@
     {
       "number": 2,
       "important": [
-        "photo",
-        "dont",
-        "look",
-        "timelin photo",
-        "star",
-        "adam",
         "timelin",
-        "come",
-        "want",
-        "favorit"
+        "make",
+        "dr hous",
+        "dr"
       ],
       "common": [
-        "app",
-        "behind",
-        "episode",
-        "got",
-        "house",
-        "inhouse",
-        "inhouse app",
-        "inhouseapp",
-        "monday",
-        "new"
-      ],
-      "messages": [
-        [
-          "Wondering what your favorite House stars are up to? We\u2019ve got your back.  http://bit.ly/1QGSXWM Timeline Photos",
-          1454538862
-        ],
-        [
-          "Things are looking up. Timeline Photos",
-          1441808400
-        ],
-        [
-          "Don't ask questions you don't want the answers to. Timeline Photos",
-          1441034281
-        ],
-        [
-          "Dreams do come true. Timeline Photos",
-          1436796900
-        ],
-        [
-          "Fridays have got us like... Timeline Photos",
-          1434125461
-        ],
-        [
-          "See?! He does have a heart! Timeline Photos",
-          1432739281
-        ],
-        [
-          "Happy Monday! Timeline Photos",
-          1431960240
-        ],
-        [
-          "Love is NOT all you need. Timeline Photos",
-          1426274317
-        ],
-        [
-          "Have a fine Friday. Timeline Photos",
-          1424451600
-        ],
-        [
-          "Don't worry, he's got this totally under control. Timeline Photos",
-          1402496401
-        ],
-        [
-          "The doctors will see you now. Timeline Photos",
-          1402330800
-        ],
-        [
-          "(Actually, we love you all!) Timeline Photos",
-          1401888001
-        ],
-        [
-          "What can you learn from following the footsteps of great men? Timeline Photos",
-          1401710401
-        ],
-        [
-          "Smile - it's Friday! Timeline Photos",
-          1400253000
-        ],
-        [
-          "Looks like someone's got a case of the Mondays. Timeline Photos",
-          1399911300
-        ],
-        [
-          "EXCITING NEWS! Hugh's new album 'Didn't It Rain' is now available in the US and Canada.\r\n\r\nVisit www.hughlaurieblues.com to get your copy now! Timeline Photos",
-          1375801246
-        ],
-        [
-          "Spin your way to a winning diagnosis with the new HOUSE SLOT GAME at the DoubleDown Casino.  \r\n\r\nExperience your favorite characters from the show, free spins, bonus rounds and receive a 1 MILLION FREE CHIP bonus if you are a new player! http://bit.ly/XdeTtQ Timeline Photos",
-          1359817201
-        ],
-        [
-          "The artwork for House's bittersweet goodbye on Monday, May 21. Timeline Photos",
-          1335456851
-        ],
-        [
-          "We have Timeline now! Check out the new look.",
-          1331930484
-        ],
-        [
-          "What's the secret behind this photo? All will be revealed on the InHouse app following Monday's new episode of House. Download the app now! - http://bit.ly/InHouseApp Timeline Photos",
-          1328206020
-        ],
-        [
-          "Who's that man with the gun? Check out more behind-the-scenes photos after Monday's episode -- only on the InHouse app! Details: http://bit.ly/InHouseApp Timeline Photos",
-          1327683842
-        ],
-        [
-          "House is back Monday! And so is new content on the InHouse app, including this behind-the-scenes photo of Jesse from the episode. Download the app now for iPhone & iPad: http://bit.ly/InHouseApp Timeline Photos",
-          1327101050
-        ]
-      ],
-      "dates_start": 1354335247,
-      "dates_end": 1438238929,
-      "likes_avg": 95658,
-      "likes_stdev": 81184,
-      "comments_avg": 1382,
-      "comments_stdev": 1170,
-      "shares_avg": 10155,
-      "shares_stdev": 15037
-    },
-    {
-      "number": 3,
-      "important": [
-        "photo",
-        "day",
-        "make",
         "dr",
         "dr hous",
-        "adam",
-        "watch",
-        "timelin photo",
-        "timelin",
-        "favorit"
-      ],
-      "common": [
-        "dr",
-        "dr house",
-        "hilarious",
-        "house",
-        "house quotes",
-        "inspirational",
-        "inspirational posters",
+        "hilari",
+        "hous",
+        "hous quot",
+        "inspir",
+        "inspir poster",
         "make",
         "nbc",
-        "posters"
+        "timelin"
       ],
       "messages": [
         [
@@ -323,244 +189,24 @@
       "shares_stdev": 11248
     },
     {
-      "number": 4,
+      "number": 3,
       "important": [
-        "photo",
-        "say",
-        "timelin photo",
-        "adam",
-        "dr hous",
-        "timelin",
-        "dr",
-        "die",
-        "take",
-        "doctor"
-      ],
-      "common": [
-        "away",
-        "away saying",
-        "could",
-        "daily basis",
-        "house",
-        "life",
-        "say",
-        "saying",
-        "wish",
-        "wish could"
-      ],
-      "messages": [
-        [
-          "Doctors say the darndest things. http://bit.ly/29S9MkY Timeline Photos",
-          1468614136
-        ],
-        [
-          "House doesn't mince words. 12 House Comebacks We're Dying to Use in Real Life Dr. House got away with saying everything we wish we could say on a daily basis.",
-          1465408336
-        ],
-        [
-          "What\u2019s your favorite House quote? Let us know in the comments! 10 House Quotes We Wish We Could Get Away With Saying on a Daily Basis Dr. House is known for his snarky, sarcastic, and somewhat cynical take on life, which made for the best one-liners on House.",
-          1463149800
-        ],
-        [
-          "You know what they say... Timeline Photos",
-          1431530040
-        ],
-        [
-          "You know what they say about an apple a day... Timeline Photos",
-          1403105101
-        ]
-      ],
-      "dates_start": 1420941423,
-      "dates_end": 1471781541,
-      "likes_avg": 59646,
-      "likes_stdev": 24995,
-      "comments_avg": 1646,
-      "comments_stdev": 598,
-      "shares_avg": 5880,
-      "shares_stdev": 1699
-    },
-    {
-      "number": 5,
-      "important": [
-        "hugh",
+        "hous seri",
         "seri",
-        "photo",
-        "tv",
-        "timelin photo",
-        "adam",
-        "hugh lauri",
-        "timelin",
-        "perform",
-        "tonight"
+        "hous seri final",
+        "seri final",
+        "final"
       ],
       "common": [
-        "check",
-        "house",
-        "hugh",
-        "hugh laurie",
-        "jay play tunes",
-        "laurie",
-        "show",
-        "sure check",
-        "tonight",
-        "tv"
-      ],
-      "messages": [
-        [
-          "Hugh Laurie is in the house! Congratulations on winning the Golden Globe for Best Supporting Actor in a Series, Limited Series or TV Movie! Timeline Photos",
-          1483923433
-        ],
-        [
-          "Throwback Thursday! Remember this TV Guide Magazine cover? Timeline Photos",
-          1432228081
-        ],
-        [
-          "Spend some quality time with Hugh Laurie and his band tonight! Hugh Laurie Hugh and The Copper Bottom Band are performing on The Late Late Show with Craig Ferguson tonight. Tune in to CBS at 12:35/11:35c to watch.",
-          1401379797
-        ],
-        [
-          "It's his birthday, so he can whine if he wants to... Wishing the happiest of birthdays to Hugh Laurie today! Timeline Photos",
-          1370961151
-        ],
-        [
-          "Hugh Laurie stops by The Tonight Show this evening to chat with Jay and play some tunes. Be sure to check your local listings.",
-          1337282438
-        ],
-        [
-          "Hugh Laurie stops by the Tonight Show this evening to chat with Jay and play some tunes. Be sure to check your local listings.",
-          1337282400
-        ],
-        [
-          "Check out Hugh Laurie on the cover of next week's TV Guide Magazine - hitting newsstands this Thursday (5/17)! Timeline Photos",
-          1337093763
-        ],
-        [
-          "House star Hugh Laurie heads *behind* the camera once again to direct his castmates. Hugh Laurie doing double duty on 'House' House star talks about his dual roles.",
-          1335818359
-        ]
-      ],
-      "dates_start": 1327646437,
-      "dates_end": 1431345917,
-      "likes_avg": 45584,
-      "likes_stdev": 49775,
-      "comments_avg": 1478,
-      "comments_stdev": 2431,
-      "shares_avg": 2459,
-      "shares_stdev": 3563
-    },
-    {
-      "number": 6,
-      "important": [
-        "work",
-        "photo",
-        "taub",
-        "play",
-        "take",
-        "adam",
-        "timelin photo",
-        "timelin",
-        "dr",
-        "chase"
-      ],
-      "common": [
-        "chase",
-        "doubledown",
-        "dr",
-        "game",
-        "house",
-        "new",
-        "one million",
-        "play",
-        "players",
-        "slot"
-      ],
-      "messages": [
-        [
-          "Seriously, take a chill pill. Timeline Photos",
-          1438705260
-        ],
-        [
-          "Paging Dr. Chase. Timeline Photos",
-          1399478401
-        ],
-        [
-          "When you play my slot machine at DoubleDown Casino, you\u2019ll work with great medical talent\u2026 unfortunately, Taub and Chase too. To make up for that, I\u2019m giving new doctors one million free chips to play with. http://bit.ly/1bRFC7i Timeline Photos",
-          1382371296
-        ],
-        [
-          "Kal Penn is playing on Hollywood Game Night tonight at 10/9c on NBC! He may not be facing off against Dr. House, but his fellow celebrity players look pretty fierce. Timeline Photos",
-          1377197455
-        ],
-        [
-          "You want to play a game you can never win, try the cafeteria at Princeton-Plainsboro. Here\u2019s a better idea--play the Differential Diagnosis bonus game on my slot machine at DoubleDown Casino. New players get one million free. \u2013 Dr. House\r\n \r\nhttp://bit.ly/1bRFC7i Timeline Photos",
-          1375192571
-        ],
-        [
-          "Stop being productive at work and play the House slot game, featuring a lot of me (and some lesser doctors) now available at DoubleDown Casino.  \r\n\r\nNew players will receive one million free chips!  Play Now: http://bit.ly/1bRFC7i Timeline Photos",
-          1371561157
-        ],
-        [
-          "Solving a medical mystery while badgering my semi-competent staff is the best part of my job.  Experience my thrilling workplace in the House Slot Game at DoubleDown Casino.  \r\n\r\nNew players even get one million free chips to play with!\r\n\r\nhttps://apps.facebook.com/doubledowncasino/?game=slots&variant=slots.house&lineCost=500&CID=1360 Timeline Photos",
-          1368725793
-        ],
-        [
-          "Have you played the official House Facebook game yet?  \r\n\r\nPlay Now! >> http://ubi.li/uygZe\r\n\r\nLike and share this post if you think Everybody Lies. Timeline Photos",
-          1355946657
-        ],
-        [
-          "\"You test drive a car before you buy it. You have sex before you get married. I can't hire a team based on a ten minute interview. What if I don't like having sex with them?\" - Dr. House\r\n\r\nPlay the official House game now! http://ubi.li/uygZe Timeline Photos",
-          1347463049
-        ],
-        [
-          "Do you have what it takes to join House's team and save lives? Play the House FB game now! http://ubi.li/uygZe Timeline Photos",
-          1346190776
-        ],
-        [
-          "House introduces Chase to his pet rat in this photo from the \"Blowing the Whistle\" episode, airing MON 4/2 at 9/8c. Timeline Photos",
-          1333043993
-        ],
-        [
-          "How many did you answer correctly? House - Taub Trivia Think you know a thing or two about \"House\"? Take this quiz about Taub to find out how much you really know.",
-          1327600037
-        ],
-        [
-          "True or False: Chase is allergic to peanut butter. Play the \"Chase Trivia\" quiz for the answer! House - Chase Trivia Think you really know Dr. Chase? Take this quiz and find out.",
-          1325612569
-        ]
-      ],
-      "dates_start": 1335000914,
-      "dates_end": 1395628164,
-      "likes_avg": 25209,
-      "likes_stdev": 34816,
-      "comments_avg": 542,
-      "comments_stdev": 397,
-      "shares_avg": 1483,
-      "shares_stdev": 2500
-    },
-    {
-      "number": 7,
-      "important": [
-        "seri",
-        "photo",
+        "countdown",
+        "final",
+        "hous",
         "hous seri",
         "hous seri final",
-        "final",
-        "timelin photo",
-        "timelin",
-        "seri final",
-        "tonight",
-        "episod"
-      ],
-      "common": [
-        "check",
-        "countdown",
-        "finale",
-        "house",
-        "house series",
-        "house series finale",
+        "morrison",
         "season",
-        "series",
-        "series finale",
+        "seri",
+        "seri final",
         "sticker"
       ],
       "messages": [
@@ -583,10 +229,6 @@
         [
           "4 Days: Things got extra terrestrial in \"Cane and Able\" from season 3 when a young boy who believed he was being tortured by aliens arrived at the hospital. \n\nUnlock today's House Series Finale countdown sticker here: http://bit.ly/KqBGhb Timeline Photos",
           1337292038
-        ],
-        [
-          "Take a stroll down memory lane with the \"House Series Timeline\" - a collection of the most memorable moments from the show over the past 8 seasons.  House: Series Timeline",
-          1337265187
         ],
         [
           "Join us in remembering some of the most intense moments in House history as we count down to the series finale. Check-in to unlock a special sticker for the season 5 fan-favorite episode \"Under My Skin\". House Series Finale Countdown: 5 Days When House could not rid his thoughts of Amber in season 5 \"Under My Skin\", he went to an unexpected confidant.",
@@ -613,40 +255,35 @@
           1332348321
         ]
       ],
-      "dates_start": 1334396580,
-      "dates_end": 1339586301,
-      "likes_avg": 10487,
-      "likes_stdev": 15906,
-      "comments_avg": 670,
-      "comments_stdev": 789,
-      "shares_avg": 797,
-      "shares_stdev": 1436
+      "dates_start": 1334257683,
+      "dates_end": 1339675426,
+      "likes_avg": 10811,
+      "likes_stdev": 16576,
+      "comments_avg": 702,
+      "comments_stdev": 816,
+      "shares_avg": 842,
+      "shares_stdev": 1492
     },
     {
-      "number": 8,
+      "number": 4,
       "important": [
-        "season",
+        "medic",
         "dr gregori",
-        "photo",
+        "hugh",
         "dr",
-        "timelin photo",
-        "adam",
-        "timelin",
-        "one",
-        "last",
-        "favorit"
+        "hugh lauri"
       ],
       "common": [
         "dr",
-        "dr gregory",
-        "dr gregory house",
-        "gregory",
-        "gregory house",
-        "house",
+        "dr gregori",
+        "dr gregori hous",
+        "gregori",
+        "gregori hous",
+        "hous",
         "hugh",
-        "hugh laurie",
-        "laurie",
-        "medical"
+        "hugh lauri",
+        "lauri",
+        "medic"
       ],
       "messages": [
         [
@@ -708,30 +345,24 @@
       "shares_stdev": 2325
     },
     {
-      "number": 9,
+      "number": 5,
       "important": [
-        "time",
-        "play hous",
-        "play",
-        "timelin photo",
         "case",
-        "come",
-        "game",
-        "facebook",
         "critic",
+        "play",
         "hous md"
       ],
       "common": [
-        "cases",
-        "critical",
-        "critical cases",
-        "game",
-        "house",
-        "li",
-        "play",
-        "play house",
-        "ubi",
-        "ubi li"
+        "case",
+        "critic",
+        "hous",
+        "hous md",
+        "hous md critic",
+        "hous md critic case",
+        "md",
+        "md critic",
+        "md critic case",
+        "play"
       ],
       "messages": [
         [
@@ -771,14 +402,6 @@
           1342645165
         ],
         [
-          "Are you playing the House MD Facebook Game? http://ubi.li/BDbh3 Timeline Photos",
-          1340029919
-        ],
-        [
-          "Join House and the entire team and work alongside your friends to help diagnose the most challenging medical cases. Play the House MD Facebook Game: http://ubi.li/uygZe",
-          1339357642
-        ],
-        [
           "House may have had his final episode, but that doesn\u2019t mean you can\u2019t play with him and his team on Facebook. Play House M.D.: Critical Cases: http://ubi.li/HpwRK",
           1338724829
         ],
@@ -791,40 +414,33 @@
           1337108303
         ]
       ],
-      "dates_start": 1336973424,
-      "dates_end": 1361740505,
-      "likes_avg": 7715,
-      "likes_stdev": 5343,
-      "comments_avg": 679,
-      "comments_stdev": 1085,
-      "shares_avg": 670,
-      "shares_stdev": 605
+      "dates_start": 1338289354,
+      "dates_end": 1363645637,
+      "likes_avg": 8140,
+      "likes_stdev": 5414,
+      "comments_avg": 754,
+      "comments_stdev": 1154,
+      "shares_avg": 705,
+      "shares_stdev": 624
     },
     {
-      "number": 10,
+      "number": 6,
       "important": [
-        "fan",
         "hous fan",
-        "photo",
-        "monday",
-        "timelin photo",
-        "adam",
-        "take",
-        "timelin",
-        "dure",
+        "fan",
         "ultim"
       ],
       "common": [
         "fan",
-        "fans",
-        "house",
-        "house fan",
-        "house fans",
-        "named ultimate",
-        "ultimate",
-        "ultimate house",
-        "ultimate house fan",
-        "ultimate house fans"
+        "hous",
+        "hous fan",
+        "hous fan ultim",
+        "name ultim",
+        "name ultim hous",
+        "name ultim hous fan",
+        "ultim",
+        "ultim hous",
+        "ultim hous fan"
       ],
       "messages": [
         [
@@ -882,30 +498,112 @@
       "shares_stdev": 949
     },
     {
-      "number": 11,
+      "number": 7,
       "important": [
-        "photo",
-        "enter",
-        "seri",
-        "hous seri",
-        "adam",
-        "timelin photo",
-        "parti",
-        "timelin",
+        "jess spencer",
+        "hous chase",
+        "jess",
+        "episod",
+        "chase"
+      ],
+      "common": [
+        "chase",
+        "chase jess",
+        "chase jess spencer",
+        "episod",
+        "episod hous",
+        "hous",
+        "hous chase",
+        "jess",
+        "jess spencer",
+        "spencer"
+      ],
+      "messages": [
+        [
+          "Paging Dr. Chase. Timeline Photos",
+          1399478401
+        ],
+        [
+          "In need of a Jesse Spencer fix?! Catch him on NBC\u2019s Chicago Fire TONIGHT at 10/9c. Timeline Photos",
+          1368631591
+        ],
+        [
+          "Need some more Jesse Spencer in your life? LIKE Chicago Fire on Facebook, and tune in for a new episode TONIGHT at 10/9c on NBC! Chicago Fire",
+          1365016057
+        ],
+        [
+          "Join us in wishing Jesse Spencer a very Happy Birthday! Chicago Fire Happy Birthday to our very own Jesse Spencer!",
+          1360684168
+        ],
+        [
+          "Chase takes on a patient who is a cloistered nun on the verge of making her life-changing vows, tonight at 8/7c. (encore) House Photos from the \"Chase\" episode of HOUSE.",
+          1340994401
+        ],
+        [
+          "HOUSE:  Chase (Jesse Spencer, L) helps Park (Charlyne Yi, R) move on from her current living arrangement in the \"Gut Check\" episode of HOUSE. Photos from \"Gut Check\" (aired 4/9)",
+          1334153435
+        ],
+        [
+          "House introduces Chase to his pet rat in this photo from the \"Blowing the Whistle\" episode, airing MON 4/2 at 9/8c. Timeline Photos",
+          1333043993
+        ],
+        [
+          "HOUSE:  Chase's (Jesse Spencer, R) judgement is compromised when he performs a risky surgery in the \"Chase\" episode of HOUSE. Photos from \"Chase\"",
+          1329331420
+        ],
+        [
+          "HOUSE:  Chase (Jesse Spencer, L) has a unique connection with his patient Moira (guest star Julie Mond, R) in the \"Chase\" episode of HOUSE. Photos from \"Chase\"",
+          1329331420
+        ],
+        [
+          "HOUSE:  Chase's (Jesse Spencer) judgement is compromised when he performs a risky surgery in the \"Chase\" episode of HOUSE. Photos from \"Chase\"",
+          1329331420
+        ],
+        [
+          "Jesse Spencer tells us how things may change for House and Chase after the tragic events of last night's episode of \"House.\" Will House now feel like he's looking at a younger version of himself? JESSE SPENCER: WHAT\u2019S NEXT FOR CHASE ON \u2018HOUSE\u2019? \u00ab  Fox All Access POTENTIAL SPOILER ALERT!  If you haven\u2019t watched Monday night\u2019s episode of \u201cHouse\u201d yet, avert your eyes and immediately check it out on your DVR or VOD.  Then come back and read the rest of the story, because we\u2019re referencing a major plot point from the \u201cNobody\u2019s Fault\u201d episode.",
+          1328650108
+        ],
+        [
+          "Dr. Chase (Jesse Spencer) talks about what's to come later this season on HOUSE (video). House Star Jesse Spencer: Big Stuff Ahead for Dr. Chase! - E! Online Aussie star reveals a Chase-centric episode.",
+          1326403783
+        ],
+        [
+          "Jesse Spencer arrives on the red carpet at the 2012 FOX WINTER TCA ALL STAR PARTY on Sunday, Jan. 8. Timeline Photos",
+          1326223615
+        ],
+        [
+          "True or False: Chase is allergic to peanut butter. Play the \"Chase Trivia\" quiz for the answer! House - Chase Trivia Think you really know Dr. Chase? Take this quiz and find out.",
+          1325612569
+        ]
+      ],
+      "dates_start": 1321171521,
+      "dates_end": 1364097961,
+      "likes_avg": 11265,
+      "likes_stdev": 17765,
+      "comments_avg": 421,
+      "comments_stdev": 388,
+      "shares_avg": 309,
+      "shares_stdev": 352
+    },
+    {
+      "number": 8,
+      "important": [
+        "one",
         "wrap",
-        "wrap parti"
+        "parti",
+        "enter"
       ],
       "common": [
         "enter",
-        "house",
-        "house inspired",
-        "house inspired motorcycle",
-        "house sweepstakes",
-        "inspired",
-        "motorcycle",
+        "hous",
+        "hous sweepstak",
+        "motorcycl",
         "one",
-        "party",
-        "sweepstakes"
+        "parti",
+        "sweepstak",
+        "win",
+        "winner",
+        "wrap"
       ],
       "messages": [
         [
@@ -919,6 +617,10 @@
         [
           "The House t-shirt and hat giveaway is now over and the winners have been contacted. Thanks for entering! Timeline Photos",
           1349729083
+        ],
+        [
+          "Check out FOX Super Perks winner Thomas at the House Wrap Party! Enter Super Perks NOW for your chance to win cool prizes! http://bit.ly/FOXSuperPerks HOUSE - Super Perks Winner Learn more about the exciting new FOX program that connects fans with their favorite shows, and gives everyone the chance to win super special prizes! Enter now!",
+          1336687125
         ],
         [
           "One more day to enter the HOUSE Series Finale Wrap Party Sweepstakes. Prize includes airfare, hotel & tickets to the party! Enter NOW: http://bit.ly/HOUSE_WrapParty HOUSE Series Wrap Party Sweepstakes Enter for your chance to win a trip to the ultimate wrap party!",
@@ -945,125 +647,35 @@
           1331339568
         ]
       ],
-      "dates_start": 1328841030,
-      "dates_end": 1350368203,
-      "likes_avg": 4500,
-      "likes_stdev": 2112,
-      "comments_avg": 271,
-      "comments_stdev": 150,
-      "shares_avg": 338,
-      "shares_stdev": 430
+      "dates_start": 1329064190,
+      "dates_end": 1349561544,
+      "likes_avg": 4191,
+      "likes_stdev": 2208,
+      "comments_avg": 246,
+      "comments_stdev": 161,
+      "shares_avg": 306,
+      "shares_stdev": 419
     },
     {
-      "number": 12,
+      "number": 9,
       "important": [
-        "photo",
-        "new episod",
-        "jess",
-        "timelin photo",
-        "adam",
-        "timelin",
-        "new",
-        "jess spencer",
-        "tonight",
-        "catch"
-      ],
-      "common": [
-        "chase",
-        "chase jesse",
-        "chase jesse spencer",
-        "episode",
-        "episode house",
-        "house",
-        "house chase",
-        "jesse",
-        "jesse spencer",
-        "spencer"
-      ],
-      "messages": [
-        [
-          "In need of a Jesse Spencer fix?! Catch him on NBC\u2019s Chicago Fire TONIGHT at 10/9c. Timeline Photos",
-          1368631591
-        ],
-        [
-          "Need some more Jesse Spencer in your life? LIKE Chicago Fire on Facebook, and tune in for a new episode TONIGHT at 10/9c on NBC! Chicago Fire",
-          1365016057
-        ],
-        [
-          "Join us in wishing Jesse Spencer a very Happy Birthday! Chicago Fire Happy Birthday to our very own Jesse Spencer!",
-          1360684168
-        ],
-        [
-          "HOUSE:  Chase (Jesse Spencer, L) helps Park (Charlyne Yi, R) move on from her current living arrangement in the \"Gut Check\" episode of HOUSE. Photos from \"Gut Check\" (aired 4/9)",
-          1334153435
-        ],
-        [
-          "HOUSE:  Chase's (Jesse Spencer, R) judgement is compromised when he performs a risky surgery in the \"Chase\" episode of HOUSE. Photos from \"Chase\"",
-          1329331420
-        ],
-        [
-          "HOUSE:  Chase (Jesse Spencer, L) has a unique connection with his patient Moira (guest star Julie Mond, R) in the \"Chase\" episode of HOUSE. Photos from \"Chase\"",
-          1329331420
-        ],
-        [
-          "HOUSE:  Chase's (Jesse Spencer) judgement is compromised when he performs a risky surgery in the \"Chase\" episode of HOUSE. Photos from \"Chase\"",
-          1329331420
-        ],
-        [
-          "Details on next week's episode of HOUSE (plus a preview clip!): http://bit.ly/wjh4jB",
-          1328658939
-        ],
-        [
-          "Jesse Spencer tells us how things may change for House and Chase after the tragic events of last night's episode of \"House.\" Will House now feel like he's looking at a younger version of himself? JESSE SPENCER: WHAT\u2019S NEXT FOR CHASE ON \u2018HOUSE\u2019? \u00ab  Fox All Access POTENTIAL SPOILER ALERT!  If you haven\u2019t watched Monday night\u2019s episode of \u201cHouse\u201d yet, avert your eyes and immediately check it out on your DVR or VOD.  Then come back and read the rest of the story, because we\u2019re referencing a major plot point from the \u201cNobody\u2019s Fault\u201d episode.",
-          1328650108
-        ],
-        [
-          "Next week's HOUSE is sure to be one of the most intense episodes yet. Click below for previews. Exclusive: House's Jesse Spencer Talks Next Week's Momentous Episode, Touts 'Nice Payoff' \"The last eight seasons has been building up to this,\" declares Jesse Spencer of next week's pivotal House (Fox, 8/7c), which finds Hugh Laurie's titular - TVLine",
-          1328113227
-        ],
-        [
-          "Dr. Chase (Jesse Spencer) talks about what's to come later this season on HOUSE (video). House Star Jesse Spencer: Big Stuff Ahead for Dr. Chase! - E! Online Aussie star reveals a Chase-centric episode.",
-          1326403783
-        ],
-        [
-          "Jesse Spencer arrives on the red carpet at the 2012 FOX WINTER TCA ALL STAR PARTY on Sunday, Jan. 8. Timeline Photos",
-          1326223615
-        ]
-      ],
-      "dates_start": 1322149639,
-      "dates_end": 1353605224,
-      "likes_avg": 6934,
-      "likes_stdev": 9559,
-      "comments_avg": 324,
-      "comments_stdev": 355,
-      "shares_avg": 232,
-      "shares_stdev": 285
-    },
-    {
-      "number": 13,
-      "important": [
-        "encor",
-        "photo",
-        "hold",
-        "episod hous",
-        "check",
-        "tonight",
-        "hold episod",
         "episod",
-        "hous hous",
-        "hous photo"
+        "encor",
+        "tonight",
+        "timelin",
+        "episod hous"
       ],
       "common": [
-        "7c",
-        "encore",
-        "encore episode",
-        "encore episode house",
-        "episode",
-        "episode house",
-        "house",
+        "encor",
+        "encor episod",
+        "encor episod hous",
+        "episod",
+        "episod hous",
+        "hous",
         "patient",
+        "timelin",
         "tonight",
-        "tonight 7c"
+        "tonight timelin"
       ],
       "messages": [
         [
@@ -1077,10 +689,6 @@
         [
           "Don't miss an encore episode of House - Tonight at 8/7c! Timeline Photos",
           1341607552
-        ],
-        [
-          "Chase takes on a patient who is a cloistered nun on the verge of making her life-changing vows, tonight at 8/7c. (encore) House Photos from the \"Chase\" episode of HOUSE.",
-          1340994401
         ],
         [
           "A violent incident involving a patient has serious consequences on an encore episode of House - Tonight at 8/7c. Timeline Photos",
@@ -1111,40 +719,35 @@
           1331580815
         ]
       ],
-      "dates_start": 1335136681,
-      "dates_end": 1342591336,
-      "likes_avg": 5609,
-      "likes_stdev": 2556,
-      "comments_avg": 263,
-      "comments_stdev": 119,
-      "shares_avg": 188,
-      "shares_stdev": 143
+      "dates_start": 1334806099,
+      "dates_end": 1342495840,
+      "likes_avg": 5843,
+      "likes_stdev": 2566,
+      "comments_avg": 275,
+      "comments_stdev": 118,
+      "shares_avg": 202,
+      "shares_stdev": 142
     },
     {
-      "number": 14,
+      "number": 10,
       "important": [
         "allnew episod hous",
-        "air mon",
-        "hold",
-        "take",
-        "tonight hous",
-        "allnew episod hous mon",
+        "allnew",
         "mon",
-        "hous preview",
-        "air mon catch",
-        "air mon catch allnew"
+        "allnew episod",
+        "catch"
       ],
       "common": [
+        "allnew",
+        "allnew episod",
+        "allnew episod hous",
         "catch",
+        "episod",
+        "episod hous",
         "facebook",
-        "facebook house_twitter follow twitter",
-        "house",
-        "house mon",
-        "house_twitter",
-        "house_twitter follow",
+        "hous",
         "like",
-        "mon",
-        "new"
+        "mon"
       ],
       "messages": [
         [
@@ -1274,217 +877,16 @@
       "shares_stdev": 259
     },
     {
-      "number": 15,
+      "number": 11,
       "important": [
-        "hous episod",
-        "next",
-        "dont",
-        "allnew",
-        "new episod",
-        "adam",
-        "watch",
-        "new",
-        "night",
-        "episod"
-      ],
-      "common": [
-        "7c",
-        "attn",
-        "episode",
-        "episodes",
-        "house",
-        "house returns",
-        "monday",
-        "new",
-        "new episode",
-        "new episodes"
-      ],
-      "messages": [
-        [
-          "Attn. West Coast: Tune-in to an all-new House episode right now!",
-          1337047228
-        ],
-        [
-          "Attn. West Coast: Are you watching House? Tune-in to the brand new episode right now.",
-          1333418417
-        ],
-        [
-          "House is taking the night off, but don't worry - all-new episodes return at a new time next Monday at 9/8c.",
-          1332771307
-        ],
-        [
-          "Due to the Daytona 500 race, Tonight's episode of HOUSE is preempted. Catch an all-new episode on Monday, March 19 at 8/7c.",
-          1330396617
-        ],
-        [
-          "Brand new episodes of House return TOMORROW (8/7c)!",
-          1327262413
-        ],
-        [
-          "Preview this Monday\u2019s all-new episode of HOUSE, airing at a NEW TIME - 8/7c. House First Look: Chase Has a Death Wish House returns from its midseason hiatus Monday with an episode that finds Chase and new girl Adams on opposite ends of the spectrum with regard to a comple - TVLine",
-          1327011053
-        ],
-        [
-          "HOUSE returns with all-new episodes on Monday, Jan. 23 at 9/8c!",
-          1325882580
-        ]
-      ],
-      "dates_start": 1326751986,
-      "dates_end": 1334330760,
-      "likes_avg": 4857,
-      "likes_stdev": 3838,
-      "comments_avg": 715,
-      "comments_stdev": 775,
-      "shares_avg": 176,
-      "shares_stdev": 153
-    },
-    {
-      "number": 16,
-      "important": [
-        "scene",
-        "photo",
-        "behind scene",
-        "episod hous",
-        "timelin photo",
-        "adam",
-        "timelin",
-        "hugh lauri",
-        "episod",
-        "behind"
-      ],
-      "common": [
-        "behind",
-        "behind scenes",
-        "behind scenes photo",
-        "episode",
-        "house",
-        "photo",
-        "runaways",
-        "scenes",
-        "scenes photo",
-        "tumblr"
-      ],
-      "messages": [
-        [
-          "Behind the scenes of the \"Body & Soul\" episode of House. Timeline Photos",
-          1335292595
-        ],
-        [
-          "Hugh Laurie behind the scenes of \u201cBlowing The Whistle\u201d. Timeline Photos",
-          1333485608
-        ],
-        [
-          "Here's an exclusive behind the scenes photo from \"Man Of The House\" (aired 2/20). Timeline Photos",
-          1329863879
-        ],
-        [
-          "Visit Tumblr for an exclusive behind the scenes photo from the \"Chase\" episode of HOUSE: http://bit.ly/House_Tumblr HOUSE on Tumblr The Official Tumblr of HOUSE on FOX. ",
-          1329258940
-        ],
-        [
-          "Check out a behind the scenes photo of Hugh Laurie and Jeffrey Wright, exclusively on Tumblr: http://bit.ly/House_Tumblr HOUSE on Tumblr The Official Tumblr of HOUSE on FOX. MON at 8/7c!",
-          1328639530
-        ],
-        [
-          "=HOUSE -- \"Runaways\" Episode 810 -- Pictured: -- Photo by: Adam Taylor/NBC \u00a9 NBCUniversal, Inc. Behind the Scenes Photos from \u201cRunaways\u201d (aired 1/30)",
-          1328045230
-        ],
-        [
-          "=HOUSE -- \"Runaways\" Episode 810 -- Pictured: -- Photo by: Jordin Althaus/NBC \u00a9 NBCUniversal, Inc. Behind the Scenes Photos from \u201cRunaways\u201d (aired 1/30)",
-          1328045230
-        ]
-      ],
-      "dates_start": 1327723825,
-      "dates_end": 1333027892,
-      "likes_avg": 3591,
-      "likes_stdev": 2796,
-      "comments_avg": 186,
-      "comments_stdev": 131,
-      "shares_avg": 175,
-      "shares_stdev": 164
-    },
-    {
-      "number": 17,
-      "important": [
-        "guest",
-        "eight",
-        "guest star",
-        "epp",
-        "adam",
-        "star",
-        "show",
-        "post",
-        "favorit",
-        "episod"
-      ],
-      "common": [
-        "aired",
-        "episode",
-        "episode house",
-        "guest",
-        "guest star",
-        "house",
-        "last",
-        "show",
-        "star",
-        "stars"
-      ],
-      "messages": [
-        [
-          "Guest stars galore. Who was your favorite? 20 Celebrities You Totally Forgot Guest Starred on 'House' Over the course of the show's eight seasons, plenty of celebrities guest starred in an episode.",
-          1459955291
-        ],
-        [
-          "HOUSE:  Foreman (Omar Epps, R) assures a pathologist from Princeton-Plainsboro (guest star Jamie Elman, L) he is getting the best care in the \"Post Mortem\" episode of HOUSE. Photos from \u201cPost Mortem\u201d (aired 5/7)",
-          1336584700
-        ],
-        [
-          "HOUSE:  The team treats a young girl (guest star Rachel Eggleston, L) whose mother (guest star Jessica Collins, R) is also a doctor and deeply involved in her case in the \"The C-Word\" episode of HOUSE. Photos from \u201cThe C-Word\u201d (aired 4/30)",
-          1335985935
-        ],
-        [
-          "HOUSE:  A young patient's grandfather (guest star George Kee Cheung, R) tries an unconventional treatment on his grandson (guest star Riley Lennon Nice, L) in the \"Body and Soul\" episode of HOUSE. Photos from \"Body & Soul\" (aired 4/23)",
-          1335385949
-        ],
-        [
-          "Did you recognize last night's special guest star on House? Patrick Stump Guest Stars On \u2018House\u2019: Watch A Preview Though it appears musical Renaissance man Patrick Stump is taking a break from his own tunes.",
-          1334678235
-        ],
-        [
-          "Hugh Laurie has a message for you. Click below to watch- House Series Finale Exclusive: The Show's Last Big Guest Star Is [Spoiler]! It\u2019s you! The last big guest star is you! Or, well, it could be. Fox is giving House fans the chance to make a cameo in the the show\u2019s retrospective (being broadcast right before the se...",
-          1333473859
-        ],
-        [
-          "Jeffrey Wright guest stars as Dr. Walter Cofield in next week's episode of HOUSE. Timeline Photos",
-          1328287429
-        ]
-      ],
-      "dates_start": 1307923785,
-      "dates_end": 1396176614,
-      "likes_avg": 3353,
-      "likes_stdev": 3918,
-      "comments_avg": 251,
-      "comments_stdev": 310,
-      "shares_avg": 172,
-      "shares_stdev": 250
-    },
-    {
-      "number": 18,
-      "important": [
-        "guest",
-        "guest star",
-        "dr",
-        "robert",
-        "star",
-        "timelin photo",
-        "timelin",
         "leonard",
-        "tonight",
-        "wilson"
+        "robert",
+        "wilson",
+        "episod"
       ],
       "common": [
-        "episode",
-        "house",
+        "episod",
+        "hous",
         "leonard",
         "robert",
         "robert sean",
@@ -1492,7 +894,7 @@
         "sean",
         "sean leonard",
         "wilson",
-        "wilson robert sean"
+        "wilson robert sean leonard"
       ],
       "messages": [
         [
@@ -1546,30 +948,25 @@
       "shares_stdev": 175
     },
     {
-      "number": 19,
+      "number": 12,
       "important": [
-        "cast",
-        "angel ca cr",
-        "seri",
-        "arriv",
-        "angel ca",
-        "hous seri",
-        "parti",
-        "angel ca cr frank",
         "hous seri wrap",
-        "wrap parti"
+        "wrap parti",
+        "parti",
+        "hous seri",
+        "seri"
       ],
       "common": [
-        "house",
-        "house series",
-        "house series wrap",
-        "house series wrap party",
-        "party",
-        "series",
-        "series wrap",
-        "series wrap party",
+        "hous",
+        "hous seri",
+        "hous seri wrap",
+        "hous seri wrap parti",
+        "parti",
+        "seri",
+        "seri wrap",
+        "seri wrap parti",
         "wrap",
-        "wrap party"
+        "wrap parti"
       ],
       "messages": [
         [
@@ -1671,149 +1068,108 @@
       "shares_stdev": 163
     },
     {
-      "number": 20,
+      "number": 13,
       "important": [
-        "charact",
-        "year",
-        "adam",
-        "take",
-        "new",
-        "hous hous",
-        "see"
+        "seri",
+        "scene",
+        "seri final",
+        "behind scene",
+        "behind"
       ],
       "common": [
-        "house",
-        "quiz",
-        "quiz see",
-        "quote",
-        "quote character",
-        "quote character targeting",
-        "take",
-        "take quiz",
-        "take quiz see",
-        "targeting"
+        "air",
+        "behind",
+        "behind scene",
+        "behind scene air",
+        "final",
+        "hous",
+        "scene",
+        "scene air",
+        "seri",
+        "seri final"
       ],
       "messages": [
         [
-          "Test your knowledge of the most memorable women in House's life over the years. House - House Triva \"House\" has featured a wide range of fascinating, complicated female characters, and House's relationships with them have been as unpredictable and as unorthodox as his approach to medicine.",
-          1344368629
+          "HOUSE:  Hugh Laurie (L) and series creator, executive producer and series finale director David Shore (R) behind the scenes during filming of the two-hour \"Swan Song/Everybody Dies\" HOUSE series finale. Behind the Scenes Photos from \u201cEverybody Dies\u201d (aired 5/21)",
+          1337881858
         ],
         [
-          "Take this quiz and see if you can match the House quote to the character he\u2019s targeting- House - House-isms: Guess the Target Over the years, the notoriously misanthropic House has managed to insult just about everyone he's encountered, but he especially delights in targeting those nearest and dearest to him. Take this quiz and see if you can successfully match the House quote to the character he's targeting in each instan...",
-          1334345666
+          "HOUSE:  Hugh Laurie (R) behind the scenes during filming of the two-hour \"Swan Song/Everybody Dies\" HOUSE series finale. Behind the Scenes Photos from \u201cEverybody Dies\u201d (aired 5/21)",
+          1337881858
         ],
         [
-          "Take this quiz and see if you can successfully match the House quote to the character he's targeting in each instance. - http://bit.ly/xVoQbL House - House-isms: Guess the Target Over the years, the notoriously misanthropic House has managed to insult just about everyone he's encountered, but he especially delights in targeting those nearest and dearest to him.",
-          1326836262
+          "HOUSE:  Behind the scenes:  Hugh Laurie (R) and show creator and Executive Producer David Shore (L) during production on the two-hour \"Swan Song/Everybody Dies\" HOUSE series finale. Behind the Scenes Photos from \u201cEverybody Dies\u201d (aired 5/21)",
+          1337881858
         ],
         [
-          "Happy New Year!",
-          1325448011
+          "HOUSE:  Behind the scenes:  Show creator and Executive Producer David Shore (R) and guest-star Sela Ward (L) in the two-hour \"Swan Song/Everybody Dies\" HOUSE series finale. Behind the Scenes Photos from \u201cEverybody Dies\u201d (aired 5/21)",
+          1337881858
+        ],
+        [
+          "HOUSE:  Behind the scenes:  Show creator and Executive Producer David Shore during production on the two-hour \"Swan Song/Everybody Dies\" HOUSE series finale. Behind the Scenes Photos from \u201cEverybody Dies\u201d (aired 5/21)",
+          1337881858
+        ],
+        [
+          "HOUSE:  Behind the scenes:  Hugh Laurie during production on the two-hour \"Swan Song/Everybody Dies\" HOUSE series finale. Behind the Scenes Photos from \u201cEverybody Dies\u201d (aired 5/21)",
+          1337881858
+        ],
+        [
+          "Behind the scenes of the \"Body & Soul\" episode of House. Timeline Photos",
+          1335292595
+        ],
+        [
+          "Hugh Laurie behind the scenes of \u201cBlowing The Whistle\u201d. Timeline Photos",
+          1333485608
+        ],
+        [
+          "Here's an exclusive behind the scenes photo from \"Man Of The House\" (aired 2/20). Timeline Photos",
+          1329863879
+        ],
+        [
+          "Visit Tumblr for an exclusive behind the scenes photo from the \"Chase\" episode of HOUSE: http://bit.ly/House_Tumblr HOUSE on Tumblr The Official Tumblr of HOUSE on FOX. ",
+          1329258940
+        ],
+        [
+          "Check out a behind the scenes photo of Hugh Laurie and Jeffrey Wright, exclusively on Tumblr: http://bit.ly/House_Tumblr HOUSE on Tumblr The Official Tumblr of HOUSE on FOX. MON at 8/7c!",
+          1328639530
+        ],
+        [
+          "=HOUSE -- \"Runaways\" Episode 810 -- Pictured: -- Photo by: Adam Taylor/NBC \u00a9 NBCUniversal, Inc. Behind the Scenes Photos from \u201cRunaways\u201d (aired 1/30)",
+          1328045230
+        ],
+        [
+          "=HOUSE -- \"Runaways\" Episode 810 -- Pictured: -- Photo by: Jordin Althaus/NBC \u00a9 NBCUniversal, Inc. Behind the Scenes Photos from \u201cRunaways\u201d (aired 1/30)",
+          1328045230
         ]
       ],
-      "dates_start": 1325235820,
-      "dates_end": 1340263463,
-      "likes_avg": 7552,
-      "likes_stdev": 8779,
-      "comments_avg": 362,
-      "comments_stdev": 399,
-      "shares_avg": 121,
-      "shares_stdev": 46
+      "dates_start": 1329622487,
+      "dates_end": 1338057844,
+      "likes_avg": 2147,
+      "likes_stdev": 2583,
+      "comments_avg": 114,
+      "comments_stdev": 124,
+      "shares_avg": 120,
+      "shares_stdev": 138
     },
     {
-      "number": 21,
+      "number": 14,
       "important": [
-        "patient",
-        "better",
-        "hous hugh",
-        "hugh lauri",
-        "episod hous photo",
-        "perform",
-        "better half",
-        "hous hous",
-        "hous photo",
-        "hous hous hugh"
-      ],
-      "common": [
-        "23",
-        "better",
-        "better half",
-        "better half episode",
-        "better half episode house",
-        "episode",
-        "half",
-        "half episode",
-        "half episode house",
-        "house"
-      ],
-      "messages": [
-        [
-          "HOUSE:  House (Hugh Laurie, L) performs an emergency procedure on a patient in the \"Better Half\" episode of HOUSE. Photos from \"Better Half\" (aired 1/23)",
-          1327519268
-        ],
-        [
-          "HOUSE:  House (Hugh Laurie) runs tests in the lab in the \"Better Half\" episode of HOUSE. Photos from \"Better Half\" (aired 1/23)",
-          1327519268
-        ],
-        [
-          "HOUSE:  Chase (Jesse Spencer, L) and Adams (Odette Annable, R) perform an emergency procedure on their patient in the \"Better Half\" episode of HOUSE. Photos from \"Better Half\" (aired 1/23)",
-          1327519268
-        ],
-        [
-          "HOUSE:  House (Hugh Laurie, fourth from L), Foreman (Omar Epps, L) and the team (L-R:  Odette Annable, Charlyne Yi and Jesse Spencer) admit a patient in the \"Better Half\" episode of HOUSE. Photos from \"Better Half\" (aired 1/23)",
-          1327519267
-        ],
-        [
-          "HOUSE:  The team (L-R:  Odette Annable, Charlyne Yi and Jesse Spencer) updates House (Hugh Laurie, L) on their patient's case in the \"Better Half\" episode of HOUSE. Photos from \"Better Half\" (aired 1/23)",
-          1327519267
-        ],
-        [
-          "HOUSE:  When the team's patient disappears from the hospital, House (Hugh Laurie, R) stops the patient's wife (guest star Melanie Lynskey, L) from searching for him in the \"Better Half\" episode of HOUSE. Photos from \"Better Half\" (aired 1/23)",
-          1327519267
-        ],
-        [
-          "HOUSE:  House (Hugh Laurie, R) and Foreman (Omar Epps, L) question the wife of their missing patient in the \"Better Half\" episode of HOUSE. Photos from \"Better Half\" (aired 1/23)",
-          1327519267
-        ],
-        [
-          "Melanie Lynskey guest-stars in the \"Better Half\" episode of HOUSE airing Monday, Jan. 23 at 8/7c. Timeline Photos",
-          1326912753
-        ]
-      ],
-      "dates_start": 1327242867,
-      "dates_end": 1327644038,
-      "likes_avg": 1221,
-      "likes_stdev": 2247,
-      "comments_avg": 110,
-      "comments_stdev": 151,
-      "shares_avg": 77,
-      "shares_stdev": 95
-    },
-    {
-      "number": 22,
-      "important": [
-        "twohour swan",
         "songeverybodi",
-        "gueststar",
-        "die hous seri final photo",
-        "jess",
-        "hous seri final",
         "die",
-        "jess spencer",
-        "twohour",
-        "die hous"
+        "die hous",
+        "die hous seri final swan"
       ],
       "common": [
-        "dies",
-        "everybody",
-        "everybody dies",
-        "song",
-        "song everybody",
-        "song everybody dies",
+        "die",
+        "die hous",
+        "die hous seri final",
+        "die hous seri final swan",
+        "hous",
+        "songeverybodi",
+        "songeverybodi die",
         "swan",
-        "swan song",
-        "swan song everybody",
-        "swan song everybody dies"
+        "swan songeverybodi",
+        "swan songeverybodi die"
       ],
       "messages": [
         [
@@ -1903,91 +1259,165 @@
       "shares_stdev": 129
     },
     {
-      "number": 23,
+      "number": 15,
       "important": [
-        "shore",
-        "scene",
-        "seri",
-        "behind scene",
-        "david shore",
-        "final",
-        "execut",
-        "seri final",
-        "behind scene photo",
-        "behind"
+        "episod",
+        "star",
+        "episod hous air",
+        "guest",
+        "guest star"
       ],
       "common": [
-        "behind",
-        "behind scenes",
-        "dies",
-        "everybody",
-        "everybody dies",
-        "finale",
-        "house",
-        "scenes",
-        "series",
-        "series finale"
+        "air",
+        "blind",
+        "episod",
+        "episod hous",
+        "episod hous air",
+        "guest",
+        "guest star",
+        "hous",
+        "hous air",
+        "star"
       ],
       "messages": [
         [
-          "HOUSE:  Hugh Laurie (L) and series creator, executive producer and series finale director David Shore (R) behind the scenes during filming of the two-hour \"Swan Song/Everybody Dies\" HOUSE series finale. Behind the Scenes Photos from \u201cEverybody Dies\u201d (aired 5/21)",
-          1337881858
+          "Guest stars galore. Who was your favorite? 20 Celebrities You Totally Forgot Guest Starred on 'House' Over the course of the show's eight seasons, plenty of celebrities guest starred in an episode.",
+          1459955291
         ],
         [
-          "HOUSE:  Hugh Laurie (R) behind the scenes during filming of the two-hour \"Swan Song/Everybody Dies\" HOUSE series finale. Behind the Scenes Photos from \u201cEverybody Dies\u201d (aired 5/21)",
-          1337881858
+          "Join us in congratulating Omar Epps on his NAACP Image Awards  nomination for Best Supporting Actor in a Drama Series!",
+          1355266800
         ],
         [
-          "HOUSE:  Behind the scenes:  Hugh Laurie (R) and show creator and Executive Producer David Shore (L) during production on the two-hour \"Swan Song/Everybody Dies\" HOUSE series finale. Behind the Scenes Photos from \u201cEverybody Dies\u201d (aired 5/21)",
-          1337881858
+          "HOUSE:  Park (Charlyne Yi, L) treats a colleague (guest star Jamie Elman, R) from Princeton-Plainsboro in the \"Post Mortem\" episode of HOUSE. Photos from \u201cPost Mortem\u201d (aired 5/7)",
+          1336584700
         ],
         [
-          "HOUSE:  Behind the scenes:  Show creator and Executive Producer David Shore (R) and guest-star Sela Ward (L) in the two-hour \"Swan Song/Everybody Dies\" HOUSE series finale. Behind the Scenes Photos from \u201cEverybody Dies\u201d (aired 5/21)",
-          1337881858
+          "HOUSE:  Foreman (Omar Epps, R) assures a pathologist from Princeton-Plainsboro (guest star Jamie Elman, L) he is getting the best care in the \"Post Mortem\" episode of HOUSE. Photos from \u201cPost Mortem\u201d (aired 5/7)",
+          1336584700
         ],
         [
-          "HOUSE:  Behind the scenes:  Show creator and Executive Producer David Shore during production on the two-hour \"Swan Song/Everybody Dies\" HOUSE series finale. Behind the Scenes Photos from \u201cEverybody Dies\u201d (aired 5/21)",
-          1337881858
+          "HOUSE:   Chase (Jesse Spencer, second from R) and Adams (Odette Annable, R) treat a young girl (guest star Rachel Eggleston, second from R) whose mother (guest star Jessica Collins, L) is a doctor and becomes deeply involved in the case in the \"The C-Word\" episode of HOUSE. Photos from \u201cThe C-Word\u201d (aired 4/30)",
+          1335985936
         ],
         [
-          "HOUSE:  Behind the scenes:  Hugh Laurie during production on the two-hour \"Swan Song/Everybody Dies\" HOUSE series finale. Behind the Scenes Photos from \u201cEverybody Dies\u201d (aired 5/21)",
-          1337881858
+          "HOUSE:  The team treats a young girl (guest star Rachel Eggleston, L) whose mother (guest star Jessica Collins, R) is also a doctor and deeply involved in her case in the \"The C-Word\" episode of HOUSE. Photos from \u201cThe C-Word\u201d (aired 4/30)",
+          1335985935
+        ],
+        [
+          "HOUSE:  A young patient's grandfather (guest star George Kee Cheung, R) tries an unconventional treatment on his grandson (guest star Riley Lennon Nice, L) in the \"Body and Soul\" episode of HOUSE. Photos from \"Body & Soul\" (aired 4/23)",
+          1335385949
+        ],
+        [
+          "HOUSE: Chase (Jesse Spencer, L) and Adams (Odette Annable, R) treat their patient (guest star Kevin Christy, C) in the &quot;We Need the Eggs&quot; episode of HOUSE airing Monday, April 16 (9:00-10:00 PM ET/PT) on FOX.  &#xa9;2012 Fox Broadcasting Co. Cr:  Ray Mickshaw/FOX 1 Photos from \u201cWe Need The Eggs\u201d (aired 4/16)",
+          1334771834
+        ],
+        [
+          "Did you recognize last night's special guest star on House? Patrick Stump Guest Stars On \u2018House\u2019: Watch A Preview Though it appears musical Renaissance man Patrick Stump is taking a break from his own tunes.",
+          1334678235
+        ],
+        [
+          "HOUSE:   Adams (Odette Annable, L), Park (Charlyne Yi, second from L) and Taub (second from R) are challenged by House (Hugh Laurie, R) to diagnose their patient in the \"Blowing the Whistle\" Time Period Premiere episode of HOUSE. Photos from \u201cBlowing The Whistle\u201d (aired 4/1)",
+          1333554984
+        ],
+        [
+          "HOUSE:   Park (Charlyne Yi, L), Adams (Odette Annable, C) and House (Hugh Laurie, R) work to diagnose their patient in the \"Blowing the Whistle\" Time Period Premiere episode of HOUSE. Photos from \u201cBlowing The Whistle\u201d (aired 4/1)",
+          1333554983
+        ],
+        [
+          "HOUSE:   Park (Charlyne Yi, L), Chase (Jesse Spencer, C) and Adams (Odette Annable, R) work to diagnose their patient in the \"Blowing the Whistle\" Time Period Premiere episode of HOUSE. Photos from \u201cBlowing The Whistle\u201d (aired 4/1)",
+          1333554983
+        ],
+        [
+          "Hugh Laurie has a message for you. Click below to watch- House Series Finale Exclusive: The Show's Last Big Guest Star Is [Spoiler]! It\u2019s you! The last big guest star is you! Or, well, it could be. Fox is giving House fans the chance to make a cameo in the the show\u2019s retrospective (being broadcast right before the se...",
+          1333473859
+        ],
+        [
+          "HOUSE:  Wilson (Robert Sean Leonard, R) helps Park (Charlyne Yi, L) in the \"Love is Blind\" episode of HOUSE. Photos from \u201cLove Is Blind\u201d (aired 3/19)",
+          1332525221
+        ],
+        [
+          "HOUSE:  House (Hugh Laurie, L) is in for a surprise when his mother (guest star Diane Baker, R) visits in the \"Love is Blind\" episode of HOUSE. Photos from \u201cLove Is Blind\u201d (aired 3/19)",
+          1332525220
+        ],
+        [
+          "HOUSE:  Adams (Odette Annable, R) examines a blind patient (guest star Michael B. Jordan, L) who is suffering from a mysterious illness in the \"Love is Blind\" episode of HOUSE. Photos from \u201cLove Is Blind\u201d (aired 3/19)",
+          1332525220
+        ],
+        [
+          "HOUSE:  Will (guest star Michael B. Jordan, R) must break some tough news to his girlfriend (Margo Harshman, L) in the \"Love is Blind\" episode of HOUSE. Photos from \u201cLove Is Blind\u201d (aired 3/19)",
+          1332525220
+        ],
+        [
+          "HOUSE:  Diane Baker (R) and Billy Connolly (L) guest-star in the \"Love is Blind\" episode of HOUSE. Photos from \u201cLove Is Blind\u201d (aired 3/19)",
+          1332525220
+        ],
+        [
+          "HOUSE:  Adams (Odette Annable, R) and Chase (Jesse Spencer, C) treat a blind patient (guest star Michael B. Jordan, L) who is suffering from a mysterious illness in the \"Love is Blind\" episode of HOUSE. Photos from \u201cLove Is Blind\u201d (aired 3/19)",
+          1332525219
+        ],
+        [
+          "HOUSE:  Adams (Odette Annable, L) and Chase (Jesse Spencer, R) treat a blind patient (guest star Michael B. Jordan, C) who is suffering from a mysterious illness in the \"Love is Blind\" episode of HOUSE. Photos from \u201cLove Is Blind\u201d (aired 3/19)",
+          1332525219
+        ],
+        [
+          "HOUSE:  House (Hugh Laurie, R) and Park (Charlyne Yi, L) anticipate new information from the team in the \"Love is Blind\" episode of HOUSE. Photos from \u201cLove Is Blind\u201d (aired 3/19)",
+          1332525219
+        ],
+        [
+          "HOUSE:  Adams (Odette Annable, R) and Chase (Jesse Spencer, L) try to control a violent patient (guest star David Anders, C) in the \"Nobody's Fault\" episode of HOUSE. Photos from \u201cNobody\u2019s Fault\u201d (aired 2/6)",
+          1328729278
+        ],
+        [
+          "HOUSE:  Chase (Jesse Spencer, R) and Adams (Odette Annable, L) try to control a violent patient (guest star David Anders, C) in the \"Nobody's Fault\" episode of HOUSE. Photos from \u201cNobody\u2019s Fault\u201d (aired 2/6)",
+          1328729278
+        ],
+        [
+          "HOUSE:  Jeffrey Wright guest-stars in the \"Nobody's Fault\" episode of HOUSE. Photos from \u201cNobody\u2019s Fault\u201d (aired 2/6)",
+          1328729278
+        ],
+        [
+          "Jeffrey Wright guest stars as Dr. Walter Cofield in next week's episode of HOUSE. Timeline Photos",
+          1328287429
+        ],
+        [
+          "House's Omar Epps has been nominated for an NAACP Image Award! Congrats!",
+          1326991811
+        ],
+        [
+          "Melanie Lynskey guest-stars in the \"Better Half\" episode of HOUSE airing Monday, Jan. 23 at 8/7c. Timeline Photos",
+          1326912753
         ]
       ],
-      "dates_start": 1337881858,
-      "dates_end": 1337881858,
-      "likes_avg": 463,
-      "likes_stdev": 268,
-      "comments_avg": 31,
-      "comments_stdev": 15,
-      "shares_avg": 57,
-      "shares_stdev": 47
+      "dates_start": 1313631204,
+      "dates_end": 1362511000,
+      "likes_avg": 2118,
+      "likes_stdev": 3808,
+      "comments_avg": 133,
+      "comments_stdev": 215,
+      "shares_avg": 67,
+      "shares_stdev": 151
     },
     {
-      "number": 24,
+      "number": 16,
       "important": [
-        "treat",
-        "photo air",
-        "guest",
-        "guest star",
-        "star",
-        "hous photo",
-        "episod hous photo",
-        "hous hugh",
         "hous hous",
-        "episod hous photo air"
+        "hugh",
+        "air",
+        "hous hugh",
+        "hugh lauri"
       ],
       "common": [
-        "aired",
-        "episode",
-        "episode house",
-        "house",
-        "house house",
-        "house house hugh",
-        "house house hugh laurie",
-        "house hugh laurie",
+        "air",
+        "episod",
+        "episod hous",
+        "hous",
+        "hous hous",
+        "hous hugh",
+        "hous hugh lauri",
         "hugh",
-        "hugh laurie"
+        "hugh lauri",
+        "lauri"
       ],
       "messages": [
         [
@@ -1997,6 +1427,10 @@
         [
           "HOUSE:   House (Hugh Laurie) offers to help Wilson in the \"The C-Word\" episode of HOUSE. Photos from \u201cThe C-Word\u201d (aired 4/30)",
           1335985935
+        ],
+        [
+          "House star Hugh Laurie heads *behind* the camera once again to direct his castmates. Hugh Laurie doing double duty on 'House' House star talks about his dual roles.",
+          1335818359
         ],
         [
           "HOUSE: House (Hugh Laurie, R) teams up with his \"wife\" Dominika (guest star Karolina Wydra, L) to sabotage a friend's relationship in the \"We Need the Eggs\" episode of HOUSE. Photos from \u201cWe Need The Eggs\u201d (aired 4/16)",
@@ -2023,140 +1457,6 @@
           1333554983
         ],
         [
-          "HOUSE:  House (Hugh Laurie, L) is in for a surprise when his mother (guest star Diane Baker, R) visits in the \"Love is Blind\" episode of HOUSE. Photos from \u201cLove Is Blind\u201d (aired 3/19)",
-          1332525220
-        ],
-        [
-          "HOUSE:  House (Hugh Laurie, second from L) brings a science experiment into the office in the \"Nobody's Fault\" episode of HOUSE. Photos from \u201cNobody\u2019s Fault\u201d (aired 2/6)",
-          1328729278
-        ],
-        [
-          "HOUSE:  House (Hugh Laurie) brings a science experiment into the office in the \"Nobody's Fault\" episode of HOUSE. Photos from \u201cNobody\u2019s Fault\u201d (aired 2/6)",
-          1328729278
-        ],
-        [
-          "HOUSE:  House (Hugh Laurie, second from L) and the team are placed under review by Dr. Walter Cofield (guest star Jeffrey Wright, L) in the \"Nobody's Fault\" episode of HOUSE. Photos from \u201cNobody\u2019s Fault\u201d (aired 2/6)",
-          1328729278
-        ],
-        [
-          "HOUSE:  House (Hugh Laurie, R) is placed under review by Dr. Walter Cofield (guest star Jeffrey Wright, L) in the \"Nobody's Fault\" episode of HOUSE. Photos from \u201cNobody\u2019s Fault\u201d (aired 2/6)",
-          1328729277
-        ]
-      ],
-      "dates_start": 1329911975,
-      "dates_end": 1335468510,
-      "likes_avg": 498,
-      "likes_stdev": 406,
-      "comments_avg": 42,
-      "comments_stdev": 33,
-      "shares_avg": 56,
-      "shares_stdev": 88
-    },
-    {
-      "number": 25,
-      "important": [
-        "like",
-        "last night",
-        "episod hous",
-        "adam",
-        "watch",
-        "night",
-        "last",
-        "episod",
-        "park",
-        "favorit"
-      ],
-      "common": [
-        "comments",
-        "favorite",
-        "favorite moments",
-        "house",
-        "house last",
-        "house last night",
-        "last",
-        "last night",
-        "moments",
-        "night"
-      ],
-      "messages": [
-        [
-          "'Like' this post if you watched House last night!",
-          1335900644
-        ],
-        [
-          "Last night's episode of House was intense! What were some of your favorite moments?",
-          1335279639
-        ],
-        [
-          "Share some of your favorite moments from last night\u2019s House in the comments below\u2026",
-          1334057426
-        ],
-        [
-          "The cast of House give us an Insider\u2019s look at the making of last night\u2019s epic \u2018Acid Land\u2019 scene. Hot House Video: Inside Park's Acid Trip This week\u2019s House sent Charlyne Yi\u2018s rookie doc Park on a vacation to Acid Land, and we\u2019ve got an exclusive first look at the behind-the-scenes magic that brought her mind-bendin...",
-          1332264626
-        ],
-        [
-          "'Like' this status if you watched HOUSE last night!",
-          1332252087
-        ],
-        [
-          "What were some of your favorite moments from last night's HOUSE?",
-          1329841879
-        ],
-        [
-          "'Like' this status if you watched HOUSE last night, and share your favorite moments in the comments below.",
-          1329247907
-        ],
-        [
-          "Last night's HOUSE was one the most intense episodes yet. Share your thoughts about it in the comments below...",
-          1328631861
-        ],
-        [
-          "Did you watch HOUSE last night? Share your favorite scene with us in the comments below.",
-          1328037898
-        ],
-        [
-          "What were some of your favorite moments from last night's episode of HOUSE?",
-          1327424543
-        ]
-      ],
-      "dates_start": 1328368785,
-      "dates_end": 1334218916,
-      "likes_avg": 6067,
-      "likes_stdev": 3801,
-      "comments_avg": 732,
-      "comments_stdev": 424,
-      "shares_avg": 52,
-      "shares_stdev": 63
-    },
-    {
-      "number": 26,
-      "important": [
-        "hous episod",
-        "cr",
-        "jacobson",
-        "patient",
-        "hous air",
-        "man hous air",
-        "watch",
-        "man hous",
-        "hous hous hugh",
-        "man"
-      ],
-      "common": [
-        "20",
-        "guest",
-        "guest star",
-        "house",
-        "house aired",
-        "house aired 20",
-        "house episode",
-        "house episode house",
-        "man",
-        "man house"
-      ],
-      "messages": [
-        [
           "HOUSE:  House (Hugh Laurie, L) and Taub (Peter Jacobson, R) watch a video of their patient in the \"Man of the House\" episode of HOUSE.Broadcasting Co.   Cr:  Jordin Althaus/FOX Photos from \"Man Of The House\" (aired 2/20)",
           1329932165
         ],
@@ -2179,42 +1479,110 @@
         [
           "HOUSE:  House (Hugh Laurie) watches as an immigration officer leaves his apartment in the \"Man of the House\" episode of HOUSE. Photos from \"Man Of The House\" (aired 2/20)",
           1329932164
+        ],
+        [
+          "HOUSE:  House (Hugh Laurie, second from L) brings a science experiment into the office in the \"Nobody's Fault\" episode of HOUSE. Photos from \u201cNobody\u2019s Fault\u201d (aired 2/6)",
+          1328729278
+        ],
+        [
+          "HOUSE:  House (Hugh Laurie) brings a science experiment into the office in the \"Nobody's Fault\" episode of HOUSE. Photos from \u201cNobody\u2019s Fault\u201d (aired 2/6)",
+          1328729278
+        ],
+        [
+          "HOUSE:  House (Hugh Laurie, second from L) and the team are placed under review by Dr. Walter Cofield (guest star Jeffrey Wright, L) in the \"Nobody's Fault\" episode of HOUSE. Photos from \u201cNobody\u2019s Fault\u201d (aired 2/6)",
+          1328729278
+        ],
+        [
+          "HOUSE:  House (Hugh Laurie, R) is placed under review by Dr. Walter Cofield (guest star Jeffrey Wright, L) in the \"Nobody's Fault\" episode of HOUSE. Photos from \u201cNobody\u2019s Fault\u201d (aired 2/6)",
+          1328729277
         ]
       ],
-      "dates_start": 1329932163,
-      "dates_end": 1329932164,
-      "likes_avg": 410,
-      "likes_stdev": 252,
-      "comments_avg": 47,
-      "comments_stdev": 29,
-      "shares_avg": 48,
-      "shares_stdev": 65
+      "dates_start": 1329215845,
+      "dates_end": 1334769342,
+      "likes_avg": 673,
+      "likes_stdev": 876,
+      "comments_avg": 50,
+      "comments_stdev": 40,
+      "shares_avg": 62,
+      "shares_stdev": 85
     },
     {
-      "number": 27,
+      "number": 17,
       "important": [
-        "hous hous",
-        "hold",
-        "hugh lauri",
-        "episod hous photo hold",
-        "episod hous photo",
-        "hold episod",
-        "hous hugh",
-        "wilson",
-        "hous photo",
-        "hous hous hugh"
+        "better half",
+        "better"
       ],
       "common": [
-        "13",
-        "aired",
-        "aired 13",
-        "holding",
-        "holding episode",
-        "holding episode house holding",
-        "holding episode house holding originally",
-        "holding originally",
-        "house",
-        "house holding"
+        "better",
+        "better half",
+        "better half episod",
+        "better half episod hous",
+        "half",
+        "half episod hous",
+        "half episod hous better",
+        "half episod hous better half",
+        "hous",
+        "hous better half air"
+      ],
+      "messages": [
+        [
+          "HOUSE:  House (Hugh Laurie, L) performs an emergency procedure on a patient in the \"Better Half\" episode of HOUSE. Photos from \"Better Half\" (aired 1/23)",
+          1327519268
+        ],
+        [
+          "HOUSE:  House (Hugh Laurie) runs tests in the lab in the \"Better Half\" episode of HOUSE. Photos from \"Better Half\" (aired 1/23)",
+          1327519268
+        ],
+        [
+          "HOUSE:  Chase (Jesse Spencer, L) and Adams (Odette Annable, R) perform an emergency procedure on their patient in the \"Better Half\" episode of HOUSE. Photos from \"Better Half\" (aired 1/23)",
+          1327519268
+        ],
+        [
+          "HOUSE:  House (Hugh Laurie, fourth from L), Foreman (Omar Epps, L) and the team (L-R:  Odette Annable, Charlyne Yi and Jesse Spencer) admit a patient in the \"Better Half\" episode of HOUSE. Photos from \"Better Half\" (aired 1/23)",
+          1327519267
+        ],
+        [
+          "HOUSE:  The team (L-R:  Odette Annable, Charlyne Yi and Jesse Spencer) updates House (Hugh Laurie, L) on their patient's case in the \"Better Half\" episode of HOUSE. Photos from \"Better Half\" (aired 1/23)",
+          1327519267
+        ],
+        [
+          "HOUSE:  When the team's patient disappears from the hospital, House (Hugh Laurie, R) stops the patient's wife (guest star Melanie Lynskey, L) from searching for him in the \"Better Half\" episode of HOUSE. Photos from \"Better Half\" (aired 1/23)",
+          1327519267
+        ],
+        [
+          "HOUSE:  House (Hugh Laurie, R) and Foreman (Omar Epps, L) question the wife of their missing patient in the \"Better Half\" episode of HOUSE. Photos from \"Better Half\" (aired 1/23)",
+          1327519267
+        ]
+      ],
+      "dates_start": 1327519266,
+      "dates_end": 1327519267,
+      "likes_avg": 375,
+      "likes_stdev": 197,
+      "comments_avg": 54,
+      "comments_stdev": 34,
+      "shares_avg": 47,
+      "shares_stdev": 56
+    },
+    {
+      "number": 18,
+      "important": [
+        "episod",
+        "hous hold",
+        "episod hous hold",
+        "hold",
+        "episod hous"
+      ],
+      "common": [
+        "episod",
+        "episod hous",
+        "episod hous hold",
+        "episod hous hold origin",
+        "episod hous hold origin air",
+        "hold",
+        "hous",
+        "hous hold",
+        "origin",
+        "origin air"
       ],
       "messages": [
         [
@@ -2276,142 +1644,76 @@
       "shares_stdev": 52
     },
     {
-      "number": 28,
+      "number": 19,
       "important": [
-        "treat",
-        "charlyn",
-        "photo air",
-        "guest",
-        "guest star",
-        "park charlyn",
-        "star",
-        "episod hous photo",
-        "park",
-        "episod hous photo air"
+        "favorit",
+        "last night",
+        "night",
+        "moment",
+        "last"
       ],
       "common": [
-        "aired",
-        "blind",
-        "blowing",
-        "episode",
-        "episode house",
-        "house",
-        "love",
-        "love blind",
-        "park charlyne yi",
-        "whistle"
+        "comment",
+        "favorit",
+        "favorit moment",
+        "hous",
+        "hous last",
+        "hous last night",
+        "last",
+        "last night",
+        "moment",
+        "night"
       ],
       "messages": [
         [
-          "HOUSE:  Park (Charlyne Yi, L) treats a colleague (guest star Jamie Elman, R) from Princeton-Plainsboro in the \"Post Mortem\" episode of HOUSE. Photos from \u201cPost Mortem\u201d (aired 5/7)",
-          1336584700
+          "Check out E! Online's list of House \"OMG!\" moments and comment below with some of your favorites. House's OMG Moments! - Photo Gallery - E! Online",
+          1339431132
         ],
         [
-          "HOUSE:   Adams (Odette Annable, L), Park (Charlyne Yi, second from L) and Taub (second from R) are challenged by House (Hugh Laurie, R) to diagnose their patient in the \"Blowing the Whistle\" Time Period Premiere episode of HOUSE. Photos from \u201cBlowing The Whistle\u201d (aired 4/1)",
-          1333554984
+          "'Like' this post if you watched House last night!",
+          1335900644
         ],
         [
-          "HOUSE:   Park (Charlyne Yi, L), Adams (Odette Annable, C) and House (Hugh Laurie, R) work to diagnose their patient in the \"Blowing the Whistle\" Time Period Premiere episode of HOUSE. Photos from \u201cBlowing The Whistle\u201d (aired 4/1)",
-          1333554983
+          "Last night's episode of House was intense! What were some of your favorite moments?",
+          1335279639
         ],
         [
-          "HOUSE:   Park (Charlyne Yi, L), Chase (Jesse Spencer, C) and Adams (Odette Annable, R) work to diagnose their patient in the \"Blowing the Whistle\" Time Period Premiere episode of HOUSE. Photos from \u201cBlowing The Whistle\u201d (aired 4/1)",
-          1333554983
+          "Share some of your favorite moments from last night\u2019s House in the comments below\u2026",
+          1334057426
         ],
         [
-          "HOUSE:  Wilson (Robert Sean Leonard, R) helps Park (Charlyne Yi, L) in the \"Love is Blind\" episode of HOUSE. Photos from \u201cLove Is Blind\u201d (aired 3/19)",
-          1332525221
+          "'Like' this status if you watched HOUSE last night!",
+          1332252087
         ],
         [
-          "HOUSE:  Will (guest star Michael B. Jordan, R) must break some tough news to his girlfriend (Margo Harshman, L) in the \"Love is Blind\" episode of HOUSE. Photos from \u201cLove Is Blind\u201d (aired 3/19)",
-          1332525220
+          "What were some of your favorite moments from last night's HOUSE?",
+          1329841879
         ],
         [
-          "HOUSE:  Diane Baker (R) and Billy Connolly (L) guest-star in the \"Love is Blind\" episode of HOUSE. Photos from \u201cLove Is Blind\u201d (aired 3/19)",
-          1332525220
+          "'Like' this status if you watched HOUSE last night, and share your favorite moments in the comments below.",
+          1329247907
         ],
         [
-          "HOUSE:  House (Hugh Laurie, R) and Park (Charlyne Yi, L) anticipate new information from the team in the \"Love is Blind\" episode of HOUSE. Photos from \u201cLove Is Blind\u201d (aired 3/19)",
-          1332525219
+          "Last night's HOUSE was one the most intense episodes yet. Share your thoughts about it in the comments below...",
+          1328631861
         ],
         [
-          "HOUSE:  Jeffrey Wright guest-stars in the \"Nobody's Fault\" episode of HOUSE. Photos from \u201cNobody\u2019s Fault\u201d (aired 2/6)",
-          1328729278
+          "Did you watch HOUSE last night? Share your favorite scene with us in the comments below.",
+          1328037898
+        ],
+        [
+          "What were some of your favorite moments from last night's episode of HOUSE?",
+          1327424543
         ]
       ],
-      "dates_start": 1330988110,
-      "dates_end": 1334807402,
-      "likes_avg": 195,
-      "likes_stdev": 116,
-      "comments_avg": 26,
-      "comments_stdev": 22,
-      "shares_avg": 13,
-      "shares_stdev": 13
-    },
-    {
-      "number": 29,
-      "important": [
-        "doctor",
-        "treat",
-        "hous chase",
-        "guest",
-        "guest star",
-        "adam",
-        "star",
-        "annabl",
-        "chase",
-        "adam odett"
-      ],
-      "common": [
-        "aired",
-        "annable",
-        "blind",
-        "episode",
-        "guest",
-        "guest star",
-        "house",
-        "odette",
-        "odette annable",
-        "star"
-      ],
-      "messages": [
-        [
-          "HOUSE:   Chase (Jesse Spencer, second from R) and Adams (Odette Annable, R) treat a young girl (guest star Rachel Eggleston, second from R) whose mother (guest star Jessica Collins, L) is a doctor and becomes deeply involved in the case in the \"The C-Word\" episode of HOUSE. Photos from \u201cThe C-Word\u201d (aired 4/30)",
-          1335985936
-        ],
-        [
-          "HOUSE: Chase (Jesse Spencer, L) and Adams (Odette Annable, R) treat their patient (guest star Kevin Christy, C) in the &quot;We Need the Eggs&quot; episode of HOUSE airing Monday, April 16 (9:00-10:00 PM ET/PT) on FOX.  &#xa9;2012 Fox Broadcasting Co. Cr:  Ray Mickshaw/FOX 1 Photos from \u201cWe Need The Eggs\u201d (aired 4/16)",
-          1334771834
-        ],
-        [
-          "HOUSE:  Adams (Odette Annable, R) examines a blind patient (guest star Michael B. Jordan, L) who is suffering from a mysterious illness in the \"Love is Blind\" episode of HOUSE. Photos from \u201cLove Is Blind\u201d (aired 3/19)",
-          1332525220
-        ],
-        [
-          "HOUSE:  Adams (Odette Annable, R) and Chase (Jesse Spencer, C) treat a blind patient (guest star Michael B. Jordan, L) who is suffering from a mysterious illness in the \"Love is Blind\" episode of HOUSE. Photos from \u201cLove Is Blind\u201d (aired 3/19)",
-          1332525219
-        ],
-        [
-          "HOUSE:  Adams (Odette Annable, L) and Chase (Jesse Spencer, R) treat a blind patient (guest star Michael B. Jordan, C) who is suffering from a mysterious illness in the \"Love is Blind\" episode of HOUSE. Photos from \u201cLove Is Blind\u201d (aired 3/19)",
-          1332525219
-        ],
-        [
-          "HOUSE:  Adams (Odette Annable, R) and Chase (Jesse Spencer, L) try to control a violent patient (guest star David Anders, C) in the \"Nobody's Fault\" episode of HOUSE. Photos from \u201cNobody\u2019s Fault\u201d (aired 2/6)",
-          1328729278
-        ],
-        [
-          "HOUSE:  Chase (Jesse Spencer, R) and Adams (Odette Annable, L) try to control a violent patient (guest star David Anders, C) in the \"Nobody's Fault\" episode of HOUSE. Photos from \u201cNobody\u2019s Fault\u201d (aired 2/6)",
-          1328729278
-        ]
-      ],
-      "dates_start": 1329711120,
-      "dates_end": 1334800875,
-      "likes_avg": 193,
-      "likes_stdev": 117,
-      "comments_avg": 42,
-      "comments_stdev": 38,
-      "shares_avg": 9,
-      "shares_stdev": 7
+      "dates_start": 1328193472,
+      "dates_end": 1335827531,
+      "likes_avg": 5487,
+      "likes_stdev": 4128,
+      "comments_avg": 709,
+      "comments_stdev": 453,
+      "shares_avg": 31,
+      "shares_stdev": 18
     }
   ]
 }

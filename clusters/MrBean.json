@@ -4,114 +4,39 @@
   "globalstats": {
     "fan_count": 68328052,
     "messages": 647,
-    "likes_avg": 93831,
-    "likes_stdev": 137968,
-    "comments_avg": 2129,
-    "comments_stdev": 3934,
-    "shares_avg": 8073,
-    "shares_stdev": 25631,
+    "likes_avg": 83746,
+    "likes_stdev": 131110,
+    "comments_avg": 1873,
+    "comments_stdev": 3794,
+    "shares_avg": 7589,
+    "shares_stdev": 26075,
     "graph_uri": "clusters/MrBean.png"
   },
   "clusters": [
     {
       "number": 1,
       "important": [
-        "day",
-        "youtub channel",
-        "clip",
-        "android",
-        "head",
-        "clip mr",
-        "youtub",
-        "full",
-        "watch",
-        "full video"
-      ],
-      "common": [
-        "channel",
-        "clip",
-        "full",
-        "full clip",
-        "master",
-        "watch",
-        "watch full",
-        "watch full clip",
-        "youtube",
-        "youtube channel"
-      ],
-      "messages": [
-        [
-          "Master of the controller!\n\nWatch the full clip - http://bit.ly/2jusZd5 Mr Bean - Master of the controller!",
-          1486389654
-        ],
-        [
-          "When the cake has your full attention...",
-          1484834700
-        ],
-        [
-          "Bad hair day? \n\nWatch the full clip - http://bit.ly/2hY2kop",
-          1484402700
-        ],
-        [
-          "When you\u2019re just not in the mood to work after the holidays\u2026 \n\nWatch the full clip here - http://bit.ly/2iCPNIR",
-          1483624800
-        ],
-        [
-          "Thinking outside of the box... \n\nHead to our YouTube channel to watch the full video (link in comments)",
-          1481464800
-        ],
-        [
-          "Trying to sneak around quietly late at night...\n\nHead to our YouTube channel to watch the full clip!",
-          1480255200
-        ],
-        [
-          "Bean working hard this week? Treat yourself!\n\nWatch the full clip on our Youtube channel - https://www.youtube.com/watch?v=jlMKG_MHFNo",
-          1479395100
-        ]
-      ],
-      "dates_start": 1480517833,
-      "dates_end": 1485301295,
-      "likes_avg": 137788,
-      "likes_stdev": 126312,
-      "comments_avg": 5873,
-      "comments_stdev": 7191,
-      "shares_avg": 49264,
-      "shares_stdev": 62987
-    },
-    {
-      "number": 2,
-      "important": [
-        "day",
-        "watch mr",
         "christma",
         "bean christma",
-        "favourit",
-        "mani",
-        "android",
-        "befor",
-        "last",
-        "vote"
+        "timelin",
+        "day"
       ],
       "common": [
         "bean",
-        "bean christmas",
-        "christmas",
-        "merry christmas",
+        "bean christma",
+        "christma",
+        "christma tree",
+        "day",
         "mr",
         "mr bean",
-        "mr bean christmas",
+        "mr bean christma",
         "quiz",
-        "quiz questions",
-        "www"
+        "timelin"
       ],
       "messages": [
         [
           "Merry Christmas!",
           1482677100
-        ],
-        [
-          "Twas the night before Christmas...",
-          1482588000
         ],
         [
           "How many days until Christmas?",
@@ -170,10 +95,6 @@
           1418986801
         ],
         [
-          "Before, or after?? Timeline Photos",
-          1413529200
-        ],
-        [
           "2 days until Christmas! Mr Bean has written a special Christmas poem for you! Timeline Photos",
           1387756801
         ],
@@ -182,39 +103,33 @@
           1356271231
         ]
       ],
-      "dates_start": 1412398314,
-      "dates_end": 1484808566,
-      "likes_avg": 158216,
-      "likes_stdev": 250448,
-      "comments_avg": 4846,
-      "comments_stdev": 9390,
-      "shares_avg": 34822,
-      "shares_stdev": 84916
+      "dates_start": 1412270877,
+      "dates_end": 1485064201,
+      "likes_avg": 108455,
+      "likes_stdev": 155710,
+      "comments_avg": 4408,
+      "comments_stdev": 9660,
+      "shares_avg": 34072,
+      "shares_stdev": 89742
     },
     {
-      "number": 3,
+      "number": 2,
       "important": [
-        "tv",
-        "ever",
-        "new",
-        "android",
-        "new year",
-        "year",
         "timelin",
-        "today",
-        "photo",
-        "happi"
+        "happi",
+        "new year",
+        "year"
       ],
       "common": [
         "bean",
-        "happy",
-        "happy chinese new year",
-        "happy new",
-        "happy new year",
+        "happi",
+        "happi new",
+        "happi new year",
         "mr",
         "mr bean",
         "new",
         "new year",
+        "timelin",
         "year"
       ],
       "messages": [
@@ -251,12 +166,20 @@
           1389195101
         ],
         [
+          "HAPPY NEW YEAR! Hope your New Year's Party was better than Mr Bean's? Timeline Photos",
+          1388534400
+        ],
+        [
           "Happy Chinese New Year!",
           1360522046
         ],
         [
           "Mr Bean Fans! Are you keeping to your New Year resolutions? Who else is trying to keep fit? Timeline Photos",
           1358423275
+        ],
+        [
+          "Mr Bean has been up to all sorts of mischief over the years but what\u2019s your favourite Mr Bean episode? Timeline Photos",
+          1336031228
         ],
         [
           "To everyone all over the world celebrating, Mr Bean wishes you a HAPPY NEW YEAR!",
@@ -271,46 +194,189 @@
           1325581255
         ]
       ],
-      "dates_start": 1343630971,
-      "dates_end": 1460276072,
-      "likes_avg": 198656,
-      "likes_stdev": 198908,
-      "comments_avg": 3743,
-      "comments_stdev": 3356,
-      "shares_avg": 23291,
-      "shares_stdev": 41792
+      "dates_start": 1339903832,
+      "dates_end": 1453424355,
+      "likes_avg": 221907,
+      "likes_stdev": 233962,
+      "comments_avg": 4402,
+      "comments_stdev": 4026,
+      "shares_avg": 24782,
+      "shares_stdev": 40837
+    },
+    {
+      "number": 3,
+      "important": [
+        "clip",
+        "holiday",
+        "watch mr",
+        "watch",
+        "movi"
+      ],
+      "common": [
+        "bean",
+        "clip",
+        "holiday",
+        "movi",
+        "mr",
+        "mr bean",
+        "timelin",
+        "watch",
+        "watch mr",
+        "watch mr bean"
+      ],
+      "messages": [
+        [
+          "Making that blockbuster hit \ud83c\udfa5 \n\nWatch our Bean at the Movies compilation - http://bit.ly/2m4DMNo Bean at the movies",
+          1488031236
+        ],
+        [
+          "Before you watch the Oscars at the weekend, take a look at Mr Bean's Guide to the Movies \ud83c\udfa5 \ud83c\udfac Mr Bean's Guide to the Movies",
+          1487858742
+        ],
+        [
+          "Master of the controller!\n\nWatch the full clip - http://bit.ly/2jusZd5 Mr Bean - Master of the controller!",
+          1486389654
+        ],
+        [
+          "Digging Deep? \n\nWatch more - http://bit.ly/2ig1W4s",
+          1485525885
+        ],
+        [
+          "When the cake has your full attention...",
+          1484834700
+        ],
+        [
+          "Bean dreaming of a Holiday? \n\nWatch more - http://bit.ly/2ikaDf4",
+          1484575500
+        ],
+        [
+          "Bad hair day? \n\nWatch the full clip - http://bit.ly/2hY2kop",
+          1484402700
+        ],
+        [
+          "As soon as you've survived one week, a new one starts!\n\nWatch full clip - http://bit.ly/2iLD5dc",
+          1483956000
+        ],
+        [
+          "When you\u2019re just not in the mood to work after the holidays\u2026 \n\nWatch the full clip here - http://bit.ly/2iCPNIR",
+          1483624800
+        ],
+        [
+          "Thinking outside of the box... \n\nHead to our YouTube channel to watch the full video (link in comments)",
+          1481464800
+        ],
+        [
+          "Trying to sneak around quietly late at night...\n\nHead to our YouTube channel to watch the full clip!",
+          1480255200
+        ],
+        [
+          "Bean working hard this week? Treat yourself!\n\nWatch the full clip on our Youtube channel - https://www.youtube.com/watch?v=jlMKG_MHFNo",
+          1479395100
+        ],
+        [
+          "HAPPY GEEK PRIDE DAY! Watch Mr Bean\u2019s geeky moments.\nhttps://youtu.be/6aK2CKrdjbE Mr Bean - Chemistry experiment Mr Bean plays around in a chemistry lab causing a big purple explosion. From Back to School Mr Bean. FOR MORE BEAN CLICK HERE: http://bit.ly/1rhPvax Stay tun...",
+          1464181200
+        ],
+        [
+          "Apparently Mr Bean will make you more focused at work! What a great excuse to watch some Mr Bean classic clips!\n\nhttp://uk.businessinsider.com/watch-a-funny-video-to-boost-your-productivity-at-work-2016-1?r=US&IR=T Scientists just gave workers a free pass to watch stupid cat videos at work Sometimes you need to recharge your mental batteries.",
+          1454338801
+        ],
+        [
+          "Happy Halloween! Are you as scared as Mr. Bean?\nhttps://www.youtube.com/watch?v=7U-J3NnHvJ4 Halloween with Mr Bean - Watching a horror movie Mr Bean watches a horror movie at the cinema but gets too scared. He has to block it out by wearing his popcorn bucket on his head. FOR MORE BEAN CLICK HERE:...",
+          1446303601
+        ],
+        [
+          "Are you in the holiday mood yet?  If not, maybe watching Mr. Bean stage a not-so-accurate nativity scene will help you!\n\nhttp://bit.ly/1uvSFHe Timeline Photos",
+          1419152400
+        ],
+        [
+          "Do you know what a Van Der Graaf Generator is? You probably do, and just didn\u2019t know it was called that! Watch Mr Bean play around with one at the Science Museum. Mr Bean & the Van Der Graaf Generator ! Mr Bean comes across a Van der Graaf Generator at a science museum. Inspired by live action episode 'Back to School Mr Bean' with Rowan Atkinson. From animat...",
+          1413788400
+        ],
+        [
+          "It\u2019s the Wimbledon Championship Finals this weekend! Will you be watching? Mr Bean is getting in the mood for it. Anyone fancy a game of kitchen tennis? Timeline Photos",
+          1404543601
+        ],
+        [
+          "Are you scared of heights? Watch Mr. Bean confront his fear in this classic clip!\nhttp://www.youtube.com/watch?v=hX0n-rYxrfs\n Mr Bean - Falling from high dive board Mr Bean is too scared to jump from the high dive board into the swimming pool. A boy stamps on his hands and makes him drop. From The Curse of Mr Bean. mr be...",
+          1396605602
+        ],
+        [
+          "How good are you at DIY? If you\u2019re painting your house, click the link to watch how Mr Bean got the job done!\nhttp://www.youtube.com/watch?v=0X1SuLjnRcI Timeline Photos",
+          1392127201
+        ],
+        [
+          "The Opening Ceremony for the Winter Olympics in Sochi, Russia is today! Will you be watching? Mr Bean has got his skis ready! Timeline Photos",
+          1391774400
+        ],
+        [
+          "Happy Halloween from The Mr Bean Team!!!\n\n http://www.youtube.com/watch?v=7U-J3NnHvJ4&list=PLC1EDzqtkrh_9C0Mmvbe3cukCcClJn04c Mr Bean - Watching a horror movie Mr Bean watches a horror movie at the cinema but gets too scared. He has to block it out by wearing his popcorn bucket on his head. ",
+          1383233797
+        ],
+        [
+          "Did you guess? Mr Bean has finished his scrap book page for his holiday to India! Timeline Photos",
+          1378364897
+        ],
+        [
+          "Where is Mr Bean on his holiday this week? Timeline Photos",
+          1378190506
+        ],
+        [
+          "Mr Bean is making a scrap book while on his Summer Holiday. Can you guess where he is now? Timeline Photos",
+          1376483425
+        ],
+        [
+          "Hello Everyone! Get in the mood for Halloween with some spooky Mr Bean clips! MrBean - Mr. Bean and the Horror Movie Mr. Bean and Irma are seeing a scary movie together. Bean is joking around at first but that changes...",
+          1351605230
+        ],
+        [
+          "Wow, it's hot hot hot where Mr Bean is this week but he still won't take is jacket off! What an amazing holiday he's having! Timeline Photos",
+          1344581995
+        ],
+        [
+          "Mr Bean is on his summer holidays but can you guess where he is this week?.... Timeline Photos",
+          1343373353
+        ],
+        [
+          "For those of you who have finished your studies for the summer, the Mr Bean team hope you have a wonderful long break!\n\nMr Bean\u2019s really looking forward to the summer holidays because he has decided to go on an adventure and do some travelling! Watch this space for updates on where he\u2019s been and what he\u2019s been up to...\n \nDo you have anything fun planned for the summer?",
+          1342787683
+        ],
+        [
+          "There\u2019s a whole new way to interact with your favourite Mr Bean characters at the new Kidsocial.com. Go visit Mr Bean, Teddy, Irma and the whole gang. Play Mr Bean games, watch Mr Bean videos and visit the Mr Bean virtual store while chatting and playing with your friends on Kidsocial! http://www.kidsocial.com/mrbean Timeline Photos",
+          1326445166
+        ]
+      ],
+      "dates_start": 1371942637,
+      "dates_end": 1482603733,
+      "likes_avg": 79089,
+      "likes_stdev": 88695,
+      "comments_avg": 2411,
+      "comments_stdev": 4044,
+      "shares_avg": 14718,
+      "shares_stdev": 36039
     },
     {
       "number": 4,
       "important": [
-        "full",
-        "let",
-        "day",
-        "final",
-        "android",
         "friend",
-        "think",
-        "share",
-        "first",
-        "one"
+        "timelin",
+        "today",
+        "day",
+        "happi"
       ],
       "common": [
         "bean",
+        "birthday",
+        "celebr",
         "day",
-        "fans",
         "friend",
+        "happi",
         "mr",
         "mr bean",
-        "new",
-        "one",
-        "think",
-        "www"
+        "timelin",
+        "today"
       ],
       "messages": [
-        [
-          "Finally, the one you've all been waiting for - Mr Bean's Guide to Fame! Let us know what you think in the comments below. Mr Bean's Guide to Fame",
-          1489073158
-        ],
         [
           "Deciding whether to share your umbrella \u2614 Rain!",
           1488895200
@@ -320,32 +386,24 @@
           1488808880
         ],
         [
-          "Having a bad day... Spin Cycle",
-          1487685601
+          "Happy Year of the Rooster! \u9e21\u5e74\u5feb\u4e50 Timeline Photos",
+          1485599402
         ],
         [
-          "First day on the job... (2 of 4)",
-          1485180000
+          "Happy National Hugging Day! Timeline Photos",
+          1485007201
         ],
         [
-          "As soon as you've survived one week, a new one starts!\n\nWatch full clip - http://bit.ly/2iLD5dc",
-          1483956000
-        ],
-        [
-          "That first day back after the holidays...",
-          1483437600
+          "Happy National Bean Day! Timeline Photos",
+          1483715575
         ],
         [
           "That one friend who doesn't share food...",
           1482156000
         ],
         [
-          "When you're sat next to that one person...",
-          1479909600
-        ],
-        [
-          "Reliving the weekend fun? Mr. Bean's Big Day Out! Enjoy a compilation of all of Mr. Bean's best days out! Everyone loves the sunshine, none more than Mr Bean! Stay tuned, click here: http://bit.ly/SubscribeT...",
-          1479736800
+          "Happy Thanksgiving to our American friends!",
+          1479996420
         ],
         [
           "When a good deed means you make a new friend... Mr Bean stars in: Goldfish Rescue!",
@@ -356,406 +414,122 @@
           1478441100
         ],
         [
-          "Only Mr Bean can save his fishy pal! Mr Bean Saves The Day! Mr. Bean's fishy friend is caught in a trap and it's up to Bean to save him!",
-          1476363809
+          "It\u2019s International Day of Happiness today! Spread the love by tagging your friends in this video of Mr. Bean\u2019s happiest moments and share happy thoughts with all your favourite people. #internationaldayofhappiness #beanhappy Mr. Bean's Happy Moments",
+          1458486001
+        ],
+        [
+          "Happy Valentine's Day!!!! Timeline Photos",
+          1455462001
+        ],
+        [
+          "Happy Birthday Mr Bean!! To celebrate his birthday today, here\u2019s some NEW and EXCLUSIVE footage of Mr Bean celebrating 25 years outside Buckingham Palace. #MrBean25\n\nhttps://www.youtube.com/watch?v=ehLPKYZyPyY Mr. Bean \u2013 25th Anniversary \u2013 Birthday Celebration Mr. Bean celebrates his 25th anniversary in style with a press conference outside Buckingham Palace. Stay tuned, click here: http://bit.ly/SubscribeToMrBean ...",
+          1442326260
+        ],
+        [
+          "Take a look at all the GREAT designs you \nhave sent us for the ultimate Mr Bean \nBirthday cake in our special BIRTHDAY \npicture album.Thank you to all the Mr Bean fans around the World. Mr Bean's Birthday Cake Gallery!",
+          1442238154
+        ],
+        [
+          "Who is feeling silly today? Mr Bean always is!\n\nhttps://www.youtube.com/watch?v=rUz_e7PQGOg Timeline Photos",
+          1439715602
         ],
         [
           "Look what our friends at Simon\u2019s Cat have sent us to celebrate International Cat Day today! Scrapper has met his match at last! Mr Bean will be pleased. Check out https://www.youtube.com/user/simonscat Timeline Photos",
           1439038801
         ],
         [
+          "Happy Birthday Teddy!!!! Timeline Photos",
+          1435755358
+        ],
+        [
+          "Happy International Geek Pride Day!!! Timeline Photos",
+          1432544401
+        ],
+        [
           "Check out these new official Mr. Bean tees from our friends TruffleShuffle.com http://bit.ly/1x8V7ER Timeline Photos",
           1416819600
         ],
         [
-          "Mr. Bean has had some crazy plans in the past. We think this one might be one of craziest! Can you think of any other silly things Mr. Bean has done?\n\nhttps://www.youtube.com/watch?v=dNn4YFvQLMI\n Mr. Bean - The Awkward Drive Home Stay tuned, click here: http://bit.ly/SubscribeToMrBean Share on Facebook: http://on.fb.me/P9JpWY Tweet this video: http://clicktotweet.com/sc_om Mr. Bean ge...",
-          1401098401
+          "...BOO! Happy Halloween!! Timeline Photos",
+          1414746001
         ],
         [
-          "Mr Bean can't be trusted in the National Gallery. He rearranges paintings and even tries to take a \u2018selfie\u2019 in front of a one! \n\nhttps://www.youtube.com/watch?v=rwDsy3JnPAY Timeline Photos",
-          1399284001
+          "It's Mr. Bean\u2019s Birthday TODAY!\n\nHappy Birthday Mr. Bean! Do you remember how Mr. Bean celebrated his birthday in the Live series? Click the link to watch and don\u2019t forget to leave Mr. Bean a happy birthday message!\nhttps://www.youtube.com/watch?v=nldsZmeajAc Timeline Photos",
+          1410757201
         ],
         [
-          "Happy World Book Day Mr Bean fans!",
-          1362665844
+          "It is Mr Bean's birthday today!! Thanks for all your brilliant comments. Timeline Photos",
+          1379228526
         ],
         [
-          "It's Valentine's day and Mr Bean loves his fans! There is an amazing 20% off on the Mr Bean store here - http://bit.ly/ZaDx5u Timeline Photos",
-          1360835413
+          "It is Mr Beans birthday on Sunday! What would you give him as a birthday gift?",
+          1378996755
         ],
         [
-          "It's Valentine's day and Mr Bean loves his fans - check out the 20% off discount at the Mr Bean store here  http://bit.ly/WmwouG Timeline Photos",
-          1360828217
+          "HAPPY BIRTHDAY TEDDY! Thanks to everybody who wrote a special message for Teddy on his birthday. Just a few of the thousands of birthday messages are here on this special card. Timeline Photos",
+          1372747838
         ],
         [
-          "The big day has finally arrived! It's Mr Bean's birthday everyone! How do you think he should celebrate?",
-          1347687537
+          "Did you know today is the first ever International day of Happiness? The Mr Bean team wish you lots of happiness! Timeline Photos",
+          1363790691
         ],
         [
-          "The big day has finally arrived, and as always Teddy seems to know more than Mr Bean! Don\u2019t forget to send Mr Bean your best wishes\u2026..",
-          1347683507
+          "Mr Bean would like to thank all of his fans for making his birthday so special. He had an extremely wonderful day and absolutely loved his birthday card! Here are just some of the special birthday wishes he received... Timeline Photos",
+          1347872290
         ],
         [
-          "Mr Bean is getting awfully confused by the recent weather at home in Highbury. One day rain, the next day sun. It is positively mind boggling! What\u2019s the weather like where you are? Timeline Photos",
-          1334575215
+          "Calling all Mr Bean fans! Something extremely exciting is happening on Saturday! It\u2019s Mr Bean\u2019s birthday!! Make sure you don\u2019t forget to sign his birthday card by leaving your comment before the big day. Don\u2019t tell him though \u2013 it\u2019s a surprise! Timeline Photos",
+          1347355228
         ],
         [
-          "Happy Valentine\u2019s Day everyone! Here is a poem from Mr Bean to you. Why not show your love by writing one to him. The Beaniest poem of all will be announced at the end of the week. Good luck! Timeline Photos",
-          1329210060
+          "Happy St. George\u2019s Day to everyone celebrating! Did you know it\u2019s also Shakespeare\u2019s birthday today?! Timeline Photos",
+          1335167591
         ],
         [
-          "Spreadshirt have just released a fantastic new range of t-shirts for real Mr Bean fans.  If you can\u2019t find one you like then you can design your own and choose the colour, design, style and size that suits you.  Which one is your favourite? http://www.mrbean.spreadshirt.co.uk\n Mr Bean UK",
-          1327400088
+          "It\u2019s the British Queen\u2019s birthday tomorrow but did you know she has two birthdays and so will be celebrating again for her official one in June? That means twice as much birthday cake! Yum!! Timeline Photos",
+          1334921672
+        ],
+        [
+          "Mr Bean wishes you a happy Independence Day Mauritius!! Timeline Photos",
+          1331542574
+        ],
+        [
+          "To all of our friends in India and everywhere else who are celebrating today, Mr Bean wishes you a very happy Holi! Timeline Photos",
+          1331197907
+        ],
+        [
+          "To all of our friends in India and everywhere else across the globe who are celebrating today, Mr Bean wishes you a happy Maha Shivaratri!",
+          1329728640
         ]
       ],
-      "dates_start": 1366243422,
-      "dates_end": 1490521411,
-      "likes_avg": 73866,
-      "likes_stdev": 83686,
-      "comments_avg": 4070,
-      "comments_stdev": 6930,
-      "shares_avg": 21883,
-      "shares_stdev": 46983
+      "dates_start": 1362608799,
+      "dates_end": 1475574998,
+      "likes_avg": 144787,
+      "likes_stdev": 203330,
+      "comments_avg": 5234,
+      "comments_stdev": 7413,
+      "shares_avg": 12204,
+      "shares_stdev": 27414
     },
     {
       "number": 5,
       "important": [
-        "readi",
-        "ever",
-        "weekend",
-        "teddi",
-        "android",
-        "moment",
-        "shop",
-        "go"
-      ],
-      "common": [
-        "bean",
-        "bean spookiest ever",
-        "mr",
-        "mr bean",
-        "ready",
-        "spookiest ever",
-        "spookiest ever moments",
-        "www",
-        "www youtube",
-        "youtube"
-      ],
-      "messages": [
-        [
-          "Elbows at the ready...",
-          1483266600
-        ],
-        [
-          "Get ready for Mr Bean's spookiest ever moments! www.youtube.com",
-          1477728300
-        ],
-        [
-          "Get ready for the weekend with Mr Bean! gph.is",
-          1469194452
-        ],
-        [
-          "Mr Bean is ready to do some shopping but beware - Teddy Thieves are on the loose! www.youtube.com",
-          1466258402
-        ],
-        [
-          "Ready steady go!!! #mrbean25 Mobile Uploads",
-          1441349830
-        ]
-      ],
-      "dates_start": 1453127398,
-      "dates_end": 1481991635,
-      "likes_avg": 190216,
-      "likes_stdev": 209588,
-      "comments_avg": 2407,
-      "comments_stdev": 2493,
-      "shares_avg": 20929,
-      "shares_stdev": 31694
-    },
-    {
-      "number": 6,
-      "important": [
-        "let",
-        "love",
-        "weekend",
-        "draw",
-        "car",
-        "android",
-        "offici",
-        "way",
-        "think",
-        "first"
-      ],
-      "common": [
-        "bean",
-        "drawing",
-        "drawing mr",
-        "drawing mr bean",
-        "love",
-        "mr",
-        "mr bean",
-        "sent",
-        "share",
-        "weekend"
-      ],
-      "messages": [
-        [
-          "Which way is the weekend? Mr Bean - Directions",
-          1489672801
-        ],
-        [
-          "Even the Queen loves a Sunday afternoon sing-along \ud83c\udfb6\n\nRound off the weekend with our car chase compilation - http://bit.ly/2nn4jFL The Queen's Sunday Sing-along",
-          1489327249
-        ],
-        [
-          "Weekend shenanigans \ud83c\udfa2 Rollercoaster",
-          1488636030
-        ],
-        [
-          "Join us for our first official viewing of Mr Bean's Guide to Love \u2764\ufe0f\ufe0f - let us know what you think in the comments below! Mr Bean's Guide to Love",
-          1487080832
-        ],
-        [
-          "We have LOVED #BeanChristmas so far. Have you?",
-          1480946640
-        ],
-        [
-          "Look at this brand new, AMAZING drawing of Mr Bean sent in by a fan. It\u2019s so realistic! Has anyone done a Christmas drawing of Mr Bean? We\u2019d love to see it so share it on this post! Timeline Photos",
-          1449241201
-        ],
-        [
-          "Look at this BRILLIANT Mr Bean drawing sent in by one of Mr Bean's younger fans from the UK!! Make sure you share your Mr Bean drawings, we love seeing them. Timeline Photos",
-          1448118004
-        ],
-        [
-          "Look at this GREAT picture of Mr Bean sent in by a fan from Punjab, India! If you like drawing Mr Bean share your pictures, we\u2019d love to see them. Timeline Photos",
-          1447426801
-        ],
-        [
-          "Look at this AMAZING portrait of Mr. Bean sent in by a fan! If you like drawing Mr. Bean share your pictures, we\u2019d love to see them. Timeline Photos",
-          1445605201
-        ],
-        [
-          "Mr Bean loves a Sales bargain! Timeline Photos",
-          1421319600
-        ],
-        [
-          "What is your perfect lunch? Mr Bean loves a good sandwich.\nhttp://www.youtube.com/watch?v=jtqpuYvOfHY Timeline Photos",
-          1395316801
-        ],
-        [
-          "Mr Bean loves the Christmas sales. Do you remember how he got to the front of the line? Click the link to find out! http://www.youtube.com/watch?v=6iZeux3C_QY Timeline Photos",
-          1389438000
-        ],
-        [
-          "Did you catch Mr Bean at the Olympics opening ceremony at the weekend? Isn\u2019t he still so funny?! We love Mr Bean!!!!",
-          1343633636
-        ]
-      ],
-      "dates_start": 1400133704,
-      "dates_end": 1488445187,
-      "likes_avg": 171154,
-      "likes_stdev": 161783,
-      "comments_avg": 3623,
-      "comments_stdev": 6844,
-      "shares_avg": 18751,
-      "shares_stdev": 48115
-    },
-    {
-      "number": 7,
-      "important": [
-        "better",
-        "android",
-        "time",
-        "timelin",
-        "london",
-        "photo",
-        "last",
-        "bean timelin",
-        "hope",
-        "veri"
-      ],
-      "common": [
-        "bean",
-        "bean www",
-        "bean www youtube",
-        "bean www youtube watch",
-        "mr",
-        "mr bean",
-        "mr bean www youtube",
-        "mr bean www youtube watch",
-        "www youtube",
-        "www youtube watch"
-      ],
-      "messages": [
-        [
-          "Who has been to London and seen the Queen\u2019s Guard? Mr. Bean has!\n\nhttps://www.youtube.com/watch?v=_tlKMZ-tDXE Timeline Photos",
-          1440504001
-        ],
-        [
-          "Have a very funny lunchtime with Mr. Bean!\n\nhttps://www.youtube.com/watch?v=jtqpuYvOfHY Timeline Photos",
-          1439370001
-        ],
-        [
-          "When was the last time you went to a museum? We hope you behaved a little better than Mr Bean!\n\nhttps://www.youtube.com/watch?v=ddPUqi67_PA Timeline Photos",
-          1431349201
-        ],
-        [
-          "Do you love scary movies as much as Mr. Bean? \n\nhttp://bit.ly/1M9dEJ5 Timeline Photos",
-          1427792401
-        ],
-        [
-          "Happy Valentine\u2019s Day everyone! Don\u2019t avoid your kiss like Mr Bean did.\n\nhttp://bit.ly/1z52kta Timeline Photos",
-          1423911600
-        ],
-        [
-          "It's have a party with your bear day today!! Will you be celebrating like Mr Bean? Timeline Photos",
-          1416128401
-        ],
-        [
-          "It's Friday!! Are you as excited to get home as Mr. Bean? Timeline Photos",
-          1415955600
-        ],
-        [
-          "Love is in the air for Mr Bean\u2019s girlfriend Irma, but will she get he kiss from Mr Bean?\n\nhttps://www.youtube.com/watch?v=0bt7nXbPegc Timeline Photos",
-          1410246001
-        ],
-        [
-          "Sometimes we just need a little bit of help to wake up.  Thank you Mr Bean!! Timeline Photos",
-          1410123900
-        ],
-        [
-          "It's that time of year again!!  Time for a new pencil case, books and timetable.  Back to school just got cool with Mr. Bean! Timeline Photos",
-          1409690700
-        ],
-        [
-          "HAPPY NEW YEAR! Hope your New Year's Party was better than Mr Bean's? Timeline Photos",
-          1388534400
-        ],
-        [
-          "WOW, we've hit 50 million likes!!! To celebrate here are a few facts you may or may not know about Mr Bean... Timeline Photos",
-          1387272791
-        ],
-        [
-          "Happy Eid from Mr. Bean! Timeline Photos",
-          1351243836
-        ],
-        [
-          "What do you think Teddy is whispering to Mr Bean? Timeline Photos",
-          1339142555
-        ]
-      ],
-      "dates_start": 1377104559,
-      "dates_end": 1435933353,
-      "likes_avg": 282160,
-      "likes_stdev": 288955,
-      "comments_avg": 4212,
-      "comments_stdev": 4279,
-      "shares_avg": 14426,
-      "shares_stdev": 20832
-    },
-    {
-      "number": 8,
-      "important": [
-        "favourit",
-        "mr bean goe",
-        "london",
-        "check back",
-        "android",
-        "befor",
-        "goe",
-        "make",
-        "bean goe",
-        "back"
-      ],
-      "common": [
-        "back",
-        "bean",
-        "check",
-        "check back",
-        "find",
-        "gets",
-        "mr",
-        "mr bean",
-        "teddy",
-        "tomorrow"
-      ],
-      "messages": [
-        [
-          "Mr Bean gets his own back on some noisy neighbours! Mr Bean - Gets Revenge Mr Bean has had enough of his noisy neighbours and decides to get them back!",
-          1475161200
-        ],
-        [
-          "Mr. Bean\u2019s gone back to school and chemistry is his favourite subject! Mr. Bean goes back to school!",
-          1473771600
-        ],
-        [
-          "Mr. Bean meets a bully but gets his own back! www.youtube.com",
-          1466845200
-        ],
-        [
-          "1 day to go...until Mr Bean makes a special appearance in LONDON! \n \nAs Mr Bean\u2019s most loyal fans we\u2019ll be making sure you get some sneak peaks before everyone else so check back tomorrow to find out what he\u2019s up to! #MrBean25 Timeline Photos",
-          1441285201
-        ],
-        [
-          "4 days to go...until the special Mr Bean event! What do you think it will be? Check back here and be the first to find out. #MrBean25 Timeline Photos",
-          1441011601
-        ],
-        [
-          "After a long flight, Mr Bean has arrived and Teddy has gone off exploring without him! \n\nWhere are they and where is Teddy? Check back for answers tomorrow. Timeline Photos",
-          1438261201
-        ],
-        [
-          "It\u2019s time for Mr Bean and Teddy\u2019s Summer Holiday!!! They are going AROUND THE WORLD!\n\nCan you guess where they are and find Teddy? Mr Bean seems to have lost him...\n\nCheck back for the answers tomorrow. Timeline Photos",
-          1437051602
-        ],
-        [
-          "Mr Bean and Teddy are on holiday! They want to take photos of all their favourite landmarks but Mr Bean is rubbish at selfies. Can you work out where they are? Check back in tomorrow for the answer! Timeline Photos",
-          1406728125
-        ],
-        [
-          "Phew! Mr Bean has just made his flight in time! He is very confused as everyone on the plane is wearing a football shirt. Why would you want to wear a football shirt on the beach? Check back soon to see if Mr Bean figures it out. Timeline Photos",
-          1402210800
-        ],
-        [
-          "What has Mr Bean bought Teddy for Christmas?\r\n(Check back soon for the answer) Timeline Photos",
-          1386862202
-        ]
-      ],
-      "dates_start": 1407978208,
-      "dates_end": 1465859537,
-      "likes_avg": 82068,
-      "likes_stdev": 79365,
-      "comments_avg": 1835,
-      "comments_stdev": 2759,
-      "shares_avg": 13697,
-      "shares_stdev": 36988
-    },
-    {
-      "number": 9,
-      "important": [
-        "make",
-        "new",
-        "weekend",
-        "enjoy",
-        "android",
-        "timelin",
-        "photo",
-        "friday",
         "happi",
+        "timelin",
+        "friday",
         "fun"
       ],
       "common": [
         "bean",
-        "feeling",
         "friday",
-        "friday feeling",
-        "friday fun",
-        "happy",
-        "happy friday",
+        "friday timelin",
+        "fun",
+        "happi",
+        "happi friday",
+        "happi friday timelin",
         "mr",
         "mr bean",
-        "weekend"
+        "timelin"
       ],
       "messages": [
         [
@@ -813,125 +587,26 @@
       "shares_stdev": 9115
     },
     {
-      "number": 10,
+      "number": 6,
       "important": [
-        "day",
-        "android",
-        "year",
-        "friend",
-        "moment",
-        "today",
+        "team",
         "timelin",
-        "share",
-        "photo",
-        "happi"
-      ],
-      "common": [
-        "bean",
-        "bean wishes",
-        "day",
-        "friends",
-        "happiness",
-        "happy",
-        "mr",
-        "mr bean",
-        "mr bean wishes happy",
-        "today"
-      ],
-      "messages": [
-        [
-          "Happy Year of the Rooster! \u9e21\u5e74\u5feb\u4e50 Timeline Photos",
-          1485599402
-        ],
-        [
-          "Happy National Hugging Day! Timeline Photos",
-          1485007201
-        ],
-        [
-          "Happy National Bean Day! Timeline Photos",
-          1483715575
-        ],
-        [
-          "Happy Thanksgiving to our American friends!",
-          1479996420
-        ],
-        [
-          "It\u2019s International Day of Happiness today! Spread the love by tagging your friends in this video of Mr. Bean\u2019s happiest moments and share happy thoughts with all your favourite people. #internationaldayofhappiness #beanhappy Mr. Bean's Happy Moments",
-          1458486001
-        ],
-        [
-          "Happy Valentine's Day!!!! Timeline Photos",
-          1455462001
-        ],
-        [
-          "Happy International Geek Pride Day!!! Timeline Photos",
-          1432544401
-        ],
-        [
-          "...BOO! Happy Halloween!! Timeline Photos",
-          1414746001
-        ],
-        [
-          "Did you know today is the first ever International day of Happiness? The Mr Bean team wish you lots of happiness! Timeline Photos",
-          1363790691
-        ],
-        [
-          "Mr Bean wishes you a happy Independence Day Mauritius!! Timeline Photos",
-          1331542574
-        ],
-        [
-          "To all of our friends in India and everywhere else who are celebrating today, Mr Bean wishes you a very happy Holi! Timeline Photos",
-          1331197907
-        ],
-        [
-          "To all of our friends in India and everywhere else across the globe who are celebrating today, Mr Bean wishes you a happy Maha Shivaratri!",
-          1329728640
-        ]
-      ],
-      "dates_start": 1358990479,
-      "dates_end": 1482978989,
-      "likes_avg": 158420,
-      "likes_stdev": 162565,
-      "comments_avg": 2594,
-      "comments_stdev": 2169,
-      "shares_avg": 11070,
-      "shares_stdev": 13125
-    },
-    {
-      "number": 11,
-      "important": [
-        "mr bean team",
-        "world",
-        "excit",
-        "android",
-        "good",
         "bean team",
-        "timelin",
-        "photo",
-        "right",
-        "team"
+        "mr bean team"
       ],
       "common": [
         "bean",
         "bean team",
-        "block",
-        "everyone",
-        "facebook",
-        "happy",
+        "bean team timelin",
         "mr",
         "mr bean",
         "mr bean team",
-        "team"
+        "mr bean team timelin",
+        "team",
+        "team timelin",
+        "timelin"
       ],
       "messages": [
-        [
-          "Mr. Bean is excited to team up with Nerd Block for their British invasion block! Get a hand-picked, mystery box of items, delivered right to your door! A $60 value for just $19.99.\r\n\r\nUse MRBEAN15 to save 15% on your order! Mr. Bean team's up with Nerd Block! Nerd Block is a monthly package delivered right to your door filled with nerdy apparel, toys and collectables! A $60 value for $19.99.",
-          1433776487
-        ],
-        [
-          "Good Luck to all teams competing in the 2014 Brazilian Football World Cup! Which team are you supporting? Timeline Photos",
-          1402570801
-        ],
         [
           "Happy St Patrick's Day from The Mr Bean Team!! Timeline Photos",
           1395067736
@@ -973,800 +648,123 @@
           1337694361
         ]
       ],
-      "dates_start": 1345223254,
-      "dates_end": 1400184940,
-      "likes_avg": 128904,
-      "likes_stdev": 110743,
-      "comments_avg": 4043,
-      "comments_stdev": 4637,
-      "shares_avg": 10096,
-      "shares_stdev": 9332
+      "dates_start": 1344600948,
+      "dates_end": 1382619428,
+      "likes_avg": 118711,
+      "likes_stdev": 98746,
+      "comments_avg": 3051,
+      "comments_stdev": 2176,
+      "shares_avg": 9646,
+      "shares_stdev": 8655
     },
     {
-      "number": 12,
+      "number": 7,
       "important": [
-        "would",
-        "come",
-        "rowan",
-        "ani",
-        "android",
-        "way",
-        "next",
-        "drive",
-        "rowan atkinson",
-        "atkinson"
-      ],
-      "common": [
-        "25",
-        "25th",
-        "25th anniversary",
-        "anniversary",
-        "atkinson",
-        "bean",
-        "mr",
-        "mr bean",
-        "rowan",
-        "rowan atkinson"
-      ],
-      "messages": [
-        [
-          "Running late!\n\nP.S. Drive safe \ud83d\ude97",
-          1485770700
-        ],
-        [
-          "Is Mr. Bean our next football superstar? FIFA 16 | El golazo de MR. Bean en el FIFA Un aficionado ha generado un doble id\u00e9ntico del famoso personaje protagonizado por Rowan Atkinson. \u00a1Hasta ha clavado su baile! Disfruta de la mejor actualida...",
-          1472821234
-        ],
-        [
-          "Rowan Atkinson officially says he will never wave goodbye to Mr Bean! Check out the Radio Times article below. \n\nhttp://www.radiotimes.com/news/2016-03-21/rowan-atkinson-i-will-never-wave-goodbye-to-mr-bean Rowan Atkinson: I will never wave goodbye to Mr Bean The Bean and Blackadder actor says he would never retire any of his comic characters, even when more \"serious\" roles come his way",
-          1458658801
-        ],
-        [
-          "Check out The Metro's countdown of the 7 top Mr Bean moments to celebrate 25 years!\n\nhttp://metro.co.uk/2015/09/15/as-mr-bean-celebrates-his-25th-anniversary-here-are-seven-of-the-characters-most-memorable-moments-5388768/ Mr Bean's 25 - and to celebrate here are his best bits Yes, driving on the car roof is among them.",
-          1442397990
-        ],
-        [
-          "We are celebrating 25 years of Mr Bean TODAY! In celebration, here are numbers 5 to 1 from our Top 25 Mr Bean Moments Countdown. Which moment got the #1 spot?! #MrBean25\n\nhttp://bit.ly/1NPkhjd bit.ly",
-          1442307840
-        ],
-        [
-          "Incase you missed it last week, here's The OFFICIAL video of Mr Bean celebrating 25 years in true Bean style!! #MrBean25\n\nhttps://www.youtube.com/watch?v=F1DanTAZKEI Mr. Bean - 25th Anniversary - Mr Bean Drives His Mini Again! Stay tuned, click here: http://bit.ly/SubscribeToMrBean To celebrate Mr Beans 25th anniversary Rowan Atkinson, drives around through the parks and landmarks ...",
-          1441720302
-        ],
-        [
-          "Check out this great article from The Telegraph of Mr Bean celebrating 25 years! Including a special interview with Mr Bean himself! #MrBean25\n\nhttp://www.telegraph.co.uk/news/newstopics/howaboutthat/11846352/Mr-Bean-tours-London-landmarks-to-celebrate-25-years.html Mr Bean tours London landmarks to celebrate 25 years British comedy icon Mr Bean, played by Rowan Atkinson, celebrated 25 years of antics this week by touring famous London landmarks",
-          1441637472
-        ],
-        [
-          "We\u2019re very close to celebrating 25 years of Mr Bean! We\u2019re counting down his 25 to 1 top moments on our YouTube channel.  Here are moments 10-6  (make sure you check out the rest!) #MrBean25\n\nhttps://www.youtube.com/watch?v=YbTfvfBhw0o Timeline Photos",
-          1441551601
-        ],
-        [
-          "Here it is! The OFFICIAL video of Mr Bean celebrating 25 years with a drive to Buckingham Palace!! #MrBean25\n\nhttps://www.youtube.com/watch?v=F1DanTAZKEI Mr. Bean - 25th Anniversary - Mr Bean Drives His Mini Again! Stay tuned, click here: http://bit.ly/SubscribeToMrBean To celebrate Mr Beans 25th anniversary Rowan Atkinson, drives around through the parks and landmarks ...",
-          1441448516
-        ],
-        [
-          "A wonderful article from ITV News!! #MrBean25\nhttp://www.itv.com/news/2015-09-04/mr-bean-takes-his-mini-for-a-royal-spin-for-his-25th-anniversary/ Mr Bean takes his mini for a royal spin for his 25th anniversary Rowan Atkinson slipped back into character for the 25th anniversary of Mr Bean. Atkinson, now 60, took his iconic car, a 1976 British Leyland Mini 1000, for a spin outside Buckingham Palace.",
-          1441373599
-        ],
-        [
-          "A great article from The Daily Mail, celebrating 25 year of Mr Bean!! #MrBean25\n\nhttp://www.dailymail.co.uk/tvshowbiz/article-3222270/Mr-Bean-enjoys-spin-outside-Buckingham-Palace-atop-iconic-lime-green-Mini-sitcom-celebrates-25th-anniversary.html Mr Bean heads to Buckingham Palace atop his iconic lime green Mini In scenes reminiscent of the episode Do-It-Yourself Mr Bean, Atkinson lapped up the sights from the comfort of the armchair strapped to the top of his car as it whizzed by the iconic London landmark.",
-          1441366206
-        ],
-        [
-          "Don\u2019t you hate it when this happens?\n\nhttps://www.youtube.com/watch?v=7ve9KhI8S80 Mr. Bean - Stone in Shoe Mr Bean gets a stone in his shoe. When he takes it off to get rid of the stone he puts his shoe on top of a car that drives off so he has to hop around to ge...",
-          1431075602
-        ],
-        [
-          "BEHIND THE BEANS! In case you missed it last time, the sneak peek of Rowan Atkinson recording the voice of Animated Mr Bean is now on the official Mr Bean Youtube Channel. Check it out!!\n\nhttps://www.youtube.com/watch?v=oaXljjsaJLM",
-          1429619218
-        ],
-        [
-          "Want to learn more about Mr. Bean? Check out these 2 GREAT articles in the LA Times and the New York Times with an exclusive interview from the man behind Bean, Rowan Atkinson.\n\nhttp://lat.ms/1CBa7OI\nhttp://nyti.ms/1NDNSuA Rowan Atkinson talks up 25 years of Mr. Bean's clownish chaos It has been 25 years since Rowan Atkinson, CBE, brought the quietly calamitous \"Mr. Bean\" to television, an anniversary that has been celebrated with \"The Whole Bean: Remastered,\" a video collection released this week by Shout! Factory.",
-          1428397201
-        ],
-        [
-          "Want to know 25 facts and figures about Mr. Bean? Check out this great article by Radio Times celebrating Mr. Bean\u2019s 25th Anniversary, with more EXCLUSIVE clips from the new Animated Series now launched in the UK and Germany!!\n\nhttp://www.radiotimes.com/news/2015-02-15/mr-bean-25-facts-and-figures-for-his-25th-anniversary Mr Bean: 25 facts and figures for his 25th anniversary A quarter of century after he first appeared on TV, Rowan Atkinson's comedy character has accomplished world domination - and is still going strong...",
-          1425295800
-        ],
-        [
-          "Who\u2019s driving that bumper car?! The answer will surprise you! Watch here to find out. Mr. Bean - Bumper Car Fun Mr. Bean is at a fun fair with a baby and he wants to ride the bumper cars. Unfortunately he ends up in trouble by losing the baby! FOR MORE BEAN CLICK HERE:...",
-          1416996001
-        ]
-      ],
-      "dates_start": 1425881528,
-      "dates_end": 1459423231,
-      "likes_avg": 77810,
-      "likes_stdev": 61561,
-      "comments_avg": 1249,
-      "comments_stdev": 2057,
-      "shares_avg": 7688,
-      "shares_stdev": 18364
-    },
-    {
-      "number": 13,
-      "important": [
-        "week",
-        "home",
-        "thank",
-        "android",
-        "good",
-        "sure",
-        "got",
         "timelin",
-        "photo",
-        "make"
+        "bean timelin",
+        "look",
+        "like mr",
+        "like"
       ],
       "common": [
         "bean",
+        "bean timelin",
+        "like",
+        "like mr",
+        "like mr bean",
+        "look",
         "mr",
         "mr bean",
-        "think",
-        "watch",
-        "www",
-        "www youtube",
-        "www youtube watch",
-        "youtube",
-        "youtube watch"
+        "mr bean timelin",
+        "timelin"
       ],
       "messages": [
-        [
-          "When it's just SO good to be home \ud83c\udfe0\n\nSay goodbye to February with our rainy Bean compilation - http://bit.ly/2lq48sE SO good to be home",
-          1488204304
-        ],
-        [
-          "Making a bit of extra effort for your Saturday morning fry-up? Mr Bean - Saturday morning fry-up",
-          1486821632
-        ],
-        [
-          "Up to no good... Mr Bean - Up to no good",
-          1486562517
-        ],
-        [
-          "Making the most of what you've got... (4 of 4)",
-          1485353060
-        ],
-        [
-          "Making headlines thanks to you! Timeline Photos",
-          1481032801
-        ],
-        [
-          "Make sure you have enough clean underpants for the week!",
-          1479135600
-        ],
         [
           "We liked the new look, Mr Bean! gph.is",
           1475240400
-        ],
-        [
-          "Mr Bean solves the mystery of the strange animal! Mr Bean - Strange Pink Animal Mr Bean hunts down the strange pink animal!",
-          1468588341
-        ],
-        [
-          "Mr. Bean's sweet treat causes him pain! Mr Bean - Broken Tooth Mr Bean hurts his tooth but it's too late for the dentist! How will he make it through the night?!",
-          1466089206
-        ],
-        [
-          "Having sleeping troubles? Let Mr. Bean show you how to best count sheep. \nhttps://www.youtube.com/watch?v=2HGXTMoGWGA www.youtube.com",
-          1463058000
-        ],
-        [
-          "A BIG thank you for helping Mr Bean reach the Radio Times Kids Champion 2015 Semi-Finals. It was a really close race and Mr Bean didn\u2019t quite make it to the Finals this time, but there\u2019s always next year! Timeline Photos",
-          1448895264
-        ],
-        [
-          "Some of you weren't sure whether Mr Bean was better than Thomas the Tank Engine but he won with 74% of the vote! Now what do you think about MR BEAN vs BEN 10 in round 3? Surely Bean\u2019s got to win. Keep voting over the weekend and we will prove that BEAN IS BEST!\n\nVote here:\nhttp://www.radiotimes.com/kidsshowchampion Timeline Photos",
-          1448636179
-        ],
-        [
-          "What sort of face do you think Mr Bean should carve on his pumpkin? Happy Halloween!! Timeline Photos",
-          1446285601
-        ],
-        [
-          "Amazing News Mr Bean Fans! The new Animated Series has been nominated for a BAFTA Award!! The BAFTA\u2019s are really important in the UK so wish us luck for the 22nd November when the winner will be announced! Timeline Photos",
-          1445505386
-        ],
-        [
-          "We've reached over 2 MILLION subscribers on the official Mr Bean youtube channel! Here's a special thank you to all you Mr Bean fans!\n\nhttps://www.youtube.com/watch?v=6miXGQlLZBs A Special Message From Mr. Bean - Thank you! A big thank you from everyone at Mr. Bean for watching and subscribing to our channel! We can't believe we have passed 2 million subscribers and we're comple...",
-          1442926800
         ],
         [
           "Share this if you hate getting a stone in your shoe like Mr. Bean!\n\nhttp://bit.ly/1LvDuJ8 bit.ly",
           1442048400
         ],
         [
-          "We told you it would be good!! Mr Bean celebrating 25 glorious years at Buckingham Palace!! Where else!! #Mrbean25 Mobile Uploads",
-          1441353336
+          "Who has been to London and seen the Queen\u2019s Guard? Mr. Bean has!\n\nhttps://www.youtube.com/watch?v=_tlKMZ-tDXE Timeline Photos",
+          1440504001
         ],
         [
-          "2 days to go...we\u2019re not sure we can contain our excitement much longer! #MrBean25 Timeline Photos",
-          1441195200
+          "Have a very funny lunchtime with Mr. Bean!\n\nhttps://www.youtube.com/watch?v=jtqpuYvOfHY Timeline Photos",
+          1439370001
         ],
         [
-          "To celebrate 25 years of Mr Bean, he is making a special appearance IN PERSON this Friday! We can\u2019t wait to tell you more (when he lets us!) but for now, shhhhhh\u2026 it\u2019s a secret. 5 days to go! #MrBean25 Timeline Photos",
-          1440925201
-        ],
-        [
-          "Why not do some DIY this week! Here are some top tips from Mr. Bean\n\nhttps://www.youtube.com/playlist?list=PLC1EDzqtkrh_PDmfUkH2OhnU_XLnVsItA DIY Bean Mr. Bean sure is good at doing things by himself! He might not be the best, but at least he tries right? Right?",
-          1438682574
-        ],
-        [
-          "Do you find arriving at a hotel confusing? If you don\u2019t know what we mean, let Mr. Bean show you by watching this clip!\n\nhttps://www.youtube.com/watch?v=Xkz5PSphxQ4 Timeline Photos",
-          1433325946
-        ],
-        [
-          "Good luck to anyone with an exam soon! Timeline Photos",
-          1431693001
-        ],
-        [
-          "The UK has a late entry for the 2015 General Election tomorrow. Would you vote for him? Timeline Photos",
-          1430922481
-        ],
-        [
-          "Would you ever trust Mr. Bean to babysit? \nhttp://bit.ly/1BSnZAm Timeline Photos",
-          1429088401
-        ],
-        [
-          "A mime artist is getting on Mr Bean\u2019s nerves. Will he let the annoying intruder stay in his house?\n\nhttp://bit.ly/1waOSwV Timeline Photos",
-          1425114002
-        ],
-        [
-          "It\u2019s the Oscars tonight but Mr. Bean has arrived very early! If he was nominated for a category, which one do you think it would be? Timeline Photos",
-          1424602801
-        ],
-        [
-          "Happy Friday Mr Bean fans! We have a really exciting treat for you. To celebrate the new Animated Series launching in the UK on Monday we\u2019ve got this incredible clip of Rowan Atkinson recording the voice of Mr Bean! Check it out in this great article from the Radio Times http://www.radiotimes.com/news/2015-02-13/exclusive-clip-of-rowan-atkinson-recording-mr-bean Timeline Photos",
-          1423843531
+          "Happy Valentine\u2019s Day everyone! Don\u2019t avoid your kiss like Mr Bean did.\n\nhttp://bit.ly/1z52kta Timeline Photos",
+          1423911600
         ],
         [
           "Mr Bean is jealous of the attention an injured Mrs Wicket is getting and he\u2019d like that attention too. Watch how he gets it!\n\nhttps://www.youtube.com/watch?v=sH8XqAfQb1I Timeline Photos",
           1423299601
         ],
         [
-          "We can FINALLY announce the all NEW Animated Mr Bean Series will launch in the UK on CITV during a special \u2018Bean Week\u2019 from 16th-20th February 2015. We hope you are as excited as we are!!\n\nClick below for more details and we'll keep you posted for other worldwide launches!\n\nhttp://www.mrbean.com/new-animated-series-uk-launch-announced Timeline Photos",
-          1423069713
+          "It's have a party with your bear day today!! Will you be celebrating like Mr Bean? Timeline Photos",
+          1416128401
         ],
         [
-          "Have you been to any New Year\u2019s Sales? Mr. Bean had a great plan to avoid the queues! Watch this clip to see what we mean!\n\nhttp://bit.ly/1HIR2wN Timeline Photos",
-          1420275601
+          "It's Friday!! Are you as excited to get home as Mr. Bean? Timeline Photos",
+          1415955600
         ],
         [
-          "Wow! Artist Nathan Wyburn painted Mr.Bean with.. beans!! Cool, right? Timeline Photos",
-          1415350801
+          "Love is in the air for Mr Bean\u2019s girlfriend Irma, but will she get he kiss from Mr Bean?\n\nhttps://www.youtube.com/watch?v=0bt7nXbPegc Timeline Photos",
+          1410246001
         ],
         [
-          "Mr Bean has found a neat invention! Will he use it for good, or mischief? Find out by watching the clip!\n\nhttps://www.youtube.com/watch?v=4tItiAZkZ_M&list=UUkAGrHCLFmlK3H2kd6isipg Timeline Photos",
-          1415005201
-        ],
-        [
-          "It's #NationalCatDay today! I don't think Mr Bean is a fan of cats though..! Timeline Photos",
-          1414599020
-        ],
-        [
-          "Oh dear\u2026 Mr Bean has lost a tooth! When was the last time it happened to you? Hopefully it was more straightforward than Mr Bean\u2019s experience.\n\nhttps://www.youtube.com/watch?v=HavHBv8uW7Q&list=UUkAGrHCLFmlK3H2kd6isipg&index=383 Timeline Photos",
-          1414314001
-        ],
-        [
-          "What do you think of the haircut? Timeline Photos",
-          1414134000
-        ],
-        [
-          "Rollercoasters are exciting don\u2019t you think? Click to see if Mr. Bean thinks they are, the answer might surprise you!\nhttps://www.youtube.com/watch?v=1k6fbLzMBKc Timeline Photos",
-          1412060400
-        ],
-        [
-          "Freeze! Mr Bean is so surprised to be greeted by an audience of WILD animals in the forest!! Timeline Photos",
-          1411938300
-        ],
-        [
-          "Congratulations Germany on winning the World Cup 2014!! Timeline Photos",
-          1405318047
-        ],
-        [
-          "Mr. Bean manages to copy the answer of his neighbour but it turns out to be the wrong answer! What do you think, does it serve him right?\n\nhttps://www.youtube.com/watch?v=KLFf7HIgRug Timeline Photos",
-          1404460801
-        ],
-        [
-          "Mr Bean has arrived in Brazil and found a perfect spot for sunbathing right in the middle of some grass. But what\u2019s that whistle blowing? And why is that man in black and white looking so angry? Oh no... That\u2019s definitely a red card for Mr Bean... Are you going to watch the 2014 Football World Cup? Timeline Photos",
-          1402390800
+          "Sometimes we just need a little bit of help to wake up.  Thank you Mr Bean!! Timeline Photos",
+          1410123900
         ],
         [
           "Mr Bean is very excited and deciding what to pack for holiday. He\u2019s seen lots of adverts for Brazil on TV recently and it looks like it would be nice and hot for sunbathing. Timeline Photos",
           1402056184
         ],
         [
-          "Mr Bean is practising his golf, not sure if its quite his sport though! Timeline Photos",
-          1400752801
-        ],
-        [
           "We thought you might like to see Mr Bean\u2019s Shelfie! Timeline Photos",
           1399032000
-        ],
-        [
-          "Throwing a party soon? Let Mr Bean show you how to whip up some snacks for your guests!\nhttps://www.youtube.com/watch?v=Xtug7WqiNMg Timeline Photos",
-          1396085401
         ],
         [
           "Looks like Mr Bean has lots of spring cleaning to do this year! Have you started your spring clean? Timeline Photos",
           1394467475
         ],
         [
-          "Mr Bean is off to see his favourite singer tonight! What is your idea of a great night out?\nhttp://www.youtube.com/watch?v=JdYPZ2pOVjc Timeline Photos",
-          1393664401
-        ],
-        [
-          "Mr Bean is writing Irma a romantic poem, as tomorrow is Valentine\u2019s Day! Not sure he\u2019ll be getting a Valentine\u2019s kiss when she reads this though, what do you think? Timeline Photos",
-          1392300001
-        ],
-        [
-          "We are SO excited at Mr Bean HQ today to announce to all of you that there is going to be a NEW ANIMATED SERIES! It is in production at the moment and we don\u2019t have a lot of details yet but as Mr Bean\u2019s most loyal fans we will make sure you are the first to hear any news and information as we get it. We\u2019ll keep you posted! Timeline Photos",
-          1392294923
-        ],
-        [
-          "Thanks for all your great suggestions, Teddy is dressing up as a SPIDER for Halloween! Have you got your costume ready? Timeline Photos",
-          1383144309
-        ],
-        [
-          "What do you think is in Mr Bean's sandwich? Timeline Photos",
-          1381325390
-        ],
-        [
-          "Where do you think Mr Bean is flying off to? \r\n(Check back for the answer later this week) Timeline Photos",
-          1380102274
-        ],
-        [
-          "Would you let Mr Bean cut your hair? Timeline Photos",
-          1379686826
-        ],
-        [
-          "Mr Bean has been adding to his scrap book again. Where do you think he is now? Timeline Photos",
-          1376984933
+          "WOW, we've hit 50 million likes!!! To celebrate here are a few facts you may or may not know about Mr Bean... Timeline Photos",
+          1387272791
         ],
         [
           "It looks like Mr Bean is getting ready to take Teddy out for his Birthday. Where do you think they could be going? Timeline Photos",
           1372240434
         ],
         [
-          "Mr Bean has had a great idea! Now he just needs to work out how to make it happen. Timeline Photos",
-          1365576294
+          "Happy Eid from Mr. Bean! Timeline Photos",
+          1351243836
         ],
         [
-          "So many of you have bought the Mr Bean Slider Puzzle app that we want to say a massive thank you to everyone! We hope you like playing it. If you haven\u2019t tried it yet you can get it now, here: http://bit.ly/mrbeanslider3 As a special thank you we are keeping it at half price! Timeline Photos",
-          1365064245
-        ],
-        [
-          "Something exciting is happening in the world of Mr Bean!  Can you guess what it might be? Timeline Photos",
-          1364304119
-        ],
-        [
-          "Would you invite Mr Bean to your Oscars party? Timeline Photos",
-          1361685638
-        ],
-        [
-          "Mr Bean hopes you have a great Thanksgiving! Timeline Photos",
-          1353588583
-        ],
-        [
-          "To those of you who are celebrating Eid tomorrow, Mr Bean hopes you have a very special day! Timeline Photos",
-          1345203991
-        ],
-        [
-          "Mr Bean has been up to all sorts of mischief over the years but what\u2019s your favourite Mr Bean episode? Timeline Photos",
-          1336031228
-        ],
-        [
-          "For those of you celebrating tomorrow, Mr Bean wishes you a very Happy St. Patrick's Day. Why not tell us what you have planned.. Timeline Photos",
-          1331890400
-        ],
-        [
-          "Mr Bean\u2019s friends have been so busy with festivals and national holiday\u2019s this year and we\u2019ve still got a whole 10 months to go! Why not let Mr Bean know when your country\u2019s special days are in 2012 so he can add them to his diary \u2013 he\u2019d be awfully cross with himself if he forgot!",
-          1330336205
-        ],
-        [
-          "Whether you're tossing a pancake or having a carnival, Mr Bean hopes you have a great day! Why not tell us how you'll be celebrating?",
-          1329814982
+          "What do you think Teddy is whispering to Mr Bean? Timeline Photos",
+          1339142555
         ]
       ],
-      "dates_start": 1373281331,
-      "dates_end": 1455436771,
-      "likes_avg": 142000,
-      "likes_stdev": 153202,
-      "comments_avg": 2745,
-      "comments_stdev": 3685,
-      "shares_avg": 7081,
-      "shares_stdev": 11676
+      "dates_start": 1375546668,
+      "dates_end": 1441192529,
+      "likes_avg": 194775,
+      "likes_stdev": 253427,
+      "comments_avg": 2807,
+      "comments_stdev": 3252,
+      "shares_avg": 7998,
+      "shares_stdev": 14081
     },
     {
-      "number": 14,
+      "number": 8,
       "important": [
-        "special",
-        "favourit",
-        "android",
-        "playlist",
-        "whi",
-        "moment",
-        "time",
-        "timelin",
-        "made",
-        "photo"
-      ],
-      "common": [
-        "bean",
-        "list",
-        "mr",
-        "mr bean",
-        "playlist",
-        "special",
-        "watch",
-        "www",
-        "www youtube",
-        "youtube"
-      ],
-      "messages": [
-        [
-          "Mr. Bean has had some embarrassing moments in his time. That\u2019s why we\u2019ve made this special \u2018Embarassing Bean\u2019 playlist with our favourite cringe-worthy moments!\n\nhttps://www.youtube.com/watch?v=Otbvcc34fnk&list=PLC1EDzqtkrh_fAEpcwEN7oTjl7k4OvBNI Timeline Photos",
-          1434531600
-        ],
-        [
-          "Is Mr. Bean lazy or is he a genius? Check out our special \u2018Lazy Bean\u2019 playlist and decide for yourself!\nhttp://bit.ly/1xojwKo Timeline Photos",
-          1429952402
-        ],
-        [
-          "Mr. Bean likes to get plenty of exercise. Not convinced? We made a special playlist that has some of our favourite active Bean moments. Click the link to start watching!\n\nhttp://bit.ly/1tvTtZc Timeline Photos",
-          1421485201
-        ],
-        [
-          "Mr. Bean sure gets into some embarrassing situations! Here is a special playlist with some of our favourites. Click the link to watch and laugh! \n\nhttp://bit.ly/1uJaaWj Timeline Photos",
-          1418806800
-        ],
-        [
-          "Mr. Bean has had a few conflicts in his time! We made a brand new playlist with six classic scenes where Mr. Bean faces off with some of his antagonists! Bean's Adversaries Part 2 You loved our last playlist that featured Mr. Bean facing off with some of his famous antagonists so we've done a special part TWO just for you! Enjoy!",
-          1416391201
-        ],
-        [
-          "Mr. Bean sure likes to do a lot of home projects! That\u2019s why we\u2019ve put together our favourite DIY clips in this special playlist. Have a look!\n\nhttps://www.youtube.com/playlist?list=PLC1EDzqtkrh_PDmfUkH2OhnU_XLnVsItA Timeline Photos",
-          1413615601
-        ],
-        [
-          "We think one of the biggest characters of Mr. Bean is the Three Wheeled Blue Car that Mr. Bean seems to really dislike! We\u2019ve made a special playlist featuring our favourite moments of Mr. Bean\u2019s long running feud with the Blue Three Wheeler\n\nhttps://www.youtube.com/playlist?list=PLC1EDzqtkrh_npRRBs41MKU1jMZlP25Px Timeline Photos",
-          1408348802
-        ],
-        [
-          "Mr. Bean is famous for getting up to all kinds of antics in his little car. We\u2019ve made a special playlist that highlights our favourite moments! Check it out!\n\nhttps://www.youtube.com/playlist?list=PLC1EDzqtkrh_Up1k7EvOe-awkYYna3tFE Timeline Photos",
-          1406534401
-        ],
-        [
-          "The Mr. Bean Channel has just celebrated its 1 BILLIONTH VIEW! We have created a special playlist that features an iconic scene from each Mr. Bean episode to help celebrate. Thank you to every fan out there for watching!\n\nClick the link to watch the playlist:  https://www.youtube.com/watch?v=VuLgjSVBjZ0list=PLC1EDzqtkrh9udyBDBHKE4JdibbrXQLTW&index=2 Timeline Photos",
-          1404203044
-        ],
-        [
-          "Sometimes we think Mr. Bean is too smart for his own good. That\u2019s why we\u2019ve made this special \u2018Clever Bean\u2019 playlist with our favourite, ingenious Mr. Bean moments.\n\nhttps://www.youtube.com/watch?v=T9MAmWnOznI&list=PLC1EDzqtkrh8zuiBH3SZlB4_T_AoZJPQE&index=2 Timeline Photos",
-          1400493600
-        ],
-        [
-          "It\u2019s the weekend! Will you be doing any of the same things as Mr Bean? Check out this special weekend themed playlist of Mr Bean to find out!\r\nhttp://www.youtube.com/watch?v=bh__g-ZZ6WA&list=PLC1EDzqtkrh9qxFVeq0Lr6qAZC8bDu8qJ Timeline Photos",
-          1390035601
-        ],
-        [
-          "Check out Mr Bean\u2019s very special fan who gets to ride in the most magnificent family car! Click here to find out more - http://www.jaydensjourney.com Timeline Photos",
-          1340003248
-        ]
-      ],
-      "dates_start": 1383591120,
-      "dates_end": 1430475796,
-      "likes_avg": 184414,
-      "likes_stdev": 83948,
-      "comments_avg": 2145,
-      "comments_stdev": 989,
-      "shares_avg": 5969,
-      "shares_stdev": 3263
-    },
-    {
-      "number": 15,
-      "important": [
-        "exclus",
-        "birthday",
-        "celebr",
-        "new",
-        "tune",
-        "stay tune click",
-        "year",
-        "today",
-        "happi",
-        "stay"
-      ],
-      "common": [
-        "bean",
-        "bean birthday",
-        "birthday",
-        "happy",
-        "happy birthday",
-        "mr",
-        "mr bean",
-        "mr bean birthday",
-        "special",
-        "today"
-      ],
-      "messages": [
-        [
-          "Happy Birthday Mr Bean!! To celebrate his birthday today, here\u2019s some NEW and EXCLUSIVE footage of Mr Bean celebrating 25 years outside Buckingham Palace. #MrBean25\n\nhttps://www.youtube.com/watch?v=ehLPKYZyPyY Mr. Bean \u2013 25th Anniversary \u2013 Birthday Celebration Mr. Bean celebrates his 25th anniversary in style with a press conference outside Buckingham Palace. Stay tuned, click here: http://bit.ly/SubscribeToMrBean ...",
-          1442326260
-        ],
-        [
-          "Take a look at all the GREAT designs you \nhave sent us for the ultimate Mr Bean \nBirthday cake in our special BIRTHDAY \npicture album.Thank you to all the Mr Bean fans around the World. Mr Bean's Birthday Cake Gallery!",
-          1442238154
-        ],
-        [
-          "Who is feeling silly today? Mr Bean always is!\n\nhttps://www.youtube.com/watch?v=rUz_e7PQGOg Timeline Photos",
-          1439715602
-        ],
-        [
-          "Happy Birthday Teddy!!!! Timeline Photos",
-          1435755358
-        ],
-        [
-          "It's Mr. Bean\u2019s Birthday TODAY!\n\nHappy Birthday Mr. Bean! Do you remember how Mr. Bean celebrated his birthday in the Live series? Click the link to watch and don\u2019t forget to leave Mr. Bean a happy birthday message!\nhttps://www.youtube.com/watch?v=nldsZmeajAc Timeline Photos",
-          1410757201
-        ],
-        [
-          "It is Mr Bean's birthday today!! Thanks for all your brilliant comments. Timeline Photos",
-          1379228526
-        ],
-        [
-          "It is Mr Beans birthday on Sunday! What would you give him as a birthday gift?",
-          1378996755
-        ],
-        [
-          "It's Mr Bean's Birthday next week - Celebrate with 25% OFF all T-Shirts! Shop Now http://bit.ly/1dQZT0z Timeline Photos",
-          1378281372
-        ],
-        [
-          "HAPPY BIRTHDAY TEDDY! Thanks to everybody who wrote a special message for Teddy on his birthday. Just a few of the thousands of birthday messages are here on this special card. Timeline Photos",
-          1372747838
-        ],
-        [
-          "Mr Bean would like to thank all of his fans for making his birthday so special. He had an extremely wonderful day and absolutely loved his birthday card! Here are just some of the special birthday wishes he received... Timeline Photos",
-          1347872290
-        ],
-        [
-          "Calling all Mr Bean fans! Something extremely exciting is happening on Saturday! It\u2019s Mr Bean\u2019s birthday!! Make sure you don\u2019t forget to sign his birthday card by leaving your comment before the big day. Don\u2019t tell him though \u2013 it\u2019s a surprise! Timeline Photos",
-          1347355228
-        ],
-        [
-          "Happy St. George\u2019s Day to everyone celebrating! Did you know it\u2019s also Shakespeare\u2019s birthday today?! Timeline Photos",
-          1335167591
-        ],
-        [
-          "It\u2019s the British Queen\u2019s birthday tomorrow but did you know she has two birthdays and so will be celebrating again for her official one in June? That means twice as much birthday cake! Yum!! Timeline Photos",
-          1334921672
-        ]
-      ],
-      "dates_start": 1348180150,
-      "dates_end": 1428029672,
-      "likes_avg": 167467,
-      "likes_stdev": 262646,
-      "comments_avg": 7769,
-      "comments_stdev": 7879,
-      "shares_avg": 5585,
-      "shares_stdev": 6374
-    },
-    {
-      "number": 16,
-      "important": [
-        "bean bean",
         "take",
-        "weekend",
-        "android",
-        "befor",
-        "look",
-        "holiday",
-        "movi",
-        "make",
-        "watch"
-      ],
-      "common": [
-        "bean",
-        "movie",
-        "mr",
-        "mr bean",
-        "scared",
-        "watch",
-        "watch mr bean",
-        "watching",
-        "www",
-        "www youtube"
-      ],
-      "messages": [
-        [
-          "Making that blockbuster hit \ud83c\udfa5 \n\nWatch our Bean at the Movies compilation - http://bit.ly/2m4DMNo Bean at the movies",
-          1488031236
-        ],
-        [
-          "Before you watch the Oscars at the weekend, take a look at Mr Bean's Guide to the Movies \ud83c\udfa5 \ud83c\udfac Mr Bean's Guide to the Movies",
-          1487858742
-        ],
-        [
-          "Digging Deep? \n\nWatch more - http://bit.ly/2ig1W4s",
-          1485525885
-        ],
-        [
-          "Bean dreaming of a Holiday? \n\nWatch more - http://bit.ly/2ikaDf4",
-          1484575500
-        ],
-        [
-          "HAPPY GEEK PRIDE DAY! Watch Mr Bean\u2019s geeky moments.\nhttps://youtu.be/6aK2CKrdjbE Mr Bean - Chemistry experiment Mr Bean plays around in a chemistry lab causing a big purple explosion. From Back to School Mr Bean. FOR MORE BEAN CLICK HERE: http://bit.ly/1rhPvax Stay tun...",
-          1464181200
-        ],
-        [
-          "Apparently Mr Bean will make you more focused at work! What a great excuse to watch some Mr Bean classic clips!\n\nhttp://uk.businessinsider.com/watch-a-funny-video-to-boost-your-productivity-at-work-2016-1?r=US&IR=T Scientists just gave workers a free pass to watch stupid cat videos at work Sometimes you need to recharge your mental batteries.",
-          1454338801
-        ],
-        [
-          "Happy Halloween! Are you as scared as Mr. Bean?\nhttps://www.youtube.com/watch?v=7U-J3NnHvJ4 Halloween with Mr Bean - Watching a horror movie Mr Bean watches a horror movie at the cinema but gets too scared. He has to block it out by wearing his popcorn bucket on his head. FOR MORE BEAN CLICK HERE:...",
-          1446303601
-        ],
-        [
-          "Are you in the holiday mood yet?  If not, maybe watching Mr. Bean stage a not-so-accurate nativity scene will help you!\n\nhttp://bit.ly/1uvSFHe Timeline Photos",
-          1419152400
-        ],
-        [
-          "Do you know what a Van Der Graaf Generator is? You probably do, and just didn\u2019t know it was called that! Watch Mr Bean play around with one at the Science Museum. Mr Bean & the Van Der Graaf Generator ! Mr Bean comes across a Van der Graaf Generator at a science museum. Inspired by live action episode 'Back to School Mr Bean' with Rowan Atkinson. From animat...",
-          1413788400
-        ],
-        [
-          "It\u2019s the Wimbledon Championship Finals this weekend! Will you be watching? Mr Bean is getting in the mood for it. Anyone fancy a game of kitchen tennis? Timeline Photos",
-          1404543601
-        ],
-        [
-          "Have you ever argued over which TV show to watch? Hopefully this didn\u2019t happen to you!\nhttps://www.youtube.com/watch?v=R_g7ygh3o-o\n Mr Bean - Breaking his big TV Mr Bean invites Irma round to watch his new big TV. They fall out about what to watch and end up breaking the telly. From animated episode Big TV. Welcome to...",
-          1403428500
-        ],
-        [
-          "Are you scared of heights? Watch Mr. Bean confront his fear in this classic clip!\nhttp://www.youtube.com/watch?v=hX0n-rYxrfs\n Mr Bean - Falling from high dive board Mr Bean is too scared to jump from the high dive board into the swimming pool. A boy stamps on his hands and makes him drop. From The Curse of Mr Bean. mr be...",
-          1396605602
-        ],
-        [
-          "How good are you at DIY? If you\u2019re painting your house, click the link to watch how Mr Bean got the job done!\nhttp://www.youtube.com/watch?v=0X1SuLjnRcI Timeline Photos",
-          1392127201
-        ],
-        [
-          "The Opening Ceremony for the Winter Olympics in Sochi, Russia is today! Will you be watching? Mr Bean has got his skis ready! Timeline Photos",
-          1391774400
-        ],
-        [
-          "Happy Halloween from The Mr Bean Team!!!\n\n http://www.youtube.com/watch?v=7U-J3NnHvJ4&list=PLC1EDzqtkrh_9C0Mmvbe3cukCcClJn04c Mr Bean - Watching a horror movie Mr Bean watches a horror movie at the cinema but gets too scared. He has to block it out by wearing his popcorn bucket on his head. ",
-          1383233797
-        ],
-        [
-          "Hello Everyone! Get in the mood for Halloween with some spooky Mr Bean clips! MrBean - Mr. Bean and the Horror Movie Mr. Bean and Irma are seeing a scary movie together. Bean is joking around at first but that changes...",
-          1351605230
-        ]
-      ],
-      "dates_start": 1386713406,
-      "dates_end": 1471670855,
-      "likes_avg": 72225,
-      "likes_stdev": 71810,
-      "comments_avg": 1080,
-      "comments_stdev": 714,
-      "shares_avg": 5285,
-      "shares_stdev": 3733
-    },
-    {
-      "number": 17,
-      "important": [
-        "find",
-        "free",
-        "teddi",
-        "answer",
-        "android",
-        "spot",
-        "timelin",
-        "photo"
-      ],
-      "common": [
-        "answers",
-        "bean",
-        "find",
-        "mr",
-        "mr bean",
-        "red",
-        "six",
-        "teddy",
-        "teddy mr",
-        "teddy mr bean"
-      ],
-      "messages": [
-        [
-          "Those Wednesday feelings... Timeline Photos",
-          1489587019
-        ],
-        [
-          "\u2764\ufe0f\ufe0f\ud83d\udc9a\ud83d\udc99\ud83d\udc9b\ud83d\udc9c Timeline Photos",
-          1489413601
-        ],
-        [
-          "December 1st is with us... and so is our Instagram Advent Calendar! Follow Mr Bean on Instagram to find out more.",
-          1480600800
-        ],
-        [
-          "Caption this... Timeline Photos",
-          1461848401
-        ],
-        [
-          "Did you find all six words? Timeline Photos",
-          1451401431
-        ],
-        [
-          "Did you find all 10? Answers are below, circled in red. Timeline Photos",
-          1450537201
-        ],
-        [
-          "When you can\u2019t find a changing room at the beach... Timeline Photos",
-          1430474580
-        ],
-        [
-          "Uh oh! Mr Bean is spring cleaning... Timeline Photos",
-          1427454000
-        ],
-        [
-          "When you can\u2019t find the free toy in your cereal! Timeline Photos",
-          1418224529
-        ],
-        [
-          "What is that stinky stink?  Poor Teddy, Mr Bean didn't give him a snorkel and mask to save him from the smell. Timeline Photos",
-          1411419902
-        ],
-        [
-          "So...how did you do? Did you find all SIX Beany words? Answers are below in the red circles. Timeline Photos",
-          1400230801
-        ],
-        [
-          "Mr Bean Selfie!!! Timeline Photos",
-          1394124097
-        ],
-        [
-          "What should Teddy wear for Halloween? Timeline Photos",
-          1382977333
-        ],
-        [
-          "Find your inner Bean this Halloween! \r\nGet this costume here: http://bit.ly/19eFjBT Timeline Photos",
-          1381760767
-        ],
-        [
-          "On your marks...get set...GO! Timeline Photos",
-          1380886895
-        ],
-        [
-          "Mr Bean has been in Brazil! Timeline Photos",
-          1377761613
-        ],
-        [
-          "There were 13 Teddy\u2019s with Mr Bean yesterday - did you spot them all? Timeline Photos",
-          1370347721
-        ]
-      ],
-      "dates_start": 1383833709,
-      "dates_end": 1463113430,
-      "likes_avg": 162791,
-      "likes_stdev": 205112,
-      "comments_avg": 2539,
-      "comments_stdev": 3007,
-      "shares_avg": 5194,
-      "shares_stdev": 8106
-    },
-    {
-      "number": 18,
-      "important": [
         "bean mr",
-        "take",
-        "mr bean goe",
-        "android",
-        "goe",
+        "mr bean mr bean",
         "bean mr bean",
-        "like",
-        "one",
-        "bean goe",
-        "back"
+        "mr bean mr"
       ],
       "common": [
         "bean",
@@ -1774,16 +772,24 @@
         "bean mr bean",
         "mr",
         "mr bean",
-        "official",
-        "official mr bean",
-        "watch",
-        "www youtube",
-        "youtube"
+        "mr bean mr",
+        "mr bean mr bean",
+        "offici",
+        "offici mr",
+        "take"
       ],
       "messages": [
+        [
+          "Mr. Bean\u2019s gone back to school and chemistry is his favourite subject! Mr. Bean goes back to school!",
+          1473771600
+        ],
         [
           "Mr Bean takes a trip back to his childhood... Mr Bean - Young Bean Mr Bean goes down memory lane!",
           1473341823
+        ],
+        [
+          "It's time for Mr. Bean to take the high dive! Mr Bean - High Dive Mr Bean tries to dive off the high dive board at a swimming pool but is too scared. From The Curse of Mr Bean. FOR MORE BEAN CLICK HERE: http://bit.ly/1rhPva...",
+          1471266001
         ],
         [
           "No one likes a trip to the dentist - especially Mr Bean! Mr Bean - Dentist Trip Mr.Bean takes a trip to the dentist!",
@@ -1792,6 +798,10 @@
         [
           "Mr. Bean is having fun at the Country Fete, not sure anyone else is!\nhttps://www.youtube.com/watch?v=bRpUauseTVw Mr Bean - Country fete games -- Volksfest Spiele OFFICIAL MR BEAN. Mr Bean plays games at a country fete including throwing sponges at a poor old man. From Hair by Mr Bean of London. FOR MORE BEAN CLICK HER...",
           1456671602
+        ],
+        [
+          "Mr Bean takes the perfect wildlife picture! Well\u2026almost.\nhttps://www.youtube.com/watch?v=X8ZUwr_04Ik Mr Bean - Leaves the lens cap on Mr Bean tries to take a picture of wildlife on his photography holiday, but realises he left the lens cap on his camera. From animated episode In the Wild. S...",
+          1455980401
         ],
         [
           "Do you take the train like Mr. Bean?\nhttps://www.youtube.com/watch?v=KsgJC6brhgc Mr Bean - Takes the Train OFFICIAL MR BEAN. Mr Bean takes a train ride. He tries to block out the sound of his fellow passenger's loud laugh so he can read his book in peace, and ends...",
@@ -1854,6 +864,10 @@
           1411714800
         ],
         [
+          "Mr. Bean is entering his pet into the pet show\u2026 will Teddy win?\nhttps://www.youtube.com/watch?v=6w3472uquaM\n Mr Bean takes teddy to the pet show Mr Bean enters teddy into a pet show at a country fete. Teddy is very good at the obedience contest. Hilarious action from Hair by Mr Bean. FOR MORE BEAN CLI...",
+          1411196400
+        ],
+        [
           "Arrrr! It\u2019s International \u201cTalk Like a Pirate Day!\u201d and Mr. Bean is getting into the spirit! What would your pirate name be?\n\nhttps://www.youtube.com/watch?v=eRMMul5z1Z8 Mr Bean - The Pirate OFFICIAL MR BEAN. Mr Bean finds some pirates treasure in the attic and makes Teddy walk the plank. From animated episode Treasure! FOR MORE BEAN CLICK HERE: ...",
           1411111581
         ],
@@ -1862,8 +876,16 @@
           1406894468
         ],
         [
+          "Have you ever forgotten to separate your laundry? Given what Mr. Bean put into the machine, something was bound to go wrong! Watch to see what happened to all of his laundry, including Teddy!\n\nhttps://www.youtube.com/watch?v=0QqJ3uJ0dMY\n Mr Bean - Ruined Laundry Mr Bean takes his laundry out of the drier but it's all ruined! And he's shrunk Teddy! From Tee Off Mr Bean.",
+          1406016000
+        ],
+        [
           "Some people think Mr. Bean is hopping mad. Well, this classic clip of Mr. Bean chasing his shoe might prove them right!\n\nhttps://www.youtube.com/watch?v=wtB-1aNTidw\n Mr. Bean -- Stone in Shoe - Stein im Schuh! OFFICIAL MR. BEAN: Mr Bean gets a stone in his shoe. When he takes it off to get rid of the stone he puts his shoe on top of a car that drives off so he has ...",
           1404892801
+        ],
+        [
+          "Mr Bean can't be trusted in the National Gallery. He rearranges paintings and even tries to take a \u2018selfie\u2019 in front of a one! \n\nhttps://www.youtube.com/watch?v=rwDsy3JnPAY Timeline Photos",
+          1399284001
         ],
         [
           "Mr. Bean has been called to the police station to help with an investigation and he has a unique way of remembering the culprit. http://www.youtube.com/watch?v=D6swfaAHjhU\n Mr. Bean - Line Up (Mr Bean Goes to Town ) (NEW) Mr Bean takes part in a line up to catch a criminal but finds it difficult so makes a slightly odd request to help him remember. Stay tuned, click here: http...",
@@ -1898,40 +920,373 @@
           1379493760
         ]
       ],
-      "dates_start": 1396433408,
-      "dates_end": 1448482566,
-      "likes_avg": 38727,
-      "likes_stdev": 17144,
-      "comments_avg": 814,
-      "comments_stdev": 546,
-      "shares_avg": 4509,
-      "shares_stdev": 3594
+      "dates_start": 1397296851,
+      "dates_end": 1452348636,
+      "likes_avg": 47172,
+      "likes_stdev": 47129,
+      "comments_avg": 1064,
+      "comments_stdev": 1553,
+      "shares_avg": 7691,
+      "shares_stdev": 20332
     },
     {
-      "number": 19,
+      "number": 9,
       "important": [
-        "bean bean",
-        "bean tri",
-        "take",
-        "bean click",
-        "android",
-        "time mr",
-        "bean take",
-        "tri",
+        "answer",
+        "timelin",
+        "find"
+      ],
+      "common": [
+        "answer",
+        "bean",
+        "circl",
+        "find",
+        "find six",
+        "mr",
+        "mr bean",
+        "red",
+        "timelin",
+        "word"
+      ],
+      "messages": [
+        [
+          "Those Wednesday feelings... Timeline Photos",
+          1489587019
+        ],
+        [
+          "\u2764\ufe0f\ufe0f\ud83d\udc9a\ud83d\udc99\ud83d\udc9b\ud83d\udc9c Timeline Photos",
+          1489413601
+        ],
+        [
+          "December 1st is with us... and so is our Instagram Advent Calendar! Follow Mr Bean on Instagram to find out more.",
+          1480600800
+        ],
+        [
+          "Caption this... Timeline Photos",
+          1461848401
+        ],
+        [
+          "Did you find all six words? Timeline Photos",
+          1451401431
+        ],
+        [
+          "Did you find all 10? Answers are below, circled in red. Timeline Photos",
+          1450537201
+        ],
+        [
+          "When you can\u2019t find a changing room at the beach... Timeline Photos",
+          1430474580
+        ],
+        [
+          "Uh oh! Mr Bean is spring cleaning... Timeline Photos",
+          1427454000
+        ],
+        [
+          "When you can\u2019t find the free toy in your cereal! Timeline Photos",
+          1418224529
+        ],
+        [
+          "So...how did you do? Did you find all SIX Beany words? Answers are below in the red circles. Timeline Photos",
+          1400230801
+        ],
+        [
+          "Mr Bean Selfie!!! Timeline Photos",
+          1394124097
+        ],
+        [
+          "Find your inner Bean this Halloween! \r\nGet this costume here: http://bit.ly/19eFjBT Timeline Photos",
+          1381760767
+        ],
+        [
+          "On your marks...get set...GO! Timeline Photos",
+          1380886895
+        ],
+        [
+          "Mr Bean has been in Brazil! Timeline Photos",
+          1377761613
+        ]
+      ],
+      "dates_start": 1392009793,
+      "dates_end": 1470033882,
+      "likes_avg": 180212,
+      "likes_stdev": 221409,
+      "comments_avg": 2451,
+      "comments_stdev": 3109,
+      "shares_avg": 5823,
+      "shares_stdev": 8787
+    },
+    {
+      "number": 10,
+      "important": [
+        "atkinson",
+        "rowan atkinson",
+        "rowan",
+        "vote",
+        "time"
+      ],
+      "common": [
+        "atkinson",
+        "bean",
+        "celebr",
+        "mr",
+        "mr bean",
+        "rowan",
+        "rowan atkinson",
         "time",
-        "stay"
+        "vote",
+        "year"
+      ],
+      "messages": [
+        [
+          "Running late!\n\nP.S. Drive safe \ud83d\ude97",
+          1485770700
+        ],
+        [
+          "Can Mr. Bean save his fishy friend in time? www.youtube.com",
+          1472888700
+        ],
+        [
+          "Is Mr. Bean our next football superstar? FIFA 16 | El golazo de MR. Bean en el FIFA Un aficionado ha generado un doble id\u00e9ntico del famoso personaje protagonizado por Rowan Atkinson. \u00a1Hasta ha clavado su baile! Disfruta de la mejor actualida...",
+          1472821234
+        ],
+        [
+          "Mr Bean's froggy bath time! www.youtube.com",
+          1469257500
+        ],
+        [
+          "Clear skies, hot weather and the beach - it\u2019s Summer time with Mr Bean! www.youtube.com",
+          1468652700
+        ],
+        [
+          "Rowan Atkinson officially says he will never wave goodbye to Mr Bean! Check out the Radio Times article below. \n\nhttp://www.radiotimes.com/news/2016-03-21/rowan-atkinson-i-will-never-wave-goodbye-to-mr-bean Rowan Atkinson: I will never wave goodbye to Mr Bean The Bean and Blackadder actor says he would never retire any of his comic characters, even when more \"serious\" roles come his way",
+          1458658801
+        ],
+        [
+          "1 hour 20 minutes to go until the vote closes! Sarah and Duck has 53% of the vote and Mr Bean has 47%. Please KEEP VOTING and help Mr Bean go through to the finals - he can do it with your votes.\n\nYou can vote as many times as you like via the link below! Come on Mr Bean!!\n\nVote here:\nhttp://www.radiotimes.com/kidsshowchampion Kids Show Champion 2015",
+          1448872805
+        ],
+        [
+          "WOOHOO!! Mr Bean is in the semi-finals of the Radio Times Kids Show Champion 2015!! This round he's up against Sarah and Duck but its very close!! Keep voting to see Mr Bean go through to the FINALS. With your help he can do it!! Vote as many times as you like!!\n\nVote here:\nhttp://www.radiotimes.com/kidsshowchampion Kids Show Champion 2015",
+          1448809201
+        ],
+        [
+          "THANK YOU Mr Bean fans!!! Mr Bean has made it through to Round 4 of 6 and is now up against Sesame Street. Keep voting and with your help you can see MR BEAN crowned the Radio Times Kids Show Champion 2015!! \n\nVote here:\nhttp://www.radiotimes.com/kidsshowchampion Kids Show Champion 2015",
+          1448722800
+        ],
+        [
+          "In the Radio Times \u2018Kids Show Champion\u2019 competition Mr Bean beat Scooby Doo yesterday by a massive 4000 to 700 votes! And it\u2019s all thanks to you! He is now up against Thomas the Tank Engine in the second of 6 rounds. \n\nKeep Mr Bean on top by voting here: http://www.radiotimes.com/kidsshowchampion Kids Show Champion 2015",
+          1448463601
+        ],
+        [
+          "Calling all Mr Bean Fans! Help Mr Bean become the Radio Times\u2019 Children\u2019s TV Show Champion 2015! Follow the link, then click through to \u2018Matchup3\u2019 and vote MR BEAN!! Voting ends Thursday at 11am GMT. We\u2019ll let you know if we win!\n\nhttp://www.radiotimes.com/kidsshowchampion Kids Show Champion 2015",
+          1448377200
+        ],
+        [
+          "Check out The Metro's countdown of the 7 top Mr Bean moments to celebrate 25 years!\n\nhttp://metro.co.uk/2015/09/15/as-mr-bean-celebrates-his-25th-anniversary-here-are-seven-of-the-characters-most-memorable-moments-5388768/ Mr Bean's 25 - and to celebrate here are his best bits Yes, driving on the car roof is among them.",
+          1442397990
+        ],
+        [
+          "We are celebrating 25 years of Mr Bean TODAY! In celebration, here are numbers 5 to 1 from our Top 25 Mr Bean Moments Countdown. Which moment got the #1 spot?! #MrBean25\n\nhttp://bit.ly/1NPkhjd bit.ly",
+          1442307840
+        ],
+        [
+          "Incase you missed it last week, here's The OFFICIAL video of Mr Bean celebrating 25 years in true Bean style!! #MrBean25\n\nhttps://www.youtube.com/watch?v=F1DanTAZKEI Mr. Bean - 25th Anniversary - Mr Bean Drives His Mini Again! Stay tuned, click here: http://bit.ly/SubscribeToMrBean To celebrate Mr Beans 25th anniversary Rowan Atkinson, drives around through the parks and landmarks ...",
+          1441720302
+        ],
+        [
+          "Check out this great article from The Telegraph of Mr Bean celebrating 25 years! Including a special interview with Mr Bean himself! #MrBean25\n\nhttp://www.telegraph.co.uk/news/newstopics/howaboutthat/11846352/Mr-Bean-tours-London-landmarks-to-celebrate-25-years.html Mr Bean tours London landmarks to celebrate 25 years British comedy icon Mr Bean, played by Rowan Atkinson, celebrated 25 years of antics this week by touring famous London landmarks",
+          1441637472
+        ],
+        [
+          "We\u2019re very close to celebrating 25 years of Mr Bean! We\u2019re counting down his 25 to 1 top moments on our YouTube channel.  Here are moments 10-6  (make sure you check out the rest!) #MrBean25\n\nhttps://www.youtube.com/watch?v=YbTfvfBhw0o Timeline Photos",
+          1441551601
+        ],
+        [
+          "Here it is! The OFFICIAL video of Mr Bean celebrating 25 years with a drive to Buckingham Palace!! #MrBean25\n\nhttps://www.youtube.com/watch?v=F1DanTAZKEI Mr. Bean - 25th Anniversary - Mr Bean Drives His Mini Again! Stay tuned, click here: http://bit.ly/SubscribeToMrBean To celebrate Mr Beans 25th anniversary Rowan Atkinson, drives around through the parks and landmarks ...",
+          1441448516
+        ],
+        [
+          "A wonderful article from ITV News!! #MrBean25\nhttp://www.itv.com/news/2015-09-04/mr-bean-takes-his-mini-for-a-royal-spin-for-his-25th-anniversary/ Mr Bean takes his mini for a royal spin for his 25th anniversary Rowan Atkinson slipped back into character for the 25th anniversary of Mr Bean. Atkinson, now 60, took his iconic car, a 1976 British Leyland Mini 1000, for a spin outside Buckingham Palace.",
+          1441373599
+        ],
+        [
+          "A smashing article from our friends at Radio Times!!\n\nhttp://www.radiotimes.com/news/2015-09-04/mr-bean-drives-to-buckingham-palace-on-the-roof-of-his-car-to-celebrate-turning-25 Mr Bean drives to Buckingham Palace on the roof of his car to celebrate turning 25 A quarter of a century after Rowan Atkinson's eccentric funnyman first appeared on British screens, he's still causing mayhem on The Mall",
+          1441368982
+        ],
+        [
+          "A great article from The Daily Mail, celebrating 25 year of Mr Bean!! #MrBean25\n\nhttp://www.dailymail.co.uk/tvshowbiz/article-3222270/Mr-Bean-enjoys-spin-outside-Buckingham-Palace-atop-iconic-lime-green-Mini-sitcom-celebrates-25th-anniversary.html Mr Bean heads to Buckingham Palace atop his iconic lime green Mini In scenes reminiscent of the episode Do-It-Yourself Mr Bean, Atkinson lapped up the sights from the comfort of the armchair strapped to the top of his car as it whizzed by the iconic London landmark.",
+          1441366206
+        ],
+        [
+          "Time for Mr. Bean to collect his laundry from the washing machine, but it looks like he may have used the wrong setting!\n\nhttp://bit.ly/1DSognU Timeline Photos",
+          1432803600
+        ],
+        [
+          "When was the last time you went to a museum? We hope you behaved a little better than Mr Bean!\n\nhttps://www.youtube.com/watch?v=ddPUqi67_PA Timeline Photos",
+          1431349201
+        ],
+        [
+          "Don\u2019t you hate it when this happens?\n\nhttps://www.youtube.com/watch?v=7ve9KhI8S80 Mr. Bean - Stone in Shoe Mr Bean gets a stone in his shoe. When he takes it off to get rid of the stone he puts his shoe on top of a car that drives off so he has to hop around to ge...",
+          1431075602
+        ],
+        [
+          "BEHIND THE BEANS! In case you missed it last time, the sneak peek of Rowan Atkinson recording the voice of Animated Mr Bean is now on the official Mr Bean Youtube Channel. Check it out!!\n\nhttps://www.youtube.com/watch?v=oaXljjsaJLM",
+          1429619218
+        ],
+        [
+          "Want to learn more about Mr. Bean? Check out these 2 GREAT articles in the LA Times and the New York Times with an exclusive interview from the man behind Bean, Rowan Atkinson.\n\nhttp://lat.ms/1CBa7OI\nhttp://nyti.ms/1NDNSuA Rowan Atkinson talks up 25 years of Mr. Bean's clownish chaos It has been 25 years since Rowan Atkinson, CBE, brought the quietly calamitous \"Mr. Bean\" to television, an anniversary that has been celebrated with \"The Whole Bean: Remastered,\" a video collection released this week by Shout! Factory.",
+          1428397201
+        ],
+        [
+          "Want to know 25 facts and figures about Mr. Bean? Check out this great article by Radio Times celebrating Mr. Bean\u2019s 25th Anniversary, with more EXCLUSIVE clips from the new Animated Series now launched in the UK and Germany!!\n\nhttp://www.radiotimes.com/news/2015-02-15/mr-bean-25-facts-and-figures-for-his-25th-anniversary Mr Bean: 25 facts and figures for his 25th anniversary A quarter of century after he first appeared on TV, Rowan Atkinson's comedy character has accomplished world domination - and is still going strong...",
+          1425295800
+        ],
+        [
+          "It\u2019s cinema time for Mr Bean, but the movie is so scary Mr Bean accidentally embarrasses himself! Check it out here!\n\nhttps://www.youtube.com/watch?v=s7xC2cnK8oM&list=UUkAGrHCLFmlK3H2kd6isipg Timeline Photos",
+          1417341601
+        ],
+        [
+          "11 times Mr. Bean taught you to embrace your inner child.. by acting like one! 11 Times Mr. Bean Taught You To Embrace Your Inner Child Few words describe Mr. Bean (and he says even fewer). Believe it or not, Rowan Atkinson created Bean around the same time he was studying for his Masters in Electrical Engineering. Since that time, Atkinson's character -- which he described as &qu...",
+          1415032200
+        ],
+        [
+          "Oh dear\u2026 Mr Bean has lost a tooth! When was the last time it happened to you? Hopefully it was more straightforward than Mr Bean\u2019s experience.\n\nhttps://www.youtube.com/watch?v=HavHBv8uW7Q&list=UUkAGrHCLFmlK3H2kd6isipg&index=383 Timeline Photos",
+          1414314001
+        ],
+        [
+          "It's that time of year again!!  Time for a new pencil case, books and timetable.  Back to school just got cool with Mr. Bean! Timeline Photos",
+          1409690700
+        ]
+      ],
+      "dates_start": 1424602718,
+      "dates_end": 1460823072,
+      "likes_avg": 78739,
+      "likes_stdev": 68656,
+      "comments_avg": 989,
+      "comments_stdev": 1606,
+      "shares_avg": 5043,
+      "shares_stdev": 13850
+    },
+    {
+      "number": 11,
+      "important": [
+        "moment",
+        "special",
+        "irma",
+        "favourit",
+        "playlist"
       ],
       "common": [
         "bean",
+        "favourit",
+        "irma",
+        "moment",
         "mr",
         "mr bean",
+        "playlist",
+        "special",
+        "special playlist",
+        "timelin"
+      ],
+      "messages": [
+        [
+          "It's International Women's Day and we are celebrating Irma, the main woman in Mr Bean's life (excluding Mrs Wicket of course).\n\nWatch our Irma compilation here - https://www.youtube.com/watch?v=KVl5iVFCo54 gph.is",
+          1488981635
+        ],
+        [
+          "Mr Bean is having a tricky time in the kitchen! Mr Bean - Strange Canapes Mr Bean is struggling in the kitchen, meaning Irma has to feed herself!",
+          1467899865
+        ],
+        [
+          "Mr Bean has a special guest for dinner! Mr Bean - Serving Dinner Irma is round for dinner but Bean is having a few issues!",
+          1467297563
+        ],
+        [
+          "Cooking Sunday lunch? Here\u2019s how not to do it! \nhttps://www.youtube.com/watch?v=2545atoypgs Mr Bean - Dinner for Two Mr Bean has kept Irma waiting so long for food she eats the flower on the table. He cooks a local pigeon for her. From animated episode Dinner for Two. FOR M...",
+          1463922001
+        ],
+        [
+          "Mr. Bean has had some embarrassing moments in his time. That\u2019s why we\u2019ve made this special \u2018Embarassing Bean\u2019 playlist with our favourite cringe-worthy moments!\n\nhttps://www.youtube.com/watch?v=Otbvcc34fnk&list=PLC1EDzqtkrh_fAEpcwEN7oTjl7k4OvBNI Timeline Photos",
+          1434531600
+        ],
+        [
+          "Is Mr. Bean lazy or is he a genius? Check out our special \u2018Lazy Bean\u2019 playlist and decide for yourself!\nhttp://bit.ly/1xojwKo Timeline Photos",
+          1429952402
+        ],
+        [
+          "We\u2019ve collected our favourite moments with Mr. Bean and his girlfriend Irma in this special playlist. Do you think they\u2019re a good match?\n\nhttp://bit.ly/1zsaNRw Irma and Bean Irma is Mr. Bean's love-interest in the show, but sometimes Mr. Bean isn't the best date! Check out our favourite moments between Mr. Bean and Irma Gobb",
+          1426590000
+        ],
+        [
+          "Mr. Bean is planning a special date with Irma... Timeline Photos",
+          1425639602
+        ],
+        [
+          "Mr. Bean likes to get plenty of exercise. Not convinced? We made a special playlist that has some of our favourite active Bean moments. Click the link to start watching!\n\nhttp://bit.ly/1tvTtZc Timeline Photos",
+          1421485201
+        ],
+        [
+          "Mr. Bean sure gets into some embarrassing situations! Here is a special playlist with some of our favourites. Click the link to watch and laugh! \n\nhttp://bit.ly/1uJaaWj Timeline Photos",
+          1418806800
+        ],
+        [
+          "Mr. Bean has had a few conflicts in his time! We made a brand new playlist with six classic scenes where Mr. Bean faces off with some of his antagonists! Bean's Adversaries Part 2 You loved our last playlist that featured Mr. Bean facing off with some of his famous antagonists so we've done a special part TWO just for you! Enjoy!",
+          1416391201
+        ],
+        [
+          "Mr. Bean sure likes to do a lot of home projects! That\u2019s why we\u2019ve put together our favourite DIY clips in this special playlist. Have a look!\n\nhttps://www.youtube.com/playlist?list=PLC1EDzqtkrh_PDmfUkH2OhnU_XLnVsItA Timeline Photos",
+          1413615601
+        ],
+        [
+          "We think one of the biggest characters of Mr. Bean is the Three Wheeled Blue Car that Mr. Bean seems to really dislike! We\u2019ve made a special playlist featuring our favourite moments of Mr. Bean\u2019s long running feud with the Blue Three Wheeler\n\nhttps://www.youtube.com/playlist?list=PLC1EDzqtkrh_npRRBs41MKU1jMZlP25Px Timeline Photos",
+          1408348802
+        ],
+        [
+          "Mr. Bean is famous for getting up to all kinds of antics in his little car. We\u2019ve made a special playlist that highlights our favourite moments! Check it out!\n\nhttps://www.youtube.com/playlist?list=PLC1EDzqtkrh_Up1k7EvOe-awkYYna3tFE Timeline Photos",
+          1406534401
+        ],
+        [
+          "The Mr. Bean Channel has just celebrated its 1 BILLIONTH VIEW! We have created a special playlist that features an iconic scene from each Mr. Bean episode to help celebrate. Thank you to every fan out there for watching!\n\nClick the link to watch the playlist:  https://www.youtube.com/watch?v=VuLgjSVBjZ0list=PLC1EDzqtkrh9udyBDBHKE4JdibbrXQLTW&index=2 Timeline Photos",
+          1404203044
+        ],
+        [
+          "Sometimes we think Mr. Bean is too smart for his own good. That\u2019s why we\u2019ve made this special \u2018Clever Bean\u2019 playlist with our favourite, ingenious Mr. Bean moments.\n\nhttps://www.youtube.com/watch?v=T9MAmWnOznI&list=PLC1EDzqtkrh8zuiBH3SZlB4_T_AoZJPQE&index=2 Timeline Photos",
+          1400493600
+        ],
+        [
+          "It\u2019s the weekend! Will you be doing any of the same things as Mr Bean? Check out this special weekend themed playlist of Mr Bean to find out!\r\nhttp://www.youtube.com/watch?v=bh__g-ZZ6WA&list=PLC1EDzqtkrh9qxFVeq0Lr6qAZC8bDu8qJ Timeline Photos",
+          1390035601
+        ]
+      ],
+      "dates_start": 1401642569,
+      "dates_end": 1455384361,
+      "likes_avg": 153034,
+      "likes_stdev": 104025,
+      "comments_avg": 1696,
+      "comments_stdev": 1303,
+      "shares_avg": 4335,
+      "shares_stdev": 3648
+    },
+    {
+      "number": 12,
+      "important": [
+        "click",
+        "stay tune click",
         "stay",
-        "watch",
-        "www",
-        "www youtube",
-        "www youtube watch",
-        "youtube",
-        "youtube watch"
+        "tune",
+        "stay tune"
+      ],
+      "common": [
+        "bean",
+        "click",
+        "mr",
+        "mr bean",
+        "park",
+        "stay",
+        "stay tune",
+        "stay tune click",
+        "tune",
+        "tune click"
       ],
       "messages": [
         [
@@ -1939,16 +1294,8 @@
           1476969014
         ],
         [
-          "It's time for Mr. Bean to take the high dive! Mr Bean - High Dive Mr Bean tries to dive off the high dive board at a swimming pool but is too scared. From The Curse of Mr Bean. FOR MORE BEAN CLICK HERE: http://bit.ly/1rhPva...",
-          1471266001
-        ],
-        [
           "Mr Bean's chasing a ray of sunshine!\nhttps://www.youtube.com/watch?v=c-AhlualVO0 Mr Bean - Ray Of Sunshine The sun is out and Mr Bean is trying to capture a glimpse of it!",
           1465909200
-        ],
-        [
-          "Mr Bean shows you how to get that all important parking spot! \nhttps://www.youtube.com/watch?v=LtQyyzpzvV0 www.youtube.com",
-          1463490001
         ],
         [
           "Happy Earth Day! Mr Bean is doing his bit to look after the Earth, are you?\nhttps://www.youtube.com/watch?v=FwSQNpd-PuQ Mr Bean (NEW series) - Litterbugs Clip Mr Bean is on a mission to keep the neighbourhood clean, but some of people in the park aren't being very helpful! Stay tuned, click here: http://bit.ly/Subs...",
@@ -1967,10 +1314,6 @@
           1457190004
         ],
         [
-          "Mr Bean takes the perfect wildlife picture! Well\u2026almost.\nhttps://www.youtube.com/watch?v=X8ZUwr_04Ik Mr Bean - Leaves the lens cap on Mr Bean tries to take a picture of wildlife on his photography holiday, but realises he left the lens cap on his camera. From animated episode In the Wild. S...",
-          1455980401
-        ],
-        [
           "It\u2019s Valentine\u2019s Day tomorrow! Hopefully you\u2019ll have a slightly more romantic day than Irma and Mr Bean.\n\nhttps://www.youtube.com/watch?v=Vjyk_Of-UQA Mr Bean (NEW series) - Valentine's Bean Clip It's Valentine's Day. Will Mr Bean make it a romantic day to remember for his girlfriend Irma? Stay tuned, click here: http://bit.ly/SubscribeToMrBean Welcom...",
           1455375601
         ],
@@ -1979,20 +1322,16 @@
           1447945201
         ],
         [
-          "It may be Fireworks night in the UK but after this experience Mr. Bean is staying away from them!\n\nhttps://www.youtube.com/watch?v=4HSlNkoIID4 Mr. Bean - Painting with Fireworks Mr Bean attempts a spot of DIY and tries to paint his room. He covers everything in newspaper and uses fireworks to blow up the tin. Taken from Episode 9: 'D...",
-          1446735602
-        ],
-        [
           "The swimming pool is the perfect place to keep cool this weekend, but will Mr. Bean make a splash?\n\nhttps://youtu.be/dzU0M9tPezI Mr. Bean - High Dive Mr Bean tries to dive off the high dive board at a swimming pool but is too scared. Taken from Episode 3: 'The Curse of Mr Bean'. Stay tuned, click here: htt...",
           1436447700
         ],
         [
-          "Mr. Bean is trying to cheer up the young child next to him on the plane, nothing could go wrong here right?\n\nhttps://www.youtube.com/watch?v=jYHLMbaej-c&list=UUkAGrHCLFmlK3H2kd6isipg\n Mr Bean - Turbulance Mr Bean experiences turbulance on a plane. It makes the boy sitting next to him sick and he pops the sick bag. From Mr Bean Rides Again. FOR MORE BEAN CLICK ...",
-          1412578801
+          "A mime artist is getting on Mr Bean\u2019s nerves. Will he let the annoying intruder stay in his house?\n\nhttp://bit.ly/1waOSwV Timeline Photos",
+          1425114002
         ],
         [
-          "Here\u2019s a classic clip of Mr. Bean in a martial arts class.  What would you do in his situation?\n\nhttps://www.youtube.com/watch?v=pRZqRjxkHpk Mr Bean - Judo Class http://www.youtube.com/user/MrBean Mr Bean attends a judo class but doesn't want to be thrown by the teacher. From Back to School Mr Bean. FOR MORE BEAN CLIC...",
-          1412377200
+          "Mr. Bean is trying to cheer up the young child next to him on the plane, nothing could go wrong here right?\n\nhttps://www.youtube.com/watch?v=jYHLMbaej-c&list=UUkAGrHCLFmlK3H2kd6isipg\n Mr Bean - Turbulance Mr Bean experiences turbulance on a plane. It makes the boy sitting next to him sick and he pops the sick bag. From Mr Bean Rides Again. FOR MORE BEAN CLICK ...",
+          1412578801
         ],
         [
           "If you know Mr. Bean you know he always has an interesting time when cars are involved. Here are our favourite moments of Mr. Bean trying to park his car, who knew it could be so complicated?\nhttps://www.youtube.com/playlist?list=PLC1EDzqtkrh_Up1k7EvOe-awkYYna3tFE Timeline Photos",
@@ -2023,40 +1362,35 @@
           1370444267
         ]
       ],
-      "dates_start": 1397421193,
-      "dates_end": 1466263811,
-      "likes_avg": 34687,
-      "likes_stdev": 28287,
-      "comments_avg": 716,
-      "comments_stdev": 477,
-      "shares_avg": 4004,
-      "shares_stdev": 4069
+      "dates_start": 1391595866,
+      "dates_end": 1461270783,
+      "likes_avg": 41623,
+      "likes_stdev": 34738,
+      "comments_avg": 769,
+      "comments_stdev": 462,
+      "shares_avg": 4064,
+      "shares_stdev": 3947
     },
     {
-      "number": 20,
+      "number": 13,
       "important": [
-        "mr bean fan",
-        "irma",
-        "android",
         "hello mr",
-        "timelin",
-        "guess",
-        "photo",
         "bean fan",
+        "hello",
         "fan",
-        "hello"
+        "mr bean fan"
       ],
       "common": [
         "bean",
-        "bean fans",
-        "fans",
+        "bean fan",
+        "fan",
         "hello",
         "hello mr",
         "hello mr bean",
-        "hello mr bean fans",
+        "hello mr bean fan",
         "mr",
         "mr bean",
-        "mr bean fans"
+        "mr bean fan"
       ],
       "messages": [
         [
@@ -2114,191 +1448,25 @@
       "shares_stdev": 6416
     },
     {
-      "number": 21,
+      "number": 14,
       "important": [
-        "travel",
-        "bean tri",
-        "christma",
-        "home",
-        "teddi",
-        "android",
-        "bean teddi",
-        "tri",
-        "plan",
-        "go"
-      ],
-      "common": [
-        "another",
-        "bean",
-        "go",
-        "holiday",
-        "mr",
-        "mr bean",
-        "next",
-        "summer",
-        "teddy",
-        "week"
-      ],
-      "messages": [
-        [
-          "Travelling home for Christmas?",
-          1482242400
-        ],
-        [
-          "When your evening entertainment doesn't go quite to plan... Mr. Bean - Teddy the Dolphin? Mr. Bean tries to make Teddy into a fish but it doesn't go as planned!",
-          1478185790
-        ],
-        [
-          "Watch your heads, Mr Bean is going for a spin! gph.is",
-          1473166800
-        ],
-        [
-          "We hear Mr Bean is going to be bringing his car with him. I wonder why?...\n\n3 days to go! #MrBean25 Timeline Photos",
-          1441108800
-        ],
-        [
-          "After the exhaustion of another flight Mr Bean has tripped over a cactus patch and let go of Teddy! Where has he thrown him? Can you guess which country they are in? Timeline Photos",
-          1439470801
-        ],
-        [
-          "You guessed it, Mr Bean and Teddy are in NEW YORK, USA! Where will they go next week? Timeline Photos",
-          1438869602
-        ],
-        [
-          "Another week and another holiday stop. In the chaos of a new city Mr Bean has lost Teddy. YET AGAIN! He really needs to take better care of him. Can you spot Teddy and guess where they are? Timeline Photos",
-          1438783480
-        ],
-        [
-          "Did you get it right? Mr Bean is in JAPAN!! Hopefully you found Teddy too.  \n\nMr Bean is just in time to catch his flight to his next holiday stop. Where will they go next week... Timeline Photos",
-          1437742802
-        ],
-        [
-          "Did you find Teddy? Mr Bean is in INDIA!!! But it\u2019s a bit too hot for them, I wonder where they\u2019ll go next week... Timeline Photos",
-          1437138002
-        ],
-        [
-          "Mr. Bean is back at school and having a go in the science lab. Oh dear..!\n\nhttps://www.youtube.com/watch?v=LMbQv6QMZ9o&index=6&list=UUkAGrHCLFmlK3H2kd6isipg Timeline Photos",
-          1415268000
-        ],
-        [
-          "It\u2019s the Taj Mahal!  What are Mr Bean and Teddy going to fly to see next? Timeline Photos",
-          1408003201
-        ],
-        [
-          "Another city, another rubbish selfie!  Which famous landmark are Mr Bean and Teddy standing in front of?  Answer tomorrow. Timeline Photos",
-          1407398401
-        ],
-        [
-          "Sometimes it\u2019s fun to have a lookalike, but not when they are wanted for criminal activity! Are you sometimes mistaken for another person? Who?\nhttps://www.youtube.com/watch?v=wozECtZwJj8 Timeline Photos",
-          1403168401
-        ],
-        [
-          "Mr. Bean doesn\u2019t like the meal he has ordered, but luckily he has a clever plan to get rid of it without anybody noticing!\nhttp://www.youtube.com/watch?v=C6QqSxmpRMM Timeline Photos",
-          1397037601
-        ],
-        [
-          "Oh no, a mole is ruining Mr Bean\u2019s garden! But he\u2019s got a plan to catch it...\nhttp://www.youtube.com/watch?v=GuSN2318Cis Timeline Photos",
-          1394182803
-        ],
-        [
-          "Have you had a haircut recently? Hopefully you didn\u2019t go to this salon where Mr Bean was briefly Head Stylist! \r\nhttp://www.youtube.com/watch?v=EoYAic35n0Y Timeline Photos",
-          1390575601
-        ],
-        [
-          "Going to any Christmas parties this weekend?\r\nHope you have more luck than Irma! Timeline Photos",
-          1387497600
-        ],
-        [
-          "And the answer is...Mr Bean is going camping for the weekend! Timeline Photos",
-          1380272582
-        ],
-        [
-          "What did you think of Mr Bean\u2019s summer trip? Tell us your favourite place in his scrap book!",
-          1378707614
-        ],
-        [
-          "Did you guess? Mr Bean has finished his scrap book page for his holiday to India! Timeline Photos",
-          1378364897
-        ],
-        [
-          "Where is Mr Bean on his holiday this week? Timeline Photos",
-          1378190506
-        ],
-        [
-          "Where is Mr Bean on his travels this week? Timeline Photos",
-          1377589305
-        ],
-        [
-          "Mr Bean has completed his scrap book page for the USA! Where do you think he might go next on his summer holiday? Timeline Photos",
-          1377155555
-        ],
-        [
-          "Mr Bean is in Mexico! Where do you think he might go next week? Timeline Photos",
-          1376635988
-        ],
-        [
-          "Mr Bean is making a scrap book while on his Summer Holiday. Can you guess where he is now? Timeline Photos",
-          1376483425
-        ],
-        [
-          "Hooray! It's Friday and Mr Bean can't wait to get stuck into the weekend. Not long to go now! What are your plans?",
-          1348817168
-        ],
-        [
-          "Look! It\u2019s another postcard from Mr Bean. We hope he\u2019s making the most of his travels \u2013 only one more stop and then he\u2019ll be back home with Teddy in Highbury... Timeline Photos",
-          1345793515
-        ],
-        [
-          "Wow, it's hot hot hot where Mr Bean is this week but he still won't take is jacket off! What an amazing holiday he's having! Timeline Photos",
-          1344581995
-        ],
-        [
-          "Look! It's another postcard from Mr Bean on his travels! Timeline Photos",
-          1343981412
-        ],
-        [
-          "Mr Bean is on his summer holidays but can you guess where he is this week?.... Timeline Photos",
-          1343373353
-        ],
-        [
-          "For those of you who have finished your studies for the summer, the Mr Bean team hope you have a wonderful long break!\n\nMr Bean\u2019s really looking forward to the summer holidays because he has decided to go on an adventure and do some travelling! Watch this space for updates on where he\u2019s been and what he\u2019s been up to...\n \nDo you have anything fun planned for the summer?",
-          1342787683
-        ]
-      ],
-      "dates_start": 1358608605,
-      "dates_end": 1438976883,
-      "likes_avg": 76386,
-      "likes_stdev": 64451,
-      "comments_avg": 1996,
-      "comments_stdev": 1369,
-      "shares_avg": 3544,
-      "shares_stdev": 7215
-    },
-    {
-      "number": 22,
-      "important": [
+        "bean anim",
         "bean anim seri",
-        "ever",
-        "anim",
-        "rowan",
-        "android",
         "anim seri",
-        "look",
-        "behind",
-        "scene",
-        "bean anim"
+        "anim",
+        "seri"
       ],
       "common": [
-        "animated",
-        "animated series",
+        "anim",
+        "anim seri",
         "bean",
-        "bean animated",
-        "bean animated series",
+        "bean anim",
+        "bean anim seri",
         "mr",
         "mr bean",
-        "mr bean animated",
-        "mr bean animated series",
-        "series"
+        "mr bean anim",
+        "mr bean anim seri",
+        "seri"
       ],
       "messages": [
         [
@@ -2360,107 +1528,25 @@
       "shares_stdev": 3490
     },
     {
-      "number": 23,
+      "number": 15,
       "important": [
-        "ever",
-        "celebr",
-        "bean seri",
-        "irma",
-        "android",
-        "answer",
-        "seri",
-        "question",
-        "guess",
-        "team"
-      ],
-      "common": [
-        "answered",
-        "bean",
-        "done",
-        "london",
-        "mr",
-        "mr bean",
-        "question",
-        "quiz",
-        "well",
-        "well done"
-      ],
-      "messages": [
-        [
-          "Guess who's in London?!? #mrbean25 Mobile Uploads",
-          1441343443
-        ],
-        [
-          "To celebrate the premiere of the new Animated Mr Bean Series we are filming a Q&A with some of the Creative Team as well as the voice of Irma, Matilda Ziegler. If you\u2019ve ever had a question about the making of the series comment below and it may get answered! Timeline Photos",
-          1423074601
-        ],
-        [
-          "Well done everyone!  It\u2019s the Great Pyramid! Timeline Photos",
-          1408694401
-        ],
-        [
-          "How well stocked is your fridge? Wouldn\u2019t it be great to have Mr Bean\u2019s Super Trolley to get your food shopping done extra quickly!\nhttp://www.youtube.com/watch?v=8umIUWvXwMQ Timeline Photos",
-          1393164000
-        ],
-        [
-          "Good luck and Well done to anyone with exams at the moment! Timeline Photos",
-          1371197261
-        ],
-        [
-          "Well done to the 1,474 Mr Bean Fans who answered last week\u2019s question correctly - Teddy had his head cut off in the episode - Mr Bean in Room 426!",
-          1349859909
-        ],
-        [
-          "Well done to the 3,713 Mr Bean fans who knew that Mr Bean's girlfriend is Irma Gobb!",
-          1336984068
-        ],
-        [
-          "Well done to the 1,036 people who answered yesterday\u2019s poll question correctly - the name of Mr Bean's landlady's one-eyed cat in the Animated TV series was indeed Scrapper!",
-          1332492707
-        ],
-        [
-          "Well done to everyone who answered our Mr Bean quiz question posted earlier this week correctly! Mr Bean does indeed live in Highbury, north London. Why not put your Bean knowledge to the test by trying out the full quiz on the Mr Bean website - http://www.mrbean.com/uk/quiz/\nDon't forget to tell us how you do! Mr Bean Quiz | Mr Bean",
-          1327056900
-        ],
-        [
-          "Are you the craziest, Beaniest fan of all? Prove how well you know Mr Bean by answering this question - Mr Bean lives in a flat in London but in which part of London? Good luck everyone!!",
-          1326795200
-        ]
-      ],
-      "dates_start": 1330392020,
-      "dates_end": 1411740477,
-      "likes_avg": 63885,
-      "likes_stdev": 61815,
-      "comments_avg": 1384,
-      "comments_stdev": 1226,
-      "shares_avg": 3116,
-      "shares_stdev": 7055
-    },
-    {
-      "number": 24,
-      "important": [
-        "scene",
-        "behind bean",
-        "new behind",
-        "see",
-        "last",
-        "question",
         "behind",
-        "full",
         "full video",
-        "team"
+        "new behind",
+        "full",
+        "behind bean"
       ],
       "common": [
-        "beans",
+        "anim",
+        "bean",
         "behind",
-        "behind beans",
-        "exclusive",
+        "behind bean",
         "full",
         "full video",
         "look",
         "new",
         "new behind",
-        "new behind beans"
+        "new behind bean"
       ],
       "messages": [
         [
@@ -2522,87 +1608,25 @@
       "shares_stdev": 1126
     },
     {
-      "number": 25,
+      "number": 16,
       "important": [
-        "tomorrow",
-        "right",
-        "come",
-        "classic",
-        "final",
-        "android",
-        "today",
-        "vote",
-        "scene",
-        "top"
-      ],
-      "common": [
-        "bean",
-        "bean scenes",
-        "classic",
-        "classic mr",
-        "classic mr bean",
-        "mr",
-        "mr bean",
-        "scenes",
-        "winter",
-        "winter cup"
-      ],
-      "messages": [
-        [
-          "And your top three classic Mr Bean scenes are... Mr Bean Winter Cup - Top 3",
-          1486993815
-        ],
-        [
-          "Today is the final of the Winter Cup of Classic Bean moments - vote for your ultimate favourite Mr Bean scene right now!\n\nCome back tomorrow at 3pm GMT for a LIVE viewing of your top 3 Classic Mr Bean scenes. Timeline Photos",
-          1486911836
-        ],
-        [
-          "We are holding the Winter Cup of Classic Bean Scenes to find your favourite classic Mr Bean moment. We start with 16, but only one will be victorious! \n\nVote on Twitter now - www.twitter.com/MrBean Mr Bean - Winter Cup of Classic Mr Bean Scenes",
-          1486480518
-        ],
-        [
-          "Caption this Classic Bean scene Timeline Photos",
-          1479636001
-        ],
-        [
-          "Caption this classic Mr. Bean scene! Timeline Photos",
-          1477054801
-        ]
-      ],
-      "dates_start": 1479192453,
-      "dates_end": 1487638334,
-      "likes_avg": 86282,
-      "likes_stdev": 83097,
-      "comments_avg": 3456,
-      "comments_stdev": 5205,
-      "shares_avg": 2845,
-      "shares_stdev": 2333
-    },
-    {
-      "number": 26,
-      "important": [
-        "day",
-        "bean click",
-        "android",
-        "bean click stay tune click",
-        "stay tune click",
-        "bean click stay tune",
+        "bean click stay",
         "click",
-        "happi",
+        "bean click",
         "stay",
-        "bean click stay"
+        "stay tune"
       ],
       "common": [
         "bean",
         "bean click",
+        "bean click stay",
         "click",
+        "click stay tune",
         "mr",
         "mr bean",
         "stay",
-        "stay tuned",
-        "stay tuned click",
-        "tuned",
-        "tuned click"
+        "stay tune",
+        "tune"
       ],
       "messages": [
         [
@@ -2708,176 +1732,24 @@
       "shares_stdev": 1966
     },
     {
-      "number": 27,
+      "number": 17,
       "important": [
-        "around world",
-        "bean around",
-        "around",
-        "world",
-        "download mr",
-        "app",
-        "weekend",
-        "keep",
-        "download mr bean",
-        "download"
-      ],
-      "common": [
-        "around",
-        "around world",
-        "bean",
-        "bean around",
-        "bean around world",
-        "mr",
-        "mr bean",
-        "mr bean around",
-        "mr bean around world",
-        "world"
-      ],
-      "messages": [
-        [
-          "No plans this weekend? Not to worry, we have the Mr Bean Around the World app to keep you entertained!\n\nDownload here - http://mrbea.nl/feb17 Mr Bean - Around the World",
-          1486130568
-        ],
-        [
-          "Join Mr Bean and visit India, Mexico and more in the official mobile game! Search \u2018Mr Bean\u2019 on the App Store or on Google Play\u2122 and get the FREE game now! Mr Bean Around the World",
-          1467982800
-        ],
-        [
-          "Yippee! Mr Bean - Around the World is now FREE TO PLAY! Get the game on iOS & Android now - http://mrbea.nl/free - or search for \u2018Mr Bean\u2019 on the app store! Mr Bean Around The World App \u2013 now FREE!",
-          1467464400
-        ],
-        [
-          "Thinking about travelling the world in 2016? Visit 6 different countries without even leaving the house in Mr Bean \u2013 Around the World! Out now on iOS, Android and Amazon - http://mrbea.nl/newyear",
-          1451656801
-        ],
-        [
-          "Did you get a new smartphone or tablet this Christmas? Treat yourself to a late Christmas present with Mr Bean \u2013 Around the World, available on your device right now! http://mrbea.nl/boxingday Timeline Photos",
-          1451145603
-        ],
-        [
-          "Mr Bean has lost his Christmas presents! Can you help him find them? There are six presents hidden in Mr Bean \u2013 Around the World! There\u2019s a gift in every country! http://mrbea.nl/christmas Timeline Photos",
-          1450364401
-        ],
-        [
-          "Travel the world in our BRAND NEW game, Mr Bean - Around the World! Out NOW on iOS & Android http://mrbea.nl/ATW Mr Bean Around The World App OUT NOW!",
-          1444310583
-        ],
-        [
-          "Hope you enjoyed going around the world with Mr Bean as part of our summer game! The pictures were from the BRAND NEW Mr Bean app, \u2018Mr Bean \u2013 Around The World!\u2019 New game coming soon on Android and iOS.",
-          1440162900
-        ],
-        [
-          "Teddy was stuck in a cactus. Ouch! Mr Bean and Teddy are in MEXICO! Just one more flight to go on Mr Bean\u2019s Around the World tour. Timeline Photos",
-          1439557201
-        ],
-        [
-          "Here is an EXCLUSIVE clip for everyone around the world to celebrate the new Animated series! Let us know what you think Mr Bean fans!",
-          1424158201
-        ],
-        [
-          "For our 439,000 Facebook fans in Australia and everyone else around the World, Happy Australia Day!",
-          1327571870
-        ]
-      ],
-      "dates_start": 1401720648,
-      "dates_end": 1480189411,
-      "likes_avg": 23594,
-      "likes_stdev": 23375,
-      "comments_avg": 539,
-      "comments_stdev": 412,
-      "shares_avg": 2202,
-      "shares_stdev": 2045
-    },
-    {
-      "number": 28,
-      "important": [
-        "rowan",
-        "android",
-        "time mr",
-        "rowan atkinson",
-        "car",
-        "friend",
-        "time",
-        "drive",
-        "summer",
-        "atkinson"
-      ],
-      "common": [
-        "atkinson",
-        "bean",
-        "mr",
-        "mr bean",
-        "time",
-        "time mr",
-        "time mr bean",
-        "www",
-        "www youtube",
-        "youtube"
-      ],
-      "messages": [
-        [
-          "Can Mr. Bean save his fishy friend in time? www.youtube.com",
-          1472888700
-        ],
-        [
-          "Mr Bean's froggy bath time! www.youtube.com",
-          1469257500
-        ],
-        [
-          "Clear skies, hot weather and the beach - it\u2019s Summer time with Mr Bean! www.youtube.com",
-          1468652700
-        ],
-        [
-          "A smashing article from our friends at Radio Times!!\n\nhttp://www.radiotimes.com/news/2015-09-04/mr-bean-drives-to-buckingham-palace-on-the-roof-of-his-car-to-celebrate-turning-25 Mr Bean drives to Buckingham Palace on the roof of his car to celebrate turning 25 A quarter of a century after Rowan Atkinson's eccentric funnyman first appeared on British screens, he's still causing mayhem on The Mall",
-          1441368982
-        ],
-        [
-          "Time for Mr. Bean to collect his laundry from the washing machine, but it looks like he may have used the wrong setting!\n\nhttp://bit.ly/1DSognU Timeline Photos",
-          1432803600
-        ],
-        [
-          "It\u2019s cinema time for Mr Bean, but the movie is so scary Mr Bean accidentally embarrasses himself! Check it out here!\n\nhttps://www.youtube.com/watch?v=s7xC2cnK8oM&list=UUkAGrHCLFmlK3H2kd6isipg Timeline Photos",
-          1417341601
-        ],
-        [
-          "11 times Mr. Bean taught you to embrace your inner child.. by acting like one! 11 Times Mr. Bean Taught You To Embrace Your Inner Child Few words describe Mr. Bean (and he says even fewer). Believe it or not, Rowan Atkinson created Bean around the same time he was studying for his Masters in Electrical Engineering. Since that time, Atkinson's character -- which he described as &qu...",
-          1415032200
-        ]
-      ],
-      "dates_start": 1422189961,
-      "dates_end": 1468480119,
-      "likes_avg": 84255,
-      "likes_stdev": 44481,
-      "comments_avg": 667,
-      "comments_stdev": 384,
-      "shares_avg": 2100,
-      "shares_stdev": 1496
-    },
-    {
-      "number": 29,
-      "important": [
-        "bean channel first episod origin",
-        "click welcom offici mr bean",
-        "click welcom offici",
-        "bean tri",
-        "bean channel first",
-        "bean seri",
-        "bean channel first episod",
-        "offici mr bean channel",
-        "origin",
-        "click welcom"
+        "episod",
+        "channel",
+        "first",
+        "offici"
       ],
       "common": [
         "bean",
         "channel",
-        "episode",
+        "channel first",
+        "episod",
         "first",
+        "first episod origin",
+        "first episod origin mr",
         "mr",
         "mr bean",
-        "official",
-        "original",
-        "original mr",
-        "youtube"
+        "offici"
       ],
       "messages": [
         [
@@ -2931,28 +1803,165 @@
       "shares_stdev": 1738
     },
     {
-      "number": 30,
+      "number": 18,
       "important": [
-        "tomorrow",
+        "around world",
+        "around",
+        "bean around",
+        "world"
+      ],
+      "common": [
+        "around",
+        "around world",
+        "bean",
+        "bean around",
+        "bean around world",
+        "mr",
+        "mr bean",
+        "mr bean around",
+        "mr bean around world",
+        "world"
+      ],
+      "messages": [
+        [
+          "No plans this weekend? Not to worry, we have the Mr Bean Around the World app to keep you entertained!\n\nDownload here - http://mrbea.nl/feb17 Mr Bean - Around the World",
+          1486130568
+        ],
+        [
+          "Join Mr Bean and visit India, Mexico and more in the official mobile game! Search \u2018Mr Bean\u2019 on the App Store or on Google Play\u2122 and get the FREE game now! Mr Bean Around the World",
+          1467982800
+        ],
+        [
+          "Yippee! Mr Bean - Around the World is now FREE TO PLAY! Get the game on iOS & Android now - http://mrbea.nl/free - or search for \u2018Mr Bean\u2019 on the app store! Mr Bean Around The World App \u2013 now FREE!",
+          1467464400
+        ],
+        [
+          "Thinking about travelling the world in 2016? Visit 6 different countries without even leaving the house in Mr Bean \u2013 Around the World! Out now on iOS, Android and Amazon - http://mrbea.nl/newyear",
+          1451656801
+        ],
+        [
+          "Did you get a new smartphone or tablet this Christmas? Treat yourself to a late Christmas present with Mr Bean \u2013 Around the World, available on your device right now! http://mrbea.nl/boxingday Timeline Photos",
+          1451145603
+        ],
+        [
+          "Mr Bean has lost his Christmas presents! Can you help him find them? There are six presents hidden in Mr Bean \u2013 Around the World! There\u2019s a gift in every country! http://mrbea.nl/christmas Timeline Photos",
+          1450364401
+        ],
+        [
+          "Travel the world in our BRAND NEW game, Mr Bean - Around the World! Out NOW on iOS & Android http://mrbea.nl/ATW Mr Bean Around The World App OUT NOW!",
+          1444310583
+        ],
+        [
+          "Hope you enjoyed going around the world with Mr Bean as part of our summer game! The pictures were from the BRAND NEW Mr Bean app, \u2018Mr Bean \u2013 Around The World!\u2019 New game coming soon on Android and iOS.",
+          1440162900
+        ],
+        [
+          "Teddy was stuck in a cactus. Ouch! Mr Bean and Teddy are in MEXICO! Just one more flight to go on Mr Bean\u2019s Around the World tour. Timeline Photos",
+          1439557201
+        ],
+        [
+          "For our 439,000 Facebook fans in Australia and everyone else around the World, Happy Australia Day!",
+          1327571870
+        ]
+      ],
+      "dates_start": 1401864187,
+      "dates_end": 1483405237,
+      "likes_avg": 17784,
+      "likes_stdev": 15155,
+      "comments_avg": 442,
+      "comments_stdev": 288,
+      "shares_avg": 1801,
+      "shares_stdev": 1684
+    },
+    {
+      "number": 19,
+      "important": [
+        "subscrib mr",
+        "anim episod",
+        "subscrib",
+        "episod",
+        "anim"
+      ],
+      "common": [
+        "anim",
+        "anim episod",
+        "bean",
+        "bean cartoon",
+        "episod",
+        "mr",
+        "mr bean",
+        "subscrib",
+        "subscrib mr",
+        "subscrib mr bean"
+      ],
+      "messages": [
+        [
+          "Watch Mr Bean plan his great escape\u2026\nhttps://www.youtube.com/watch?v=SDEyJEoyZKs Mr Bean - Prison Break Mr bean cleverly escapes from prison From animated episode Roadworks. SUBSCRIBE TO MR BEAN CARTOON WORLD HERE - http://ow.ly/zUJGZ For more Bean Visit: http:...",
+          1456412406
+        ],
+        [
+          "Mr Bean is always trying to save money, even when it\u2019s Teddy\u2019s Birthday!\nhttps://www.youtube.com/watch?v=B4zJAXnNk5Y Mr Bean - Saving Money on Teddy's birthday. Mr bean doesn't have enough money for Teddy's birthday. From animated episode Roadworks. SUBSCRIBE TO MR BEAN CARTOON WORLD HERE - http://ow.ly/zUJGZ For mor...",
+          1454857202
+        ],
+        [
+          "Oh no! Have you ever had a noisy neighbour like poor Mr Bean?\nhttps://www.youtube.com/watch?v=pjm_ZJuZ5OU Mr Bean - Noisy Neighbour Mr Bean gets annoyed with his neighbour for making noise while he tries to watch tv. From animated episode 'Neighbourly Bean'. SUBSCRIBE TO MR BEAN CARTOON W...",
+          1450278001
+        ],
+        [
+          "Silly Mr Bean, that\u2019s not how to bake a cake!\nhttps://www.youtube.com/watch?v=P4cHCp7hXzo Mr Bean - Bakes a cake Mr bean is very bad at baking. From animated episode Roadworks. SUBSCRIBE TO MR BEAN CARTOON WORLD HERE - http://ow.ly/zUJGZ For more Bean Visit: http://www....",
+          1449154801
+        ],
+        [
+          "If you\u2019re going on a holiday soon, maybe Mr. Bean can offer you some packing tips!\nhttps://www.youtube.com/watch?v=bEJ8V_Cnx6I Mr. Bean - The Holiday Suitcase Mr Bean packs up his holiday suitcase. FOR MORE BEAN CLICK HERE: http://bit.ly/1rhPvax Subscribe for more Mr Bean: http://bit.ly/SubscribeToMrBean This video...",
+          1433926800
+        ],
+        [
+          "If grocery shopping takes too long maybe you can borrow Mr Bean\u2019s SUPER TROLLEY!\nhttp://bit.ly/1bFrgOv Mr Bean - Super Trolley Mr Bean has designed a super trolley to help him do his shopping quicker. From animated episode Super Trolley. SUBSCRIBE TO MR BEAN CARTOON WORLD HERE - http...",
+          1429347600
+        ],
+        [
+          "Do you have a garden that needs to be mown? Perhaps you could use Mr Bean\u2019s new invention!\n\nhttp://bit.ly/1DAt4T3 Mr Bean - Lawnmower invention When Mrs. Wicket makes Mr Bean mow the lawn he thinks of an innovative invention to get it does faster. From animated episode Roadworks. SUBSCRIBE TO MR BEAN...",
+          1427706002
+        ],
+        [
+          "Mr Bean has an ingenious way of getting his keys back from a thieving magpie. Watch to find out how!\n\nhttp://bit.ly/1vBPXEF Mr Bean - Toy Plane Crash Mr Bean realises he's crashed Teddy into a tree. He checks for vital signs! From animated episode 'Magpie'. SUBSCRIBE TO MR BEAN CARTOON WORLD HERE - http://...",
+          1425812409
+        ],
+        [
+          "Do you remember when Mr. Bean uses as a makeshift nappy? What happens to the dirty one? Click the link to watch!\n\nhttp://bit.ly/1uQAiya Mr. Bean - The Nappy Disaster Mr Bean unleashes a nappy disaster! FOR MORE BEAN CLICK HERE: http://bit.ly/1rhPvax Subscribe for more Mr Bean: http://bit.ly/SubscribeToMrBean This video is...",
+          1418378401
+        ],
+        [
+          "Don't forget to support Mr Bean on Youtube's comedy week! Have you seen today's funny video? Check it out here - http://www.youtube.com/watch?v=St5D3Ue_sy0 Mr. Bean - The Perfume Counter Mr. Bean suffered as he walks through the perfume counter in a shopping centre. Subscribe for more Mr Bean: http://bit.ly/SubscribeToMrBean This video is par...",
+          1369292885
+        ]
+      ],
+      "dates_start": 1407165765,
+      "dates_end": 1455867536,
+      "likes_avg": 23562,
+      "likes_stdev": 8194,
+      "comments_avg": 350,
+      "comments_stdev": 197,
+      "shares_avg": 1788,
+      "shares_stdev": 2090
+    },
+    {
+      "number": 20,
+      "important": [
+        "happi",
         "egg",
         "find",
-        "ani",
-        "check back",
-        "easter",
-        "android",
-        "timelin",
-        "photo",
-        "happi"
+        "easter"
       ],
       "common": [
         "bean",
         "cake",
         "easter",
-        "easter eggs",
+        "easter egg",
         "egg",
-        "eggs",
         "find",
-        "happy easter",
+        "happi",
+        "happi easter",
         "mr",
         "mr bean"
       ],
@@ -3012,91 +2021,22 @@
       "shares_stdev": 968
     },
     {
-      "number": 31,
+      "number": 21,
       "important": [
-        "anim episod",
-        "day",
-        "special",
-        "anim",
-        "celebr",
-        "irma",
-        "android",
-        "time",
-        "episod",
-        "watch"
+        "tune",
+        "click welcom offici"
       ],
       "common": [
         "bean",
-        "dinner",
-        "favourite",
-        "favourite moments mr",
-        "favourite moments mr bean",
-        "irma",
-        "mr",
-        "mr bean",
-        "special",
-        "watch"
-      ],
-      "messages": [
-        [
-          "It's International Women's Day and we are celebrating Irma, the main woman in Mr Bean's life (excluding Mrs Wicket of course).\n\nWatch our Irma compilation here - https://www.youtube.com/watch?v=KVl5iVFCo54 gph.is",
-          1488981635
-        ],
-        [
-          "Mr Bean is having a tricky time in the kitchen! Mr Bean - Strange Canapes Mr Bean is struggling in the kitchen, meaning Irma has to feed herself!",
-          1467899865
-        ],
-        [
-          "Mr Bean has a special guest for dinner! Mr Bean - Serving Dinner Irma is round for dinner but Bean is having a few issues!",
-          1467297563
-        ],
-        [
-          "Cooking Sunday lunch? Here\u2019s how not to do it! \nhttps://www.youtube.com/watch?v=2545atoypgs Mr Bean - Dinner for Two Mr Bean has kept Irma waiting so long for food she eats the flower on the table. He cooks a local pigeon for her. From animated episode Dinner for Two. FOR M...",
-          1463922001
-        ],
-        [
-          "We\u2019ve collected our favourite moments with Mr. Bean and his girlfriend Irma in this special playlist. Do you think they\u2019re a good match?\n\nhttp://bit.ly/1zsaNRw Irma and Bean Irma is Mr. Bean's love-interest in the show, but sometimes Mr. Bean isn't the best date! Check out our favourite moments between Mr. Bean and Irma Gobb",
-          1426590000
-        ],
-        [
-          "Mr. Bean is planning a special date with Irma... Timeline Photos",
-          1425639602
-        ]
-      ],
-      "dates_start": 1433615630,
-      "dates_end": 1479827924,
-      "likes_avg": 71382,
-      "likes_stdev": 100352,
-      "comments_avg": 824,
-      "comments_stdev": 1302,
-      "shares_avg": 1326,
-      "shares_stdev": 1556
-    },
-    {
-      "number": 32,
-      "important": [
         "click welcom offici",
-        "click welcom offici mr bean",
-        "bean channel",
-        "welcom offici",
-        "welcom",
-        "anoth",
-        "channel",
-        "offici mr bean channel",
-        "welcom offici mr bean",
-        "click welcom"
-      ],
-      "common": [
-        "bean",
-        "click",
-        "click subscribetomrbean",
-        "click subscribetomrbean welcome",
         "mr",
         "mr bean",
-        "official mr",
-        "stay",
-        "stay tuned",
-        "tuned click"
+        "stay tune click welcom",
+        "tune",
+        "tune click",
+        "tune click welcom",
+        "tune click welcom offici",
+        "tune click welcom offici mr"
       ],
       "messages": [
         [
@@ -3174,91 +2114,70 @@
       "shares_stdev": 1286
     },
     {
-      "number": 33,
+      "number": 22,
       "important": [
-        "android",
-        "timelin",
-        "troubl",
-        "photo",
-        "back"
-      ],
-      "common": [
-        "ball",
-        "bean",
-        "bean trouble",
-        "mr",
-        "mr bean",
-        "tennis ball",
-        "trouble",
-        "www",
-        "www youtube",
-        "youtube"
-      ],
-      "messages": [
-        [
-          "Mr Bean gets in trouble with the boys in blue! www.youtube.com",
-          1477573500
-        ],
-        [
-          "Mr Bean smells trouble! www.youtube.com",
-          1475316300
-        ],
-        [
-          "Mr Bean has trouble getting his tennis ball back! Mr Bean - Ladder Problems Mr.Bean loses his tennis ball!",
-          1471525586
-        ],
-        [
-          "Mr Bean has some trouble in the kitchen! Mr Bean - Burnt Dinner Mr.Bean has a kitchen mishap!",
-          1469712734
-        ],
-        [
-          "Don\u2019t you just hate cold weather? Mr Bean is having some hot water trouble unfortunately!\nhttp://www.youtube.com/watch?v=EzhPsDExB0M Timeline Photos",
-          1392645600
-        ]
-      ],
-      "dates_start": 1424882535,
-      "dates_end": 1489826952,
-      "likes_avg": 41339,
-      "likes_stdev": 28100,
-      "comments_avg": 449,
-      "comments_stdev": 514,
-      "shares_avg": 1018,
-      "shares_stdev": 1180
-    },
-    {
-      "number": 34,
-      "important": [
-        "big",
-        "help",
-        "christma",
-        "download mr",
-        "want",
-        "thank",
-        "android",
-        "download mr bean",
+        "store",
+        "app store",
+        "teddi",
         "download",
-        "io"
+        "app"
       ],
       "common": [
-        "android",
         "app",
+        "app store",
         "bean",
         "download",
-        "flying",
-        "flying teddy",
-        "free",
+        "fli",
+        "fli teddi",
         "mr",
         "mr bean",
-        "teddy"
+        "store",
+        "teddi"
       ],
       "messages": [
+        [
+          "Mr Bean has snuck into LINE and is up to mischief! Spread the fun when chatting with friends with these fantastic Mr Bean stickers - http://mrbea.nl/fbline NEW! Get Mr Bean Stickers on LINE!",
+          1486735200
+        ],
         [
           "Want to get your hands on some limited edition Christmas stickers? Download the Mr Bean sticker pack for iOS now! http://mrbea.nl/fbstickers",
           1481551200
         ],
         [
+          "Have you Bean to the App Store for iMessage yet? Stickers now available http://apple.co/2d6GLW1 \n\n#iMessageApps Mr Bean iMessage Stickers",
+          1475758800
+        ],
+        [
+          "Have you Bean to the App Store for iMessage yet? Stickers now available http://apple.co/2d6GLW1\n\n#iMessageApps Mr Bean\u2122",
+          1475154000
+        ],
+        [
+          "Join Mr. Bean in supporting the UN's Global Goals and search SDGs in Action in app stores now!\n\nhttps://sdgsinaction.com/ The UN and Mr Bean's Global Goals!",
+          1474462800
+        ],
+        [
+          "Play your part in a better future with the UN and Mr Bean! Search SDGs in Action in app stores now!\n\nhttps://sdgsinaction.com/ The UN and Mr Bean's Global Goals!",
+          1474376400
+        ],
+        [
+          "Mr Bean is helping the UN! And you can too. Search SDGs in Action in the App Store and help make the world a better place.\n\nhttps://sdgsinaction.com/ The UN and Mr Bean's Global Goals!",
+          1474290000
+        ],
+        [
+          "Mr Bean is playing his part towards achieving the UN's Global Goals. Why not join him? Search SDGs in Action in app stores now! The UN and Mr Bean's Global Goals!",
+          1474221600
+        ],
+        [
           "A BIG THANK YOU to all our fans for helping us reach over 4 Million downloads of Mr Bean \u2013 Flying Teddy! If you haven't played already, search \u2018Mr Bean\u2019 on the App Store or on Google Play\u2122 to download this free game and help fly Teddy to safety! Mr Bean \u2013 Flying Teddy \u2013 Thank you! A BIG THANK YOU to all our fans for helping us reach over 4 Million downloads of Mr Bean \u2013 Flying Teddy! If you haven't played already, click here - http://m...",
           1468843306
+        ],
+        [
+          "Have you heard? The official Mr Bean game is now free to play! Just search 'Mr Bean' on the App Store and Google Play now! Mr Bean's cover photo",
+          1467633400
+        ],
+        [
+          "HURRY! You can get our NEW Mr Bean game for 35% off for a limited time only! Get the app now, must end midnight Sunday (GMT)! http://mrbea.nl/beansale Timeline Photos",
+          1445536801
         ],
         [
           "Introducing all NEW Teddy TV! Watch the funniest Mr Bean videos in the Mr Bean: Flying Teddy app for FREE. Download now http://mrbea.nl/tedtv Timeline Photos",
@@ -3297,89 +2216,12 @@
           1370419156
         ],
         [
-          "Have you played Mr Bean solitaire? Or dodged balloons and collected points for Mr Bean? Check out the great Mr Bean games and downloads! http://mrbean.co.uk/games-downloads Mr Bean Mr Bean",
-          1359617435
-        ],
-        [
-          "Did you know the Mr Bean songs are available to download on iTunes? Just click on the links to tickle your ears with the truly wonderful sounds of our much loved Mr Bean... \nhttp://itunes.apple.com/gb/album/mr.-bean-theme-from-animated/id404782126?i=404782167 \nhttp://itunes.apple.com/gb/album/funny-man/id404782126?i=404782168\n iTunes - Music - Mr. Bean (Theme from the Animated Series) - Single by Howard Goodall Preview songs from Mr. Bean (Theme from the Animated Series) - Single by Howard Goodall on the iTunes Store. Preview, buy and download Mr. Bean (Theme from the Animated Series) - Single for \u00a31.58. Songs start at just \u00a30.79.",
-          1328004305
-        ]
-      ],
-      "dates_start": 1357578110,
-      "dates_end": 1438809742,
-      "likes_avg": 31457,
-      "likes_stdev": 27770,
-      "comments_avg": 595,
-      "comments_stdev": 345,
-      "shares_avg": 933,
-      "shares_stdev": 655
-    },
-    {
-      "number": 35,
-      "important": [
-        "week",
-        "new",
-        "new mr",
-        "android",
-        "bean new",
-        "friend",
-        "shop",
-        "way",
-        "subscrib",
-        "fun"
-      ],
-      "common": [
-        "app",
-        "bean",
-        "mr",
-        "mr bean",
-        "mr bean ooc",
-        "new",
-        "new mr",
-        "new mr bean",
-        "shop",
-        "store"
-      ],
-      "messages": [
-        [
-          "Mr Bean has snuck into LINE and is up to mischief! Spread the fun when chatting with friends with these fantastic Mr Bean stickers - http://mrbea.nl/fbline NEW! Get Mr Bean Stickers on LINE!",
-          1486735200
-        ],
-        [
-          "Mr Bean has some new ideas for his weekly shop! Mr Bean - Supermarket Chaos! Mr Bean is determined to have an easier shop!",
-          1475766001
-        ],
-        [
-          "Will Mr Bean get mixed up in this pet shop robbery? Mr Bean - Pet Shop Robbery Mr Bean is caught up in a robbery attempt!",
-          1472130180
-        ],
-        [
-          "This is one way to get a shop assistant\u2019s attention!\nhttps://www.youtube.com/watch?v=IZXVyXyg4as Mr Bean - Bad Customer Service Mr Bean tries to get service in a china shop but the shop assistant is on the phone to her friend. He explodes a paper bag to get her attention. SUBSCRIBE TO...",
-          1454425232
-        ],
-        [
-          "Why not get all your Christmas shopping done in one go. Visit the NEW Mr Bean\u2019s Shops page on the official Mr Bean website!!\n\nhttp://www.mrbean.com/shops Shops - Mr Bean Get your Mr. Bean stuff \u2013 before Teddy does! Buy gifts, t-shirts at more from mrbeanstuff.com. Available in USA, Canada and Mexico",
-          1448096401
-        ],
-        [
-          "HURRY! You can get our NEW Mr Bean game for 35% off for a limited time only! Get the app now, must end midnight Sunday (GMT)! http://mrbea.nl/beansale Timeline Photos",
-          1445536801
-        ],
-        [
-          "Beat The Heat with HUGE Summer Savings in the Mr. Bean Store!  Hurry, Sale Ends August 31st!\n \nShop Now:  http://bit.ly/1oYOzHC Timeline Photos",
-          1409057285
-        ],
-        [
-          "Shop for Holiday Gifts at the Mr. Bean Store this Season!  Receive 10% Off Entire Purchase with Promo Code: BEANGIFTS \nHurry, offer ends Dec 1st.  Shop Here: http://bit.ly/1igetAU Timeline Photos",
-          1385719293
-        ],
-        [
           "We hope you are enjoying the new Mr Bean games as much as we are! Don\u2019t forget that you can download the Mr Bean Slider Puzzle app here http://bit.ly/mrbeanslider3 or the Mr Bean Colour & Paint app here http://bit.ly/mrbeanpaint3 Timeline Photos",
           1366358336
         ],
         [
-          "Getting close! We can\u2019t wait to reveal  what treat we have in store for you. Timeline Photos",
-          1364373859
+          "Have you played Mr Bean solitaire? Or dodged balloons and collected points for Mr Bean? Check out the great Mr Bean games and downloads! http://mrbean.co.uk/games-downloads Mr Bean Mr Bean",
+          1359617435
         ],
         [
           "Have you seen the brand new Mr Bean website? Full of fun games, facts, downloads and more \u2013 www.mrbean.com Let us know what you think! Timeline Photos",
@@ -3398,44 +2240,87 @@
           1329124930
         ],
         [
-          "Did you know that the Mr Bean Coffee Shop is now open in Shanghai and Wuxi, China? How exciting!",
-          1326361829
+          "Did you know the Mr Bean songs are available to download on iTunes? Just click on the links to tickle your ears with the truly wonderful sounds of our much loved Mr Bean... \nhttp://itunes.apple.com/gb/album/mr.-bean-theme-from-animated/id404782126?i=404782167 \nhttp://itunes.apple.com/gb/album/funny-man/id404782126?i=404782168\n iTunes - Music - Mr. Bean (Theme from the Animated Series) - Single by Howard Goodall Preview songs from Mr. Bean (Theme from the Animated Series) - Single by Howard Goodall on the iTunes Store. Preview, buy and download Mr. Bean (Theme from the Animated Series) - Single for \u00a31.58. Songs start at just \u00a30.79.",
+          1328004305
         ]
       ],
-      "dates_start": 1344386731,
-      "dates_end": 1456833323,
-      "likes_avg": 19576,
-      "likes_stdev": 14222,
-      "comments_avg": 711,
-      "comments_stdev": 577,
-      "shares_avg": 923,
-      "shares_stdev": 1265
+      "dates_start": 1359509413,
+      "dates_end": 1467574911,
+      "likes_avg": 24462,
+      "likes_stdev": 22317,
+      "comments_avg": 579,
+      "comments_stdev": 480,
+      "shares_avg": 1043,
+      "shares_stdev": 1035
     },
     {
-      "number": 36,
+      "number": 23,
       "important": [
-        "readi",
-        "need",
-        "teddi",
-        "android",
-        "time mr",
-        "bean teddi",
-        "shop",
-        "holiday",
-        "troubl",
-        "first"
+        "troubl"
       ],
       "common": [
         "bean",
-        "bean teddy",
-        "camping",
+        "bean troubl",
+        "kitchen",
+        "mr",
+        "mr bean",
+        "mr bean troubl",
+        "mrbean",
+        "tenni",
+        "tenni ball",
+        "troubl"
+      ],
+      "messages": [
+        [
+          "Mr Bean gets in trouble with the boys in blue! www.youtube.com",
+          1477573500
+        ],
+        [
+          "Mr Bean smells trouble! www.youtube.com",
+          1475316300
+        ],
+        [
+          "Mr Bean has trouble getting his tennis ball back! Mr Bean - Ladder Problems Mr.Bean loses his tennis ball!",
+          1471525586
+        ],
+        [
+          "Mr Bean has some trouble in the kitchen! Mr Bean - Burnt Dinner Mr.Bean has a kitchen mishap!",
+          1469712734
+        ],
+        [
+          "Don\u2019t you just hate cold weather? Mr Bean is having some hot water trouble unfortunately!\nhttp://www.youtube.com/watch?v=EzhPsDExB0M Timeline Photos",
+          1392645600
+        ]
+      ],
+      "dates_start": 1424882535,
+      "dates_end": 1489826952,
+      "likes_avg": 41339,
+      "likes_stdev": 28100,
+      "comments_avg": 449,
+      "comments_stdev": 514,
+      "shares_avg": 1018,
+      "shares_stdev": 1180
+    },
+    {
+      "number": 24,
+      "important": [
+        "bean teddi",
+        "timelin",
+        "holiday",
+        "teddi",
+        "last"
+      ],
+      "common": [
+        "bean",
+        "bean teddi",
         "front",
         "holiday",
         "last",
         "mr",
         "mr bean",
-        "mr bean teddy",
-        "teddy"
+        "mr bean teddi",
+        "teddi",
+        "timelin"
       ],
       "messages": [
         [
@@ -3455,6 +2340,10 @@
           1440075601
         ],
         [
+          "You guessed it, Mr Bean and Teddy are in NEW YORK, USA! Where will they go next week? Timeline Photos",
+          1438869602
+        ],
+        [
           "Yes, home sweet home!  Nelson\u2019s Column in Trafalgar Square, London.\nMr Bean and Teddy had a really fun holiday! Timeline Photos",
           1409212801
         ],
@@ -3465,6 +2354,10 @@
         [
           "Mr Bean and Teddy travel 2,795 miles/4,496kms to find themselves in front of an impressive ancient structure in a very hot place.  But what is this structure? Timeline Photos",
           1408608001
+        ],
+        [
+          "It\u2019s the Taj Mahal!  What are Mr Bean and Teddy going to fly to see next? Timeline Photos",
+          1408003201
         ],
         [
           "Mr Bean really tries to make this selfie a good one.  Oh dear, he can\u2019t get the camera angle right.  In front of which famous building are Mr Bean and Teddy.  Clue: it was built in marble and represents the love of a husband for his wife! Timeline Photos",
@@ -3491,201 +2384,14 @@
           1353487810
         ]
       ],
-      "dates_start": 1378313009,
-      "dates_end": 1446041661,
-      "likes_avg": 56189,
-      "likes_stdev": 28592,
-      "comments_avg": 1054,
-      "comments_stdev": 919,
-      "shares_avg": 806,
-      "shares_stdev": 368
-    },
-    {
-      "number": 37,
-      "important": [
-        "app store",
-        "better",
-        "help",
-        "search",
-        "world",
-        "app",
-        "android",
-        "play",
-        "store",
-        "make"
-      ],
-      "common": [
-        "app",
-        "bean",
-        "global",
-        "global goals",
-        "goals",
-        "mr",
-        "mr bean",
-        "search",
-        "un",
-        "un mr bean"
-      ],
-      "messages": [
-        [
-          "Have you Bean to the App Store for iMessage yet? Stickers now available http://apple.co/2d6GLW1 \n\n#iMessageApps Mr Bean iMessage Stickers",
-          1475758800
-        ],
-        [
-          "Have you Bean to the App Store for iMessage yet? Stickers now available http://apple.co/2d6GLW1\n\n#iMessageApps Mr Bean\u2122",
-          1475154000
-        ],
-        [
-          "Join Mr. Bean in supporting the UN's Global Goals and search SDGs in Action in app stores now!\n\nhttps://sdgsinaction.com/ The UN and Mr Bean's Global Goals!",
-          1474462800
-        ],
-        [
-          "Play your part in a better future with the UN and Mr Bean! Search SDGs in Action in app stores now!\n\nhttps://sdgsinaction.com/ The UN and Mr Bean's Global Goals!",
-          1474376400
-        ],
-        [
-          "Mr Bean is helping the UN! And you can too. Search SDGs in Action in the App Store and help make the world a better place.\n\nhttps://sdgsinaction.com/ The UN and Mr Bean's Global Goals!",
-          1474290000
-        ],
-        [
-          "Mr Bean is playing his part towards achieving the UN's Global Goals. Why not join him? Search SDGs in Action in app stores now! The UN and Mr Bean's Global Goals!",
-          1474221600
-        ],
-        [
-          "Have you heard? The official Mr Bean game is now free to play! Just search 'Mr Bean' on the App Store and Google Play now! Mr Bean's cover photo",
-          1467633400
-        ]
-      ],
-      "dates_start": 1471169298,
-      "dates_end": 1476229844,
-      "likes_avg": 15503,
-      "likes_stdev": 6735,
-      "comments_avg": 224,
-      "comments_stdev": 83,
-      "shares_avg": 791,
-      "shares_stdev": 527
-    },
-    {
-      "number": 38,
-      "important": [
-        "anim episod",
-        "watch mr",
-        "great",
-        "world",
-        "anim",
-        "plan",
-        "episod",
-        "subscrib",
-        "watch",
-        "subscrib mr"
-      ],
-      "common": [
-        "animated",
-        "animated episode",
-        "bean",
-        "episode",
-        "mr",
-        "mr bean",
-        "subscribe",
-        "subscribe mr",
-        "subscribe mr bean",
-        "watch"
-      ],
-      "messages": [
-        [
-          "Watch Mr Bean plan his great escape\u2026\nhttps://www.youtube.com/watch?v=SDEyJEoyZKs Mr Bean - Prison Break Mr bean cleverly escapes from prison From animated episode Roadworks. SUBSCRIBE TO MR BEAN CARTOON WORLD HERE - http://ow.ly/zUJGZ For more Bean Visit: http:...",
-          1456412406
-        ],
-        [
-          "Mr Bean is always trying to save money, even when it\u2019s Teddy\u2019s Birthday!\nhttps://www.youtube.com/watch?v=B4zJAXnNk5Y Mr Bean - Saving Money on Teddy's birthday. Mr bean doesn't have enough money for Teddy's birthday. From animated episode Roadworks. SUBSCRIBE TO MR BEAN CARTOON WORLD HERE - http://ow.ly/zUJGZ For mor...",
-          1454857202
-        ],
-        [
-          "Oh no! Have you ever had a noisy neighbour like poor Mr Bean?\nhttps://www.youtube.com/watch?v=pjm_ZJuZ5OU Mr Bean - Noisy Neighbour Mr Bean gets annoyed with his neighbour for making noise while he tries to watch tv. From animated episode 'Neighbourly Bean'. SUBSCRIBE TO MR BEAN CARTOON W...",
-          1450278001
-        ],
-        [
-          "Silly Mr Bean, that\u2019s not how to bake a cake!\nhttps://www.youtube.com/watch?v=P4cHCp7hXzo Mr Bean - Bakes a cake Mr bean is very bad at baking. From animated episode Roadworks. SUBSCRIBE TO MR BEAN CARTOON WORLD HERE - http://ow.ly/zUJGZ For more Bean Visit: http://www....",
-          1449154801
-        ],
-        [
-          "If grocery shopping takes too long maybe you can borrow Mr Bean\u2019s SUPER TROLLEY!\nhttp://bit.ly/1bFrgOv Mr Bean - Super Trolley Mr Bean has designed a super trolley to help him do his shopping quicker. From animated episode Super Trolley. SUBSCRIBE TO MR BEAN CARTOON WORLD HERE - http...",
-          1429347600
-        ],
-        [
-          "Do you have a garden that needs to be mown? Perhaps you could use Mr Bean\u2019s new invention!\n\nhttp://bit.ly/1DAt4T3 Mr Bean - Lawnmower invention When Mrs. Wicket makes Mr Bean mow the lawn he thinks of an innovative invention to get it does faster. From animated episode Roadworks. SUBSCRIBE TO MR BEAN...",
-          1427706002
-        ],
-        [
-          "Mr Bean has an ingenious way of getting his keys back from a thieving magpie. Watch to find out how!\n\nhttp://bit.ly/1vBPXEF Mr Bean - Toy Plane Crash Mr Bean realises he's crashed Teddy into a tree. He checks for vital signs! From animated episode 'Magpie'. SUBSCRIBE TO MR BEAN CARTOON WORLD HERE - http://...",
-          1425812409
-        ]
-      ],
-      "dates_start": 1429294009,
-      "dates_end": 1454582682,
-      "likes_avg": 22466,
-      "likes_stdev": 8347,
-      "comments_avg": 235,
-      "comments_stdev": 69,
-      "shares_avg": 752,
-      "shares_stdev": 266
-    },
-    {
-      "number": 39,
-      "important": [
-        "help",
-        "come",
-        "link",
-        "final",
-        "mani",
-        "time",
-        "vote",
-        "like",
-        "go",
-        "show"
-      ],
-      "common": [
-        "2015",
-        "bean",
-        "champion",
-        "champion 2015",
-        "mr",
-        "mr bean",
-        "show",
-        "show champion",
-        "show champion 2015",
-        "vote"
-      ],
-      "messages": [
-        [
-          "1 hour 20 minutes to go until the vote closes! Sarah and Duck has 53% of the vote and Mr Bean has 47%. Please KEEP VOTING and help Mr Bean go through to the finals - he can do it with your votes.\n\nYou can vote as many times as you like via the link below! Come on Mr Bean!!\n\nVote here:\nhttp://www.radiotimes.com/kidsshowchampion Kids Show Champion 2015",
-          1448872805
-        ],
-        [
-          "WOOHOO!! Mr Bean is in the semi-finals of the Radio Times Kids Show Champion 2015!! This round he's up against Sarah and Duck but its very close!! Keep voting to see Mr Bean go through to the FINALS. With your help he can do it!! Vote as many times as you like!!\n\nVote here:\nhttp://www.radiotimes.com/kidsshowchampion Kids Show Champion 2015",
-          1448809201
-        ],
-        [
-          "THANK YOU Mr Bean fans!!! Mr Bean has made it through to Round 4 of 6 and is now up against Sesame Street. Keep voting and with your help you can see MR BEAN crowned the Radio Times Kids Show Champion 2015!! \n\nVote here:\nhttp://www.radiotimes.com/kidsshowchampion Kids Show Champion 2015",
-          1448722800
-        ],
-        [
-          "In the Radio Times \u2018Kids Show Champion\u2019 competition Mr Bean beat Scooby Doo yesterday by a massive 4000 to 700 votes! And it\u2019s all thanks to you! He is now up against Thomas the Tank Engine in the second of 6 rounds. \n\nKeep Mr Bean on top by voting here: http://www.radiotimes.com/kidsshowchampion Kids Show Champion 2015",
-          1448463601
-        ],
-        [
-          "Calling all Mr Bean Fans! Help Mr Bean become the Radio Times\u2019 Children\u2019s TV Show Champion 2015! Follow the link, then click through to \u2018Matchup3\u2019 and vote MR BEAN!! Voting ends Thursday at 11am GMT. We\u2019ll let you know if we win!\n\nhttp://www.radiotimes.com/kidsshowchampion Kids Show Champion 2015",
-          1448377200
-        ]
-      ],
-      "dates_start": 1448454469,
-      "dates_end": 1448843773,
-      "likes_avg": 9893,
-      "likes_stdev": 8161,
-      "comments_avg": 155,
-      "comments_stdev": 66,
-      "shares_avg": 134,
-      "shares_stdev": 94
+      "dates_start": 1381424965,
+      "dates_end": 1445932122,
+      "likes_avg": 55864,
+      "likes_stdev": 27949,
+      "comments_avg": 1009,
+      "comments_stdev": 871,
+      "shares_avg": 779,
+      "shares_stdev": 367
     }
   ]
 }

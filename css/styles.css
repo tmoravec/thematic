@@ -274,3 +274,8 @@ html{
 	width: 100%;
 	text-align: center;
 }
+
+.select-page a {
+	text-decoration: none;
+	color: black;
+}

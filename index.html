@@ -72,7 +72,7 @@
                 generate most engagement on larger Facebook pages.
                 </p>
                 <p>
-                Thématic detects what major topics a page talks about. It analyzes which 
+                Thématic detects what major topics a page talks about. It analyzes which
                 bring the most and least engagement and which should the page focus on.
                 It is also useful for quick understanding what is an unknown page about.
                 </p>
@@ -82,7 +82,7 @@
                 useful insights into what the fans do and don't like.
                 </p>
                 <p>
-                Let us know what page(s) are you interested in! 
+                Let us know what page(s) are you interested in!
                 Reach out to moravec.tadeas@gmail.com or open an issue on Github.
                 </p>
             </div>
@@ -99,7 +99,9 @@
 
         <template id="pagelink">
 
-            <div class="select-page" v-on:click="loadPage">{{ pageinfo[0] }}</div>
+                <div class="select-page" v-on:click="loadPage">
+                    <a href="#">{{ pageinfo[0] }}</a>
+                </div>
 
         </template>
 

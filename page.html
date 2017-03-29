@@ -56,7 +56,7 @@
 	    <div class="globalstats-header cluster-title">Page statistics</div>
 	    <div class="globalstats-values cluster-stats">
                 <table>
-                    <tr><td>Messages:</td>  <td class="globalstats-table-values">{{ globalstats.messages }}</td>                                         </tr>
+                    <tr><td>Posts:</td>  <td class="globalstats-table-values">{{ globalstats.messages }}</td>                                         </tr>
                     <tr><td>Fans:</td>      <td class="globalstats-table-values">{{ globalstats.fan_count }}</td>                                        </tr>
                     <tr><td>Likes:</td>     <td class="globalstats-table-values">{{ globalstats.likes_avg }} +- {{ globalstats.likes_stdev }}</td>       </tr>
                     <tr><td>Comments:</td>  <td class="globalstats-table-values">{{ globalstats.comments_avg }} +- {{ globalstats.comments_stdev }}</td> </tr>
@@ -97,18 +97,18 @@
                     </div>
                     <div class="cluster-stats-header">Statistics</div>
 		    <div class="cluster-stats-values">
-			{{ item.messages.length }} messages.
+			{{ item.messages.length }} posts.
 			Likes: {{ item.likes_avg }} +- {{ item.likes_stdev }},
 			Comments: {{ item.comments_avg }} +- {{ item.comments_stdev }},
 			Shares: {{ item.shares_avg }} +- {{ item.shares_stdev }}.
 			Roughly from {{ item.dates_start | formatDate }} to {{ item.dates_end | formatDate }}.
 		    </div>
-			<!-- TODO: when was most of the messages written -->
+			<!-- TODO: when was most of the posts written -->
                 </div>
 
             </div>  <!-- cluster-header -->
 
-            <span v-on:click="toggleMessages" class="toggle-text">{{ showMessages ? "[-] Hide" : "[+] Show" }} messages.</span>
+            <span v-on:click="toggleMessages" class="toggle-text">{{ showMessages ? "[-] Hide" : "[+] Show" }} posts.</span>
 
             <div v-if="showMessages" class="cluster-messages">
 

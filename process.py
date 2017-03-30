@@ -24,6 +24,7 @@ from sklearn.manifold import TSNE
 
 SINCE = '2012-01-01T00:00:00+0000'
 OUTPUT_DIRECTORY = 'clusters'
+SMALL_PAGE = False
 
 
 def plot_2_arrays(a1, a2):
@@ -108,13 +109,22 @@ def process_message(message):
 
 
 def vectorize(messages):
+    global SMALL_PAGE
+
     stop_words = get_stopwords()
     print(time.ctime(), 'Starting to vectorize.')
 
     # sublinear_tf recommended by TruncatedSVD documentation for use with
     # TruncatedSVD
+    if len(messages) < 200:
+        print(time.ctime(), len(messages), 'messages. Small page.')
+        SMALL_PAGE = True
 
-    for i in range(10, 1, -1):
+    min_df_range = range(10, 1, -1)
+    if SMALL_PAGE:
+        min_df_range = range(3, 1, -1)
+
+    for i in min_df_range:
         vectorizer = TfidfVectorizer(stop_words=stop_words, max_features=None,
                                      ngram_range=(1, 5), norm='l2',
                                      sublinear_tf=True, min_df=i, max_df=0.7)
@@ -122,6 +132,10 @@ def vectorize(messages):
         if features.shape[1] > 200:
             print(time.ctime(), 'min_df:', i)
             break
+
+    if features.shape[1] < 200:
+        print(time.ctime(), features.shape[2], 'tfidf features. Small page.')
+        SMALL_PAGE = True
 
     print(time.ctime(), 'Tfidf ignores {} terms.'.format(len(vectorizer.stop_words_)))
     print(time.ctime(), 'Tfidf matrix shape:', features.shape)
@@ -214,6 +228,9 @@ def best_number_clusters(X):
     scores = []
 
     cluster_sizes = range(15, 41, 1)
+    if SMALL_PAGE:
+        cluster_sizes = range(10, 20, 1)
+
     try:
         for n in cluster_sizes:
             predictor = AgglomerativeClustering(n_clusters=n, connectivity=None, linkage='ward', affinity='euclidean')
@@ -339,12 +356,14 @@ def print_clusters(labels, likes, comments, shares, messages, tf, dates,
 
 def get_features_lsa(tf):
     svd_components = 200
+    if SMALL_PAGE:
+        svd_components = 100
+
     print(time.ctime(), 'Generating {} LSA components and normalizing'.format(svd_components))
     svd = TruncatedSVD(svd_components, algorithm='arpack', tol=0)
     normalizer = Normalizer(copy=False)
     lsa = make_pipeline(svd, normalizer)
     X = lsa.fit_transform(tf)
-
     return X
 
 

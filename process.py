@@ -281,13 +281,20 @@ def clusterize(labels, likes, comments, shares, messages, tf, dates):
 
 def summarize(messages):
     text = ' '.join(messages)
-    summary = gensim.summarization.summarize(text, word_count=70)
+    summary = ''
+    try:
+        summary = gensim.summarization.summarize(text, word_count=70)
+    except Exception:
+        pass
     return summary
 
 
 def keywords(messages):
     text = ' '.join(messages)
-    kw = gensim.summarization.keywords(text, words=10, split=True)
+    try:
+        kw = gensim.summarization.keywords(text, words=10, split=True)
+    except IndexError:
+        return []
 
     stemmer = SnowballStemmer('english')
     stems = [stemmer.stem(x) for x in kw]

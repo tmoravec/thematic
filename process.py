@@ -238,7 +238,7 @@ def best_number_clusters(X):
     # would work better.
     scores = []
 
-    cluster_sizes = range(15, 41, 1)
+    cluster_sizes = range(15, 31, 1)
     if SMALL_PAGE:
         cluster_sizes = range(10, 20, 1)
 

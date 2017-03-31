@@ -6,14 +6,12 @@ import sys
 import pickle
 from matplotlib import pyplot
 import numpy as np
-import networkx as nx
 import string
 import time
-from collections import Counter
+from collections import OrderedDict
 
 from nltk.stem.snowball import SnowballStemmer
 from nltk.corpus import stopwords
-from nltk.tokenize.punkt import PunktSentenceTokenizer
 
 
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
@@ -24,7 +22,8 @@ from sklearn.decomposition import TruncatedSVD
 from sklearn.preprocessing import Normalizer
 from sklearn.pipeline import make_pipeline
 from sklearn.manifold import TSNE
-from sklearn.metrics.pairwise import cosine_similarity
+
+import gensim
 
 SINCE = '2012-01-01T00:00:00+0000'
 OUTPUT_DIRECTORY = 'clusters'
@@ -262,31 +261,6 @@ def best_number_clusters(X):
     return size
 
 
-def most_important_features(tf, vectorizer, common, count=5):
-    blacklist = {
-                 'new',
-                 'research',
-                 'new research',
-                 'whi',
-                 'realli',
-                }
-
-    flat = [item for sublist in tf for item in sublist]
-    highest = sorted(flat, reverse=True)
-    words = set()
-    feature_names = vectorizer.get_feature_names()
-    for message in tf:
-        for h in highest:
-            if h in message:
-                word = feature_names[message.index(h)]
-                if word in common and word not in blacklist:
-                    words.add(word)
-                    if len(words) == count:
-                        return list(words)
-
-    return list(words)
-
-
 def clusterize(labels, likes, comments, shares, messages, tf, dates):
     clusters = []
     for public_label, label in sorted(enumerate(set(labels)), reverse=True):
@@ -306,20 +280,24 @@ def clusterize(labels, likes, comments, shares, messages, tf, dates):
 
 
 def summarize(messages):
-    sentence_tokenizer = PunktSentenceTokenizer()
-    sentences = sentence_tokenizer.tokenize(' '.join(messages))
-    sentences = set(sentences)
+    text = ' '.join(messages)
+    summary = gensim.summarization.summarize(text, word_count=70)
+    return summary
 
-    tfidf = TfidfVectorizer().fit_transform(sentences)
-    similarity_graph = cosine_similarity(tfidf)
 
-    nx_graph = nx.from_numpy_matrix(similarity_graph)
-    scores = nx.pagerank(nx_graph)
-    most_characteristic = sorted(((scores[i], s) for i, s in enumerate(sentences)), reverse=True)
+def keywords(messages):
+    text = ' '.join(messages)
+    kw = gensim.summarization.keywords(text, words=10, split=True)
 
-    if len(most_characteristic) > 5:
-        most_characteristic = most_characteristic[:5]
-    return ' '.join([x[1] for x in most_characteristic])
+    stemmer = SnowballStemmer('english')
+    stems = [stemmer.stem(x) for x in kw]
+
+    # Hack OrderedDict to work as an ordered set.
+    od = OrderedDict()
+    for w in stems:
+        od[w] = 0
+
+    return list(od.keys())
 
 
 def print_clusters(labels, likes, comments, shares, messages, tf, dates,
@@ -353,7 +331,7 @@ def print_clusters(labels, likes, comments, shares, messages, tf, dates,
         summary = summarize(c['messages'])
 
         common = count_vectorize(c['messages'], 10)
-        important = most_important_features(c['tf'], vectorizer, common)
+        important = keywords(c['messages'])
 
         dates_start = int(np.mean(c['dates']) - np.std(c['dates']))
         dates_end = int(np.mean(c['dates']) + np.std(c['dates']))

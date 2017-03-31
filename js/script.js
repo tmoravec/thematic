@@ -168,7 +168,8 @@ var cluster = Vue.component('cluster', {
 
     data: function() {
         return {
-            showMessages: false
+            showMessages: false,
+	    clusterlink: '#' + this.item.number
         }
     },
 

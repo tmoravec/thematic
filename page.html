@@ -65,7 +65,11 @@
                     <tr><td>Shares:</td>    <td class="globalstats-table-values">{{ globalstats.shares_avg }} +- {{ globalstats.shares_stdev }}</td>     </tr>
                 </table>
 	    </div>
-	    <div><span v-on:click="toggleGraph" class="toggle-text toggle-graph">{{ showGraph ? "[-] Hide" : "[+] Show" }} rough topics distribution.</span></div>
+	    <div>
+		<span v-on:click="toggleGraph" class="toggle-text toggle-graph">
+		    <a href="#"> {{ showGraph ? "[-] Hide" : "[+] Show" }} rough topics distribution.</a>
+		</span>
+	    </div>
 	    <div v-if="showGraph"><img v-bind:src="globalstats.graph_uri" class="graph" /></div>
 	</div>
     </template>
@@ -90,7 +94,7 @@
 
             <div class="cluster-header">
 
-                <div class="cluster-title">Topic {{ item.number }}</div>
+                <div class="cluster-title" v-bind:id="item.number">Topic {{ item.number }}</div>
 
                 <div class="cluster-stats">
                     <div class="cluster-stats-header">Keywords</div>
@@ -112,7 +116,9 @@
 
             </div>  <!-- cluster-header -->
 
-            <span v-on:click="toggleMessages" class="toggle-text">{{ showMessages ? "[-] Hide" : "[+] Show" }} posts.</span>
+	    <span v-on:click="toggleMessages" class="toggle-text">
+		<a v-bind:href="clusterlink">{{ showMessages ? "[-] Hide" : "[+] Show" }} posts.</a>
+	    </span>
 
             <div v-if="showMessages" class="cluster-messages">
 

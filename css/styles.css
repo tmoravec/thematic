@@ -156,6 +156,11 @@ html{
     color: #FF5722;
 }
 
+.toggle-text a {
+    color: #FF5722;
+	text-decoration: none;
+}
+
 .cluster-messages {
     margin: 20px;
 }

@@ -67,7 +67,7 @@
 	    </div>
 	    <div>
 		<span v-on:click="toggleGraph" class="toggle-text toggle-graph">
-		    <a href="#"> {{ showGraph ? "[-] Hide" : "[+] Show" }} rough topics distribution.</a>
+		    <a href="#" v-on:click.prevent=""> {{ showGraph ? "[-] Hide" : "[+] Show" }} rough topics distribution.</a>
 		</span>
 	    </div>
 	    <div v-if="showGraph"><img v-bind:src="globalstats.graph_uri" class="graph" /></div>
@@ -117,7 +117,7 @@
             </div>  <!-- cluster-header -->
 
 	    <span v-on:click="toggleMessages" class="toggle-text">
-		<a v-bind:href="clusterlink">{{ showMessages ? "[-] Hide" : "[+] Show" }} posts.</a>
+		<a v-bind:href="clusterlink" v-on:click.prevent="">{{ showMessages ? "[-] Hide" : "[+] Show" }} posts.</a>
 	    </span>
 
             <div v-if="showMessages" class="cluster-messages">

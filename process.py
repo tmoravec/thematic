@@ -6,12 +6,15 @@ import sys
 import pickle
 from matplotlib import pyplot
 import numpy as np
+import networkx as nx
 import string
 import time
 from collections import Counter
 
 from nltk.stem.snowball import SnowballStemmer
 from nltk.corpus import stopwords
+from nltk.tokenize.punkt import PunktSentenceTokenizer
+
 
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from sklearn.cluster import AgglomerativeClustering
@@ -143,6 +146,14 @@ def vectorize(messages):
     return features, vectorizer
 
 
+def append_dot(text):
+    if (len(text) > 2 and
+            not (text[-1] in string.punctuation or
+                 text[-2] in string.punctuation)):
+        text += '.'
+    return text
+
+
 def text_features(raw_data):
     texts = []
     unique_messages = set()
@@ -165,11 +176,11 @@ def text_features(raw_data):
                 continue
 
             unique_messages.add(item['message'])
-            text = item['message']
+            text = append_dot(item['message'])
             if 'name' in item:
-                text += ' ' + item['name']
+                text += ' ' + append_dot(item['name'])
             if 'description' in item:
-                text += ' ' + item['description']
+                text += ' ' + append_dot(item['description'])
             texts.append(text)
             messages.append(process_message(text))
 
@@ -293,6 +304,23 @@ def clusterize(labels, likes, comments, shares, messages, tf, dates):
     return clusters
 
 
+def summarize(messages):
+    sentence_tokenizer = PunktSentenceTokenizer()
+    sentences = sentence_tokenizer.tokenize(' '.join(messages))
+    sentences = set(sentences)
+
+    tfidf = TfidfVectorizer().fit_transform(sentences)
+    similarity_graph = tfidf * tfidf.T
+
+    nx_graph = nx.from_scipy_sparse_matrix(similarity_graph)
+    scores = nx.pagerank(nx_graph)
+    most_characteristic = sorted(((scores[i], s) for i, s in enumerate(sentences)), reverse=True)
+
+    if len(most_characteristic) > 5:
+        most_characteristic = most_characteristic[:5]
+    return ' '.join([x[1] for x in most_characteristic])
+
+
 def print_clusters(labels, likes, comments, shares, messages, tf, dates,
                    vectorizer, orig_size, pagename, fan_count, page_name_displayed):
 
@@ -321,6 +349,8 @@ def print_clusters(labels, likes, comments, shares, messages, tf, dates,
         shares_avg = int(np.mean(c['shares']))
         shares_stdev = int(np.std(c['shares']))
 
+        summary = summarize(c['messages'])
+
         common = count_vectorize(c['messages'], 10)
         important = most_important_features(c['tf'], vectorizer, common)
 
@@ -330,6 +360,7 @@ def print_clusters(labels, likes, comments, shares, messages, tf, dates,
         cluster = {
                    'number': int(i) + 1,  # People expect 1-indexed arrays.
                    'important': important,
+                   'summary': summary,
                    'common': common,
                    'messages': list(zip(c['messages'], c['dates'])),
                    'dates_start': dates_start,
@@ -425,7 +456,7 @@ def text_clustering(raw_data, pagename):
     #predictor = KMeans(n_clusters=n_clusters)
     print(time.ctime(), 'Starting to fit.')
     labels = predictor.fit_predict(X)
-    print('Cluster sizes:          ', len(np.bincount(labels)), np.bincount(labels))
+    print(time.ctime(), 'Cluster sizes:', len(np.bincount(labels)), np.bincount(labels))
 
     indices_to_keep = remove_noise_clusters(X, labels)
 
@@ -439,12 +470,12 @@ def text_clustering(raw_data, pagename):
     dates = [dates[i] for i in indices_to_keep]
 
 
-    print(time.ctime()              , 'Starting to score.')
-    print('Calinski harabaz score: {:.4f}'.format(calinski_harabaz_score(X, labels)))
-    print('Silhouette score:       {:.4f}'.format(silhouette_score(X, labels)))
+    print(time.ctime(), 'Calinski harabaz score: {:.4f}'.format(calinski_harabaz_score(X, labels)))
+    print(time.ctime(), 'Silhouette score:       {:.4f}'.format(silhouette_score(X, labels)))
 
     print(time.ctime(), 'Drawing.')
     plot_clusters(X, labels, pagename)
+
     print(time.ctime(), 'Printing.')
     print_clusters(labels, likes, comments, shares, messages, tf, dates, vectorizer, orig_size, pagename, fan_count, page_name_displayed)
 

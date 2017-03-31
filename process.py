@@ -24,6 +24,7 @@ from sklearn.decomposition import TruncatedSVD
 from sklearn.preprocessing import Normalizer
 from sklearn.pipeline import make_pipeline
 from sklearn.manifold import TSNE
+from sklearn.metrics.pairwise import cosine_similarity
 
 SINCE = '2012-01-01T00:00:00+0000'
 OUTPUT_DIRECTORY = 'clusters'
@@ -310,9 +311,9 @@ def summarize(messages):
     sentences = set(sentences)
 
     tfidf = TfidfVectorizer().fit_transform(sentences)
-    similarity_graph = tfidf * tfidf.T
+    similarity_graph = cosine_similarity(tfidf)
 
-    nx_graph = nx.from_scipy_sparse_matrix(similarity_graph)
+    nx_graph = nx.from_numpy_matrix(similarity_graph)
     scores = nx.pagerank(nx_graph)
     most_characteristic = sorted(((scores[i], s) for i, s in enumerate(sentences)), reverse=True)
 

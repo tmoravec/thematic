@@ -299,9 +299,21 @@ def keywords(messages):
     stemmer = SnowballStemmer('english')
     stems = [stemmer.stem(x) for x in kw]
 
+    stopwords = get_stopwords()
+    blacklist = {
+                 'new',
+                 'research',
+                 'new research',
+                 'whi',
+                 'realli',
+                 'timelin',
+                }
+    stopwords |= blacklist
+    words = [x for x in stems if x not in stopwords]
+
     # Hack OrderedDict to work as an ordered set.
     od = OrderedDict()
-    for w in stems:
+    for w in words:
         od[w] = 0
 
     return list(od.keys())

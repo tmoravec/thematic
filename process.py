@@ -349,8 +349,12 @@ def print_clusters(labels, likes, comments, shares, messages, tf, dates,
 
         summary = summarize(c['messages'])
 
-        common = count_vectorize(c['messages'], 10)
-        important = keywords(c['messages'])
+        common = 0  # count_vectorize(c['messages'], 10)
+        important = []
+        if len(c['messages']) < 500:
+            # We'll run out of memory if there are too many messages.
+            # Also, they wouldn't mean much anyway.
+            important = keywords(c['messages'])
 
         dates_start = int(np.mean(c['dates']) - np.std(c['dates']))
         dates_end = int(np.mean(c['dates']) + np.std(c['dates']))

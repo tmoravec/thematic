@@ -4,25 +4,29 @@
   "globalstats": {
     "fan_count": 42743982,
     "messages": 1351,
-    "likes_avg": 31017,
-    "likes_stdev": 76422,
-    "comments_avg": 778,
-    "comments_stdev": 2029,
-    "shares_avg": 1445,
-    "shares_stdev": 4363,
+    "likes_avg": 29789,
+    "likes_stdev": 73438,
+    "comments_avg": 784,
+    "comments_stdev": 2067,
+    "shares_avg": 1466,
+    "shares_stdev": 4412,
     "graph_uri": "clusters/SamsungMobile.png"
   },
   "clusters": [
     {
       "number": 1,
       "important": [
+        "galaxi",
+        "discov",
+        "shot",
         "photo",
-        "galaxi discov",
-        "screen",
-        "air",
-        "use"
+        "smart",
+        "display",
+        "look",
+        "possibl",
+        "errant"
       ],
-      "summary": "GALAXY S4. Hover your finger over the screen to preview photos, emails and speed dial with Air View on the GALAXY S4. Ergonomics on the GALAXY S4. Discover the GALAXY S4. Have a scream with touch-free browsing using Air Gesture on the Samsung GALAXY S4.",
+      "summary": "Keep grubby claws from smudging your #GALAXYS4 with Air Gesture and have a scream with Monsters University.\nGALAXY S4 Air Gesture with Monsters University.\nHave a scream with touch-free browsing using Air Gesture on the Samsung GALAXY S4.\nHover your finger over the screen to preview photos, emails and speed dial with Air View on the GALAXY S4.\nAvoid smudging your GALAXY S4 by using Air Gesture.",
       "common": [
         "air",
         "air gestur",
@@ -117,126 +121,19 @@
     {
       "number": 2,
       "important": [
-        "introduc",
-        "tab",
-        "galaxi tab",
-        "introduc samsung",
-        "samsung galaxi"
-      ],
-      "summary": "Introducing the Samsung GALAXY NotePRO. Find out what she is doing with her Samsung Galaxy Tab S. You\u2019ll never guess where this loving mother of four is taken when she sees the stunning blue eyes o... Introducing Samsung's thinnest and lightest tablet: the GALAXY Tab S. \n\nhttp://youtu.be/qwpfT9jtsMk. For more information: http://www.samsung.com/global/microsite/galaxynote/note8.0/ Introducing Samsung GALAXY Note 8.0 Introducing the GALAXY Tab 2 (7.0) with Android 4.0 and 1GHz dual-core processor. #TabletRealities with the Samsung GALAXY Tab S - Judge. #TabletRealities with the Samsung GALAXY Tab S - Artist.",
-      "common": [
-        "experi",
-        "galaxi tab",
-        "introduc",
-        "introduc samsung",
-        "introduc samsung galaxi",
-        "new",
-        "samsung galaxi",
-        "samsung galaxi tab",
-        "tab",
-        "tablet"
-      ],
-      "messages": [
-        [
-          "The power and productivity of Windows 10 on a 2-in-1 device. Introducing the Samsung #GalaxyBook. Timeline Photos.",
-          1488131760
-        ],
-        [
-          "Introducing the Samsung #GearS3. spr.ly/GearS3.",
-          1472652323
-        ],
-        [
-          "Introducing the Samsung #GalaxyS7 and #GalaxyS7edge. Rethink what a phone can do.",
-          1456074789
-        ],
-        [
-          "No matter how you slice it, the #GALAXYTabS is the best tablet for color and play. \n\nhttp://youtu.be/wCeOImKwf7g. #TabletRealities with the Samsung GALAXY Tab S - Artist. Find out what she is doing with her Samsung Galaxy Tab S. An acclaimed artist shows off her amazing skills with the Samsung Galaxy Tab S to become a Fruit An...",
-          1408022849
-        ],
-        [
-          "The verdict is in. The #GALAXYTabS is the best tablet for doing two things at once. \n\nhttp://youtu.be/dyCtVlZ0jk0. #TabletRealities with the Samsung GALAXY Tab S - Judge. Find out what he is doing with his Samsung Galaxy Tab S. A High court judge votes for his favorite contestant in Planet Popstar, a singing competition show, ...",
-          1407405617
-        ],
-        [
-          "What do you expect from a great tablet? When expectations meet reality.\n\nhttp://youtu.be/Cme5PtvdOtA. #TabletRealities with the Samsung GALAXY Tab S - Mom. Find out what she is doing with her Samsung Galaxy Tab S. You\u2019ll never guess where this loving mother of four is taken when she sees the stunning blue eyes o...",
-          1406894505
-        ],
-        [
-          "Introducing Samsung's thinnest and lightest tablet: the GALAXY Tab S. \n\nhttp://youtu.be/qwpfT9jtsMk. Samsung GALAXY Tab S -- Official Introduction. Samsung GALAXY Tab S combines the most advanced Super AMOLED display technology with a full range of premium content for an unrivaled entertainment experienc...",
-          1403085650
-        ],
-        [
-          "Our history of the best display continues. Super AMOLED on the #GALAXYTabS. Vision redefined.\n\nhttp://youtu.be/6GXt7HluCfE. Samsung GALAXY Tab S - Display History. Introducing the GALAXY Tab S with Super AMOLED display. Discover the ultimate tablet viewing experience with Tab S and its latest display technology. The Tab...",
-          1402750446
-        ],
-        [
-          "The 8.4\" GALAXY Tab S in Titanium Bronze. GALAXY Tab S.",
-          1402610785
-        ],
-        [
-          "For all the dogs out there who want to get in shape this year, we're introducing the Samsung #PuppyFit! Timeline Photos.",
-          1396319673
-        ],
-        [
-          "Introducing Samsung #GALAXYS5. Introducing Samsung GALAXY S5. The new GALAXY S5 is here.",
-          1393931137
-        ],
-        [
-          "Introducing the Samsung #GALAXYNotePRO, with best-in-class media consumption and productivity capabilities. Introducing Samsung GALAXY NotePRO. The PRO series, setting the new rule for tablet experience with best-in-class media consumption and productivity capabilities.",
-          1392199657
-        ],
-        [
-          "The PRO series from Samsung GALAXY. Experience what progressive thinking is all about with #GALAXYNotePRO. GALAXY Tab changes the rules - Samsung GALAXY NotePRO. Introducing the Samsung GALAXY NotePRO. From the immersive 12.2-inch 4 million pixel display to Multi Window...",
-          1391866295
-        ],
-        [
-          "[Exclusive] Introducing Samsung #GALAXYNote3. Introducing Samsung GALAXY Note 3. Introducing the new Samsung GALAXY Note 3 which shares a smarter large screen experience and new S Pen features that help to make everyday tasks easier and faster.",
-          1378341964
-        ],
-        [
-          "The GALAXY Tab 3 Series provides various ways to view, listen, create and share meaningful events and special content with those who matter most. Samsung GALAXY Tab 3 Series.",
-          1371005143
-        ],
-        [
-          "Introducing the Samsung GALAXY S4 Active, the perfect companion for exploration, activity and adventure. Providing a rich experience without the fear of damage from outdoor elements. http://bit.ly/15zWMot. Samsung GALAXY S4 Active.",
-          1370422469
-        ],
-        [
-          "Introducing the Samsung GALAXY S4 Mini, a powerful and compact smartphone with strong performance and exceptional user experience. http://bit.ly/1358V4t. Samsung GALAXY S4 Mini.",
-          1369906126
-        ],
-        [
-          "A new era of portability and everyday productivity.\n\nProviding unrivalled multimedia performance within a compact one-hand-grip screen, the GALAXY Note 8.0 has the power and advanced technology to evolve the tablet experience, and ensure you achieve new levels of efficient multi-tasking while benefitting from superb voice call functionality.\n\nFor more information: http://www.samsung.com/global/microsite/galaxynote/note8.0/ Introducing Samsung GALAXY Note 8.0",
-          1361667764
-        ],
-        [
-          "Introducing the GALAXY Tab 2 (7.0) with Android 4.0 and 1GHz dual-core processor. Samsung Mobile. Offering optimal multimedia experiences in life. The GALAXY Tab 2 (7.0), powered by Android 4.0 and a 1GHz dual-core processor, is the ideal personal on-the-go device. Launching in global markets from March. Available in 3G and Wi-Fi versions. \n\nFor more information: http://bit.ly/zzC5fL.",
-          1329190275
-        ],
-        [
-          "Samsung Mobile A-Z: U is for User Interface.\n\nThe GALAXY S II, GALAXY Tab 10.1 and GALAXY Note all feature Samsung\u2019s unique TouchWiz user interface which includes functionality such as panning and tilting motion detection. Timeline Photos.",
-          1325404842
-        ]
-      ],
-      "dates_start": 1356748272,
-      "dates_end": 1436040134,
-      "likes_avg": 52247,
-      "likes_stdev": 105185,
-      "comments_avg": 2193,
-      "comments_stdev": 5879,
-      "shares_avg": 7098,
-      "shares_stdev": 20528
-    },
-    {
-      "number": 3,
-      "important": [
-        "photo",
+        "note",
+        "view",
         "pictur",
+        "previewing pictur",
         "screen",
-        "use",
-        "instant"
+        "multi",
+        "phone",
+        "photo",
+        "preview",
+        "experi",
+        "easili"
       ],
-      "summary": "Pen your memories on the back of your picture with Photo Note on the GALAXY Note II. Personalize an email with your handwriting using the S Pen on the GALAXY Note II. You can multitask on the same screen on the GALAXY Note II. Discover the GALAXY Note II. A stunning viewing experience, made possible with the generous and vivid 5.5\" screen on the GALAXY Note II.",
+      "summary": "A stunning viewing experience, made possible with the generous and vivid 5.5\" screen on the GALAXY Note II.\nEasily crop images from any screen and instantly save or share them with Easy Clip on the GALAXY Note II.\nPreview live thumbnails in the video gallery using Air View on the GALAXY Note II.\nEnjoy a whole new photo experience previewing pictures in a folder without changing screens on GALAXY Note II.",
       "common": [
         "color",
         "instant",
@@ -309,86 +206,17 @@
       "shares_stdev": 2911
     },
     {
-      "number": 4,
+      "number": 3,
       "important": [
-        "mobil",
-        "stop",
-        "next",
-        "event",
-        "samsung mobil"
+        "photo",
+        "galaxi",
+        "gear",
+        "galaxytab",
+        "modern",
+        "storag",
+        "selectivefocus"
       ],
-      "summary": "The GALAXY S4 World Tour. We're at one of the world's most iconic buildings with Samsung Australia for the next stop of the GALAXY S4 World Tour. We've arrived in Istanbul for the next stop of the World Tour to help Samsung T\u00fcrkiye unveil the GALAXY S4. Surrounded by skyscrapers, we're with Samsung Mobile HK for the next part of the GALAXY S4 World Tour. Johannesburg, are you ready for the GALAXY S4?",
-      "common": [
-        "event",
-        "mobil",
-        "next",
-        "samsung mobil",
-        "stop",
-        "stop galaxi",
-        "stop galaxi world",
-        "stop galaxi world tour",
-        "unveil",
-        "unveil galaxi"
-      ],
-      "messages": [
-        [
-          "The Galaxy S6 World Tour is over. Be the first to own the #GalaxyS6 and #GalaxyS6edge at S Carpet events around the world. http://www.samsung.com/global/galaxy/scarpet2015. Timeline Photos.",
-          1428553861
-        ],
-        [
-          "In Tokyo with Samsung Mobile Japan to reveal the GALAXY S4 on the final leg of our World Tour! The GALAXY S4 World Tour.",
-          1368653401
-        ],
-        [
-          "The GALAXY S4 World Tour takes us to Rio with Samsung Mobile Brasil, home of Carnival and this famous landmark. Can you tell us what it is? The GALAXY S4 World Tour.",
-          1367348401
-        ],
-        [
-          "Johannesburg, are you ready for the GALAXY S4? We're with Samsung Mobile South Africa for the World Tour stop. The GALAXY S4 World Tour.",
-          1366891599
-        ],
-        [
-          "Home to many historical places and festivals, we're in New Delhi with Samsung Mobile India for the next GALAXY S4 World Tour stop. The GALAXY S4 World Tour.",
-          1366851601
-        ],
-        [
-          "Back in Seoul to unveil the new GALAXY S4. The GALAXY S4 World Tour.",
-          1366844532
-        ],
-        [
-          "We've arrived in Istanbul for the next stop of the World Tour to help Samsung T\u00fcrkiye unveil the GALAXY S4. The GALAXY S4 World Tour.",
-          1366777801
-        ],
-        [
-          "We're at one of the world's most iconic buildings with Samsung Australia for the next stop of the GALAXY S4 World Tour. Ready? The GALAXY S4 World Tour.",
-          1366691400
-        ],
-        [
-          "Surrounded by skyscrapers, we're with Samsung Mobile HK for the next part of the GALAXY S4 World Tour. The GALAXY S4 World Tour.",
-          1366269408
-        ],
-        [
-          "Samsung Mobile Russia are preparing to introduce the GALAXY S4 at our World Tour event. Can you guess where they are? The GALAXY S4 World Tour.",
-          1366171201
-        ],
-        [
-          "The GALAXY S4 World Tour starts today, with Samsung Mobile UK unveiling the GALAXY S4 in London - it's almost time! The GALAXY S4 World Tour.",
-          1366120493
-        ]
-      ],
-      "dates_start": 1354722713,
-      "dates_end": 1390217959,
-      "likes_avg": 47454,
-      "likes_stdev": 16480,
-      "comments_avg": 898,
-      "comments_stdev": 311,
-      "shares_avg": 3530,
-      "shares_stdev": 1533
-    },
-    {
-      "number": 5,
-      "important": [],
-      "summary": "The #GalaxyNote5 has arrived. The #GearS3 Classic has arrived. The brilliance of the #GALAXYS5. The #GalaxyS7edge has arrived. The #GalaxyS7 has arrived.",
+      "summary": "The #GearS3 Classic has arrived.\nThe #GalaxyS7edge has arrived.\nThe #GalaxyS7 has arrived.\nCross that bridge and get the #GalaxyS6edgePlus.\nThe #GalaxyNote5 has arrived.\nThe #GalaxyS6 and #GalaxyS6edge offer a variety of internal and cloud storage options.\nThe Samsung #GalaxyS6edge has arrived.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.",
       "common": [
         "arriv",
         "arriv timelin",
@@ -501,15 +329,20 @@
       "shares_stdev": 5367
     },
     {
-      "number": 6,
+      "number": 4,
       "important": [
-        "galaxi zoom",
+        "camera",
         "zoom",
-        "discov samsung galaxi",
+        "samsung",
+        "galaxi",
+        "share",
         "discov",
-        "discov samsung"
+        "smartphon",
+        "photo",
+        "galaxykzoom",
+        "devic"
       ],
-      "summary": "Now on the GALAXY Camera from Samsung Camera. Discover the Samsung GALAXY Camera. Shoot, edit and share instantly with the GALAXY Camera from Samsung Camera. Discover the Samsung GALAXY S4 zoom. Samsung Camera.",
+      "summary": "A revolutionary device that combines the best of a high-performance smartphone and a camera, the GALAXY S4 zoom delivers the best of both worlds.\nShoot perfect images like a pro, using Smart Mode on the GALAXY Camera from Samsung Camera.\nGet ahead with Samsung Camera and the GALAXY Camera\u2019s revolutionary 21x optical zoom and feel close-up even if you\u2019re far away.",
       "common": [
         "camera samsung",
         "discov",
@@ -618,15 +451,17 @@
       "shares_stdev": 4384
     },
     {
-      "number": 7,
+      "number": 5,
       "important": [
+        "galaxi",
+        "samsung",
         "photo",
-        "samsung galaxi note",
-        "samsung galaxi",
-        "samsung galaxi note ii",
-        "use"
+        "featur",
+        "app",
+        "ralph",
+        "note"
       ],
-      "summary": "Challenge with the Samsung Galaxy Note 10.1 and Galaxy Note II. How to plan for the year with the Samsung GALAXY Note II. Design a cover for the GALAXY Note II and stand a chance to win the GALAXY Note II, GALAXY Note 10.1 and tickets to the BIGBANG Alive GALAXY Tour! Discover the GALAXY Note II. It's a breeze to organise and share your photos on the go with the GALAXY Note II.",
+      "summary": "We explore the murky depths of the Google Play and Samsung stores to find brilliant apps that use the Note II's S Pen. From New York, a cityscape-style print for a leather bag inspired and designed on GALAXY Note II by ALEXANDER WANG and friends.\nVisit http://www.findralph.com to complete the missing Ralph poster for a chance to win a GALAXY Note II and exclusive goodie bags.",
       "common": [
         "discov",
         "featur",
@@ -875,15 +710,21 @@
       "shares_stdev": 5793
     },
     {
-      "number": 8,
+      "number": 6,
       "important": [
-        "samsung",
+        "iii",
+        "galaxi",
+        "featur",
+        "share",
         "smart",
-        "discov galaxi",
-        "discov galaxi iii",
-        "design"
+        "samsung",
+        "discov",
+        "facebook",
+        "user",
+        "intuitive us",
+        "intuit"
       ],
-      "summary": "The GALAXY S III. Samsung Galaxy S III. Samsung GALAXY S III. Discover the GALAXY S III. Experience a day in the life of the Samsung GALAXY S III.",
+      "summary": "Discover the intelligence of the GALAXY S III through features such as Smart stay, S Voice, Smart alert, Direct call and Social tag.\nSamsung Mobile France is back with more finger-tutting action from JayFunk to celebrate the launch of the GALAXY S III!\nDiscover the GALAXY S III, a phone that recognizes your voice, understands your intention and lets you share a moment instantly and easily.",
       "common": [
         "design",
         "discov",
@@ -1072,15 +913,20 @@
       "shares_stdev": 2377
     },
     {
-      "number": 9,
+      "number": 7,
       "important": [
+        "ativ",
+        "window",
         "smartphon",
-        "smart",
-        "work",
-        "tab",
-        "chang"
+        "discov",
+        "search",
+        "stay",
+        "phone",
+        "samsung",
+        "simpl",
+        "cloud"
       ],
-      "summary": "Introducing the Samsung ATIV. Samsung ATIV. Discover the Samsung ATIV. With People on the ATIV Tab, you can stay socially connected with family and friends. Search faster and more intuitively with Internet Explorer 10 on the ATIV S, Tab and Smart PC.",
+      "summary": "The Samsung ATIV S is a new smartphone for both work and entertainment, offering a premium Windows Phone experience.\nStay productive even on-the-go with mobile Office on the ATIV Tab. Discover the Samsung ATIV.\nA true unified Windows experience with the ATIV family of tablets, smartphones and Smart PCs. Discover the Samsung ATIV.\nWith the introduction of Microsoft's Windows 8 and Windows Phone 8 operating systems, Samsung debuts \"ATIV\", the new brand for its Windows-based devices.",
       "common": [
         "ativ tab",
         "chang",
@@ -1149,102 +995,133 @@
       "shares_stdev": 1534
     },
     {
-      "number": 10,
+      "number": 8,
       "important": [
-        "new york",
-        "great",
-        "samsung"
-      ],
-      "summary": "GALAXY S4 - The Great Gatsby Premiere, Cannes. Samsung Mobile joins the red carpet for the premiere of The Great Gatsby movie in New York City. GALAXY S4 - The Great Gatsby Premiere, New York City. Live on the red carpet in New York with the lead roles of The Great Gatsby movie with Dual Shot on the GALAXY S4. Watch how we captured and shared the buzz of The Great Gatsby Premiere in Cannes with the GALAXY S4.",
-      "common": [
-        "cann",
-        "gatsbi",
-        "gatsbi premier",
-        "great",
-        "great gatsbi",
-        "great gatsbi premier",
-        "new",
-        "new york",
+        "tour",
+        "galaxi",
+        "real",
         "samsung",
-        "york"
+        "mobil",
+        "smartmov",
+        "watch",
+        "window"
+      ],
+      "summary": "Watch New York made smarter with the GALAXY Note 3 + Gear on the #SMARTMOVE World Tour.\nGALAXY Note 3 + Gear #SMARTMOVE World Tour - Real Lives, Made Smarter.\nWatch real lives made smarter with the GALAXY Note 3 + Gear on the #SMARTMOVE World Tour.\nWatch real lives made smarter with the GALAXY Note 3 + Gear on the #SMARTMOVE World Tour.",
+      "common": [
+        "galaxi note",
+        "galaxi note gear",
+        "galaxi note gear smartmov",
+        "gear",
+        "gear smartmov",
+        "made",
+        "made smarter",
+        "smarter",
+        "smartmov",
+        "smartmov world tour"
       ],
       "messages": [
         [
-          "Countdown to #TheNextGALAXY. Are you ready? \nhttp://youtu.be/0lnxSR4g920. Samsung GALAXY PREMIERE 2014 Countdown. Join us at Samsung GALAXY PREMIERE Tab Into Color event on June 12 Thursday from 7PM EDT. Bringing it to you live from Madison Square Garden in New York City...",
-          1402060593
+          "The Galaxy S6 World Tour is over. Be the first to own the #GalaxyS6 and #GalaxyS6edge at S Carpet events around the world. http://www.samsung.com/global/galaxy/scarpet2015. Timeline Photos.",
+          1428553861
         ],
         [
-          "Live from Earls Court 2 at the Samsung PREMIERE 2013 GALAXY & ATIV event. Samsung PREMIERE 2013.",
-          1371758796
+          "From Asia to Europe and North America, make the #SMARTMOVE to the #GALAXYNote3 and #GALAXYGear, today. GALAXY Note 3 + Gear #SMARTMOVE World Tour - Real Lives, Made Smarter. Watch real lives made smarter with the GALAXY Note 3 + Gear on the #SMARTMOVE World Tour.",
+          1388044800
         ],
         [
-          "It's almost time, are you ready? #PREMIERE http://bit.ly/Samsung_live. Samsung PREMIERE 2013.",
-          1371742150
+          "Using Scrapbook on #GALAXYNote3 for fashion and shopping. In Madrid for the #SMARTMOVE World Tour. Hola! GALAXY Note 3 + Gear #SMARTMOVE Madrid - Real Lives, Made Smarter. Watch Madrid made smarter with the GALAXY Note 3 + Gear on the #SMARTMOVE World Tour. ",
+          1387875601
         ],
         [
-          "Meet the new Samsung products tomorrow. Watch live at 19:00 BST: http://bit.ly/Samsung_live #PREMIERE. Samsung PREMIERE 2013.",
-          1371653990
+          "Organizing photos in Scrapbook and using new Easy Clip for collecting everyday interests on #GALAXYNote3 in Hong Kong on the #SMARTMOVE World Tour. GALAXY Note 3 + Gear #SMARTMOVE Hong Kong - Real Lives, Made Smarter. Watch Hong Kong made smarter with the GALAXY Note 3 + Gear on the #SMARTMOVE World Tour. ",
+          1387846801
         ],
         [
-          "Watch how we captured and shared the buzz of The Great Gatsby Premiere in Cannes with the GALAXY S4. http://bit.ly/13CMqD2. [Highlights] The Great Gatsby Premiere in Cannes.",
-          1370685754
+          "Translating and chatting at the same time with Pen Window on #GALAXYNote3, and hands-free calling on #GALAXYGear. Bonjour from Paris on the #SMARTMOVE World Tour. GALAXY Note 3 + Gear #SMARTMOVE Paris - Real Lives, Made Smarter. Watch Paris made smarter with the GALAXY Note 3 + Gear on the #SMARTMOVE World Tour.",
+          1387789201
         ],
         [
-          "Watch how the GALAXY S4 with Drama Shot, Dual Shot and Air View, captures the best of The Great Gatsby Premiere in Cannes. GALAXY S4 - The Great Gatsby Premiere, Cannes. We head to Cannes in the chic French Riviera for the premiere of Baz Luhrmann's The Great Gatsby.",
-          1370348841
+          "Check emails and browse the internet at the same time, with Multi Window on #GALAXYNote3. Make the #SMARTMOVE in Singapore on our World Tour. GALAXY Note 3 + Gear #SMARTMOVE Singapore - Real Lives, Made Smarter. Watch Singapore made smarter with the GALAXY Note 3 + Gear on the #SMARTMOVE World Tour.",
+          1387760401
         ],
         [
-          "SAMSUNG PREMIERE 2013 on June 20. Mark your calendars! Samsung PREMIERE 2013.",
-          1369646150
+          "In London for #SMARTMOVE World Tour. Reading comics with the generous and crystal clear display on #GALAXYNote3, and using #GALAXYGear in meetings. GALAXY Note 3 + Gear #SMARTMOVE London - Real Lives, Made Smarter. Watch London made smarter with the GALAXY Note 3 + Gear on the #SMARTMOVE World Tour.",
+          1387616401
         ],
         [
-          "Cool off from the fever of Cannes Film Festival with the GALAXY S4 and Drama Shot. [Highlights] The Great Gatsby Premiere in Cannes.",
-          1368799202
+          "Saving contact information the easy way with Action Memo on #GALAXYNote3. In Beijing on the #SMARTMOVE World Tour. GALAXY Note 3 + Gear #SMARTMOVE Beijing - Real Lives, Made Smarter. Watch Beijing made smarter with the GALAXY Note 3 + Gear on the #SMARTMOVE World Tour.",
+          1387587601
         ],
         [
-          "\"Hi Samsung Mobile fans, we are at the Cannes Film Festival for The Great Gatsby premiere\" - recorded with Sound & Shot on GALAXY S4. [Highlights] The Great Gatsby Premiere in Cannes.",
-          1368695888
+          "New Yorkers in our #SMARTMOVE World Tour. Collecting daily inspirations on #GALAXYNote3 Scrapbook, and staying on-the-go with #GALAXYGear. http://bit.ly/18TsEFn. GALAXY Note 3 + Gear #SMARTMOVE New York - Real Lives, Made Smarter. Watch New York made smarter with the GALAXY Note 3 + Gear on the #SMARTMOVE World Tour. ",
+          1387451938
         ],
         [
-          "We join the red carpet in New York City for The Great Gatsby movie premiere, to see how the GALAXY S4 is the perfect device for recording those memorable moments. GALAXY S4 - The Great Gatsby Premiere, New York City. Samsung Mobile joins the red carpet for the premiere of The Great Gatsby movie in New York City. ",
-          1368607966
+          "Real Lives, Made Smarter with #GALAXYNote3 and #GALAXYGear on our #SMARTMOVE World Tour. http://bit.ly/1hX4e5Z. GALAXY Note 3 + Gear #SMARTMOVE World Tour - Real Lives, Made Smarter. Watch real lives made smarter with the GALAXY Note 3 + Gear on the #SMARTMOVE World Tour. Find out more about #SMARTMOVE.",
+          1387211377
         ],
         [
-          "Live on the red carpet in New York with the lead roles of The Great Gatsby movie with Dual Shot on the GALAXY S4. [Highlights] The Great Gatsby Premiere.",
-          1367511096
+          "In Tokyo with Samsung Mobile Japan to reveal the GALAXY S4 on the final leg of our World Tour! The GALAXY S4 World Tour.",
+          1368653401
         ],
         [
-          "The location: New York City \r\nThe event: The Great Gatsby premiere May 1 \r\nWardrobe: Brooks Brothers \r\nDevice on red carpet: The GALAXY S4. [Highlights] The Great Gatsby Premiere.",
-          1367436639
+          "The GALAXY S4 World Tour takes us to Rio with Samsung Mobile Brasil, home of Carnival and this famous landmark. Can you tell us what it is? The GALAXY S4 World Tour.",
+          1367348401
         ],
         [
-          "Join us at The Great Gatsby premiere, live from New York City at 6pm EST through http://bit.ly/GatsbyPremiere (desktop) and http://smarturl.it/GatsbyPremiere (mobile). \n\nWe will be capturing all the excitement from the red carpet with the GALAXY S4 and GALAXY Note 8.0. The Great Gatsby. We'll be streaming LIVE from the NYC premiere of The Great Gatsby today at 3pm PT / 6pm ET - tune in for all of the red carpet arrivals and interviews here: http://smarturl.it/GatsbyPremiere.",
-          1367434057
+          "Johannesburg, are you ready for the GALAXY S4? We're with Samsung Mobile South Africa for the World Tour stop. The GALAXY S4 World Tour.",
+          1366891599
         ],
         [
-          "We're getting ready to go for an evening of fashion and glamour at the New York City premiere of The Great Gatsby.\r\n\r\nCheck out Catherine Martin\u2019s costume sketch of Mr. Gatsby's suit and watch the movie trailer via Multi Window with the GALAXY Note 8.0. [Highlights] The Great Gatsby Premiere.",
-          1367368533
+          "Home to many historical places and festivals, we're in New Delhi with Samsung Mobile India for the next GALAXY S4 World Tour stop. The GALAXY S4 World Tour.",
+          1366851601
+        ],
+        [
+          "Back in Seoul to unveil the new GALAXY S4. The GALAXY S4 World Tour.",
+          1366844532
+        ],
+        [
+          "We've arrived in Istanbul for the next stop of the World Tour to help Samsung T\u00fcrkiye unveil the GALAXY S4. The GALAXY S4 World Tour.",
+          1366777801
+        ],
+        [
+          "We're at one of the world's most iconic buildings with Samsung Australia for the next stop of the GALAXY S4 World Tour. Ready? The GALAXY S4 World Tour.",
+          1366691400
+        ],
+        [
+          "Surrounded by skyscrapers, we're with Samsung Mobile HK for the next part of the GALAXY S4 World Tour. The GALAXY S4 World Tour.",
+          1366269408
+        ],
+        [
+          "Samsung Mobile Russia are preparing to introduce the GALAXY S4 at our World Tour event. Can you guess where they are? The GALAXY S4 World Tour.",
+          1366171201
+        ],
+        [
+          "The GALAXY S4 World Tour starts today, with Samsung Mobile UK unveiling the GALAXY S4 in London - it's almost time! The GALAXY S4 World Tour.",
+          1366120493
         ]
       ],
-      "dates_start": 1363125154,
-      "dates_end": 1380267653,
-      "likes_avg": 30261,
-      "likes_stdev": 35527,
-      "comments_avg": 694,
-      "comments_stdev": 1185,
-      "shares_avg": 1353,
-      "shares_stdev": 1355
+      "dates_start": 1364133299,
+      "dates_end": 1394502482,
+      "likes_avg": 29769,
+      "likes_stdev": 23180,
+      "comments_avg": 598,
+      "comments_stdev": 408,
+      "shares_avg": 1982,
+      "shares_stdev": 2055
     },
     {
-      "number": 11,
+      "number": 9,
       "important": [
-        "photo",
+        "galaxi",
         "samsung",
-        "samsung galaxi",
-        "phone",
-        "timelin"
+        "note",
+        "photo",
+        "music",
+        "galaxynot",
+        "video"
       ],
-      "summary": "From the hardware design to the camera experience and sharing tools, we go hands-on with the new Samsung GALAXY S4. Get hands-on with the new Samsung #GALAXYNote3 and the #GALAXYGear. Were you one of the first to get your hands on the GALAXY S4? The... Get the most out of the new GALAXY Nexus and the new features of Android 4.0 Ice Cream Sandwich with these 25 pro tips from Mobile Fun: http://bit.ly/A6BUtW. We go hands-on with the Samsung GALAXY S4.",
+      "summary": "Introducing the new Samsung GALAXY Note 3 which shares a smarter large screen experience and new S Pen features that help to make everyday tasks easier and faster.\nProviding unrivalled multimedia performance within a compact one-hand-grip screen, the GALAXY Note 8.0 has the power and advanced technology to evolve the tablet experience, and ensure you achieve new levels of efficient multi-tasking while benefitting from superb voice call functionality.",
       "common": [
         "galaxi",
         "galaxi note",
@@ -1265,6 +1142,10 @@
         [
           "We all know what a phone looks like\u2026 or do we?\nOn 03.29.2017 #UnboxYourPhone. This Is A Phone.",
           1488133132
+        ],
+        [
+          "The power and productivity of Windows 10 on a 2-in-1 device. Introducing the Samsung #GalaxyBook. Timeline Photos.",
+          1488131760
         ],
         [
           "Tested to work under extreme conditions and extreme temperatures. #QualityAssurance. Quality Assurance : Extreme Weather Test.",
@@ -1305,6 +1186,10 @@
         [
           "Take calls with a twist on your wrist. With the #GearS3 you don't need your phone to stay in touch.",
           1472810442
+        ],
+        [
+          "Introducing the Samsung #GearS3. spr.ly/GearS3.",
+          1472652323
         ],
         [
           "Congrats to Tom Daley for his barrier-defying performance in the synchronized 10m. #DoWhatYouCant #diving. Timeline Photos.",
@@ -1375,6 +1260,10 @@
           1457655333
         ],
         [
+          "Introducing the Samsung #GalaxyS7 and #GalaxyS7edge. Rethink what a phone can do.",
+          1456074789
+        ],
+        [
           "Make a statement with 18K Rose Gold for the new #GearS2classic. #Samsung #CES2016 spr.ly/gearS2. Timeline Photos.",
           1452030650
         ],
@@ -1423,16 +1312,40 @@
           1415119901
         ],
         [
+          "4 Instagrammers. 4 countries. #Note4AllSeasons\n\nhttp://instagram.com/p/uqazD6wvzh/ Instagram. samsungmobile's photo on Instagram.",
+          1414494539
+        ],
+        [
+          "Is your phone a waste of space? #NoteTheDifference #GALAXYNote4 \nhttp://www.youtube.com/watch?v=tSFLgBtmOww. Samsung GALAXY Note 4 - Note the Difference (Multi window) Note the Difference in how seamless multitasking is on the Samsung GALAXY Note 4 with Multi window. To find out more about the GALAXY Note 4, click here: htt...",
+          1413626402
+        ],
+        [
           "Here's a phone that also syncs to your fashion sense. Match with the gold #GALAXYAlpha. Timeline Photos.",
           1412676005
+        ],
+        [
+          "See more, do more with the enhanced Multi Window feature on the #GALAXYNote4.\n\nhttp://youtu.be/3P4UNcTS6Bg. Samsung GALAXY Note 4 - Seamless Multitasking. The GALAXY Note 4's all-new Multi Window feature lets you make the most of the 5.7-inch display for a seamless multitasking experience. The Recent Apps menu ...",
+          1409994420
         ],
         [
           "Watch the premium design and powerful performance of the new #GALAXYNote4. \n\nhttp://youtu.be/Tv7C4e8thv0. Samsung GALAXY Note 4 \u2013 Official Introduction. The GALAXY Note 4 features a premium metal frame with fluid curvature that seamlessly blends with the front display. The GALAXY Note 4\u2019s 2.5D glass screen of...",
           1409814620
         ],
         [
+          "No matter how you slice it, the #GALAXYTabS is the best tablet for color and play. \n\nhttp://youtu.be/wCeOImKwf7g. #TabletRealities with the Samsung GALAXY Tab S - Artist. Find out what she is doing with her Samsung Galaxy Tab S. An acclaimed artist shows off her amazing skills with the Samsung Galaxy Tab S to become a Fruit An...",
+          1408022849
+        ],
+        [
           "The next evolution of the Samsung GALAXY is here. A perfect balance of form and function. It's Just Alpha. http://youtu.be/u8OZoyHvX78. Samsung GALAXY ALPHA \"Just Alpha\" Official Video. Look no further. The next evolution of the Samsung GALAXY smartphone is here. The new ultra-sleek Samsung GALAXY Alpha redefines smartphone design. It\u2019s slim...",
           1407916794
+        ],
+        [
+          "The verdict is in. The #GALAXYTabS is the best tablet for doing two things at once. \n\nhttp://youtu.be/dyCtVlZ0jk0. #TabletRealities with the Samsung GALAXY Tab S - Judge. Find out what he is doing with his Samsung Galaxy Tab S. A High court judge votes for his favorite contestant in Planet Popstar, a singing competition show, ...",
+          1407405617
+        ],
+        [
+          "What do you expect from a great tablet? When expectations meet reality.\n\nhttp://youtu.be/Cme5PtvdOtA. #TabletRealities with the Samsung GALAXY Tab S - Mom. Find out what she is doing with her Samsung Galaxy Tab S. You\u2019ll never guess where this loving mother of four is taken when she sees the stunning blue eyes o...",
+          1406894505
         ],
         [
           "Samsung GALAXY S5 presents 'Sunrise to Sunset' \u2014 a short film showcasing the beautiful city of Trieste, Italy shot entirely on the #GALAXYS5.\n\nhttp://youtu.be/_b6iApsCyOI. Samsung GALAXY S5 \u2014 Sunrise to Sunset. Short film of Trieste, Italy featuring HDR Video and FHD 1080p footage shot entirely on the Samsung GALAXY S5. For more information about the GALAXY S5, visi...",
@@ -1471,12 +1384,32 @@
           1403994121
         ],
         [
+          "Introducing Samsung's thinnest and lightest tablet: the GALAXY Tab S. \n\nhttp://youtu.be/qwpfT9jtsMk. Samsung GALAXY Tab S -- Official Introduction. Samsung GALAXY Tab S combines the most advanced Super AMOLED display technology with a full range of premium content for an unrivaled entertainment experienc...",
+          1403085650
+        ],
+        [
+          "Our history of the best display continues. Super AMOLED on the #GALAXYTabS. Vision redefined.\n\nhttp://youtu.be/6GXt7HluCfE. Samsung GALAXY Tab S - Display History. Introducing the GALAXY Tab S with Super AMOLED display. Discover the ultimate tablet viewing experience with Tab S and its latest display technology. The Tab...",
+          1402750446
+        ],
+        [
+          "The 8.4\" GALAXY Tab S in Titanium Bronze. GALAXY Tab S.",
+          1402610785
+        ],
+        [
+          "Moschino brings a colorful take on peace and love to your #GalaxyS5, #Gear2, and #GearFit http://instagram.com/p/pC9dE-wv7i/ Instagram. samsungmobile's video on Instagram.",
+          1402359100
+        ],
+        [
           "No fish were harmed in the making of this photo. Or phones. #WaterResistant #GALAXYS5. Timeline Photos.",
           1401789600
         ],
         [
           "See how to get shadow-free photos at our Samsung Experience store demos located around the world. #GALAXYS5\n\nhttp://youtu.be/wwsJVa1N86s. GALAXY S5 HDR demo at Samsung Experience Store. Visit a Samsung Experience Store to try out the latest Samsung GALAXY S5 with advanced high-dynamic-range feature. With a backlit, high-contrast scene you ca...",
           1401616940
+        ],
+        [
+          "Quit running out of time, juggling everything and having to pick sides! Make the #SmartMove by using the #Samsung #GALAXYNotePRO's four-window multi-tasking tool and explore  how to do more, More, MORE: http://youtu.be/t0K0cpZZtjo. Keep Up - GALAXY NotePRO 12.2 Tired of having to switch between windows and apps constantly? Then the #GALAXYNotePRO with the new Multi Window experience might just be the #SmartMove for ...",
+          1401481139
         ],
         [
           "Stop missing keys, mixing words, and typing the wrong thing! Make the #SmartMove with the #GALAXYNotePRO's full-size virtual keyboard and learn how to say more, More, MORE: http://youtu.be/v9m1o1tRA2U. Type it Right - GALAXY NotePRO 12.2 Tired of typing on a tiny keyboard? Well why not make the #SmartMove with a full-size virtual keyboard on the #GALAXYNotePRO 12.2\". It's got all the keys you...",
@@ -1507,12 +1440,24 @@
           1398419967
         ],
         [
+          "For all the dogs out there who want to get in shape this year, we're introducing the Samsung #PuppyFit! Timeline Photos.",
+          1396319673
+        ],
+        [
+          "We're Instagramming! Samsung Mobile on Instagram. Official Instagrams about #TheNextGALAXY.",
+          1395668753
+        ],
+        [
           "We go hands-on with the #GALAXYS5. Samsung GALAXY S5 : Official Hands-on.  The new GALAXY S5 comes with a new modern design, vivid color options, advanced camera, fastest network connectivity and more.",
           1394443815
         ],
         [
           "Sport doesn't care how hard or often you fall. Sport only cares that you get back up. #paralympics #sportdoesntcare. Keira - Sochi 2014 Paralympic Winter Games. Sochi 2014 Paralympic Winter Games. Meet Keira, a 7 year old Canadian, Paralympian to be. What's your problem?",
           1394104448
+        ],
+        [
+          "Introducing Samsung #GALAXYS5. Introducing Samsung GALAXY S5. The new GALAXY S5 is here.",
+          1393931137
         ],
         [
           "The 2014 Paralympic Winter Games are almost here. Sport doesn\u2019t care how exhausted and hurt the athletes are right now, sport wants to see their A-game from March 7th. #paralympicgames\n#sportdoesntcare\n. What's Your Problem? Sport Doesn't Care - Sochi 2014 Paralympic Winter Games. Sochi 2014 Paralympic Winter Games. Sport doesn't care about abilities or disabilities. Sport makes no distinctions.",
@@ -1547,12 +1492,20 @@
           1392289817
         ],
         [
+          "Introducing the Samsung #GALAXYNotePRO, with best-in-class media consumption and productivity capabilities. Introducing Samsung GALAXY NotePRO. The PRO series, setting the new rule for tablet experience with best-in-class media consumption and productivity capabilities.",
+          1392199657
+        ],
+        [
           "The legendary Jamaica Bobsleigh Team is back! Check out 'Keep On Pushing Episode 2: Dream of Jamaica!' #SamsungGALAXY. Keep On Pushing - Episode 2: Dream of Jamaica. This semi-documentary film is a tribute to all athletes headed to Sochi to achieve their personal best.",
           1392124085
         ],
         [
           "The legendary Jamaica Bobsleigh Team is back! Check out 'Keep On Pushing Episode 1: The heroes are back!' #SamsungGALAXY. Keep On Pushing - Episode 1: The heroes are back! \nThis semi-documentary film is a tribute to all athletes headed to Sochi to achieve their personal best.",
           1392052029
+        ],
+        [
+          "The PRO series from Samsung GALAXY. Experience what progressive thinking is all about with #GALAXYNotePRO. GALAXY Tab changes the rules - Samsung GALAXY NotePRO. Introducing the Samsung GALAXY NotePRO. From the immersive 12.2-inch 4 million pixel display to Multi Window...",
+          1391866295
         ],
         [
           "Explore the rich, colorful city of Istanbul, the center and gateway to the West, as journalist Olly Steeds visits the Grand Bazaar, Koza Han, Hagia Sophia and Topkapi Palace with the #GALAXYNote 10.1 (2014 Edition). Samsung GALAXY Note 10.1 Silk Road: Istanbul, The Ancient Business Portal. The Silk Road series explores the significant role three historic sites had in influencing trade, culture, and more.",
@@ -1571,8 +1524,20 @@
           1390125467
         ],
         [
+          "A rich Italian family in a grand mansion, a beautiful heiress, and a missing heirloom jewel\u2026 This baffling #mystery is unraveled clue by clue as our detective takes on the case with his #GALAXYNote 10.1 (2014 Edition). Wonderview: The GALAXY Note 10.1 Solves a Baffling Mystery in Milan. A rich family, a beautiful heiress, and a missing heirloom jewel.",
+          1388963193
+        ],
+        [
           "Thanks to all our fans around the world for making this a great year! #HappyNewYear from Samsung Mobile! #NYE #Welcome2014. Timeline Photos.",
           1388491200
+        ],
+        [
+          "The glitz and glam of #NYC are on display alongside the #GALAXYNote 10.1 (2014 edition), with Art Deco inspired artistry layered over vibrant colors in this moving collage. http://bit.ly/1kMkXsF. Wonder View: The GALAXY Note 10.1 Out on the Town in NYC. The glitz and glam of New York City are on display alongside the GALAXY Note 10.1 (2014 edition), with Art Deco-inspired artistry layered over vibrant colors...",
+          1388314801
+        ],
+        [
+          "Art Deco meets British pop #rock in these colorful, fantastic collages showcasing a young rock band's tour of #London with the #GALAXYNote 10.1 (2014 Edition). Wonder View: The GALAXY Note 10.1 Rocks London. Art Deco meets British rock in these colorful, fantastic collages that showcase a young rock band's tour of London with the GALAXY Note 10.1 (2014 Edition).",
+          1387710182
         ],
         [
           "Join us as we explore the #GALAXYNote3\u2019s Scrapbook, an easier and better way to capture and organize your daily interests. #SMARTMOVE. GALAXY Note 3: Scrapbook - #SMARTMOVE Ep. 7. For the next part of our #SMARTMOVE series, join us as we explore the GALAXY Note 3's Scrapbook, an easier and better way to capture and organize your everyd...",
@@ -1591,12 +1556,36 @@
           1386500400
         ],
         [
+          "Forget copy and paste. Make a #SMARTMOVE by multitasking with Drag & Drop and Multi Window on the #GALAXYNote3. http://bit.ly/1jhnoCJ. Timeline Photos.",
+          1386156456
+        ],
+        [
+          "Multitask with drag & drop, draw a window for useful functions. All thanks to the smarter large screen of #GALAXYNote3. Make the #SMARTMOVE. GALAXY Note 3: Smarter Large Screen - #SMARTMOVE Ep. 3. For the third video in our series, we take a deeper dive into the incredible multitasking power that makes the GALAXY Note 3 a very #SMARTMOVE. Multi Window ...",
+          1386088818
+        ],
+        [
+          "Draw boxes on the #GALAXYNote3 to create new windows. Drag and drop between them. Multitasking with multi windows. Timeline Photos.",
+          1385895601
+        ],
+        [
+          "With a microSD memory card and #GALAXYNote 10.1 (2014 Edition), deciding what photos to keep can wait for your return home. Timeline Photos.",
+          1385566666
+        ],
+        [
           "Explore why the #GALAXYNote3 is a #SMARTMOVE. #SMARTMOVE Ep.1 - A better look at GALAXY Note 3. In the first of our #SMARTMOVE video series, we take a look at some of the hardware specs for the GALAXY Note 3.",
           1385473682
         ],
         [
           "The circle. A line with no end and no beginning. A Frisbee, the loop of a lasso. Now, with the #GALAXYNote3, draw a circle around the things you want \u2013 then Scrapbook them in any format. Timeline Photos.",
           1385290800
+        ],
+        [
+          "Capture more of the action with full HD video recording at 60fps with #GALAXYNote 10.1 (2014 Edition). Timeline Photos.",
+          1384959870
+        ],
+        [
+          "Discover how the #GALAXYNote3, #GALAXYGear and #GALAXYNote 10.1 (2014 Edition) have been entertaining guests at our #GALAXYStudio on Portobello Road. http://bit.ly/1axdq84. Timeline Photos.",
+          1384614001
         ],
         [
           "Want to have the street cred of your #GALAXY song as a GALAXY ringtone? Join Gil Smith II and the GALAXY Band for the Over The Horizon worldwide remix event! GuitarSlayer24 Adrian Porter. play GALAXY music. GALAXY MUSIC - Over the Horizon Worldwide Remix.",
@@ -1619,16 +1608,44 @@
           1383994801
         ],
         [
+          "Enjoy unparalleled viewing with high-resolution WQXGA display on the #GALAXYNote 10.1 (2014 Edition). Timeline Photos.",
+          1383735624
+        ],
+        [
           "A sneak peek of some of the action from our #GALAXYStudio, Portobello Market, London. More will be revealed shortly! Timeline Photos.",
           1383654091
+        ],
+        [
+          "Have two of the same application open with Multi Window on #GALAXYNote 10.1 (2014 Edition). Unparalleled multitasking in your hands today. Timeline Photos.",
+          1383135543
+        ],
+        [
+          "Experience unparalleled multitasking with Drag & Drop on the #GALAXYNote 10.1 (2014 Edition). All in your hands today. Timeline Photos.",
+          1382519984
         ],
         [
           "We join Samsung Australia on The Shoot and go behind the scenes with Baz Luhrmann, #GALAXYNote3 & #GALAXYGear. Come behind the scenes on The Shoot. Working with National Institute of Dramatic Art (NIDA) and mentored by world-renowned director, Baz Luhrmann, 10 young talented filmmakers have come from all over Australia to collaborate in an opportunity of a lifetime.",
           1382009702
         ],
         [
+          "Get to know the #GALAXYNote 10.1 (2014 Edition). Unparalleled viewing experience, productivity and mobility on a tablet. http://youtu.be/R9d3IIDFdVA. Timeline Photos.",
+          1381914503
+        ],
+        [
+          "Messi's Note. #GALAXYNote3. Instagram. samsungmobile's video on Instagram.",
+          1381854600
+        ],
+        [
+          "Exceptional clarity and efficiency: #GALAXYNote 10.1 (2014 Edition). Introducing Samsung GALAXY Note 10.1 (2014 Edition) [ Hardware & Design ] The GALAXY Note 10.1 (2014 Edition) comes with a WQXGA (2,560 x 1,600 pixels) Super clear LCD resolution in a stunning 10-inch display.",
+          1381495293
+        ],
+        [
           "The Developer, with #GALAXYNote3 & #GALAXYGear. A new musical short film. Samsung GALAXY Note 3 Official TVC - The Developer. Told from a child's perspective, \"The Developer\" is a musical short film by Samsung featuring Lionel Messi and the hit single \"Royals\" by Lorde.",
           1381313376
+        ],
+        [
+          "A mysterious mission in a desolate town. Stay tuned. Instagram. samsungmobile's video on Instagram.",
+          1381248001
         ],
         [
           "Faster, and more powerful performance with the new #GALAXYNote3. Timeline Photos.",
@@ -1655,8 +1672,28 @@
           1378720035
         ],
         [
+          "Packing up at #UNPACKED. Thanks for joining us! Packing up at #UNPACKED. SamsungMobile's video on Instagram.",
+          1378374488
+        ],
+        [
+          "[Exclusive] Introducing Samsung #GALAXYNote3. Introducing Samsung GALAXY Note 3. Introducing the new Samsung GALAXY Note 3 which shares a smarter large screen experience and new S Pen features that help to make everyday tasks easier and faster.",
+          1378341964
+        ],
+        [
+          "Experiencing #GALAXYNote3, #GALAXYGear and #GALAXYNote 10.1 (2014 Edition) first hand at #UNPACKED! Inside the experiential zone at #UNPACKED. SamsungMobile's video on Instagram.",
+          1378323066
+        ],
+        [
           "A larger and better screen for the best viewing experience and more powerful multitasking, and significant S Pen improvements that make everyday life easier and faster. Samsung GALAXY Note 3.",
           1378308779
+        ],
+        [
+          "#UNPACKED livestream starts in an hour! Get a seat, settle in, for it's time to take note. Today's the day! SamsungMobile's video on Instagram.",
+          1378304895
+        ],
+        [
+          "Our journey to #UNPACKED in under 15 seconds. Join us on Instagram for more behind-the-scene looks! http://instagram.com/samsungmobile. Our journey to #UNPACKED. samsungmobile's video on Instagram.",
+          1378208510
         ],
         [
           "Introducing GALAXY Music, a smarter way of enjoying tunes on your GALAXY devices. Artists, songs, concerts & your friends all on your phone! http://www.playgalaxymusic.com. GALAXY Music. Enabling fun interaction among music lovers and bringing all the music elements and scenes together, including GALAXY songs, concerts and community, to your mobile devices, \n\nGALAXY Music takes you to the whole new level of enjoying music.",
@@ -1683,6 +1720,14 @@
           1373980320
         ],
         [
+          "Multitask with #GALAXYNote 8.0 using Multi Window. With so many amazing apps available, sometimes one window just isn't enough. http://bit.ly/1aFweaE. Timeline Photos.",
+          1373965234
+        ],
+        [
+          "See how #GALAXYNote 8.0's S Planner, Pop Up Note, Multi Window and Easy Clip help a Eurosport journalist be more efficient on the move. GALAXY Note 8.0: Taking you to the heart of the sports. The GALAXY Note 8.0 keeps you ahead of the game! Discover how a Eurosport journalist uses  the GALAXY Note 8.0 to do his job more efficiently while on the move.",
+          1373362806
+        ],
+        [
           "Create some monstrously good GIFs using Animated Photo on #GALAXYS4! Monsters University http://bit.ly/18BiJrY. GALAXY S4 Animated Photo with Monsters University. Bring your monstrous images to life with Animated Photo on the Samsung GALAXY S4.",
           1373115601
         ],
@@ -1707,6 +1752,10 @@
           1371459840
         ],
         [
+          "The GALAXY Tab 3 Series provides various ways to view, listen, create and share meaningful events and special content with those who matter most. Samsung GALAXY Tab 3 Series.",
+          1371005143
+        ],
+        [
           "Look out for the exclusive vinyl for your new car in Fast and Furious 6: The Game. Only on GALAXY devices. http://bit.ly/15gdGJ2. Timeline Photos.",
           1370854903
         ],
@@ -1715,8 +1764,16 @@
           1370433724
         ],
         [
+          "Introducing the Samsung GALAXY S4 Active, the perfect companion for exploration, activity and adventure. Providing a rich experience without the fear of damage from outdoor elements. http://bit.ly/15zWMot. Samsung GALAXY S4 Active.",
+          1370422469
+        ],
+        [
           "Get your exclusive Samsung Starter Park for Fast and Furious 6: The Game http://bit.ly/15gdGJ2. Timeline Photos.",
           1370269068
+        ],
+        [
+          "Introducing the Samsung GALAXY S4 Mini, a powerful and compact smartphone with strong performance and exceptional user experience. http://bit.ly/1358V4t. Samsung GALAXY S4 Mini.",
+          1369906126
         ],
         [
           "Explore SideSync technology, make your PC and Mobile as one.  Samsung Notebook. SideSync connects your PC and mobile like never before. Move seamlessly between devices: Drag & drop files, type text messages from your keyboard, and much, much more.  See more at http://youtu.be/HVvczhM5KxI.",
@@ -1779,12 +1836,20 @@
           1364472020
         ],
         [
+          "Do more at once with GALAXY Note 8.0.  \r\n\r\nWith its powerful performance and Multi Window, you can multitask with ease. Discover the Samsung GALAXY Note 8.0",
+          1364216818
+        ],
+        [
           "\"It's also a powerful beast\" Find out more about the GALAXY S4 from Engadget. Samsung Galaxy S 4 official: 5-inch 1080p display, Octa-core Exynos chip and 13MP camera. Another year, another Galaxy S flagship smartphone from Samsung. 2013's version of the crown jewel, the Galaxy S 4, has just been officially announced.",
           1363777155
         ],
         [
           "ChatON gets upgrade with animessages, voice message, anicon, and enriched buddy's mini pop-ups! Introducing Samsung ChatON 2.0 Everyone can ChatON! It's \"ChatON Party\" time. With the easy-to-use usability and the up-to-date ChatON 2.0, the ChatON party gets much interesting!",
           1361865600
+        ],
+        [
+          "A new era of portability and everyday productivity.\n\nProviding unrivalled multimedia performance within a compact one-hand-grip screen, the GALAXY Note 8.0 has the power and advanced technology to evolve the tablet experience, and ensure you achieve new levels of efficient multi-tasking while benefitting from superb voice call functionality.\n\nFor more information: http://www.samsung.com/global/microsite/galaxynote/note8.0/ Introducing Samsung GALAXY Note 8.0",
+          1361667764
         ],
         [
           "You don\u2019t need to be tied to a computer to create content. The latest infographic from PC Advisor shows how the GALAXY Note II allows users to embrace their creative side. http://bit.ly/WLwtb1. TechNotes from PC Advisor.",
@@ -1801,6 +1866,10 @@
         [
           "Powering communities around the world with SunSaluter and the GALAXY Note 10.1. Create the future with SunSaluter and GALAXY Note 10.1 Fascinated by biomimicry, Eden Full aims to power a whole village on SunSaluters -- relying on technology that rotates solar panels to follow the sun.",
           1361186873
+        ],
+        [
+          "Planning your perfect Valentine's date is simple with the GALAXY Note II. Using Multi Window and Easy Clip, you'll be able to put everything you need in S Note. Timeline Photos.",
+          1360836810
         ],
         [
           "Empowering children around with world with Pencils Of Promise and GALAXY Note 10.1. Hear it from Adam Braun. Create the future with Pencils of Promise and GALAXY Note 10.1 When you consider the greatest minds of all time, each of them started just as a child at one point with nothing more than a pencil and a piece of paper.",
@@ -1935,6 +2004,10 @@
           1330867439
         ],
         [
+          "Introducing the GALAXY Tab 2 (7.0) with Android 4.0 and 1GHz dual-core processor. Samsung Mobile. Offering optimal multimedia experiences in life. The GALAXY Tab 2 (7.0), powered by Android 4.0 and a 1GHz dual-core processor, is the ideal personal on-the-go device. Launching in global markets from March. Available in 3G and Wi-Fi versions. \n\nFor more information: http://bit.ly/zzC5fL.",
+          1329190275
+        ],
+        [
           "Calling all fashionistas!\n\nFashion Week is around the corner and, this time round, some of the world's top models and fashion editor Derek Blasberg will be armed with the GALAXY Note to bring you exclusive looks behind-the-scenes. \n\nMore glitz, glamour and candid moments on and off the runway to come to our Facebook community. You can also keep up with the latest trends on Twitter with #GALAXYNoteFW. Watch this space.",
           1328620128
         ],
@@ -1973,144 +2046,127 @@
         [
           "Does DMC from Run DMC live in a castle? The Fact Checkers Unit finds out in this week's episode as their friendship gets tested to the limit. [GALAXY Note - FCU2] ep. 4 Fly Like A Buttress. Does DMC (from Run-DMC) really think he is a king? The FCU finds out in this week's Fact Checkers Unit episode as their friendship gets tested to the limits....",
           1325512872
+        ],
+        [
+          "Samsung Mobile A-Z: U is for User Interface.\n\nThe GALAXY S II, GALAXY Tab 10.1 and GALAXY Note all feature Samsung\u2019s unique TouchWiz user interface which includes functionality such as panning and tilting motion detection. Timeline Photos.",
+          1325404842
         ]
       ],
-      "dates_start": 1346352858,
-      "dates_end": 1434227465,
-      "likes_avg": 24857,
-      "likes_stdev": 61550,
-      "comments_avg": 691,
-      "comments_stdev": 1622,
-      "shares_avg": 1240,
-      "shares_stdev": 3086
+      "dates_start": 1349362526,
+      "dates_end": 1431137152,
+      "likes_avg": 27915,
+      "likes_stdev": 66175,
+      "comments_avg": 819,
+      "comments_stdev": 2339,
+      "shares_avg": 1704,
+      "shares_stdev": 6876
     },
     {
-      "number": 12,
+      "number": 10,
       "important": [
-        "galaxi note",
-        "multi",
-        "window",
-        "note",
-        "multitask"
-      ],
-      "summary": "Samsung GALAXY Note 4 - Note the Difference (Multi window) Note the Difference in how seamless multitasking is on the Samsung GALAXY Note 4 with Multi window. Experience unparalleled multitasking with Drag & Drop on the #GALAXYNote 10.1 (2014 Edition). Make a #SMARTMOVE by multitasking with Drag & Drop and Multi Window on the #GALAXYNote3. The GALAXY Note 4's all-new Multi Window feature lets you make the most of the 5.7-inch display for a seamless multitasking experience. Then the #GALAXYNotePRO with the new Multi Window experience might just be the #SmartMove for ... A rich Italian family in a grand mansion, a beautiful heiress, and a missing heirloom jewel\u2026 This baffling #mystery is unraveled clue by clue as our detective takes on the case with his #GALAXYNote 10.1 (2014 Edition).",
-      "common": [
-        "edit",
+        "premier",
+        "samsung",
+        "gatsbi",
         "galaxi",
-        "galaxi note",
-        "galaxynot",
-        "multi",
-        "multi window",
-        "multitask",
-        "note",
-        "photo",
-        "window"
+        "shot",
+        "mobil",
+        "carpet",
+        "squar",
+        "june"
+      ],
+      "summary": "We join the red carpet in New York City for The Great Gatsby movie premiere, to see how the GALAXY S4 is the perfect device for recording those memorable moments.\nSamsung Mobile joins the red carpet for the premiere of The Great Gatsby movie in New York City.\nJoin us at The Great Gatsby premiere, live from New York City at 6pm EST through http://bit.ly/GatsbyPremiere (desktop) and http://smarturl.it/GatsbyPremiere (mobile).",
+      "common": [
+        "cann",
+        "gatsbi",
+        "gatsbi premier",
+        "great",
+        "great gatsbi",
+        "great gatsbi premier",
+        "new",
+        "new york",
+        "samsung",
+        "york"
       ],
       "messages": [
         [
-          "Is your phone a waste of space? #NoteTheDifference #GALAXYNote4 \nhttp://www.youtube.com/watch?v=tSFLgBtmOww. Samsung GALAXY Note 4 - Note the Difference (Multi window) Note the Difference in how seamless multitasking is on the Samsung GALAXY Note 4 with Multi window. To find out more about the GALAXY Note 4, click here: htt...",
-          1413626402
+          "Countdown to #TheNextGALAXY. Are you ready? \nhttp://youtu.be/0lnxSR4g920. Samsung GALAXY PREMIERE 2014 Countdown. Join us at Samsung GALAXY PREMIERE Tab Into Color event on June 12 Thursday from 7PM EDT. Bringing it to you live from Madison Square Garden in New York City...",
+          1402060593
         ],
         [
-          "See more, do more with the enhanced Multi Window feature on the #GALAXYNote4.\n\nhttp://youtu.be/3P4UNcTS6Bg. Samsung GALAXY Note 4 - Seamless Multitasking. The GALAXY Note 4's all-new Multi Window feature lets you make the most of the 5.7-inch display for a seamless multitasking experience. The Recent Apps menu ...",
-          1409994420
+          "Live from Earls Court 2 at the Samsung PREMIERE 2013 GALAXY & ATIV event. Samsung PREMIERE 2013.",
+          1371758796
         ],
         [
-          "Quit running out of time, juggling everything and having to pick sides! Make the #SmartMove by using the #Samsung #GALAXYNotePRO's four-window multi-tasking tool and explore  how to do more, More, MORE: http://youtu.be/t0K0cpZZtjo. Keep Up - GALAXY NotePRO 12.2 Tired of having to switch between windows and apps constantly? Then the #GALAXYNotePRO with the new Multi Window experience might just be the #SmartMove for ...",
-          1401481139
+          "It's almost time, are you ready? #PREMIERE http://bit.ly/Samsung_live. Samsung PREMIERE 2013.",
+          1371742150
         ],
         [
-          "A rich Italian family in a grand mansion, a beautiful heiress, and a missing heirloom jewel\u2026 This baffling #mystery is unraveled clue by clue as our detective takes on the case with his #GALAXYNote 10.1 (2014 Edition). Wonderview: The GALAXY Note 10.1 Solves a Baffling Mystery in Milan. A rich family, a beautiful heiress, and a missing heirloom jewel.",
-          1388963193
+          "Meet the new Samsung products tomorrow. Watch live at 19:00 BST: http://bit.ly/Samsung_live #PREMIERE. Samsung PREMIERE 2013.",
+          1371653990
         ],
         [
-          "The glitz and glam of #NYC are on display alongside the #GALAXYNote 10.1 (2014 edition), with Art Deco inspired artistry layered over vibrant colors in this moving collage. http://bit.ly/1kMkXsF. Wonder View: The GALAXY Note 10.1 Out on the Town in NYC. The glitz and glam of New York City are on display alongside the GALAXY Note 10.1 (2014 edition), with Art Deco-inspired artistry layered over vibrant colors...",
-          1388314801
+          "Watch how we captured and shared the buzz of The Great Gatsby Premiere in Cannes with the GALAXY S4. http://bit.ly/13CMqD2. [Highlights] The Great Gatsby Premiere in Cannes.",
+          1370685754
         ],
         [
-          "Art Deco meets British pop #rock in these colorful, fantastic collages showcasing a young rock band's tour of #London with the #GALAXYNote 10.1 (2014 Edition). Wonder View: The GALAXY Note 10.1 Rocks London. Art Deco meets British rock in these colorful, fantastic collages that showcase a young rock band's tour of London with the GALAXY Note 10.1 (2014 Edition).",
-          1387710182
+          "Watch how the GALAXY S4 with Drama Shot, Dual Shot and Air View, captures the best of The Great Gatsby Premiere in Cannes. GALAXY S4 - The Great Gatsby Premiere, Cannes. We head to Cannes in the chic French Riviera for the premiere of Baz Luhrmann's The Great Gatsby.",
+          1370348841
         ],
         [
-          "Forget copy and paste. Make a #SMARTMOVE by multitasking with Drag & Drop and Multi Window on the #GALAXYNote3. http://bit.ly/1jhnoCJ. Timeline Photos.",
-          1386156456
+          "SAMSUNG PREMIERE 2013 on June 20. Mark your calendars! Samsung PREMIERE 2013.",
+          1369646150
         ],
         [
-          "Multitask with drag & drop, draw a window for useful functions. All thanks to the smarter large screen of #GALAXYNote3. Make the #SMARTMOVE. GALAXY Note 3: Smarter Large Screen - #SMARTMOVE Ep. 3. For the third video in our series, we take a deeper dive into the incredible multitasking power that makes the GALAXY Note 3 a very #SMARTMOVE. Multi Window ...",
-          1386088818
+          "Cool off from the fever of Cannes Film Festival with the GALAXY S4 and Drama Shot. [Highlights] The Great Gatsby Premiere in Cannes.",
+          1368799202
         ],
         [
-          "Draw boxes on the #GALAXYNote3 to create new windows. Drag and drop between them. Multitasking with multi windows. Timeline Photos.",
-          1385895601
+          "\"Hi Samsung Mobile fans, we are at the Cannes Film Festival for The Great Gatsby premiere\" - recorded with Sound & Shot on GALAXY S4. [Highlights] The Great Gatsby Premiere in Cannes.",
+          1368695888
         ],
         [
-          "With a microSD memory card and #GALAXYNote 10.1 (2014 Edition), deciding what photos to keep can wait for your return home. Timeline Photos.",
-          1385566666
+          "We join the red carpet in New York City for The Great Gatsby movie premiere, to see how the GALAXY S4 is the perfect device for recording those memorable moments. GALAXY S4 - The Great Gatsby Premiere, New York City. Samsung Mobile joins the red carpet for the premiere of The Great Gatsby movie in New York City. ",
+          1368607966
         ],
         [
-          "Capture more of the action with full HD video recording at 60fps with #GALAXYNote 10.1 (2014 Edition). Timeline Photos.",
-          1384959870
+          "Live on the red carpet in New York with the lead roles of The Great Gatsby movie with Dual Shot on the GALAXY S4. [Highlights] The Great Gatsby Premiere.",
+          1367511096
         ],
         [
-          "Discover how the #GALAXYNote3, #GALAXYGear and #GALAXYNote 10.1 (2014 Edition) have been entertaining guests at our #GALAXYStudio on Portobello Road. http://bit.ly/1axdq84. Timeline Photos.",
-          1384614001
+          "The location: New York City \r\nThe event: The Great Gatsby premiere May 1 \r\nWardrobe: Brooks Brothers \r\nDevice on red carpet: The GALAXY S4. [Highlights] The Great Gatsby Premiere.",
+          1367436639
         ],
         [
-          "Enjoy unparalleled viewing with high-resolution WQXGA display on the #GALAXYNote 10.1 (2014 Edition). Timeline Photos.",
-          1383735624
+          "Join us at The Great Gatsby premiere, live from New York City at 6pm EST through http://bit.ly/GatsbyPremiere (desktop) and http://smarturl.it/GatsbyPremiere (mobile). \n\nWe will be capturing all the excitement from the red carpet with the GALAXY S4 and GALAXY Note 8.0. The Great Gatsby. We'll be streaming LIVE from the NYC premiere of The Great Gatsby today at 3pm PT / 6pm ET - tune in for all of the red carpet arrivals and interviews here: http://smarturl.it/GatsbyPremiere.",
+          1367434057
         ],
         [
-          "Have two of the same application open with Multi Window on #GALAXYNote 10.1 (2014 Edition). Unparalleled multitasking in your hands today. Timeline Photos.",
-          1383135543
-        ],
-        [
-          "Experience unparalleled multitasking with Drag & Drop on the #GALAXYNote 10.1 (2014 Edition). All in your hands today. Timeline Photos.",
-          1382519984
-        ],
-        [
-          "Get to know the #GALAXYNote 10.1 (2014 Edition). Unparalleled viewing experience, productivity and mobility on a tablet. http://youtu.be/R9d3IIDFdVA. Timeline Photos.",
-          1381914503
-        ],
-        [
-          "Exceptional clarity and efficiency: #GALAXYNote 10.1 (2014 Edition). Introducing Samsung GALAXY Note 10.1 (2014 Edition) [ Hardware & Design ] The GALAXY Note 10.1 (2014 Edition) comes with a WQXGA (2,560 x 1,600 pixels) Super clear LCD resolution in a stunning 10-inch display.",
-          1381495293
-        ],
-        [
-          "Multitask with #GALAXYNote 8.0 using Multi Window. With so many amazing apps available, sometimes one window just isn't enough. http://bit.ly/1aFweaE. Timeline Photos.",
-          1373965234
-        ],
-        [
-          "See how #GALAXYNote 8.0's S Planner, Pop Up Note, Multi Window and Easy Clip help a Eurosport journalist be more efficient on the move. GALAXY Note 8.0: Taking you to the heart of the sports. The GALAXY Note 8.0 keeps you ahead of the game! Discover how a Eurosport journalist uses  the GALAXY Note 8.0 to do his job more efficiently while on the move.",
-          1373362806
-        ],
-        [
-          "Do more at once with GALAXY Note 8.0.  \r\n\r\nWith its powerful performance and Multi Window, you can multitask with ease. Discover the Samsung GALAXY Note 8.0",
-          1364216818
-        ],
-        [
-          "Planning your perfect Valentine's date is simple with the GALAXY Note II. Using Multi Window and Easy Clip, you'll be able to put everything you need in S Note. Timeline Photos.",
-          1360836810
+          "We're getting ready to go for an evening of fashion and glamour at the New York City premiere of The Great Gatsby.\r\n\r\nCheck out Catherine Martin\u2019s costume sketch of Mr. Gatsby's suit and watch the movie trailer via Multi Window with the GALAXY Note 8.0. [Highlights] The Great Gatsby Premiere.",
+          1367368533
         ]
       ],
-      "dates_start": 1373099854,
-      "dates_end": 1397238637,
-      "likes_avg": 41245,
-      "likes_stdev": 62036,
-      "comments_avg": 898,
-      "comments_stdev": 1467,
-      "shares_avg": 1235,
-      "shares_stdev": 1489
+      "dates_start": 1363125154,
+      "dates_end": 1380267653,
+      "likes_avg": 30261,
+      "likes_stdev": 35527,
+      "comments_avg": 694,
+      "comments_stdev": 1185,
+      "shares_avg": 1353,
+      "shares_stdev": 1355
     },
     {
-      "number": 13,
+      "number": 11,
       "important": [
-        "readi",
+        "unpack",
         "samsung",
-        "episod",
-        "unpack readi",
-        "samsung unpack"
+        "galaxi",
+        "readi",
+        "note",
+        "live",
+        "thenextgalaxi",
+        "livestream"
       ],
-      "summary": "Samsung UNPACKED 2013 Episode 2 livestream (full length) Live at Samsung UNPACKED 2013 Episode 2 from the Tempodrom in Berlin where we unveil the GALAXY Note 3, GALAXY Gear and GALAXY Note 10.1 (2014 Edition). Samsung #UNPACKED. Samsung UNPACKED 2013 livestream (full length) Relive the Samsung UNPACKED experience, and be one of the first in the world to see the #TheNextGalaxy, the GALAXY S 4. We're live at Samsung UNPACKED 2013. [UNPACKED 2013] Be Ready 4 The Next Galaxy.",
+      "summary": "Tune in live to Samsung UNPACKED at 8:00PM CET to meet the next GALAXY.\nSamsung UNPACKED 2013 Episode 2 livestream (full length) Live at Samsung UNPACKED 2013 Episode 2 from the Tempodrom in Berlin where we unveil the GALAXY Note 3, GALAXY Gear and GALAXY Note 10.1 (2014 Edition).\nJoin us live at Samsung UNPACKED 2013 Episode 2 from the Tempodrom in Berlin where we will unveil the next-generation products.\nThis time tomorrow, we'll meet The Next Galaxy live at Times Square NYC for Samsung UNPACKED.",
       "common": [
         "episod",
         "galaxi",
@@ -2231,15 +2287,19 @@
       "shares_stdev": 1817
     },
     {
-      "number": 14,
+      "number": 12,
       "important": [
+        "note",
+        "galaxi",
+        "pen",
         "samsung",
+        "tip",
         "write",
         "creat",
-        "pen",
-        "use"
+        "galaxynot",
+        "captur"
       ],
-      "summary": "Samsung GALAXY Note 4 \u2013 S Pen. Samsung GALAXY Note 4 - Note the Difference (S Pen) Note the Difference in how you capture, save and share content on the Samsung GALAXY Note 4 with Smart select with S Pen. Samsung Galaxy Note 2. How to use S Pen on GALAXY Note. Discover the Samsung GALAXY Note 8.0 SlashGear gets to grips with the GALAXY Note 8.0.",
+      "summary": "Discover the Samsung GALAXY Note 8.0 Use the S Pen and S Planner to handwrite notes, input meetings and prepare your day like an ordinary diary on #GALAXYNote 8.0.\nCheck out what happens when cutting edge artist Tristan Eaton gets his hands on the Samsung GALAXY Note 10.1 From rough sketches to detailed masterpieces, create great things with GALAXY Note 10.1.",
       "common": [
         "creat",
         "galaxi note pen",
@@ -2508,209 +2568,18 @@
       "shares_stdev": 1280
     },
     {
-      "number": 15,
+      "number": 13,
       "important": [
-        "watch",
-        "new york",
-        "thenextgalaxi",
-        "time",
-        "unpack"
+        "galaxytab",
+        "galaxi",
+        "note",
+        "display",
+        "design",
+        "samsung",
+        "quad",
+        "super"
       ],
-      "summary": "Tune in to the #Unpacked live stream on February 21. http://spr.ly/galaxyunpacked. The time is near for #TheNextGalaxy. Be the first to experience #TheNextGalaxy. Watch the livestream on Sep 3. http://spr.ly/gearS2. We join Moda Operandi at The Metropolitan Museum of Art, New York, and discover why the GALAXY S4 is an essential companion on the red carpet at the Met Gala.",
-      "common": [
-        "live",
-        "new",
-        "new york",
-        "thenextgalaxi",
-        "thenextgalaxi timelin",
-        "thenextgalaxi timelin photo",
-        "time",
-        "unpack",
-        "watch",
-        "york"
-      ],
-      "messages": [
-        [
-          "On 03.29.2017 we\u2019re pushing the boundaries one more time. #UnboxYourPhone  spr.ly/GalaxyUnpacked.",
-          1488133545
-        ],
-        [
-          "Lack of choice is not an option. The #GearS3's watch faces are customizable and it is compatible with 22mm watch bands.",
-          1472832061
-        ],
-        [
-          "The #LINEFriends watch face for the #GearS2 is here. #BetterAtEveryTurn.",
-          1470989131
-        ],
-        [
-          "\"VR allows the viewer to make a more profound connection than with traditional media.\" - Jake Silverstein, Editor in Chief of The New York Times Magazine. Timeline Photos.",
-          1466659822
-        ],
-        [
-          "Rock your rebellion on your wrist with these #KeithHaring inspired watch faces for the #GearS2. Timeline Photos.",
-          1462788004
-        ],
-        [
-          "The latest Snoopy watch face for the #GearS2 is out of this world. #Space. Timeline Photos.",
-          1462528802
-        ],
-        [
-          "Less time charging. More time playing. #GalaxyS7 #GalaxyS7edge #FastCharge #WirelessCharger. Timeline Photos.",
-          1460109602
-        ],
-        [
-          "Something big is coming tomorrow. #TheNextGalaxy. Timeline Photos.",
-          1459422003
-        ],
-        [
-          "Discover #Samsung's innovation story, unpacked, one box at a time. #TheNextGalaxy http://spr.ly/galaxyunpacked.",
-          1455782634
-        ],
-        [
-          "Change the way you think about your phone. Tune in to #Unpacked live on February 21. #TheNextGalaxy http://spr.ly/6181BbEal. Timeline Photos.",
-          1455516003
-        ],
-        [
-          "Be the first to experience #TheNextGalaxy. Tune in to the #Unpacked live stream on February 21. http://spr.ly/galaxyunpacked. Timeline Photos.",
-          1454936402
-        ],
-        [
-          "Time to spread some holiday cheer. #GearS2Classic #GearS2. Timeline Photos.",
-          1450362895
-        ],
-        [
-          "#GearS2 has custom watch face options. Find your own hidden gem. Timeline Photos.",
-          1445602533
-        ],
-        [
-          "It's time. #GearS2 http://spr.ly/gearS2showcase. Timeline Photos.",
-          1441292491
-        ],
-        [
-          "It's almost time. Watch the livestream on Sep 3. http://spr.ly/gearS2. Timeline Photos.",
-          1441119602
-        ],
-        [
-          "The time is near for #TheNextGalaxy. Tune in tomorrow. spr.ly/galaxyunpacked. Timeline Photos.",
-          1439380802
-        ],
-        [
-          "Are you ready for #TheNextGalaxy? Tune in August 13. spr.ly/galaxyunpacked. Timeline Photos.",
-          1438635605
-        ],
-        [
-          "Time to power up your phone = Time to power up your day. #GalaxyS6. Timeline Photos.",
-          1438164002
-        ],
-        [
-          "#TheNextGalaxy is coming. See what's next on August 13. bit.ly/galaxyevent. Timeline Photos.",
-          1438031209
-        ],
-        [
-          "The wait is almost over. Tomorrow the #GalaxyS6 and #GalaxyS6edge begin to roll out globally. Find out more about S Carpet events near you at http://www.samsung.com/global/galaxy/scarpet2015. Timeline Photos.",
-          1428559201
-        ],
-        [
-          "Right after #Unpacked on Sunday, keep watching to get an insider look at #TheNextGalaxy with Amber Mac  and John Pozadzides  of GeekBeatTV. Timeline Photos.",
-          1425059847
-        ],
-        [
-          "Want to be the first to know about #TheNextGalaxy? Tune into #Unpacked on Sunday to watch the reveal live. http://youtu.be/CVk3ZWrhHxc. Timeline Photos.",
-          1425025172
-        ],
-        [
-          "It\u2019s not just inspiration, it\u2019s also craft. #TheNextGalaxy. Timeline Photos.",
-          1424455201
-        ],
-        [
-          "Let #TheNextGalaxy give you more time for others. Timeline Photos.",
-          1424210404
-        ],
-        [
-          "Be inspired by great vision. #TheNextGalaxy. Timeline Photos.",
-          1423850702
-        ],
-        [
-          "What\u2019s next? The answer will be revealed March 1st at #Unpacked. #TheNextGalaxy. Timeline Photos.",
-          1422918157
-        ],
-        [
-          "Watch #TheNextGALAXY livestream now! \n\nhttp://youtu.be/VRLy0QQI6xU. Timeline Photos.",
-          1409741884
-        ],
-        [
-          "It\u2019s almost time for #UNPACKED live from Berlin. Watch the live stream at http://youtu.be/VRLy0QQI6xU. Timeline Photos.",
-          1409740440
-        ],
-        [
-          "Get a hands-on look at #TheNextGALAXY as Cali Lewis and \nJohn Pozadzides from GeekBeatTV talk about the newly released products on UNPACKED Up Close tomorrow after the #UNPACKED event. Timeline Photos.",
-          1409653105
-        ],
-        [
-          "It\u2019s almost time for #TabIntoColor live from NYC. Watch the live stream at http://youtu.be/CInK6ZiaZWY. Timeline Photos.",
-          1402605059
-        ],
-        [
-          "Join the live stream from NYC of #TabIntoColor on Jun 12 at 7PM EDT where we reveal #TheNextGALAXY. Timeline Photos.",
-          1402228800
-        ],
-        [
-          "Join in the conversation at #UNPACKED! We want to hear what you're looking forward to seeing! Timeline Photos.",
-          1393262356
-        ],
-        [
-          "A look at our countdown to the live broadcast of #TheNextGALAXY reveal at #UNPACKED Barcelona. Timeline Photos.",
-          1393256445
-        ],
-        [
-          "Discover the message behind the mysterious circles. Revealing the first player on Nov 11. #WinnerTakesEarth. Aliens make first contact Beckenbauer. Mysterious circles appeared in Guanabara Bay, Rio de Janeiro, Hackney Marshes, London, and Times Square, New York. Five days later, we witnessed the mysterious...",
-          1383300807
-        ],
-        [
-          "GALAXY Studio interactive, pop-up stores in Seoul, London and New York! Experience first-hand #TheNextGALAXY. Timeline Photos.",
-          1382778001
-        ],
-        [
-          "We join Moda Operandi at The Metropolitan Museum of Art, New York, and discover why the GALAXY S4 is an essential companion on the red carpet at the Met Gala. The GALAXY S4 at the 2013 Met Gala. Samsung Mobile and Moda Operandi join Kim Taylor Bennett at the 2013 Met Gala in New York as she attends PUNK: Chaos to Couture.",
-          1368810000
-        ],
-        [
-          "We\u2019re back in New York for the The Metropolitan Museum of Art, New York\u2019s PUNK: Chaos to Couture exhibition. \r\n\r\nWatch the events unfold at The Met Gala red carpet live through Samsung\u2019s livestream Monday 6 May 7:00pm EDT http://bit.ly/10galp0. Timeline Photos.",
-          1367753220
-        ],
-        [
-          "Magical moments, now. Watch the livestream, or follow us on Twitter for a by-the-minute account of the event. http://bit.ly/Samsung_live. Timeline Photos.",
-          1346251849
-        ],
-        [
-          "\"Meet the new way\" live from New York. Are you watching? Meet the new way. Live from New York now!",
-          1345036530
-        ],
-        [
-          "We're streaming \"Meet the new way\" live from New York on August 15 at 11:00am EDT (4pm BST, 12am KST). Join us! Meet the new way. Coming soon... ",
-          1345033962
-        ],
-        [
-          "Experience the glamour of marquee awards events, from celeb news to fashion photos and interview clips, with 'Live From the Red Carpet' Android app. http://bit.ly/xlB0Sy . Live From the Red Carpet - Apps on Android Market. Experience total VIP access to Hollywood's hottest events! All new look and feel just in time for the 2012 Grammys and 2012 Academy Awards!  This year E! Online introd...",
-          1329989761
-        ]
-      ],
-      "dates_start": 1383248617,
-      "dates_end": 1460937141,
-      "likes_avg": 59095,
-      "likes_stdev": 123443,
-      "comments_avg": 634,
-      "comments_stdev": 685,
-      "shares_avg": 967,
-      "shares_stdev": 2989
-    },
-    {
-      "number": 16,
-      "important": [
-        "photo",
-        "timelin"
-      ],
-      "summary": "The new #GALAXYTabS with Super AMOLED display. The seamless design: the slightly convexed HD Super AMOLED display flows with the curves of the bezel as it appears to disappear into the distance. Samsung GALAXY Note 4 - Official TVC (Highlight) The Samsung GALAXY Note 4 brings a whole new way of interacting with the world around you through Multi Window, Quad HD Super AMOLED display, a bright camera... Super AMOLED means business. Quad HD Super AMOLED display on #GALAXYNote4. Anyway you look at it, the #GALAXYNote4 Quad HD Super AMOLED display is pretty sweet.",
+      "summary": "http://youtu.be/GakJE90sBRw. Samsung GALAXY Note 4 - Official TVC (Highlight) The Samsung GALAXY Note 4 brings a whole new way of interacting with the world around you through Multi Window, Quad HD Super AMOLED display, a bright camera...\nThe new #GALAXYTabS with Super AMOLED display.\nWith the GALAXY S III's HD Super AMOLED display, you get deep colours, amazing contrast, and fast response time for remembering those beautiful moments.",
       "common": [
         "hd",
         "hd super",
@@ -2775,15 +2644,18 @@
       "shares_stdev": 1445
     },
     {
-      "number": 17,
+      "number": 14,
       "important": [
+        "game",
+        "olymp",
         "samsung",
-        "galaxi",
         "london",
-        "london olymp",
+        "moment",
+        "galaxi",
+        "play",
         "note"
       ],
-      "summary": "From catching the Olympic Games live on your GALAXY S III to sending a free postcard on the GALAXY Note, Samsung Mobile's applications for London 2012 make y... Smart Stay on the GALAXY S III keeps the screen on while you're watching all the exciting moments of the Olympic Games. [Olympic Games] Behind the Scenes: Samsung and the London 2012 Olympic Opening Ceremony. [Olympic Games] London 2012 Olympic Games TVC. Behind the Scenes: Samsung and the London 2012 Olympic Games Opening Ceremony. GALAXY S III at London 2012 Olympic Games.",
+      "summary": "From catching the Olympic Games live on your GALAXY S III to sending a free postcard on the GALAXY Note, Samsung Mobile's applications for London 2012 make y...\nActivate your one-month Eurosport Player subscription on the GALAXY S III to watch all the action at Olympic Games live!\nGALAXY S III owners: enjoy a 1-month subscription to the Eurosport Player to catch live simulcasts of the London 2012 Olympic Games!",
       "common": [
         "eurosport",
         "galaxi",
@@ -3000,15 +2872,20 @@
       "shares_stdev": 1289
     },
     {
-      "number": 18,
+      "number": 15,
       "important": [
-        "fit",
         "gear",
+        "samsung",
+        "fit",
+        "wearabl",
+        "life",
         "galaxi",
+        "smart",
         "offici",
-        "samsung gear"
+        "connect",
+        "robin"
       ],
-      "summary": "Samsung GALAXY S5, Gear 2, Gear Fit - Official Outdoor Commercial (Fantasy) Modern and colorful illustration to embody the features of the Samsung GALAXY S5, Gear 2 and Gear Fit. Samsung GALAXY Note 3 + Gear Official TVC. From the hardware design and specifications to making your everyday tasks easier and faster, we go hands-on with the new Samsung GALAXY Note 3 and the GALAXY Gear. Samsung Gear 2, Samsung Gear Fit : Official Hands-on. We go hands on with the next generation of wearables including the Gear 2 and the Gear Fit.",
+      "summary": "Samsung #GearFit. Samsung Gear Fit - Official TVC (Design) Wearable innovation is here to change the way you live.\nSamsung GALAXY Note 3 Official TVC - Sochi 2014 Olympic Winter Games.\nEnjoy and learn how Robin Thicke designs his life \"Boldly\" with Samsung GALAXY Note 3 + Gear.\nSamsung GALAXY Note 3 + Gear Official TVC.\nFrom the hardware design and specifications to making your everyday tasks easier and faster, we go hands-on with the new Samsung GALAXY Note 3 and the GALAXY Gear.",
       "common": [
         "fit",
         "galaxi",
@@ -3209,13 +3086,19 @@
       "shares_stdev": 2604
     },
     {
-      "number": 19,
+      "number": 16,
       "important": [
-        "learn",
-        "everi",
-        "way"
+        "note",
+        "text",
+        "digit",
+        "formula",
+        "shape",
+        "perfect shap",
+        "complex calcul",
+        "recognit",
+        "sketch"
       ],
-      "summary": "Discover the GALAXY Note 10.1 Discover the GALAXY Note 10.1 Free your imagination with the GALAXY Note 10.1. Discover the GALAXY Note 10.1 Enjoy advanced note taking your way with the GALAXY Note 10.1. Discover the GALAXY Note 10.1 Discover a new way to navigate with the S Pen and GALAXY Note 10.1. Discover the GALAXY Note 10.1 Make every second count with the GALAXY Note 10.1.",
+      "summary": "Discover the GALAXY Note 10.1 Sketch, highlight and annotate digital textbooks with the Learning Hub on GALAXY Note 10.1.\nDiscover the GALAXY Note 10.1 Discover a new way to navigate with the S Pen and GALAXY Note 10.1.\nDiscover the GALAXY Note 10.1 Solve complex calculations faster with Intelligent Formula Recognition on GALAXY Note 10.1.\nDiscover the GALAXY Note 10.1 Learn more every day with the GALAXY Note 10.1.",
       "common": [
         "everi",
         "handwrit",
@@ -3280,12 +3163,19 @@
       "shares_stdev": 440
     },
     {
-      "number": 20,
+      "number": 17,
       "important": [
+        "galaxi",
+        "resist",
+        "carefre",
         "photo",
-        "timelin"
+        "stop",
+        "video",
+        "water",
+        "dad",
+        "rain"
       ],
-      "summary": "The #GALAXYS5 is water resistant. Make a splash with your water resistant #GALAXYS5. Make a statement and a splash with the water resistant #GearS3. GALAXY S5 is dust and water resistant with IP67 certification, so you don't have to worry. Hear for yourself with the water resistant #GALAXYS5.",
+      "summary": "Super dads aren't afraid of a little mud and neither is your dust and water resistant #GearS3.\nThe #GearS3 is water resistant so you can live your life without worrying about your device.\nMake a splash with your water resistant #GALAXYS5.\nA carefree life with #GALAXYS5.\nDust & Water Resistance - Samsung GALAXY S5 Official Video.\nGALAXY S5 is dust and water resistant with IP67 certification, so you don't have to worry.",
       "common": [
         "dust",
         "dust water",
@@ -3358,13 +3248,19 @@
       "shares_stdev": 885
     },
     {
-      "number": 21,
+      "number": 18,
       "important": [
-        "upgrad galaxi",
-        "premium suit galaxi",
-        "upgrad"
+        "note",
+        "suit",
+        "galaxi",
+        "enhanc",
+        "creat",
+        "premium",
+        "app",
+        "introduc",
+        "video"
       ],
-      "summary": "Premium Suite with GALAXY Note. GALAXY Note with Premium Suite. [GALAXY Note 10.1] Introducing Premium Suite for GALAXY Note 10.1 The Premium Suite upgrade for GALAXY Note 10.1 delivers enhanced multitasking and includes a range of new S Pen-optimized features, enhanced content creation... Use the My Story app available with Premium Suite for GALAXY Note to create personalised messages for your loved ones. [GALAXY Note] Premium Suite. From S Note to My Story, Premium Suite lets you get even more out of your GALAXY Note with the S Pen.",
+      "summary": "[GALAXY Note 10.1] Introducing Premium Suite for GALAXY Note 10.1 The Premium Suite upgrade for GALAXY Note 10.1 delivers enhanced multitasking and includes a range of new S Pen-optimized features, enhanced content creation...\nUse the My Story app available with Premium Suite for GALAXY Note to create personalised messages for your loved ones.\nSoftware upgrade for GALAXY Note offers exclusive S Pen optimized applications, enhanced multimedia features and Android 4.0 Ice Cream Sandwich.",
       "common": [
         "premium suit galaxi",
         "premium suit galaxi note",
@@ -3465,15 +3361,19 @@
       "shares_stdev": 393
     },
     {
-      "number": 22,
+      "number": 19,
       "important": [
+        "dowhatyouc",
+        "rio",
+        "progress",
+        "box",
         "photo",
-        "dowhatyouc timelin",
-        "athlet",
+        "make",
         "olymp",
-        "timelin"
+        "barrier",
+        "win"
       ],
-      "summary": "#DoWhatYouCant. #TsegaiTewelde defied barriers and ran from oppression to freedom to the Olympic Games. Congrats to Rio for demonstrating the vision that led to hosting its first Olympic Games. Progress is proving the strength of motherhood. Congrats to the countries who defied their pasts to win their first #gold medals.",
+      "summary": "Here\u2019s to all the athletes who proved that with tenacity, we can defy any barrier.\nCongrats to the countries who defied their pasts to win their first #gold medals.\n#TsegaiTewelde defied barriers and ran from oppression to freedom to the Olympic Games.\nCongrats to Rio for demonstrating the vision that led to hosting its first Olympic Games.\nSamsung and WSL: Proud sponsor of those who defy barriers #DoWhatYouCant spr.ly/SamsungGalaxySurf.\n#DoWhatYouCant spr.ly/Rio2016_LMF.",
       "common": [
         "athlet",
         "barrier",
@@ -3626,15 +3526,19 @@
       "shares_stdev": 794
     },
     {
-      "number": 23,
+      "number": 20,
       "important": [
-        "mobil",
+        "fashion",
+        "week",
+        "samsung",
         "galaxi",
-        "samsung mobil",
+        "note",
+        "design",
         "pari",
-        "design"
+        "collect",
+        "model"
       ],
-      "summary": "Samsung Mobile and Juun.J at Paris Men\u2019s Fashion Week. Samsung GALAXY S5 at Paris Fashion Week. Samsung Mobile and Hexa by Kuho at Paris Fashion Week. Join us as we experience the debut of Juun.J's F/W 2014 Zoot Suit Collection that made its premiere at Men's Fashion Week in Paris, including ... The new Samsung #GALAXYNotePRO and #GALAXYNote 10.1 (2014 Edition) make an appearance on the Juun.J runway at the 2014 F/W Collection Paris Men\u2019s Fashion Week. [Galaxy Note] Fashion Week Notes.",
+      "summary": "For menswear designer Juun.J\u2019s F/W 2014 Zoot Suit Collection at Men\u2019s Fashion Week, fashion blends seamlessly with technology from initial design through its showcase on the runway.\nThe new Samsung #GALAXYNotePRO and #GALAXYNote 10.1 (2014 Edition) make an appearance on the Juun.J runway at the 2014 F/W Collection Paris Men\u2019s Fashion Week.\nWatch Next model Aline Weber's love affair with Paris Fashion Week and her Samsung GALAXY Note.",
       "common": [
         "design",
         "galaxi",
@@ -3707,15 +3611,18 @@
       "shares_stdev": 574
     },
     {
-      "number": 24,
+      "number": 21,
       "important": [
-        "photo",
+        "app",
+        "mobil",
         "samsung",
-        "googl",
-        "timelin",
-        "play"
+        "game",
+        "play",
+        "photo",
+        "download",
+        "news"
       ],
-      "summary": "Download the Samsung Mobile PIN app from Samsung Apps or Google Play to find out more. Download the Samsung Mobile PIN app from Samsung Apps or Google Play to find out more! Discover how to Take Part 2012 with the Samsung's Olympic Games mobile app. Be one of the first to download these great apps from the Samsung Smart App Challenge 2012. Win medals for your country with the Samsung:Take Part 2012 app!",
+      "summary": "Try out the Gear S2 virtually with the new Experience App. Now available on Galaxy Apps and Google Play.\nDownload the #GalaxyS6 Experience App to try out the new features first.\nhttps://play.google.com/store/apps/details?id=kr.mog.t_experience.\nMobile: https://play.google.com/store/apps/details?id=air.TabSApp\nTablet: https://play.google.com/store/apps/details?id=air.uk.ta.TabSApp. Timeline Photos.\n#GALAXYS5 Experience App now available in Google Play store in nine languages.\nDiscover #GALAXYNote3 & #GALAXYGear with the new Experience App. http://bit.ly/1apk4gw.\n(Try challenging a friend!) Samsung Content http://bit.ly/AppGiftCard.",
       "common": [
         "android",
         "download",
@@ -3900,15 +3807,17 @@
       "shares_stdev": 660
     },
     {
-      "number": 25,
+      "number": 22,
       "important": [
-        "samsung",
-        "galaxi note",
+        "love",
+        "note",
         "galaxi",
-        "samsung galaxi",
-        "send"
+        "person",
+        "messag",
+        "girl",
+        "galaxylovenot"
       ],
-      "summary": "Send a free, personalised Love Note at http://galaxylovenote.com In the spirit of love, Samsung GALAXY Note has teamed up with Touch... It costs nothing to surprise a loved one today with a personal Love Note. Create your GALAXY Love Note now: https://www.galaxylovenote.com/ Samsung GALAXY Love Note. Love comes to life with Samsung GALAXY (Love) Note. Samsung GALAXY (Love) Note. Pen a Love Note for someone significant in your life today at http://galaxylovenote.com.",
+      "summary": "Today's the last day to send a free, personalised Love Note at http://www.galaxylovenote.com .\nA global competition for one lucky person to hand-deliver their Love Note to their special someone, anywhere in the world.\nPen a Love Note for someone significant in your life today at http://galaxylovenote.com.\nhttp://galaxylovenote.com/ Introducing Love Notes with Derek Blasberg.\nSend a free, personalised Love Note at http://galaxylovenote.com In the spirit of love, Samsung GALAXY Note has teamed up with Touch...",
       "common": [
         "galaxi",
         "galaxi love",
@@ -3989,15 +3898,19 @@
       "shares_stdev": 550
     },
     {
-      "number": 26,
+      "number": 23,
       "important": [
-        "experi",
-        "onthego",
-        "samsung galaxi",
-        "game experi",
-        "game"
+        "space",
+        "galaxi",
+        "samsung",
+        "angri",
+        "bird",
+        "note",
+        "sxsw",
+        "game",
+        "gameplay"
       ],
-      "summary": "Delivering the best on-the-go gaming experience on the Samsung GALAXY Note and Angry Birds Space. Samsung Galaxy Note | Angry Birds Space. Angry Birds Space, with GALAXY Note. Discover the ultimate on-the-go gaming experience with GALAXY Note and Angry Birds. [SXSW 2012] Gaming on GALAXY Note - Angry Birds Space.",
+      "summary": "To discover the ultimate on-the-go gaming experience, download the Angry Birds Space app with eggs-clusive benefits for Samsung device owners.\nEGGS-PLORE YOUR EXTRA BENEFITS...with the brand new Samsung GALAXY Note Space Level and Danger Zone!\nEGGS-PLORE YOUR EXTRA BENEFITS...with the brand new Samsung GALAXY Note Space Level and Danger Zone!\nExclusive GALAXY Note level in Angry Birds Space, plus \"Danger Zone\" special package for all Samsung GALAXY users.",
       "common": [
         "experi",
         "galaxi note angri",
@@ -4094,23 +4007,106 @@
       "shares_stdev": 242
     },
     {
-      "number": 27,
+      "number": 24,
       "important": [
         "photo",
         "galaxi",
-        "samsung mobil",
-        "unpack",
-        "timelin"
+        "hdr",
+        "shadowfre",
+        "live",
+        "backlight",
+        "expectmor",
+        "shadow"
       ],
-      "summary": "Upload a photo of you here on our wall for the chance to see yourself caricatured on the GALAXY Note at CES in Las Vegas. Be the first to witness the dawn of the next GALAXY with Samsung Mobile at http://www.TheNextGALAXY.com. Take a trip with the GALAXY Note and see what the electronics expo has to offer in our second installment of Samsung Mobile at CES, created on ComicBook! From GALAXY Note 10.1 to GALAXY Beam, revisit the exciting new products and relive the hype of Mobile World Congress in Barcelona. This is the first hands-on video of GALAXY Beam from the Mobile World Congress 2012.",
+      "summary": "Capture your golden child shadow-free with Live HDR.\nUse Live HDR for shadow-free pics.\nCapture it shadow-free with Live HDR.\nShadow-free brunch pictures with Live HDR.\nKnow your photo subjects without a shadow of a doubt with Live HDR on the #GALAXYS5.\nNot clear on how to take shadow-free photos?\nUse Live HDR on the #GALAXYS5.\n#ExpectMore with Samsung GALAXY S5 - Alien.\n#ExpectMore with Samsung GALAXY S5 - Creeping me out.",
       "common": [
-        "barcelona",
+        "dont",
+        "dont put shadowi photo samsung",
+        "expectmor",
+        "galaxi",
+        "photo samsung galaxi",
+        "photo samsung galaxi provid",
+        "provid",
+        "samsung",
+        "samsung galaxi",
+        "shadowfre"
+      ],
+      "messages": [
+        [
+          "Capture your golden child shadow-free with Live HDR. #GALAXYS5. Timeline Photos.",
+          1407582726
+        ],
+        [
+          "Don't let backlighting come between you and the perfect photo. Use Live HDR for shadow-free pics. #GALAXYS5. Timeline Photos.",
+          1407232812
+        ],
+        [
+          "For Rent: One bedroom apartment with beautiful views and the Live HDR pictures to prove it. #GALAXYS5. Timeline Photos.",
+          1405768464
+        ],
+        [
+          "It's a dog's life. Capture it shadow-free with Live HDR. #GALAXYS5. Timeline Photos.",
+          1405418417
+        ],
+        [
+          "Shadow-free brunch pictures with Live HDR. #GALAXYS5. Timeline Photos.",
+          1403945443
+        ],
+        [
+          "Live HDR is a man's best friend. #GALAXYS5. Timeline Photos.",
+          1403604031
+        ],
+        [
+          "Know your photo subjects without a shadow of a doubt with Live HDR on the #GALAXYS5. #ExpectMore\n\nhttp://youtu.be/JNRQ8j-X3dc. #ExpectMore with Samsung GALAXY S5 - Creeping me out. \"This photo is so creepy!\" Don't put up with the shadowy photos. Samsung GALAXY S5 provides the real-time HDR function. For both photos and videos, turn on t...",
+          1402939578
+        ],
+        [
+          "Not clear on how to take shadow-free photos? Use Live HDR on the #GALAXYS5. #ExpectMore\n\nhttp://youtu.be/w2zgauj8rkk. #ExpectMore with Samsung GALAXY S5 - Alien. \"I can't even look at my baby girl's picture...\" Don't put up with the shadowy photos. Samsung GALAXY S5 provides the real time HDR function. For both photos...",
+          1402924227
+        ],
+        [
+          "Mixing up your dad and boyfriend? Live HDR can help. #ShadowFree #GALAXYS5\n\nhttp://youtu.be/JNRQ8j-X3dc. #ExpectMore with Samsung GALAXY S5 - Creeping me out. \"This photo is so creepy!\" Don't put up with the shadowy photos. Samsung GALAXY S5 provides the real-time HDR function. For both photos and videos, turn on t...",
+          1401715786
+        ],
+        [
+          "Increased tunnel vision. #LiveHDR #ShadowFree. Timeline Photos.",
+          1401530476
+        ],
+        [
+          "Capture the detail with live HDR preview. Wrinkles and all. #GALAXYS5. Timeline Photos.",
+          1401358725
+        ]
+      ],
+      "dates_start": 1401887849,
+      "dates_end": 1406115911,
+      "likes_avg": 12512,
+      "likes_stdev": 6681,
+      "comments_avg": 299,
+      "comments_stdev": 119,
+      "shares_avg": 289,
+      "shares_stdev": 170
+    },
+    {
+      "number": 25,
+      "important": [
+        "samsung",
+        "mobil",
+        "galaxi",
+        "unpack",
+        "ces",
+        "photo",
+        "note",
+        "talent"
+      ],
+      "summary": "Samsung Mob!lers perform real time graffiti drawing using GALAXY Note,  projecting their art onto Barcelona landmark buildings during Mobile World Congress.\nSamsung Mobile presents the Stage finalists http://bit.ly/lu4SOy One of these talented people will win the Grand Prize, but they need your help!\nTake a trip with the GALAXY Note and see what the electronics expo has to offer in our second installment of Samsung Mobile at CES, created on ComicBook!",
+      "common": [
         "ces",
         "galaxi",
         "galaxi note",
         "note",
         "photo",
         "samsung mobil",
+        "stage",
         "timelin",
         "timelin photo",
         "unpack"
@@ -4209,6 +4205,14 @@
           1338274928
         ],
         [
+          "One man. One AFL ball. And one bin strapped to the back of a moving ute... This is Stage winner, Brandon Jack\u2019s, victory video. [SAMSUNG STAGE] Winner: Brandon Jack. Samsung Mobile presents the winner of Stage, the ultimate YouTube talent contest.",
+          1338124872
+        ],
+        [
+          "Samsung Stage winner Brandon Jack wowed us all with his AFL trick shots. So after awarding him the $10,000 grand prize, we flew to Australia to set him one last challenge\u2026 http://bit.ly/KIOoXb. [Samsung Stage] Winner: Brandon Jack. Samsung Mobile presents the winner of Stage, the ultimate YouTube talent contest.",
+          1336917190
+        ],
+        [
           "We're live at Unpacked 2012! www.thenextgalaxy.com Be part of this momentous event watching the livestream, or you can also join in the conversation on Twitter: https://twitter.com/#!/SamsungMobile . A GALAXY Unpacked. Come 3 May 2012, the universe as we know it will be changed once again. Be the first to witness the dawn of the next GALAXY with Samsung Mobile at http://www.TheNextGALAXY.com.",
           1336061061
         ],
@@ -4269,6 +4273,18 @@
           1327833972
         ],
         [
+          "Hundreds entered. Thousands of you watched. Now your votes have been counted, your voices heard, and we're delighted to announce that the winner of the Samsung Stage talent contest 2011 is... jaon2505! \n\nA massive thanks to everyone that entered, watched and voted. It\u2019s been an exciting journey watching all your incredible videos. And for those who haven't seen jaon2505\u2019s awesome 'AFL Trick Shots' entry yet, here it is: http://bit.ly/yyGoBP. AFL Trick Shots. YOUTUBE GOT RID OF MY ORIGINAL AUDIO HENCE THIS SONG.",
+          1327673833
+        ],
+        [
+          "We're counting down to the last minutes before voting for the Grand Final of Samsung Stage, the ultimate YouTube talent contest, closes tonight at midnight GMT. \n\nCheck out all the tricksters, funsters, artists, dancers and drummers right now, over at our YouTube channel! http://bit.ly/w0h2UZ. Samsung Mobile Moments. Share your videos with friends, family, and the world.",
+          1327310708
+        ],
+        [
+          "Only three days left to vote for your favourite Samsung Stage talent contest finalist. \n\nWatch the submissions from the five finalists and vote for who you think should win the ultimate Grand Prize!  http://bit.ly/w0h2UZ. Samsung Mobile Moments. Share your videos with friends, family, and the world.",
+          1327072211
+        ],
+        [
           "Relive the hype, fun and excitement of CES in Las Vegas with the GALAXY Note. \n\nFrom talented caricaturists to jazz band and zipping around the city in our very own GALAXY Note tour bus, it certainly was a great ride! http://bit.ly/yb8FkH. [GALAXY Note] CES 2012. Relive the hype, fun and excitement of CES in Las Vegas with the GALAXY Note. From talented caricaturists to jazz band and zipping around the city in our ver...",
           1326904103
         ],
@@ -4285,8 +4301,16 @@
           1326797608
         ],
         [
+          "One of our 5 super-talented finalists will win the Grand Prize for Stage, the ultimate YouTube talent contest. But they need your vote and time is running out.\n\nPick your favourite (is it the paper transformer or the amazing bin shots?) and support the finalist here: http://bit.ly/w0h2UZ. Samsung Mobile Moments. Share your videos with friends, family, and the world.",
+          1326723523
+        ],
+        [
           "During CES we've been catching up with our artists at our venues across Las Vegas.\n\nWatch our latest video and discover our Ateliers and the caricautres that are working away in them. Also meet Body Language, our house band at the LVCC. [GALAXY Note] Create My Caricature CES 2012. Get the experience how our caricaturists have been creating digital portraits on the GALAXY Note with the advanced S Pen, while Body Language plays a live se...",
           1326470772
+        ],
+        [
+          "From breakdancing to beats music with household items and artwork created with hair, our five Stage finalists show us what they're capable of in the ultimate YouTube talent contest. \n\nPick your favorite and cast your vote for the Grand Prize winner before January 23! http://bit.ly/z7ke57. [Stage - GALAXY S II] The best of Samsung Mobile Stage. Samsung Mobile presents the Stage finalists http://bit.ly/lu4SOy One of these talented people will win the Grand Prize, but they need your help! So watch the...",
+          1326445473
         ],
         [
           "With a number of events happening at the same time, we were still able to keep productivity levels up with a variety of S Pen optimized applications for the GALAXY Note. See what's possible with the ultimate on-the-go device with our final ComicBook! installment of Samsung Mobile at CES. Timeline Photos.",
@@ -4317,179 +4341,45 @@
           1326168163
         ],
         [
+          "All our monthly finalists for the Stage talent contest have been announced and now it's up to you to decide who wins the Grand Prize. Find out all about the contenders and their talents, and vote for your favorite entry! Stage: The Ultimate YouTube Talent Contest. Share your videos with friends, family, and the world.",
+          1326150441
+        ],
+        [
           "We're in Las Vegas for CES 2012! But what happens in Vegas won't stay in Vegas as we'll be bringing you the highlights straight from the showfloor. Stay tuned! Timeline Photos.",
           1326132204
+        ],
+        [
+          "Congratulations to Madhu7086, our November finalist for Stage - the ultimate YouTube talent contest - with an incredible liquid painting. http://bit.ly/z9mIgM\n\nWe're in the final leg of the competition and the five finalists will face off to determine the winner of the Grand Prize. You can be a part of this by voting for your favorite from 9th January. Simply visit: http://bit.ly/w0h2UZ. My Stage in Liquid Painting. i created this video for samsung my stage. I have a great desire of making paintings..using my some skills presenting this video in front of you all. hope yo...",
+          1325755205
         ],
         [
           "In the final episode of ESPN & Samsung Mobile's Project Teamwork, we head to the favelas of Florianopolis, Brazil, one of the many towns where street soccer is not only a game, but a way of life. \n\nSee how the GALAXY S II helps host Sal Masekela capture the kids coming together, expressing themselves, and playing out their passion of street soccer with friends. http://bit.ly/ujiF3Z. Street Soccer - Lifestyle (12/12) [Project Teamwork - GALAXY S II] In the final episode of ESPN & Samsung Mobile's Project Teamwork, we head to the favelas of Florianopolis, Brazil, one of the many towns where street soccer ...",
           1325671991
         ]
       ],
-      "dates_start": 1317808217,
-      "dates_end": 1394742740,
-      "likes_avg": 11667,
-      "likes_stdev": 35983,
-      "comments_avg": 217,
-      "comments_stdev": 305,
-      "shares_avg": 290,
-      "shares_stdev": 433
+      "dates_start": 1315431492,
+      "dates_end": 1389109438,
+      "likes_avg": 10429,
+      "likes_stdev": 33360,
+      "comments_avg": 202,
+      "comments_stdev": 285,
+      "shares_avg": 286,
+      "shares_stdev": 421
     },
     {
-      "number": 28,
-      "important": [
-        "shadowfre",
-        "samsung",
-        "galaxi",
-        "dont",
-        "samsung galaxi"
-      ],
-      "summary": "Capture it shadow-free with Live HDR. Use Live HDR on the #GALAXYS5. Know your photo subjects without a shadow of a doubt with Live HDR on the #GALAXYS5. Shadow-free brunch pictures with Live HDR. Capture your golden child shadow-free with Live HDR.",
-      "common": [
-        "dont",
-        "dont put shadowi photo samsung",
-        "expectmor",
-        "galaxi",
-        "photo samsung galaxi",
-        "photo samsung galaxi provid",
-        "provid",
-        "samsung",
-        "samsung galaxi",
-        "shadowfre"
-      ],
-      "messages": [
-        [
-          "Capture your golden child shadow-free with Live HDR. #GALAXYS5. Timeline Photos.",
-          1407582726
-        ],
-        [
-          "Don't let backlighting come between you and the perfect photo. Use Live HDR for shadow-free pics. #GALAXYS5. Timeline Photos.",
-          1407232812
-        ],
-        [
-          "For Rent: One bedroom apartment with beautiful views and the Live HDR pictures to prove it. #GALAXYS5. Timeline Photos.",
-          1405768464
-        ],
-        [
-          "It's a dog's life. Capture it shadow-free with Live HDR. #GALAXYS5. Timeline Photos.",
-          1405418417
-        ],
-        [
-          "Shadow-free brunch pictures with Live HDR. #GALAXYS5. Timeline Photos.",
-          1403945443
-        ],
-        [
-          "Live HDR is a man's best friend. #GALAXYS5. Timeline Photos.",
-          1403604031
-        ],
-        [
-          "Know your photo subjects without a shadow of a doubt with Live HDR on the #GALAXYS5. #ExpectMore\n\nhttp://youtu.be/JNRQ8j-X3dc. #ExpectMore with Samsung GALAXY S5 - Creeping me out. \"This photo is so creepy!\" Don't put up with the shadowy photos. Samsung GALAXY S5 provides the real-time HDR function. For both photos and videos, turn on t...",
-          1402939578
-        ],
-        [
-          "Not clear on how to take shadow-free photos? Use Live HDR on the #GALAXYS5. #ExpectMore\n\nhttp://youtu.be/w2zgauj8rkk. #ExpectMore with Samsung GALAXY S5 - Alien. \"I can't even look at my baby girl's picture...\" Don't put up with the shadowy photos. Samsung GALAXY S5 provides the real time HDR function. For both photos...",
-          1402924227
-        ],
-        [
-          "Mixing up your dad and boyfriend? Live HDR can help. #ShadowFree #GALAXYS5\n\nhttp://youtu.be/JNRQ8j-X3dc. #ExpectMore with Samsung GALAXY S5 - Creeping me out. \"This photo is so creepy!\" Don't put up with the shadowy photos. Samsung GALAXY S5 provides the real-time HDR function. For both photos and videos, turn on t...",
-          1401715786
-        ],
-        [
-          "Increased tunnel vision. #LiveHDR #ShadowFree. Timeline Photos.",
-          1401530476
-        ],
-        [
-          "Capture the detail with live HDR preview. Wrinkles and all. #GALAXYS5. Timeline Photos.",
-          1401358725
-        ]
-      ],
-      "dates_start": 1401887849,
-      "dates_end": 1406115911,
-      "likes_avg": 12512,
-      "likes_stdev": 6681,
-      "comments_avg": 299,
-      "comments_stdev": 119,
-      "shares_avg": 289,
-      "shares_stdev": 170
-    },
-    {
-      "number": 29,
-      "important": [
-        "winner",
-        "one",
-        "mobil",
-        "prize",
-        "samsung mobil"
-      ],
-      "summary": "Samsung Mobile presents the winner of Stage, the ultimate YouTube talent contest. One of our 5 super-talented finalists will win the Grand Prize for Stage, the ultimate YouTube talent contest. Samsung Mobile presents the Stage finalists http://bit.ly/lu4SOy One of these talented people will win the Grand Prize, but they need your help! http://bit.ly/z9mIgM\n\nWe're in the final leg of the competition and the five finalists will face off to determine the winner of the Grand Prize. So watch the... All our monthly finalists for the Stage talent contest have been announced and now it's up to you to decide who wins the Grand Prize.",
-      "common": [
-        "finalist",
-        "grand prize",
-        "mobil",
-        "one",
-        "prize",
-        "samsung mobil",
-        "samsung stage",
-        "stage ultim",
-        "stage ultim youtub",
-        "winner"
-      ],
-      "messages": [
-        [
-          "One man. One AFL ball. And one bin strapped to the back of a moving ute... This is Stage winner, Brandon Jack\u2019s, victory video. [SAMSUNG STAGE] Winner: Brandon Jack. Samsung Mobile presents the winner of Stage, the ultimate YouTube talent contest.",
-          1338124872
-        ],
-        [
-          "Samsung Stage winner Brandon Jack wowed us all with his AFL trick shots. So after awarding him the $10,000 grand prize, we flew to Australia to set him one last challenge\u2026 http://bit.ly/KIOoXb. [Samsung Stage] Winner: Brandon Jack. Samsung Mobile presents the winner of Stage, the ultimate YouTube talent contest.",
-          1336917190
-        ],
-        [
-          "Hundreds entered. Thousands of you watched. Now your votes have been counted, your voices heard, and we're delighted to announce that the winner of the Samsung Stage talent contest 2011 is... jaon2505! \n\nA massive thanks to everyone that entered, watched and voted. It\u2019s been an exciting journey watching all your incredible videos. And for those who haven't seen jaon2505\u2019s awesome 'AFL Trick Shots' entry yet, here it is: http://bit.ly/yyGoBP. AFL Trick Shots. YOUTUBE GOT RID OF MY ORIGINAL AUDIO HENCE THIS SONG.",
-          1327673833
-        ],
-        [
-          "We're counting down to the last minutes before voting for the Grand Final of Samsung Stage, the ultimate YouTube talent contest, closes tonight at midnight GMT. \n\nCheck out all the tricksters, funsters, artists, dancers and drummers right now, over at our YouTube channel! http://bit.ly/w0h2UZ. Samsung Mobile Moments. Share your videos with friends, family, and the world.",
-          1327310708
-        ],
-        [
-          "Only three days left to vote for your favourite Samsung Stage talent contest finalist. \n\nWatch the submissions from the five finalists and vote for who you think should win the ultimate Grand Prize!  http://bit.ly/w0h2UZ. Samsung Mobile Moments. Share your videos with friends, family, and the world.",
-          1327072211
-        ],
-        [
-          "One of our 5 super-talented finalists will win the Grand Prize for Stage, the ultimate YouTube talent contest. But they need your vote and time is running out.\n\nPick your favourite (is it the paper transformer or the amazing bin shots?) and support the finalist here: http://bit.ly/w0h2UZ. Samsung Mobile Moments. Share your videos with friends, family, and the world.",
-          1326723523
-        ],
-        [
-          "From breakdancing to beats music with household items and artwork created with hair, our five Stage finalists show us what they're capable of in the ultimate YouTube talent contest. \n\nPick your favorite and cast your vote for the Grand Prize winner before January 23! http://bit.ly/z7ke57. [Stage - GALAXY S II] The best of Samsung Mobile Stage. Samsung Mobile presents the Stage finalists http://bit.ly/lu4SOy One of these talented people will win the Grand Prize, but they need your help! So watch the...",
-          1326445473
-        ],
-        [
-          "All our monthly finalists for the Stage talent contest have been announced and now it's up to you to decide who wins the Grand Prize. Find out all about the contenders and their talents, and vote for your favorite entry! Stage: The Ultimate YouTube Talent Contest. Share your videos with friends, family, and the world.",
-          1326150441
-        ],
-        [
-          "Congratulations to Madhu7086, our November finalist for Stage - the ultimate YouTube talent contest - with an incredible liquid painting. http://bit.ly/z9mIgM\n\nWe're in the final leg of the competition and the five finalists will face off to determine the winner of the Grand Prize. You can be a part of this by voting for your favorite from 9th January. Simply visit: http://bit.ly/w0h2UZ. My Stage in Liquid Painting. i created this video for samsung my stage. I have a great desire of making paintings..using my some skills presenting this video in front of you all. hope yo...",
-          1325755205
-        ]
-      ],
-      "dates_start": 1324602966,
-      "dates_end": 1333657801,
-      "likes_avg": 3276,
-      "likes_stdev": 1283,
-      "comments_avg": 112,
-      "comments_stdev": 65,
-      "shares_avg": 262,
-      "shares_stdev": 344
-    },
-    {
-      "number": 30,
+      "number": 26,
       "important": [
         "galaxi",
         "batteri",
-        "dont",
-        "samsung galaxi",
-        "use"
+        "mode",
+        "photo",
+        "power",
+        "samsung",
+        "use",
+        "stylish",
+        "ultra"
       ],
-      "summary": "The GALAXY S5's Ultra Power Saving Mode... #ExpectMore with #GALAXYS5. Use Ultra Power Saving Mode. Samsung GALAXY S5 comes with Ultra Power Saving Mode. Switch to Ultra Power Saving Mode. Switch to Ultra Power Saving Mode to keep your #GALAXYS5 motoring on.",
+      "summary": "Ultra Power Saving Mode makes keeping your #GalaxyS6 charged a walk in the park.\nUse Ultra Power Saving Mode on the #GALAXYS5 and never miss another call or text again.\n\"My phone got me fired.\" Samsung GALAXY S5 comes with Ultra Power Saving Mode.\nUse the Ultra Power Saving Mode to save and extend your battery life so you don't have to worry about missing out on the important stuff in life.",
       "common": [
         "batteri",
         "dont",
@@ -4562,15 +4452,18 @@
       "shares_stdev": 127
     },
     {
-      "number": 31,
+      "number": 27,
       "important": [
-        "team",
+        "join",
         "alien",
-        "info",
-        "fight",
-        "save"
+        "galaxi",
+        "footbal",
+        "oscar",
+        "earth",
+        "goal",
+        "stellar"
       ],
-      "summary": "Get the full story: http://www.thegalaxy11.com Landon Donovan, America's all-time leading goal scorer has joined the ranks of #GALAXY11 in the fight for Earth. Get the full story: www.thegalaxy11.com Stephan El Shaarawy has been recruited to play for Earth in the ultimate football match - the fate of the human race ... One of China's greatest talents, the ultra-agile midfielder Wu Lei, has joined the fight with #GALAXY11! The one, the only, the legendary Cristiano Ronaldo has now joined #GALAXY11 in the fight to save Earth! Get the full story: www.thegalaxy11.com Oscar has joined Galaxy 11 in the fight to save our planet. Get the full story: http://www.thegalaxy11.com Radamel Falcao has joined in the ultimate galactic battle for Earth.",
+      "summary": "Get the full story: http://www.thegalaxy11.com Landon Donovan, America's all-time leading goal scorer has joined the ranks of #GALAXY11 in the fight for Earth.\nGet the full story: http://www.thegalaxy11.com Stellar South Korean winger Lee Chung-Yong has joined the ranks of Earth's only intergalactic team, GALAXY 11.\nGet the full story: http://www.thegalaxy11.com Rising star Victor Moses has been selected to play for Earth in one do-or-die football match against Aliens.",
       "common": [
         "alien",
         "battl",
@@ -4655,26 +4548,29 @@
       "shares_stdev": 163
     },
     {
-      "number": 32,
+      "number": 28,
       "important": [
-        "httponfbmesamsungfotm",
-        "mobil",
-        "communiti",
-        "trick",
-        "samsung mobil"
-      ],
-      "summary": "Share your tips with our Fan of the Month community. Share your tips and tricks with the community and you could become our Fan of the Month. Submit your tips to our Fan of the Month community. Cheery congratulations are in order for Kayrol, our new Samsung Fan of the Month, with a great tip on how to use the \"hovering pen\" on the GALAXY Note! Samsung Fan of the Month.",
-      "common": [
-        "communiti",
-        "fan month share",
-        "httponfbmesamsungfotm",
-        "mobil",
-        "month share",
-        "new",
+        "month",
+        "tip",
+        "share",
+        "fan",
+        "featur",
         "samsung",
-        "samsung mobil",
-        "tip trick",
-        "trick"
+        "note",
+        "discov"
+      ],
+      "summary": "Cheery congratulations are in order for Kayrol, our new Samsung Fan of the Month, with a great tip on how to use the \"hovering pen\" on the GALAXY Note!\nVisit 'Featured Tips and Tricks' on the Fan of the Month community and discover Henry's great tip on how to quickly adjust the screen brightness on your GALAXY Note.",
+      "common": [
+        "becom",
+        "becom fan",
+        "becom fan month",
+        "communiti",
+        "communiti could",
+        "communiti could becom",
+        "could",
+        "could becom",
+        "great",
+        "share"
       ],
       "messages": [
         [
@@ -4688,6 +4584,10 @@
         [
           "The GALAXY Note II comes packed with great features such as Easy Clip, Best Face and Paper Artist, but how do you make the most of them? Submit your tips to our Fan of the Month community. Samsung Mobile. Share your experiences and get some great new tips and tricks from other fans. ",
           1354979111
+        ],
+        [
+          "It's finally December and Christmas is just around the corner. How is the GALAXY Note II helping you prepare for the holiday season? Share your tips with our Fan of the Month Community. Samsung Mobile. Upload your tips and tricks on the Samsung Mobile Facebook community and you could become our Fan of the Month. ",
+          1354361826
         ],
         [
           "Did you know that the GALAXY S III has a preinstalled flashlight widget? Find out how to activate it with Brian's great tip. http://on.fb.me/SamsungFotM. Timeline Photos.",
@@ -4722,8 +4622,16 @@
           1348911661
         ],
         [
+          "GALAXY Note 10.1 users, do you have any nifty tips to share with other owners about the tablet? Samsung Mobile Fan of the Month. Upload your tips and tricks on the Samsung Mobile Facebook community and you could become our Fan of the Month. ",
+          1348237535
+        ],
+        [
           "Congratulations to this month's Fan of the Month, Igor, who showed us how to enable the Swype keyboard on the GALAXY S III. http://on.fb.me/SamsungFotM. Timeline Photos.",
           1347706520
+        ],
+        [
+          "Submit your tips and tricks on how to get the best experience from the GALAXY S III and you could be our new Fan of the Month. Samsung Mobile Fan of the Month. Upload your tips and tricks on the Samsung Mobile Facebook community and you could become our Fan of the Month.",
+          1347092852
         ],
         [
           "Congratulations to our new Fan of the Month, Jan. Thanks for sharing your brilliant tip on tethering devices to your GALAXY S III. http://on.fb.me/SamsungFotM. Timeline Photos.",
@@ -4742,201 +4650,12 @@
           1341652266
         ],
         [
-          "Cheery congratulations are in order for Kayrol, our new Samsung Fan of the Month, with a great tip on how to use the \"hovering pen\" on the GALAXY Note! Samsung Fan of the Month. Share your tips and tricks on our Facebook community and you could be next to earn top honors.",
-          1339862753
-        ],
-        [
-          "Featuring Daniel Gartner, our latest Fan of the Month, with his tip on how to make a call and send a message directly from the Contacts application! Have you submitted yours? http://on.fb.me/SamsungFotM. Samsung Mobile. Samsung is a market leader in Consumer Electronics and Cell Phones and for more than 70 years,...",
-          1329390052
-        ],
-        [
-          "Know a neat trick about your Samsung mobile? Share it on the Fan of the Month community and stand to earn street cred, or simply vote for your favourite. http://on.fb.me/SamsungFotM.",
-          1328968534
-        ],
-        [
-          "Congratulations to Furkan from India, the first Samsung Fan of the Month!\n\nFurkan shared a great tip with the community on how to capture a screenshot on the GALAXY S II. Submit yours to get in the running for our next Fan of the Month! http://on.fb.me/SamsungFotM. Samsung Mobile. Samsung is a market leader in Consumer Electronics and Cell Phones and for more than 70 years,...",
-          1327051397
-        ]
-      ],
-      "dates_start": 1337330004,
-      "dates_end": 1354766051,
-      "likes_avg": 6579,
-      "likes_stdev": 3321,
-      "comments_avg": 197,
-      "comments_stdev": 62,
-      "shares_avg": 105,
-      "shares_stdev": 71
-    },
-    {
-      "number": 33,
-      "important": [
-        "galaxygear"
-      ],
-      "summary": "Watch real lives made smarter with the GALAXY Note 3 + Gear on the #SMARTMOVE World Tour. Watch London made smarter with the GALAXY Note 3 + Gear on the #SMARTMOVE World Tour. Watch Beijing made smarter with the GALAXY Note 3 + Gear on the #SMARTMOVE World Tour. Watch Madrid made smarter with the GALAXY Note 3 + Gear on the #SMARTMOVE World Tour. Watch Paris made smarter with the GALAXY Note 3 + Gear on the #SMARTMOVE World Tour.",
-      "common": [
-        "galaxygear",
-        "smartmov world tour galaxi",
-        "smartmov world tour galaxi note",
-        "tour galaxi",
-        "tour galaxi note",
-        "tour galaxi note gear",
-        "tour galaxi note gear smartmov",
-        "world tour galaxi",
-        "world tour galaxi note",
-        "world tour galaxi note gear"
-      ],
-      "messages": [
-        [
-          "From Asia to Europe and North America, make the #SMARTMOVE to the #GALAXYNote3 and #GALAXYGear, today. GALAXY Note 3 + Gear #SMARTMOVE World Tour - Real Lives, Made Smarter. Watch real lives made smarter with the GALAXY Note 3 + Gear on the #SMARTMOVE World Tour.",
-          1388044800
-        ],
-        [
-          "Using Scrapbook on #GALAXYNote3 for fashion and shopping. In Madrid for the #SMARTMOVE World Tour. Hola! GALAXY Note 3 + Gear #SMARTMOVE Madrid - Real Lives, Made Smarter. Watch Madrid made smarter with the GALAXY Note 3 + Gear on the #SMARTMOVE World Tour. ",
-          1387875601
-        ],
-        [
-          "Organizing photos in Scrapbook and using new Easy Clip for collecting everyday interests on #GALAXYNote3 in Hong Kong on the #SMARTMOVE World Tour. GALAXY Note 3 + Gear #SMARTMOVE Hong Kong - Real Lives, Made Smarter. Watch Hong Kong made smarter with the GALAXY Note 3 + Gear on the #SMARTMOVE World Tour. ",
-          1387846801
-        ],
-        [
-          "Translating and chatting at the same time with Pen Window on #GALAXYNote3, and hands-free calling on #GALAXYGear. Bonjour from Paris on the #SMARTMOVE World Tour. GALAXY Note 3 + Gear #SMARTMOVE Paris - Real Lives, Made Smarter. Watch Paris made smarter with the GALAXY Note 3 + Gear on the #SMARTMOVE World Tour.",
-          1387789201
-        ],
-        [
-          "Check emails and browse the internet at the same time, with Multi Window on #GALAXYNote3. Make the #SMARTMOVE in Singapore on our World Tour. GALAXY Note 3 + Gear #SMARTMOVE Singapore - Real Lives, Made Smarter. Watch Singapore made smarter with the GALAXY Note 3 + Gear on the #SMARTMOVE World Tour.",
-          1387760401
-        ],
-        [
-          "In London for #SMARTMOVE World Tour. Reading comics with the generous and crystal clear display on #GALAXYNote3, and using #GALAXYGear in meetings. GALAXY Note 3 + Gear #SMARTMOVE London - Real Lives, Made Smarter. Watch London made smarter with the GALAXY Note 3 + Gear on the #SMARTMOVE World Tour.",
-          1387616401
-        ],
-        [
-          "Saving contact information the easy way with Action Memo on #GALAXYNote3. In Beijing on the #SMARTMOVE World Tour. GALAXY Note 3 + Gear #SMARTMOVE Beijing - Real Lives, Made Smarter. Watch Beijing made smarter with the GALAXY Note 3 + Gear on the #SMARTMOVE World Tour.",
-          1387587601
-        ],
-        [
-          "New Yorkers in our #SMARTMOVE World Tour. Collecting daily inspirations on #GALAXYNote3 Scrapbook, and staying on-the-go with #GALAXYGear. http://bit.ly/18TsEFn. GALAXY Note 3 + Gear #SMARTMOVE New York - Real Lives, Made Smarter. Watch New York made smarter with the GALAXY Note 3 + Gear on the #SMARTMOVE World Tour. ",
-          1387451938
-        ],
-        [
-          "Real Lives, Made Smarter with #GALAXYNote3 and #GALAXYGear on our #SMARTMOVE World Tour. http://bit.ly/1hX4e5Z. GALAXY Note 3 + Gear #SMARTMOVE World Tour - Real Lives, Made Smarter. Watch real lives made smarter with the GALAXY Note 3 + Gear on the #SMARTMOVE World Tour. Find out more about #SMARTMOVE.",
-          1387211377
-        ]
-      ],
-      "dates_start": 1387451117,
-      "dates_end": 1387923132,
-      "likes_avg": 8154,
-      "likes_stdev": 3557,
-      "comments_avg": 232,
-      "comments_stdev": 93,
-      "shares_avg": 89,
-      "shares_stdev": 34
-    },
-    {
-      "number": 34,
-      "important": [
-        "pack",
-        "unpack",
-        "journey"
-      ],
-      "summary": "samsungmobile's video on Instagram. SamsungMobile's video on Instagram. Instagram. Our journey to #UNPACKED in under 15 seconds. samsungmobile's photo on Instagram.",
-      "common": [
-        "instagram samsungmobil",
-        "instagram samsungmobil video",
-        "instagram samsungmobil video instagram",
-        "journey",
-        "pack",
-        "pack unpack",
-        "unpack",
-        "unpack samsungmobil",
-        "unpack samsungmobil video",
-        "unpack samsungmobil video instagram"
-      ],
-      "messages": [
-        [
-          "4 Instagrammers. 4 countries. #Note4AllSeasons\n\nhttp://instagram.com/p/uqazD6wvzh/ Instagram. samsungmobile's photo on Instagram.",
-          1414494539
-        ],
-        [
-          "Moschino brings a colorful take on peace and love to your #GalaxyS5, #Gear2, and #GearFit http://instagram.com/p/pC9dE-wv7i/ Instagram. samsungmobile's video on Instagram.",
-          1402359100
-        ],
-        [
-          "We're Instagramming! Samsung Mobile on Instagram. Official Instagrams about #TheNextGALAXY.",
-          1395668753
-        ],
-        [
-          "Messi's Note. #GALAXYNote3. Instagram. samsungmobile's video on Instagram.",
-          1381854600
-        ],
-        [
-          "A mysterious mission in a desolate town. Stay tuned. Instagram. samsungmobile's video on Instagram.",
-          1381248001
-        ],
-        [
-          "Packing up at #UNPACKED. Thanks for joining us! Packing up at #UNPACKED. SamsungMobile's video on Instagram.",
-          1378374488
-        ],
-        [
-          "Experiencing #GALAXYNote3, #GALAXYGear and #GALAXYNote 10.1 (2014 Edition) first hand at #UNPACKED! Inside the experiential zone at #UNPACKED. SamsungMobile's video on Instagram.",
-          1378323066
-        ],
-        [
-          "#UNPACKED livestream starts in an hour! Get a seat, settle in, for it's time to take note. Today's the day! SamsungMobile's video on Instagram.",
-          1378304895
-        ],
-        [
-          "Our journey to #UNPACKED in under 15 seconds. Join us on Instagram for more behind-the-scene looks! http://instagram.com/samsungmobile. Our journey to #UNPACKED. samsungmobile's video on Instagram.",
-          1378208510
-        ]
-      ],
-      "dates_start": 1375063796,
-      "dates_end": 1400233081,
-      "likes_avg": 3541,
-      "likes_stdev": 1418,
-      "comments_avg": 127,
-      "comments_stdev": 86,
-      "shares_avg": 61,
-      "shares_stdev": 66
-    },
-    {
-      "number": 35,
-      "important": [
-        "galaxi note",
-        "galaxi",
-        "fan month communiti",
-        "share",
-        "note"
-      ],
-      "summary": "Become a 'Fan of the Month' Upload your tips and tricks on the Samsung Mobile Facebook community and you could become our Fan of the Month. Upload your tips and tricks on the Samsung Mobile Facebook community and you could become our Fan of the Month. Submit your tips and tricks on how to get the best experience from the GALAXY S III and you could be our new Fan of the Month. Share your tips with our Fan of the Month Community. Samsung Fan of the Month.",
-      "common": [
-        "becom fan month upload",
-        "becom fan month upload tip",
-        "fan month communiti",
-        "galaxi",
-        "galaxi note",
-        "month communiti",
-        "note",
-        "samsung fan",
-        "samsung fan month",
-        "share"
-      ],
-      "messages": [
-        [
-          "It's finally December and Christmas is just around the corner. How is the GALAXY Note II helping you prepare for the holiday season? Share your tips with our Fan of the Month Community. Samsung Mobile. Upload your tips and tricks on the Samsung Mobile Facebook community and you could become our Fan of the Month. ",
-          1354361826
-        ],
-        [
-          "GALAXY Note 10.1 users, do you have any nifty tips to share with other owners about the tablet? Samsung Mobile Fan of the Month. Upload your tips and tricks on the Samsung Mobile Facebook community and you could become our Fan of the Month. ",
-          1348237535
-        ],
-        [
-          "Submit your tips and tricks on how to get the best experience from the GALAXY S III and you could be our new Fan of the Month. Samsung Mobile Fan of the Month. Upload your tips and tricks on the Samsung Mobile Facebook community and you could become our Fan of the Month.",
-          1347092852
-        ],
-        [
           "We'd love to see some tips for the new GALAXY S III. If you've got one, share it now! Samsung Fan of the Month. Upload your tips and tricks on the Samsung Mobile Facebook community and you could become our Fan of the Month.",
           1341041508
+        ],
+        [
+          "Cheery congratulations are in order for Kayrol, our new Samsung Fan of the Month, with a great tip on how to use the \"hovering pen\" on the GALAXY Note! Samsung Fan of the Month. Share your tips and tricks on our Facebook community and you could be next to earn top honors.",
+          1339862753
         ],
         [
           "Did you know to take a screenshot on the GALAXY Note, all you have to do is move your palm across the screen? Discover more great tips like this from our Fan of the Month community. Samsung Fan of the Month. Upload your tips and tricks on the Samsung Mobile Facebook community and you could become our Fan of the Month.\n",
@@ -4977,23 +4696,44 @@
         [
           "Meet David from Australia, our February Fan of the Month, who shared a great tip on how to quickly access your settings on Android devices.\n\nSubmit your tip now and get in the running for next month's Fan of the Month http://on.fb.me/SamsungFotM\n. Samsung Mobile. Upload your tips and tricks on the Samsung Mobile Facebook community and you could become our Fan of the Month. ",
           1331817405
+        ],
+        [
+          "Featuring Daniel Gartner, our latest Fan of the Month, with his tip on how to make a call and send a message directly from the Contacts application! Have you submitted yours? http://on.fb.me/SamsungFotM. Samsung Mobile. Samsung is a market leader in Consumer Electronics and Cell Phones and for more than 70 years,...",
+          1329390052
+        ],
+        [
+          "Know a neat trick about your Samsung mobile? Share it on the Fan of the Month community and stand to earn street cred, or simply vote for your favourite. http://on.fb.me/SamsungFotM.",
+          1328968534
+        ],
+        [
+          "Congratulations to Furkan from India, the first Samsung Fan of the Month!\n\nFurkan shared a great tip with the community on how to capture a screenshot on the GALAXY S II. Submit yours to get in the running for our next Fan of the Month! http://on.fb.me/SamsungFotM. Samsung Mobile. Samsung is a market leader in Consumer Electronics and Cell Phones and for more than 70 years,...",
+          1327051397
         ]
       ],
-      "dates_start": 1332542892,
-      "dates_end": 1345332856,
-      "likes_avg": 3157,
-      "likes_stdev": 1380,
-      "comments_avg": 134,
-      "comments_stdev": 76,
-      "shares_avg": 44,
-      "shares_stdev": 40
+      "dates_start": 1334530054,
+      "dates_end": 1351710581,
+      "likes_avg": 5170,
+      "likes_stdev": 3179,
+      "comments_avg": 171,
+      "comments_stdev": 75,
+      "shares_avg": 80,
+      "shares_stdev": 67
     },
     {
-      "number": 36,
+      "number": 29,
       "important": [
-        "art"
+        "caricatur",
+        "ces",
+        "wong",
+        "galaxi",
+        "woon",
+        "evardo",
+        "mikki",
+        "fei",
+        "maumba",
+        "cecchini"
       ],
-      "summary": "[CARICATURES] GALAXY Note at CES 2012. Vanessa L. Galica. Utut Irawan. Unni Krishnan. Saif.",
+      "summary": "Paula Mikki Evardo Tindoc.\nUnni Krishnan.\nBrandon Huang.\nDamien Douk.\nKaye Odirolf.\nKefas Flaze Gaze.\nArt Lanez.\nFederica Cecchini Snipers.\nDaniso Maumba Ndolo.\nPiret Tamm.\nHashim Rais.\nJoycelyn Fei Woon Yap.\nGalica.\n[CARICATURES] GALAXY Note at CES 2012.\n[CARICATURES] GALAXY Note at CES 2012.\n[CARICATURES] GALAXY Note at CES 2012.\n[CARICATURES] GALAXY Note at CES 2012.\n[CARICATURES] GALAXY Note at CES 2012.\n[CARICATURES] GALAXY Note at CES 2012.",
       "common": [
         "art",
         "olinto",

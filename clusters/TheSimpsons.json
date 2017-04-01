@@ -4,19 +4,28 @@
   "globalstats": {
     "fan_count": 66410853,
     "messages": 2306,
-    "likes_avg": 32543,
-    "likes_stdev": 47619,
-    "comments_avg": 605,
-    "comments_stdev": 1474,
-    "shares_avg": 1946,
-    "shares_stdev": 7563,
+    "likes_avg": 32455,
+    "likes_stdev": 47172,
+    "comments_avg": 601,
+    "comments_stdev": 1487,
+    "shares_avg": 1948,
+    "shares_stdev": 7645,
     "graph_uri": "clusters/TheSimpsons.png"
   },
   "clusters": [
     {
       "number": 1,
-      "important": [],
-      "summary": "Sometimes, you just have to the buy the latest. Caption this: Timeline Photos. Timeline Photos. Goodnight to you... wherever you are. And just where have YOU been?!",
+      "important": [
+        "photo",
+        "takeov",
+        "pant",
+        "corpor",
+        "groundskeep",
+        "boudist",
+        "capit",
+        "comprehens"
+      ],
+      "summary": "Caption this: Timeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.\nTimeline Photos.",
       "common": [
         "caption",
         "caption timelin",
@@ -195,13 +204,16 @@
     {
       "number": 2,
       "important": [
-        "day timelin",
+        "day",
         "happi",
-        "earth",
         "nation",
-        "homer"
+        "photo",
+        "homer",
+        "giphi",
+        "springfield",
+        "famili"
       ],
-      "summary": "Happy National Dance Day! Happy Earth Day! Happy National Bow Tie Day! Happy Father's Day! Happy National Siblings Day!",
+      "summary": "Homer's tipping his hat back and celebrating National Drink Beer Day the right way.\nNational Donut Day was too much for Homer this year.\nCelebrate National Beer Day like Homer would: http://fox.tv/1VAzSZu Promo Code: DRINK.\nMarge and Homer wish you all a Happy Valentine's Day!\nStay in and watch The Simpsons for the rest of Groundhog Day: fox.tv/1BX6mTg. Timeline Photos.\nHappy National Bow Tie Day!\nJanuary 10- National 'Not Insane' Day. Timeline Photos.",
       "common": [
         "day timelin",
         "day timelin photo",
@@ -416,13 +428,16 @@
     {
       "number": 3,
       "important": [
-        "fox",
-        "couch gag",
+        "simpson",
+        "halloween",
+        "treehous",
+        "horror",
         "episod",
-        "couch",
-        "halloween"
+        "guillermo",
+        "fox",
+        "watch"
       ],
-      "summary": "The Simpsons on FOX - Watch the \"Treehouse of Horror XXV\" Episode. THE SIMPSONS | The Couch Gag from \"Treehouse of Horror XXVI\" | ANIMATION on FOX. Treehouse of Horror XXIV Couch Gag by Guillermo del Toro | THE SIMPSONS | ANIMATION on FOX. Click below to watch- Treehouse of Horror XXIV Couch Gag by Guillermo del Toro | THE SIMPSONS | ANIMATION on FOX. Guillermo del Toro creates the Couch Gag for this year's Treehouse of Horror episode.",
+      "summary": "Watch the couch gag from this year's spooky Halloween episode, \"Treehouse of Horror XXVI.\" Subscribe now for more The Simpsons clips: http://fox.tv/Subscribe...\nTreehouse of Horror XXIV Couch Gag by Guillermo del Toro | THE SIMPSONS | ANIMATION on FOX.\nClick below to watch- Treehouse of Horror XXIV Couch Gag by Guillermo del Toro | THE SIMPSONS | ANIMATION on FOX.",
       "common": [
         "couch",
         "couch gag",
@@ -557,13 +572,17 @@
     {
       "number": 4,
       "important": [
-        "bart",
-        "episod simpson season",
+        "episod",
+        "thursday",
+        "season",
+        "simpson",
         "homer",
-        "simpson season",
-        "season episod"
+        "guest",
+        "news",
+        "bart",
+        "michell"
       ],
-      "summary": "episode of The Simpsons. Throwback Thursday:  \"Homer The Smithers\" episode of The Simpsons. Throwback Thursday: \u201cBart Carny\u201d episode of The Simpsons from Season 9.  . Throwback Thursday: \"Trash of the Titans\" episode of The Simpsons (Season 9). Throwback Thursday: Homer in the \"King-Size Homer\" Season 7 episode of The Simpsons.",
+      "summary": "Throwback Thursday:  Marge \"buffs up\" on the Season 14 episode of The Simpsons, \"THE STRONG ARMS OF THE MA.\" Timeline Photos.\nThrowback Thursday: Drew Barrymore guests stars as Sophie, Krusty\u2019s long lost daughter in The Simpsons Season 13 episode \u201cInsane Clown Poppy.\" Timeline Photos.\nThrowback Thursday: Bart butters his bacon from the \u201cShe of Little Faith\u201d Season 13 episode of The Simpsons.",
       "common": [
         "bart",
         "episod simpson",
@@ -814,13 +833,17 @@
     {
       "number": 5,
       "important": [
-        "episod",
-        "gag simpson",
+        "couch",
+        "simpson",
+        "gag",
         "anim",
-        "sunday",
-        "couch gag simpson"
+        "fox",
+        "episod",
+        "episodes air",
+        "open",
+        "air"
       ],
-      "summary": "Subscribe now for more The Simpsons clips: http://fox.tv/SubscribeAnimationDomination Like The Simpsons on ... Have you seen this special Sylvain Chomet couch gag from last Sunday's episode of The Simpsons? The Couch Gag Before Christmas | THE SIMPSONS | ANIMATION on FOX. Couch Gag Contest Finalists | The Simpsons | Animation on FOX. THE SIMPSONS - Couch Gag Contest. Subscribe now for more The Simpsons clips: http://fox.tv/SubscribeAnimationDomination See more of The Simpsons on ... Get a sneak peek at Sunday's couch gag from animator Eric Goldberg- \nhttp://fox.tv/1SgEMtK.",
+      "summary": "Watch the couch gag from this year's holiday episode, \"I Won't Be Home For Christmas.\" Subscribe now for more The Simpsons clips: http://fox.tv/SubscribeAnim...\nA special Christmas version of The Simpsons Couch Gag in an all-new episode: \"White Christmas Blues.\" Click below to watch a sneak peek at the \"Silly Simpsony\" opening sequence, airing this Sunday at 8/7c.\nThe illustration with the most votes will be animated and will appear as the couch gag in The Simpsons season finale episode on Sunday, May 19.",
       "common": [
         "anim",
         "anim fox",
@@ -1047,13 +1070,18 @@
     {
       "number": 6,
       "important": [
-        "subscrib simpson clip httpfoxtvsubscribeanimationdomin",
-        "clip httpfoxtvsubscribeanimationdomin",
-        "simpson clip httpfoxtvsubscribeanimationdomin",
+        "subscrib",
+        "simpson",
+        "homer",
+        "anim",
+        "fox",
         "like",
-        "homer"
+        "news",
+        "episod",
+        "marg",
+        "star"
       ],
-      "summary": "Subscribe now for more The Simpsons clips: http://fox.tv/SubscribeAnimationDomination . Subscribe now for more The Simpsons clips: http://fox.tv/SubscribeAnimationDo... An all-new episode of The Simpsons airs tonight at 8/7c on FOX! Subscribe now for more The Simpsons clips: http://fox.tv/SubscribeAnimationDomination Like The Simpsons on Faceb... What's it like being on The Simpsons? Subscribe now for more The Simpsons clips: http://fox.tv/SubscribeAnimationDomination Like The Simpsons on ... In need of a babysitter? Subscribe now for more The Simpsons clips: http://fox.tv/SubscribeAnimationDomination Like The Simps... Homer's on the run!",
+      "summary": "Marge challenges Kim Jong Un. Subscribe now for more The Simpsons clips: http://fox.tv/SubscribeAnimationDomination See more of The Simpsons on our official ...\nHomer Can't Afford to Take a Break from \"Bart's New Friend\" | THE SIMPSONS | ANIMATION on FOX.\nSubscribe now for more The Simpsons clips: http://fox.tv/SubscribeAnimationDomination Like The Simpsons on Facebook...\n\"But we've only been at sea one day!\" Subscribe now for more The Simpsons clips: http://fox.tv/SubscribeAnimationDomination Like The Simpsons on Facebook: ht...",
       "common": [
         "clip httpfoxtvsubscribeanimationdomin",
         "clip httpfoxtvsubscribeanimationdomin like",
@@ -1400,13 +1428,17 @@
     {
       "number": 7,
       "important": [
-        "season simpson timelin",
-        "marg",
+        "photo",
+        "homer",
+        "thursday",
+        "simpson",
+        "tomorrow",
         "lisa",
-        "throwback",
-        "homer"
+        "bart",
+        "marg",
+        "take"
       ],
-      "summary": "Throwback Thursday: \"Homerpalooza\" from Season 7 of The Simpsons. Throwback Thursday: \"Homer Goes to College\" from Season 5 of The Simpsons. Throwback Thursday: \"Treehouse of Horror IV\" from Season 5 of The Simpsons. Throwback Thursday: \"Treehouse of Horror VI\" from Season 7 of The Simpsons. Throwback Thursday: \"Grift of the Magi\" from Season 11 of The Simpsons.",
+      "summary": "Throwback Thursday: \"O Brother, Where Bart Thou?\" from Season 21 of The Simpsons.\nThrowback Thursday: \"Homer Goes to College\" from Season 5 of The Simpsons.\nThrowback Thursday: \"Treehouse of Horror XIII\" from Season 14 of The Simpsons.\nThrowback Thursday: \"Treehouse of Horror VI\" from Season 7 of The Simpsons.\nThrowback Thursday: \"Treehouse of Horror VI\" from Season 7 of The Simpsons.\nThrowback Thursday: \"In Marge We Trust\" from Season 8 of The Simpsons.",
       "common": [
         "homer",
         "lisa",
@@ -1581,323 +1613,18 @@
     {
       "number": 8,
       "important": [
-        "air sunday",
-        "simpson air sunday",
-        "episod simpson air",
-        "allnew",
-        "simpson air"
-      ],
-      "summary": "An all-new episode of The Simpsons airs tomorrow at 8/7c on FOX! An all-new episode of The Simpsons airs this Sunday on FOX. Be our Valentine this Sunday with an all-new episode of The Simpsons airs at 8/7c on FOX! Airing SUN 5/4 at 8/7c on FOX. The fate of Springfield Elementary rests on Bart and his test scores an all-new episode of The Simpsons, airing SUN 1/13 at 8/7c.",
-      "common": [
-        "air sunday",
-        "allnew",
-        "episod simpson",
-        "episod simpson air",
-        "simpson air",
-        "simpson air sunday",
-        "sun",
-        "sun timelin",
-        "sun timelin photo",
-        "sunday"
-      ],
-      "messages": [
-        [
-          "Checkmate! An all-new episode of The Simpsons airs this Sunday on FOX. Timeline Photos.",
-          1487262090
-        ],
-        [
-          "Game on! \ud83c\udfae An all-new episode airs tomorrow night. Timeline Photos.",
-          1479582927
-        ],
-        [
-          "An all-new episode of The Simpsons airs tomorrow at 8/7c on FOX! Timeline Photos.",
-          1475346001
-        ],
-        [
-          "Everything's up in the air. Timeline Photos.",
-          1472651461
-        ],
-        [
-          "Be our Valentine this Sunday with an all-new episode of The Simpsons airs at 8/7c on FOX! Timeline Photos.",
-          1455282619
-        ],
-        [
-          "Sun's out, guns out. Timeline Photos.",
-          1437220805
-        ],
-        [
-          "And now a word from a few of Springfield's former bullies...\n\nThe Simpsons is all-new tomorrow at 8/7c on FOX! Former Bully Testimonials from \"Bull-E\" These former bullies vow to be better human beings.",
-          1431194571
-        ],
-        [
-          "Watch worlds collide when Simpsorama airs TOMORROW at 8/7c on FOX! Timeline Photos.",
-          1415464505
-        ],
-        [
-          "John Oliver guest voices as The Simpsons' charming new British neighbor, Booth Wilkes-John. SUN at 8/7c. Timeline Photos.",
-          1399662301
-        ],
-        [
-          "LIKE/SHARE the official poster created for the special LEGO-themed episode of The Simpsons. Airing SUN 5/4 at 8/7c on FOX. Timeline Photos.",
-          1398715574
-        ],
-        [
-          "EXCLUSIVE! The Simpsons turn into LEGO bricks in the milestone 550th episode, airing May 4. Timeline Photos.",
-          1397577600
-        ],
-        [
-          "Homer and Marge are accused of being art thieves. All-New SUN at 8/7c. Timeline Photos.",
-          1395439500
-        ],
-        [
-          "Comic Book Guy meets a woman! All-New SUN at 8/7c. Timeline Photos.",
-          1389389400
-        ],
-        [
-          "Rob Halford, Leslie Mann, Paul Rudd, Seth Rogen, Judd Apatow and Will Arnett guest voice in a star-studded episode of The Simpsons, airing Sunday, Jan. 5. (8/7c on FOX) Photos from The Simpsons's post.",
-          1388440801
-        ],
-        [
-          "Jon Lovitz guest voices as \"Llewellyn Sinclair\" in the all-new \"YOLO\" episode of The Simpsons airing Sunday, Nov. 10. Timeline Photos.",
-          1383953400
-        ],
-        [
-          "What have you learned from The Simpsons? 5 Lessons Learned From The Simpsons. an you believe The Simpsons have been airing since 1989? And, like, that's not even counting the Simpsons shorts that aired on The Tracey Ullman Show. Homer wore a suit! That's silly!",
-          1371670201
-        ],
-        [
-          "Icelandic band  Sigur R\u00f3s have scored a part in this Sunday's Season Finale episode of The Simpsons, \"The Saga of Carl.\" (SUN 5/19 at 8/7c) Timeline Photos.",
-          1368882003
-        ],
-        [
-          "The Simpson family needs a new couch in the all-new \"Pulpit Friction\" episode of The Simpsons airing Sunday, April 28 at 8/7c. Timeline Photos.",
-          1367015403
-        ],
-        [
-          "Wanda Sykes and George Takei guest voice as a couple experiencing marital differences in the all-new \"What Animated Women Want\" episode of The Simpsons, airing SUN 4/14. Timeline Photos.",
-          1365607119
-        ],
-        [
-          "Mr. Burns attempts to fulfill his lifelong dream of becoming a superhero in the all-new \"Dark Knight Court\" episode of The Simpsons. (SUN 3/17) Timeline Photos.",
-          1363368600
-        ],
-        [
-          "Mary Spuckler (guest voice Zooey Deschanel) returns to Springfield in the \"Love is a Many Splintered Thing\" episode of The Simpsons airing SUN 2/10. Timeline Photos.",
-          1360341456
-        ],
-        [
-          "The fate of Springfield Elementary rests on Bart and his test scores an all-new episode of The Simpsons, airing SUN 1/13 at 8/7c. Timeline Photos.",
-          1357926601
-        ],
-        [
-          "Check out this clip from Sunday's all-new episode of The Simpsons (8/7c). Grampa's Past from \"Gone Abie Gone\" Don't miss a new episode of THE SIMPSONS, airing Sunday at 8/7c on FOX!",
-          1352485801
-        ],
-        [
-          "Anika Noni Rose guest voices as Grampa's long lost love Rita LaFleur in the \"Gone Abie Gone\" episode of The Simpsons airing Sunday, Nov. 11. Timeline Photos.",
-          1352311255
-        ],
-        [
-          "Jeff Gordon guest-voices as himself in the all-new \"Adventures in Baby Getting\" episode of The Simpsons airing Sunday,  Nov.4! Timeline Photos.",
-          1351536154
-        ],
-        [
-          "In the 23rd annual \"Treehouse of Horror\" episode of The Simpsons, Bart travels to 1974 to buy a comic book at cover price but inadvertently disrupts Homer and Marge's courtship (SUN 10/7 at 8/7c). Timeline Photos.",
-          1349469036
-        ],
-        [
-          "Bart travels to New York City to reconnect with his long-lost love, Mary Spuckler (Zooey Deschanel), who left Springfield and her back woods family to reinvent herself in the Big Apple.\r\n\r\nThe \"Moonshine River\" season premiere episode of The Simpsons airs this Sunday at 8/7c! Timeline Photos.",
-          1348762382
-        ],
-        [
-          "The 23rd annual \"Treehouse of Horror\" episode of The Simpsons airs Sunday, Oct. 7! http://bit.ly/S7Xu2R. Timeline Photos.",
-          1348151559
-        ],
-        [
-          "The Simpsons Season 24 premieres SUN 9/30 at 8/7c! Timeline Photos.",
-          1346874455
-        ],
-        [
-          "Marge, Bart and Lisa start their own food blog on an encore episode of The Simpsons, airing SUN 6/3 at 8/7c. Timeline Photos.",
-          1338562089
-        ],
-        [
-          "Bart finally devises a way to get Nelson to stop stealing his lunch money in an all-new episode of The Simpsons, airing SUN 5/6 at 8/7c. Timeline Photos.",
-          1336055908
-        ],
-        [
-          "Mark your calendars: An encore presentation of The Simpsons momentous 500th episode will air on Sunday, April 22! FOX.",
-          1334157130
-        ],
-        [
-          "Time Capsule: Homer\u2019s version of The Simpsons theme song.  The Simpsons - Homer Scream Mash-up. All-new episodes of THE SIMPSONS air Sundays at 8/7c! Homer on Twitter! http://bit.ly/Homer_Twitter.",
-          1332538008
-        ],
-        [
-          "The Springfield Power Plant\u2019s robot employees (guest voice Brent Spiner) turn on Mr. Burns and Homer in the all-new \u201cThem, Robot\u201d episode of The Simpsons airing Sunday, March 18. Timeline Photos.",
-          1331761594
-        ],
-        [
-          "Street artists Robbie Conal, Ron English, Shepard Fairey and Kenny Scharf guest-voice as themselves on an all-new episode of THE SIMPSONS, airing SUN 3/4. Timeline Photos.",
-          1330622979
-        ],
-        [
-          "Alison Krauss & Union Station are featured on a special theme song for The Simpsons 500th episode, and they're giving you the chance to hear it before the monumental episode airs this Sunday. Click below to listen-  Alison Krauss & Union Station commemorate The Simpsons 500th Episode with a song. \"The Simpsons\" 500th episode is coming up on Sunday, February 19th and Alison Krauss and Union Station are featured on a special theme song for the historic show.",
-          1329411206
-        ],
-        [
-          "Take a look at this photo from the milestone 500th episode of THE SIMPSONS, airing Sunday, Feb. 19. Timeline Photos.",
-          1329254071
-        ],
-        [
-          "Jeremy Irons guest-voices as Moe's faithful Bar Rag in the all-new \"Moe Goes from Rags to Riches\" episode of THE SIMPSONS airing Sunday, Jan. 29 at 8/7c. Timeline Photos.",
-          1327345986
-        ],
-        [
-          "Armie Hammer guest voices as twin oarsmen in the all-new \"The D'oh-cial Network\" episode of THE SIMPSONS airing SUN 1/15 at 8/7c. Timeline Photos.",
-          1326404267
-        ]
-      ],
-      "dates_start": 1331009485,
-      "dates_end": 1424257120,
-      "likes_avg": 36877,
-      "likes_stdev": 30505,
-      "comments_avg": 812,
-      "comments_stdev": 636,
-      "shares_avg": 2595,
-      "shares_stdev": 3173
-    },
-    {
-      "number": 9,
-      "important": [
-        "maggi simpson",
-        "star",
+        "homer",
         "photo",
-        "longest",
-        "daycar"
-      ],
-      "summary": "Watch the preview now-  THE SIMPSONS - Maggie Simpson in \"The Longest Daycare\" See Maggie Simpson in \"The Longest Daycare\" in 3D before \"Ice Age: Continental Drift\" - only in theaters! THE SIMPSONS - Maggie Simpson Stars in \"The Longest Daycare\" Coming July 13: See Maggie Simpson in her first starring role in \"The Longest Daycare\" in 3D before \"Ice Age: Continental Drift\" - ONLY IN THEATERS! Maggie Simpson stars in her Oscar\u00ae Nominated Short, \"Maggie Simpson in 'The Longest Daycare'\" Maggie needs you to help her pick an outfit for the Oscars\u00ae this Sunday! THE SIMPSONS - Maggie Simpson in \"The Longest Daycare\" The Simpsons is nominated for an Annie Award in the \"Best Animated Short\" category. Click below to watch the Oscar\u00ae nominated short, \"Maggie Simpson in 'The Longest Daycare'\"!",
-      "common": [
-        "daycar",
-        "longest",
-        "longest daycar",
-        "maggi simpson",
-        "maggi simpson longest",
-        "photo",
-        "short",
-        "simpson longest",
-        "star",
-        "theater"
-      ],
-      "messages": [
-        [
-          "What's not family friendly about Burning Man? Maggie seems to approve. THE SIMPSONS | Blazed and Confused.",
-          1472494320
-        ],
-        [
-          "Oh, the adventures this one's been on! Do you know the name of the bear and who owns it? Hint: it's not Maggie anymore! Timeline Photos.",
-          1421259326
-        ],
-        [
-          "Dont warp them home to Springfield, Mr. Maggie! The Simpsons Star Trek Credits.",
-          1420819863
-        ],
-        [
-          "Happy Birthday Maggie, the littlest star of Springfield. Timeline Photos.",
-          1408493400
-        ],
-        [
-          "Maggie took center stage in which landmark episode where Bart was neither featured, nor mentioned? Choo-choo-choose wisely! Timeline Photos.",
-          1405609800
-        ],
-        [
-          "Do you have a sibling who reminds you of Bart, Lisa or Maggie? What The Simpsons Can Teach Us About Siblings. What can America\u2019s favorite yellow cartoon family\u2014and this weekend\u2019s cover subjects\u2014teach us about family dynamics? ",
-          1372098451
-        ],
-        [
-          "Click below to watch the Oscar\u00ae nominated short, \"Maggie Simpson in 'The Longest Daycare'\"! Maggie Simpson in \"The Longest Daycare\" | ANIMATION on FOX. Maggie Simpson stars in her Oscar\u00ae Nominated Short, \"Maggie Simpson in 'The Longest Daycare'\"",
-          1361836939
-        ],
-        [
-          "Maggie needs you to help her pick an outfit for the Oscars\u00ae this Sunday!\r\n\r\nVOTE for your favorite: http://fox.tv/YxS7PM. Timeline Photos.",
-          1361482200
-        ],
-        [
-          "Help Maggie pick her Oscar\u00ae gown! VOTE NOW: http://fox.tv/YxS7PM. What Will Maggie Wear to the Oscars\u00ae?",
-          1361393247
-        ],
-        [
-          "\ufeff\ufeff\ufeff\ufeffWhat should Maggie wear to the Oscars\u00ae? You decide! VOTE NOW for your favorite outfit: http://fox.tv/YxS7PM. What Should Maggie Simpson Wear to the Oscars? The youngest Simpson stars in an Oscar-nominated short film.",
-          1361309606
-        ],
-        [
-          "Stick around after tonight's episode for the broadcast premiere of the Oscar\u00ae-Nominated short film \"MAGGIE SIMPSON IN: THE LONGEST DAYCARE\u201d! Timeline Photos.",
-          1361145600
-        ],
-        [
-          "\"Maggie Simpson in: The Longest Daycare\" is playing in select theaters! Check local listings. Oscar-Nominated Simpsons Short Back in Theaters. The Oscar-contending Maggie Simpson short is back in theaters this weekend with Life of Pi.",
-          1360627774
-        ],
-        [
-          "\"With 'Maggie Simpson,' the popular franchise definitely reaches new artistic heights.\" - indieWIRE\r\n\r\nRead more: http://fox.tv/XuUFgY. Timeline Photos.",
-          1359829800
-        ],
-        [
-          "HuffPost Entertainment: 'The Simpsons' Scores An Oscars Nomination: 'The Longest Daycare' Nominated For Best Animated Short - http://fox.tv/VY2sCx. Timeline Photos.",
-          1357935602
-        ],
-        [
-          "Congratulations to The Simpsons on their Academy Award\u00ae nomination in the animated short film category for \"Maggie Simpson in 'The Longest Daycare'.\" Timeline Photos.",
-          1357859143
-        ],
-        [
-          "\"The Longest Daycare\" short is one of The Simpsons' six Annie Awards nominations. THE SIMPSONS - Maggie Simpson in \"The Longest Daycare\" The Simpsons is nominated for an Annie Award in the \"Best Animated Short\" category.",
-          1356114600
-        ],
-        [
-          "Maggie goes Hollywood in a new poster series based off of classic films- Maggie Simpson gets her Hollywood close-up. Maggie Simpson is in the spotlight in \u201cThe Longest Daycare,\u201d the animated short that precedes screenings of \u201cIce Age: Continental Drift\u201d ...",
-          1342482317
-        ],
-        [
-          "Maggie Simpson recreates an iconic image from Charlie Chaplin\u2019s Modern Times- \u2018Simpsons\u2019: Maggie as Charlie Chaplin in \u2018Modern Times\u2019 \u2014 PHOTO | EW.com. Turns out, Maggie Simpson makes a rather charming silent film star. ",
-          1342223170
-        ],
-        [
-          "The Simpsons discover Pinterest--and the third dimension! Check out exclusive storyboards from \"The Longest Daycare\" in 3D--Maggie Simpson's first starring role! Before Ice Age: Continental Drift, Only in Theaters.*\n\n*More pinboards coming soon! \"The Longest Daycare\" View exclusive storyboards for Maggie Simpson's theatrical short!",
-          1341345673
-        ],
-        [
-          "Click below to watch the trailer for Maggie Simpson's big-screen adventure \u201cThe Longest Daycare\u201d- \u2018The Simpsons\u2019: See summer\u2019s shortest trailer for the 3-D short film hitting theaters \u2014 FIRST LOOK | It\u2019s been five years since The Simpsons invaded movie theaters with the aptly titled The Simpsons Movie. Itching and scratching to see the Springfield clan...",
-          1341325531
-        ],
-        [
-          "Maggie Simpson stars in \u201cThe Longest Daycare\u201d \u2013 In theaters July 13 before \"Ice Age Movie: Continental Drift.\" THE SIMPSONS - Maggie Simpson Stars in \"The Longest Daycare\" Coming July 13: See Maggie Simpson in her first starring role in \"The Longest Daycare\" in 3D before \"Ice Age: Continental Drift\" - ONLY IN THEATERS!",
-          1341272988
-        ],
-        [
-          "Maggie Simpson in her first starring role. Watch the preview now-  THE SIMPSONS - Maggie Simpson in \"The Longest Daycare\" See Maggie Simpson in \"The Longest Daycare\" in 3D before \"Ice Age: Continental Drift\" - only in theaters!",
-          1337553353
-        ]
-      ],
-      "dates_start": 1336882746,
-      "dates_end": 1403709317,
-      "likes_avg": 42971,
-      "likes_stdev": 78540,
-      "comments_avg": 813,
-      "comments_stdev": 777,
-      "shares_avg": 2210,
-      "shares_stdev": 2492
-    },
-    {
-      "number": 10,
-      "important": [
-        "car",
-        "good",
+        "like",
         "look",
-        "minut",
-        "like"
+        "simpson",
+        "grampa",
+        "cloth",
+        "voyag",
+        "unsportsmanlik",
+        "time"
       ],
-      "summary": "-Homer. - Homer. \"Here are your messages: \nYou have 30 minutes to move your car. Here's HOMER! You have 10 minutes to move your car.",
+      "summary": "This is probably a good time to go shopping for some new clothes, Homer.\nParenting 101 with Homer.\nNothing like a little advice from Homer.\nLook at how adorable Marge and Homer are!\nEver been on a mystical voyage like Homer?\nYou have 30 minutes to move your cube.\" - Homer.\n\"So I said, 'Look buddy, your car was upside-down when I got here.'\" - Homer.\nIt's good to be King Homer.",
       "common": [
         "car",
         "good",
@@ -1986,15 +1713,18 @@
       "shares_stdev": 2171
     },
     {
-      "number": 11,
+      "number": 9,
       "important": [
-        "springfield",
-        "rememb",
-        "marg",
+        "photo",
+        "homer",
+        "simpson",
         "like",
-        "homer"
+        "lisa",
+        "marg",
+        "season",
+        "man"
       ],
-      "summary": "Bart is no stranger to the ladies, but can you remember the name of this love interest? When it dawns on you that tomorrow is Monday... Timeline Photos. The least you can do, Homer, is remember this guy's name. THE SIMPSONS | THE SIMPSONS Predicted It! Q: What is the name of the 3-eyed fish found in the ponds and lakes of Springfield?",
+      "summary": "THE SIMPSONS | The Truth Comes Out from \"How Lisa Got Her Marge Back\" | ANIMATION on FOX.\nThe Internet has been freaking out all week over \"news\" that The Simpsons' Homer and Marge are headed for cartoon divorce court.\n(Season 6, Episode 12 \"Homer The Great\") Timeline Photos.\nMarge and Lisa\u2019s mother-daughter Valentine\u2019s Day plans take a turn when Lisa meets Nick (guest voice Michael Cera) on Tonight's episode of The Simpsons (8/7c).",
       "common": [
         "bart",
         "homer",
@@ -3071,15 +2801,301 @@
       "shares_stdev": 3670
     },
     {
-      "number": 12,
+      "number": 10,
       "important": [
-        "bart",
-        "find",
-        "episod simpson",
-        "allnew",
+        "simpson",
+        "episod",
+        "simpsons air",
+        "photo",
+        "sunday",
+        "guest",
+        "fox",
+        "sun",
+        "air",
         "homer"
       ],
-      "summary": "All-new tomorrow at 8/7c. All-new Tomorrow at 8/7c. Tomorrow at 8/7c. Bart looks guilty... Find out why on an all-new episode of The Simpsons tomorrow at 8/7c! Bart's new friends sure do look...interesting...\n\nSee what they're all about on an all-new episode of the The Simpsons TOMORROW at 8/7c!",
+      "summary": "THE SIMPSONS - Bart & Homer's Excellent Adventure from \"Treehouse of Horror XXIII\" Don't miss an all-new episode of THE SIMPSONS on SUN at 8/7c, on FOX!\nThe Springfield Power Plant\u2019s robot employees (guest voice Brent Spiner) turn on Mr. Burns and Homer in the all-new \u201cThem, Robot\u201d episode of The Simpsons airing Sunday, March 18.",
+      "common": [
+        "air",
+        "allnew",
+        "episod simpson",
+        "fox",
+        "homer",
+        "photo",
+        "sun",
+        "sunday",
+        "timelin",
+        "timelin photo"
+      ],
+      "messages": [
+        [
+          "Checkmate! An all-new episode of The Simpsons airs this Sunday on FOX. Timeline Photos.",
+          1487262090
+        ],
+        [
+          "Game on! \ud83c\udfae An all-new episode airs tomorrow night. Timeline Photos.",
+          1479582927
+        ],
+        [
+          "An all-new episode of The Simpsons airs tomorrow at 8/7c on FOX! Timeline Photos.",
+          1475346001
+        ],
+        [
+          "Everything's up in the air. Timeline Photos.",
+          1472651461
+        ],
+        [
+          "Be our Valentine this Sunday with an all-new episode of The Simpsons airs at 8/7c on FOX! Timeline Photos.",
+          1455282619
+        ],
+        [
+          "It's almost time for the Treehouse of Horror! THE SIMPSONS | Terror Awaits | ANIMATION on FOX. THE SIMPSONS brings its scariest \"Tree house of Horror\" yet! Don't miss an all-new episode this SUN at 8/7c on FOX!",
+          1445641211
+        ],
+        [
+          "Sun's out, guns out. Timeline Photos.",
+          1437220805
+        ],
+        [
+          "And now a word from a few of Springfield's former bullies...\n\nThe Simpsons is all-new tomorrow at 8/7c on FOX! Former Bully Testimonials from \"Bull-E\" These former bullies vow to be better human beings.",
+          1431194571
+        ],
+        [
+          "Watch worlds collide when Simpsorama airs TOMORROW at 8/7c on FOX! Timeline Photos.",
+          1415464505
+        ],
+        [
+          "John Oliver guest voices as The Simpsons' charming new British neighbor, Booth Wilkes-John. SUN at 8/7c. Timeline Photos.",
+          1399662301
+        ],
+        [
+          "LIKE/SHARE the official poster created for the special LEGO-themed episode of The Simpsons. Airing SUN 5/4 at 8/7c on FOX. Timeline Photos.",
+          1398715574
+        ],
+        [
+          "EXCLUSIVE! The Simpsons turn into LEGO bricks in the milestone 550th episode, airing May 4. Timeline Photos.",
+          1397577600
+        ],
+        [
+          "Homer and Marge are accused of being art thieves. All-New SUN at 8/7c. Timeline Photos.",
+          1395439500
+        ],
+        [
+          "Comic Book Guy meets a woman! All-New SUN at 8/7c. Timeline Photos.",
+          1389389400
+        ],
+        [
+          "Rob Halford, Leslie Mann, Paul Rudd, Seth Rogen, Judd Apatow and Will Arnett guest voice in a star-studded episode of The Simpsons, airing Sunday, Jan. 5. (8/7c on FOX) Photos from The Simpsons's post.",
+          1388440801
+        ],
+        [
+          "Jon Lovitz guest voices as \"Llewellyn Sinclair\" in the all-new \"YOLO\" episode of The Simpsons airing Sunday, Nov. 10. Timeline Photos.",
+          1383953400
+        ],
+        [
+          "What have you learned from The Simpsons? 5 Lessons Learned From The Simpsons. an you believe The Simpsons have been airing since 1989? And, like, that's not even counting the Simpsons shorts that aired on The Tracey Ullman Show. Homer wore a suit! That's silly!",
+          1371670201
+        ],
+        [
+          "Icelandic band  Sigur R\u00f3s have scored a part in this Sunday's Season Finale episode of The Simpsons, \"The Saga of Carl.\" (SUN 5/19 at 8/7c) Timeline Photos.",
+          1368882003
+        ],
+        [
+          "The Simpson family needs a new couch in the all-new \"Pulpit Friction\" episode of The Simpsons airing Sunday, April 28 at 8/7c. Timeline Photos.",
+          1367015403
+        ],
+        [
+          "Wanda Sykes and George Takei guest voice as a couple experiencing marital differences in the all-new \"What Animated Women Want\" episode of The Simpsons, airing SUN 4/14. Timeline Photos.",
+          1365607119
+        ],
+        [
+          "Mr. Burns attempts to fulfill his lifelong dream of becoming a superhero in the all-new \"Dark Knight Court\" episode of The Simpsons. (SUN 3/17) Timeline Photos.",
+          1363368600
+        ],
+        [
+          "Mary Spuckler (guest voice Zooey Deschanel) returns to Springfield in the \"Love is a Many Splintered Thing\" episode of The Simpsons airing SUN 2/10. Timeline Photos.",
+          1360341456
+        ],
+        [
+          "The fate of Springfield Elementary rests on Bart and his test scores an all-new episode of The Simpsons, airing SUN 1/13 at 8/7c. Timeline Photos.",
+          1357926601
+        ],
+        [
+          "Check out this clip from Sunday's all-new episode of The Simpsons (8/7c). Grampa's Past from \"Gone Abie Gone\" Don't miss a new episode of THE SIMPSONS, airing Sunday at 8/7c on FOX!",
+          1352485801
+        ],
+        [
+          "Anika Noni Rose guest voices as Grampa's long lost love Rita LaFleur in the \"Gone Abie Gone\" episode of The Simpsons airing Sunday, Nov. 11. Timeline Photos.",
+          1352311255
+        ],
+        [
+          "Jeff Gordon guest-voices as himself in the all-new \"Adventures in Baby Getting\" episode of The Simpsons airing Sunday,  Nov.4! Timeline Photos.",
+          1351536154
+        ],
+        [
+          "Last week we asked you to pick your favorite segment from The Simpsons \"Treehouse of Horror XXIII\", and the fan fave is... THE SIMPSONS - Bart & Homer's Excellent Adventure from \"Treehouse of Horror XXIII\" Don't miss an all-new episode of THE SIMPSONS on SUN at 8/7c, on FOX! ",
+          1350326077
+        ],
+        [
+          "Jon Lovitz guest voices as Artie Ziff in tonight's 23rd annual \"Treehouse of Horror\" episode of The Simpsons (8/7c). THE SIMPSONS - The United Federation of Homers Through History. Don't miss an all-new episode of THE SIMPSONS on SUN at 8/7c, on FOX!",
+          1349643248
+        ],
+        [
+          "Destined to be yet another classic Halloween-themed episode of The Simpsons, it\u2019s the all-new \u201cTreehouse of Horror XXIII\u201d - TONIGHT at 8/7c! THE SIMPSONS - \"Treehouse of Horrors XXIII\" Podcast Teaser. Don't miss an all-new episode of THE SIMPSONS on SUN at 8/7c, on FOX! ",
+          1349633993
+        ],
+        [
+          "Springfield Subatomic Supercollider creates a black hole that terrorizes the city in the \"Treehouse of Horror XXIII\" episode of The Simpsons, airing tomorrow at 8/7c. THE SIMPSONS - Feeding the Black Hole in \"Treehouse of Horrors XXIII\" Don't miss an all-new episode of THE SIMPSONS on SUN at 8/7c, on FOX! ",
+          1349546658
+        ],
+        [
+          "Here's a special Halloween treat from the creators of The Simpsons! THE SIMPSONS - \"Treehouse of Horrors XXIII\" Podcast Teaser. Don't miss an all-new episode of THE SIMPSONS on SUN at 8/7c, on FOX! Facebook: http://www.facebook.com/thesimpsons Follow Homer on Twitter: http://www.twitt...",
+          1349477935
+        ],
+        [
+          "In the 23rd annual \"Treehouse of Horror\" episode of The Simpsons, Bart travels to 1974 to buy a comic book at cover price but inadvertently disrupts Homer and Marge's courtship (SUN 10/7 at 8/7c). Timeline Photos.",
+          1349469036
+        ],
+        [
+          "For reaction to Wednesday\u2019s debate, we take you to Springfield Republican and Democratic Party Headquarters\u2026. THE SIMPSONS - Debate Reaction. Don't miss an all-new episode of THE SIMPSONS on SUN at 8/7c, on FOX! Facebook: http://www.facebook.com/thesimpsons .",
+          1349457178
+        ],
+        [
+          "This year's SIMPSONS Halloween episode is on the scariest day of the year... Sunday, October 7! THE SIMPSONS - Promo for \"Treehouse of Horror XXIII\" airing SUN 10/7 Don't miss an all-new episode of THE SIMPSONS on SUN at 8/7c, on FOX! ",
+          1349289476
+        ],
+        [
+          "Bart travels to New York City to reconnect with his long-lost love, Mary Spuckler (Zooey Deschanel), who left Springfield and her back woods family to reinvent herself in the Big Apple.\r\n\r\nThe \"Moonshine River\" season premiere episode of The Simpsons airs this Sunday at 8/7c! Timeline Photos.",
+          1348762382
+        ],
+        [
+          "The 23rd annual \"Treehouse of Horror\" episode of The Simpsons airs Sunday, Oct. 7! http://bit.ly/S7Xu2R. Timeline Photos.",
+          1348151559
+        ],
+        [
+          "The Simpsons Season 24 premieres SUN 9/30 at 8/7c! Timeline Photos.",
+          1346874455
+        ],
+        [
+          "Highlights from yesterday's Comic-Con panel for The Simpsons- THE SIMPSONS - Comic-Con 2012: Panel. Catch the season premiere of THE SIMPSONS on SUN 9/30 at 8/7c, on FOX! Facebook: http://www.facebook.com/thesimpsons Follow Homer on Twitter: http://www.twit...",
+          1342385469
+        ],
+        [
+          "Yeardley Smith arrives like a rock star to Comic-Con International and talks about the upcoming season of The Simpsons- THE SIMPSONS - Comic-Con 2012: Yeardley Smith Arrives in a Helicopter. Catch the season premiere of THE SIMPSONS on SUN 9/30 at 8/7c, on FOX! Facebook: http://www.facebook.com/thesimpsons Follow Homer on Twitter: http://www.twit...",
+          1342305245
+        ],
+        [
+          "Lisa gets celebrity advice from Lady Gaga, tonight at 8/7c. (encore) THE SIMPSONS - Preview #1 from \"Lisa Goes Gaga\" All-new episodes of THE SIMPSONS return Sundays this fall on FOX! Facebook: http://www.facebook.com/thesimpsons Follow Homer on Twitter: http://www.twitter.c...",
+          1341757898
+        ],
+        [
+          "Don't miss an encore episode of The Simpsons TONIGHT at 8/7c! THE SIMPSONS - Preview from \"Replaceable You\" All-new episodes of THE SIMPSONS return Sundays this fall on FOX! Facebook: http://www.facebook.com/thesimpsons Follow Homer on Twitter: http://www.twitter.c...",
+          1339355412
+        ],
+        [
+          "Marge, Bart and Lisa start their own food blog on an encore episode of The Simpsons, airing SUN 6/3 at 8/7c. Timeline Photos.",
+          1338562089
+        ],
+        [
+          "\"I've always been a fan of The Simpsons... It was such an incredible script. It's so funny.\" - Lady Gaga. THE SIMPSONS - Lady Gaga. Don't miss The Simpsons season finale featuring Lady Gaga!! SUN 5/20 at 8/7c on FOX! Facebook: http://www.facebook.com/thesimpsons Follow Homer on Twitter: h...",
+          1337187947
+        ],
+        [
+          "Lady Gaga guest voices as herself on The Simpsons season finale, airing SUN 5/20! Check out this new promo from the episode- THE SIMPSONS - Promo for \"Lisa Goes Gaga\" airing SUN 5/20. Don't miss The Simpsons season finale on SUN 5/20 at 8/7c, on FOX! Facebook: http://www.facebook.com/thesimpsons Follow Homer on Twitter: http://www.twitter....",
+          1336573869
+        ],
+        [
+          "Bart finally devises a way to get Nelson to stop stealing his lunch money in an all-new episode of The Simpsons, airing SUN 5/6 at 8/7c. Timeline Photos.",
+          1336055908
+        ],
+        [
+          "Did you catch famed animator Bill Plympton's couch gag from the \"Beware My Cheating Bart\" episode of The Simpsons? Re-watch it now!  THE SIMPSONS - Bill Plympton Couch Gag from \"Beware My Cheating Bart\" Don't miss an all-new episode of The Simpsons on SUN at 8/7c, on FOX! Facebook: http://www.facebook.com/thesimpsons Follow Homer on Twitter: http://www.twitt...",
+          1334542859
+        ],
+        [
+          "Click below for a preview of Bill Plympton's special couch gag, and be sure to watch the short in its entirety during tomorrow's all-new episode of The Simpsons at 8/7c. THE SIMPSONS - Teaser for Bill Plympton Couch Gag from \"Beware My Cheating Bart\" Don't miss an all-new episode of The Simpsons on SUN at 8/7c, on FOX! Facebook: http://www.facebook.com/thesimpsons Follow Homer on Twitter: http://www.twitt...",
+          1334431118
+        ],
+        [
+          "Mark your calendars: An encore presentation of The Simpsons momentous 500th episode will air on Sunday, April 22! FOX.",
+          1334157130
+        ],
+        [
+          "Time Capsule: Homer\u2019s version of The Simpsons theme song.  The Simpsons - Homer Scream Mash-up. All-new episodes of THE SIMPSONS air Sundays at 8/7c! Homer on Twitter! http://bit.ly/Homer_Twitter.",
+          1332538008
+        ],
+        [
+          "The Springfield Power Plant\u2019s robot employees (guest voice Brent Spiner) turn on Mr. Burns and Homer in the all-new \u201cThem, Robot\u201d episode of The Simpsons airing Sunday, March 18. Timeline Photos.",
+          1331761594
+        ],
+        [
+          "The Simpsons spoofs \"Inception\" this Sunday. Don't miss it at 8/7c! THE SIMPSONS - Blockbuster Sunday (3/11) Trailer. Don't miss THE SIMPSONS 500th Episode this Sunday at 8/7c, on FOX! Facebook: http://www.facebook.com/thesimpsons Follow Homer on Twitter: http://www.twitter....",
+          1331321644
+        ],
+        [
+          "Street artists Robbie Conal, Ron English, Shepard Fairey and Kenny Scharf guest-voice as themselves on an all-new episode of THE SIMPSONS, airing SUN 3/4. Timeline Photos.",
+          1330622979
+        ],
+        [
+          "To honor The Simpsons reaching its landmark 500th episode, a bust of Homer Simpson was created for the 20th Century Fox lot in Los Angeles and unveiled on Feb. 16. See how the sculpture was made-  THE SIMPSONS - Homer Sculpture. Don't miss THE SIMPSONS 500th Episode this Sunday at 8/7c, on FOX! Facebook: http://www.facebook.com/thesimpsons Follow Homer on Twitter: http://www.twitter....",
+          1330537144
+        ],
+        [
+          "Catch an encore of The Simpsons \"Treehouse of Horror XXII\", Tomorrow at 8/7c! THE SIMPSONS - Bart as Avatar: Preview from \"Treehouse of Horror XXII\" Don't miss an all-new episodes of THE SIMPSONS SUN 3/4 at 8/7c! Facebook: http://www.facebook.com/thesimpsons Follow Homer on Twitter:...",
+          1330207251
+        ],
+        [
+          "The Simpsons 500th episode airs TOMORROW at 8/7c! In the words of Simpsons episode 345 guest, Huell Howser: \"That's amazing!\" THE SIMPSONS - Preview #2 from \"At Long Last Leave\" airing SUN 2/19. Don't miss THE SIMPSONS 500th Episode this Sunday at 8/7c, on FOX! Facebook: http://www.facebook.com/thesimpsons Follow Homer on Twitter:...",
+          1329589841
+        ],
+        [
+          "Take a look at some footage from #thesimpsons 500th Episode Premiere Party that took place on Feb. 13 in Hollywood, CA. THE SIMPSONS - 500th Episode Premiere Party. Don't miss THE SIMPSONS 500th Episode this Sunday at 8/7c, on FOX! Facebook: http://www.facebook.com/thesimpsons Follow Homer on Twitter:...",
+          1329516066
+        ],
+        [
+          "In the series\u2019 milestone 500th episode, The Simpsons are evicted from Springfield and join an off-the-grid community outside of town - Sunday at 8/7c! THE SIMPSONS - Preview #1 from \"At Long Last Leave\" airing SUN 2/19. Don't miss THE SIMPSONS 500th Episode this Sunday at 8/7c, on FOX! Facebook: http://www.facebook.com/thesimpsons Follow Homer on Twitter:...",
+          1329495152
+        ],
+        [
+          "Alison Krauss & Union Station are featured on a special theme song for The Simpsons 500th episode, and they're giving you the chance to hear it before the monumental episode airs this Sunday. Click below to listen-  Alison Krauss & Union Station commemorate The Simpsons 500th Episode with a song. \"The Simpsons\" 500th episode is coming up on Sunday, February 19th and Alison Krauss and Union Station are featured on a special theme song for the historic show.",
+          1329411206
+        ],
+        [
+          "Take a look at this photo from the milestone 500th episode of THE SIMPSONS, airing Sunday, Feb. 19. Timeline Photos.",
+          1329254071
+        ],
+        [
+          "Jeremy Irons guest-voices as Moe's faithful Bar Rag in the all-new \"Moe Goes from Rags to Riches\" episode of THE SIMPSONS airing Sunday, Jan. 29 at 8/7c. Timeline Photos.",
+          1327345986
+        ],
+        [
+          "Armie Hammer guest voices as twin oarsmen in the all-new \"The D'oh-cial Network\" episode of THE SIMPSONS airing SUN 1/15 at 8/7c. Timeline Photos.",
+          1326404267
+        ]
+      ],
+      "dates_start": 1322867732,
+      "dates_end": 1408605103,
+      "likes_avg": 26525,
+      "likes_stdev": 28181,
+      "comments_avg": 672,
+      "comments_stdev": 573,
+      "shares_avg": 1929,
+      "shares_stdev": 2749
+    },
+    {
+      "number": 11,
+      "important": [
+        "tomorrow",
+        "photo",
+        "simpson",
+        "springfield",
+        "bart look",
+        "homer",
+        "lisa",
+        "plant",
+        "look"
+      ],
+      "summary": "Lisa institutes a new honor code at Springfield Elementary to save the school from an embarrassing scandal, Tomorrow at 8/7c.\nIn a nod to the hit cable series Homeland, Lisa suspects Homer may have been \u201cturned\u201d when he returns a changed man from a nuclear power plant operating convention.\nHomer brings the family to a top-secret retreat run by the \"Springfield Preppers\" who are preparing for the end of the world - Tomorrow at 8/7c.",
       "common": [
         "allnew",
         "bart",
@@ -3188,15 +3204,18 @@
       "shares_stdev": 1331
     },
     {
-      "number": 13,
+      "number": 12,
       "important": [
-        "day",
+        "fox",
+        "simpson",
+        "couch gag anim",
+        "anim",
         "springfield",
-        "couch gag",
-        "couch",
-        "gag"
+        "writer",
+        "tonight",
+        "episod"
       ],
-      "summary": "| The Simpsons | Animation on Fox. New Look from \"The Day The Earth Stood Cool\" | The Simpsons | Animation on FOX. Fitting In from \"The Day The Earth Stood Cool\" | The Simpsons | Animation on FOX. Indie Rock On from \"The Day The Earth Stood Cool\" | The Simpsons | Animation on FOX. The Secret Life of Lisa | The Simpsons | Animation on Fox.",
+      "summary": "Re-watch the couch gag that gave The Simpsons an Annie Awards nomination for \"Best Animated Short.\" THE SIMPSONS - Bill Plympton Couch Gag from \"Beware My Cheating Bart\" Don't miss all-new episode of THE SIMPSONS, Sundays at 8/7c, on FOX!\nThe Secret Life of Lisa | The Simpsons | Animation on Fox. Don't miss an all-new episode of The Simpsons, Sundays at 8/7c, on FOX!",
       "common": [
         "anni",
         "anni award",
@@ -3309,15 +3328,18 @@
       "shares_stdev": 3064
     },
     {
-      "number": 14,
+      "number": 13,
       "important": [
-        "timelin photo",
-        "choic",
-        "timelin",
+        "award",
         "photo",
-        "choic award"
+        "anim",
+        "categori",
+        "simpson",
+        "congratul",
+        "televis",
+        "emmi"
       ],
-      "summary": "Congrats to The Simpsons for its FOX Teen Choice Awards win in the \"Choice TV: Animated Show\" category! Congrats to The Simpsons for winning a Teen Choice award in the \"Choice TV: Animated Show\" category. The Simpsons has been nominated for a Teen Choice Award in the \"Choice Animated TV\" category! The Simpsons is up for Choice TV: Animated Show in the 2014 FOX Teen Choice Awards! The People's Choice award for Favorite Animated TV Show goes to...The Simpsons!",
+      "summary": "Cast your vote HERE- People's Choice Awards: Fan Favorites in Movies, Music & TV - PeoplesChoice.com.\nCast your vote HERE- People's Choice Awards: Fan Favorites in Movies, Music & TV - PeoplesChoice.com.\nThe Simpsons have been nominated for a Critics' Choice Television Award in the \"Best Animated Series\" category.\nCongrats to The Simpsons for its FOX Teen Choice Awards win in the \"Choice TV: Animated Show\" category!",
       "common": [
         "anim",
         "choic",
@@ -3498,104 +3520,19 @@
       "shares_stdev": 2232
     },
     {
-      "number": 15,
+      "number": 14,
       "important": [
-        "bluray",
-        "simpson",
-        "timelin photo",
-        "timelin",
-        "photo"
-      ],
-      "summary": "Explore more of Sideshow Bob on the Season 17 Blu-ray & DVD! Explore more of Sideshow Bob and his many travails on the Season 17 Blu-ray and DVD! Sideshow Bob! The Simpsons Season 17 available on Blu-ray and DVD now! The Simpsons Season 17 - Available on Blu-ray & DVD now.",
-      "common": [
-        "avail",
-        "bluray",
-        "bluray dvd",
-        "dvd",
-        "fox",
         "photo",
-        "season",
-        "simpson",
-        "timelin",
-        "timelin photo"
-      ],
-      "messages": [
-        [
-          "Sideshow Bob has got his \ud83d\udc40 on Bart. \ud83d\ude31. Timeline Photos.",
-          1488390100
-        ],
-        [
-          "Sideshow Bob kills Bart over and over...Tune in this Sunday for the Treehouse of Horror!",
-          1445622403
-        ],
-        [
-          "Which of these are known aliases for Sideshow Bob?\n\u261e Robert Terwilliger\n\u261e Walt Warren\n\u261e Wes Doobner\n\u261e All of the Above. Timeline Photos.",
-          1434283216
-        ],
-        [
-          "News from today's ATX Television Festival! Read on for the scoop- The Simpsons: Sideshow Bob to finally kill Bart this fall. After 25 years, Sideshow Bob will finally get his wish. ...",
-          1433633183
-        ],
-        [
-          "No one is safe when Sideshow Bob is on the loose! Timeline Photos.",
-          1427817222
-        ],
-        [
-          "It's none other than Sideshow Bob! The Simpsons Season 17 available on Blu-ray and DVD now! The Simpsons Season 17 - Available on Blu-ray & DVD now. Laughter is the best revenge! Explore more of Sideshow Bob on the Season 17 Blu-ray & DVD! Available now at http://amzn.to/1vXRCjP.",
-          1417564792
-        ],
-        [
-          "Revenge is a dish best served...\"family style!\"  Explore more of Sideshow Bob's diabolical adventures with these Special Features on the Season 17 Blu-ray & DVD, out 12/2! http://fox.tv/1vTkZ8l. Timeline Photos.",
-          1414072207
-        ],
-        [
-          "Laughter is the best revenge! Explore more of Sideshow Bob and his many travails on the Season 17 Blu-ray and DVD! Pre-order now at http://fox.tv/1t6xopD. Timeline Photos.",
-          1413844807
-        ],
-        [
-          "Sideshow Mel has a bone to pick with you. Timeline Photos.",
-          1412259903
-        ],
-        [
-          "Sideshow Bob paid Krusty a visit on Sunday's premiere, but do you remember which Simpsons episode was Sideshow Bob's first appearance?\n\nA. \"Krusty Gets Busted\"\nB. \"Brother from Another Series\"\nC. \"The Bob Next Door\" Timeline Photos.",
-          1412176321
-        ],
-        [
-          "Sideshow Bob, for when there are no filters. Getting On Sideshow Bob's Last Nerve | THE SIMPSONS | ANIMATION on FOX. Sideshow Bob could be tipped into a murderous rage by the slightest provocation. Subscribe now for more The Simpsons clips: http://fox.tv/SubscribeAnimationD...",
-          1406047500
-        ],
-        [
-          "Ahhh! Sideshow Bob!\n\nBob's Back. Sunday at 8/7c on FOX. THE SIMPSONS - Bob's Back | SUN at 8/7c on FOX.",
-          1394229541
-        ],
-        [
-          "Fun Fact: \"The Telltale Head\" (season 1) is the first episode of The Simpsons in which Sideshow Bob, Reverend Lovejoy, Jimbo, Kearney, Dolph, Ms. Albright and Apu appear. Timeline Photos.",
-          1370450213
-        ],
-        [
-          "Kelsey Grammer reveals his favorite Sideshow Bob line from The Simpsons. Kelsey Grammer On Playing Sideshow Bob On \"The Simpsons\" Kelsey explains how the homicidal maniac also ended up a songster.",
-          1347467328
-        ]
-      ],
-      "dates_start": 1383619532,
-      "dates_end": 1447503143,
-      "likes_avg": 25395,
-      "likes_stdev": 19234,
-      "comments_avg": 614,
-      "comments_stdev": 745,
-      "shares_avg": 1319,
-      "shares_stdev": 2068
-    },
-    {
-      "number": 16,
-      "important": [
-        "simpson tonight",
-        "episod simpson tonight",
-        "simpson tonight timelin",
+        "tonight",
+        "new episod",
+        "homer",
         "episod",
-        "episod simpson tonight timelin"
+        "bart",
+        "watch",
+        "guest",
+        "simpson"
       ],
-      "summary": "Catch an all-new episode of The Simpsons TONIGHT at 8/7c. An all-new episode of The Simpsons is on tonight at 8/7c. Tune in to an all-new episode of The Simpsons tonight at 8/7c. Watch an all-new episode of The Simpsons TONIGHT at 8/7c! Catch an encore of The Simpsons tonight at 8/7c!",
+      "summary": "Bart makes a new friend in the first of two back-to-back encore episodes of The Simpsons - Tonight at 8/7c!\nHomer and Marge get accused of stealing in an encore episode of The Simpsons - tonight at 8/7c.\nHomer gets hooked on the super-addictive tablet game, \u201cVillageville\u201d in an encore episode of The Simpsons - Tonight at 8/7c.\nCatch a new episode of The Simpsons with guest voice Tom Waits, Tonight at 8/7c.",
       "common": [
         "encor",
         "episod",
@@ -3828,15 +3765,17 @@
       "shares_stdev": 1189
     },
     {
-      "number": 17,
+      "number": 15,
       "important": [
-        "play simpson",
-        "play simpson tap",
+        "play",
+        "photo",
         "free",
-        "tap today",
-        "play"
+        "springfield",
+        "updat",
+        "tap",
+        "today"
       ],
-      "summary": "The Simpsons: Tapped Out! The Simpsons Tapped Out. Play The Simpsons: Tapped Out this week to find out and get a new FREE building and an exclusive storyline from this Sunday\u2019s episode of The Simpsons! Play The Simpsons: Tapped Out today! Play The Simpsons: Tapped Out this week and get a new FREE character and exclusive storyline that ties into Sunday\u2019s episode of The Simpsons, 8/7c on FOX.",
+      "summary": "Play The Simpsons: Tapped Out this week and get a new FREE character and exclusive storyline that ties into Sunday\u2019s episode of The Simpsons, 8/7c on FOX.\nPlay The Simpsons: Tapped Out today before these holiday delights disappear: http://smarturl.it/TSTO_ALL_FOX_FB.\nPlay The Simpsons: Tapped Out this week and get a new FREE outfit for Grampa and exclusive storyline that ties into Sunday\u2019s episode of The Simpsons 8/7c on FOX.",
       "common": [
         "free",
         "httpsmarturlittstoallfoxfb",
@@ -4141,15 +4080,20 @@
       "shares_stdev": 1960
     },
     {
-      "number": 18,
+      "number": 16,
       "important": [
-        "taraji",
+        "episod",
+        "photo",
+        "simpson",
+        "guest",
+        "snoop",
         "sunday",
-        "allnew",
-        "allnew episod",
-        "episod timelin"
+        "crazi",
+        "rza",
+        "big",
+        "taraji"
       ],
-      "summary": "Tune in to the one-hour episode this Sunday at 8/7c! Common is headed to the studio this Sunday in our special one-hour episode! Snoop Dogg is joining us this Sunday for a special one-hour episode. First Look Poster: See how Taraji P. Henson, Snoop Dogg, Common and RZA get animated for \u201cThe Simpsons.\u201d Queen Taraji P. Henson is joining us this Sunday for a special one hour episode! Keegan-Michael Key is bringing the laughs this Sunday in our special one-hour episode!",
+      "summary": "Keegan-Michael Key is bringing the laughs this Sunday in our special one-hour episode!\nSnoop Dogg is joining us this Sunday for a special one-hour episode.\nHomer is taking on the world of hip-hop in a special one-hour episode next Sunday, January 15!\n'The Simpsons' mixes 'Empire,' 'Gatsby' in hour-long episode with Taraji, Snoop Dogg, RZA.\nMarge returns Bar Rag (guest voice Jeremy Irons) to a thankful Moe in this Sunday's brand new SIMPSONS episode.",
       "common": [
         "allnew",
         "allnew episod",
@@ -4326,349 +4270,20 @@
       "shares_stdev": 3316
     },
     {
-      "number": 19,
+      "number": 17,
       "important": [
-        "produc",
-        "execut",
-        "execut produc al",
         "photo",
-        "produc al"
-      ],
-      "summary": "Al Jean (The Simpsons Exec. The Simpsons exec. Statement from executive producer Al Jean, on behalf of The Simpsons:\n\nI was tremendously saddened to learn this morning of the passing of the brilliant and gracious Marcia Wallace. World-renowned writers of The Simpsons and Futurama, Al Jean and David X. Cohen, join author Simon Singh to discuss the serious mathematics hidden within the... Watch Al Jean explain the origin of The Simpsons' \"secret math agenda.\" Executive producer Al Jean on The Simpsons next big-screen appearance: \u201cWe just wanted to do this as a way of saying, \u2018We appreciate how much people have stayed with the show and watched it for 25 years.\u201d \u2018The Simpsons\u2019: Exclusive details on the next (short) big-screen adventure | EW.com.",
-      "common": [
-        "exec",
-        "exec produc",
-        "execut",
-        "execut produc",
-        "execut produc al",
-        "execut produc al jean",
-        "photo",
-        "produc",
-        "produc al",
-        "produc al jean"
-      ],
-      "messages": [
-        [
-          "Imagine what a Krusty the Clown reality show would be like! \ud83d\ude31. How 'The Critic' Went From Near 'Simpsons' Spinoff To Critical Darling. Al Jean and Mike Reiss take us through the bumpy origins, all-too-brief existence, and ultimate legacy of 'The Critic'",
-          1480458284
-        ],
-        [
-          "The Simpsons updates its 2000 prediction of a Trump Presidency...",
-          1479082903
-        ],
-        [
-          "Al Jean gives us the scoop on the Simpsons' trip to Cuba, and predicting Trump's presidency. \u2018The Simpsons\u2019 Boss Al Jean on Predicting Trump Presidency and New Cuba Episode (EXCLUSIVE) These days it\u2019s much easier for travelers to visit Cuba, so it was only a matter of time before The Simpsons headed 90 miles south of Miami. On this trip, although the focus will be on Grandp\u2026.",
-          1478912029
-        ],
-        [
-          "Check out what Al Jean shared with Entertainment Weekly! Comic-Con: 'Simpsons' producer on how show will mock Trump. The Simpsons \u2014 you know, that little animated comedy that kinda-sorta predicted a Trump presidency many years ago \u2014 had its fun last summer with...",
-          1469548801
-        ],
-        [
-          "SXSW panel today! Al Jean, David Silverman and more- Family Values Through Television Animation, 12:30-1:30 PM, Four Seasons Hotel \u2013 Ballroom CD. Timeline Photos.",
-          1457966310
-        ],
-        [
-          "How did The X-Files and The Simpsons come together? The truth is out there... When Mulder and Scully Went to Springfield: An Oral History of the \u2018Simpsons\u2019-\u2019X-Files\u2019 Crossover. \u201cSimpsons\u201d executive producer Al Jean, producer Mike Reiss, animator and consulting producer David Silverman, writer Reid Harrison, and \u201cX-Files\u201d creator Chris Carter look back at \u201cThe Springfield Files.\u201d",
-          1453401461
-        ],
-        [
-          "This just in: Homer Simpson will vote in the 2016 election. 'Simpsons' EP Al Jean on the 27th Season. Executive Producer Al Jean sat down with Variety to discuss what goals are possibly left.",
-          1433955312
-        ],
-        [
-          "When in doubt: fax NASA. Al Jean reveals a few secrets about The Simpsons, take a look- The Simpsons, Futurama and the Maths behind the Comedy. World-renowned writers of The Simpsons and Futurama, Al Jean and David X. Cohen, join author Simon Singh to discuss the serious mathematics hidden within the...",
-          1412889312
-        ],
-        [
-          "Watch Al Jean explain the origin of The Simpsons' \"secret math agenda.\" How Mathematics Inspired the Writers of The Simpsons and Futurama - YouTube. World-renowned writers of The Simpsons and Futurama, Al Jean and David X. Cohen, join author Simon Singh at the Science Museum to explain how their backgroun...",
-          1412788211
-        ],
-        [
-          "How does a show sustain its creative life for 25 years? Al Jean explores The Simpsons' keys to longevity with The Wall Street Journal: http://fox.tv/1vk2YhV.",
-          1411677606
-        ],
-        [
-          "Celebrate the 25th anniversary of The Simpsons \u2013 no gifts please \u2013 with creator Matt Groening, executive producer Al Jean, supervising director Mike Anderson and director-for-life David Silverman.\n\nDetails: http://fox.tv/1y4VqAz. Timeline Photos.",
-          1405114307
-        ],
-        [
-          "Al Jean (The Simpsons Exec. Producer) will be tweeting throughout tonight's Season Finale! Follow him here: https://twitter.com/AlJean. Timeline Photos.",
-          1400422500
-        ],
-        [
-          "The Simpsons EP Al Jean (@AlJean) will be tweeting along with you tonight at 8/7c!",
-          1398626100
-        ],
-        [
-          "Al Jean won a 2013 Teen Choice Award, and FOX was there to capture the historic event! THE SIMPSONS - Al Jean's 2013 Teen Choice Award.",
-          1393634580
-        ],
-        [
-          "\"[W]e wanted to do a tribute to two terrific people, Marcia and Don.\" - Al Jean (Exec. Producer, The Simpsons) The Heartwarming Simpsons Tribute You Missed. Did you catch the tribute to The Simpsons\ufeff' beloved voice actress Marcia Wallace and writer Don Payne?",
-          1387292401
-        ],
-        [
-          "Statement from executive producer Al Jean, on behalf of The Simpsons:\n\nI was tremendously saddened to learn this morning of the passing of the brilliant and gracious Marcia Wallace. She was beloved by all at \"The Simpsons\" and we intend to retire her irreplaceable character.\n\nEarlier we had discussed a potential storyline in which a character passed away. This was not Marcia's Edna Krabappel. Marcia's passing is unrelated and again, a terrible loss for all who had the pleasure of knowing her.",
-          1382806713
-        ],
-        [
-          "\"[We are] working on a script where a character will pass away.\" - Al Jean (Exec. Producer, The Simpsons)\n\nWho could it be?! Post your guess in the comments below... 'The Simpsons' to Kill Off Character. The Grim Reaper is headed back to Fox's The Simpsons. ",
-          1380647888
-        ],
-        [
-          "Al Jean chats with Gold Derby editor Daniel Montgomery. Al Jean Q&A: 'The Simpsons' 8-time Emmy winner Al Jean talks with Gold Derby editor Daniel Montgomery about a quarter-century of \"The Simpsons.\"",
-          1375882201
-        ],
-        [
-          "Al Jean (exec. producer, The Simpsons) is LIVE chatting with Gold Derby TODAY at 1pm PST / 4pm EST. Join in with your questions and comments on www.goldderby.com. #thesimpsons. Timeline Photos.",
-          1375810201
-        ],
-        [
-          "Going to #SDCC? Don't miss The Simpsons panel with creator Matt Groening, executive producer Al Jean, supervising director Mike Anderson and consulting producer David Silverman. The Simpsons San Diego Comic-Con Panel 2013. Celebrating its 25th season this fall, THE SIMPSONS continues to be the gold standard of animated comedy.\n\nPanel Guests:\n+ Creator Matt Groening\n+ Executive Producer Al Jean\n+ Supervising Director Mike Anderson\n+ Consulting Producer David Silverman\n\nExtras:\n+ Never-before-seen footage from guest director Guillermo del Toro and musical guests, \u201cWe Put The Spring In Springfield!\u201d\n\n*Scheduled events and guests are subject to change\n\nCan't make it to Comic-Con? That's OK! There will be LIVE updates, photos and videos from panels, press opportunities, and additional live events and parties that will be viewable from the FOX show pages.",
-          1373578152
-        ],
-        [
-          "\"I was very saddened to learn of the passing of Roger Ebert.\" - Al Jean (Exec. Producer, The Simpsons)\n\nRead more from his interview with Vulture: http://fox.tv/14JU4PH.",
-          1365192002
-        ],
-        [
-          "\u201cJeff Gordon makes a brief celebrity cameo [on SUN 10/21] to make fun of our penchant for brief celebrity cameos.\u201d - Al Jean (The Simpsons exec. producer) \u2018The Simpsons\u2019: Check out Jeff Gordon\u2019s drive-by in next week\u2019s episode \u2014 PHOTO | EW.com. Who is the next famous person to make a pit stop in Springfield? Why, it\u2019s NASCAR superstar Jeff Gordon, who plays himself in the Oct....",
-          1349999472
-        ],
-        [
-          "Re-watch \"Treehouse of Horror\" while you playback audio commentary from guest voice Jon Lovitz, exec. producers Matt Groening, Jim Brooks, Al Jean and the show's writers and director. \n\nDownload The Simpsons Halloween podcast now: www.TheSimpsons.com. Timeline Photos.",
-          1349716710
-        ],
-        [
-          "\"I never stop thinking about The Simpsons. I don't feel any relief till we've cracked all the stories for the year, then we're right back at it again.\" - Al Jean (Exec. Producer & Showrunner)\n\nRead more of Al's interview with The Hollywood Reporter: http://bit.ly/O5p3xQ. Timeline Photos.",
-          1349276642
-        ],
-        [
-          "The Simpsons exec. producer Al Jean dishes on the upcoming season's guest-stars and big storylines. Simpsons Boss on Carell\u2019s Violent Tendencies, Cumberbatch\u2019s Eagerness and \u2018Bart\u2019s Annie Hall\u2019. The Simpsons will come down with a case of Bieber fever in its upcoming Season 24, but executive producer Al Jean says it won\u2019t be a lingering illness.",
-          1347376349
-        ],
-        [
-          "\u201cWe didn\u2019t predict this but we guarantee the world will end Dec. 21.\u201d - Al Jean (exec. producer - The Simpsons) D'Oh! Eastwood's Convention Speech Spawns Fake 'Simpsons' Meme. A humorous image, made to look like it came from an episode of \"The Simpsons,\" overstates the predictive power of that satirical Fox cartoon series.",
-          1346441265
-        ],
-        [
-          "Executive producer Al Jean on The Simpsons next big-screen appearance: \u201cWe just wanted to do this as a way of saying, \u2018We appreciate how much people have stayed with the show and watched it for 25 years.\u201d \u2018The Simpsons\u2019: Exclusive details on the next (short) big-screen adventure | EW.com. Simpsons fans who have been awaiting the show\u2019s return to the big screen, you may now let out a short, silent \u201cWoo Hoo!\u201d: A four-and-a-half-minute dialogue-free...",
-          1337713577
-        ],
-        [
-          "Al Jean (Exec. Producer) shares his favorite SIMPSONS scene, dream guest-stars and more. Today\u2019s TV Addict Top 5: Questions with THE SIMPSONS EP Al Jean | the TV addict. After twenty plus years on the air and 499 episodes and counting, tonight marks a momentous milestone in the illustrious history of THE SIMPSONS: 500.",
-          1330023316
-        ]
-      ],
-      "dates_start": 1352554164,
-      "dates_end": 1443176878,
-      "likes_avg": 15005,
-      "likes_stdev": 16943,
-      "comments_avg": 676,
-      "comments_stdev": 1395,
-      "shares_avg": 1121,
-      "shares_stdev": 2242
-    },
-    {
-      "number": 20,
-      "important": [
-        "right",
-        "simpson",
-        "simpson timelin",
+        "guest",
+        "sunday",
         "episod",
-        "right timelin"
-      ],
-      "summary": "It's time- tune in to FOX and watch a new episode of The Simpsons right now, West Coast! West Coast- find out what Bart is up to right now on The Simpsons! East Coast: The Simpsons is on right now! The Simpsons is on right now! Hey, West Coast: The Simpsons starts now!",
-      "common": [
-        "allnew",
-        "episod",
-        "right",
-        "right timelin",
-        "right timelin photo",
+        "new episod",
+        "homer",
         "simpson",
-        "simpson start",
-        "simpson timelin",
-        "simpson timelin photo",
-        "start"
+        "watch",
+        "marg",
+        "take"
       ],
-      "messages": [
-        [
-          "West Coast, give Homer a call now! fox.tv/HomerLive. Timeline Photos.",
-          1463360706
-        ],
-        [
-          "It's time- tune in to FOX and watch a new episode of The Simpsons right now, West Coast! Timeline Photos.",
-          1462755610
-        ],
-        [
-          "West Coast, why does Bart look so distraught? Find out right now on The Simpsons! Timeline Photos.",
-          1460336407
-        ],
-        [
-          "West Coast, don't miss out on Hettie's performance right now on The Simpsons! Timeline Photos.",
-          1456110006
-        ],
-        [
-          "Apu is not happy with some changes, West Coast. Tune in now to The Simpsons! Timeline Photos.",
-          1453086010
-        ],
-        [
-          "Doh! Still need a gift for someone? Get FOX gift cards right here: http://fox.tv/1UujhEK. Timeline Photos.",
-          1450191608
-        ],
-        [
-          "West Coast- learn about Bart's boyhood RIGHT NOW on The Simpsons! Timeline Photos.",
-          1450062006
-        ],
-        [
-          "West Coast- grab some dinner, gather around the TV, and watch The Paley Center for Media Special on FOX right now! Timeline Photos.",
-          1449543608
-        ],
-        [
-          "West Coast- find out what Bart is up to right now on The Simpsons! Timeline Photos.",
-          1449457209
-        ],
-        [
-          "West Coast- Santa's Little Helper is begging you to watch an all-new episode of The Simpsons, right now! Timeline Photos.",
-          1447038009
-        ],
-        [
-          "The all-new Treehouse of Horror begins right now, West Coast! Timeline Photos.",
-          1445824805
-        ],
-        [
-          "West Coast- who is this man with Marge?! Find out right now on THE SIMPSONS! Timeline Photos.",
-          1443402006
-        ],
-        [
-          "Homer is about to get a taste of his own medicine, West Coast. An all-new episode of #thesimpsons is on now! Timeline Photos.",
-          1431306033
-        ],
-        [
-          "Get ready for some family bonding, West Coast! The Simpsons is on right now! Timeline Photos.",
-          1430701214
-        ],
-        [
-          "Marge is NOT a happy camper. You'll find out why soon because The Simpsons starts now, West Coast! Timeline Photos.",
-          1429491607
-        ],
-        [
-          "We hope you're ready, West Coast! Cat Deeley of So You Think You Can Dance and Stacy Keach guest star on an all-new episode of The Simpsons starting right now! Timeline Photos.",
-          1426471209
-        ],
-        [
-          "Gather 'round, West Coast! An all-new episode of The Simpsons begins right now! Timeline Photos.",
-          1425866409
-        ],
-        [
-          "It's your turn West Coast! Richard Branson guest stars on an all-new episode beginning right now. Timeline Photos.",
-          1425265210
-        ],
-        [
-          "West Coast: We've got some matters to discuss. Get to the power plant NOW! Timeline Photos.",
-          1424055483
-        ],
-        [
-          "West Coast: Time to get happy. Pharrell Williams is in Springfield, so get there NOW! Timeline Photos.",
-          1423450689
-        ],
-        [
-          "West Coast: Get in. Elon Musk is here and he's got big plans for Springfield! Timeline Photos.",
-          1422241086
-        ],
-        [
-          "Who's the new guy, West Coast? Find out NOW! Timeline Photos.",
-          1416193208
-        ],
-        [
-          "Good news, West Coast! Simpsorama hits your airwaves NOW! Timeline Photos.",
-          1415588409
-        ],
-        [
-          "Burns' latest affair is one you have to see to believe. Catch up on \"Opposites-A-Frack\" right here: http://fox.tv/1vD1BZf. Timeline Photos.",
-          1415125323
-        ],
-        [
-          "Get comfortable, West Coast - it's time for Treehouse of Horror XXV. Timeline Photos.",
-          1413766808
-        ],
-        [
-          "D'oh! Homer and Bart get into a bit of trouble on an all-new The Simpsons - starting right now! Timeline Photos.",
-          1398636000
-        ],
-        [
-          "Yup, you're looking at what the future holds for Bart and Nelson. See more during an all-new The Simpsons, starting right now. Timeline Photos.",
-          1397437201
-        ],
-        [
-          "Pipe down, East Coast! An all-new episode of The Simpsons starts right now! Timeline Photos.",
-          1396821636
-        ],
-        [
-          "Hurry up, East Coast! The Simpsons starts right NOW. Timeline Photos.",
-          1395615600
-        ],
-        [
-          "West Coast: Two new episodes of The Simpsons start right NOW. Timeline Photos.",
-          1394415000
-        ],
-        [
-          "East Coast: The Simpsons is on right now! Timeline Photos.",
-          1390780800
-        ],
-        [
-          "We hope you made your Kwik-E-Mart run because The Simpsons starts now, West Coast! Timeline Photos.",
-          1384747200
-        ],
-        [
-          "Hey, West Coast: The Simpsons starts now!",
-          1384138800
-        ],
-        [
-          "LIKE this if you're watching The Simpsons, West Coast! Timeline Photos.",
-          1380502801
-        ],
-        [
-          "Hey West Coast: Are you watching The Simpsons right now? Timeline Photos.",
-          1360551601
-        ],
-        [
-          "Hey West Coast: Be sure to tune in to a brand new SIMPSONS at 8pm. Timeline Photos.",
-          1353293401
-        ],
-        [
-          "Hey West Coast: Who's watching The Simpsons right now? Timeline Photos.",
-          1352689202
-        ],
-        [
-          "West Coast: Tune in for a hell-arious \"Treehouse of Horror\" now! Timeline Photos.",
-          1349658001
-        ],
-        [
-          "Alright West Coast, it's your turn to watch The Simpsons premiere! Tune-in NOW! Timeline Photos.",
-          1349053252
-        ]
-      ],
-      "dates_start": 1382541370,
-      "dates_end": 1449203818,
-      "likes_avg": 29250,
-      "likes_stdev": 26938,
-      "comments_avg": 373,
-      "comments_stdev": 560,
-      "shares_avg": 1058,
-      "shares_stdev": 2530
-    },
-    {
-      "number": 21,
-      "important": [
-        "episod simpson",
-        "simpson",
-        "episod",
-        "simpson sunday timelin",
-        "homer"
-      ],
-      "summary": "Homer gets cloned in an all-new episode of The Simpsons, this Sunday at 8/7c! Homer starts embracing the \"old person lifestyle\" in an all-new episode of The Simpsons - Sunday at 8/7c. Find out this Sunday at 8/7c. Lena Dunham guest stars on the Season Premiere of The Simpsons this Sunday at 8/7c! Yarr... Homer and Bart get a little bit of \"Relation Ship\" therapy on The Simpsons THIS Sunday at 8/7c.",
+      "summary": "Homer gets cloned in an all-new episode of The Simpsons, this Sunday at 8/7c!\nHomer starts embracing the \"old person lifestyle\" in an all-new episode of The Simpsons - Sunday at 8/7c.\nHomer is asked to select the next Republican nominee for President and officially endorses right-wing rock star Ted Nugent in an all-new episode of The Simpsons, Sunday at 8/7c.",
       "common": [
         "episod",
         "episod simpson",
@@ -4825,15 +4440,334 @@
       "shares_stdev": 1158
     },
     {
-      "number": 22,
+      "number": 18,
       "important": [
-        "timelin photo",
+        "photo",
+        "west",
+        "coast",
+        "simpsons right",
+        "news",
+        "homer",
+        "east",
+        "fox"
+      ],
+      "summary": "It's time- tune in to FOX and watch a new episode of The Simpsons right now, West Coast!\nWest Coast- Santa's Little Helper is begging you to watch an all-new episode of The Simpsons, right now!\nWest Coast: Two new episodes of The Simpsons start right NOW.\nWest Coast: Two new episodes of The Simpsons start right NOW.\nEast Coast: An all-new episode of The Simpsons starts now!",
+      "common": [
+        "episod",
+        "episod simpson",
+        "episod simpson start",
+        "right",
+        "simpson start",
+        "start",
+        "start timelin",
+        "start timelin photo",
+        "west",
+        "west coast"
+      ],
+      "messages": [
+        [
+          "West Coast, give Homer a call now! fox.tv/HomerLive. Timeline Photos.",
+          1463360706
+        ],
+        [
+          "It's time- tune in to FOX and watch a new episode of The Simpsons right now, West Coast! Timeline Photos.",
+          1462755610
+        ],
+        [
+          "West Coast, why does Bart look so distraught? Find out right now on The Simpsons! Timeline Photos.",
+          1460336407
+        ],
+        [
+          "West Coast, it's your turn! An all-new episode of The Simpsons starts right now on FOX! Timeline Photos.",
+          1457319610
+        ],
+        [
+          "West Coast, don't miss out on Hettie's performance right now on The Simpsons! Timeline Photos.",
+          1456110006
+        ],
+        [
+          "You can never have enough bacon! An all-new episode of The Simpsons starts this Sunday at 8/7c on FOX! THE SIMPSONS | Making Bacon!",
+          1455800731
+        ],
+        [
+          "Apu is not happy with some changes, West Coast. Tune in now to The Simpsons! Timeline Photos.",
+          1453086010
+        ],
+        [
+          "Doh! Still need a gift for someone? Get FOX gift cards right here: http://fox.tv/1UujhEK. Timeline Photos.",
+          1450191608
+        ],
+        [
+          "West Coast- learn about Bart's boyhood RIGHT NOW on The Simpsons! Timeline Photos.",
+          1450062006
+        ],
+        [
+          "West Coast- grab some dinner, gather around the TV, and watch The Paley Center for Media Special on FOX right now! Timeline Photos.",
+          1449543608
+        ],
+        [
+          "West Coast- find out what Bart is up to right now on The Simpsons! Timeline Photos.",
+          1449457209
+        ],
+        [
+          "Pull up a chair, West Coast. An all-new episode of The Simpsons starts now! Timeline Photos.",
+          1448247607
+        ],
+        [
+          "West Coast- Santa's Little Helper is begging you to watch an all-new episode of The Simpsons, right now! Timeline Photos.",
+          1447038009
+        ],
+        [
+          "The all-new Treehouse of Horror begins right now, West Coast! Timeline Photos.",
+          1445824805
+        ],
+        [
+          "Get ready, West Coast! An all-new Halloween episode of The Simpsons starts now! Timeline Photos.",
+          1445216407
+        ],
+        [
+          "West Coast, an all-new episode of The Simpsons starts right now. Don't miss an appearance by Alton Brown! Timeline Photos.",
+          1444006805
+        ],
+        [
+          "West Coast- who is this man with Marge?! Find out right now on THE SIMPSONS! Timeline Photos.",
+          1443402006
+        ],
+        [
+          "Homer is about to get a taste of his own medicine, West Coast. An all-new episode of #thesimpsons is on now! Timeline Photos.",
+          1431306033
+        ],
+        [
+          "Are you ready for the school dance, East Coast/Central? A new episode of The Simpsons starts now! Timeline Photos.",
+          1431295207
+        ],
+        [
+          "Get ready for some family bonding, West Coast! The Simpsons is on right now! Timeline Photos.",
+          1430701214
+        ],
+        [
+          "Let's go, East Coast/Central. Your favorite family gets a blast from the past in an all-new episode of The Simpsons starting now! Timeline Photos.",
+          1430085612
+        ],
+        [
+          "Marge is NOT a happy camper. You'll find out why soon because The Simpsons starts now, West Coast! Timeline Photos.",
+          1429491607
+        ],
+        [
+          "We hope you're ready, West Coast! Cat Deeley of So You Think You Can Dance and Stacy Keach guest star on an all-new episode of The Simpsons starting right now! Timeline Photos.",
+          1426471209
+        ],
+        [
+          "What's wrong with Duffman? You're about to find out, East Coast/Central! An all-new episode of The Simpsons starts now! Timeline Photos.",
+          1426460415
+        ],
+        [
+          "Gather 'round, West Coast! An all-new episode of The Simpsons begins right now! Timeline Photos.",
+          1425866409
+        ],
+        [
+          "Get ready for lift-off, East Coast/Central! An all-new episode of The Simpsons starts now! Timeline Photos.",
+          1425855611
+        ],
+        [
+          "It's your turn West Coast! Richard Branson guest stars on an all-new episode beginning right now. Timeline Photos.",
+          1425265210
+        ],
+        [
+          "Watch \u201cBart\u2019s New Friend\u201d and \u201cThe Wreck of the Relationship\u201d back-to-back TONIGHT starting at 7:30/6:30c. Timeline Photos.",
+          1424637009
+        ],
+        [
+          "West Coast: We've got some matters to discuss. Get to the power plant NOW! Timeline Photos.",
+          1424055483
+        ],
+        [
+          "West Coast: Time to get happy. Pharrell Williams is in Springfield, so get there NOW! Timeline Photos.",
+          1423450689
+        ],
+        [
+          "West Coast: Get in. Elon Musk is here and he's got big plans for Springfield! Timeline Photos.",
+          1422241086
+        ],
+        [
+          "We have ways of making you head to Springfield tonight...\n\nBy telling you that there are back-to-back encores of The Simpsons starting at 7:30/6:30c! Timeline Photos.",
+          1421604008
+        ],
+        [
+          "Lock yourselves down, West Coast. A new episode of The Simpsons starts now! Timeline Photos.",
+          1420426743
+        ],
+        [
+          "Don't get FOMO like Homer, West Coast! An ALL NEW Simpsons starts NOW! Timeline Photos.",
+          1418007608
+        ],
+        [
+          "It's showtime, West Coast! The Simpsons are all-new, and starting NOW! Timeline Photos.",
+          1416798008
+        ],
+        [
+          "Who's the new guy, West Coast? Find out NOW! Timeline Photos.",
+          1416193208
+        ],
+        [
+          "Good news, West Coast! Simpsorama hits your airwaves NOW! Timeline Photos.",
+          1415588409
+        ],
+        [
+          "Burns' latest affair is one you have to see to believe. Catch up on \"Opposites-A-Frack\" right here: http://fox.tv/1vD1BZf. Timeline Photos.",
+          1415125323
+        ],
+        [
+          "All rise, West Coast! The Simpsons starts now. Timeline Photos.",
+          1414983609
+        ],
+        [
+          "Get comfortable, West Coast - it's time for Treehouse of Horror XXV. Timeline Photos.",
+          1413766808
+        ],
+        [
+          "All hands on deck! An all-new episode of The Simpsons starts NOW. Timeline Photos.",
+          1412546410
+        ],
+        [
+          "Get the family together, East Coast. The Simpsons' Season Finale starts now. Timeline Photos.",
+          1400450400
+        ],
+        [
+          "East Coast: The Simpsons starts NOW! Timeline Photos.",
+          1399845600
+        ],
+        [
+          "East Coast: The 550th episode of The Simpsons starts now!\n\nFollow Matt Selman on Twitter for live commentary throughout the night: https://twitter.com/mattselman. Timeline Photos.",
+          1399240800
+        ],
+        [
+          "D'oh! Homer and Bart get into a bit of trouble on an all-new The Simpsons - starting right now! Timeline Photos.",
+          1398636000
+        ],
+        [
+          "Yup, you're looking at what the future holds for Bart and Nelson. See more during an all-new The Simpsons, starting right now. Timeline Photos.",
+          1397437201
+        ],
+        [
+          "Pipe down, East Coast! An all-new episode of The Simpsons starts right now! Timeline Photos.",
+          1396821636
+        ],
+        [
+          "Hurry up, East Coast! The Simpsons starts right NOW. Timeline Photos.",
+          1395615600
+        ],
+        [
+          "Hurry to the couch, East Coast! The Simpsons starts NOW. Timeline Photos.",
+          1395010801
+        ],
+        [
+          "West Coast: Two new episodes of The Simpsons start right NOW. Timeline Photos.",
+          1394415000
+        ],
+        [
+          "Are you ready, East Coast? Back-to-back episodes of The Simpsons start now! Timeline Photos.",
+          1394404200
+        ],
+        [
+          "East Coast: The Simpsons is on right now! Timeline Photos.",
+          1390780800
+        ],
+        [
+          "East Coast: An all-new episode of The Simpsons starts NOW. Theater Etiquette from \"Steal This Episode\" | THE SIMPSONS | ANIMATION on FOX. Homer lets the audience know how exactly how he feels after being shushed. ",
+          1388966401
+        ],
+        [
+          "West Coast: Clock out at the Power Plant! The Simpsons starts NOW. Timeline Photos.",
+          1385348400
+        ],
+        [
+          "East Coast, a new episode of The Simpsons starts NOW! Timeline Photos.",
+          1385337600
+        ],
+        [
+          "We hope you made your Kwik-E-Mart run because The Simpsons starts now, West Coast! Timeline Photos.",
+          1384747200
+        ],
+        [
+          "Hey, West Coast: The Simpsons starts now!",
+          1384138800
+        ],
+        [
+          "Welcome to Springfield! The Simpsons starts now, East Coast. Timeline Photos.",
+          1384128000
+        ],
+        [
+          "Settle in, West Coast... The Simpsons starts now! Timeline Photos.",
+          1383534000
+        ],
+        [
+          "LIKE this if you're watching The Simpsons, West Coast! Timeline Photos.",
+          1380502801
+        ],
+        [
+          "Hey West Coast: Are you watching The Simpsons right now? Timeline Photos.",
+          1360551601
+        ],
+        [
+          "East Coast: A new episode of The Simpsons starts in 5 minutes! Timeline Photos.",
+          1360540488
+        ],
+        [
+          "East Coast- A new episode of The Simpsons starts in 20 minutes. A-Maize-ing Race from \"Homer Goes to Prep School\" | The Simpsons | Animation on FOX. Homer plows through a corn field. ",
+          1357515600
+        ],
+        [
+          "Don't miss a full-hour of The Simpsons TONIGHT, starting at 8/7c! Timeline Photos.",
+          1356282840
+        ],
+        [
+          "East Coast: An all-new episode of The Simpsons starts now! Timeline Photos.",
+          1353888001
+        ],
+        [
+          "Hey West Coast: Be sure to tune in to a brand new SIMPSONS at 8pm. Timeline Photos.",
+          1353293401
+        ],
+        [
+          "East Coast Fans: A new episode of The Simpsons starts now! Who's watching? Timeline Photos.",
+          1353283201
+        ],
+        [
+          "Hey West Coast: Who's watching The Simpsons right now? Timeline Photos.",
+          1352689202
+        ],
+        [
+          "West Coast: Tune in for a hell-arious \"Treehouse of Horror\" now! Timeline Photos.",
+          1349658001
+        ],
+        [
+          "Alright West Coast, it's your turn to watch The Simpsons premiere! Tune-in NOW! Timeline Photos.",
+          1349053252
+        ]
+      ],
+      "dates_start": 1379294480,
+      "dates_end": 1443851202,
+      "likes_avg": 33220,
+      "likes_stdev": 27802,
+      "comments_avg": 384,
+      "comments_stdev": 498,
+      "shares_avg": 1011,
+      "shares_stdev": 2016
+    },
+    {
+      "number": 19,
+      "important": [
+        "burn",
         "simpson",
         "episod",
-        "timelin",
+        "real",
+        "photo",
+        "watch",
+        "jane",
         "anim"
       ],
-      "summary": "'The Simpsons\u2019: Mr. ... Mr. - Mr. Mr. Burns tell you- THE SIMPSONS | As Vibrant As Detroit Itself from \"The Musk Who Fell To Earth\" | ANIMATION on FOX.",
+      "summary": "THE SIMPSONS | Installation from \"The Burns Cage\" | ANIMATION on FOX.\nWe'll let Mr. Burns tell you- THE SIMPSONS | As Vibrant As Detroit Itself from \"The Musk Who Fell To Earth\" | ANIMATION on FOX.\nGet a sneak peek at Mr. Burns' latest love interest before Sunday's all-new episode- Jane Fonda plays Mr. Burns\u2019 secret lover on \u2018The Simpsons\u2019 | EW.com.\nMr. Burns Endorses Romney | The Simpsons | Animation on Fox. Mr.",
       "common": [
         "anim",
         "episod",
@@ -4942,15 +4876,18 @@
       "shares_stdev": 1410
     },
     {
-      "number": 23,
+      "number": 20,
       "important": [
-        "season premier simpson",
-        "timelin photo",
-        "premier simpson",
-        "timelin",
-        "photo"
+        "simpson",
+        "premier",
+        "fox",
+        "sept",
+        "photo",
+        "krusti",
+        "season",
+        "catch"
       ],
-      "summary": "Catch the season premiere of THE SIMPSONS on SUN 9/30 at 8/7c, on FOX! 27 for the Season Premiere of The Simpsons. THE SIMPSONS - Preview from \"Lisa Goes Gaga\" Catch the season premiere of THE SIMPSONS on SUN 9/30 at 8/7c, on FOX! Zooey Deschanel guest voices in the season premiere of THE SIMPSONS on SUN 9/30 at 8/7c, on FOX! Look for The Simpsons in the Series Premiere of Minority Report FOX Sept.",
+      "summary": "Look for The Simpsons in the Series Premiere of Minority Report FOX Sept.\nIn case you missed it, Homer will find Lena Dunham's character as a 'girl' of interest in the Season 27 premiere!\nZooey Deschanel guest voices in the season premiere of THE SIMPSONS on SUN 9/30 at 8/7c, on FOX!\nTHE SIMPSONS - Chiodo Brothers Claymation from \"Ned 'N Edna's Blend Agenda\" Catch the season premiere of THE SIMPSONS on SUN 9/30 at 8/7c, on FOX!",
       "common": [
         "fox",
         "photo",
@@ -5099,172 +5036,17 @@
       "shares_stdev": 1564
     },
     {
-      "number": 24,
+      "number": 21,
       "important": [
-        "episod simpson",
+        "photo",
+        "lisa",
+        "guest",
+        "right",
         "episod",
-        "allnew",
-        "simpson start timelin",
-        "episod simpson start"
+        "homer",
+        "coast"
       ],
-      "summary": "East Coast: An all-new episode of The Simpsons starts now! East Coast: An all-new episode of The Simpsons starts NOW. East Coast, a new episode of The Simpsons starts NOW! The Simpsons starts now, East Coast. East Coast: The Simpsons starts NOW!",
-      "common": [
-        "allnew",
-        "east",
-        "east coast",
-        "episod",
-        "episod simpson",
-        "episod simpson start",
-        "episod simpson start timelin",
-        "episod simpson start timelin photo",
-        "simpson start timelin",
-        "simpson start timelin photo"
-      ],
-      "messages": [
-        [
-          "West Coast, it's your turn! An all-new episode of The Simpsons starts right now on FOX! Timeline Photos.",
-          1457319610
-        ],
-        [
-          "You can never have enough bacon! An all-new episode of The Simpsons starts this Sunday at 8/7c on FOX! THE SIMPSONS | Making Bacon!",
-          1455800731
-        ],
-        [
-          "Pull up a chair, West Coast. An all-new episode of The Simpsons starts now! Timeline Photos.",
-          1448247607
-        ],
-        [
-          "Get ready, West Coast! An all-new Halloween episode of The Simpsons starts now! Timeline Photos.",
-          1445216407
-        ],
-        [
-          "West Coast, an all-new episode of The Simpsons starts right now. Don't miss an appearance by Alton Brown! Timeline Photos.",
-          1444006805
-        ],
-        [
-          "Are you ready for the school dance, East Coast/Central? A new episode of The Simpsons starts now! Timeline Photos.",
-          1431295207
-        ],
-        [
-          "Let's go, East Coast/Central. Your favorite family gets a blast from the past in an all-new episode of The Simpsons starting now! Timeline Photos.",
-          1430085612
-        ],
-        [
-          "What's wrong with Duffman? You're about to find out, East Coast/Central! An all-new episode of The Simpsons starts now! Timeline Photos.",
-          1426460415
-        ],
-        [
-          "Get ready for lift-off, East Coast/Central! An all-new episode of The Simpsons starts now! Timeline Photos.",
-          1425855611
-        ],
-        [
-          "Watch \u201cBart\u2019s New Friend\u201d and \u201cThe Wreck of the Relationship\u201d back-to-back TONIGHT starting at 7:30/6:30c. Timeline Photos.",
-          1424637009
-        ],
-        [
-          "We have ways of making you head to Springfield tonight...\n\nBy telling you that there are back-to-back encores of The Simpsons starting at 7:30/6:30c! Timeline Photos.",
-          1421604008
-        ],
-        [
-          "Lock yourselves down, West Coast. A new episode of The Simpsons starts now! Timeline Photos.",
-          1420426743
-        ],
-        [
-          "Don't get FOMO like Homer, West Coast! An ALL NEW Simpsons starts NOW! Timeline Photos.",
-          1418007608
-        ],
-        [
-          "It's showtime, West Coast! The Simpsons are all-new, and starting NOW! Timeline Photos.",
-          1416798008
-        ],
-        [
-          "All rise, West Coast! The Simpsons starts now. Timeline Photos.",
-          1414983609
-        ],
-        [
-          "All hands on deck! An all-new episode of The Simpsons starts NOW. Timeline Photos.",
-          1412546410
-        ],
-        [
-          "Get the family together, East Coast. The Simpsons' Season Finale starts now. Timeline Photos.",
-          1400450400
-        ],
-        [
-          "East Coast: The Simpsons starts NOW! Timeline Photos.",
-          1399845600
-        ],
-        [
-          "East Coast: The 550th episode of The Simpsons starts now!\n\nFollow Matt Selman on Twitter for live commentary throughout the night: https://twitter.com/mattselman. Timeline Photos.",
-          1399240800
-        ],
-        [
-          "Hurry to the couch, East Coast! The Simpsons starts NOW. Timeline Photos.",
-          1395010801
-        ],
-        [
-          "Are you ready, East Coast? Back-to-back episodes of The Simpsons start now! Timeline Photos.",
-          1394404200
-        ],
-        [
-          "East Coast: An all-new episode of The Simpsons starts NOW. Theater Etiquette from \"Steal This Episode\" | THE SIMPSONS | ANIMATION on FOX. Homer lets the audience know how exactly how he feels after being shushed. ",
-          1388966401
-        ],
-        [
-          "West Coast: Clock out at the Power Plant! The Simpsons starts NOW. Timeline Photos.",
-          1385348400
-        ],
-        [
-          "East Coast, a new episode of The Simpsons starts NOW! Timeline Photos.",
-          1385337600
-        ],
-        [
-          "Welcome to Springfield! The Simpsons starts now, East Coast. Timeline Photos.",
-          1384128000
-        ],
-        [
-          "Settle in, West Coast... The Simpsons starts now! Timeline Photos.",
-          1383534000
-        ],
-        [
-          "East Coast: A new episode of The Simpsons starts in 5 minutes! Timeline Photos.",
-          1360540488
-        ],
-        [
-          "East Coast- A new episode of The Simpsons starts in 20 minutes. A-Maize-ing Race from \"Homer Goes to Prep School\" | The Simpsons | Animation on FOX. Homer plows through a corn field. ",
-          1357515600
-        ],
-        [
-          "Don't miss a full-hour of The Simpsons TONIGHT, starting at 8/7c! Timeline Photos.",
-          1356282840
-        ],
-        [
-          "East Coast: An all-new episode of The Simpsons starts now! Timeline Photos.",
-          1353888001
-        ],
-        [
-          "East Coast Fans: A new episode of The Simpsons starts now! Who's watching? Timeline Photos.",
-          1353283201
-        ]
-      ],
-      "dates_start": 1376122372,
-      "dates_end": 1436204578,
-      "likes_avg": 38214,
-      "likes_stdev": 28067,
-      "comments_avg": 398,
-      "comments_stdev": 406,
-      "shares_avg": 952,
-      "shares_stdev": 1055
-    },
-    {
-      "number": 25,
-      "important": [
-        "sunday allnew episod simpson",
-        "coastcentr",
-        "east",
-        "sunday allnew episod simpson timelin",
-        "sunday"
-      ],
-      "summary": "Find out this Sunday at 8/7c on an all-new episode of The Simpsons! Find out this Sunday on an all-new episode of The Simpsons! Tune in to FOX at 8/7c TONIGHT for an all-new episode of The Simpsons! East Coast/Central, tune in to FOX right now to watch an all-new episode of The Simpsons! Budgie this Sunday on an all-new episode of The Simpsons!",
+      "summary": "Tune in, East Coast/Central, and watch Andrew Rannells  on an all-new episode of The Simpsons!\nEast Coast/Central, watch Lisa in action RIGHT NOW on an all-new episode of The Simpsons!\nEast Coast/Central- Bart and Lisa are all grown up on tonight's all-new episode of The Simpsons!\nEast Coast/Central, tune in to FOX right now to watch an all-new episode of The Simpsons!",
       "common": [
         "coastcentr",
         "east",
@@ -5497,15 +5279,19 @@
       "shares_stdev": 1442
     },
     {
-      "number": 26,
+      "number": 22,
       "important": [
-        "fox",
         "tonight",
-        "fox timelin",
+        "simpson",
+        "photo",
         "episod",
-        "tonight fox"
+        "encor",
+        "marg",
+        "tomorrow",
+        "fox",
+        "like"
       ],
-      "summary": "Don't miss tonight's encore of The Simpsons at 8/7c on FOX! Don't miss an encore of The Simpsons tonight at 8/7c on FOX! Watch an encore of The Simpsons tonight at 8/7c on FOX! There's an encore of The Simpsons tonight at 8/7c on FOX- don't miss it! Watch an all-new episode of The Simpsons TONIGHT at 8/7c on FOX!",
+      "summary": "West Coast- it's your turn to watch an all-new episode of The Simpsons on FOX!\nWatch an all-new episode of The Simpsons TONIGHT at 8/7c on FOX!\nWest Coast- it's time to watch an all-new episode of The Simpsons on FOX!\nDon't miss back-to-back encore episodes of \"Luca$\" and \"Days of Future Future\" TONIGHT at 8/7c on FOX!\nWatch the encore of \"Steal This Episode\" airing at a SPECIAL TIME TONIGHT at 7:30/6:30c on FOX!",
       "common": [
         "dont",
         "encor",
@@ -5762,152 +5548,47 @@
       "shares_stdev": 2007
     },
     {
-      "number": 27,
+      "number": 23,
       "important": [
-        "fox facebook httpwwwfacebookcomthesimpson",
-        "episod simpson",
-        "facebook httpwwwfacebookcomthesimpson follow",
-        "allnew",
-        "twitter"
-      ],
-      "summary": "Facebook: http://www.facebook.com/thesimpsons Follow Homer on Twitter: http://www.twitter.c... Don't miss an encore episode of The Simpsons TONIGHT at 8/7c! Don't miss an all-new episode of THE SIMPSONS on SUN at 8/7c, on FOX! THE SIMPSONS - Promo for \"Treehouse of Horror XXIII\" airing SUN 10/7 Don't miss an all-new episode of THE SIMPSONS on SUN at 8/7c, on FOX! THE SIMPSONS - Feeding the Black Hole in \"Treehouse of Horrors XXIII\" Don't miss an all-new episode of THE SIMPSONS on SUN at 8/7c, on FOX! Facebook: http://www.facebook.com/thesimpsons Follow Homer on Twitter: http://www.twitter.... Catch an encore of The Simpsons \"Treehouse of Horror XXII\", Tomorrow at 8/7c!",
-      "common": [
-        "allnew",
-        "episod simpson",
-        "facebook httpwwwfacebookcomthesimpson follow",
-        "facebook httpwwwfacebookcomthesimpson follow homer",
-        "facebook httpwwwfacebookcomthesimpson follow homer twitter",
-        "follow homer twitter",
-        "fox facebook httpwwwfacebookcomthesimpson",
-        "httpwwwfacebookcomthesimpson follow",
-        "httpwwwfacebookcomthesimpson follow homer",
-        "twitter"
-      ],
-      "messages": [
-        [
-          "It's almost time for the Treehouse of Horror! THE SIMPSONS | Terror Awaits | ANIMATION on FOX. THE SIMPSONS brings its scariest \"Tree house of Horror\" yet! Don't miss an all-new episode this SUN at 8/7c on FOX!",
-          1445641211
-        ],
-        [
-          "Last week we asked you to pick your favorite segment from The Simpsons \"Treehouse of Horror XXIII\", and the fan fave is... THE SIMPSONS - Bart & Homer's Excellent Adventure from \"Treehouse of Horror XXIII\" Don't miss an all-new episode of THE SIMPSONS on SUN at 8/7c, on FOX! ",
-          1350326077
-        ],
-        [
-          "Jon Lovitz guest voices as Artie Ziff in tonight's 23rd annual \"Treehouse of Horror\" episode of The Simpsons (8/7c). THE SIMPSONS - The United Federation of Homers Through History. Don't miss an all-new episode of THE SIMPSONS on SUN at 8/7c, on FOX!",
-          1349643248
-        ],
-        [
-          "Destined to be yet another classic Halloween-themed episode of The Simpsons, it\u2019s the all-new \u201cTreehouse of Horror XXIII\u201d - TONIGHT at 8/7c! THE SIMPSONS - \"Treehouse of Horrors XXIII\" Podcast Teaser. Don't miss an all-new episode of THE SIMPSONS on SUN at 8/7c, on FOX! ",
-          1349633993
-        ],
-        [
-          "Springfield Subatomic Supercollider creates a black hole that terrorizes the city in the \"Treehouse of Horror XXIII\" episode of The Simpsons, airing tomorrow at 8/7c. THE SIMPSONS - Feeding the Black Hole in \"Treehouse of Horrors XXIII\" Don't miss an all-new episode of THE SIMPSONS on SUN at 8/7c, on FOX! ",
-          1349546658
-        ],
-        [
-          "Here's a special Halloween treat from the creators of The Simpsons! THE SIMPSONS - \"Treehouse of Horrors XXIII\" Podcast Teaser. Don't miss an all-new episode of THE SIMPSONS on SUN at 8/7c, on FOX! Facebook: http://www.facebook.com/thesimpsons Follow Homer on Twitter: http://www.twitt...",
-          1349477935
-        ],
-        [
-          "For reaction to Wednesday\u2019s debate, we take you to Springfield Republican and Democratic Party Headquarters\u2026. THE SIMPSONS - Debate Reaction. Don't miss an all-new episode of THE SIMPSONS on SUN at 8/7c, on FOX! Facebook: http://www.facebook.com/thesimpsons .",
-          1349457178
-        ],
-        [
-          "This year's SIMPSONS Halloween episode is on the scariest day of the year... Sunday, October 7! THE SIMPSONS - Promo for \"Treehouse of Horror XXIII\" airing SUN 10/7 Don't miss an all-new episode of THE SIMPSONS on SUN at 8/7c, on FOX! ",
-          1349289476
-        ],
-        [
-          "Highlights from yesterday's Comic-Con panel for The Simpsons- THE SIMPSONS - Comic-Con 2012: Panel. Catch the season premiere of THE SIMPSONS on SUN 9/30 at 8/7c, on FOX! Facebook: http://www.facebook.com/thesimpsons Follow Homer on Twitter: http://www.twit...",
-          1342385469
-        ],
-        [
-          "Yeardley Smith arrives like a rock star to Comic-Con International and talks about the upcoming season of The Simpsons- THE SIMPSONS - Comic-Con 2012: Yeardley Smith Arrives in a Helicopter. Catch the season premiere of THE SIMPSONS on SUN 9/30 at 8/7c, on FOX! Facebook: http://www.facebook.com/thesimpsons Follow Homer on Twitter: http://www.twit...",
-          1342305245
-        ],
-        [
-          "Lisa gets celebrity advice from Lady Gaga, tonight at 8/7c. (encore) THE SIMPSONS - Preview #1 from \"Lisa Goes Gaga\" All-new episodes of THE SIMPSONS return Sundays this fall on FOX! Facebook: http://www.facebook.com/thesimpsons Follow Homer on Twitter: http://www.twitter.c...",
-          1341757898
-        ],
-        [
-          "Don't miss an encore episode of The Simpsons TONIGHT at 8/7c! THE SIMPSONS - Preview from \"Replaceable You\" All-new episodes of THE SIMPSONS return Sundays this fall on FOX! Facebook: http://www.facebook.com/thesimpsons Follow Homer on Twitter: http://www.twitter.c...",
-          1339355412
-        ],
-        [
-          "\"I've always been a fan of The Simpsons... It was such an incredible script. It's so funny.\" - Lady Gaga. THE SIMPSONS - Lady Gaga. Don't miss The Simpsons season finale featuring Lady Gaga!! SUN 5/20 at 8/7c on FOX! Facebook: http://www.facebook.com/thesimpsons Follow Homer on Twitter: h...",
-          1337187947
-        ],
-        [
-          "Lady Gaga guest voices as herself on The Simpsons season finale, airing SUN 5/20! Check out this new promo from the episode- THE SIMPSONS - Promo for \"Lisa Goes Gaga\" airing SUN 5/20. Don't miss The Simpsons season finale on SUN 5/20 at 8/7c, on FOX! Facebook: http://www.facebook.com/thesimpsons Follow Homer on Twitter: http://www.twitter....",
-          1336573869
-        ],
-        [
-          "Did you catch famed animator Bill Plympton's couch gag from the \"Beware My Cheating Bart\" episode of The Simpsons? Re-watch it now!  THE SIMPSONS - Bill Plympton Couch Gag from \"Beware My Cheating Bart\" Don't miss an all-new episode of The Simpsons on SUN at 8/7c, on FOX! Facebook: http://www.facebook.com/thesimpsons Follow Homer on Twitter: http://www.twitt...",
-          1334542859
-        ],
-        [
-          "Click below for a preview of Bill Plympton's special couch gag, and be sure to watch the short in its entirety during tomorrow's all-new episode of The Simpsons at 8/7c. THE SIMPSONS - Teaser for Bill Plympton Couch Gag from \"Beware My Cheating Bart\" Don't miss an all-new episode of The Simpsons on SUN at 8/7c, on FOX! Facebook: http://www.facebook.com/thesimpsons Follow Homer on Twitter: http://www.twitt...",
-          1334431118
-        ],
-        [
-          "The Simpsons spoofs \"Inception\" this Sunday. Don't miss it at 8/7c! THE SIMPSONS - Blockbuster Sunday (3/11) Trailer. Don't miss THE SIMPSONS 500th Episode this Sunday at 8/7c, on FOX! Facebook: http://www.facebook.com/thesimpsons Follow Homer on Twitter: http://www.twitter....",
-          1331321644
-        ],
-        [
-          "To honor The Simpsons reaching its landmark 500th episode, a bust of Homer Simpson was created for the 20th Century Fox lot in Los Angeles and unveiled on Feb. 16. See how the sculpture was made-  THE SIMPSONS - Homer Sculpture. Don't miss THE SIMPSONS 500th Episode this Sunday at 8/7c, on FOX! Facebook: http://www.facebook.com/thesimpsons Follow Homer on Twitter: http://www.twitter....",
-          1330537144
-        ],
-        [
-          "Catch an encore of The Simpsons \"Treehouse of Horror XXII\", Tomorrow at 8/7c! THE SIMPSONS - Bart as Avatar: Preview from \"Treehouse of Horror XXII\" Don't miss an all-new episodes of THE SIMPSONS SUN 3/4 at 8/7c! Facebook: http://www.facebook.com/thesimpsons Follow Homer on Twitter:...",
-          1330207251
-        ],
-        [
-          "The Simpsons 500th episode airs TOMORROW at 8/7c! In the words of Simpsons episode 345 guest, Huell Howser: \"That's amazing!\" THE SIMPSONS - Preview #2 from \"At Long Last Leave\" airing SUN 2/19. Don't miss THE SIMPSONS 500th Episode this Sunday at 8/7c, on FOX! Facebook: http://www.facebook.com/thesimpsons Follow Homer on Twitter:...",
-          1329589841
-        ],
-        [
-          "Take a look at some footage from #thesimpsons 500th Episode Premiere Party that took place on Feb. 13 in Hollywood, CA. THE SIMPSONS - 500th Episode Premiere Party. Don't miss THE SIMPSONS 500th Episode this Sunday at 8/7c, on FOX! Facebook: http://www.facebook.com/thesimpsons Follow Homer on Twitter:...",
-          1329516066
-        ],
-        [
-          "In the series\u2019 milestone 500th episode, The Simpsons are evicted from Springfield and join an off-the-grid community outside of town - Sunday at 8/7c! THE SIMPSONS - Preview #1 from \"At Long Last Leave\" airing SUN 2/19. Don't miss THE SIMPSONS 500th Episode this Sunday at 8/7c, on FOX! Facebook: http://www.facebook.com/thesimpsons Follow Homer on Twitter:...",
-          1329495152
-        ]
-      ],
-      "dates_start": 1321273455,
-      "dates_end": 1368019516,
-      "likes_avg": 8175,
-      "likes_stdev": 5064,
-      "comments_avg": 424,
-      "comments_stdev": 316,
-      "shares_avg": 747,
-      "shares_stdev": 961
-    },
-    {
-      "number": 28,
-      "important": [
+        "simpson",
+        "groen",
         "fox",
+        "jean",
+        "matt",
+        "photo",
         "produc",
-        "creator",
-        "execut",
-        "homer"
+        "comic",
+        "anim"
       ],
-      "summary": "THE SIMPSONS: Creator and Executive Producer Matt Groening and Executive producer James L. Brooks during the dedication ceremony of the bronze bust of Homer Simpson, along with his signature donut on the FOX Pico Lot on Thursday, Feb 16 in Los Angeles CA. THE SIMPSONS: THE SIMPSONS Creator and Executive Producer Matt Groening during the Star Dedication on the Hollywood Walk of Fame Tuesday, Feb. THE SIMPSONS: Creator and Executive Producer Matt Groening and Homer during the dedication ceremony of the bronze bust of Homer Simpson, along with his signature donut on the FOX Pico Lot on Thursday, Feb 16 in Los Angeles CA. THE SIMPSONS: (L-R) Executive producer James L. Brooks, Homer Simpson, Homer, Creator and executive producer Matt Groening, Exxecutive producer Al Jean and sculptor Richard Becker during the dedication of the bronze bust of Homer Simpson, along with his signature donut on the FOX Pico Lot on Thursday, Feb 16 in Los Angeles CA. THE SIMPSONS: Executive Producer James L. Brooks during the dedication ceremony of the bronze bust of Homer Simpson, along with his signature donut on the FOX Pico Lot on Thursday, Feb 16 in Los Angeles CA.",
+      "summary": "Brooks, Homer Simpson, Homer, Creator and executive producer Matt Groening, Exxecutive producer Al Jean and sculptor Richard Becker during the dedication of the bronze bust of Homer Simpson, along with his signature donut on the FOX Pico Lot on Thursday, Feb 16 in Los Angeles CA.",
       "common": [
-        "creator",
+        "al",
+        "al jean",
         "execut",
         "execut produc",
-        "feb",
         "fox",
-        "hollywood",
-        "homer",
-        "homer simpson",
-        "produc",
-        "star"
+        "groen",
+        "jean",
+        "matt",
+        "matt groen",
+        "produc"
       ],
       "messages": [
         [
           "Matt Groening's \"Simpsons Comics Knockout\" is out today! Check it out: http://fox.tv/2lgHyFN. Simpsons Comics Knockout - Matt Groening - Paperback. It\u2019s a unanimous decision! These pulse-pounding stories and more featuring Matt Groening\u2019s beloved first family of fun, the Simpsons, will have you...",
           1487695711
+        ],
+        [
+          "Imagine what a Krusty the Clown reality show would be like! \ud83d\ude31. How 'The Critic' Went From Near 'Simpsons' Spinoff To Critical Darling. Al Jean and Mike Reiss take us through the bumpy origins, all-too-brief existence, and ultimate legacy of 'The Critic'",
+          1480458284
+        ],
+        [
+          "The Simpsons updates its 2000 prediction of a Trump Presidency...",
+          1479082903
+        ],
+        [
+          "Al Jean gives us the scoop on the Simpsons' trip to Cuba, and predicting Trump's presidency. \u2018The Simpsons\u2019 Boss Al Jean on Predicting Trump Presidency and New Cuba Episode (EXCLUSIVE) These days it\u2019s much easier for travelers to visit Cuba, so it was only a matter of time before The Simpsons headed 90 miles south of Miami. On this trip, although the focus will be on Grandp\u2026.",
+          1478912029
         ],
         [
           "Matt Groening shares his all-time favorite Simpsons moments at #GRAPHIC2016. Simpsons creator Matt Groening reveals his all-time favourite moments from the show. THE mastermind behind one of the funniest shows of all time is in Australia \u2014 and he\u2019s sharing more than a few secrets from the beloved animated sitcom.",
@@ -5922,8 +5603,20 @@
           1474058940
         ],
         [
+          "Check out what Al Jean shared with Entertainment Weekly! Comic-Con: 'Simpsons' producer on how show will mock Trump. The Simpsons \u2014 you know, that little animated comedy that kinda-sorta predicted a Trump presidency many years ago \u2014 had its fun last summer with...",
+          1469548801
+        ],
+        [
           "Bart is up to no good again in BART SIMPSON: MASTER OF DISASTER, out now! Bart Simpson: Master of Disaster - Matt Groening - Paperback. From one calamity to the next, Bart Simpson Master of Disaster will take you over the brink of laughter again and again. Hope for the best and expect the worst, when Bart, Milhouse, and Martin pull their resources together to buy a brand-new model kit that brings them together in more ways than one.",
           1460395309
+        ],
+        [
+          "SXSW panel today! Al Jean, David Silverman and more- Family Values Through Television Animation, 12:30-1:30 PM, Four Seasons Hotel \u2013 Ballroom CD. Timeline Photos.",
+          1457966310
+        ],
+        [
+          "How did The X-Files and The Simpsons come together? The truth is out there... When Mulder and Scully Went to Springfield: An Oral History of the \u2018Simpsons\u2019-\u2019X-Files\u2019 Crossover. \u201cSimpsons\u201d executive producer Al Jean, producer Mike Reiss, animator and consulting producer David Silverman, writer Reid Harrison, and \u201cX-Files\u201d creator Chris Carter look back at \u201cThe Springfield Files.\u201d",
+          1453401461
         ],
         [
           "Look who introduced James L. Brooks when he received the Career Achievement Award from the Television Critics Association-",
@@ -5934,12 +5627,28 @@
           1435528819
         ],
         [
+          "This just in: Homer Simpson will vote in the 2016 election. 'Simpsons' EP Al Jean on the 27th Season. Executive Producer Al Jean sat down with Variety to discuss what goals are possibly left.",
+          1433955312
+        ],
+        [
           "Congrats to James L. Brooks on his ATX Achievement in Television Excellence Award! Timeline Photos.",
           1433524506
         ],
         [
           "The dream of Matt Groening is alive in Portlandia. Matt Groening on his 'Portlandia' guest spot. Don\u2019t have an organic, grass-fed, hormone-free cow, man, but Thursday\u2019s episode of Portlandia (IFC, 10 p.m.) features Matt Groening!",
           1423689839
+        ],
+        [
+          "When in doubt: fax NASA. Al Jean reveals a few secrets about The Simpsons, take a look- The Simpsons, Futurama and the Maths behind the Comedy. World-renowned writers of The Simpsons and Futurama, Al Jean and David X. Cohen, join author Simon Singh to discuss the serious mathematics hidden within the...",
+          1412889312
+        ],
+        [
+          "Watch Al Jean explain the origin of The Simpsons' \"secret math agenda.\" How Mathematics Inspired the Writers of The Simpsons and Futurama - YouTube. World-renowned writers of The Simpsons and Futurama, Al Jean and David X. Cohen, join author Simon Singh at the Science Museum to explain how their backgroun...",
+          1412788211
+        ],
+        [
+          "How does a show sustain its creative life for 25 years? Al Jean explores The Simpsons' keys to longevity with The Wall Street Journal: http://fox.tv/1vk2YhV.",
+          1411677606
         ],
         [
           "See more photos of your fave FOX stars at the FOX FALL ECO-CASINO party here: http://fox.tv/1COjawg . FOX. THE SIMPSONS Creator and Executive Producer Matt Groening arrives at the 2014 FOX FALL ECO-CASINO presented by Ford and Xfinity benefitting Habitat for Humanity of Greater Los Angeles, Heal the Bay, The Nature Conservancy and the Environmental Media Association on Monday, Sept. 8.",
@@ -5950,6 +5659,10 @@
           1406755501
         ],
         [
+          "Celebrate the 25th anniversary of The Simpsons \u2013 no gifts please \u2013 with creator Matt Groening, executive producer Al Jean, supervising director Mike Anderson and director-for-life David Silverman.\n\nDetails: http://fox.tv/1y4VqAz. Timeline Photos.",
+          1405114307
+        ],
+        [
           "The Simpsons Executive Producer James L. Brooks will receive a star on the Hollywood Walk of Fame in 2015: http://fox.tv/1id9Gne. Timeline Photos.",
           1403203944
         ],
@@ -5958,8 +5671,16 @@
           1401912600
         ],
         [
+          "Al Jean (The Simpsons Exec. Producer) will be tweeting throughout tonight's Season Finale! Follow him here: https://twitter.com/AlJean. Timeline Photos.",
+          1400422500
+        ],
+        [
           "The Simpsons Executive Producer Matt Selman will be tweeting LIVE commentary during tonight's historic 550th episode!\n\nFollow him here: https://twitter.com/mattselman. Timeline Photos.",
           1399229401
+        ],
+        [
+          "The Simpsons EP Al Jean (@AlJean) will be tweeting along with you tonight at 8/7c!",
+          1398626100
         ],
         [
           "Need a lift or a laugh? Help is on the way with the latest book from The Simpsons creator Matt Groening, \"Bart Simpson to the Rescue!\": http://fox.tv/1gIAFzx. Timeline Photos.",
@@ -5968,6 +5689,30 @@
         [
           "Bart Simpson knows how to push everyone\u2019s buttons and get away with it\u2014and now you can too! Be the ultimate April Fool\u2019s prankster with \"Bart Simpson's Manual of Mischief\u201d by Simpsons creator Matt Groening. \n\nSwipe it now: http://fox.tv/1iTGuyf. Timeline Photos.",
           1396376700
+        ],
+        [
+          "Al Jean won a 2013 Teen Choice Award, and FOX was there to capture the historic event! THE SIMPSONS - Al Jean's 2013 Teen Choice Award.",
+          1393634580
+        ],
+        [
+          "\"[W]e wanted to do a tribute to two terrific people, Marcia and Don.\" - Al Jean (Exec. Producer, The Simpsons) The Heartwarming Simpsons Tribute You Missed. Did you catch the tribute to The Simpsons\ufeff' beloved voice actress Marcia Wallace and writer Don Payne?",
+          1387292401
+        ],
+        [
+          "Statement from executive producer Al Jean, on behalf of The Simpsons:\n\nI was tremendously saddened to learn this morning of the passing of the brilliant and gracious Marcia Wallace. She was beloved by all at \"The Simpsons\" and we intend to retire her irreplaceable character.\n\nEarlier we had discussed a potential storyline in which a character passed away. This was not Marcia's Edna Krabappel. Marcia's passing is unrelated and again, a terrible loss for all who had the pleasure of knowing her.",
+          1382806713
+        ],
+        [
+          "\"[We are] working on a script where a character will pass away.\" - Al Jean (Exec. Producer, The Simpsons)\n\nWho could it be?! Post your guess in the comments below... 'The Simpsons' to Kill Off Character. The Grim Reaper is headed back to Fox's The Simpsons. ",
+          1380647888
+        ],
+        [
+          "Al Jean chats with Gold Derby editor Daniel Montgomery. Al Jean Q&A: 'The Simpsons' 8-time Emmy winner Al Jean talks with Gold Derby editor Daniel Montgomery about a quarter-century of \"The Simpsons.\"",
+          1375882201
+        ],
+        [
+          "Al Jean (exec. producer, The Simpsons) is LIVE chatting with Gold Derby TODAY at 1pm PST / 4pm EST. Join in with your questions and comments on www.goldderby.com. #thesimpsons. Timeline Photos.",
+          1375810201
         ],
         [
           "Simpsons Comics Colossal Compendium by Matt Groening is now available! Check it out: http://bit.ly/10uzPy7\n\nThe giveaway is now over and the winners have been contacted. Thanks for entering! Timeline Photos.",
@@ -5994,12 +5739,44 @@
           1374148554
         ],
         [
+          "Going to #SDCC? Don't miss The Simpsons panel with creator Matt Groening, executive producer Al Jean, supervising director Mike Anderson and consulting producer David Silverman. The Simpsons San Diego Comic-Con Panel 2013. Celebrating its 25th season this fall, THE SIMPSONS continues to be the gold standard of animated comedy.\n\nPanel Guests:\n+ Creator Matt Groening\n+ Executive Producer Al Jean\n+ Supervising Director Mike Anderson\n+ Consulting Producer David Silverman\n\nExtras:\n+ Never-before-seen footage from guest director Guillermo del Toro and musical guests, \u201cWe Put The Spring In Springfield!\u201d\n\n*Scheduled events and guests are subject to change\n\nCan't make it to Comic-Con? That's OK! There will be LIVE updates, photos and videos from panels, press opportunities, and additional live events and parties that will be viewable from the FOX show pages.",
+          1373578152
+        ],
+        [
           "Exec. producer James L. Brooks talks TV, film, The Simpsons and more. James L. Brooks on His 'Simpsons' Journey, from 'Tracey Ullman' to the Oscars. James L. Brooks on his first introduction to Matt Groening and the long-term success and evolution of the hit Fox animation.",
           1366740575
         ],
         [
+          "\"I was very saddened to learn of the passing of Roger Ebert.\" - Al Jean (Exec. Producer, The Simpsons)\n\nRead more from his interview with Vulture: http://fox.tv/14JU4PH.",
+          1365192002
+        ],
+        [
           "The Simpsons creator Matt Groening received the Writers Guild of America, West AWC Animation Writing Award on Wednesday, November 28. Congrats!\r\n\r\nPhoto credit: Michael Jones. Timeline Photos.",
           1354233980
+        ],
+        [
+          "\u201cJeff Gordon makes a brief celebrity cameo [on SUN 10/21] to make fun of our penchant for brief celebrity cameos.\u201d - Al Jean (The Simpsons exec. producer) \u2018The Simpsons\u2019: Check out Jeff Gordon\u2019s drive-by in next week\u2019s episode \u2014 PHOTO | EW.com. Who is the next famous person to make a pit stop in Springfield? Why, it\u2019s NASCAR superstar Jeff Gordon, who plays himself in the Oct....",
+          1349999472
+        ],
+        [
+          "Re-watch \"Treehouse of Horror\" while you playback audio commentary from guest voice Jon Lovitz, exec. producers Matt Groening, Jim Brooks, Al Jean and the show's writers and director. \n\nDownload The Simpsons Halloween podcast now: www.TheSimpsons.com. Timeline Photos.",
+          1349716710
+        ],
+        [
+          "\"I never stop thinking about The Simpsons. I don't feel any relief till we've cracked all the stories for the year, then we're right back at it again.\" - Al Jean (Exec. Producer & Showrunner)\n\nRead more of Al's interview with The Hollywood Reporter: http://bit.ly/O5p3xQ. Timeline Photos.",
+          1349276642
+        ],
+        [
+          "The Simpsons exec. producer Al Jean dishes on the upcoming season's guest-stars and big storylines. Simpsons Boss on Carell\u2019s Violent Tendencies, Cumberbatch\u2019s Eagerness and \u2018Bart\u2019s Annie Hall\u2019. The Simpsons will come down with a case of Bieber fever in its upcoming Season 24, but executive producer Al Jean says it won\u2019t be a lingering illness.",
+          1347376349
+        ],
+        [
+          "\u201cWe didn\u2019t predict this but we guarantee the world will end Dec. 21.\u201d - Al Jean (exec. producer - The Simpsons) D'Oh! Eastwood's Convention Speech Spawns Fake 'Simpsons' Meme. A humorous image, made to look like it came from an episode of \"The Simpsons,\" overstates the predictive power of that satirical Fox cartoon series.",
+          1346441265
+        ],
+        [
+          "Executive producer Al Jean on The Simpsons next big-screen appearance: \u201cWe just wanted to do this as a way of saying, \u2018We appreciate how much people have stayed with the show and watched it for 25 years.\u201d \u2018The Simpsons\u2019: Exclusive details on the next (short) big-screen adventure | EW.com. Simpsons fans who have been awaiting the show\u2019s return to the big screen, you may now let out a short, silent \u201cWoo Hoo!\u201d: A four-and-a-half-minute dialogue-free...",
+          1337713577
         ],
         [
           "\"There is no specific state that Springfield is in, and we will never reveal that secret... except this coming Sunday at 8.\" - Al Jean (exec. producer) Exclusive: Nope, Springfield is Not in Oregon, Clarifies The Simpsons' Matt Groening. Sorry Oregon, you won't be able to claim Homer, Bart and the rest of The Simpsons clan as your own. The Simpsons creator Matt Groening confirms exclusively to TV Guide Magazine that his recent statements were misinterpreted ...",
@@ -6008,6 +5785,10 @@
         [
           "Book your trips, man! Matt Groening reveals where the real Springfield is!  Matt Groening Reveals the Location of the Real Springfield. Twenty-five years after The Simpsons made their TV debut, the show's creator talks about Homer's odyssey\u2014and his own.",
           1334089970
+        ],
+        [
+          "Al Jean (Exec. Producer) shares his favorite SIMPSONS scene, dream guest-stars and more. Today\u2019s TV Addict Top 5: Questions with THE SIMPSONS EP Al Jean | the TV addict. After twenty plus years on the air and 499 episodes and counting, tonight marks a momentous milestone in the illustrious history of THE SIMPSONS: 500.",
+          1330023316
         ],
         [
           "THE SIMPSONS: Executive Producer James L. Brooks during the dedication ceremony of the bronze bust of Homer Simpson, along with his signature donut on the FOX Pico Lot on Thursday, Feb 16 in Los Angeles CA.  THE SIMPSONS \u00aa\u00caand \u00a9\u00ca2012 TCFFC ALL RIGHTS RESERVED. \u00a9\u00ca2012 FOX BROADCASTING. Bronze Bust of Homer Simpson Commemoration Ceremony.",
@@ -6078,25 +5859,29 @@
           1327944123
         ]
       ],
-      "dates_start": 1325456309,
-      "dates_end": 1426149057,
-      "likes_avg": 14947,
-      "likes_stdev": 31648,
-      "comments_avg": 300,
-      "comments_stdev": 416,
-      "shares_avg": 592,
-      "shares_stdev": 1146
+      "dates_start": 1334894286,
+      "dates_end": 1434112755,
+      "likes_avg": 14970,
+      "likes_stdev": 26829,
+      "comments_avg": 448,
+      "comments_stdev": 952,
+      "shares_avg": 801,
+      "shares_stdev": 1687
     },
     {
-      "number": 29,
+      "number": 24,
       "important": [
+        "simpson",
+        "homer",
+        "favorit",
+        "romant",
         "bart",
-        "springfield",
-        "dream",
-        "promo",
-        "homer"
+        "yeardley",
+        "maggi",
+        "burn",
+        "game"
       ],
-      "summary": "Promo for \"Specs And The City\" | THE SIMPSONS | ANIMATION on FOX. Promo for \"Homerland\" | THE SIMPSONS | ANIMATION on FOX. Lisa The Liberal from \"The Kid is Alright\" | THE SIMPSONS | ANIMATION on FOX. The Cat's In The Cradle from \"Labor Pains\" | THE SIMPSONS | ANIMATION on FOX. A Day in the Life with Yeardley Smith - Part 2: The Pitch | THE SIMPSONS | ANIMATION on FOX.",
+      "summary": "Homer Lends Bart A Twenty from \"Diggs\" | THE SIMPSONS | ANIMATION on FOX.\nTeam up with Homer to build the Springfield of your dreams with The Simpsons: Tapped Out -- A free-to-play game for your mobile device.\nA Day in the Life with Yeardley Smith, Parts 3-4: Marchez Vous | THE SIMPSONS | ANIMATION on FOX.\nA Day in the Life with Yeardley Smith - Part 2: The Pitch | THE SIMPSONS | ANIMATION on FOX.",
       "common": [
         "allnew",
         "bart",
@@ -6297,15 +6082,19 @@
       "shares_stdev": 363
     },
     {
-      "number": 30,
+      "number": 25,
       "important": [
-        "fox",
-        "intern",
-        "diego",
+        "simpson",
         "panel",
-        "comiccon intern"
+        "intern",
+        "fox",
+        "comic",
+        "check",
+        "episod",
+        "guy",
+        "crossov"
       ],
-      "summary": "The Simpsons at San Diego Comic-Con. FOX FANFARE AT SAN DIEGO COMIC-CON \u00a9 2012: The cast of THE SIMPSONS on Saturday, July 14 during THE SIMPSONS panel at the FOX FANFARE AT SAN DIEGO COMIC-CON. The Simpsons at Comic-Con 2014. Check out photos from The Simpsons panel at San Diego Comic-Con on Saturday, July 20. The Simpsons Panel at Comic-Con 7/14.",
+      "summary": "Tyler Posey and Bella Thorne are set to host the MTV Fandom Awards at San Diego Comic-Con. Find out what The Simpsons Executive Producers chose as their all-time favorite episodes from the Comic-Con International panel!\nWorlds collided yesterday when The Simpsons creator/EP Matt Groening asked a question during the Family Guy panel at San Diego Comic-Con. Timeline Photos.\nCatch up on what's in store for Season 26 when The Simpsons hits Comic-Con San Diego tomorrow, more info here: http://fox.tv/CCSD2014.",
       "common": [
         "comiccon intern",
         "diego",
@@ -6458,15 +6247,19 @@
       "shares_stdev": 990
     },
     {
-      "number": 31,
+      "number": 26,
       "important": [
-        "watch",
-        "last night episod",
+        "simpson",
+        "photo",
+        "favorit",
+        "moment",
+        "homer",
         "episod",
-        "httpfoxtvwatchthesimpson",
-        "httpfoxtvwatchthesimpson timelin"
+        "night episod",
+        "springfield",
+        "watch"
       ],
-      "summary": "If you missed last night's episode of The Simpsons, watch now- http://fox.tv/WatchTheSimpsons. What was your favorite moment from last night's episode? What was your favorite moment from last night? If you missed last night's episode of The Simpsons, watch it now! Which moment from last night's episode was your favorite?",
+      "summary": "Ball out and watch last night's episode anytime: http://fox.tv/WatchTheSimpsons \ud83c\udfc0.\nIf you missed last night's episode of The Simpsons, watch now- http://fox.tv/WatchTheSimpsons.\nIf not, then watch the episode now: http://fox.tv/WatchTheSimpsons.\nTell us your favorite moment from last night's episode in the comments!\nThe writers of The Simpsons dish on their favorite inside jokes from last night's 550th episode.\nCheck out Flavorwire.com's ten favorite art history moments from The Simpsons.",
       "common": [
         "episod",
         "favorit",
@@ -6635,15 +6428,18 @@
       "shares_stdev": 546
     },
     {
-      "number": 32,
+      "number": 27,
       "important": [
-        "right",
+        "photo",
+        "east",
         "simpson",
-        "episod",
-        "allnew",
-        "right timelin"
+        "simpsons right",
+        "start",
+        "watch",
+        "look",
+        "year"
       ],
-      "summary": "The Simpsons starts now, East Coast/Central. East Coast/Central- watch an all-new episode of The Simpsons RIGHT NOW on FOX! East Coast/Central! East Coast/Central- a new episode starts NOW! It's time, East Coast/Central: the Season Premiere of THE SIMPSONS begins right now!",
+      "summary": "East Coast/Central- come have a lovely evening with The Simpsons right now on FOX.\nEast Coast/Central- tune in and watch George Takei on The Simpsons right now!\nEast Coast/Central- watch an all-new episode of The Simpsons RIGHT NOW on FOX!\nIt's time, East Coast/Central: the Season Premiere of THE SIMPSONS begins right now!\nWatch Homer channel his inner 10 year old on an all-new episode NOW, East Coast/Central!",
       "common": [
         "allnew",
         "east coastcentr timelin",
@@ -6772,15 +6568,18 @@
       "shares_stdev": 260
     },
     {
-      "number": 33,
+      "number": 28,
       "important": [
-        "foxnow httpfoxtvwatchthesimpson",
+        "photo",
         "watch",
+        "simpson",
+        "homer",
+        "episod",
         "anytim",
-        "foxnow",
-        "anytim foxnow"
+        "stream",
+        "miss"
       ],
-      "summary": "Watch anytime on FOXNOW: http://fox.tv/WatchTheSimpsons. Watch now: http://fox.tv/WatchTheSimpsons. Watch now- http://fox.tv/WatchTheSimpsons. Watch- http://fox.tv/WatchTheSimpsons. Watch last night's episode anytime on FOXNOW: http://fox.tv/WatchTheSimpsons.",
+      "summary": "Watch your fave episodes anytime on FOXNOW: http://fox.tv/WatchTheSimpsons.\nThe show is always on \u2014 watch your favorite episodes anytime on FOXNOW: http://fox.tv/WatchTheSimpsons.\n\ud83d\udca5  Stream the latest episode anytime on FOXNOW: http://fox.tv/WatchTheSimpsons.\nWatch last week's episode anytime on FOXNOW: http://fox.tv/WatchTheSimpsons.\nWake up and watch last Sunday's episode on FOXNOW: http://fox.tv/WatchTheSimpsons.\nWatch last night's episode anytime on FOXNOW: http://fox.tv/WatchTheSimpsons.\nWatch last night's episode anytime on FOXNOW: http://fox.tv/WatchTheSimpsons.\n\ud83d\udd2a Rewatch last night's episode anytime on FOXNOW: http://fox.tv/WatchTheSimpsons.",
       "common": [
         "anytim",
         "anytim foxnow",
@@ -6985,15 +6784,20 @@
       "shares_stdev": 300
     },
     {
-      "number": 34,
+      "number": 29,
       "important": [
-        "simpson watch",
-        "episod simpson watch",
-        "last",
-        "night",
-        "homer"
+        "watch",
+        "simpson",
+        "like",
+        "homer",
+        "onlin",
+        "episod",
+        "clean",
+        "fiction",
+        "look",
+        "memori"
       ],
-      "summary": "\ud83d\ude2e Watch last night's episode of The Simpsons here: Watch The Simpsons Full Episodes Online on FOX NOW. Watch last night's episode of The Simpsons here- Watch The Simpsons Full Episodes Online on FOX NOW. Watch The Simpsons Full Episodes Online on FOX NOW. Watch the latest episodes of The Simpsons on FOX NOW! Find out what Marge has to say for herself by watching The Simpsons on FOX NOW- Watch The Simpsons Full Episodes Online on FOX NOW.",
+      "summary": "Celebrate National Relaxation Day with The Simpsons: Watch The Simpsons Full Episodes Online on FOX NOW.\nFind out what Marge has to say for herself by watching The Simpsons on FOX NOW- Watch The Simpsons Full Episodes Online on FOX NOW.\nRelive last night's Halloween episode of The Simpsons: http://fox.tv/WatchTheSimpsons?sf14287697=1 Watch The Simpsons Online on FOX NOW.\nRelive last night's episode of The Simpsons: http://fox.tv/WatchTheSimpsons?sf13987385=1 Watch The Simpsons Full Episodes Online on FOX NOW.",
       "common": [
         "episod simpson watch",
         "fox watch simpson",

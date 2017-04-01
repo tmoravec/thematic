@@ -4,25 +4,28 @@
   "globalstats": {
     "fan_count": 19915973,
     "messages": 2556,
-    "likes_avg": 9304,
-    "likes_stdev": 19342,
-    "comments_avg": 124,
-    "comments_stdev": 593,
-    "shares_avg": 547,
-    "shares_stdev": 2332,
+    "likes_avg": 9468,
+    "likes_stdev": 19929,
+    "comments_avg": 127,
+    "comments_stdev": 620,
+    "shares_avg": 548,
+    "shares_stdev": 2417,
     "graph_uri": "clusters/BMW.png"
   },
   "clusters": [
     {
       "number": 1,
       "important": [
-        "seri sedan",
-        "bmw seri sedan",
-        "timelin",
-        "allnew bmw seri sedan",
-        "sedan"
+        "bmw",
+        "drivingluxuri",
+        "drive",
+        "seri",
+        "photo",
+        "sedan",
+        "comfort",
+        "control"
       ],
-      "summary": "The all-new BMW 5 Series Sedan. The all-new BMW 7 Series. THE ALL-NEW BMW 7 SERIES. Available in the all-new BMW 5 Series Sedan. The interior of the all-new BMW 5 Series Sedan.",
+      "summary": "We will just sit in the Executive Lounge of the luxurious all-new BMW 7 Series enjoying our rear console, which offers a wealth of functions for the best possible comfort.\nBMW is proud to announce that excluding the USA market, a range of optional extras for the all-new BMW 7 Series will be available as of November 2015, including the first model variants of the luxury sedan with the world\u2019s first remote-controlled parking feature.",
       "common": [
         "allnew bmw seri sedan",
         "bmw seri sedan",
@@ -317,13 +320,14 @@
     {
       "number": 2,
       "important": [
-        "allnew bmw",
-        "meet",
-        "look",
-        "keep",
-        "alway"
+        "photo",
+        "bmw",
+        "camera",
+        "drive",
+        "sport",
+        "life meet"
       ],
-      "summary": "The new BMW X1. The all-new BMW X1. The BMW X1. The headlights on the all-new BMW X1. The all-new #BMW #1Series.",
+      "summary": "Live life like the BMW X1.\nThe unstoppable, all-new BMW X1.\nThe headlights on the all-new BMW X1.\nIf home is truly where you make it, why not make it the new BMW X1?\nThe all-new #BMW #1Series.\nhttp://youtu.be/ofaMGTd1u7g Motorline BMW.\nFind out: http://www.santassecret.de/ BMW M.\nThe all-new BMW M3.\nThe all-new BMW M3.\nThe all-new BMW M3.\nThe all-new BMW M3.",
       "common": [
         "allnew",
         "allnew bmw",
@@ -526,29 +530,51 @@
     {
       "number": 3,
       "important": [
-        "metal",
-        "red",
-        "bmw seri",
-        "eye",
-        "seri"
-      ],
-      "summary": "All you need to take on the road: \nThe BMW 2 Series Coup\u00e9 in Melbourne Red metallic. The BMW Z4 in Estoril blue metallic. The BMW Z4 in Estoril Blue metallic. In the all-new BMW X1 you'll find yourself in the middle of the action, wherever you go. of Engineering at BMW M and BMW Individual, talks about the highlights of the BMW M3 & BMW M4.",
-      "common": [
-        "blue",
-        "blue metal",
         "bmw",
-        "bmw seri",
-        "eye",
-        "metal",
-        "metal timelin",
-        "metal timelin photo",
+        "photo",
+        "seri",
+        "happi",
+        "model",
         "red",
-        "seri"
+        "drive"
+      ],
+      "summary": "Nast\u0119pny model zakupimy u Pa\u0144stwa :) Hip Hop Hooray \u2013 The best way to celebrate 40 years of the BMW 3 Series is to get in your car and check out the #BMWstories #legends of Hip Hop playlist on @Spotify!\nFollow the new BMW 3 Series Sedan & Touring on its journey: https://youtu.be/yVp1NRPJZWk. Timeline Photos.\nThe third generation of the BMW 3 Series \u2013 the beginning of a new era http://youtu.be/ro_kiMrjtSU.",
+      "common": [
+        "bmw seri",
+        "generat",
+        "happi",
+        "model",
+        "new",
+        "new bmw",
+        "seri",
+        "timelin",
+        "timelin photo",
+        "year"
       ],
       "messages": [
         [
+          "Something for everyone. The new BMW 4 Series. \nFour new wheel designs: Advantage, Sport, Luxury and M Sport. Timeline Photos.",
+          1489651768
+        ],
+        [
+          "No matter whether you are a city person or an outback lover, the BMW 3 Series Sedan and Touring will always be your reliable ride. Timeline Photos.",
+          1488701370
+        ],
+        [
+          "The greatest.\nThe new BMW 4 Series line-up. Timeline Photos.",
+          1487171374
+        ],
+        [
           "Adventure is fuel for the BMW X1.\nPhoto by Jeremy Cliff. \ninstagram.com/jeremycliff/ Timeline Photos.",
           1487146167
+        ],
+        [
+          "Happy Valentine\u2019s Day. Timeline Photos.",
+          1487084974
+        ],
+        [
+          "New bi-colour 20-inch M light-alloy wheels are among the new additions to the BMW 6 Series Coup\u00e9 range. Timeline Photos.",
+          1485547202
         ],
         [
           "Breaking with the established routes. \nThe BMW X1. \n\nPhoto by Jeremy Cliff. \ninstagram.com/jeremycliff/ Timeline Photos.",
@@ -557,6 +583,38 @@
         [
           "State-of-the-art technology as far as the eye can see.\nBMW at the NAIAS in Detroit. #BMWNAIAS. Timeline Photos.",
           1485115204
+        ],
+        [
+          "Four means more.\nMeet the new BMW 4 Series.",
+          1484640073
+        ],
+        [
+          "That sounds like music to our ears.\nThe new BMW 4 Series will be revealed tomorrow.\nWait 4 more.",
+          1484553645
+        ],
+        [
+          "2016 has come to an end, the year that BMW turned 100. A year that featured many highlights including our vision for the future. We can't wait to show you what we have planned for 2017. Happy new year. Timeline Photos.",
+          1483196402
+        ],
+        [
+          "Spending time with family, is what the holidays are all about.\nHappy holidays. Timeline Photos.",
+          1482678002
+        ],
+        [
+          "You are more than just the driver in the BMW 4 Series Coup\u00e9. The interior design is shaped around you for maximum driving focus. Timeline Photos.",
+          1482134402
+        ],
+        [
+          "Always in shape. \nThe BMW 2 Series Coup\u00e9 is always ready to take the lead. Timeline Photos.",
+          1481875534
+        ],
+        [
+          "The BMW X4 is always happy to play outside. Timeline Photos.",
+          1478203831
+        ],
+        [
+          "The photographer didn\u2019t notice anything strange. But, on closer inspection... \nHappy Halloween. \ud83d\udc7b. Timeline Photos.",
+          1477926005
         ],
         [
           "All you need to take on the road: \nThe BMW 2 Series Coup\u00e9 in Melbourne Red metallic. Timeline Photos.",
@@ -579,6 +637,14 @@
           1474179003
         ],
         [
+          "Design is its own form of power. The design of the BMW 4 Series Coup\u00e9 fascinates with its athletic and dynamic presence. Timeline Photos.",
+          1474049409
+        ],
+        [
+          "On the way towards automated driving. The next generation of the BMW 5 Series, coming soon.",
+          1474030846
+        ],
+        [
           "Say goodbye to humdrum and hello to life.\nThe BMW 1 Series in Mineral Grey metallic. Timeline Photos.",
           1473487202
         ],
@@ -587,24 +653,104 @@
           1472734803
         ],
         [
+          "Always know what is happening around your vehicle. The next generation of the BMW 5 Series with the BMW Connected feature \u2018Remote 3D View\u2019. Coming soon.",
+          1472216461
+        ],
+        [
+          "BMW has successfully become the first automotive company to use a fully-automated, optical measuring cell in car manufacturing. The next generation BMW 5 Series has yet to hit the road, but has already claimed its stake in the history books. Timeline Photos.",
+          1470679204
+        ],
+        [
+          "Precise, dynamic and sculpted: quintessential BMW design cues give the new BMW 7 Series an authoritative presence from every angle, ensuring that you are not only #drivingluxury, but looking at it too. Timeline Photos.",
+          1469599205
+        ],
+        [
+          "Whether you choose the BMW 3 Series Sedan or Touring, the capacity for adventure will overflow.\n\nFind out how by heading to http://www.bmw.com/com/en/insights/strengthen_the_core_family_landingpage/index.html. Timeline Photos.",
+          1467783123
+        ],
+        [
           "Unmistakable design elements make the BMW 3 Series the sportiest member in its vehicle class.\n\nHere, they are highlighted in Mediterranean Blue metallic. Timeline Photos.",
           1467352803
+        ],
+        [
+          "The 1 to rule them all. The BMW 1 Series M Coup\u00e9. BMW UK. Timeline Photos.",
+          1466497265
+        ],
+        [
+          "Over 40 years of excellence. The BMW 3 Series. \n\nWhich generation is your favourite? Timeline Photos.",
+          1466143204
         ],
         [
           "Pay homage to those who deserve it. Made in the image of the BMW 2002, we proudly unveil the BMW 2002 Hommage. Timeline Photos.",
           1465222816
         ],
         [
+          "The most beloved BMW model also comes with a little bit of extra buzz: the BMW 3 Series iPerformance, the new label for our plug-in hybrid vehicles with eDrive. Timeline Photos.",
+          1462904583
+        ],
+        [
           "The BMW Z4 in Estoril Blue Metallic - finally its good to feel blue. Timeline Photos.",
           1460887206
+        ],
+        [
+          "We could always do performance, but now we're even into iPerformance: The new BMW iPerformance models with eDrive technology. Timeline Photos.",
+          1459260003
+        ],
+        [
+          "yeahhhhhhhhhhhhhhhhhhhhhhhhhh Happy 100th anniversary from Manomtr's Team !!",
+          1457346445
+        ],
+        [
+          "1998 model 3.20 cabrio \u0130le takasli 38000 tl 05422377700 Afyon.",
+          1457342950
+        ],
+        [
+          "BMW-Happy birthday. Happy 100th anniversary.",
+          1457309778
+        ],
+        [
+          "1 day to go until our 100th anniversary. We\u2019re counting down to the start of our #next100: \n\nIn the theme of one, we present you with it. Debuted in 2004, the BMW 1 Series has become an icon of urban and compact mobility. Timeline Photos.",
+          1457280003
+        ],
+        [
+          "2 days to go until our 100th anniversary. We\u2019re counting down to the start of our #next100:\n\nThe penultimate step in our countdown to our anniversary, the BMW 2 Series. Available in 4 body types, including a coup\u00e9, convertible, the Active Tourer and the Gran Tourer, the 2 series is our broadest range of agile driving dynamics and versatility. Timeline Photos.",
+          1457193602
+        ],
+        [
+          "3 days to go until our 100th anniversary. We\u2019re counting down to the start of our #next100:\n\nGood things come in 3s. In this case its the BMW 3 Series, as we are only 3 steps away from celebrating our 100th anniversary: our most popular car in the line-up, the BMW 3 Series is the embodiment of a sporty sedan. Timeline Photos.",
+          1457118002
+        ],
+        [
+          "4 days to go until our 100th anniversary. We\u2019re counting down to the start of our #next100:\n\nConnect 4 to count down further \u2013 the BMW 4 Series was designed to be the pinnacle of streamlined driving dynamics. Timeline Photos.",
+          1457020803
+        ],
+        [
+          "5 days to go until our 100th anniversary. We\u2019re counting down to the start of our #next100:\n\nThis time we present you with the BMW 5 Series: outstanding, stylish, charismatic. You can feel the sporty driving pleasure that the BMW 5 Series delivers, while guaranteeing safety and the highest possible comfort. Timeline Photos.",
+          1456934405
+        ],
+        [
+          "6 days to go until our 100th anniversary. We\u2019re counting down to the start of our #next100:\n\nThe BMW 6 Series gives you a palpable sense of dynamics and unparalleled athleticism. Timeline Photos.",
+          1456862403
+        ],
+        [
+          "7 days to go until our 100th anniversary. We\u2019re counting down to the start of our #next100:\n\nFocussing on #drivingluxury, visionary aesthetics and top notch driving dynamics, the BMW 7 Series is a statement of innovation ahead of its time. Timeline Photos.",
+          1456761609
         ],
         [
           "Slippery when cold. Thumbs up for the Snow BMW Basic Training:\nhttp://www.bmw-drivingexperience.com/ Timeline Photos.",
           1454947204
         ],
         [
+          "Five generations, one passion: Watch this playlist to get to know every generation of the BMW M3 in depth.\n\nhttps://youtu.be/szzTYiukBwI?list=PLa5S6UwF22IJzi7pMDjrqX74EVjfd0d86. Timeline Photos.",
+          1454083208
+        ],
+        [
           "A Melbourne Red Metallic BMW 3 Series with M Aerodynamic package on smooth tarmac just screams unmatched driving pleasure and dynamics. Timeline Photos.",
           1454054403
+        ],
+        [
+          "BMW EfficientLightweight helps it float like a butterfly, and the BMW Twin Turbo Engines make it sting like a bee. The BMW 6 Series Coup\u00e9. BMW UK. Timeline Photos.",
+          1453132744
         ],
         [
           "Guess who? Timeline Photos.",
@@ -615,8 +761,44 @@
           1452181956
         ],
         [
+          "Most fun happens when the sun goes down, and the BMW Laserlights are unleashed. The all-new BMW 7 Series. #drivingluxury BMW UK. Timeline Photos.",
+          1452092682
+        ],
+        [
+          "The original since 1975: The BMW 3 Series is the embodiment of a sporty sedan, even at a standstill. BMW UK. Timeline Photos.",
+          1452073324
+        ],
+        [
+          "HAPPY NEW YEAR.",
+          1451560806
+        ],
+        [
+          "Merry Christmas and Happy New Year 2016!!!",
+          1450954268
+        ],
+        [
+          "Sportier than all. More elegant than ever. Dynamics unrivalled. \n\nThe BMW 3 Series. BMW UK. Timeline Photos.",
+          1450775852
+        ],
+        [
           "Red Chrome e39 from Azerbaijan :)",
           1450689145
+        ],
+        [
+          "Black panther.\nThe sportier-than-ever BMW 3 Series roars, even before you press the ignition. BMW UK. Timeline Photos.",
+          1450009055
+        ],
+        [
+          "Fits right in with the panorama.\nThe BMW 3 Series.\nBMW UK. Timeline Photos.",
+          1449820548
+        ],
+        [
+          "Definition of a scene stealer: The BMW X1 gives grand performance on any terrain. BMW UK. Timeline Photos.",
+          1449676595
+        ],
+        [
+          "With the agility of the BMW 1 Series, you are ready to take on every maze of streets. Timeline Photos.",
+          1449409130
         ],
         [
           "if they ask to choose between the BMW and your eyes i will choose BMW and i will burn the BMW for your eyes.",
@@ -627,20 +809,100 @@
           1449181148
         ],
         [
+          "Delivery of our new BMW's. #LookingGood :D",
+          1449156882
+        ],
+        [
+          "The birthplace of the industrial revolution needs a car to 'boot'. The revolutionary and all-new BMW 7 Series. #drivingluxury BMW UK. Timeline Photos.",
+          1448610842
+        ],
+        [
+          "Turning parking structures into museums; the new BMW 7 Series is #drivingluxury unparalleled, even when parallel parked. BMW UK. Timeline Photos.",
+          1448380704
+        ],
+        [
+          "Satin Red #BMWM6 with custom decals and chrome delete.  \n\nShe was sooooo happy to see her cars transformation.",
+          1447800157
+        ],
+        [
           "The hills may have eyes, but they're all focused on the BMW Z4 Roadster. Timeline Photos.",
           1447056413
+        ],
+        [
+          "Oh, the places you'll go. The all-new BMW X1. BMW UK. Timeline Photos.",
+          1446566674
         ],
         [
           "Hard to spot in the snow, still outstanding: The BMW X3 in Mineral White metallic. Timeline Photos.",
           1446031680
         ],
         [
+          "1 Series, but 8-speed Steptronic transmission. The transmission of the BMW 1 Series sets a new benchmark in comfort and dynamic performance. BMW UK. Timeline Photos.",
+          1446019988
+        ],
+        [
+          "The new BMW X1's idea of a carwash. Timeline Photos.",
+          1445177189
+        ],
+        [
+          "The 6th generation BMW 3 Series boasts optimum weight distribution, classic rear-wheel drive and powerful, high-efficiency engines with BMW EfficientDynamics technology. To say that this generation of the 3 Series has been taken to new heights is simply an understatement. BMW UK. Timeline Photos.",
+          1444743006
+        ],
+        [
+          "King of the Castle. The BMW 6 Series Coup\u00e9. BMW UK. Timeline Photos.",
+          1444717475
+        ],
+        [
+          "Options like the Sport Line, Luxury Line or M Sport package are just 3 ways to fall in love with the BMW 3 Series. BMW UK. Timeline Photos.",
+          1444629521
+        ],
+        [
+          "his first SPYDER BMW i8,  Happy birthday My son...",
+          1444618797
+        ],
+        [
+          "Driver service institution happy new cars bmw .",
+          1444493450
+        ],
+        [
+          "Oysters are a well known aphrodisiac, the same goes for the Dakota Oyster leather interior. Available in several BMW models. Timeline Photos.",
+          1444025153
+        ],
+        [
           "To know where you're going, you need to know where you came from. The #BMW #7series legacy. Timeline Photos.",
           1443943923
         ],
         [
+          "Ask and you shall receive! The new BMW X1 is \u2013 in addition to the basic model, the models Advantage, Sport Line and xLine \u2013 now also available in an M Sport version. Timeline Photos.",
+          1443016920
+        ],
+        [
+          "Low to the ground for that \"I-can-take-any-corner-anytime\" feeling. The BMW 1 Series is ready for whatever you are. Timeline Photos.",
+          1442499232
+        ],
+        [
           "An 8-speed steptronic sports transmission, variable sport steering, and an alluring body? This BMW X4 isn't just red hot, its Melbourne Red metallic. Timeline Photos.",
           1441721536
+        ],
+        [
+          "My Boss has a New Toy :-)",
+          1439383138
+        ],
+        [
+          "3legance. The new BMW 3 Series Sedan in Mediterranean Blue. Timeline Photos.",
+          1439359639
+        ],
+        [
+          "Face to face with the first generation of the BMW 3 Series and the all-new BMW 3 Series. Great encounters happen in great vehicles. Timeline Photos.",
+          1438598311
+        ],
+        [
+          "Let's find a beautiful place to calm down and take a deep breath. The new BMW 3 Series Sedan in Mediterranean Blue. Timeline Photos.",
+          1438498681
+        ],
+        [
+          "Forty years, six generations, five body types. The evolution of a legend. Happy 40th anniversary to the BMW 3 Series!",
+          1437486607
         ],
         [
           "Choose your weekend activities wisely. Our recommendation? The BMW Z4 in Estoril blue metallic. Photos from BMW's post.",
@@ -649,6 +911,18 @@
         [
           "In the all-new BMW X1 you'll find yourself in the middle of the action, wherever you go. Timeline Photos.",
           1436716541
+        ],
+        [
+          "Pozdrawiamy :)\nNast\u0119pny model zakupimy u Pa\u0144stwa :)",
+          1436644409
+        ],
+        [
+          "Hip Hop Hooray \u2013 The best way to celebrate 40 years of the BMW 3 Series is to get in your car and check out the #BMWstories #legends of Hip Hop playlist on @Spotify!\n\nhttps://play.spotify.com/user/bmw/playlist/5kalJ2Fv3bHv2gjhjUREXk?play=true&utm_source=open.spotify.com&utm_medium=open\n\nNot a hip hop fan? Stay tuned for more #BMWstories #legends playlists to come. Timeline Photos.",
+          1435154372
+        ],
+        [
+          "Evolutionary success. 40 years of the BMW 3 Series. BMW UK. 40 years of the BMW 3 Series.",
+          1435127676
         ],
         [
           "Dracarys. Timeline Photos.",
@@ -667,8 +941,64 @@
           1434112669
         ],
         [
+          "Beautiful impressions are there to be found. Follow the new BMW 3 Series Sedan & Touring on its journey: https://youtu.be/yVp1NRPJZWk. Timeline Photos.",
+          1433836991
+        ],
+        [
+          "Three ways to enjoy the seaside. And the sky. The new BMW 6 Series model range. Timeline Photos.",
+          1433423973
+        ],
+        [
+          "Sometimes, Chris Willett loves his customers' cars so much as if they were his own. No big surprise though, as he's working solely with second generation BMW 3 Series. https://youtu.be/e5ryPWQEpFg #BMWstories #legends. Timeline Photos.",
+          1431524736
+        ],
+        [
+          "Gerry Nasution from Indonesia and his crew built a through-and-through race car out of a second generation 1985 BMW 316i, hitting the track for the first time in 2008. Over the last 6 years, they won around 120 trophies, making this little racer the best of the best in it's class.\n40 years of BMW 3 Series - A million different stories. Which is yours? #BMWstories\nwww.bmw.com/bmwstories_legends.",
+          1431344539
+        ],
+        [
+          "Happy Mother\u2019s Day! Make sure you wish your mother a special day by tagging her in the comments. Timeline Photos.",
+          1431277060
+        ],
+        [
+          "BMW NEW M5 \ud83d\ude09.",
+          1429968642
+        ],
+        [
+          "What do you think of this? Yesyerday we had 3 generations of BMW parked in the car park The Metropole Hotel.",
+          1429525524
+        ],
+        [
+          "Our senior dog SlimDoggy Jack sure appreciates the easy access in and out of his new BMW 328i.",
+          1428499009
+        ],
+        [
+          "A beast in the wild. A model inside. Timeline Photos.",
+          1427811165
+        ],
+        [
+          "Each trip in a BMW is like flying away on your holidays. BMW UK. Timeline Photos.",
+          1427040710
+        ],
+        [
+          "HAPPY 99th BIRTHDAY !!!",
+          1425738028
+        ],
+        [
+          "Man vs Machine - Who can drift the perfect circle?\n\nA BMW 2 Series Coup\u00e9 equipped with special BMW Connected Drive technologies that facilitate automated driving.\n\nVs.\n\nDai Yoshihara, Formula Drift Champion 2011 and one of the precision drivers at The Epic Driftmob in 2014 in a BMW 2 Series Coup\u00e9 M235i without these technologies.\n\nDive into BMW Stories to explore the connected mobility of BMW.\n\nhttp://bit.ly/ConnectedStories. Timeline Photos.",
+          1425326762
+        ],
+        [
+          "VIP. Very Important Parking-spot. BMW 7 Series Sedan Long version. Timeline Photos.",
+          1425220183
+        ],
+        [
           "BMW i8 Wears a Yellow Suit with Red Accents [PHOTO GALLERY]\nRead More and seeing...\n BMW i8 Wears a Yellow Suit with Red Accents. BMW's decision to restrict the i8 hybrid's color palette to just four options (white, silver, blue and grey), isn't really sitting well with their Abu Dhabi-based distributor.",
           1425076080
+        ],
+        [
+          "Happy Friday! Our happy customer, Sam, just stopped by. He loves to smile, ride in his mom's new X5, and give out free hugs!",
+          1425050737
         ],
         [
           "The next milestone: The BMW M6 GT3 is unveiled at BMW's premises in Dingolfing. Timeline Photos.",
@@ -679,12 +1009,24 @@
           1422905401
         ],
         [
+          "The third generation of the BMW 3 Series \u2013 the beginning of a new era http://youtu.be/ro_kiMrjtSU. Timeline Photos.",
+          1422345796
+        ],
+        [
+          "Choose yours: the BMW 1 Series, Model M Sport and Model Urban Line. Timeline Photos.",
+          1422287162
+        ],
+        [
           "Treasure chest. Timeline Photos.",
           1421856731
         ],
         [
           "There is no such thing as bad weather. Timeline Photos.",
           1421140214
+        ],
+        [
+          "See it. Hear it. Feel it. The new BMW M6 Series shows what it is capable of. http://youtu.be/_h7xJAii2F0. Timeline Photos.",
+          1420993441
         ],
         [
           "Red hot. The new M6 Coup\u00e9 at its best. Timeline Photos.",
@@ -695,24 +1037,56 @@
           1420703456
         ],
         [
+          "My new choice you.",
+          1420576780
+        ],
+        [
           "BMW i8 is entering Las Vegas for CES 2015. Timeline Photos.",
           1420553159
+        ],
+        [
+          "Buffalo NY. New Years Eve.",
+          1420053690
+        ],
+        [
+          "The new BMW 6 Series models \u2013 whatever your needs and wants, there is one for you. http://youtu.be/SzSy7UXpaso. Timeline Photos.",
+          1419151644
         ],
         [
           "Sonic Vroom. Timeline Photos.",
           1418834375
         ],
         [
+          "HAPPY NEW YEAR BMW FANS.",
+          1418751316
+        ],
+        [
           "V\u00edte, \u017ee v\u0161echny novinky o BMW m\u016f\u017eete sledovat tak\u00e9 v \u010de\u0161tin\u011b na str\u00e1nce BMW \u010cesk\u00e1 republika? Sta\u0148te se na\u0161imi fanou\u0161ky a nic v\u00e1m neunikne! T\u011b\u0161\u00edme se na v\u00e1s! Timeline Photos.",
           1418723377
+        ],
+        [
+          "The new BMW 6 Series Coup\u00e9 combines majestic performance with an undeniable aura of dynamic elegance. http://www.bmw.com/com/en/newvehicles/6series/coupe/2014/keep_informed/index.html. Grace and Power.",
+          1418659366
         ],
         [
           "Dashing through the snow, in a 431 horse sleigh. Timeline Photos.",
           1418633267
         ],
         [
+          "Timeless fascination: Agile dynamics and exclusive elegance uniquely blend in the new BMW 6 Series models.\n\nhttp://www.bmw.com/com/en/newvehicles/6series/keep_informed_2014.html. The new BMW 6 Series models.",
+          1418315522
+        ],
+        [
+          "50 years of pushing the limits. 50 years of BMW Touring Car Racing. \"Adrenalin\", a 120-minute documentary on the BMW Racing history, is now available on DVD and BluRay.\n\nhttp://www.adrenalin-film.de. Timeline Photos.",
+          1417190345
+        ],
+        [
           "A. Biermann, V.P. of Engineering at BMW M and BMW Individual, talks about the highlights of the BMW M3 & BMW M4. http://youtu.be/Hwhq2-xdQO4. Timeline Photos.",
           1416931345
+        ],
+        [
+          "BMW 5 Series laying Frame on our Matte Graphite VFS1's",
+          1416859251
         ],
         [
           "Hotter than the desert: wherever, whenever the BMW X5 M and BMW X6 M claim the territory for you. http://youtu.be/8QJigHtz40E. Timeline Photos.",
@@ -735,12 +1109,28 @@
           1412864581
         ],
         [
+          "#BMW #Alpina B6 Biturbo is a next generation luxury.",
+          1412069039
+        ],
+        [
           "All eyes on me. When the BMW i8 turns into a street, the road turns into red carpet. http://youtu.be/nQdKTDD9Fa4. Timeline Photos.",
           1411739783
         ],
         [
           "There are 560 horses hidden in this picture. Can you find them? Timeline Photos.",
           1410964801
+        ],
+        [
+          "BMW 8 Series.",
+          1410633276
+        ],
+        [
+          "BMW NEW MODELS 2014.",
+          1410183405
+        ],
+        [
+          "BMW NEW MODEL 2014.",
+          1410096888
         ],
         [
           "#BMW i8 2015 in blue color (side_view)",
@@ -755,12 +1145,32 @@
           1405086704
         ],
         [
+          "New BMW.",
+          1404929112
+        ],
+        [
           "Yas Marina Blue Metallic M4.",
           1403893540
         ],
         [
+          "Et la BMW Serie 5 e60 qu'en pensez vous? :)\nAnd BMW series 5 e60 that think about it? :)",
+          1403020593
+        ],
+        [
           "hdr image 2006 z4m sepang bronze metallic.",
           1402962481
+        ],
+        [
+          "Happy 8irthday!\n120 cars came together to celebrate the 25th anniversary of the BMW 8 Series. 260 participants from 20 countries joined the party at its Bavarian birthplace. #BMWstories. 25 years BMW 8 Series.",
+          1402409018
+        ],
+        [
+          "Somebody said the new 2015 BMW X4 is too small for SUV and too big for coupe. I say IT`s THE BMW!\nhttp://carslike2015.com/2015-bmw-x4-review/ 2015 BMW X4 review - New cars 2014 2015. The new 2015 BMW X4 is small 5-passenger SUV based on BMW X3 SUV platform but it is longer, lower and sportier. It comes with price starting at $45,600.",
+          1401704179
+        ],
+        [
+          "Usually, beasts are difficult to handle. This one is different.\nThe new BMW M5 with Competition Package: http://bit.ly/1h1oL4c. Timeline Photos.",
+          1395939026
         ],
         [
           "Trust that you'll deal with this in the correct manner...",
@@ -775,12 +1185,28 @@
           1394811430
         ],
         [
+          "Lols which series model is this :p",
+          1394226252
+        ],
+        [
+          "Get fit with pleasure. Driving Pleasure, to be precise. The new generation of BMW Bikes: http://bit.ly/MUlSKo. BMW Bikes 2014.",
+          1394208703
+        ],
+        [
           "BMW 4 S\u00e9rie na exkluz\u00edvnych diskoch VOSSEN CVT Metallic Silver - F: 20x9 / R: 20x10.5 \nKompletn\u00fa ponuku diskov VOSSEN n\u00e1jdete tu: www.atctuning.sk.",
           1393958350
         ],
         [
+          "Nuova Serie 2 all'anteprima Domenica 2 Marzo.. Spettacolare!",
+          1393850603
+        ],
+        [
           "Inspired by nature. See why the BMW i8 aerodynamics is about more than what meets the eye. http://bit.ly/1g2DYow. Timeline Photos.",
           1393257394
+        ],
+        [
+          "This is for Driving Pleasure on mountain trails. Get a glimpse of the New Generation BMW Bikes: http://bit.ly/1jQmAHf. Timeline Photos.",
+          1392999136
         ],
         [
           "I spy with my little eye something that is red. Timeline Photos.",
@@ -791,36 +1217,38 @@
           1391101529
         ]
       ],
-      "dates_start": 1406316774,
-      "dates_end": 1460980718,
-      "likes_avg": 21812,
-      "likes_stdev": 27995,
-      "comments_avg": 198,
-      "comments_stdev": 261,
-      "shares_avg": 954,
-      "shares_stdev": 1431
+      "dates_start": 1413703904,
+      "dates_end": 1465761277,
+      "likes_avg": 13858,
+      "likes_stdev": 24808,
+      "comments_avg": 194,
+      "comments_stdev": 901,
+      "shares_avg": 775,
+      "shares_stdev": 2318
     },
     {
       "number": 4,
       "important": [
-        "timelin",
+        "convert",
         "photo",
-        "bmw seri",
-        "seri",
-        "bmw seri convert"
+        "bmw",
+        "drive",
+        "eleg",
+        "perform",
+        "luxuri"
       ],
-      "summary": "The BMW 2 Series Convertible. The first-ever BMW 2 Series Convertible. The new BMW 6 Series Convertible. \u2013 See the performance of the first-ever BMW M4 Convertible: http://youtu.be/cIyHm6hSMrc. The first-ever BMW M4 Convertible.",
+      "summary": "Pepper Yandell Photography shows you the art of car photography with the BMW 2 Series Convertible: https://youtu.be/uYM64w8Wcds.\nWatch the BMW 2 Series Convertible cutting through the raindrops at 1000 frames per second: http://bit.ly/BMW2SeriesConvertible-Efficiency.\nThe BMW 2 Series Convertible impresses with its dynamic contours and sporty proportions \u2013 and, thanks to its contrast-colour softtop, lets its key talent come to the fore: Throwing caution to the wind and appealing to all the senses: http://bit.ly/1ot0clc.",
       "common": [
-        "bmw convert",
         "bmw seri",
         "bmw seri convert",
-        "firstev",
-        "firstev bmw",
-        "photo",
+        "bmw seri convert timelin",
+        "bmw seri convert timelin photo",
+        "convert timelin",
+        "convert timelin photo",
         "seri",
         "seri convert",
-        "timelin",
-        "timelin photo"
+        "seri convert timelin",
+        "seri convert timelin photo"
       ],
       "messages": [
         [
@@ -832,8 +1260,48 @@
           1485270010
         ],
         [
+          "Equipped with a built-in tanning option. \nThe BMW 2 Series Convertible. Timeline Photos.",
+          1483516802
+        ],
+        [
+          "Sunshine on wheels.\nThe BMW 4 Series Convertible. Timeline Photos.",
+          1481832002
+        ],
+        [
+          "The ultimate airstream in the shade.\nThe BMW 6 Series Convertible. Timeline Photos.",
+          1481140803
+        ],
+        [
+          "What a holiday should feel like.\nThe BMW 2 Series Convertible. Timeline Photos.",
+          1481011203
+        ],
+        [
+          "Full throttle ahead. \nCharlie's Angels in the form of three BMW 4 Series Convertibles. Timeline Photos.",
+          1480925402
+        ],
+        [
+          "Rays of sunshine are seamlessly integrated in the design of the BMW 2 Series Convertible. Timeline Photos.",
+          1480363204
+        ],
+        [
+          "Sunday sunny Sunday. \ud83d\ude0e\nThe BMW 6 Series Convertible. Timeline Photos.",
+          1480233949
+        ],
+        [
           "Convert to a life of joy and enjoy every road. \nThe BMW 2 Series Convertible. The BMW 2 Series Convertible.",
           1479456009
+        ],
+        [
+          "Ensuring you always make a perfect emotional impression. \nThe BMW 6 Series Coup\u00e9 and BMW 6 Series Convertible. Timeline Photos.",
+          1478764803
+        ],
+        [
+          "Keep your eyes on the road while viewing the relevant driving information. The Head Up Display, available in the BMW 4 Series Convertible. Timeline Photos.",
+          1478506230
+        ],
+        [
+          "A ray of sunshine takes physical form: the BMW 4 Series Convertible. Timeline Photos.",
+          1476165603
         ],
         [
           "Open to anything.\nThe BMW 2 Series Convertible is the perfect companion for a road trip. Where would you take it to? Timeline Photos.",
@@ -848,6 +1316,14 @@
           1469772005
         ],
         [
+          "Make every road your own driveway. The BMW 4 Series Convertible. Timeline Photos.",
+          1468432806
+        ],
+        [
+          "One of the fastest ways to chase the sun: the BMW 2 Series Convertible. Timeline Photos.",
+          1467093604
+        ],
+        [
           "This summer, let the top down and the whole world in. \nThe Hard-Top BMW 4 Series Convertible for the soft hearts. Timeline Photos.",
           1467014555
         ],
@@ -860,8 +1336,20 @@
           1464069062
         ],
         [
+          "Excitement and adventure are just a drop top away... The BMW 4 Series Convertible. Timeline Photos.",
+          1462082402
+        ],
+        [
           "The BMW 2 Series Convertible: For both April showers and May flowers. Timeline Photos.",
           1461693605
+        ],
+        [
+          "Like a cruising yacht, but for the road: the BMW 6 Series Convertible. Timeline Photos.",
+          1459346223
+        ],
+        [
+          "Makes you wanna jump right in: The BMW 4 Series Convertible. Timeline Photos.",
+          1458748804
         ],
         [
           "The first-ever BMW M2 Coup\u00e9 now comes with M Performance Parts. Maximum sportiness in a compact vehicle, executed perfectly. www.bmw.com/mperformance.",
@@ -876,16 +1364,36 @@
           1441893462
         ],
         [
+          "Some cities are just too beautiful to hide behind roofs. The BMW 2 Series Convertible. Timeline Photos.",
+          1441634580
+        ],
+        [
           "Soak up more than just the sun. The BMW 4 Series Convertible makes the possibilities endless. Timeline Photos.",
           1441443881
+        ],
+        [
+          "When in Vegas, at least never gamble on your ride. The BMW 4 Series Convertible. Timeline Photos.",
+          1440569917
         ],
         [
           "Just for once let's slow down and watch The Slow Mo Guys taking the BMW 2 Series Convertible on a slow motion ride. This is how the perfect aerodynamics of a convertible work to prevent passengers from getting wet in the rain:  https://youtu.be/6UpmhbPaOHY http://bit.ly/BMW2SeriesConvertible-Efficiency. Timeline Photos.",
           1428327513
         ],
         [
+          "It's not about taking a photo. It's about sharing a passion. Pepper Yandell Photography shows you the art of car photography with the BMW 2 Series Convertible: https://youtu.be/uYM64w8Wcds. Timeline Photos.",
+          1427696534
+        ],
+        [
           "Enjoy driving your BMW to the full. Enjoy every second of it. Every millisecond, in fact, like the The Slow Mo Guys did. See how the perfect aerodynamics of a convertible work to prevent passengers from getting wet in the rain. Watch the BMW 2 Series Convertible cutting through the raindrops at 1000 frames per second: http://bit.ly/BMW2SeriesConvertible-Efficiency. Convertible Aerodynamics at 1000fps - The Slow Mo Guys. Gav and Dan take the BMW 2 Series Convertible for a spin showing off some sweet air and liquid dynamics at over 100MPH. http://www.bmw.com/2SeriesConvertible...",
           1426878001
+        ],
+        [
+          "Caution! NSFW: topless photo. The BMW 4 Series Convertible. Timeline Photos.",
+          1425285149
+        ],
+        [
+          "Agile. Beautiful. Classic. Distinctive. Elegant. Futuristic. Groundbreaking. Hallowed. Innovative. Jet-setting. Kinetic. Luxurious. Masterful. Notable. Powerful. Quality. Revolutionary. Sleek. Tantalising. Unparalleled. Versatile. X-treme. Youthful. Zesty.\n\nBMW 6 Series Convertible. Timeline Photos.",
+          1425024625
         ],
         [
           "Scene Stealer. \nEvery facet of the new BMW 6 Series Convertible expresses agility, aerodynamics and a forward thrust. \nhttp://bit.ly/6Series_Convertible. The new BMW 6 Series Convertible.",
@@ -956,714 +1464,27 @@
           1393928253
         ]
       ],
-      "dates_start": 1401269772,
-      "dates_end": 1463437826,
-      "likes_avg": 10377,
-      "likes_stdev": 13666,
-      "comments_avg": 108,
-      "comments_stdev": 119,
-      "shares_avg": 849,
-      "shares_stdev": 879
+      "dates_start": 1412811091,
+      "dates_end": 1475719097,
+      "likes_avg": 11221,
+      "likes_stdev": 11861,
+      "comments_avg": 100,
+      "comments_stdev": 102,
+      "shares_avg": 690,
+      "shares_stdev": 757
     },
     {
       "number": 5,
       "important": [
-        "inform",
-        "timelin",
-        "winter",
+        "bmw",
         "photo",
-        "train"
-      ],
-      "summary": "The BMW Driving Experience: http://www.bmw-drivingexperience.com. BMW Driving Experience. Never in question at the BMW Driving Experience. Take one at the BMW Driving Experience in Namibia! Bringing adrenaline junkies to the track: watch winter sports athletes join the BMW Driving Experience in the BMW M4 at Salzburgring in Austria.",
-      "common": [
-        "fun",
-        "inform",
-        "make",
-        "nordschleif",
-        "photo",
-        "s\u00f6lden",
-        "timelin",
-        "timelin photo",
-        "train",
-        "winter"
-      ],
-      "messages": [
-        [
-          "Brace yourself, the BMW Driving Experience Winter Training is coming.\nFor more information, head to:  www.bmw-drivingexperience.com. Timeline Photos.",
-          1476882003
-        ],
-        [
-          "How to spur some horses: the BMW Driving Experience Netherlands. Timeline Photos.",
-          1459404004
-        ],
-        [
-          "We heard you like mud baths? Take one at the BMW Driving Experience in Namibia! Get all the information here: http://www.bmw-drivingexperience.com/en/training-venues/namibia.html. Timeline Photos.",
-          1459231204
-        ],
-        [
-          "Discover Namibia in 11 days with the BMW Driving Experience. Experience what makes Africa so fascinating, in a wild and yet luxurious manner at the wheel of a BMW X5. Book your Driving Experience right here: http://www.bmw-drivingexperience.com/en/training-courses/training-course-finder/bmw-namibia-multiday-tour-11-tage.html.",
-          1456835165
-        ],
-        [
-          "Oh what fun it is to ride: Take part in the BMW Driving Experience Snow & Ice trainings in S\u00f6lden (Austria) to experience winter's bliss on four wheels.\nSign up here: http://www.bmw-drivingexperience.com/ Timeline Photos.",
-          1454515204
-        ],
-        [
-          "\"Do you wanna build a snowman?!\" was so 2013-2014. This winter find new ways to have 'Frozen' fun at BMW Driving Experience S\u00f6lden or Arjeplog. Shift gears in the world's highest winter training site in the world's most ideal conditions. See you there! For more information head to http://www.bmw-drivingexperience.com/de/trainings/trainingsfinder.html#/all/Type:Winter.",
-          1446047867
-        ],
-        [
-          "Precision driving even in the toughest conditions. Never in question at the BMW Driving Experience. Try it out for yourself right here: http://www.bmw-drivingexperience.com/bmw/COM/bmw_driving_experience_com/en/training-courses/dates-and-booking.html.",
-          1438611416
-        ],
-        [
-          "Bringing adrenaline junkies to the track: watch winter sports athletes join the BMW Driving Experience in the BMW M4 at Salzburgring in Austria.",
-          1438006229
-        ],
-        [
-          "Fun guaranteed on each and every surface. The BMW Driving Experience: http://www.bmw-drivingexperience.com.",
-          1427099699
-        ],
-        [
-          "How best to drift and control your vehicle in an unforeseen situation?\n1. Enter BMW Driving Experience.\n2. Book your instructed training.\n3. Have all the fun!\n\n http://bit.ly/BMWMDrivingExperience. Photos from BMW's post.",
-          1426254693
-        ],
-        [
-          "Make your mark this winter. BMW Driving Experience. Timeline Photos.",
-          1423062841
-        ],
-        [
-          "Driving in a winter wonderland. BMW Driving Experience. Timeline Photos.",
-          1420620330
-        ],
-        [
-          "Being a student has never been so much fun: the BMW Driving Experience at Nordschleife. Timeline Photos.",
-          1413295671
-        ],
-        [
-          "48h, 80 participants, pure adrenaline \u2013 enter the Green Hell with BMW Driving Experience. BMW Driving Experience Racetrack Trainings: Fascination Nordschleife. \"Green Hell\" is calling! Many sporty drivers dream of driving a BMW M4 Coup\u00e9 on the famous Nordschleife. BMW Driving Experience makes this dream come true - ...",
-          1409580904
-        ],
-        [
-          "Our perception of winter sports:\nA day with BMW Driving Experience in the Austrian alps near S\u00f6lden. The BMW M4 on the piste.",
-          1392133938
-        ]
-      ],
-      "dates_start": 1413949740,
-      "dates_end": 1458261081,
-      "likes_avg": 12284,
-      "likes_stdev": 12067,
-      "comments_avg": 125,
-      "comments_stdev": 84,
-      "shares_avg": 765,
-      "shares_stdev": 649
-    },
-    {
-      "number": 6,
-      "important": [
-        "timelin",
-        "new bmw",
-        "photo",
-        "bmw seri",
-        "seri"
-      ],
-      "summary": "The new BMW 4 Series. The BMW 3 Series. The new BMW 6 Series models. Face to face with the first generation of the BMW 3 Series and the all-new BMW 3 Series. Happy 40th anniversary to the BMW 3 Series!",
-      "common": [
-        "bmw seri",
-        "happi",
-        "model",
-        "new",
-        "new bmw",
-        "photo",
+        "usa",
         "seri",
-        "timelin",
-        "timelin photo",
-        "year"
+        "sheer driv",
+        "feel",
+        "pleasur"
       ],
-      "messages": [
-        [
-          "Something for everyone. The new BMW 4 Series. \nFour new wheel designs: Advantage, Sport, Luxury and M Sport. Timeline Photos.",
-          1489651768
-        ],
-        [
-          "No matter whether you are a city person or an outback lover, the BMW 3 Series Sedan and Touring will always be your reliable ride. Timeline Photos.",
-          1488701370
-        ],
-        [
-          "The greatest.\nThe new BMW 4 Series line-up. Timeline Photos.",
-          1487171374
-        ],
-        [
-          "Happy Valentine\u2019s Day. Timeline Photos.",
-          1487084974
-        ],
-        [
-          "New bi-colour 20-inch M light-alloy wheels are among the new additions to the BMW 6 Series Coup\u00e9 range. Timeline Photos.",
-          1485547202
-        ],
-        [
-          "Four means more.\nMeet the new BMW 4 Series.",
-          1484640073
-        ],
-        [
-          "That sounds like music to our ears.\nThe new BMW 4 Series will be revealed tomorrow.\nWait 4 more.",
-          1484553645
-        ],
-        [
-          "2016 has come to an end, the year that BMW turned 100. A year that featured many highlights including our vision for the future. We can't wait to show you what we have planned for 2017. Happy new year. Timeline Photos.",
-          1483196402
-        ],
-        [
-          "Spending time with family, is what the holidays are all about.\nHappy holidays. Timeline Photos.",
-          1482678002
-        ],
-        [
-          "You are more than just the driver in the BMW 4 Series Coup\u00e9. The interior design is shaped around you for maximum driving focus. Timeline Photos.",
-          1482134402
-        ],
-        [
-          "Always in shape. \nThe BMW 2 Series Coup\u00e9 is always ready to take the lead. Timeline Photos.",
-          1481875534
-        ],
-        [
-          "The BMW X4 is always happy to play outside. Timeline Photos.",
-          1478203831
-        ],
-        [
-          "The photographer didn\u2019t notice anything strange. But, on closer inspection... \nHappy Halloween. \ud83d\udc7b. Timeline Photos.",
-          1477926005
-        ],
-        [
-          "Design is its own form of power. The design of the BMW 4 Series Coup\u00e9 fascinates with its athletic and dynamic presence. Timeline Photos.",
-          1474049409
-        ],
-        [
-          "On the way towards automated driving. The next generation of the BMW 5 Series, coming soon.",
-          1474030846
-        ],
-        [
-          "Always know what is happening around your vehicle. The next generation of the BMW 5 Series with the BMW Connected feature \u2018Remote 3D View\u2019. Coming soon.",
-          1472216461
-        ],
-        [
-          "BMW has successfully become the first automotive company to use a fully-automated, optical measuring cell in car manufacturing. The next generation BMW 5 Series has yet to hit the road, but has already claimed its stake in the history books. Timeline Photos.",
-          1470679204
-        ],
-        [
-          "Precise, dynamic and sculpted: quintessential BMW design cues give the new BMW 7 Series an authoritative presence from every angle, ensuring that you are not only #drivingluxury, but looking at it too. Timeline Photos.",
-          1469599205
-        ],
-        [
-          "Whether you choose the BMW 3 Series Sedan or Touring, the capacity for adventure will overflow.\n\nFind out how by heading to http://www.bmw.com/com/en/insights/strengthen_the_core_family_landingpage/index.html. Timeline Photos.",
-          1467783123
-        ],
-        [
-          "Over 40 years of excellence. The BMW 3 Series. \n\nWhich generation is your favourite? Timeline Photos.",
-          1466143204
-        ],
-        [
-          "The most beloved BMW model also comes with a little bit of extra buzz: the BMW 3 Series iPerformance, the new label for our plug-in hybrid vehicles with eDrive. Timeline Photos.",
-          1462904583
-        ],
-        [
-          "We could always do performance, but now we're even into iPerformance: The new BMW iPerformance models with eDrive technology. Timeline Photos.",
-          1459260003
-        ],
-        [
-          "yeahhhhhhhhhhhhhhhhhhhhhhhhhh Happy 100th anniversary from Manomtr's Team !!",
-          1457346445
-        ],
-        [
-          "1998 model 3.20 cabrio \u0130le takasli 38000 tl 05422377700 Afyon.",
-          1457342950
-        ],
-        [
-          "BMW-Happy birthday. Happy 100th anniversary.",
-          1457309778
-        ],
-        [
-          "1 day to go until our 100th anniversary. We\u2019re counting down to the start of our #next100: \n\nIn the theme of one, we present you with it. Debuted in 2004, the BMW 1 Series has become an icon of urban and compact mobility. Timeline Photos.",
-          1457280003
-        ],
-        [
-          "2 days to go until our 100th anniversary. We\u2019re counting down to the start of our #next100:\n\nThe penultimate step in our countdown to our anniversary, the BMW 2 Series. Available in 4 body types, including a coup\u00e9, convertible, the Active Tourer and the Gran Tourer, the 2 series is our broadest range of agile driving dynamics and versatility. Timeline Photos.",
-          1457193602
-        ],
-        [
-          "3 days to go until our 100th anniversary. We\u2019re counting down to the start of our #next100:\n\nGood things come in 3s. In this case its the BMW 3 Series, as we are only 3 steps away from celebrating our 100th anniversary: our most popular car in the line-up, the BMW 3 Series is the embodiment of a sporty sedan. Timeline Photos.",
-          1457118002
-        ],
-        [
-          "4 days to go until our 100th anniversary. We\u2019re counting down to the start of our #next100:\n\nConnect 4 to count down further \u2013 the BMW 4 Series was designed to be the pinnacle of streamlined driving dynamics. Timeline Photos.",
-          1457020803
-        ],
-        [
-          "5 days to go until our 100th anniversary. We\u2019re counting down to the start of our #next100:\n\nThis time we present you with the BMW 5 Series: outstanding, stylish, charismatic. You can feel the sporty driving pleasure that the BMW 5 Series delivers, while guaranteeing safety and the highest possible comfort. Timeline Photos.",
-          1456934405
-        ],
-        [
-          "6 days to go until our 100th anniversary. We\u2019re counting down to the start of our #next100:\n\nThe BMW 6 Series gives you a palpable sense of dynamics and unparalleled athleticism. Timeline Photos.",
-          1456862403
-        ],
-        [
-          "7 days to go until our 100th anniversary. We\u2019re counting down to the start of our #next100:\n\nFocussing on #drivingluxury, visionary aesthetics and top notch driving dynamics, the BMW 7 Series is a statement of innovation ahead of its time. Timeline Photos.",
-          1456761609
-        ],
-        [
-          "Five generations, one passion: Watch this playlist to get to know every generation of the BMW M3 in depth.\n\nhttps://youtu.be/szzTYiukBwI?list=PLa5S6UwF22IJzi7pMDjrqX74EVjfd0d86. Timeline Photos.",
-          1454083208
-        ],
-        [
-          "HAPPY NEW YEAR.",
-          1451560806
-        ],
-        [
-          "Merry Christmas and Happy New Year 2016!!!",
-          1450954268
-        ],
-        [
-          "With the agility of the BMW 1 Series, you are ready to take on every maze of streets. Timeline Photos.",
-          1449409130
-        ],
-        [
-          "Delivery of our new BMW's. #LookingGood :D",
-          1449156882
-        ],
-        [
-          "Satin Red #BMWM6 with custom decals and chrome delete.  \n\nShe was sooooo happy to see her cars transformation.",
-          1447800157
-        ],
-        [
-          "The new BMW X1's idea of a carwash. Timeline Photos.",
-          1445177189
-        ],
-        [
-          "his first SPYDER BMW i8,  Happy birthday My son...",
-          1444618797
-        ],
-        [
-          "Driver service institution happy new cars bmw .",
-          1444493450
-        ],
-        [
-          "Oysters are a well known aphrodisiac, the same goes for the Dakota Oyster leather interior. Available in several BMW models. Timeline Photos.",
-          1444025153
-        ],
-        [
-          "Ask and you shall receive! The new BMW X1 is \u2013 in addition to the basic model, the models Advantage, Sport Line and xLine \u2013 now also available in an M Sport version. Timeline Photos.",
-          1443016920
-        ],
-        [
-          "Low to the ground for that \"I-can-take-any-corner-anytime\" feeling. The BMW 1 Series is ready for whatever you are. Timeline Photos.",
-          1442499232
-        ],
-        [
-          "My Boss has a New Toy :-)",
-          1439383138
-        ],
-        [
-          "3legance. The new BMW 3 Series Sedan in Mediterranean Blue. Timeline Photos.",
-          1439359639
-        ],
-        [
-          "Face to face with the first generation of the BMW 3 Series and the all-new BMW 3 Series. Great encounters happen in great vehicles. Timeline Photos.",
-          1438598311
-        ],
-        [
-          "Let's find a beautiful place to calm down and take a deep breath. The new BMW 3 Series Sedan in Mediterranean Blue. Timeline Photos.",
-          1438498681
-        ],
-        [
-          "Forty years, six generations, five body types. The evolution of a legend. Happy 40th anniversary to the BMW 3 Series!",
-          1437486607
-        ],
-        [
-          "Pozdrawiamy :)\nNast\u0119pny model zakupimy u Pa\u0144stwa :)",
-          1436644409
-        ],
-        [
-          "Hip Hop Hooray \u2013 The best way to celebrate 40 years of the BMW 3 Series is to get in your car and check out the #BMWstories #legends of Hip Hop playlist on @Spotify!\n\nhttps://play.spotify.com/user/bmw/playlist/5kalJ2Fv3bHv2gjhjUREXk?play=true&utm_source=open.spotify.com&utm_medium=open\n\nNot a hip hop fan? Stay tuned for more #BMWstories #legends playlists to come. Timeline Photos.",
-          1435154372
-        ],
-        [
-          "Evolutionary success. 40 years of the BMW 3 Series. BMW UK. 40 years of the BMW 3 Series.",
-          1435127676
-        ],
-        [
-          "Beautiful impressions are there to be found. Follow the new BMW 3 Series Sedan & Touring on its journey: https://youtu.be/yVp1NRPJZWk. Timeline Photos.",
-          1433836991
-        ],
-        [
-          "Three ways to enjoy the seaside. And the sky. The new BMW 6 Series model range. Timeline Photos.",
-          1433423973
-        ],
-        [
-          "Sometimes, Chris Willett loves his customers' cars so much as if they were his own. No big surprise though, as he's working solely with second generation BMW 3 Series. https://youtu.be/e5ryPWQEpFg #BMWstories #legends. Timeline Photos.",
-          1431524736
-        ],
-        [
-          "Gerry Nasution from Indonesia and his crew built a through-and-through race car out of a second generation 1985 BMW 316i, hitting the track for the first time in 2008. Over the last 6 years, they won around 120 trophies, making this little racer the best of the best in it's class.\n40 years of BMW 3 Series - A million different stories. Which is yours? #BMWstories\nwww.bmw.com/bmwstories_legends.",
-          1431344539
-        ],
-        [
-          "Happy Mother\u2019s Day! Make sure you wish your mother a special day by tagging her in the comments. Timeline Photos.",
-          1431277060
-        ],
-        [
-          "BMW NEW M5 \ud83d\ude09.",
-          1429968642
-        ],
-        [
-          "What do you think of this? Yesyerday we had 3 generations of BMW parked in the car park The Metropole Hotel.",
-          1429525524
-        ],
-        [
-          "Our senior dog SlimDoggy Jack sure appreciates the easy access in and out of his new BMW 328i.",
-          1428499009
-        ],
-        [
-          "A beast in the wild. A model inside. Timeline Photos.",
-          1427811165
-        ],
-        [
-          "HAPPY 99th BIRTHDAY !!!",
-          1425738028
-        ],
-        [
-          "Man vs Machine - Who can drift the perfect circle?\n\nA BMW 2 Series Coup\u00e9 equipped with special BMW Connected Drive technologies that facilitate automated driving.\n\nVs.\n\nDai Yoshihara, Formula Drift Champion 2011 and one of the precision drivers at The Epic Driftmob in 2014 in a BMW 2 Series Coup\u00e9 M235i without these technologies.\n\nDive into BMW Stories to explore the connected mobility of BMW.\n\nhttp://bit.ly/ConnectedStories. Timeline Photos.",
-          1425326762
-        ],
-        [
-          "VIP. Very Important Parking-spot. BMW 7 Series Sedan Long version. Timeline Photos.",
-          1425220183
-        ],
-        [
-          "Happy Friday! Our happy customer, Sam, just stopped by. He loves to smile, ride in his mom's new X5, and give out free hugs!",
-          1425050737
-        ],
-        [
-          "The third generation of the BMW 3 Series \u2013 the beginning of a new era http://youtu.be/ro_kiMrjtSU. Timeline Photos.",
-          1422345796
-        ],
-        [
-          "Choose yours: the BMW 1 Series, Model M Sport and Model Urban Line. Timeline Photos.",
-          1422287162
-        ],
-        [
-          "See it. Hear it. Feel it. The new BMW M6 Series shows what it is capable of. http://youtu.be/_h7xJAii2F0. Timeline Photos.",
-          1420993441
-        ],
-        [
-          "My new choice you.",
-          1420576780
-        ],
-        [
-          "Buffalo NY. New Years Eve.",
-          1420053690
-        ],
-        [
-          "The new BMW 6 Series models \u2013 whatever your needs and wants, there is one for you. http://youtu.be/SzSy7UXpaso. Timeline Photos.",
-          1419151644
-        ],
-        [
-          "HAPPY NEW YEAR BMW FANS.",
-          1418751316
-        ],
-        [
-          "The new BMW 6 Series Coup\u00e9 combines majestic performance with an undeniable aura of dynamic elegance. http://www.bmw.com/com/en/newvehicles/6series/coupe/2014/keep_informed/index.html. Grace and Power.",
-          1418659366
-        ],
-        [
-          "Timeless fascination: Agile dynamics and exclusive elegance uniquely blend in the new BMW 6 Series models.\n\nhttp://www.bmw.com/com/en/newvehicles/6series/keep_informed_2014.html. The new BMW 6 Series models.",
-          1418315522
-        ],
-        [
-          "50 years of pushing the limits. 50 years of BMW Touring Car Racing. \"Adrenalin\", a 120-minute documentary on the BMW Racing history, is now available on DVD and BluRay.\n\nhttp://www.adrenalin-film.de. Timeline Photos.",
-          1417190345
-        ],
-        [
-          "BMW 5 Series laying Frame on our Matte Graphite VFS1's",
-          1416859251
-        ],
-        [
-          "#BMW #Alpina B6 Biturbo is a next generation luxury.",
-          1412069039
-        ],
-        [
-          "BMW 8 Series.",
-          1410633276
-        ],
-        [
-          "BMW NEW MODELS 2014.",
-          1410183405
-        ],
-        [
-          "BMW NEW MODEL 2014.",
-          1410096888
-        ],
-        [
-          "New BMW.",
-          1404929112
-        ],
-        [
-          "Et la BMW Serie 5 e60 qu'en pensez vous? :)\nAnd BMW series 5 e60 that think about it? :)",
-          1403020593
-        ],
-        [
-          "Happy 8irthday!\n120 cars came together to celebrate the 25th anniversary of the BMW 8 Series. 260 participants from 20 countries joined the party at its Bavarian birthplace. #BMWstories. 25 years BMW 8 Series.",
-          1402409018
-        ],
-        [
-          "Somebody said the new 2015 BMW X4 is too small for SUV and too big for coupe. I say IT`s THE BMW!\nhttp://carslike2015.com/2015-bmw-x4-review/ 2015 BMW X4 review - New cars 2014 2015. The new 2015 BMW X4 is small 5-passenger SUV based on BMW X3 SUV platform but it is longer, lower and sportier. It comes with price starting at $45,600.",
-          1401704179
-        ],
-        [
-          "Usually, beasts are difficult to handle. This one is different.\nThe new BMW M5 with Competition Package: http://bit.ly/1h1oL4c. Timeline Photos.",
-          1395939026
-        ],
-        [
-          "Lols which series model is this :p",
-          1394226252
-        ],
-        [
-          "Get fit with pleasure. Driving Pleasure, to be precise. The new generation of BMW Bikes: http://bit.ly/MUlSKo. BMW Bikes 2014.",
-          1394208703
-        ],
-        [
-          "Nuova Serie 2 all'anteprima Domenica 2 Marzo.. Spettacolare!",
-          1393850603
-        ],
-        [
-          "This is for Driving Pleasure on mountain trails. Get a glimpse of the New Generation BMW Bikes: http://bit.ly/1jQmAHf. Timeline Photos.",
-          1392999136
-        ]
-      ],
-      "dates_start": 1415961553,
-      "dates_end": 1468718211,
-      "likes_avg": 9504,
-      "likes_stdev": 23188,
-      "comments_avg": 210,
-      "comments_stdev": 1210,
-      "shares_avg": 712,
-      "shares_stdev": 2927
-    },
-    {
-      "number": 7,
-      "important": [
-        "drive",
-        "bmw seri gran coup\u00e9 timelin",
-        "timelin",
-        "coup\u00e9 timelin"
-      ],
-      "summary": "The BMW 4 Series Gran Coup\u00e9. The BMW 6 Series Gran Coup\u00e9. Introducing the exclusive M Sport Limited Edition for the BMW 6 Series Coup\u00e9, the BMW 6 Series Convertible and the BMW 6 Series Gran Coup\u00e9. The new BMW 4 Series Gran Coup\u00e9. The dashboard in the BMW 4 Series Gran Coup\u00e9.",
-      "common": [
-        "bmw seri gran coup\u00e9 timelin",
-        "coup\u00e9 timelin",
-        "coup\u00e9 timelin photo",
-        "drive",
-        "gran coup\u00e9 timelin",
-        "gran coup\u00e9 timelin photo",
-        "seri gran coup\u00e9 timelin",
-        "seri gran coup\u00e9 timelin photo",
-        "timelin",
-        "timelin photo"
-      ],
-      "messages": [
-        [
-          "Steals the scene in a split second. \nIntroducing the exclusive M Sport Limited Edition for the BMW 6 Series Coup\u00e9, the BMW 6 Series Convertible and the BMW 6 Series Gran Coup\u00e9. Timeline Photos.",
-          1489158004
-        ],
-        [
-          "The perfect combination of breathtaking athleticism and dynamic design. The new BMW 4 Series Gran Coup\u00e9. Timeline Photos.",
-          1488442170
-        ],
-        [
-          "The elegance that sets the world in motion. \nThe new BMW 4 Series Gran Coup\u00e9.",
-          1485788447
-        ],
-        [
-          "Driving pleasure+.\nThe dynamically impressive new BMW 4 Series Gran Coup\u00e9, Coup\u00e9 and Convertible. The new BMW 4 Series.",
-          1484683210
-        ],
-        [
-          "Generous. Down to the very last detail.\nThe BMW 4 Series Gran Coup\u00e9. Timeline Photos.",
-          1484209202
-        ],
-        [
-          "You'll never be underdressed with the BMW 4 Series Gran Coup\u00e9. Timeline Photos.",
-          1482826177
-        ],
-        [
-          "Make sure you get your daily portion of driving pleasure.\nThe BMW 4 Series Gran Coup\u00e9. Timeline Photos.",
-          1481529603
-        ],
-        [
-          "Lines flowing together, interweaving surfaces, all directed towards the driver. \nThe interior of the BMW 4 Series Gran Coup\u00e9 offers exclusive character. Timeline Photos.",
-          1481270734
-        ],
-        [
-          "The BMW 4 Series Gran Coup\u00e9 always gives you a legitimate reason to keep looking. Enjoy these pictures from BMW South Africa. The BMW 4 Series Gran Coup\u00e9.",
-          1480690811
-        ],
-        [
-          "Inspiration on wheels. \nThe BMW 6 Series Gran Coup\u00e9. Timeline Photos.",
-          1480104362
-        ],
-        [
-          "Made to impress. \nThe BMW 4 Series Gran Coup\u00e9. Timeline Photos.",
-          1479135603
-        ],
-        [
-          "Powerful looks.\nThe BMW 6 Series Gran Coup\u00e9. Timeline Photos.",
-          1478290256
-        ],
-        [
-          "The instant eye-catcher. \nThe BMW 4 Series Gran Coup\u00e9. Timeline Photos.",
-          1477548602
-        ],
-        [
-          "Driving pleasure multiplied by 3.\n\nThe BMW 3 Series Sedan, Gran Turismo and Touring. Timeline Photos.",
-          1477073436
-        ],
-        [
-          "The best childhood holiday memory: the backseat. \nThe BMW 4 Series Gran Coup\u00e9. Timeline Photos.",
-          1475845844
-        ],
-        [
-          "Mesmerising power maximised. \nThe BMW 4 Series Gran Coup\u00e9. Timeline Photos.",
-          1474912804
-        ],
-        [
-          "\"Shine bright, tonight, you and I. We're beautiful like diamonds in the sky.\" The BMW 4 Series Gran Coup\u00e9. Timeline Photos.",
-          1472994003
-        ],
-        [
-          "Elegance and athleticism in perfect symbiosis. The BMW 4 Series Gran Coup\u00e9 with M Sport package. Timeline Photos.",
-          1472475604
-        ],
-        [
-          "You only get one chance at making a lasting first impression. \nThe BMW 4 Series Gran Coup\u00e9. Timeline Photos.",
-          1468908003
-        ],
-        [
-          "Being the ultimate driving machine means encompassing all of the most premium driving characteristics. Whether you drive the BMW 3 Series Gran Turismo for its self-confident style, BMW 3 Series Sedan for its dynamic performance, BMW 3 Series Touring for versatility and functionality, or the BMW 4 Series Gran Coup\u00e9 for unrivalled elegance - they are all the embodiment of the most important thing of all: sheer driving pleasure. \n\nExplore exactly what makes BMW the ultimate driving machine by heading to bmw.com/3series_4series. prod.cdata.app.sprinklr.com.",
-          1466601633
-        ],
-        [
-          "One rim to rule them all.\nThe BMW 4 Series Gran Coup\u00e9 with M light-alloy wheels Multi spoke. Timeline Photos.",
-          1464372182
-        ],
-        [
-          "Drive the rainbow.\nThe BMW 4 Series Gran Coup\u00e9 is available in a joyful variety of colours. Timeline Photos.",
-          1460012404
-        ],
-        [
-          "When viewed from the side, the classy silhouette of the BMW 4 Series Gran Coup\u00e9 catches the eye instantly. The long, gently sloping roof line, the flat window graphics and expressive lines converge in an extremely muscular rear. Timeline Photos.",
-          1458230045
-        ],
-        [
-          "Firm lines, concise design, and perfect engineering look even better in soft morning light.\n\nThe BMW 4 Series Gran Coup\u00e9. Timeline Photos.",
-          1455896795
-        ],
-        [
-          "Crank 'em up.\nThe dashboard in the BMW 4 Series Gran Coup\u00e9. Timeline Photos.",
-          1450165816
-        ],
-        [
-          "#TriviaTuesday: Did you know that there are 230 ways to express yourself in sheer driving pleasure? This is how many exterior colour choices BMW offers. Here is the BMW 6 Series Gran Coup\u00e9 in Mediterranean Blue metallic. Timeline Photos.",
-          1448351333
-        ],
-        [
-          "We are more than just blue, white and black. We have a colour for every shade of sheer driving pleasure! Which one of these most exciting colours of the BMW 4 Series Gran Coup\u00e9 is your favourite? Let us know below. \n\nhttps://www.youtube.com/watch?v=BnYrDxU_wp4. Timeline Photos.",
-          1446710676
-        ],
-        [
-          "Go ahead and take the long way home. The BMW 4 Series Gran Coup\u00e9 with M Sport package is the sporty way to travel in luxury, so you'll probably still be on time at your destination. Timeline Photos.",
-          1444372390
-        ],
-        [
-          "Un4gettable: the BMW 4 Series Gran Coup\u00e9. Timeline Photos.",
-          1439726043
-        ],
-        [
-          "\"Ciao bella. Posso entrare?\" The irresistible BMW 6 Series Gran Coup\u00e9. BMW Italia. Photos from BMW's post.",
-          1432559375
-        ],
-        [
-          "Stunning scenery, stunning car: BMW BLOG hits Romania's famous Transf\u0103g\u0103r\u0103\u0219an Road with the BMW 6 Series Gran Coup\u00e9. http://bit.ly/BMW6Series-GranCoupe-Efficiency. Photos from BMW's post.",
-          1427442455
-        ],
-        [
-          "Power. Adrenaline. Beauty.\nDiscover the interior of the BMW M6 model range in 360\u00b0.\nBMW M6 Convertible: bit.ly/1DNBfv4\nBMW M6 Coup\u00e9: bit.ly/1DK9jtD\nBMW M6 Gran Coup\u00e9: bit.ly/1D3fKCI. Photos from BMW's post.",
-          1424700938
-        ],
-        [
-          "It has never been easier to take a quick seat inside the new BMW 6 Series models.\n\nBMW 6 Series Coup\u00e9: http://bit.ly/1J0JMzE\nBMW 6 Series Gran Coup\u00e9: http://bit.ly/1F1x153\nBMW 6 Series Convertible: http://bit.ly/1vGEP9B. Photos from BMW's post.",
-          1424081977
-        ],
-        [
-          "Perfection. From every angle.\nUnveil each and every detail of the new BMW 6 Series Coup\u00e9, Gran Coup\u00e9 and Convertible: http://bit.ly/1KSo5iN. Photos from BMW's post.",
-          1423842785
-        ],
-        [
-          "Luxury\u00b2. BMW 4 Series Gran Coupe\u0301 with Luxury Line. Timeline Photos.",
-          1423413601
-        ],
-        [
-          "Gran coup\u00e9 435i.",
-          1412065271
-        ],
-        [
-          "BMW Individual featuring the high-end audio expertise of Bang & Olufsen \u2013 Experience the special edition of the BMW 6 Series Gran Coup\u00e9 and BMW M6 Gran Coup\u00e9, which is limited to 110 vehicles. Pleasure for the eyes and ears.",
-          1401719309
-        ],
-        [
-          "Awake the night: See the first-ever BMW 4 Series Gran Coup\u00e9 lighting the dark. \nhttp://youtu.be/trOVMpvqvbU. Timeline Photos.",
-          1399386174
-        ],
-        [
-          "Get yourself an impression of the creative possibilities of the BMW Individual Manufaktur \u2013 the BMW M6 Gran Coup\u00e9 \u201cFrozen Red\u201d. Take your place in a work of art!",
-          1398348500
-        ],
-        [
-          "BMW 650i Gran Coup\u00e9.",
-          1393435067
-        ],
-        [
-          "4 the win!\n\nhttp://bit.ly/1fRZ0El. The first-ever BMW 4 Series Gran Coup\u00e9.",
-          1392826237
-        ],
-        [
-          "More info: http://bit.ly/1fRZ0El. The first-ever BMW 4 Series Gran Coup\u00e9.",
-          1391446044
-        ],
-        [
-          "Designed for Driving Pleasure \u2013 the first-ever BMW 4 Series Gran Coup\u00e9. http://youtu.be/CoHrA6GRAKo. Timeline Photos.",
-          1391360264
-        ],
-        [
-          "We celebrate the Chinese Year of the Horse 575 times. Once for each horse in the limited BMW M6 Gran Coup\u00e9 Horse Edition. BMW M6 Gran Coup\u00e9 Horse Edition.",
-          1391183892
-        ]
-      ],
-      "dates_start": 1416639991,
-      "dates_end": 1482366285,
-      "likes_avg": 13359,
-      "likes_stdev": 11763,
-      "comments_avg": 118,
-      "comments_stdev": 124,
-      "shares_avg": 634,
-      "shares_stdev": 714
-    },
-    {
-      "number": 8,
-      "important": [
-        "seri",
-        "home",
-        "bmw seri",
-        "bmw bmw"
-      ],
-      "summary": "BMW USA. Taking it back to the roots.The BMW 3 Series #TBT BMW USA. via BMW USA. Two that complement each other: the BMW 3 Series and the BMW X1 make you wanna follow all kinds of roads. http://youtu.be/Pojijy3lZNU BMW USA.",
+      "summary": "The BMW X1 and 3 Series feel at home on all kinds of surfaces.\nTwo that complement each other: the BMW 3 Series and the BMW X1 make you wanna follow all kinds of roads.\nTaking it back to the roots.The BMW 3 Series #TBT BMW USA.\n40 years.\nhttps://youtu.be/NLOGLaf_S9k BMW USA.\nhttp://youtu.be/Pojijy3lZNU BMW USA.\nSheer Christmas Pleasure: http://youtu.be/mOmTjG3fvts BMW USA.\nIt's that time of the year again!",
       "common": [
         "bmw bmw",
         "bmw bmw usa",
@@ -1756,233 +1577,18 @@
       "shares_stdev": 677
     },
     {
-      "number": 9,
+      "number": 6,
       "important": [
-        "timelin",
+        "bmw",
+        "bmws",
         "photo",
         "post",
-        "munich",
-        "car"
+        "bmwstori",
+        "light",
+        "photographi",
+        "perform"
       ],
-      "summary": "BMW Welt | BMW Museum invites you to explore the production of the BMW X5 at the BMW plant near Spartanburg, USA. BMW M at BMW Welt. Thank you to 2.93 Million visitors at the BMW Welt and 560,000 guests from all over the world at the BMW Museum. Eight of the first BMW i8 units with Laserlight technology have been delivered to their owners at the BMW Welt | BMW Museum in Munich. This BMW M1 Procar has been restored by BMW Classic and BMW M and finally has been handed over to the proud owner at the BMW Welt | BMW Museum.",
-      "common": [
-        "bmw museum munich",
-        "car",
-        "munich",
-        "museum munich",
-        "photo",
-        "photo bmws",
-        "photo bmws post",
-        "post",
-        "timelin",
-        "timelin photo"
-      ],
-      "messages": [
-        [
-          "The clock strikes a little after 12, and you're greeted by fireworks, current DTM champion Marco Wittmann, and a brand new BMW X1 you can drive for a full year. Sounds like a dream, but is actually what happened to the Wald family when they became the 20,000,000th visitors at BMW Welt | BMW Museum in Munich!\n\nCongratulations to the Wald family, we can't wait to see the #BMWStories that arise from your travels in your brand new BMW X1! Timeline Photos.",
-          1444833080
-        ],
-        [
-          "Bold style on show at the latest exhibition at BMW Welt | BMW Museum - featuring the first-ever BMW 2 Series Convertible. Photos from BMW's post.",
-          1432819137
-        ],
-        [
-          "Born in the USA.\nBMW Welt | BMW Museum invites you to explore the production of the BMW X5 at the BMW plant near Spartanburg, USA. Photos from BMW's post.",
-          1431841487
-        ],
-        [
-          "Handle with kid gloves! A real beauty requires the most careful handling, as these shiny snaps of the 1934 BMW 315/1 Roadster photographed at the BMW Welt | BMW Museum demonstrate. \u00a9 ECAL / Clement Lambelet #BMWmeetsArt. Photos from BMW's post.",
-          1427873324
-        ],
-        [
-          "You can run but you can't hide. Actually, you can't even run from this BMW X4 2.0i xDrive show car by AC Schnitzer. \nOn display at BMW Welt | BMW Museum. Timeline Photos.",
-          1423584425
-        ],
-        [
-          "Last weekend the glorious sound of Coldplay briefly replaced the awesome sound of our engines as the band performed a stunning live set at the BMW Welt | BMW Museum. Photos from BMW's post.",
-          1418041780
-        ],
-        [
-          "The BMW M1 Procar \u201cYes to the N\u00fcrburgring\u201d is the latest addition to Masakuni Hosobuchi\u2032s treasure chest. Masakuni Hosobuchi is the chairman of the BMW Club Japan and a real BMW enthusiast. In his car fleet you'll find each and every BMW M vehicle. This BMW M1 Procar has been restored by BMW Classic and BMW M and finally has been handed over to the proud owner at the BMW Welt | BMW Museum. #BMWstories. The BMW M1 Procar \u201cYes to the N\u00fcrburgring\u201d.",
-          1414750700
-        ],
-        [
-          "The exhibition floor turns into a race track. \nTune in on http://www.twitch.tv/bmw_welt on October 2nd, between 4:00 pm and 6:00 pm CET, to watch a unique Forza Motorsport experience at the BMW Welt | BMW Museum.\nVisitors can play online with the developers of Forza Horizon 2. Want to join? Just visit us tomorrow afternoon at the BMW Welt Munich and let's play. Forza Horizon 2.",
-          1412172267
-        ],
-        [
-          "2010,munchen when i met BMW museum.",
-          1409249757
-        ],
-        [
-          "///Marriage proposal.\nBachir planned the most special of surprises for his girlfriend Layal \u2013 he wanted to propose to her at BMW Welt | BMW Museum in Munich. Watch the emotional story of these two lifelong BMW fans: http://youtu.be/rfw8PPXlw5M \u2013 #BMWstories\n\nBMW wishes them a happy future together! Timeline Photos.",
-          1408716881
-        ],
-        [
-          "BMW Welt | BMW Museum is not only the home of driving pleasure but also of the BMW Art Car collection. The BMW 3,0 CSL Art Car by Frank Stella is now lightening up the exhibition hall. Check it out! Timeline Photos.",
-          1408630067
-        ],
-        [
-          "A fun car from the BMW museum in Munich. Jump over to the blog to read more about my experience and a tie-in to Mr. Bean. From: http://chasingtheframe.com/new-blog/2014/8/7/speed\n#bwm #bmwwelt #munich #germany #chasingtheframe.",
-          1407454002
-        ],
-        [
-          "4800 kilometres of sheer driving pleasure. \nTo take his BMW to the place where it was born, Gonzalo Llorente travelled through Italy, Austria, Germany, Switzerland and France in one week. And his dreams came true when he finally visted the BMW Welt | BMW Museum and Dingolfing. #BMWstories. Timeline Photos.",
-          1404312267
-        ],
-        [
-          "At the BMW Welt | BMW Museum joy starts even before the engines roar. Bimmerpost members from all over the US picked up 23 cars after the launch of the BMW M3 Sedan and BMW M4 Coup\u00e9.\nNext stops: Circuit de Spa-Francorchamps and the N\u00fcrburgring. #BMWstories. BMW M3 Sedan & BMW M4 Coup\u00e9 European Delivery.",
-          1403619001
-        ],
-        [
-          "Eight times the future!\n\nToday marked a whole new chapter for the BMW i success story. Eight of the first BMW i8 units with Laserlight technology have been delivered to their owners at the BMW Welt | BMW Museum in Munich. This makes the BMW i8 the first series production car to offer this option. Photos from BMW's post.",
-          1401986651
-        ],
-        [
-          "Many horses in the house: The powerful BMW M machines visiting BMW Welt | BMW Museum in Munich. BMW M at BMW Welt.",
-          1401804838
-        ],
-        [
-          "Visitor record in 2013. Thank you to 2.93 Million visitors at the BMW Welt and 560,000 guests from all over the world at the BMW Museum. We are looking forward to seeing you again this year. www.bmw-welt.com. Timeline Photos.",
-          1392739091
-        ]
-      ],
-      "dates_start": 1401106907,
-      "dates_end": 1427649416,
-      "likes_avg": 9903,
-      "likes_stdev": 9578,
-      "comments_avg": 117,
-      "comments_stdev": 105,
-      "shares_avg": 614,
-      "shares_stdev": 503
-    },
-    {
-      "number": 10,
-      "important": [
-        "bmwindividu",
-        "aesthet",
-        "luxuri",
-        "bmw xdrive",
-        "new bmw xdrive"
-      ],
-      "summary": "BMW Individual. Look forward to the exclusive BMW Individual features of the all-new BMW X6. The benchmark in contemporary luxury: the new BMW M760Li xDrive V12 Excellence\u2019s interior rounded off in tasteful style by BMW Individual full fine-grain Merino leather in Smoke White and the velvety BMW Individual leather stearing wheel with applications in brilliant Piano finish Black. Perfectly nuanced BMW Individual full fine-grain Merino leather and Alcantara headliner in Smoke White, complimented by exciting Viola dark and the deep brilliance of the BMW Individual Piano finish Black interior trim make for a harmonious composition. Silky to the touch and stunning to the eye, the strikingly satin-matt BMW Individual Frozen Dark Brown paint finish underscores the new BMW M760Li xDrive\u2019s dynamic superiority as well as highlighting its visionary sporty aesthetic.",
-      "common": [
-        "aesthet",
-        "bmw xdrive",
-        "bmwindividu",
-        "exclus",
-        "luxuri",
-        "new",
-        "new bmw",
-        "new bmw xdrive",
-        "superior",
-        "xdrive"
-      ],
-      "messages": [
-        [
-          "A symphony of senses, played by the most beautiful instruments of all time: hands. See what goes into creating BMW Individual. #handsmadeit. BMW Individual.",
-          1468408316
-        ],
-        [
-          "The discreetly integrated BMW Individual signet stands for the epitomization of finest craftsmanship and can be found both on BMW Individual\u2019s interior as well as exterior elements. The #BMWIndividual Collection: symbiosis of aesthetics and luxury.",
-          1461218415
-        ],
-        [
-          "BMW Individual fine-grain Merino leather: flawless hides and meticulous barrel \npigmentation lay the base for exceptional quality. The #BMWIndividual Collection: symbiosis of aesthetics and luxury.",
-          1461218413
-        ],
-        [
-          "Another true highlight: the weave-look stitching for the BMW Individual 7 Series. The #BMWIndividual Collection: symbiosis of aesthetics and luxury.",
-          1461218408
-        ],
-        [
-          "The BMW Individual Collection also offers paint finishes, unique in colour and \neffect, whether matt or metallic. The #BMWIndividual Collection: symbiosis of aesthetics and luxury.",
-          1461218406
-        ],
-        [
-          "The woven piping of the BMW Individual 7 Series is delicately crafted by hand. The #BMWIndividual Collection: symbiosis of aesthetics and luxury.",
-          1461218403
-        ],
-        [
-          "Can you resist the luxurious spell of BMW Individual full fine-grain Merino leather in Cashmere Beige, accentuated by unique black stitching and Alcantara Anthracite headliner, both perfectly underscoring the fair leather hue? The new BMW M760Li xDrive: superiority inspired by #BMWIndividual.",
-          1459432819
-        ],
-        [
-          "Silky to the touch and stunning to the eye, the strikingly satin-matt BMW Individual Frozen Dark Brown paint finish underscores the new BMW M760Li xDrive\u2019s dynamic superiority as well as highlighting its visionary sporty aesthetic. The new BMW M760Li xDrive: superiority inspired by #BMWIndividual.",
-          1459432816
-        ],
-        [
-          "Breathtaking extravagance at its best! Perfectly nuanced BMW Individual full fine-grain Merino leather and Alcantara headliner in Smoke White, complimented by exciting Viola dark and the deep brilliance of the BMW Individual Piano finish Black interior trim make for a harmonious composition. The new BMW M760Li xDrive: superiority inspired by #BMWIndividual.",
-          1459432813
-        ],
-        [
-          "The benchmark in contemporary luxury: the new BMW M760Li xDrive V12 Excellence\u2019s interior rounded off in tasteful style by BMW Individual full fine-grain Merino leather in Smoke White and the velvety BMW Individual leather stearing wheel with applications in brilliant Piano finish Black. The new BMW M760Li xDrive: superiority inspired by #BMWIndividual.",
-          1459432810
-        ],
-        [
-          "The elegant BMW Individual Ruby Black metallic paint finish fascinates its beholder with unique red-violet scintillation on a black surface \u2013 a paint finish as precious as a gemstone! The new BMW M760Li xDrive: superiority inspired by #BMWIndividual.",
-          1459432807
-        ],
-        [
-          "Underlining the new BMW M760Li xDrive and BMW M760Li xDrive V12 Excellence\u2019s dynamic mission statement: luxurious exterior and interior styling by BMW Individual. The new BMW M760Li xDrive: superiority inspired by #BMWIndividual.",
-          1459432804
-        ],
-        [
-          "The exclusive possibilities from BMW Individual.",
-          1448346445
-        ],
-        [
-          "Refining exclusivity. BMW Individual. #BMWshanghai. Timeline Photos.",
-          1430719124
-        ],
-        [
-          "Chrome-like finish and extraordinary brilliance: It takes intensive craftsmanship to achieve the exclusive BMW Individual Pure Metal Silver look. \nhttp://youtu.be/otOYaIFgiTo. Timeline Photos.",
-          1417711351
-        ],
-        [
-          "The BMW Individual Composition for the BMW 4 Series Gran Coupe combines handcrafted precision with the most carefully selected materials. Exclusive style meets sporty and elegant aesthetics.",
-          1404915111
-        ],
-        [
-          "The sporty design of a coup\u00e9 and the presence of a BMW X model \u2013 in short: Unique. Look forward to the exclusive BMW Individual features of the all-new BMW X6. Impressive at first sight.",
-          1402496060
-        ],
-        [
-          "2006 BMW 750li individual 100000miles.",
-          1401382063
-        ],
-        [
-          "What's the result of the BMW Individual Manufaktur being invited to create a vehicle for the professional DTM driver Marco Wittmann - Official? It's an extraordinary mixture of high performance and exclusive beauty: The BMW Individual M6 Coup\u00e9 \"Fire Orange\". Hot as hell!",
-          1401199667
-        ],
-        [
-          "An exclusive open-air concert for all senses! \n\nEnjoy the all-new BMW M4 Convertible inspired by BMW Individual. How do you like the interaction of the Merino leather Opal White with the Tanzanite Blue metallic paintwork? #BMWIndividual. Timeline Photos.",
-          1397225232
-        ],
-        [
-          "The first-ever BMW 4 Series Gran Coup\u00e9 is a perfect fusion of elegance, agility and comfort \u2013 joined with the exclusiveness of BMW Individual, it becomes a new benchmark. BMW Individual: A feast for the eyes.",
-          1392051449
-        ]
-      ],
-      "dates_start": 1412017580,
-      "dates_end": 1466758012,
-      "likes_avg": 6405,
-      "likes_stdev": 14021,
-      "comments_avg": 75,
-      "comments_stdev": 137,
-      "shares_avg": 605,
-      "shares_stdev": 894
-    },
-    {
-      "number": 11,
-      "important": [
-        "allnew",
-        "bmw seri",
-        "allnew bmw",
-        "motorsport",
-        "allnew bmw seri"
-      ],
-      "summary": "Check out the BMW Spotify account to find the soundtracks that are matching best with your individual #BMWstories: https://open.spotify.com/user/bmw/ Photos from BMW's post. The all-new BMW 7 Series comes with a BMW Vitality Programme which offers rear-seat passengers eight different exercise programmes to mobilise the muscles of the back and shoulders. Annabelle gathered the most noble ingredients to create 8 different scents for the all-new BMW 7 Series so you can experience it with all your senses. BMW in The Crew. Don't forget to see what we are up to at the North American International Auto Show, like debuting the first ever BMW M2 Coup\u00e9 and all-new BMW X4 M40i.",
+      "summary": "Congratulations to the BMW drivers Marco Wittmann, Tom Blomqvist, Bruno Spengler and Augusto Farfus, who were able to accomplish the top four places at DTM Moscow with an outstanding team performance.\nCheck out the BMW Spotify account to find the soundtracks that are matching best with your individual #BMWstories: https://open.spotify.com/user/bmw/ Photos from BMW's post.\nOliver (https://instagram.com/bmw_oli/) took his BMW 8 Series into the wild to shoot these stunning photos.",
       "common": [
         "allnew",
         "allnew bmw",
@@ -2203,14 +1809,16 @@
       "shares_stdev": 758
     },
     {
-      "number": 12,
+      "number": 7,
       "important": [
-        "edriv",
-        "naia",
+        "bmw",
+        "design",
+        "concept",
         "photo",
-        "timelin"
+        "ride",
+        "possibl"
       ],
-      "summary": "The BMW Concept X2. BMW Concept. The BMW Concept X2 by Designlovr. The BMW Concept X5 combines BMW eDrive and xDrive for the first time ever. The BMW Concept X2 paves the way for fascinating design possibilities.",
+      "summary": "The BMW Concept X2 paves the way for fascinating design possibilities.\nRead the full article by DESIGNLOVR at: designlovr.de/magazin/bmw-concept-x2-crossover-coupe-design.\nAt NAIAS in Detroit, the BMW Concept X2 proves it is a worthy addition to the BMW X range.\nFind every piece of information on this magnificient ride right here: http://www.m-power.com/m4gts.\nhttp://tadasmdesign.tumblr.com/  #Sketch #BMW #5series #Concept.\nThe BMW Concept X5 combines BMW eDrive and xDrive for the first time ever.\nBMW Concept X5 eDrive.",
       "common": [
         "bmw concept timelin",
         "bmw concept timelin photo",
@@ -2295,15 +1903,19 @@
       "shares_stdev": 1312
     },
     {
-      "number": 13,
+      "number": 8,
       "important": [
-        "bmwstori share stori wanna",
+        "bmw",
+        "bmws",
         "car",
+        "use",
         "love",
-        "bmw driver",
-        "driver"
+        "drive",
+        "seri",
+        "bmwstori",
+        "famili"
       ],
-      "summary": "He and his family members own several BMW 3 Series cars from the second, third and fourth gener... There are many great stories from BMW drivers around the world relating to the strong bond they have with their car. And if you want to check out his profile, head to Wes Howell #champions\n\nUse the hashtag #BMWstories to share your story. There are many great stories from BMW drivers from around the world relating to the strong bond they have with their car. There are many great stories from BMW drivers around the world relating to the strong bond they have with their car. Use the hashtag #BMWstories to share your story.",
+      "summary": "None of us like being told to do things by our bosses, unless your name is Tomasz Cuncvir (https://www.facebook.com/cuncvir), you drive a BMW 1 Series, and your boss tells you to take a road trip to Austria.\nAlthough he gets plenty of ultimate driving pleasure from his existing fleet of BMW cars, he has always dreamed of owning a first-generation 5 Series, in particular the 528i driven by Jacques Coulombe in the epic 1980 racing season.",
       "common": [
         "bmw driver",
         "bmwstori share stori wanna",
@@ -2420,15 +2032,17 @@
       "shares_stdev": 632
     },
     {
-      "number": 14,
+      "number": 9,
       "important": [
-        "ultim",
+        "photo",
         "sporti",
-        "never",
-        "new bmw",
-        "new bmw seri"
+        "coup",
+        "sheer driv",
+        "finish",
+        "sport",
+        "blue"
       ],
-      "summary": "The BMW 6 Series Coup\u00e9. The BMW 4 Series Coup\u00e9. The BMW 2 Series Coup\u00e9. The new BMW 6 Series Coup\u00e9. Owner of the night: the BMW 4 Series Coup\u00e9.",
+      "summary": "Restyled for ultimate sports appeal.\nThe dynamic new BMW 4 Series Coup\u00e9.\nThe L-shaped rear lights blend harmoniously into the styling of the vehicle, emphasising the powerful width of the BMW 4 Series Coup\u00e9.\nSonic Speed Blue metallic is now a paint finish option for the BMW 6 Series Coup\u00e9.\nA blue-ribbon driving experience: The BMW 6 Series Coup\u00e9.\nThe new BMW 6 Series Coup\u00e9.\nOwner of the night: the BMW 4 Series Coup\u00e9.",
       "common": [
         "go bmw seri coup\u00e9",
         "never",
@@ -2541,264 +2155,363 @@
       "shares_stdev": 440
     },
     {
-      "number": 15,
+      "number": 10,
       "important": [
-        "timelin",
+        "bmw",
         "photo",
-        "drive pleasur",
-        "xdrive",
-        "bmw xdrive"
-      ],
-      "summary": ":3 <3\nBMW, The ultimate driving machine. My BMW...The Ultimate! \u2665 Join: @BMW, The ultimate driving machine. \u2665 Join @BMW, The ultimate driving machine. In the third episode the BMW xDrive location scouting team gets to play in the mud and explores the off-road side of Norway.",
-      "common": [
-        "bmw xdrive",
+        "coup",
+        "line",
+        "turismo",
         "drive",
-        "drive pleasur",
-        "photo",
-        "pleasur",
-        "sheer",
-        "timelin",
-        "timelin photo",
-        "ultim",
-        "xdrive"
+        "seri"
+      ],
+      "summary": "Whether you drive the BMW 3 Series Gran Turismo for its self-confident style, BMW 3 Series Sedan for its dynamic performance, BMW 3 Series Touring for versatility and functionality, or the BMW 4 Series Gran Coup\u00e9 for unrivalled elegance - they are all the embodiment of the most important thing of all: sheer driving pleasure.\nAnd the active rear spoiler of the new BMW 3 Series Gran Turismo not only looks sporty, it also optimises the airflow and ensures the best possible road holding characteristics.",
+      "common": [
+        "bmw seri gran coup\u00e9",
+        "coup\u00e9",
+        "coup\u00e9 timelin",
+        "coup\u00e9 timelin photo",
+        "gran coup\u00e9",
+        "gran coup\u00e9 timelin",
+        "gran coup\u00e9 timelin photo",
+        "gran turismo",
+        "seri gran coup\u00e9",
+        "turismo"
       ],
       "messages": [
         [
-          "Unconditional performance. The BMW xDrive all-wheel system takes on any surface. \n\nCheck out all #GetOutThere episodes: https://www.youtube.com/playlist?list=PLa5S6UwF22IJhSvWhL_GldSeZM4aj1m7X. Timeline Photos.",
-          1488225603
+          "Steals the scene in a split second. \nIntroducing the exclusive M Sport Limited Edition for the BMW 6 Series Coup\u00e9, the BMW 6 Series Convertible and the BMW 6 Series Gran Coup\u00e9. Timeline Photos.",
+          1489158004
         ],
         [
-          "Get out there and enjoy the best of driving pleasure with the versatile weather of the Nordics. The location scouting team went on a journey through Norway. Their mission: finding the best xDrive-shoot location.\n\nCheck out all episodes here: https://www.youtube.com/playlist?list=PLa5S6UwF22IJhSvWhL_GldSeZM4aj1m7X. Timeline Photos.",
-          1487966405
+          "The perfect combination of breathtaking athleticism and dynamic design. The new BMW 4 Series Gran Coup\u00e9. Timeline Photos.",
+          1488442170
         ],
         [
-          "Perfect compliance with any condition - wherever you are. The BMW xDrive all-wheel drive system is as versatile as the weather itself. Timeline Photos.",
-          1487257771
+          "Leisure thrills. \nExclusive Nappa leather in Ivory White with exclusive stitching, available in the BMW 5 Series Gran Turismo Luxury Line. Timeline Photos.",
+          1485892804
         ],
         [
-          "Intelligence that gets you to the top. \nThe BMW xDrive all-wheel system tackles any surface. Timeline Photos.",
-          1486714168
+          "The elegance that sets the world in motion. \nThe new BMW 4 Series Gran Coup\u00e9.",
+          1485788447
         ],
         [
-          "Winter at its best. The fourth episode features the BMW xDrive location scouting team in the most famous winter element: snow. \n\nFollow the entire search for the best BMW xDrive shoot location on YouTube: https://youtu.be/Kv5I8EsAIRc.",
-          1482246080
+          "Demonstrating greatness wherever it goes. \nThe BMW 3 Series Gran Turismo. Timeline Photos.",
+          1485331772
         ],
         [
-          "Let's get dirty. In the third episode the BMW xDrive location scouting team gets to play in the mud and explores the off-road side of Norway. \n\nView the full episode here: https://youtu.be/In1lPyHcm7E.",
-          1482160527
+          "All you ever need in one stylish package. \nThe BMW 5 Series Gran Turismo. Timeline Photos.",
+          1484752171
         ],
         [
-          "Get ready for the wettest episode of the series. The BMW xDrive location scouting team does not let rain stop them in search of the best locations in Norway.\n \nWatch the full episode here: https://youtu.be/bCU53HESGR4.",
-          1481816262
+          "Driving pleasure+.\nThe dynamically impressive new BMW 4 Series Gran Coup\u00e9, Coup\u00e9 and Convertible. The new BMW 4 Series.",
+          1484683210
         ],
         [
-          "Follow the BMW xDrive location scouting team Phil Arntz and Johnny Korthuis on their journey through Norway. The episode features BMW xDrive dynamic driving in one of its favourite sites: curvy roads.\n\nCheck out the full episode here: https://youtu.be/8xwMmV2iHcc.",
-          1481301128
+          "Generous. Down to the very last detail.\nThe BMW 4 Series Gran Coup\u00e9. Timeline Photos.",
+          1484209202
         ],
         [
-          "#2018 #BMW #F90 #M5 #xDrive #MPerformance #next100 #ultimativedrivingmachine #like #share #follow #passion \n\n#V8 #Triturbo - #700hp with water injection and electric supercharger. 0-100 km/h in 3,2 seconds.",
-          1476773555
+          "You'll never be underdressed with the BMW 4 Series Gran Coup\u00e9. Timeline Photos.",
+          1482826177
         ],
         [
-          "Lower the roof, and let sheer driving pleasure surround you. \n\nThe BMW Z4 Roadster. Timeline Photos.",
-          1470765604
+          "The gaze magnetizer. \nThe BMW 3 Series Gran Turismo never passes you unnoticed. Timeline Photos.",
+          1481745602
         ],
         [
-          "The BMW X6 economises on fuel, not performance. \n\nThanks to lightweight construction, every gram shed from the vehicle's weight increases driving pleasure. The less weight there is to move, the less energy is needed to move it. Timeline Photos.",
-          1469425472
+          "Make sure you get your daily portion of driving pleasure.\nThe BMW 4 Series Gran Coup\u00e9. Timeline Photos.",
+          1481529603
         ],
         [
-          "This car not only gave birth to a new class of vehicle, but also helped solidify BMW as the ultimate driving machine. Can you guess which model this is? \n\nHint: it might be famous for the number 25...#TriviaTuesday. Timeline Photos.",
-          1467126007
+          "Lines flowing together, interweaving surfaces, all directed towards the driver. \nThe interior of the BMW 4 Series Gran Coup\u00e9 offers exclusive character. Timeline Photos.",
+          1481270734
         ],
         [
-          "It is our fans who drive us into the #next100 years of sheer driving pleasure, and we want to celebrate all of you! Help us in creating the first-ever collection of all BMW models. Take part by submitting the best shot of your car on Instagram.\n\nHead to www.next100.bmw/collectivememory to find out exactly how to participate!",
-          1464094647
+          "The BMW 4 Series Gran Coup\u00e9 always gives you a legitimate reason to keep looking. Enjoy these pictures from BMW South Africa. The BMW 4 Series Gran Coup\u00e9.",
+          1480690811
         ],
         [
-          "Adding some spice: The new BMW X1 for the Chinese market is treated to a longer wheelbase for maximized driving pleasure. Timeline Photos.",
-          1463593984
+          "Inspiration on wheels. \nThe BMW 6 Series Gran Coup\u00e9. Timeline Photos.",
+          1480104362
         ],
         [
-          "Get 'em while they're young, and they'll be hooked on sheer driving pleasure for life. \nTo be the coolest kid in the sandbox, take a field-trip to http://shop.bmw.com/ Timeline Photos.",
-          1463331606
+          "What dreams are made of. \nThe BMW 3 Series Gran Turismo. Timeline Photos.",
+          1479499562
         ],
         [
-          "For the BMW X1, sheer driving pleasure isn't around the corner \u2013 It's handling them itself! Timeline Photos.",
-          1462254304
+          "Made to impress. \nThe BMW 4 Series Gran Coup\u00e9. Timeline Photos.",
+          1479135603
         ],
         [
-          "Could BMW share any videos of the brake squeal they say is normal for their cars!!! The Ultimate driving machine...",
-          1460899950
+          "Rev up your Sunday.\nThe BMW 2 Series Gran Tourer. Timeline Photos.",
+          1479024358
         ],
         [
-          "Outstanding presence and elegance: The BMW M760Li xDrive Model V12 Excellence is the most luxurious 7 Series ever. The BMW M760Li xDrive models.",
-          1458806404
+          "Powerful looks.\nThe BMW 6 Series Gran Coup\u00e9. Timeline Photos.",
+          1478290256
         ],
         [
-          "A new standard for sportiness! Most powerful driving pleasure with emotional engine sound underlines the performance of the 610 PS strong BMW M760Li xDrive. The BMW M760Li xDrive models.",
-          1458806402
+          "The instant eye-catcher. \nThe BMW 4 Series Gran Coup\u00e9. Timeline Photos.",
+          1477548602
         ],
         [
-          "Love driving my BMW 5 series, its truly a sheer driving pleasure! Superb driving experience, the engine is fantastic and the interiors are magnificent&comfortable!\nAssiduously Amazing!",
-          1457500949
+          "Driving pleasure multiplied by 3.\n\nThe BMW 3 Series Sedan, Gran Turismo and Touring. Timeline Photos.",
+          1477073436
         ],
         [
-          "1 Centruy of BMW\nThis does not represent another brand of automobiles that has lasted 100 years, it represents a brand of car that IS the Ultimate Driving Machine!",
-          1457441284
+          "Sheer inspiration.\nThe perfect road companion for those who hold style and unique design in high regard. The BMW 3 Series Gran Turismo comes in varied lines and equipment packages, among them the M sports package. Timeline Photos.",
+          1476968402
         ],
         [
-          "Happy 100th Birthday to Bayerische Motoren Werke AG!  Thank you for continuously making Ultimate Driving Machines through the years.  Our family's next BMW will be under the European Delivery Program.  \n    \nWe \u2764\ufe0f #BMW! We are #TeamDeeJay!\n#next100  #sheerdrivingpleasure\n\n(Oo-[][]-oO)",
-          1457333059
+          "The hottest colour of the season: Flamenco Red. \nThe BMW 2 Series Gran Tourer. Timeline Photos.",
+          1476795603
         ],
         [
-          "Dedicated to extending sheer driving pleasure to all surfaces, we launched the BMW 325iX in 1987 and thus built the foundation for BMW xDrive. Building cars ready to tackle any surface on land was only the beginning. Get ready for the #next100.",
-          1457080261
+          "The best childhood holiday memory: the backseat. \nThe BMW 4 Series Gran Coup\u00e9. Timeline Photos.",
+          1475845844
         ],
         [
-          "Deer driving pleasure: meet Sprinter, Styler, Performer and Perfectionist. We think the BMW 4 Series is just what Santa needs in his posse. \n\nBMW would like to send our love to you and your families this holiday season. Timeline Photos.",
-          1451034855
+          "Mesmerising power maximised. \nThe BMW 4 Series Gran Coup\u00e9. Timeline Photos.",
+          1474912804
         ],
         [
-          "Three Kings, one gift: Sheer Driving Pleasure. The BMW X3, X4, and X5. Timeline Photos.",
-          1450951594
+          "Showing strength and demonstrating greatness everywhere you go in the BMW 3 Series Gran Turismo. The stature is defined through its muscularity combined with the flowing roof line of a classic coup\u00e9. Timeline Photos.",
+          1474264803
         ],
         [
-          "Who needs maps? In the new BMW X1, all roads lead to sheer driving pleasure. Timeline Photos.",
-          1442558904
+          "\"Shine bright, tonight, you and I. We're beautiful like diamonds in the sky.\" The BMW 4 Series Gran Coup\u00e9. Timeline Photos.",
+          1472994003
         ],
         [
-          "And here is to 10,000,000 more! The ten millionth BMW 3 Series has just left the factory in Munich to fulfill its prophecy of giving you the ultimate driving pleasure. Timeline Photos.",
-          1442211691
+          "Elegance and athleticism in perfect symbiosis. The BMW 4 Series Gran Coup\u00e9 with M Sport package. Timeline Photos.",
+          1472475604
         ],
         [
-          "Quick! What does the BMW 3 Series x 3 equal?\n\nAnswer: Driving Pleasure. Timeline Photos.",
-          1441691665
+          "You only get one chance at making a lasting first impression. \nThe BMW 4 Series Gran Coup\u00e9. Timeline Photos.",
+          1468908003
         ],
         [
-          "My very first BMW.  A 535i Xdrive.  I could not be happier.  :)",
-          1441585064
+          "Being the ultimate driving machine means encompassing all of the most premium driving characteristics. Whether you drive the BMW 3 Series Gran Turismo for its self-confident style, BMW 3 Series Sedan for its dynamic performance, BMW 3 Series Touring for versatility and functionality, or the BMW 4 Series Gran Coup\u00e9 for unrivalled elegance - they are all the embodiment of the most important thing of all: sheer driving pleasure. \n\nExplore exactly what makes BMW the ultimate driving machine by heading to bmw.com/3series_4series. prod.cdata.app.sprinklr.com.",
+          1466601633
         ],
         [
-          "Two ultimate driving machines together.",
-          1438952306
+          "It's what is on the inside that counts. \n\nLucky for us and the new BMW 3 Series Gran Turismo, our insides look pretty good. Timeline Photos.",
+          1465927201
         ],
         [
-          "My first. Had wanted one for years, bought this when it was about 10 years old. Sheer driving pleasure :-)",
-          1437381552
+          "Highly developed BMW TwinPower Turbo engines extract the maximum amount of energy from every drop of fuel to deliver remarkable driving dynamics. And the active rear spoiler of the new BMW 3 Series Gran Turismo not only looks sporty, it also optimises the airflow and ensures the best possible road holding characteristics.\n\nbmw.com/3series_gran_turismo. Timeline Photos.",
+          1464933609
         ],
         [
-          "Details come together to create Sheer Driving Pleasure. BMW Ireland. Timeline Photos.",
-          1432368591
+          "Inspire yourself with the unmistakeable and captivating design of the new BMW 3 Series Gran Turismo. Precise contours and expressively sculptured surfaces form a fascinating interplay of light and shade. And, with its generously proportioned, comfortable and versatile interior concept, it is the ideal companion for an active and sporty lifestyle.\n\nbmw.com/3series_gran_turismo.",
+          1464875119
         ],
         [
-          "One excellent driving machine!!",
-          1432206958
+          "One rim to rule them all.\nThe BMW 4 Series Gran Coup\u00e9 with M light-alloy wheels Multi spoke. Timeline Photos.",
+          1464372182
         ],
         [
-          "My BMW...The Ultimate!",
-          1431178044
+          "Need space? Adjustable seats & many storage possibilities in the BMW 2 Series Gran Tourer insure unbeatable flexibility! Timeline Photos.",
+          1462816802
         ],
         [
-          "#BMW #Bimmer #Serie3 #Xdrive.",
-          1429702348
+          "Delivering unrivalled driving dynamics with unparalleled comfort: The BMW 5 Series Gran Turismo. Timeline Photos.",
+          1462341602
         ],
         [
-          "Tomorrow's technology \u2013 standard in every BMW produced today.\n\nLearn more about BMW EfficientDynamics, which combines a significant reduction of consumption and emissions along with a simultaneous increase in performance and driving pleasure: bmw.com/EfficientDynamics. Timeline Photos.",
-          1428500686
+          "A new form of space. The BMW 3 Series Gran Turismo. Timeline Photos.",
+          1460714402
         ],
         [
-          "This is what you call love for the brand! I don't think I could ever see myself driving anything other than an M .. Thank you for making the ultimate driving machine!",
-          1427956445
+          "Drive the rainbow.\nThe BMW 4 Series Gran Coup\u00e9 is available in a joyful variety of colours. Timeline Photos.",
+          1460012404
         ],
         [
-          "Pure diving pleasure: BMW twenty thousand leagues under the sea(weed).  \n\n\u00a9 ECAL / Ange\u0301lique Stehli #BMWmeetsArt.",
-          1426583857
+          "When viewed from the side, the classy silhouette of the BMW 4 Series Gran Coup\u00e9 catches the eye instantly. The long, gently sloping roof line, the flat window graphics and expressive lines converge in an extremely muscular rear. Timeline Photos.",
+          1458230045
         ],
         [
-          "Driven by aesthetics and innovation.\nBMW France worked with photographer Eric Tabuchi to deliver an artist travel log that combines art with Sheer Driving Pleasure. La Route du Photographe.",
-          1421656187
+          "The BMW 5 Series Gran Turismo loves you no matter the baggage you bring to the relationship. Timeline Photos.",
+          1458028502
         ],
         [
-          "My son jus sent me this pic of his X5. He took this evening.\n#ultimate.",
-          1419634473
+          "Firm lines, concise design, and perfect engineering look even better in soft morning light.\n\nThe BMW 4 Series Gran Coup\u00e9. Timeline Photos.",
+          1455896795
         ],
         [
-          "When the way is the journey \u2013 it's #BMW Alpine xDrive. BMW Australia. BMW Alpine xDrive.",
-          1419196742
+          "Resembling the sea in both colour and spaciousness: The BMW 2 Series Gran Tourer. Timeline Photos.",
+          1453737603
         ],
         [
-          "Sheer Driving Pleasure passed down from previous generations. #ThrowbackThursday via BMW Italia. Timeline Photos.",
-          1415289907
+          "Crank 'em up.\nThe dashboard in the BMW 4 Series Gran Coup\u00e9. Timeline Photos.",
+          1450165816
         ],
         [
-          "With the right equipment, Sheer Driving Pleasure doesn't need to take a break in the cold season. Find all BMW accessories for autumn and winter here: \nhttp://www.bmw.com/com/en/owners/accessories/seasonal_campaigns/autumn_winter_accessories_2014/index.html. Timeline Photos.",
-          1414158642
+          "Enough power to start an avalanche and the energy to make you want to try. The BMW 2 Series Gran Tourer and Active Tourer. Timeline Photos.",
+          1448438211
         ],
         [
-          "BMW 5-series xDrive Touring getting ready for tonight. :)\n\n\u00a9Tsvetelin Iliev Photography.",
-          1409505348
+          "#TriviaTuesday: Did you know that there are 230 ways to express yourself in sheer driving pleasure? This is how many exterior colour choices BMW offers. Here is the BMW 6 Series Gran Coup\u00e9 in Mediterranean Blue metallic. Timeline Photos.",
+          1448351333
         ],
         [
-          "Photo Opportunity.\nOver the last 4 weeks #BMW fans submitted their best images of BMW vehicles using Photomode within #GT6 exclusively available on PlayStation\u00ae 3. Congratulations to the best photographers for their amazing photos. Thanks to everyone who entered and shared their passion for the Ultimate Driving Machine. BMW Vision Gran Turismo.",
-          1409064632
+          "We are more than just blue, white and black. We have a colour for every shade of sheer driving pleasure! Which one of these most exciting colours of the BMW 4 Series Gran Coup\u00e9 is your favourite? Let us know below. \n\nhttps://www.youtube.com/watch?v=BnYrDxU_wp4. Timeline Photos.",
+          1446710676
         ],
         [
-          "BMW X5 xDrive 35i 2014. BMW X5 xDrive 35i 2014. Turn after turn, the 2014 BMW X5 does very little to remind you that you're in a 4,790-lb heaving luxury SUV. With solid steering and throttle response, you almost feel like you're at the helm of one of brand's benchmark-setting sport sedans. But does the 2014 X5 stack up to...",
-          1408535786
+          "Go ahead and take the long way home. The BMW 4 Series Gran Coup\u00e9 with M Sport package is the sporty way to travel in luxury, so you'll probably still be on time at your destination. Timeline Photos.",
+          1444372390
         ],
         [
-          "What does Bumper to Bumper warranty actually mean on the pricey Ultimate driving machine @bmw? Halifax BMW wont even cover my failing seat! #worstserviceever #sodisappointed #losingclients.",
-          1408458032
+          "Pier group. The BMW 2 Series Gran Tourer. Timeline Photos.",
+          1442469880
         ],
         [
-          "Marry me? :3 <3\nBMW, The ultimate driving machine.",
-          1401610268
+          "Don't be too quick to call 'shotgun' in the BMW 2 Series Gran Tourer. The roomy interior is dominated by a feeling of lightness, providing luxury for every seat. Top-quality materials and interior trims in subtle colours combine with large windows and the optional panorama glass roof to create an atmosphere bathed in natural light. Timeline Photos.",
+          1441484671
         ],
         [
-          "The BMW story of an unbelievable comeback:\nListen to Alessandro Zanardi and feel the life-changing power of Driving Pleasure: http://youtu.be/UzQLtGkEJUM. Timeline Photos.",
-          1400249484
+          "Un4gettable: the BMW 4 Series Gran Coup\u00e9. Timeline Photos.",
+          1439726043
         ],
         [
-          "\u2665 Join: @BMW, The ultimate driving machine. \u2665.",
-          1398176164
+          "The family member who never complains. Even when he has to stay outside. The all-new BMW 2 Series Gran Tourer. Timeline Photos.",
+          1439205388
         ],
         [
-          "\u2665 Join @BMW, The ultimate driving machine. \u2665.",
-          1398072490
+          "\"Ciao bella. Posso entrare?\" The irresistible BMW 6 Series Gran Coup\u00e9. BMW Italia. Photos from BMW's post.",
+          1432559375
         ],
         [
-          "A playground for grown-ups built by BMW Asia Insider\n#BMWstories. BMW xDrive Island. Extreme thrills.",
-          1397572883
+          "At this year's Auto Shanghai, BMW is not only celebrating the world premiere of the BMW X5 xDrive40e Sports Activity Vehicle, but also two Asian premieres \u2013 the all-new BMW 1 Series and the first-ever BMW 2 Series Gran Tourer. #BMWshanghai. Photos from BMW's post.",
+          1429548536
         ],
         [
-          "Less weight equals more performance.\nWould you like to know how that works? We'll show you:\nhttp://youtu.be/xAXcObriIA0. Timeline Photos.",
-          1391790864
+          "Start your weekend with sunshine! The BMW 3 Series Gran Turismo interior. Timeline Photos.",
+          1429250633
         ],
         [
-          "Are you up for some BMW gaming action? We just released the follow up of the BMW xDrive Challenge for iOS: http://bit.ly/1bJPiQg. Timeline Photos.",
-          1390822102
+          "Stunning scenery, stunning car: BMW BLOG hits Romania's famous Transf\u0103g\u0103r\u0103\u0219an Road with the BMW 6 Series Gran Coup\u00e9. http://bit.ly/BMW6Series-GranCoupe-Efficiency. Photos from BMW's post.",
+          1427442455
+        ],
+        [
+          "Seventh (seat) heaven. The BMW 2 Series Gran Tourer. Timeline Photos.",
+          1425634143
+        ],
+        [
+          "Unlimited space for the family \u2013 and me. The BMW 2 Series Gran Tourer. Timeline Photos.",
+          1424851151
+        ],
+        [
+          "Gearing up for an adventure? Tell us about the road trips you\u2019re planning in the comments section. BMW 2 Series Gran Tourer. Timeline Photos.",
+          1424765795
+        ],
+        [
+          "Power. Adrenaline. Beauty.\nDiscover the interior of the BMW M6 model range in 360\u00b0.\nBMW M6 Convertible: bit.ly/1DNBfv4\nBMW M6 Coup\u00e9: bit.ly/1DK9jtD\nBMW M6 Gran Coup\u00e9: bit.ly/1D3fKCI. Photos from BMW's post.",
+          1424700938
+        ],
+        [
+          "In customary BMW style, all the important operating features of the cockpit are designed with the driver in mind.\n\nBMW 2 Series Gran Tourer Sport Line. Timeline Photos.",
+          1424446733
+        ],
+        [
+          "The first-ever BMW 2 Series Gran Tourer is the world\u2019s first premium compact model offering up to seven seats, and fully meets the mobility requirements of young families. \nDiscover it here: http://youtu.be/6wxa-AwH5HM. Timeline Photos.",
+          1424248693
+        ],
+        [
+          "It has never been easier to take a quick seat inside the new BMW 6 Series models.\n\nBMW 6 Series Coup\u00e9: http://bit.ly/1J0JMzE\nBMW 6 Series Gran Coup\u00e9: http://bit.ly/1F1x153\nBMW 6 Series Convertible: http://bit.ly/1vGEP9B. Photos from BMW's post.",
+          1424081977
+        ],
+        [
+          "Perfection. From every angle.\nUnveil each and every detail of the new BMW 6 Series Coup\u00e9, Gran Coup\u00e9 and Convertible: http://bit.ly/1KSo5iN. Photos from BMW's post.",
+          1423842785
+        ],
+        [
+          "Versatility all round.\nThe first-ever BMW 2 Series Gran Tourer combines flexibility and dynamics while the interior offers a variety of possibilities for seating, storage and transport. http://bit.ly/2SeriesGranTourer. Photos from BMW's post.",
+          1423669979
+        ],
+        [
+          "Luxury\u00b2. BMW 4 Series Gran Coupe\u0301 with Luxury Line. Timeline Photos.",
+          1423413601
+        ],
+        [
+          "Aesthetics that are unlike any others. The BMW 3 Series Gran Turismo. Timeline Photos.",
+          1422633528
+        ],
+        [
+          "BMW M4 Safety Car in Gran Turismo 6. - Reinmens.",
+          1416665164
+        ],
+        [
+          "Always ready to take the lead. And now ready for download. The BMW M4 M Performance Safety Car is available in Gran Turismo 6 now. Timeline Photos.",
+          1416585318
+        ],
+        [
+          "Gran coup\u00e9 435i.",
+          1412065271
+        ],
+        [
+          "Become a car photographer and get noticed. All you need is some virtual equipment. Start your Sony PlayStation 3 and Gran Turismo 6 to take some in-game shots of the BMW Vision Gran Turismo. This week's challenge: upload your photos to https://www.facebook.com/GranTurismo using #BMWPhotoVGT for a chance to be selected. For more information please follow: http://www.m-power.com/myGT6ingameBMW. Timeline Photos.",
+          1406557561
+        ],
+        [
+          "BMW Individual featuring the high-end audio expertise of Bang & Olufsen \u2013 Experience the special edition of the BMW 6 Series Gran Coup\u00e9 and BMW M6 Gran Coup\u00e9, which is limited to 110 vehicles. Pleasure for the eyes and ears.",
+          1401719309
+        ],
+        [
+          "The BMW Vision Gran Turismo hits the virtual road. This beauty just made its appearance in Gran Turismo 6 on PlayStation 3. Experience pure BMW sportiness and dynamics. BMW Vision Gran Turismo.",
+          1400076906
+        ],
+        [
+          "Awake the night: See the first-ever BMW 4 Series Gran Coup\u00e9 lighting the dark. \nhttp://youtu.be/trOVMpvqvbU. Timeline Photos.",
+          1399386174
+        ],
+        [
+          "Get yourself an impression of the creative possibilities of the BMW Individual Manufaktur \u2013 the BMW M6 Gran Coup\u00e9 \u201cFrozen Red\u201d. Take your place in a work of art!",
+          1398348500
+        ],
+        [
+          "BMW 650i Gran Coup\u00e9.",
+          1393435067
+        ],
+        [
+          "4 the win!\n\nhttp://bit.ly/1fRZ0El. The first-ever BMW 4 Series Gran Coup\u00e9.",
+          1392826237
+        ],
+        [
+          "More info: http://bit.ly/1fRZ0El. The first-ever BMW 4 Series Gran Coup\u00e9.",
+          1391446044
+        ],
+        [
+          "Designed for Driving Pleasure \u2013 the first-ever BMW 4 Series Gran Coup\u00e9. http://youtu.be/CoHrA6GRAKo. Timeline Photos.",
+          1391360264
+        ],
+        [
+          "We celebrate the Chinese Year of the Horse 575 times. Once for each horse in the limited BMW M6 Gran Coup\u00e9 Horse Edition. BMW M6 Gran Coup\u00e9 Horse Edition.",
+          1391183892
         ]
       ],
-      "dates_start": 1413488881,
-      "dates_end": 1471014081,
-      "likes_avg": 7307,
-      "likes_stdev": 13323,
-      "comments_avg": 87,
-      "comments_stdev": 203,
-      "shares_avg": 485,
-      "shares_stdev": 1673
+      "dates_start": 1419331309,
+      "dates_end": 1479035877,
+      "likes_avg": 11803,
+      "likes_stdev": 10647,
+      "comments_avg": 104,
+      "comments_stdev": 104,
+      "shares_avg": 490,
+      "shares_stdev": 604
     },
     {
-      "number": 16,
+      "number": 11,
       "important": [
-        "ultim",
-        "timelin",
         "drive",
-        "photo",
-        "driver"
+        "bmw",
+        "experi",
+        "design",
+        "mobil",
+        "mode"
       ],
-      "summary": "With the BMW VISION NEXT 100, we are passing on the baton, and allowing ourselves to redesign the future of mobility for the #next100 years of BMW. To commemorate the 100 year anniversary of the BMW Group, we are proud to announce the BMW VISION NEXT 100 as the car that will take us to the #next100 years of innovation and mobility. With the BMW VISION NEXT 100, we\u2019re introducing our vision for the future of mobility: a vehicle concept designed to transform you into the 'Ultimate Driver\u2019. The BMW VISION NEXT 100. Experience the vision: the BMW VISION NEXT 100.",
+      "summary": "Ease into the future: The BMW VISION NEXT 100 gives you the opportunity to seamlessly switch between Boost and Ease Modes; either making you the ultimate driver or letting you relax while handling the drive by itself.\nGet an all-access look at the BMW VISION  #next100 by heading to http://bit.ly/1LP8ANb. A lot of historic moments have occured in the past 100 years which helped solidify BMW as a brand dedicated to innovation and the pinnicle of sheer driving pleasure.",
       "common": [
         "drive",
         "driver",
@@ -2931,15 +2644,18 @@
       "shares_stdev": 770
     },
     {
-      "number": 17,
+      "number": 12,
       "important": [
+        "bmw",
+        "photo",
         "throwbackthursday",
-        "bmw classic timelin",
-        "bmw seri",
-        "throwbackthursday timelin",
-        "classic timelin"
+        "car",
+        "classic",
+        "race",
+        "race team",
+        "triviatuesday"
       ],
-      "summary": "BMW Classic ThrowbackThursday. BMW Classic #ThrowbackThursday. #ThrowbackThursday BMW Classic. BMW Classic. #bmw #classic!.",
+      "summary": "That said, time has proven that the classic BMW 3 Series is just as progressive, innovative, reliable and strong as its successors.\nThe BMW 3.0 CSL is a timeless classic, an iconic BMW Coup\u00e9 from the 1970s.\nBMW 501 BMW Classic #ThrowbackThursday #tbt.\nRight from the very start the BMW M1 was the fastest road-going sports car built in Germany, as timed by a leading car journal: in a test conducted in 1979, the M1 reached a top speed of 264.7 km/h, or 164.1 mph.\nhttps://youtu.be/hbxI4rMY_wM #ThrowbackThursday #tbt BMW Classic.",
       "common": [
         "bmw classic timelin",
         "bmw classic timelin photo",
@@ -3132,14 +2848,18 @@
       "shares_stdev": 336
     },
     {
-      "number": 18,
+      "number": 13,
       "important": [
-        "firstev",
-        "tourer timelin",
-        "bring",
-        "combin"
+        "bmw",
+        "activ",
+        "photo",
+        "tourer",
+        "bmwstori",
+        "thing",
+        "combin",
+        "manag"
       ],
-      "summary": "The BMW 2 Series Active Tourer. In the city or on the road, the BMW 2 Series Active Tourer is a loyal companion throughout the activities of the day. The BMW 2 Series Active Tourer with xDrive. The BMW 2 Series Active Tourer brings you functionality, space and comfort. At this year\u2019s Paris Motor Show BMW brings you some great additions to the BMW family: the first-ever 2 Series Covertible, the all-new BMW X6 and BMW Concept X5 eDrive along with the first-ever BMW 2 Series Active Tourer.",
+      "summary": "The BMW 2 Series Active Tourer brings you functionality, space and comfort.\nBMW brand ambassador Karolina Kurkova is a real fan of the all-new BMW 2 Series Active Tourer: \"It is the perfect fit for me \u2013 because it combines style, flexibility and safety.\nSpace and comfort, style and elegance: the new BMW 2 Series Active Tourer combines BMW dynamics with today\u2019s mobility requirements.",
       "common": [
         "activ tourer timelin",
         "activ tourer timelin photo",
@@ -3244,15 +2964,19 @@
       "shares_stdev": 606
     },
     {
-      "number": 19,
+      "number": 14,
       "important": [
-        "allnew bmw seri sedan",
-        "allnew",
-        "allnew bmw",
-        "onli",
-        "allnew bmw seri"
+        "photo",
+        "bmw",
+        "view",
+        "featur",
+        "drive",
+        "athlet",
+        "park",
+        "white",
+        "led"
       ],
-      "summary": "The all-new BMW 5 Series Sedan. The new BMW 3 Series Sedan. The BMW 3 Series Sedan. The BMW 7 Series Sedan. The headlights of the all-new BMW 5 Series Sedan.",
+      "summary": "Including the all-new BMW 5 Series Sedan.\nThe design of the Adaptive LED Headlights underlines the high-precision athletic character of the all-new BMW 5 Series Sedan.\nThe headlights of the all-new BMW 5 Series Sedan.\nAvailable in the all-new BMW 5 Series Sedan.\nThe all-new BMW Individual 5 Series Sedan.\nThat\u2019s the unparalleled driving pleasure to be found inside the new BMW 3 Series Sedan.\nThe new BMW 3 Series Sedan.",
       "common": [
         "allnew",
         "allnew bmw",
@@ -3357,382 +3081,19 @@
       "shares_stdev": 300
     },
     {
-      "number": 20,
+      "number": 15,
       "important": [
-        "show",
-        "press",
-        "motor show",
-        "geneva",
-        "world"
-      ],
-      "summary": "The new BMW M760Li with xDrive is on the way to its world premiere at the Geneva International Motor Show. The new #BMW #M760Li with #xDrive is already on the way to its world premiere at the Geneva International Motor Show next week. BMW at the Geneva Motor Show 2014. The Motoring World: New flagship model for the BMW 7 Series range and the Debut of the first M... My thoughts on all things motoring, press releases, reviews & techie stuff, from around the world. The new BMW M760Li with xDrive is the prestigious flagship model of the new 7 Series, as we presented it at Geneva International Motor Show last week.",
-      "common": [
+        "tour",
         "bmw",
-        "geneva",
-        "motor show",
-        "new",
-        "pari",
-        "pari motor",
+        "connect",
         "photo",
-        "press",
-        "show",
-        "world"
+        "stay",
+        "mood",
+        "light",
+        "exclus",
+        "design"
       ],
-      "messages": [
-        [
-          "The Geneva International Motor Show had a splendid start with the BMW press conference and many stars made their public debut. See you at the BMW stand.\n#BMWGIMS.",
-          1489071678
-        ],
-        [
-          "The 87th Geneva International Motor Show 2017 is right around the corner.\nDon\u2019t miss out the world premiere of the new BMW 4 Series and more highlights of BMW during the upcoming days. #BMWGIMS. Timeline Photos.",
-          1488621602
-        ],
-        [
-          "Today marks the last day of the Paris Motor Show. Amongst others the BMW Concept X2 made its debut during the show. Till next time! Timeline Photos.",
-          1476597603
-        ],
-        [
-          "Shared by @AndreaSimone_G on Twitter. Paris Motor Show highlights.",
-          1475863210
-        ],
-        [
-          "Shared by @bimmertoday on Instagram. Paris Motor Show highlights.",
-          1475863208
-        ],
-        [
-          "Shared by @bmwdaeninck on Instagram. Paris Motor Show highlights.",
-          1475863207
-        ],
-        [
-          "Shared by  @mylifeonwheels on Instagram. Paris Motor Show highlights.",
-          1475863205
-        ],
-        [
-          "Shared by @mdk_cargraphy on Instagram. Paris Motor Show highlights.",
-          1475863203
-        ],
-        [
-          "Live from the Paris Motorshow, BMW announces the next interpretation of joy. #BMWparis. Press Conference Paris Motor Show 2016.",
-          1475138608
-        ],
-        [
-          "SE VENDE 320i E30 a\u00f1o 1984 \u00fanico!!!!\n\nInmaculado motor y chapa por donde se lo mire!!!!\n\nNo se permuta... Solo por privado!!!",
-          1462451108
-        ],
-        [
-          "Over the years I have owned Alfa Romeos, lots of them and for the most part they have been extremely reliable. In February of this year I purchased my first ever BMW a Z4. My first experience of owning this apparently reliable and well designed German brand is the hood motor failed yesterday due to water collecting in the hood motor. This is due to extremely poor design by BMW as the hood drainage channels become blocked and allow water to collect and flood the hood motor. 10 mins on google and it appears this is a common fault with all Z4 models and costs over \u00a3900 to fix as the hood as to be removed and new hood motor/hydraulic pump fitted. BMW I have never had an issue regarding such poor design with my Alfa Romeos. Why has BMW not recalled this Z4 model to modify the hood drainage channels?",
-          1461811573
-        ],
-        [
-          "And Then There Was One... The World Luxury Car Of The Year goes too........\n\nhttp://jomomag.blogspot.co.uk/2016/03/and-then-there-was-one-world-luxury-car.html. The Motoring World: And Then There Was One... The World Luxury Car Of The Year goes too........ My thoughts on all things motoring, press releases, reviews & techie stuff, from around the world. Please note that the pictures of vehicles within this blog are used as examples of the specific press releases, on occasions, due to the lack of available official pictures, examples are re-produced. A\u2026.",
-          1459159182
-        ],
-        [
-          "The new BMW M760Li with xDrive is the prestigious flagship model of the new 7 Series, as we presented it at Geneva International Motor Show last week.\nIt delivers 610 bhp and the most dynamic driving pleasure, with an emotional engine sound underlining the performance of the 7 series. #BMWgeneva. Timeline Photos.",
-          1458662407
-        ],
-        [
-          "All but ready to go!\nThe new #BMW #M760Li with #xDrive is already on the way to its world premiere at the Geneva International Motor Show next week. Stay tuned for more coverage on #GIMS. #GVAMotorshow #BMWgeneva. Last Week's Best of Instagram!",
-          1457173502
-        ],
-        [
-          "Here is a look at BMW\u2019s home sweet home at the Geneva Motor Show 2016. Stop by and get a first-hand look at the debut of the new BMW M760Li xDrive, and BMW iPerformance, which will transfer the technology of BMW i into the core BMW brand in all plug-in hybrid vehicles. Follow our Geneva story by checking out #BMWGeneva on all channels. Timeline Photos.",
-          1457109287
-        ],
-        [
-          "We're almost ready!\nThe new BMW M760Li with xDrive is on the way to its world premiere at the Geneva International Motor Show. Get ready for more coverage next week.\n#BMWgeneva #GIMS #GVAMotorshow. Timeline Photos.",
-          1456416005
-        ],
-        [
-          "The BMW Group has long been at the forefront of technological development. And today is no different !\n\nhttp://jomomag.blogspot.co.uk/2016/02/the-bmw-group-has-long-been-at.html. The Motoring World: The BMW Group has long been at the forefront of technological development.... My thoughts on all things motoring, press releases, reviews & techie stuff, from around the world. Please note that the pictures of vehicles within this blog are used as examples of the specific press releases, on occasions, due to the lack of available official pictures, examples are re-produced. A\u2026.",
-          1455989364
-        ],
-        [
-          "New flagship model for the BMW 7 Series range and the Debut of the first M Performance TwinPower Turbo V12 engine\n\nhttp://jomomag.blogspot.co.uk/2016/02/new-flagship-model-for-bmw-7-series.html. The Motoring World: New flagship model for the BMW 7 Series range and the Debut of the first M... My thoughts on all things motoring, press releases, reviews & techie stuff, from around the world. Please note that the pictures of vehicles within this blog are used as examples of the specific press releases, on occasions, due to the lack of available official pictures, examples are re-produced. A\u2026.",
-          1455886864
-        ],
-        [
-          "Preparations are done and we are ready for this year's International Motor Show (IAA), starting tomorrow. Keep an eye on our coverage over the next few days!\n\nCheck out the BMW Motor Show Blog for additional information: http://www.bmwmotorshowblog.com/frankfurt/en/bmw-at-the-iaa-2015. Photos from BMW's post.",
-          1442241182
-        ],
-        [
-          "A more in depth introduction to the new generation 3-Series saloon and Touring from BMW.\n\n. The Motoring World: A more in depth introduction to the new generation 3-Series saloon and... My thoughts on all things motoring, press releases, reviews & techie stuff, from around the world. Please note that the pictures of vehicles within this blog are used as examples of the specific press releases, on occasions, due to the lack of available official pictures, examples are re-produced. A\u2026.",
-          1441281052
-        ],
-        [
-          "Raising the bar in terms of performance.\nOn 15th September 2015 the BMW M6 GT3 will be presented for the first time in a BMW Motorsport racing design, without camouflage livery, at the International Motor Show (IAA) in Frankfurt am Main. Photos from BMW's post.",
-          1440584778
-        ],
-        [
-          "Held every other year since 1985, Auto Shanghai ranks as one of Asia\u2019s leading motor shows - and BMW is all in. Stay tuned for more coverage in the following days. #BMWshanghai\n\nhttp://www.bmw.com/com/en/insights/explore/shanghai_motor_show_2015/index.html. Photos from BMW's post.",
-          1429448167
-        ],
-        [
-          "Tecili satiram ! 2003 , 2.5 motor, amerikanka. \nHe\u00e7 bir problemi yoxdur. 10 000 USD.",
-          1426960041
-        ],
-        [
-          "Discover the BMW stand in 360\u00b0 at the Geneva International Motorshow. #BMWgeneva \nhttp://bmw-autosalon.ch/int-en/stand/intro/ Timeline Photos.",
-          1426148599
-        ],
-        [
-          "Let's get the show started. Watch the BMW Group Press Conference at the Geneva International Motor Show now. #GIMS #BMWgeneva http://live.bmwgroup.com/2015gen/index.html. Timeline Photos.",
-          1425364973
-        ],
-        [
-          "Re: Defective BMW x1 2011 Motor car purchased from Stewart Motors, Kingston Jamaica. How long do we have to wait for this matter to be addressed? Its been too long now. We are about to enter the new year without a car. We therefore demand immediate attention and action in this matter!!!!!!!!!!!!!!!!",
-          1419793248
-        ],
-        [
-          "This year's Paris Motor Show featured two BMW world premieres and a lot more BMW models to discover for the public. But see for yourself. #BMWparis. BMW at Paris Motor Show 2014.",
-          1413197166
-        ],
-        [
-          "M5 F10 by Hamann, in Paris.",
-          1408006825
-        ],
-        [
-          "We had a great time at the Geneva Motor Show. Thanks for having us. BMW at the Geneva Motor Show 2014.",
-          1395074144
-        ],
-        [
-          "Press Days are over! We're looking forward to meeting you at the Geneva Motor Show. #BMWGeneva #SIAG. 2014 Geneva Motor Show \u2013 Press Days.",
-          1394038901
-        ],
-        [
-          "Cloaked for now \u2013 unveiled on Thursday. Come to the 2014 Geneva Motor Show and see #BMWGeneva treasures unveiled. \nFor latest news, visit www.bmwmotorshowblog.com/geneva. Timeline Photos.",
-          1393949129
-        ]
-      ],
-      "dates_start": 1420267004,
-      "dates_end": 1475829319,
-      "likes_avg": 5679,
-      "likes_stdev": 6646,
-      "comments_avg": 120,
-      "comments_stdev": 245,
-      "shares_avg": 442,
-      "shares_stdev": 642
-    },
-    {
-      "number": 21,
-      "important": [
-        "bmw seri coup\u00e9",
-        "allnew",
-        "like",
-        "bmw seri bmw",
-        "drivingluxuri"
-      ],
-      "summary": "The BMW 3 Series. The all-new BMW 7 Series. The BMW 1 Series M Coup\u00e9. The BMW 6 Series Coup\u00e9. The revolutionary and all-new BMW 7 Series.",
-      "common": [
-        "allnew",
-        "bmw seri bmw",
-        "bmw seri coup\u00e9",
-        "bmw seri coup\u00e9 bmw",
-        "bmw seri coup\u00e9 bmw uk",
-        "bmw seri drivingluxuri",
-        "drivingluxuri",
-        "like",
-        "seri bmw",
-        "seri bmw uk"
-      ],
-      "messages": [
-        [
-          "The 1 to rule them all. The BMW 1 Series M Coup\u00e9. BMW UK. Timeline Photos.",
-          1466497265
-        ],
-        [
-          "BMW EfficientLightweight helps it float like a butterfly, and the BMW Twin Turbo Engines make it sting like a bee. The BMW 6 Series Coup\u00e9. BMW UK. Timeline Photos.",
-          1453132744
-        ],
-        [
-          "Most fun happens when the sun goes down, and the BMW Laserlights are unleashed. The all-new BMW 7 Series. #drivingluxury BMW UK. Timeline Photos.",
-          1452092682
-        ],
-        [
-          "The original since 1975: The BMW 3 Series is the embodiment of a sporty sedan, even at a standstill. BMW UK. Timeline Photos.",
-          1452073324
-        ],
-        [
-          "Sportier than all. More elegant than ever. Dynamics unrivalled. \n\nThe BMW 3 Series. BMW UK. Timeline Photos.",
-          1450775852
-        ],
-        [
-          "Black panther.\nThe sportier-than-ever BMW 3 Series roars, even before you press the ignition. BMW UK. Timeline Photos.",
-          1450009055
-        ],
-        [
-          "Fits right in with the panorama.\nThe BMW 3 Series.\nBMW UK. Timeline Photos.",
-          1449820548
-        ],
-        [
-          "Definition of a scene stealer: The BMW X1 gives grand performance on any terrain. BMW UK. Timeline Photos.",
-          1449676595
-        ],
-        [
-          "The birthplace of the industrial revolution needs a car to 'boot'. The revolutionary and all-new BMW 7 Series. #drivingluxury BMW UK. Timeline Photos.",
-          1448610842
-        ],
-        [
-          "Turning parking structures into museums; the new BMW 7 Series is #drivingluxury unparalleled, even when parallel parked. BMW UK. Timeline Photos.",
-          1448380704
-        ],
-        [
-          "Oh, the places you'll go. The all-new BMW X1. BMW UK. Timeline Photos.",
-          1446566674
-        ],
-        [
-          "1 Series, but 8-speed Steptronic transmission. The transmission of the BMW 1 Series sets a new benchmark in comfort and dynamic performance. BMW UK. Timeline Photos.",
-          1446019988
-        ],
-        [
-          "The 6th generation BMW 3 Series boasts optimum weight distribution, classic rear-wheel drive and powerful, high-efficiency engines with BMW EfficientDynamics technology. To say that this generation of the 3 Series has been taken to new heights is simply an understatement. BMW UK. Timeline Photos.",
-          1444743006
-        ],
-        [
-          "King of the Castle. The BMW 6 Series Coup\u00e9. BMW UK. Timeline Photos.",
-          1444717475
-        ],
-        [
-          "Options like the Sport Line, Luxury Line or M Sport package are just 3 ways to fall in love with the BMW 3 Series. BMW UK. Timeline Photos.",
-          1444629521
-        ],
-        [
-          "Each trip in a BMW is like flying away on your holidays. BMW UK. Timeline Photos.",
-          1427040710
-        ]
-      ],
-      "dates_start": 1440943578,
-      "dates_end": 1455904794,
-      "likes_avg": 7753,
-      "likes_stdev": 4724,
-      "comments_avg": 89,
-      "comments_stdev": 28,
-      "shares_avg": 437,
-      "shares_stdev": 192
-    },
-    {
-      "number": 22,
-      "important": [
-        "sunday",
-        "like",
-        "road",
-        "form",
-        "make"
-      ],
-      "summary": "The BMW 6 Series Convertible. The BMW 2 Series Convertible. \ud83d\ude0e\nThe BMW 6 Series Convertible. The BMW 4 Series Convertible. BMW 6 Series Convertible.",
-      "common": [
-        "beauti",
-        "form",
-        "like",
-        "make",
-        "ray",
-        "ray sunshin",
-        "road",
-        "sunday",
-        "sunshin",
-        "take"
-      ],
-      "messages": [
-        [
-          "Equipped with a built-in tanning option. \nThe BMW 2 Series Convertible. Timeline Photos.",
-          1483516802
-        ],
-        [
-          "Sunshine on wheels.\nThe BMW 4 Series Convertible. Timeline Photos.",
-          1481832002
-        ],
-        [
-          "The ultimate airstream in the shade.\nThe BMW 6 Series Convertible. Timeline Photos.",
-          1481140803
-        ],
-        [
-          "What a holiday should feel like.\nThe BMW 2 Series Convertible. Timeline Photos.",
-          1481011203
-        ],
-        [
-          "Full throttle ahead. \nCharlie's Angels in the form of three BMW 4 Series Convertibles. Timeline Photos.",
-          1480925402
-        ],
-        [
-          "Rays of sunshine are seamlessly integrated in the design of the BMW 2 Series Convertible. Timeline Photos.",
-          1480363204
-        ],
-        [
-          "Sunday sunny Sunday. \ud83d\ude0e\nThe BMW 6 Series Convertible. Timeline Photos.",
-          1480233949
-        ],
-        [
-          "Ensuring you always make a perfect emotional impression. \nThe BMW 6 Series Coup\u00e9 and BMW 6 Series Convertible. Timeline Photos.",
-          1478764803
-        ],
-        [
-          "Keep your eyes on the road while viewing the relevant driving information. The Head Up Display, available in the BMW 4 Series Convertible. Timeline Photos.",
-          1478506230
-        ],
-        [
-          "A ray of sunshine takes physical form: the BMW 4 Series Convertible. Timeline Photos.",
-          1476165603
-        ],
-        [
-          "Make every road your own driveway. The BMW 4 Series Convertible. Timeline Photos.",
-          1468432806
-        ],
-        [
-          "One of the fastest ways to chase the sun: the BMW 2 Series Convertible. Timeline Photos.",
-          1467093604
-        ],
-        [
-          "Excitement and adventure are just a drop top away... The BMW 4 Series Convertible. Timeline Photos.",
-          1462082402
-        ],
-        [
-          "Like a cruising yacht, but for the road: the BMW 6 Series Convertible. Timeline Photos.",
-          1459346223
-        ],
-        [
-          "Makes you wanna jump right in: The BMW 4 Series Convertible. Timeline Photos.",
-          1458748804
-        ],
-        [
-          "Some cities are just too beautiful to hide behind roofs. The BMW 2 Series Convertible. Timeline Photos.",
-          1441634580
-        ],
-        [
-          "When in Vegas, at least never gamble on your ride. The BMW 4 Series Convertible. Timeline Photos.",
-          1440569917
-        ],
-        [
-          "It's not about taking a photo. It's about sharing a passion. Pepper Yandell Photography shows you the art of car photography with the BMW 2 Series Convertible: https://youtu.be/uYM64w8Wcds. Timeline Photos.",
-          1427696534
-        ],
-        [
-          "Caution! NSFW: topless photo. The BMW 4 Series Convertible. Timeline Photos.",
-          1425285149
-        ],
-        [
-          "Agile. Beautiful. Classic. Distinctive. Elegant. Futuristic. Groundbreaking. Hallowed. Innovative. Jet-setting. Kinetic. Luxurious. Masterful. Notable. Powerful. Quality. Revolutionary. Sleek. Tantalising. Unparalleled. Versatile. X-treme. Youthful. Zesty.\n\nBMW 6 Series Convertible. Timeline Photos.",
-          1425024625
-        ]
-      ],
-      "dates_start": 1443740388,
-      "dates_end": 1484097075,
-      "likes_avg": 12613,
-      "likes_stdev": 7844,
-      "comments_avg": 88,
-      "comments_stdev": 60,
-      "shares_avg": 429,
-      "shares_stdev": 368
-    },
-    {
-      "number": 23,
-      "important": [
-        "timelin",
-        "allnew bmw seri tour",
-        "allnew",
-        "allnew bmw",
-        "allnew bmw seri"
-      ],
-      "summary": "The all-new BMW 5 Series Touring is the true master of its class. The BMW 3 Series Touring. The all-new BMW 5 Series Touring. Geneva is heating up with the world premiere of the all-new BMW 5 Series Touring. BMW Connected, available in the all-new BMW 5 Series Touring.",
+      "summary": "Be there live for the world premiere of the all-new BMW 5 Series Touring at the Geneva International Motor Show.\nThe all-new BMW 5 Series Touring is the true master of its class.\nThe Luxury Line enhances the exclusive aura of the BMW 3 Series Touring, on the outside and inside alike.\nFeel all the benefits of a health and wellness break \u2013 in the new BMW 3 Series Touring, Luxury Line.",
       "common": [
         "allnew",
         "allnew bmw",
@@ -3833,13 +3194,18 @@
       "shares_stdev": 436
     },
     {
-      "number": 24,
+      "number": 16,
       "important": [
-        "germani httpwwwdatdeangeboteverlagsprodukteleitfadenkraftstoffverbrauchhtml timelin",
-        "timelin",
-        "best"
+        "bmw",
+        "drive",
+        "photo",
+        "bmwi",
+        "instagram",
+        "bmwrepost",
+        "power",
+        "design"
       ],
-      "summary": "BMW i \n\n_________\nBMW i8 plug-in hybrid BMW eDrive: energy consumption (combined): 11,9 kWh/100 km Fuel consumption (combined): 2,1 l/100 km, CO2 emissions (combined): 49 g/km. BMW i\n_________\nBMW i8 plug-in hybrid BMW eDrive: energy consumption (combined): 11,9 kWh/100 km Fuel consumption (combined): 2,1 l/100 km, CO2 emissions (combined): 49 g/km. BMW i\n\n_________\nBMW i8 plug-in hybrid BMW eDrive: energy consumption (combined): 11,9 kWh/100 km Fuel consumption (combined): 2,1 l/100 km, CO2 emissions (combined): 49 g/km. #BMWi8\n\n_________\n\nBMW i8 plug-in hybrid BMW eDrive: energy consumption (combined): 11,9 kWh/100 km Fuel consumption (combined): 2,1 l/100 km, CO2 emissions (combined): 49 g/km. _________\n\nFuel consumption and CO2 emissions for the BMW M3 Sedan & BMW M4 Coup\u00e9:\nFuel consumption in l/100 km (combined): 8.8 (8.3)\nCO2 emissions in g/km (combined): 204 (194)\n\nBMW i8 plug-in hybrid BMW eDrive: energy consumption (combined): 11,9 kWh/100 km Fuel consumption (combined): 2,1 l/100 km, CO2 emissions (combined): 49 g/km.",
+      "summary": "Further information about the official energy and fuel consumption and the official specific CO2 emissions for new passenger automobiles can be found in the \"New Passenger Vehicle Fuel Consumption, CO2 Emission And Electric Power Consumption Guidelines\", which are available free of charge at all sales outlets and from DAT Deutsche Automobil Treuhand GmbH, Hellmuth-Hirth-Str. 1, 73760 Ostfildern, Germany and on http://www.dat.de/angebote/verlagsprodukte/leitfaden-kraftstoffverbrauch.html.",
       "common": [
         "best",
         "germani httpwwwdatdeangeboteverlagsprodukteleitfadenkraftstoffverbrauchhtml timelin",
@@ -4040,15 +3406,20 @@
       "shares_stdev": 482
     },
     {
-      "number": 25,
+      "number": 17,
       "important": [
+        "bmw",
+        "bmws",
         "race",
-        "photo",
-        "motorsport",
         "dtm",
-        "bmw motorsport"
+        "dtms",
+        "photo",
+        "motorsport team",
+        "marco",
+        "weekend",
+        "team"
       ],
-      "summary": "Through the city in a BMW M4 DTM: Three weeks after the Motorsport Festival at the Lausitzring (DE), the BMW DTM teams travel to the only street race of the year at the Norisring (DE). The DTM Team Title goes to BMW: After being crowned DTM driver's champion in the last race, Marco Wittmann is back on the podium in Zandvoort, sealing victory for BMW Team RMG with 1 race to go. The beginning of a new era \u2013 BMW Motorsport presents the BMW M4 DTM for the 2014 season. Congratulations to Marco Wittmann - Official for the DTM Championship 2014 and to the whole BMW Team RMG for winning the 2014 Team Championship! BMW Motorsport made history: BMW claimed the top seven positions in the first race of the weekend in Zandvoort.",
+      "summary": "BMW claims the 250th podium finish of its #DTM history \u2013 Third place for Marco Wittmann in Sunday\u2019s race, who maintains his lead in the Drivers\u2019 Championship.\nThat is why we had Martin Tomczyk Fanseite, Marco Wittmann and Bruno Spengler create their own DTM #champions soundtracks to rule the streets and turn your drive into a victory lap.\nDominating from start to finish: Marco Wittmann claimed his second win of the year at the third DTM race of the season at the Hungaroring.",
       "common": [
         "bmw motorsport",
         "dtm",
@@ -4317,15 +3688,16 @@
       "shares_stdev": 452
     },
     {
-      "number": 26,
+      "number": 18,
       "important": [
-        "drive",
+        "photo",
         "design",
-        "look",
-        "drivingluxuri",
-        "allnew bmw seri"
+        "drive",
+        "bmw",
+        "play",
+        "look"
       ],
-      "summary": "The BMW 3 Series. The BMW 1 Series. The BMW 6 Series. The BMW 5 Series. The BMW 1 series.",
+      "summary": "Offering new perspectives for more than 40 years with the BMW 3 Series.\nThe all-new BMW 1 Series.\nThe all-new BMW 1 Series.\nFresh, modern, straightforward \u2013 it must be the interior of the new BMW 1 Series.\nTake a look at the all-new BMW 1 Series: http://youtu.be/3tI4Yeg9HvA.\nAthletic design meets an efficient driving experience: Be one of the first to have a closer look at the all-new BMW 1 Series.",
       "common": [
         "allnew",
         "allnew bmw",
@@ -4494,182 +3866,17 @@
       "shares_stdev": 214
     },
     {
-      "number": 27,
+      "number": 19,
       "important": [
-        "gran turismo",
-        "gran tourer",
-        "tourer timelin",
-        "bmw seri gran tourer",
-        "bmw seri gran turismo"
-      ],
-      "summary": "The BMW 3 Series Gran Turismo. The BMW 5 Series Gran Turismo. The BMW 2 Series Gran Tourer. The BMW 3 Series Gran Turismo interior. The all-new BMW 2 Series Gran Tourer.",
-      "common": [
-        "bmw seri gran tourer",
-        "bmw seri gran turismo",
-        "gran tourer",
-        "gran turismo",
-        "seri gran tourer",
-        "seri gran turismo",
-        "tourer",
-        "tourer timelin",
-        "tourer timelin photo",
-        "turismo"
-      ],
-      "messages": [
-        [
-          "Leisure thrills. \nExclusive Nappa leather in Ivory White with exclusive stitching, available in the BMW 5 Series Gran Turismo Luxury Line. Timeline Photos.",
-          1485892804
-        ],
-        [
-          "Demonstrating greatness wherever it goes. \nThe BMW 3 Series Gran Turismo. Timeline Photos.",
-          1485331772
-        ],
-        [
-          "All you ever need in one stylish package. \nThe BMW 5 Series Gran Turismo. Timeline Photos.",
-          1484752171
-        ],
-        [
-          "The gaze magnetizer. \nThe BMW 3 Series Gran Turismo never passes you unnoticed. Timeline Photos.",
-          1481745602
-        ],
-        [
-          "What dreams are made of. \nThe BMW 3 Series Gran Turismo. Timeline Photos.",
-          1479499562
-        ],
-        [
-          "Rev up your Sunday.\nThe BMW 2 Series Gran Tourer. Timeline Photos.",
-          1479024358
-        ],
-        [
-          "Sheer inspiration.\nThe perfect road companion for those who hold style and unique design in high regard. The BMW 3 Series Gran Turismo comes in varied lines and equipment packages, among them the M sports package. Timeline Photos.",
-          1476968402
-        ],
-        [
-          "The hottest colour of the season: Flamenco Red. \nThe BMW 2 Series Gran Tourer. Timeline Photos.",
-          1476795603
-        ],
-        [
-          "Showing strength and demonstrating greatness everywhere you go in the BMW 3 Series Gran Turismo. The stature is defined through its muscularity combined with the flowing roof line of a classic coup\u00e9. Timeline Photos.",
-          1474264803
-        ],
-        [
-          "It's what is on the inside that counts. \n\nLucky for us and the new BMW 3 Series Gran Turismo, our insides look pretty good. Timeline Photos.",
-          1465927201
-        ],
-        [
-          "Highly developed BMW TwinPower Turbo engines extract the maximum amount of energy from every drop of fuel to deliver remarkable driving dynamics. And the active rear spoiler of the new BMW 3 Series Gran Turismo not only looks sporty, it also optimises the airflow and ensures the best possible road holding characteristics.\n\nbmw.com/3series_gran_turismo. Timeline Photos.",
-          1464933609
-        ],
-        [
-          "Inspire yourself with the unmistakeable and captivating design of the new BMW 3 Series Gran Turismo. Precise contours and expressively sculptured surfaces form a fascinating interplay of light and shade. And, with its generously proportioned, comfortable and versatile interior concept, it is the ideal companion for an active and sporty lifestyle.\n\nbmw.com/3series_gran_turismo.",
-          1464875119
-        ],
-        [
-          "Need space? Adjustable seats & many storage possibilities in the BMW 2 Series Gran Tourer insure unbeatable flexibility! Timeline Photos.",
-          1462816802
-        ],
-        [
-          "Delivering unrivalled driving dynamics with unparalleled comfort: The BMW 5 Series Gran Turismo. Timeline Photos.",
-          1462341602
-        ],
-        [
-          "A new form of space. The BMW 3 Series Gran Turismo. Timeline Photos.",
-          1460714402
-        ],
-        [
-          "The BMW 5 Series Gran Turismo loves you no matter the baggage you bring to the relationship. Timeline Photos.",
-          1458028502
-        ],
-        [
-          "Resembling the sea in both colour and spaciousness: The BMW 2 Series Gran Tourer. Timeline Photos.",
-          1453737603
-        ],
-        [
-          "Enough power to start an avalanche and the energy to make you want to try. The BMW 2 Series Gran Tourer and Active Tourer. Timeline Photos.",
-          1448438211
-        ],
-        [
-          "Pier group. The BMW 2 Series Gran Tourer. Timeline Photos.",
-          1442469880
-        ],
-        [
-          "Don't be too quick to call 'shotgun' in the BMW 2 Series Gran Tourer. The roomy interior is dominated by a feeling of lightness, providing luxury for every seat. Top-quality materials and interior trims in subtle colours combine with large windows and the optional panorama glass roof to create an atmosphere bathed in natural light. Timeline Photos.",
-          1441484671
-        ],
-        [
-          "The family member who never complains. Even when he has to stay outside. The all-new BMW 2 Series Gran Tourer. Timeline Photos.",
-          1439205388
-        ],
-        [
-          "At this year's Auto Shanghai, BMW is not only celebrating the world premiere of the BMW X5 xDrive40e Sports Activity Vehicle, but also two Asian premieres \u2013 the all-new BMW 1 Series and the first-ever BMW 2 Series Gran Tourer. #BMWshanghai. Photos from BMW's post.",
-          1429548536
-        ],
-        [
-          "Start your weekend with sunshine! The BMW 3 Series Gran Turismo interior. Timeline Photos.",
-          1429250633
-        ],
-        [
-          "Seventh (seat) heaven. The BMW 2 Series Gran Tourer. Timeline Photos.",
-          1425634143
-        ],
-        [
-          "Unlimited space for the family \u2013 and me. The BMW 2 Series Gran Tourer. Timeline Photos.",
-          1424851151
-        ],
-        [
-          "Gearing up for an adventure? Tell us about the road trips you\u2019re planning in the comments section. BMW 2 Series Gran Tourer. Timeline Photos.",
-          1424765795
-        ],
-        [
-          "In customary BMW style, all the important operating features of the cockpit are designed with the driver in mind.\n\nBMW 2 Series Gran Tourer Sport Line. Timeline Photos.",
-          1424446733
-        ],
-        [
-          "The first-ever BMW 2 Series Gran Tourer is the world\u2019s first premium compact model offering up to seven seats, and fully meets the mobility requirements of young families. \nDiscover it here: http://youtu.be/6wxa-AwH5HM. Timeline Photos.",
-          1424248693
-        ],
-        [
-          "Versatility all round.\nThe first-ever BMW 2 Series Gran Tourer combines flexibility and dynamics while the interior offers a variety of possibilities for seating, storage and transport. http://bit.ly/2SeriesGranTourer. Photos from BMW's post.",
-          1423669979
-        ],
-        [
-          "Aesthetics that are unlike any others. The BMW 3 Series Gran Turismo. Timeline Photos.",
-          1422633528
-        ],
-        [
-          "BMW M4 Safety Car in Gran Turismo 6. - Reinmens.",
-          1416665164
-        ],
-        [
-          "Always ready to take the lead. And now ready for download. The BMW M4 M Performance Safety Car is available in Gran Turismo 6 now. Timeline Photos.",
-          1416585318
-        ],
-        [
-          "Become a car photographer and get noticed. All you need is some virtual equipment. Start your Sony PlayStation 3 and Gran Turismo 6 to take some in-game shots of the BMW Vision Gran Turismo. This week's challenge: upload your photos to https://www.facebook.com/GranTurismo using #BMWPhotoVGT for a chance to be selected. For more information please follow: http://www.m-power.com/myGT6ingameBMW. Timeline Photos.",
-          1406557561
-        ],
-        [
-          "The BMW Vision Gran Turismo hits the virtual road. This beauty just made its appearance in Gran Turismo 6 on PlayStation 3. Experience pure BMW sportiness and dynamics. BMW Vision Gran Turismo.",
-          1400076906
-        ]
-      ],
-      "dates_start": 1423343884,
-      "dates_end": 1474196245,
-      "likes_avg": 9790,
-      "likes_stdev": 8592,
-      "comments_avg": 85,
-      "comments_stdev": 66,
-      "shares_avg": 303,
-      "shares_stdev": 338
-    },
-    {
-      "number": 28,
-      "important": [
-        "germani httpwwwdatdeangeboteverlagsprodukteleitfadenkraftstoffverbrauchhtml timelin",
+        "bmw",
         "photo",
-        "timelin"
+        "drive",
+        "bmwrepost",
+        "instagram",
+        "perform",
+        "fuel"
       ],
-      "summary": "#BMW #M4\n_____\n\nFuel consumption and CO2 emissions for the BMW M4 Coup\u00e9:\nFuel consumption in l/100 km (combined): 8.8 - 8.3\nCO2 emissions in g/km (combined): 204 - 194\n\nFurther information about the official fuel consumption and the official specific CO2 emissions for new passenger automobiles can be found in the 'New Passenger Vehicle Fuel Consumption and CO2 Emission Guidelines', which are available free of charge at all sales outlets and from DAT Deutsche Automobil Treuhand GmbH, Hellmuth-Hirth-Str. #BMW #M4\n\n_____\n\nFuel consumption and CO2 emissions for the BMW M4 Coup\u00e9:\nFuel consumption in l/100 km (combined): 8.8 - 8.3\nCO2 emissions in g/km (combined): 204 - 194\n\nFurther information about the official fuel consumption and the official specific CO2 emissions for new passenger automobiles can be found in the 'New Passenger Vehicle Fuel Consumption and CO2 Emission Guidelines', which are available free of charge at all sales outlets and from DAT Deutsche Automobil Treuhand GmbH, Hellmuth-Hirth-Str. _____\n\nFuel consumption and CO2 emissions for the BMW M4 Coup\u00e9:\nFuel consumption in l/100 km (combined): 8.8 - 8.3\nCO2 emissions in g/km (combined): 204 - 194\n\nFurther information about the official fuel consumption and the official specific CO2 emissions for new passenger automobiles can be found in the 'New Passenger Vehicle Fuel Consumption and CO2 Emission Guidelines', which are available free of charge at all sales outlets and from DAT Deutsche Automobil Treuhand GmbH, Hellmuth-Hirth-Str. _____\nFuel consumption and CO2 emissions for the BMW M4 Coup\u00e9:\nFuel consumption in l/100 km (combined): 8.8 - 8.3\nCO2 emissions in g/km (combined): 204 - 194\n\nFurther information about the official fuel consumption and the official specific CO2 emissions for new passenger automobiles can be found in the 'New Passenger Vehicle Fuel Consumption and CO2 Emission Guidelines', which are available free of charge at all sales outlets and from DAT Deutsche Automobil Treuhand GmbH, Hellmuth-Hirth-Str. (https://www.instagram.com/darkknightm4/) #BMW #M4 \n_____\nFuel consumption and CO2 emissions for the BMW M4 Coup\u00e9:\nFuel consumption in l/100 km (combined): 8.8 - 8.3\nCO2 emissions in g/km (combined): 204 - 194\n\nFurther information about the official fuel consumption and the official specific CO2 emissions for new passenger automobiles can be found in the 'New Passenger Vehicle Fuel Consumption and CO2 Emission Guidelines', which are available free of charge at all sales outlets and from DAT Deutsche Automobil Treuhand GmbH, Hellmuth-Hirth-Str.",
+      "summary": "The #BMW #M3 @f80awm3 (www.instagram.com/f80awm3) #BMWrepost ___________ Fuel consumption and CO2 emissions for the BMW M3 Sedan: Fuel consumption in l/100 km (combined): 8.8 - 8.3 CO2 emissions in g/km (combined): 204 - 194 Further information about the official fuel consumption and the official specific CO2 emissions for new passenger automobiles can be found in the 'New Passenger Vehicle Fuel Consumption and CO2 Emission Guidelines', which are available free of charge at all sales outlets and from DAT Deutsche Automobil Treuhand GmbH, Hellmuth-Hirth-Str. 1, 73760 Ostfildern, Germany and on http://www.dat.de/angebote/verlagsprodukte/leitfaden-kraftstoffverbrauch.html.",
       "common": [
         "germani httpwwwdatdeangeboteverlagsprodukteleitfadenkraftstoffverbrauchhtml timelin",
         "germani httpwwwdatdeangeboteverlagsprodukteleitfadenkraftstoffverbrauchhtml timelin photo",
@@ -5866,15 +5073,17 @@
       "shares_stdev": 421
     },
     {
-      "number": 29,
+      "number": 20,
       "important": [
-        "timelin",
-        "race",
-        "artist",
-        "piec",
-        "man"
+        "bmw",
+        "car",
+        "art",
+        "photo",
+        "project",
+        "festivalu",
+        "budou"
       ],
-      "summary": "This is the story of Herv\u00e9 Poulain, the inventor of the BMW Art Car. The 1979 Andy Warhol BMW Art Car - the M1 - is the most successful Art Car to ever race at Le Mans. The 1977 Roy Lichtenstein BMW Art Car - the 320i - is the world's fastest piece of art and finished first in its class at Le Mans. He turned them into one of the most inspiring projects ever to combine the world of cars and the world of art: the \"BMW Art Cars\". A beast of art: As Official Partner of the Paris Photo we brought the BMW Art Car by David Hockney to the Paramount Studios.",
+      "summary": "From the 70s BMW Art Cars by Frank Stella, Roy Lichtenstein and Andy Warhol, to the latest addition to this long tradition by Jeff Koons \u2013 at this year's Concorso d'Eleganza Villa d'Este, BMW presents the highlights of 40 years BMW Art Car history live at Villa Erba.\nAarav's Father's Day Fun Project 2014 - BMW Art Car. A beast of art: As Official Partner of the Paris Photo we brought the BMW Art Car by David Hockney to the Paramount Studios.",
       "common": [
         "artist",
         "design",
@@ -5975,11 +5184,19 @@
       "shares_stdev": 258
     },
     {
-      "number": 30,
+      "number": 21,
       "important": [
-        "wheel"
+        "electr",
+        "bmw",
+        "vehicl",
+        "photo",
+        "sustain",
+        "drive",
+        "technolog",
+        "consumpt",
+        "emiss"
       ],
-      "summary": "For more of the gift that keeps on giving: BMW i \n__________\nThe driving range depends on a variety of factors, especially: personal driving behaviour, selected route, weather conditions, usage of heating/cooling and preconditioning. Further information about the official energy and fuel consumption and the official specific CO2 emissions for new passenger automobiles can be found in the \"New Passenger Vehicle Fuel Consumption, CO2 Emission And Electric Power Consumption Guidelines\", which are available free of charge at all sales outlets and from DAT Deutsche Automobil Treuhand GmbH, Hellmuth-Hirth-Str. / * Wheels cluster 1: 19\u201c wheels \n\nFurther information about the official energy and fuel consumption and the official specific CO2 emissions for new passenger automobiles can be found in the \"New Passenger Vehicle Fuel Consumption, CO2 Emission And Electric Power Consumption Guidelines\", which are available free of charge at all sales outlets and from DAT Deutsche Automobil Treuhand GmbH, Hellmuth-Hirth-Str. / * Wheels cluster 1: 19\u201c wheels\n\nFurther information about the official energy and fuel consumption and the official specific CO2 emissions for new passenger automobiles can be found in the \"New Passenger Vehicle Fuel Consumption, CO2 Emission And Electric Power Consumption Guidelines\", which are available free of charge at all sales outlets and from DAT Deutsche Automobil Treuhand GmbH, Hellmuth-Hirth-Str. The fully electric, zero local emissions vehicle helped position #BMW as one of the most sustainable car brands in the world and provided the perfect blueprint for the next years of electric mobility.",
+      "summary": "Further information about the official energy and fuel consumption and the official specific CO2 emissions for new passenger automobiles can be found in the \"New Passenger Vehicle Fuel Consumption, CO2 Emission And Electric Power Consumption Guidelines\", which are available free of charge at all sales outlets and from DAT Deutsche Automobil Treuhand GmbH, Hellmuth-Hirth-Str. 1, 73760 Ostfildern, Germany and on http://www.dat.de/angebote/verlagsprodukte/leitfaden-kraftstoffverbrauch.html.",
       "common": [
         "bmw ah",
         "bmw ah energi",
@@ -6056,15 +5273,18 @@
       "shares_stdev": 139
     },
     {
-      "number": 31,
+      "number": 22,
       "important": [
-        "bmwrepost via",
-        "via",
-        "bmwrepost last",
-        "bmw bmwrepost",
-        "bmwrepost"
+        "instagram",
+        "bmw",
+        "bmwrepost",
+        "seri",
+        "drive",
+        "look",
+        "sheer",
+        "thank"
       ],
-      "summary": "The #BMW #X3\n#BMWrepost via https://www.instagram.com/lederhose/ Last Week's Best of Instagram! The #BMW #1series\n\n#BMWrepost via https://www.instagram.com/dschmdt/. (https://www.instagram.com/bmwf30driver/) Last Week's Best of Instagram. https://www.instagram.com/dschmdt/'s #BMW #1series #BMWrepost. (https://www.instagram.com/shaunschap/) Last Week's Best of Instagram.",
+      "summary": "#BMW #BMWrepost @dschmdt (https://www.instagram.com/dschmdt/) Last Week's Best Of Instagram.\n#BMW #X6 #BMWrepost @carsinbursa (https://www.instagram.com/carsinbursa/) Last Week's Best of Instagram.\n#BMW #BMWrepost @lbb_m2 (https://www.instagram.com/lbb_m2/) Last Week's Best of Instagram.\n#BMW #7series #BMWrepost @soycetaceo (https://www.instagram.com/soycetaceo/) Last Week's Best of Instagram.\n#BMW #M3 #BMWrepost @da.orange.juice (https://www.instagram.com/da.orange.juice/) Last Week's Best of Instagram.\n#BMW #BMWrepost @danny_zarate (https://www.instagram.com/danny_zarate/) Last Week's Best of Instagram.\nThe #BMW #4series #GranCoup\u00e9 looking bossy in this #BMWrepost via https://www.instagram.com/motocollection/.",
       "common": [
         "bmw bmwrepost",
         "bmw last week",
@@ -6349,231 +5569,18 @@
       "shares_stdev": 40
     },
     {
-      "number": 32,
+      "number": 23,
       "important": [
-        "fan",
-        "facebook",
-        "like bmw",
-        "like page"
-      ],
-      "summary": "Like my page <3 LIKE page bmw e30! Like page Bmw e30 ! Like bmw e30 page! Like Bmw e30 page ! Like Bmw e30 Page!",
-      "common": [
+        "love",
         "bmw",
-        "bmw page",
-        "facebook",
-        "facebook page",
-        "fan",
-        "like bmw",
-        "like bmw page",
-        "like page",
-        "like page bmw",
-        "page bmw"
+        "bmws",
+        "legend",
+        "god",
+        "paradis",
+        "ambassador",
+        "avantgard"
       ],
-      "messages": [
-        [
-          "Like Bmw e30 Page!",
-          1433762902
-        ],
-        [
-          "Like Bmw e30 page ! ! <3",
-          1431028708
-        ],
-        [
-          "Like bmw e30 page for more like!",
-          1430735422
-        ],
-        [
-          "Like bmw e30 page!",
-          1430718516
-        ],
-        [
-          "Like my page !",
-          1430667126
-        ],
-        [
-          "LIKE Bmw e30 Page !",
-          1430576396
-        ],
-        [
-          "Friends! Lke my Page! all! pleasee <3",
-          1427620097
-        ],
-        [
-          "My pride and joy... A 1992, E36 that I've owned 5 years and drive daily. \n\nAre BMWs popular? Oh yes. I have 1400 fans following her on her own Facebook page. \nThank you for making such a superb vehicle,  BMW !!! \n\nDavid Silverman\nPerth, Western Australia.",
-          1419864786
-        ],
-        [
-          "Like my page <3",
-          1417892250
-        ],
-        [
-          "LIKE page bmw e30!",
-          1417552702
-        ],
-        [
-          "-^^ like my page <3 !",
-          1417278779
-        ],
-        [
-          "Like My Page  BMW M4 F82  <3",
-          1413993535
-        ],
-        [
-          "Like page \" Bmw e30 \" !",
-          1413992042
-        ],
-        [
-          "<3 like this page <3",
-          1413913631
-        ],
-        [
-          "LIKE MY PAGE !",
-          1412457747
-        ],
-        [
-          "Like my page !\nGo 300.000 Fans!",
-          1412439807
-        ],
-        [
-          "Enhorabuena! BMW Espa\u00f1a just hit the 500.000 fans mark on their Facebook page! Gracias and thank all of you for your support. Timeline Photos.",
-          1412424001
-        ],
-        [
-          "Like Bmw e30 !",
-          1410589482
-        ],
-        [
-          "A Nerdy Studio Production Check out my PAGE!!!! more car pics!!",
-          1410288490
-        ],
-        [
-          "for more please like my page>\nwww.facebook.com/kasimodifiedcars.",
-          1409638350
-        ],
-        [
-          "like my page for more\nwww.facebook.com/kasimodifiedcars.",
-          1409567635
-        ],
-        [
-          "Just found this page!! This is my baby.",
-          1409260304
-        ],
-        [
-          "The BMW Superfan.\nIntroducing Todor Todorov. In 2008 he created the BMW X5 Facebook page which now has over 2 million fans. Awesome! http://youtu.be/_HfJPVz3eOA #BMWstories #Xminds. Timeline Photos.",
-          1406210892
-        ],
-        [
-          "Like e30 page <3 !",
-          1404164449
-        ],
-        [
-          "Like page Bmw e30 ! <3",
-          1403796691
-        ],
-        [
-          "Like page, bmw e30 ! <3",
-          1403796558
-        ],
-        [
-          "Girls and BMW, only in Sexy BMW page ;)",
-          1402025550
-        ],
-        [
-          "LIKE PAGE e30. <3 !",
-          1401703492
-        ],
-        [
-          "https://www.facebook.com/sigortayaptir\n\nhttp://www.sigortayaptir.com.tr/\n\nour facebook page and look forward to your support on our website. \n                        Thanks to everyone in advance.",
-          1400579880
-        ],
-        [
-          "LIKE PAGE e30 <3",
-          1400510299
-        ],
-        [
-          "<----- LIKE PAGE \"BMW E30\" !",
-          1399539168
-        ],
-        [
-          "Like this page https ://www.facebook.com/pages/BMW-Models/213711815494901.",
-          1399117265
-        ],
-        [
-          "LIKE BMW e30 PAGE !  GO 250K+ ! like pls <3 !",
-          1398361168
-        ],
-        [
-          "LIKE, Bmw e30 page ! ! Join, go 250k+ ! <3 \n1 LIKE - 1 LOVE BMW ! <3",
-          1398360827
-        ],
-        [
-          "LIKE ! PAGE !",
-          1398350263
-        ],
-        [
-          "LIKE PAGE BMW E30 ! <3",
-          1398024708
-        ],
-        [
-          "LIKE PAGE bmw e30 ! <3",
-          1398023919
-        ],
-        [
-          "<3 ! LIKE BMW E30 PAGE ! <3",
-          1397894576
-        ],
-        [
-          "LIKE BMW e30 OFFICIAL PAGE ! <3",
-          1397891987
-        ],
-        [
-          "^ LIKE PAGE ! <3",
-          1397850386
-        ],
-        [
-          "Here you are seeing \"BMW M1 Homage\" supercar.\n\nDear BMW lovers,\n                  Kindly visit the link given below and like my page as i need help in getting my first 1000 likes.Here you will get informations about your favourite supercar.Also try to share my page to your frndz.\n\nhttps://www.facebook.com/pages/Super-cars/323460211089356.",
-          1397718836
-        ],
-        [
-          "MORE PICTURE FOR BMW e30 ? .. LIKE PAGE  <3",
-          1390916611
-        ],
-        [
-          "like (y) this page please <3",
-          1390836748
-        ],
-        [
-          "like (y) this page plese <3",
-          1390747791
-        ],
-        [
-          "<-------- LIKE PAGE !",
-          1390690297
-        ],
-        [
-          "Do you like ? Check out my page.",
-          1390683142
-        ]
-      ],
-      "dates_start": 1395795740,
-      "dates_end": 1420467659,
-      "likes_avg": 1750,
-      "likes_stdev": 8473,
-      "comments_avg": 17,
-      "comments_stdev": 92,
-      "shares_avg": 51,
-      "shares_stdev": 247
-    },
-    {
-      "number": 33,
-      "important": [
-        "find",
-        "love bmw",
-        "even",
-        "like",
-        "legend"
-      ],
-      "summary": "I love you, BMW:) I LOVE BMW. My Love <3 i loved bmw ....\nmy drawing cars \n.... I loVe BMW z4. I love bmw m6. I love my BMW 650i Convertible. E30 getting love even from women ;) Love my #BMW #Z4 #Enjoylife #Paradise.",
+      "summary": "avantgarde boyz loves bmw.\nLove my BMW E90 335i M-Sport.\nGod Send Him To Human : So Ohner Him And Love Him. 1 Like = 1 Love <3!!\nE30 getting love even from women ;) Love my #BMW #Z4 #Enjoylife #Paradise.\nBMWs are like family - you just love them for who they are.\nMy Love <3 i loved bmw ....\ni love this car.\nI love my BMW 650i Convertible.\nI love bmw m6.\nI love bmw m6.",
       "common": [
         "bmw",
         "car",
@@ -6678,15 +5685,300 @@
       "shares_stdev": 184
     },
     {
-      "number": 34,
+      "number": 24,
       "important": [
-        "call",
-        "vehicl",
+        "bmw",
+        "bmws",
+        "like",
+        "page",
+        "fan",
+        "supercar",
+        "car"
+      ],
+      "summary": "BMW Espa\u00f1a just hit the 500.000 fans mark on their Facebook page!\nIn 2008 he created the BMW X5 Facebook page which now has over 2 million fans.\nhttps://www.facebook.com/pages/Bmw-luxury/224498184405863?ref_type=bookmark                                                                                                                             like.\n^LIKE ^ LIKE US FOR MORE <3 <------ LIKE FOR MORE PICTURES <3 https://www.facebook.com/sigortayaptir\nLike this page https ://www.facebook.com/pages/BMW-Models/213711815494901.\nLIKE BMW E30 PAGE !\nLIKE BMW E30 PAGE !\nLIKE BMW E30 PAGE !\n<3 LIKE BMW e30 OFFICIAL PAGE !\nhttps://www.facebook.com/pages/Super-cars/323460211089356.",
+      "common": [
+        "bmw",
+        "bmw page",
+        "facebook",
+        "facebook page",
+        "fan",
+        "like bmw",
+        "like bmw page",
+        "like page",
+        "like page bmw",
+        "page bmw"
+      ],
+      "messages": [
+        [
+          "Like it, is it scratch resistant?",
+          1481197128
+        ],
+        [
+          "Like Bmw e30 Page!",
+          1433762902
+        ],
+        [
+          "Like Bmw e30 page ! ! <3",
+          1431028708
+        ],
+        [
+          "Like bmw e30 page for more like!",
+          1430735422
+        ],
+        [
+          "Like bmw e30 page!",
+          1430718516
+        ],
+        [
+          "Like my page !",
+          1430667126
+        ],
+        [
+          "LIKE Bmw e30 Page !",
+          1430576396
+        ],
+        [
+          "Friends! Lke my Page! all! pleasee <3",
+          1427620097
+        ],
+        [
+          "My pride and joy... A 1992, E36 that I've owned 5 years and drive daily. \n\nAre BMWs popular? Oh yes. I have 1400 fans following her on her own Facebook page. \nThank you for making such a superb vehicle,  BMW !!! \n\nDavid Silverman\nPerth, Western Australia.",
+          1419864786
+        ],
+        [
+          "Like my page <3",
+          1417892250
+        ],
+        [
+          "LIKE page bmw e30!",
+          1417552702
+        ],
+        [
+          "-^^ like my page <3 !",
+          1417278779
+        ],
+        [
+          "If the Z5 looks exactly like this, may I please put my money down now for one?!?",
+          1415242188
+        ],
+        [
+          "i like.",
+          1414041772
+        ],
+        [
+          "Like My Page  BMW M4 F82  <3",
+          1413993535
+        ],
+        [
+          "Like page \" Bmw e30 \" !",
+          1413992042
+        ],
+        [
+          "<3 like this page <3",
+          1413913631
+        ],
+        [
+          "LIKE MY PAGE !",
+          1412457747
+        ],
+        [
+          "Like my page !\nGo 300.000 Fans!",
+          1412439807
+        ],
+        [
+          "Enhorabuena! BMW Espa\u00f1a just hit the 500.000 fans mark on their Facebook page! Gracias and thank all of you for your support. Timeline Photos.",
+          1412424001
+        ],
+        [
+          "Good Morning <3 .! Dzie\u0144 dobry <3 :* Mi\u0142ego dnia :* M6 (E63) <3 .! Like It :) Like like like ;)",
+          1412394556
+        ],
+        [
+          "Like Bmw e30 !",
+          1410589482
+        ],
+        [
+          "A Nerdy Studio Production Check out my PAGE!!!! more car pics!!",
+          1410288490
+        ],
+        [
+          "how much likes you give me.",
+          1410183506
+        ],
+        [
+          "for more please like my page>\nwww.facebook.com/kasimodifiedcars.",
+          1409638350
+        ],
+        [
+          "like my page for more\nwww.facebook.com/kasimodifiedcars.",
+          1409567635
+        ],
+        [
+          "Just found this page!! This is my baby.",
+          1409260304
+        ],
+        [
+          "The BMW Superfan.\nIntroducing Todor Todorov. In 2008 he created the BMW X5 Facebook page which now has over 2 million fans. Awesome! http://youtu.be/_HfJPVz3eOA #BMWstories #Xminds. Timeline Photos.",
+          1406210892
+        ],
+        [
+          "https://www.facebook.com/pages/Bmw-luxury/224498184405863?ref_type=bookmark                                                                                                                             like.",
+          1404615449
+        ],
+        [
+          "Like e30 page <3 !",
+          1404164449
+        ],
+        [
+          "Like page Bmw e30 ! <3",
+          1403796691
+        ],
+        [
+          "Like page, bmw e30 ! <3",
+          1403796558
+        ],
+        [
+          "Girls and BMW, only in Sexy BMW page ;)",
+          1402025550
+        ],
+        [
+          "LIKE PAGE e30. <3 !",
+          1401703492
+        ],
+        [
+          "^LIKE ^",
+          1401702819
+        ],
+        [
+          "LIKE US FOR MORE <3",
+          1401113820
+        ],
+        [
+          "<------ LIKE FOR MORE PICTURES <3",
+          1401107551
+        ],
+        [
+          "https://www.facebook.com/sigortayaptir\n\nhttp://www.sigortayaptir.com.tr/\n\nour facebook page and look forward to your support on our website. \n                        Thanks to everyone in advance.",
+          1400579880
+        ],
+        [
+          "LIKE PAGE e30 <3",
+          1400510299
+        ],
+        [
+          "<----- LIKE PAGE \"BMW E30\" !",
+          1399539168
+        ],
+        [
+          "Like this page https ://www.facebook.com/pages/BMW-Models/213711815494901.",
+          1399117265
+        ],
+        [
+          "Like or comment 1st........!",
+          1398495550
+        ],
+        [
+          "LIKE BMW e30 PAGE !  GO 250K+ ! like pls <3 !",
+          1398361168
+        ],
+        [
+          "LIKE, Bmw e30 page ! ! Join, go 250k+ ! <3 \n1 LIKE - 1 LOVE BMW ! <3",
+          1398360827
+        ],
+        [
+          "LIKE ! PAGE !",
+          1398350263
+        ],
+        [
+          "LIKE PAGE BMW E30 ! <3",
+          1398024708
+        ],
+        [
+          "LIKE PAGE bmw e30 ! <3",
+          1398023919
+        ],
+        [
+          "<3 ! LIKE BMW E30 PAGE ! <3",
+          1397894576
+        ],
+        [
+          "LIKE BMW e30 OFFICIAL PAGE ! <3",
+          1397891987
+        ],
+        [
+          "^ LIKE PAGE ! <3",
+          1397850386
+        ],
+        [
+          "<------ LIKE FOR MORE PICTURE ! <3",
+          1397849902
+        ],
+        [
+          "Here you are seeing \"BMW M1 Homage\" supercar.\n\nDear BMW lovers,\n                  Kindly visit the link given below and like my page as i need help in getting my first 1000 likes.Here you will get informations about your favourite supercar.Also try to share my page to your frndz.\n\nhttps://www.facebook.com/pages/Super-cars/323460211089356.",
+          1397718836
+        ],
+        [
+          "Ths BMW is More And more Gorgeous thn lamborghini aventador... \n\nLIKE - If Agree. \n:-)",
+          1394618166
+        ],
+        [
+          "if you like Lamborghini Aventador... so, LIKE us.",
+          1391650957
+        ],
+        [
+          "<---------- --- - LIKE ! <3",
+          1390932762
+        ],
+        [
+          "MORE PICTURE FOR BMW e30 ? .. LIKE PAGE  <3",
+          1390916611
+        ],
+        [
+          "like (y) this page please <3",
+          1390836748
+        ],
+        [
+          "like (y) this page plese <3",
+          1390747791
+        ],
+        [
+          "<-------- LIKE PAGE !",
+          1390690297
+        ],
+        [
+          "Do you like ? Check out my page.",
+          1390683142
+        ],
+        [
+          "HoHoHoH, Bmw e30 <----- LIKE !",
+          1390658013
+        ]
+      ],
+      "dates_start": 1392799288,
+      "dates_end": 1422933903,
+      "likes_avg": 1337,
+      "likes_stdev": 7393,
+      "comments_avg": 13,
+      "comments_stdev": 80,
+      "shares_avg": 39,
+      "shares_stdev": 215
+    },
+    {
+      "number": 25,
+      "important": [
+        "bmw",
+        "bmws",
+        "car",
+        "servic",
+        "engin",
         "drive",
+        "issu",
         "time",
+        "experi",
+        "vehicl",
         "problem"
       ],
-      "summary": "I have purchased a bmw because I wanted a safe car for my young family I took my car to my local bmw service centre in Hobart Tasmania only to find out it is not roadworthy and dangerous to drive I have researched further and found out that they knew all about this and had it on record my fianc\u00e9e was driving us home from the check we had completed and the whole car shut down and we had no control over the vehicle it almost killed my family I have contacted the company only to be laughed at and treated like a joke we were all very scared by the incident and wonder why they could get away with this please share this post as children's lives were in danger and it doesn't seem to matter to a big company like bmw. BMW are unsure of the problem with the car so it then becomes easier to state that the car is in perfect condition and it was designed  to do this. and this month's payment, and although I had the money 2 HOURS after you took my car, now you don't want to accept the money and you don't want to give me my car back because it was only under my husband's name :' ( ... I have sent over his death certificate, the power of attorney and a small estate affidavit but you don't want to accept any of it, and you are auctioning off my car in less than 7 days, you are not giving me the opportunity to pay for MY car to get it back, I only needed 8 MORE PAYMENTS!!!... It has always been a dream to own a mini cooper and when it happened, it turned to be a nightmare very quickly.Since I bought the car, I used to bring it to the service center 2-3 times a year for an average of 1-2 month each time due to the lack of response of the service advisers and the unavailability of spare parts!!! However, we had the car towed off the road by a local prestige garage, we subsequently called BMW and were told to take it to the local BMW in Bromley in Kent where it was very likely that we would be offered a repair as good will as it was a known fault.",
+      "summary": "Unfortunately, the vehicle has not been satisfactory because in running condition engine started a noise like a sports car ( Humming noise) and again back to normal after some time , This has been already checked and accepted by BMW India.",
       "common": [
         "call",
         "drive",
@@ -6951,15 +6243,20 @@
       "shares_stdev": 80
     },
     {
-      "number": 35,
+      "number": 26,
       "important": [
         "und",
-        "das",
         "der",
         "die",
+        "bmw",
+        "das",
+        "ist",
+        "ich",
+        "ein",
+        "nicht",
         "den"
       ],
-      "summary": "Wir haben uns an die BMW Financial und an die BMW Niederlassung N\u00fcrnberg-Fischbach, Regensburger Str. Das Fahrzeug war mindestens 3 mal wegen eben dieser Rauchentwicklung in der Werkstatt der \nBMW Niederlassung N\u00fcrnberg-Fischbach, Regensburger Str. Das Fahrzeug wurde am 05.08.2016 in der BMW Niederlassung N\u00fcrnberg-Fischbach, Regensburger Str. Sehr geehrte Damen und Herren, \n\nmittlerweile wurde, nach mehrmaliger R\u00fccksprache mit der BMW Niederlassung N\u00fcrnberg-Fischbach und Herrn Gschaider aus der BMW-Headquarter eine \u201eL\u00f6sung\u201c gefunden. Wir haben die Verkaufsleitung der BMW Niederlassung N\u00fcrnberg-Fischbach, Regensburger Str.",
+      "summary": "Wir haben die Verkaufsleitung der BMW Niederlassung N\u00fcrnberg-Fischbach, Regensburger Str. 420, 90480 N\u00fcrnberg mit dieser Tatsache konfrontiert und wurde nur wieder die leere Versprechung gemacht, dass die Werkstatt sich dieses mal (nach mehrmaligen Versuchen) bem\u00fcht, den Fehler wirklich zu beseitigen.\nAnstatt sich best\u00fcrzt bei den Kunden zu entschuldigen und eine zufrieden stellende L\u00f6sung zu unterbreiten, verstecken die sich hinter einem Anwalt und lassen uns ausrichten, dass wir das Fahrzeug solange bewegen sollen, bis kein Rauch mehr entsteht.",
       "common": [
         "das",
         "den",
@@ -7088,13 +6385,19 @@
       "shares_stdev": 14
     },
     {
-      "number": 36,
+      "number": 27,
       "important": [
-        "auto",
-        "un",
-        "con"
+        "bmw",
+        "que",
+        "por",
+        "carro",
+        "seri",
+        "pas",
+        "les",
+        "los",
+        "para"
       ],
-      "summary": "con asistencia vial bmw me trasladaron el\nauto a la gencia BMW TABASCO..despues de unos dias me indicaron que le habian dado mantenimiento al sistema de la gasolina y me cobraron por dicho servicio.. recojo el auto y en menos de un dia me vuelve a dejar tirado.. otra vez lo ingreso.. y me diagnostican que es la bomba de gasolina y que entra por garantia.. DESPUES DE UN MES DE TENER EL AUTO EN LA AGENCIA me lo entregan el dia de ayer 10 de junio .. ya con \"la bomba nueva\" y que cree .. en menos de 12 hrs vuelve el mismo problema inicial.. realmente estoy muy molesto , indignado creo que en esta agencia me quieren ver la cara porque realmente al auto no le hicieron nada! BMW reinventa el sector del lujo con la presentaci\u00f3n de su nuevo Serie 7, buque insignia de la marca y coche de referencia para el resto de la gama de la firma muniquesa. el mismo problema me dio de vuelta.. y lo peor que ni un auto en prestamo dan mientras que reparan el tuyo.. como lo hacen en otras agencias ..  NO ENTIENDO TAMPOCO ESTAS FALLAS REPETITIVAS EN UN AUTO BMW ... espero me apoyen porque esto es inaceptable \nDATOS DE MI AUTO. Avec le lancement de la nouvelle BMW M235i Coup\u00e9e, la compagnie automobile n\u2019y est pas all\u00e9e de main morte quand \u00e0 la promo de son nouveau bijou. Bonjour trouvez vous les r\u00e9actions que font les boutons multim\u00e9dia normales ils commencent a boursouffler puis p\u00e8lent cela a \u00e9t\u00e9 signal\u00e9 au garage bien avant la fin de la Garantie mais toujours pas d'avanc\u00e9e du dossier donc je m'inqui\u00e8te de ce manque de qualit\u00e9 sur une s\u00e9rie 5 de plus de 55000\u20ac.",
+      "summary": "Bonjour trouvez vous les r\u00e9actions que font les boutons multim\u00e9dia normales ils commencent a boursouffler puis p\u00e8lent cela a \u00e9t\u00e9 signal\u00e9 au garage bien avant la fin de la Garantie mais toujours pas d'avanc\u00e9e du dossier donc je m'inqui\u00e8te de ce manque de qualit\u00e9 sur une s\u00e9rie 5 de plus de 55000\u20ac.\nEn fin comprar un BMW y cualquier da\u00f1o debes esperar como es mi caso de tres a cuatro meses si no es mas con tu carro guardado Por que no tienen los respuestos o los piden equivocadamente.",
       "common": [
         "auto",
         "bmw",
@@ -7201,95 +6504,6 @@
       "comments_stdev": 2,
       "shares_avg": 2,
       "shares_stdev": 1
-    },
-    {
-      "number": 37,
-      "important": [
-        "pictur"
-      ],
-      "summary": "i like. <---------- --- - LIKE ! ^LIKE ^ LIKE US FOR MORE <3 <------ LIKE FOR MORE PICTURES <3 Like or comment 1st........! Like It :) Like like like ;) how much likes you give me. :-) if you like Lamborghini Aventador... so, LIKE us.",
-      "common": [
-        "aventador",
-        "aventador like",
-        "bmw",
-        "lamborghini",
-        "lamborghini aventador",
-        "lamborghini aventador like",
-        "like like",
-        "like like like",
-        "like pictur",
-        "pictur"
-      ],
-      "messages": [
-        [
-          "Like it, is it scratch resistant?",
-          1481197128
-        ],
-        [
-          "If the Z5 looks exactly like this, may I please put my money down now for one?!?",
-          1415242188
-        ],
-        [
-          "i like.",
-          1414041772
-        ],
-        [
-          "Good Morning <3 .! Dzie\u0144 dobry <3 :* Mi\u0142ego dnia :* M6 (E63) <3 .! Like It :) Like like like ;)",
-          1412394556
-        ],
-        [
-          "how much likes you give me.",
-          1410183506
-        ],
-        [
-          "https://www.facebook.com/pages/Bmw-luxury/224498184405863?ref_type=bookmark                                                                                                                             like.",
-          1404615449
-        ],
-        [
-          "^LIKE ^",
-          1401702819
-        ],
-        [
-          "LIKE US FOR MORE <3",
-          1401113820
-        ],
-        [
-          "<------ LIKE FOR MORE PICTURES <3",
-          1401107551
-        ],
-        [
-          "Like or comment 1st........!",
-          1398495550
-        ],
-        [
-          "<------ LIKE FOR MORE PICTURE ! <3",
-          1397849902
-        ],
-        [
-          "Ths BMW is More And more Gorgeous thn lamborghini aventador... \n\nLIKE - If Agree. \n:-)",
-          1394618166
-        ],
-        [
-          "if you like Lamborghini Aventador... so, LIKE us.",
-          1391650957
-        ],
-        [
-          "<---------- --- - LIKE ! <3",
-          1390932762
-        ],
-        [
-          "HoHoHoH, Bmw e30 <----- LIKE !",
-          1390658013
-        ]
-      ],
-      "dates_start": 1385706930,
-      "dates_end": 1428400288,
-      "likes_avg": 71,
-      "likes_stdev": 109,
-      "comments_avg": 0,
-      "comments_stdev": 0,
-      "shares_avg": 2,
-      "shares_stdev": 2
     }
   ]
 }

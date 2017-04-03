@@ -6,13 +6,14 @@ import sys
 import pickle
 from matplotlib import pyplot
 import numpy as np
+import networkx as nx
 import string
 import time
 from collections import OrderedDict
 
 from nltk.stem.snowball import SnowballStemmer
 from nltk.corpus import stopwords
-
+from nltk.tokenize.punkt import PunktSentenceTokenizer
 
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from sklearn.cluster import AgglomerativeClustering
@@ -22,6 +23,7 @@ from sklearn.decomposition import TruncatedSVD
 from sklearn.preprocessing import Normalizer
 from sklearn.pipeline import make_pipeline
 from sklearn.manifold import TSNE
+from sklearn.metrics.pairwise import linear_kernel
 
 import gensim
 
@@ -280,17 +282,24 @@ def clusterize(labels, likes, comments, shares, messages, tf, dates):
 
 
 def summarize(messages):
-    text = ' '.join(messages)
-    summary = ''
-    try:
-        summary = gensim.summarization.summarize(text, word_count=70)
-    except Exception:
-        pass
-    return summary
+    sentence_tokenizer = PunktSentenceTokenizer()
+    sentences = sentence_tokenizer.tokenize(' '.join(messages))
+    sentences = set(sentences)
+
+    lower_sentences = [s.lower() for s in sentences]
+    tfidf = TfidfVectorizer().fit_transform(lower_sentences)
+    similarity_graph = linear_kernel(tfidf)
+
+    nx_graph = nx.from_numpy_matrix(similarity_graph)
+    scores = nx.pagerank(nx_graph)
+    most_characteristic = sorted(((scores[i], s) for i, s in enumerate(sentences)), reverse=True)
+
+    if len(most_characteristic) > 50:
+        most_characteristic = most_characteristic[:50]
+    return [x[1] for x in most_characteristic]
 
 
-def keywords(messages):
-    text = ' '.join(messages)
+def keywords(text):
     try:
         kw = gensim.summarization.keywords(text, words=10, split=True)
     except IndexError:
@@ -350,11 +359,8 @@ def print_clusters(labels, likes, comments, shares, messages, tf, dates,
         summary = summarize(c['messages'])
 
         common = 0  # count_vectorize(c['messages'], 10)
-        important = []
-        if len(c['messages']) < 500:
-            # We'll run out of memory if there are too many messages.
-            # Also, they wouldn't mean much anyway.
-            important = keywords(c['messages'])
+        important = keywords(' '.join(summary))
+        summary = ' '.join(summary[:5])
 
         dates_start = int(np.mean(c['dates']) - np.std(c['dates']))
         dates_end = int(np.mean(c['dates']) + np.std(c['dates']))

@@ -311,8 +311,6 @@ def keywords(text):
     stopwords = get_stopwords()
     blacklist = {
                  'new',
-                 'research',
-                 'new research',
                  'whi',
                  'realli',
                  'timelin',

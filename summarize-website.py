@@ -1,13 +1,21 @@
 #!/usr/bin/env python3
 
-from bs4 import BeautifulSoup
-import requests
 import sys
 import time
 import re
+import string
+
+from bs4 import BeautifulSoup
+import requests
+
 import numpy as np
+
+import networkx as nx
+
 from nltk.stem.snowball import SnowballStemmer
 from nltk.tokenize.punkt import PunktSentenceTokenizer
+from nltk.corpus import stopwords
+
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.cluster import AgglomerativeClustering
 from sklearn.metrics import silhouette_score
@@ -15,9 +23,6 @@ from sklearn.metrics.pairwise import linear_kernel
 from sklearn.decomposition import TruncatedSVD
 from sklearn.preprocessing import Normalizer
 from sklearn.pipeline import make_pipeline
-import networkx as nx
-import string
-from nltk.corpus import stopwords
 
 
 def download(url):
@@ -45,6 +50,12 @@ def validate_paragraph(text):
     return True
 
 
+def tokenize_sentences(text):
+    sentence_tokenizer = PunktSentenceTokenizer()
+    sentences = sentence_tokenizer.tokenize(text)
+    return list(set(sentences))
+
+
 def process_paragraph_rough(text):
     text = re.sub('\[[^\]]*\]', '', text)
     return text
@@ -69,16 +80,20 @@ def process_paragraph_fine(text):
     return ' '.join(no_numbers)
 
 
-def summarize(text):
-    sentence_tokenizer = PunktSentenceTokenizer()
-    sentences = sentence_tokenizer.tokenize(text)
-    sentences = set(sentences)
+def summarize(text, X=None):
+    # Accepts either text itself, or a list of sentences with corresponding
+    # LSA features.
+
+    if not X:
+        sentences = tokenize_sentences(text)
+        X = get_features_lsa(sentences)
+    else:
+        sentences = text
+
     if len(sentences) > 2000:
         return ''
 
-    lower_sentences = [s.lower() for s in sentences]
-    tfidf = TfidfVectorizer().fit_transform(lower_sentences)
-    similarity_graph = linear_kernel(tfidf)
+    similarity_graph = linear_kernel(X)
 
     nx_graph = nx.from_numpy_matrix(similarity_graph)
     scores = nx.pagerank(nx_graph)
@@ -139,20 +154,23 @@ def get_stopwords():
     return stop_words
 
 
-def get_features_lsa(tf):
-    min_dimensions = min(tf.shape)
+def get_features_lsa(sentences):
+    features = tfidf(sentences)
+    min_dimensions = min(features.shape)
     if min_dimensions > 400:
         svd_components = 200
     elif min_dimensions > 80:
         svd_components = int(min_dimensions / 2)
     else:
-        svd_components = min_dimensions - 1
+        svd_components = 0
 
-    print(time.ctime(), 'Generating {} LSA components and normalizing'.format(svd_components))
-    svd = TruncatedSVD(svd_components, algorithm='arpack', tol=0)
     normalizer = Normalizer(copy=False)
-    lsa = make_pipeline(svd, normalizer)
-    X = lsa.fit_transform(tf)
+    if svd_components > 0:
+        svd = TruncatedSVD(svd_components, algorithm='arpack', tol=0)
+        lsa = make_pipeline(svd, normalizer)
+    else:
+        lsa = normalizer
+    X = lsa.fit_transform(features)
     return X
 
 
@@ -193,34 +211,39 @@ def find_largest_cluster(labels):
     return largest_cluster_index
 
 
-def organize_clusters(paragraphs, labels):
+def organize_clusters(paragraphs, labels, X):
     # Order the clusters by average position of the sentence.
-    largest_cluster_index = find_largest_cluster(labels)
     clusters = []
     for public_label, label in sorted(enumerate(set(labels)), reverse=True):
         c = {}
-        indices = [i for i, x in enumerate(labels) if x == label and x != largest_cluster_index]
+        indices = [i for i, x in enumerate(labels) if x == label]
         if len(indices) == 0:
             continue
 
         c['size'] = len(indices)
         c['paragraphs'] = [paragraphs[i] for i in indices]
+        c['features'] = [X[i] for i in indices]
 
         clusters.append(c)
 
     return clusters
 
 
-def clusterize(paragraphs):
+def tfidf(sentences):
     stop_words = get_stopwords()
-    paragraphs_processed = [process_paragraph_fine(p) for p in paragraphs]
+    sentences_processed = [process_paragraph_fine(p) for p in sentences]
+
+    min_df = 1 if len(sentences) <= 2 else 2
+    max_df = 1 if len(sentences) <= 2 else 0.7
     vectorizer = TfidfVectorizer(stop_words=stop_words, max_features=None,
                                  ngram_range=(1, 5), norm='l2',
-                                 sublinear_tf=True, min_df=2, max_df=0.7)
-    features = vectorizer.fit_transform(paragraphs_processed)
-    print(time.ctime(), 'Tfidf features shape:', features.shape)
+                                 sublinear_tf=True, min_df=min_df, max_df=max_df)
+    features = vectorizer.fit_transform(sentences_processed)
+    return features
 
-    X = get_features_lsa(features)
+
+def clusterize(sentences):
+    X = get_features_lsa(sentences)
     n_clusters = best_number_clusters(X)
     print(time.ctime(), 'Best number of clusters: {}'.format(n_clusters))
 
@@ -228,7 +251,7 @@ def clusterize(paragraphs):
     labels = predictor.fit_predict(X)
     print(time.ctime(), 'Silhouette score:       {:.4f}'.format(silhouette_score(X, labels)))
 
-    return organize_clusters(paragraphs, labels)
+    return organize_clusters(sentences, labels, X)
 
 
 def main():
@@ -239,9 +262,7 @@ def main():
     html = download(sys.argv[1])
     paragraphs = find_paragraphs(html)
 
-    sentence_tokenizer = PunktSentenceTokenizer()
-    sentences = sentence_tokenizer.tokenize(' '.join(paragraphs))
-    sentences = list(set(sentences))
+    sentences = tokenize_sentences(' '.join(paragraphs))
     if len(sentences) == 0:
         print('The page doesn\'t contain enough meaningful text.')
         sys.exit(1)
@@ -259,7 +280,7 @@ def main():
 
     # Subsequent result-paragraphs operate on sentences.
     for c in clusters:
-        summary = summarize(' '.join(c['paragraphs']))
+        summary = summarize(c['paragraphs'], c['features'])
         if len(summary) > summary_paragraph_length:
             summary = summary[:summary_paragraph_length]
         print(' '.join(summary))

@@ -5,6 +5,7 @@ import requests
 import sys
 import time
 import re
+import numpy as np
 from nltk.stem.snowball import SnowballStemmer
 from nltk.tokenize.punkt import PunktSentenceTokenizer
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -72,6 +73,8 @@ def summarize(text):
     sentence_tokenizer = PunktSentenceTokenizer()
     sentences = sentence_tokenizer.tokenize(text)
     sentences = set(sentences)
+    if len(sentences) > 2000:
+        return ''
 
     lower_sentences = [s.lower() for s in sentences]
     tfidf = TfidfVectorizer().fit_transform(lower_sentences)
@@ -137,9 +140,13 @@ def get_stopwords():
 
 
 def get_features_lsa(tf):
-    svd_components = min(tf.shape) - 1
-    if svd_components > 100:
-        svd_components = 100
+    min_dimensions = min(tf.shape)
+    if min_dimensions > 400:
+        svd_components = 200
+    elif min_dimensions > 80:
+        svd_components = int(min_dimensions / 2)
+    else:
+        svd_components = min_dimensions - 1
 
     print(time.ctime(), 'Generating {} LSA components and normalizing'.format(svd_components))
     svd = TruncatedSVD(svd_components, algorithm='arpack', tol=0)
@@ -156,6 +163,8 @@ def best_number_clusters(X):
     scores = []
 
     cluster_sizes = range(3, 7, 1)
+    if max(X.shape) > 1000:
+        cluster_sizes = range(5, 15, 1)
 
     try:
         for n in cluster_sizes:
@@ -172,11 +181,28 @@ def best_number_clusters(X):
     return size
 
 
+def find_largest_cluster(labels):
+    counts = np.bincount(labels)
+    largest_cluster_size = 0
+    largest_cluster_index = 0
+    for i, c in enumerate(counts):
+        if c > largest_cluster_size:
+            largest_cluster_size = c
+            largest_cluster_index = i
+
+    return largest_cluster_index
+
+
 def organize_clusters(paragraphs, labels):
+    # Order the clusters by average position of the sentence.
+    largest_cluster_index = find_largest_cluster(labels)
     clusters = []
     for public_label, label in sorted(enumerate(set(labels)), reverse=True):
         c = {}
-        indices = [i for i, x in enumerate(labels) if x == label]
+        indices = [i for i, x in enumerate(labels) if x == label and x != largest_cluster_index]
+        if len(indices) == 0:
+            continue
+
         c['size'] = len(indices)
         c['paragraphs'] = [paragraphs[i] for i in indices]
 
@@ -208,6 +234,7 @@ def clusterize(paragraphs):
 def main():
     if len(sys.argv) < 2:
         print('Usage: ./download-website.py <url>')
+        sys.exit(1)
 
     html = download(sys.argv[1])
     paragraphs = find_paragraphs(html)
@@ -215,17 +242,22 @@ def main():
     sentence_tokenizer = PunktSentenceTokenizer()
     sentences = sentence_tokenizer.tokenize(' '.join(paragraphs))
     sentences = list(set(sentences))
+    if len(sentences) == 0:
+        print('The page doesn\'t contain enough meaningful text.')
+        sys.exit(1)
 
     clusters = clusterize(sentences)
+    print(time.ctime(), 'Cluster sizes:', [c['size'] for c in clusters])
 
+    # First result-paragraph is a summary of the first webpage-paragraph.
     summary = summarize(paragraphs[0])
-
     summary_paragraph_length = 2
     if len(summary) > summary_paragraph_length:
         summary = summary[:summary_paragraph_length]
     print(' '.join(summary))
     print()
 
+    # Subsequent result-paragraphs operate on sentences.
     for c in clusters:
         summary = summarize(' '.join(c['paragraphs']))
         if len(summary) > summary_paragraph_length:

@@ -40,6 +40,11 @@ def download(url):
     return r.text
 
 
+def load_from_disk(file):
+    with open(file, 'r') as f:
+        return f.read()
+
+
 def validate_paragraph(text):
     if '{' in text:
         return False
@@ -58,6 +63,13 @@ def tokenize_sentences(text):
 
 def process_paragraph_rough(text):
     text = re.sub('\[[^\]]*\]', '', text)
+    text = re.sub('(č\.)\s+', 'č.', text)
+    text = re.sub('(s\.)\s+', 's.', text)
+    text = re.sub('(p\.)\s+', 'p.', text)
+    text = re.sub('(mj\.)\s+', 'mj.', text)
+    text = re.sub('(tzv\.)\s+', 'tzv.', text)
+    text = re.sub('(např\.)\s+', 'např.', text)
+    text = re.sub('(\s+\d+)\s+', '\1', text)
     return text
 
 
@@ -96,7 +108,7 @@ def summarize(text, X=None):
     similarity_graph = linear_kernel(X)
 
     nx_graph = nx.from_numpy_matrix(similarity_graph)
-    scores = nx.pagerank(nx_graph)
+    scores = nx.pagerank(nx_graph, max_iter=100, tol=1e-5)
     most_characteristic = sorted(((scores[i], s) for i, s in enumerate(sentences)), reverse=True)
 
     if len(most_characteristic) > 50:
@@ -115,6 +127,9 @@ def find_paragraphs(html):
             text = process_paragraph_rough(text)
             cleaned.append(text)
 
+    if not cleaned:
+        # No <p> tags.
+        cleaned = [soup.get_text()]
     return cleaned
 
 
@@ -180,9 +195,10 @@ def best_number_clusters(X):
     # would work better.
     scores = []
 
-    cluster_sizes = range(3, 7, 1)
+    print(time.ctime(), 'best_number_clusters. X.shape:', X.shape)
+    cluster_sizes = range(3, 9, 1)
     if max(X.shape) > 1000:
-        cluster_sizes = range(5, 15, 1)
+        cluster_sizes = range(5, 16, 1)
 
     try:
         for n in cluster_sizes:
@@ -222,10 +238,15 @@ def organize_clusters(paragraphs, labels, X):
 
         c['size'] = len(indices)
         c['paragraphs'] = [paragraphs[i] for i in indices]
+        c['positions'] = indices
         c['features'] = [X[i] for i in indices]
 
         clusters.append(c)
 
+    # Assuming that sentences talking about the same topic will be close
+    # together in the text, we can sort the clusters by average
+    # position of the sentences.
+    clusters = sorted(clusters, key=lambda c: int(np.mean(c['positions'])))
     return clusters
 
 
@@ -233,10 +254,10 @@ def tfidf(sentences):
     stop_words = get_stopwords()
     sentences_processed = [process_paragraph_fine(p) for p in sentences]
 
-    min_df = 1 if len(sentences) <= 2 else 2
+    min_df = 1 if len(sentences) <= 5 else 5
     max_df = 1 if len(sentences) <= 2 else 0.7
     vectorizer = TfidfVectorizer(stop_words=stop_words, max_features=None,
-                                 ngram_range=(1, 5), norm='l2',
+                                 ngram_range=(1, 7), norm='l2',
                                  sublinear_tf=True, min_df=min_df, max_df=max_df)
     features = vectorizer.fit_transform(sentences_processed)
     return features
@@ -256,10 +277,15 @@ def clusterize(sentences):
 
 def main():
     if len(sys.argv) < 2:
-        print('Usage: ./download-website.py <url>')
+        print('Usage: ./download-website.py <url or file>')
         sys.exit(1)
 
-    html = download(sys.argv[1])
+
+    if sys.argv[1].startswith('http'):
+        html = download(sys.argv[1])
+    else:
+        html = load_from_disk(sys.argv[1])
+
     paragraphs = find_paragraphs(html)
 
     sentences = tokenize_sentences(' '.join(paragraphs))
@@ -272,11 +298,17 @@ def main():
 
     # First result-paragraph is a summary of the first webpage-paragraph.
     summary = summarize(paragraphs[0])
-    summary_paragraph_length = 2
+    summary_paragraph_length = 6
     if len(summary) > summary_paragraph_length:
         summary = summary[:summary_paragraph_length]
     print(' '.join(summary))
     print()
+
+    # Second result-paragraph is a summary of the whole webpage
+    summary = summarize(' '.join(sentences))
+    if len(summary) > summary_paragraph_length:
+        summary = summary[:summary_paragraph_length]
+    print(' '.join(summary))
 
     # Subsequent result-paragraphs operate on sentences.
     for c in clusters:

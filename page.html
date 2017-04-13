@@ -102,7 +102,10 @@
                         <div v-for="i in item.important" class="word">{{ i }}</div>
                     </div>
                     <div class="cluster-stats-header">Summary</div>
-		    <div class="cluster-stats-values">{{ item.summary }} </div>
+		    <div class="cluster-stats-values">
+			<ol>
+			    <li v-for="i in item.summary">{{ i }}</li>
+			</ol></div>
                     <div class="cluster-stats-header">Statistics</div>
 		    <div class="cluster-stats-values">
 			{{ item.messages.length }} posts.

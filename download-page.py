@@ -8,7 +8,7 @@ from pprint import pprint
 import pickle
 
 
-TOKEN = 'EAACEdEose0cBAINGQwKqNbkr66qCVeafb2ZBYiRJCc4b38Q7sSVTZBujNsm41nYsSZAVsUzEwmvbtkrFbFcsi7XZCQxT4ETcidp2RuIXudTHNhyF3Ntkp9how4JhqF4yjSVyp30kJKW6RBZCVfnz0kv3F0ZAByH5gNIyCh7BdnZCN26UY85ZAYOzfJxQdFkMJA4ZD'
+TOKEN = 'EAACEdEose0cBAD5ZBLlZBlZBxBtZAX1gLiALFZCEo3M2j88XwkWZBpGVlDdSIAdZAyNEpsA7tjZALcKOZBa7stbxPNLOqhxbwKc2DtrV64XwMVHuDKxAEluj4Ep1ForAT1FlzykcEo7PcZAcFtdGmwmZBAeDG5jI9mIc7BkgroyuXmeXLZCfcBT6yLid2v8ssZBkUsQUZD'
 URL = 'https://graph.facebook.com/v2.8/{}?fields={}&access_token=' + TOKEN
 
 

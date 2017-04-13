@@ -282,6 +282,9 @@ def clusterize(labels, likes, comments, shares, messages, tf, dates):
 
 
 def summarize(messages):
+    # Shouldn't we use the global tfidf/LSA values?
+    # No. We'd need to operate on the whole posts, which
+    # makes the summary much less useful.
     sentence_tokenizer = PunktSentenceTokenizer()
     sentences = sentence_tokenizer.tokenize(' '.join(messages))
     sentences = set(sentences)
@@ -329,6 +332,11 @@ def keywords(text):
 def print_clusters(labels, likes, comments, shares, messages, tf, dates,
                    vectorizer, orig_size, pagename, fan_count, page_name_displayed):
 
+    # Break messages by sentences.
+    # Perform LSA on them.
+    # Return them back to their clusters, with the LSA features.
+    # Perform the summarization on this.
+
     globalstats = {
                    'fan_count': fan_count,
                    'messages': orig_size,
@@ -358,7 +366,7 @@ def print_clusters(labels, likes, comments, shares, messages, tf, dates,
 
         common = 0  # count_vectorize(c['messages'], 10)
         important = keywords(' '.join(summary))
-        summary = ' '.join(summary[:5])
+        summary = summary[:5]
 
         dates_start = int(np.mean(c['dates']) - np.std(c['dates']))
         dates_end = int(np.mean(c['dates']) + np.std(c['dates']))

@@ -200,9 +200,9 @@ def best_number_clusters(X):
     scores = []
 
     print(time.ctime(), 'best_number_clusters. X.shape:', X.shape)
-    cluster_sizes = range(3, 9, 1)
+    cluster_sizes = range(3, 6, 1)
     if max(X.shape) > 1000:
-        cluster_sizes = range(5, 16, 1)
+        cluster_sizes = range(3, 9, 1)
 
     try:
         for n in cluster_sizes:
@@ -250,7 +250,7 @@ def organize_clusters(paragraphs, labels, X):
     # Assuming that sentences talking about the same topic will be close
     # together in the text, we can sort the clusters by average
     # position of the sentences.
-    clusters = sorted(clusters, key=lambda c: int(np.mean(c['positions'])))
+    clusters = sorted(clusters, key=lambda c: c['size'], reverse=True)
     return clusters
 
 

@@ -24,9 +24,10 @@ from sklearn.decomposition import TruncatedSVD
 from sklearn.preprocessing import Normalizer
 from sklearn.pipeline import make_pipeline
 
-INTRODUCTION_SUMMARY_LENGTH=2
+INTRODUCTION_SUMMARY_LENGTH = 2
 PAGE_SUMMARY_LENGTH = 4
 TOPIC_SUMMARY_LENGTH = 1
+
 
 def download(url):
     while True:
@@ -111,7 +112,7 @@ def summarize(text, X=None):
     similarity_graph = linear_kernel(X)
 
     nx_graph = nx.from_numpy_matrix(similarity_graph)
-    scores = nx.pagerank(nx_graph, max_iter=100, tol=1e-5)
+    scores = nx.pagerank_numpy(nx_graph)
     most_characteristic = sorted(((scores[i], s) for i, s in enumerate(sentences)), reverse=True)
 
     if len(most_characteristic) > 10:
@@ -257,7 +258,7 @@ def tfidf(sentences):
     stop_words = get_stopwords()
     sentences_processed = [process_paragraph_fine(p) for p in sentences]
 
-    min_df = 2 if len(sentences) <= 5 else 3
+    min_df = 1 if len(sentences) <= 5 else 3
     max_df = 1 if len(sentences) <= 2 else 0.8
     vectorizer = TfidfVectorizer(stop_words=stop_words, max_features=None,
                                  ngram_range=(1, 5), norm='l2',

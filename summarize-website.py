@@ -24,6 +24,9 @@ from sklearn.decomposition import TruncatedSVD
 from sklearn.preprocessing import Normalizer
 from sklearn.pipeline import make_pipeline
 
+INTRODUCTION_SUMMARY_LENGTH=2
+PAGE_SUMMARY_LENGTH = 4
+TOPIC_SUMMARY_LENGTH = 1
 
 def download(url):
     while True:
@@ -64,7 +67,7 @@ def tokenize_sentences(text):
 def process_paragraph_rough(text):
     text = re.sub('\[[^\]]*\]', '', text)
     text = re.sub('(č\.)\s+', 'č.', text)
-    text = re.sub('(s\.)\s+', 's.', text)
+    #text = re.sub('(s\.)\s+', 's.', text)
     text = re.sub('(p\.)\s+', 'p.', text)
     text = re.sub('(mj\.)\s+', 'mj.', text)
     text = re.sub('(tzv\.)\s+', 'tzv.', text)
@@ -111,8 +114,8 @@ def summarize(text, X=None):
     scores = nx.pagerank(nx_graph, max_iter=100, tol=1e-5)
     most_characteristic = sorted(((scores[i], s) for i, s in enumerate(sentences)), reverse=True)
 
-    if len(most_characteristic) > 50:
-        most_characteristic = most_characteristic[:50]
+    if len(most_characteristic) > 10:
+        most_characteristic = most_characteristic[:10]
     return [x[1] for x in most_characteristic]
 
 
@@ -173,7 +176,7 @@ def get_features_lsa(sentences):
     features = tfidf(sentences)
     min_dimensions = min(features.shape)
     if min_dimensions > 400:
-        svd_components = 200
+        svd_components = 120
     elif min_dimensions > 80:
         svd_components = int(min_dimensions / 2)
     else:
@@ -254,10 +257,10 @@ def tfidf(sentences):
     stop_words = get_stopwords()
     sentences_processed = [process_paragraph_fine(p) for p in sentences]
 
-    min_df = 1 if len(sentences) <= 5 else 5
-    max_df = 1 if len(sentences) <= 2 else 0.7
+    min_df = 2 if len(sentences) <= 5 else 3
+    max_df = 1 if len(sentences) <= 2 else 0.8
     vectorizer = TfidfVectorizer(stop_words=stop_words, max_features=None,
-                                 ngram_range=(1, 7), norm='l2',
+                                 ngram_range=(1, 5), norm='l2',
                                  sublinear_tf=True, min_df=min_df, max_df=max_df)
     features = vectorizer.fit_transform(sentences_processed)
     return features
@@ -298,23 +301,23 @@ def main():
 
     # First result-paragraph is a summary of the first webpage-paragraph.
     summary = summarize(paragraphs[0])
-    summary_paragraph_length = 6
-    if len(summary) > summary_paragraph_length:
-        summary = summary[:summary_paragraph_length]
+    if len(summary) > INTRODUCTION_SUMMARY_LENGTH:
+        summary = summary[:INTRODUCTION_SUMMARY_LENGTH]
     print(' '.join(summary))
     print()
 
     # Second result-paragraph is a summary of the whole webpage
     summary = summarize(' '.join(sentences))
-    if len(summary) > summary_paragraph_length:
-        summary = summary[:summary_paragraph_length]
+    if len(summary) > PAGE_SUMMARY_LENGTH:
+        summary = summary[:PAGE_SUMMARY_LENGTH]
     print(' '.join(summary))
+    print()
 
     # Subsequent result-paragraphs operate on sentences.
     for c in clusters:
         summary = summarize(c['paragraphs'], c['features'])
-        if len(summary) > summary_paragraph_length:
-            summary = summary[:summary_paragraph_length]
+        if len(summary) > TOPIC_SUMMARY_LENGTH:
+            summary = summary[:TOPIC_SUMMARY_LENGTH]
         print(' '.join(summary))
         print()
 

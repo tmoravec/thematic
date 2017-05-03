@@ -114,10 +114,22 @@ def summarize(text, X=None):
     nx_graph = nx.from_numpy_matrix(similarity_graph)
     scores = nx.pagerank_numpy(nx_graph)
     most_characteristic = sorted(((scores[i], s) for i, s in enumerate(sentences)), reverse=True)
+    most_characteristic = [x[1] for x in most_characteristic]
 
-    if len(most_characteristic) > 10:
-        most_characteristic = most_characteristic[:10]
-    return [x[1] for x in most_characteristic]
+    # Remove sentences that start with "this".
+    cleaned = []
+    for sentence in most_characteristic:
+        skip_sentence = False
+        words = sentence.split()
+        for w in words[:3]:
+            if w.lower() in ['this', 'that']:
+                skip_sentence = True
+        if not skip_sentence:
+            cleaned.append(sentence)
+
+    if len(cleaned) > 10:
+        most_characteristic = cleaned[:10]
+    return most_characteristic
 
 
 def find_paragraphs(html):

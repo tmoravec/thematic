@@ -13,13 +13,8 @@ def load_data(filename):
 def print_cluster(c):
     print('Topic', c['number'])
     print(len(c['messages']), 'posts')
-    print('Most important words: ', end='')
+    print('Most important words: ')
     for w in c['important']:
-        print(w, end=', ')
-    print()
-
-    print('Most common words: ', end='')
-    for w in c['common']:
         print(w, end=', ')
     print()
 

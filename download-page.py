@@ -8,7 +8,7 @@ from pprint import pprint
 import pickle
 
 
-TOKEN = 'EAACEdEose0cBAD5ZBLlZBlZBxBtZAX1gLiALFZCEo3M2j88XwkWZBpGVlDdSIAdZAyNEpsA7tjZALcKOZBa7stbxPNLOqhxbwKc2DtrV64XwMVHuDKxAEluj4Ep1ForAT1FlzykcEo7PcZAcFtdGmwmZBAeDG5jI9mIc7BkgroyuXmeXLZCfcBT6yLid2v8ssZBkUsQUZD'
+TOKEN = 'EAACEdEose0cBAASbu0vKdMvKXbDO3mxgjHiQgKszYlBKieTMHzggHVwrsTKF4UrPZAZC12cs8ZBKYKFHZAExBsLkeKuyvaBZBT4PeI7eZBpFryOnUenVf3Cr4G0wewgxLgUHXOd8oNLCC40cJip5b3cewOxJIpqVBbfCl2CRs5AsZC04OkZC6BA34aoQZAI68tioZD'
 URL = 'https://graph.facebook.com/v2.8/{}?fields={}&access_token=' + TOKEN
 
 
@@ -72,13 +72,13 @@ def main():
     name = get_single_value(URL.format(pagename, 'name'), 'name')
 
     queries = {
-               'feed': 'feed{message,link,likes.limit(0).summary(true),comments.limit(0).summary(true),shares,description,name,created_time}',
+               'posts': 'posts{message,link,likes.limit(0).summary(true),comments.limit(0).summary(true),shares,description,name,created_time}',
                'videos': 'videos',
                'photos': 'photos',
                }
 
     results = {
-               'feed': [],
+               'posts': [],
                'videos': [],
                'photos': []
               }

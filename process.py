@@ -164,7 +164,7 @@ def text_features(raw_data):
     likes = []
     comments = []
     dates = []
-    for item in raw_data['feed']:
+    for item in raw_data['posts']:
 
         # Skip posts older than SINCE
         date = time.strptime(item['created_time'], '%Y-%m-%dT%H:%M:%S%z')
@@ -294,7 +294,7 @@ def summarize(messages):
     similarity_graph = linear_kernel(tfidf)
 
     nx_graph = nx.from_numpy_matrix(similarity_graph)
-    scores = nx.pagerank(nx_graph)
+    scores = nx.pagerank_numpy(nx_graph)
     most_characteristic = sorted(((scores[i], s) for i, s in enumerate(sentences)), reverse=True)
 
     if len(most_characteristic) > 50:

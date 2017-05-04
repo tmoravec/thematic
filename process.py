@@ -4,7 +4,12 @@ import copy
 import json
 import sys
 import pickle
+
+import matplotlib
+# Use a backend that doesn't require X server.
+matplotlib.use('Agg')
 from matplotlib import pyplot
+
 import numpy as np
 import networkx as nx
 import string

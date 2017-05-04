@@ -145,7 +145,14 @@ def find_paragraphs(html):
 
     if not cleaned:
         # No <p> tags.
-        cleaned = [soup.get_text()]
+        text = soup.get_text()
+        paragraphs = text.split('\n\n')
+        for p in paragraphs:
+            text = p.strip()
+            if validate_paragraph(text):
+                text = process_paragraph_rough(text)
+                cleaned.append(text)
+
     return cleaned
 
 

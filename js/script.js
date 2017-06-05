@@ -96,8 +96,16 @@ var fbpage = Vue.component('fbpage', {
                 data = resp.data;
             }
 
+            function compare(a,b) {
+                if (a.shares_avg < b.shares_avg)
+                    return -1;
+                if (a.shares_avg > b.shares_avg)
+                    return 1;
+                return 0;
+            }
+
             this.page_name_displayed =     data.page_name_displayed;
-            this.clusters =                data.clusters;
+            this.clusters =                data.clusters.sort(compare).reverse();
             this.globalstats =             data.globalstats;
             console.log('Successfully loaded data for page ' + this.page_name_displayed);
         });

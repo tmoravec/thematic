@@ -8,8 +8,8 @@ from pprint import pprint
 import pickle
 
 
-TOKEN = 'EAACEdEose0cBAASbu0vKdMvKXbDO3mxgjHiQgKszYlBKieTMHzggHVwrsTKF4UrPZAZC12cs8ZBKYKFHZAExBsLkeKuyvaBZBT4PeI7eZBpFryOnUenVf3Cr4G0wewgxLgUHXOd8oNLCC40cJip5b3cewOxJIpqVBbfCl2CRs5AsZC04OkZC6BA34aoQZAI68tioZD'
-URL = 'https://graph.facebook.com/v2.8/{}?fields={}&access_token=' + TOKEN
+TOKEN = 'EAACEdEose0cBAJkERkG5Jy3plIGYBYqTMH6Oi1mpZBWimoGxm2qWHljZBQpNjsywCdX2ALqkSYBLetbmaDXW2uZBKslQ3JGMDn0ZBPPmsm8H30vKiVZCt32pme1VQXFUytpaPqdQkMLwaITTfZAVReQ0pkY8Cm60W3GEhZCZBZBcGJLg6wmULBW4FfTboGBUzrUoZD'
+URL = 'https://graph.facebook.com/v2.9/{}?fields={}&access_token=' + TOKEN
 
 
 def get_page(url, field_name):

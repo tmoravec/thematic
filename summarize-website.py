@@ -5,6 +5,11 @@ import time
 import re
 import string
 
+import matplotlib
+# Use a backend that doesn't require X server.
+matplotlib.use('Agg')
+from matplotlib import pyplot
+
 from bs4 import BeautifulSoup
 import requests
 
@@ -17,12 +22,14 @@ from nltk.tokenize.punkt import PunktSentenceTokenizer
 from nltk.corpus import stopwords
 
 from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.neighbors import kneighbors_graph
 from sklearn.cluster import AgglomerativeClustering
 from sklearn.metrics import silhouette_score
 from sklearn.metrics.pairwise import linear_kernel
 from sklearn.decomposition import TruncatedSVD
 from sklearn.preprocessing import Normalizer
 from sklearn.pipeline import make_pipeline
+from sklearn.manifold import TSNE
 
 INTRODUCTION_SUMMARY_LENGTH = 2
 PAGE_SUMMARY_LENGTH = 4
@@ -50,6 +57,10 @@ def load_from_disk(file):
 
 
 def validate_paragraph(text):
+    """
+    Parsing HTML is notoriously tricky. This function does some very elementary
+    tests to check if the text given really could be a paragraph.
+    """
     if '{' in text:
         return False
 
@@ -65,7 +76,10 @@ def tokenize_sentences(text):
     return list(set(sentences))
 
 
-def process_paragraph_rough(text):
+def tokenize_tricky_fullstops(text):
+    """
+    Some abbreviations seem to confuse the tokenizer.
+    """
     text = re.sub('\[[^\]]*\]', '', text)
     text = re.sub('(č\.)\s+', 'č.', text)
     #text = re.sub('(s\.)\s+', 's.', text)
@@ -77,7 +91,11 @@ def process_paragraph_rough(text):
     return text
 
 
-def process_paragraph_fine(text):
+def prepare_paragraph(text):
+    """
+    Sanitize text. Remove punctuation, newlines, etc. Replace words with their
+    stems.
+    """
     translator = str.maketrans({key: None for key in string.punctuation})
     text = text.translate(translator)
 
@@ -96,9 +114,15 @@ def process_paragraph_fine(text):
     return ' '.join(no_numbers)
 
 
-def summarize(text, X=None):
-    # Accepts either text itself, or a list of sentences with corresponding
-    # LSA features.
+def summarize(text, X=None, max_length=10):
+    """
+    Do the summarization itself, using the PageRank algorithm.
+
+    Accepts either text itself, or a list of sentences with corresponding
+    LSA features.
+
+    Returns the most characteristic sentences.
+    """
 
     if not X:
         sentences = tokenize_sentences(text)
@@ -107,29 +131,29 @@ def summarize(text, X=None):
         sentences = text
 
     if len(sentences) > 2000:
+        # We don't have time for that...
         return ''
 
     similarity_graph = linear_kernel(X)
 
     nx_graph = nx.from_numpy_matrix(similarity_graph)
     scores = nx.pagerank_numpy(nx_graph)
-    most_characteristic = sorted(((scores[i], s) for i, s in enumerate(sentences)), reverse=True)
+    most_characteristic = sorted(((scores[i], s) for i, s in enumerate(sentences)),
+                                 reverse=True)
     most_characteristic = [x[1] for x in most_characteristic]
 
-    # Remove sentences that start with "this".
+    # Remove sentences that start with "this" and similar.
     cleaned = []
     for sentence in most_characteristic:
         skip_sentence = False
         words = sentence.split()
         for w in words[:3]:
-            if w.lower() in ['this', 'that']:
+            if w.lower() in ['this', 'that', 'thes']:
                 skip_sentence = True
         if not skip_sentence:
             cleaned.append(sentence)
 
-    if len(cleaned) > 10:
-        most_characteristic = cleaned[:10]
-    return most_characteristic
+    return cleaned[:max_length]
 
 
 def find_paragraphs(html):
@@ -140,17 +164,17 @@ def find_paragraphs(html):
     for p in paragraphs:
         text = p.get_text().strip()
         if validate_paragraph(text):
-            text = process_paragraph_rough(text)
+            text = tokenize_tricky_fullstops(text)
             cleaned.append(text)
 
     if not cleaned:
-        # No <p> tags.
+        # No <p> tags. Let's try \n\n.
         text = soup.get_text()
         paragraphs = text.split('\n\n')
         for p in paragraphs:
             text = p.strip()
             if validate_paragraph(text):
-                text = process_paragraph_rough(text)
+                text = tokenize_tricky_fullstops(text)
                 cleaned.append(text)
 
     return cleaned
@@ -193,10 +217,14 @@ def get_stopwords():
 
 
 def get_features_lsa(sentences):
+    """
+    The key feature of this tool. Preprocess the sentences using
+    the Latent Semantic Analysis.
+    """
     features = tfidf(sentences)
     min_dimensions = min(features.shape)
     if min_dimensions > 400:
-        svd_components = 120
+        svd_components = 80
     elif min_dimensions > 80:
         svd_components = int(min_dimensions / 2)
     else:
@@ -209,23 +237,37 @@ def get_features_lsa(sentences):
     else:
         lsa = normalizer
     X = lsa.fit_transform(features)
+
+    if np.ndarray != type(X):
+        X = X.toarray()
     return X
 
 
+def get_predictor(X, n_clusters):
+    """
+    The clustering predictor is used in different places, hence it's defined
+    only once.
+    """
+    knn_graph = kneighbors_graph(X, 5, include_self=False, n_jobs=-1)
+    return AgglomerativeClustering(n_clusters=n_clusters,
+                                   connectivity=knn_graph, linkage='ward',
+                                   affinity='euclidean')
+
+
 def best_number_clusters(X):
-    # Try to reduce difference between average and biggest component size
-    # In some cases this works great, in some cases maximizing silhouette_score
-    # would work better.
+    """
+    Figure out which number of clusters gives the best silhouette_score.
+    """
     scores = []
 
     print(time.ctime(), 'best_number_clusters. X.shape:', X.shape)
-    cluster_sizes = range(3, 6, 1)
+    cluster_counts = range(2, 5, 1)
     if max(X.shape) > 1000:
-        cluster_sizes = range(3, 9, 1)
+        cluster_counts = range(3, 9, 1)
 
     try:
-        for n in cluster_sizes:
-            predictor = AgglomerativeClustering(n_clusters=n, connectivity=None, linkage='ward', affinity='euclidean')
+        for n in cluster_counts:
+            predictor = get_predictor(X, n)
             labels = predictor.fit_predict(X)
 
             scores.append(silhouette_score(X, labels))
@@ -233,25 +275,13 @@ def best_number_clusters(X):
         pass
 
     index = scores.index(max(scores))
-    size = cluster_sizes[index]
-
-    return size
-
-
-def find_largest_cluster(labels):
-    counts = np.bincount(labels)
-    largest_cluster_size = 0
-    largest_cluster_index = 0
-    for i, c in enumerate(counts):
-        if c > largest_cluster_size:
-            largest_cluster_size = c
-            largest_cluster_index = i
-
-    return largest_cluster_index
+    return cluster_counts[index]
 
 
 def organize_clusters(paragraphs, labels, X):
-    # Order the clusters by average position of the sentence.
+    """
+    Order the clusters by average position of the sentence.
+    """
     clusters = []
     for public_label, label in sorted(enumerate(set(labels)), reverse=True):
         c = {}
@@ -269,30 +299,61 @@ def organize_clusters(paragraphs, labels, X):
     # Assuming that sentences talking about the same topic will be close
     # together in the text, we can sort the clusters by average
     # position of the sentences.
-    clusters = sorted(clusters, key=lambda c: c['size'], reverse=True)
+    def mean(L):
+        return float(sum(L) / max(len(L), 1))
+
+    clusters = sorted(clusters, key=lambda c: mean(c['positions']),
+                      reverse=True)
     return clusters
 
 
 def tfidf(sentences):
+    """
+    Turn the sentences into a matrix, using the Tf-Idf method.
+    """
     stop_words = get_stopwords()
-    sentences_processed = [process_paragraph_fine(p) for p in sentences]
+    sentences_processed = [prepare_paragraph(p) for p in sentences]
 
     min_df = 1 if len(sentences) <= 5 else 3
     max_df = 1 if len(sentences) <= 2 else 0.8
     vectorizer = TfidfVectorizer(stop_words=stop_words, max_features=None,
                                  ngram_range=(1, 5), norm='l2',
-                                 sublinear_tf=True, min_df=min_df, max_df=max_df)
+                                 sublinear_tf=True, min_df=min_df,
+                                 max_df=max_df)
     features = vectorizer.fit_transform(sentences_processed)
     return features
 
 
+def plot_clusters(features, labels):
+    """
+    Plots the "sentences" as "points" in 2D space. The "distances" are
+    the sentences "similarity", the closer together, the more similar.
+
+    Useful for debugging the clustering.
+    """
+    embedding = TSNE(2, init='pca')
+    d2 = embedding.fit_transform(features)
+
+    xs = [x[0] for x in d2]
+    ys = [x[1] for x in d2]
+
+    pyplot.scatter(xs, ys, c=labels, s=2, cmap='gist_ncar')
+    pyplot.axis('off')
+    pyplot.savefig('website.png', format='png', dpi=300, bbox_inches='tight')
+
+
 def clusterize(sentences):
+    """
+    Splits the sentences into several "groups", or "clusters".
+    The goal is to have more "similar" sentences within one cluster.
+    """
     X = get_features_lsa(sentences)
     n_clusters = best_number_clusters(X)
     print(time.ctime(), 'Best number of clusters: {}'.format(n_clusters))
-
-    predictor = AgglomerativeClustering(n_clusters=n_clusters, connectivity=None, linkage='ward', affinity='euclidean')
+    predictor = get_predictor(X, n_clusters)
     labels = predictor.fit_predict(X)
+
+    plot_clusters(X, labels)
     print(time.ctime(), 'Silhouette score:       {:.4f}'.format(silhouette_score(X, labels)))
 
     return organize_clusters(sentences, labels, X)
@@ -302,7 +363,6 @@ def main():
     if len(sys.argv) < 2:
         print('Usage: ./download-website.py <url or file>')
         sys.exit(1)
-
 
     if sys.argv[1].startswith('http'):
         html = download(sys.argv[1])
@@ -321,23 +381,26 @@ def main():
 
     # First result-paragraph is a summary of the first webpage-paragraph.
     summary = summarize(paragraphs[0])
-    if len(summary) > INTRODUCTION_SUMMARY_LENGTH:
-        summary = summary[:INTRODUCTION_SUMMARY_LENGTH]
+    summary = summary[:INTRODUCTION_SUMMARY_LENGTH]
+    print('Introduction')
+    print('============')
     print(' '.join(summary))
     print()
 
     # Second result-paragraph is a summary of the whole webpage
     summary = summarize(' '.join(sentences))
-    if len(summary) > PAGE_SUMMARY_LENGTH:
-        summary = summary[:PAGE_SUMMARY_LENGTH]
+    summary = summary[:PAGE_SUMMARY_LENGTH]
+    print('Summary')
+    print('=======')
     print(' '.join(summary))
     print()
 
     # Subsequent result-paragraphs operate on sentences.
+    print('Additional points')
+    print('=================')
     for c in clusters:
         summary = summarize(c['paragraphs'], c['features'])
-        if len(summary) > TOPIC_SUMMARY_LENGTH:
-            summary = summary[:TOPIC_SUMMARY_LENGTH]
+        summary = summary[:TOPIC_SUMMARY_LENGTH]
         print(' '.join(summary))
         print()
 
